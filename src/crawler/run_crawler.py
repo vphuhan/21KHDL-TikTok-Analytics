@@ -2,7 +2,13 @@ import subprocess
 import sys
 import time
 import os
-from yt_dlp import YoutubeDL
+
+def get_python_executable():
+    """Get the correct Python executable path"""
+    if sys.platform == "win32":
+        # Use the same Python interpreter that's running this script
+        return sys.executable
+    return "python"
 
 def run_crawler(keyword, limit):
     """
@@ -11,18 +17,24 @@ def run_crawler(keyword, limit):
     """
     try:
         print(f"\nStarting crawler for keyword: {keyword}")
-
+        
         # Set environment variable for UTF-8 encoding
         my_env = os.environ.copy()
         my_env["PYTHONIOENCODING"] = "utf-8"
-
+        
         # On Windows, force the console to use UTF-8
         if sys.platform == "win32":
             my_env["PYTHONUTF8"] = "1"
-
+        
+        # Get the absolute path to crawler.py
+        current_dir = os.path.dirname(os.path.abspath(__file__))
+        crawler_path = os.path.join(current_dir, "crawler.py")
+        
+        # Use the correct Python executable
+        python_exe = get_python_executable()
+        
         process = subprocess.run(
-            # * Change path to the crawler script
-            ['python', 'src/crawler/crawler.py', keyword, str(limit)],
+            [python_exe, crawler_path, keyword, str(limit)],
             check=True,
             text=True,
             capture_output=True,
@@ -39,6 +51,7 @@ def run_crawler(keyword, limit):
         return False
     except Exception as e:
         print(f"Unexpected error for {keyword}: {e}")
+        print(f"Command tried to run: {python_exe} {crawler_path} {keyword} {limit}")
         return False
 
 
