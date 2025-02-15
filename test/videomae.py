@@ -72,7 +72,7 @@ def main():
     import numpy as np
 
     # Load the features
-    features = np.load("video_features.npy")
+    features = np.load("C:\Users\nguye\OneDrive\Tài liệu\GitHub\21KHDL-TikTok-Analytics\test\video_features.npy")
 
     # Print the shape and content
     print("Feature shape:", features.shape)  # Should be (1, 768)
