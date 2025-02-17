@@ -1,6 +1,19 @@
+- Các cột cần trích xuất:
+  - Audio-to-text
+  - Language detector
+  - Description
+
 # 21KHDL-TikTok-Analytics
 
-- Lịch họp cố định: 15h T3 hàng tuần
+- Lịch họp cố định:
+  - 15h T3 hàng tuần
+  - 15h T6 hàng tuần
+
+# TODO: Đến 15h T3, ngày 18/02/2025
+
+- Tín: Tạo thành file CSV, viết bảng mô tả cho các cột trong 1 file notebook riêng
+- Phát: Tách audio từ video, chuyển audio thành text
+- Lực: tui làm data image caption cho các frame trong folder video
 
 # TODO: Đến 15h CN, ngày 09/02/2025
 
