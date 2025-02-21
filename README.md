@@ -9,6 +9,13 @@
   - 15h T3 hàng tuần
   - 15h T6 hàng tuần
 
+# TODO: Đến 15h T3, ngày 25/02/2025
+
+1. Phát: Trình bày data pipeline, kết quả thu thập dữ liệu (mẫu), khai thác được gì từ video
+2. Hãn: Trình bày hiện tại có bao nhiêu mẫu dữ liệu rồi (100 noxscore, 1 tháng trở lại) => 1000 mẫu, 100 trường
+3. Tín, Lực, Hiếu: Trình bày phân tích dữ liệu, cleaning trên text, cắt frame để xem hoạt ảnh của video có ảnh hưởng lượt view không
+4. Tiếp tục tìm hiểu về cách trích xuất nội dung từ video
+
 # TODO: Đến 15h T6, ngày 21/02/2025
 
 - Trình bày data pipeline (code chạy được), kết quả thu thập dữ liệu, khai thác được gì từ video

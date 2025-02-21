@@ -96,9 +96,17 @@ if __name__ == "__main__":
     # Example usage
 
     # ********** Phase 1: Load JSON files into a DataFrame **********
-    # Load JSON files into a DataFrame
+    # List all JSON files in the directory
     json_files = list_file_types("data/raw", ".json")
-    video_info_df = load_json_files_into_df(json_files)
+    # Split this list to user_info and video_info
+    video_json_files = [
+        file for file in json_files if file.endswith("/videos_info.json")]
+    user_json_files = [
+        file for file in json_files if file.endswith("/user_info.json")]
+
+    # Load JSON files into a DataFrame
+    video_info_df = load_json_files_into_df(video_json_files)
+    user_info_df = load_json_files_into_df(user_json_files)
 
     # Convert video.id to string
     video_info_df["video.id"] = video_info_df["video.id"].astype(str)
@@ -120,11 +128,13 @@ if __name__ == "__main__":
     # Merge "video_info_df" and "audio_text_df" on "author_name" and "video_id"
     # This action will use left join to keep all rows in "video_info_df"
     # and append column "audio_to_text" to the right of "video_info_df"
-    df = pd.merge(left=video_info_df, right=audio_text_df, how="left",
-                  left_on="video.id", right_on="video_id")
+    video_info_df = pd.merge(left=video_info_df, right=audio_text_df, how="left",
+                             left_on="video.id", right_on="video_id")
 
     # Drop "video_id" column because it is duplicated
-    df = df.drop(columns=["video_id"])
+    video_info_df = video_info_df.drop(columns=["video_id"])
 
-    # Save DataFrame to CSV file
-    df.to_csv("data/interim/video_info.csv", index=False)
+    # ********** Phase 4: Save DataFrame to CSV file **********
+    video_info_df.to_csv("data/interim/video_info.csv", index=False)
+    user_info_df.to_csv("data/interim/user_info.csv", index=False)
+    print("Done")
