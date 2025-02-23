@@ -2,6 +2,7 @@ import subprocess
 import sys
 import time
 import os
+<<<<<<< HEAD
 
 def get_python_executable():
     """Get the correct Python executable path"""
@@ -9,6 +10,9 @@ def get_python_executable():
         # Use the same Python interpreter that's running this script
         return sys.executable
     return "python"
+=======
+from yt_dlp import YoutubeDL
+>>>>>>> origin/vmphat
 
 def run_crawler(keyword, limit):
     """

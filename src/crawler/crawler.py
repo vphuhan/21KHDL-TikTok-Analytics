@@ -18,8 +18,15 @@ def get_current_timestamp():
 
 def is_within_range(timestamp, days=0, weeks=0, months=0):
     now = time.time()  # Current Unix timestamp
+<<<<<<< HEAD
     seconds_range = (days * 24 * 60 * 60) + (weeks * 7 * 24 *
                                              60 * 60) + (months * 30 * 24 * 60 * 60)
+=======
+    seconds_range = \
+        (days * 24 * 60 * 60) \
+        + (weeks * 7 * 24 * 60 * 60) \
+        + (months * 30 * 24 * 60 * 60)
+>>>>>>> origin/vmphat
     past_limit = now - seconds_range  # Calculate the timestamp limit
 
     return timestamp >= int(past_limit)
@@ -81,7 +88,11 @@ async def get_info_users(usernames, days=0, weeks=0, months=0, download_video=Fa
     async with TikTokApi() as api:
         await api.create_sessions(headless=False, ms_tokens=[ms_token], num_sessions=1, sleep_after=3, browser=os.getenv("TIKTOK_BROWSER", "chromium"))
         for username in usernames:
+<<<<<<< HEAD
             user = api.user(username)
+=======
+            user = api.user(username=username)
+>>>>>>> origin/vmphat
             user_data = await user.info()
             user_path = os.path.join(DATA_DIR, username)
             os.makedirs(user_path, exist_ok=True)
@@ -128,13 +139,27 @@ async def get_info_users(usernames, days=0, weeks=0, months=0, download_video=Fa
 
 
 if __name__ == "__main__":
+<<<<<<< HEAD
     try:
         with open(f"{USER_LIST_DIR}/top_100_noxscore_usernames.csv", "r", encoding="utf-8") as file:
+=======
+    # Print current working directory
+    print(f"Current working directory: {os.getcwd()}")
+
+    try:
+        with open(f"{USER_LIST_DIR}/final_usernames.txt", "r", encoding="utf-8") as file:
+>>>>>>> origin/vmphat
             reader = csv.reader(file)
             usernames = [row[0] for row in reader]  # Convert to a list
     except Exception:
         usernames = []
 
+<<<<<<< HEAD
+=======
+    print(f"Number of usernames: {len(usernames)}")
+    # print(usernames)
+
+>>>>>>> origin/vmphat
     start_time = time.time()
     asyncio.run(get_info_users(usernames, months=1))
     end_time = time.time()
