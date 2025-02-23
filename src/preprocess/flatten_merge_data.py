@@ -93,11 +93,18 @@ def load_json_files_into_df(file_list: List[str]) -> pd.DataFrame:
 
 
 if __name__ == "__main__":
-    # Example usage
+    # Print current working directory
+    print(f"Current working directory: {os.getcwd()}")
 
     # ********** Phase 1: Load JSON files into a DataFrame **********
     # List all JSON files in the directory
     json_files = list_file_types("data/raw", ".json")
+
+    # Check if there is any JSON file
+    if len(json_files) == 0:
+        print(">> There is no JSON file in the directory.")
+        exit()
+
     # Split this list to user_info and video_info
     video_json_files = [
         file for file in json_files if file.endswith("/videos_info.json")]
@@ -137,4 +144,5 @@ if __name__ == "__main__":
     # ********** Phase 4: Save DataFrame to CSV file **********
     video_info_df.to_csv("data/interim/video_info.csv", index=False)
     user_info_df.to_csv("data/interim/user_info.csv", index=False)
-    print("Done")
+
+    print(">> Finish flattening and merging data.")

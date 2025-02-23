@@ -50,10 +50,18 @@ def extract_audio(mp4_file: str) -> None:
 
 
 if __name__ == "__main__":
+    # Print current working directory
+    print(f"Current working directory: {os.getcwd()}")
+
     # Example usage
     directory_path: str = "data/raw"
     mp4_files: List[str] = list_file_types(
         directory_path, file_extension=".mp4")
+
+    # Check if the directory contains any mp4 files
+    if not mp4_files:
+        print("No mp4 files found in the directory.")
+        exit()
 
     # Create a pool of workers
     pool = multiprocessing.Pool(processes=multiprocessing.cpu_count())
@@ -66,3 +74,5 @@ if __name__ == "__main__":
     # Close the pool and wait for the work to finish
     pool.close()
     pool.join()
+
+    print(">> Audio extraction completed.")

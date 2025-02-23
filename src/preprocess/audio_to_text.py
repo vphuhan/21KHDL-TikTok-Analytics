@@ -92,9 +92,17 @@ def load_json_files_into_df(directory: str) -> pd.DataFrame:
 
 
 if __name__ == "__main__":
+    # Print current working directory
+    print(f"Current working directory: {os.getcwd()}")
+
     # Example usage
     wav_files: List[str] = list_file_types(
         directory="data/raw", file_extension=".wav")
+
+    # Check if the directory contains any wav files
+    if not wav_files:
+        print("No wav files found in the directory.")
+        exit()
 
     # Create a pool of workers
     pool = multiprocessing.Pool(processes=multiprocessing.cpu_count())
@@ -113,3 +121,5 @@ if __name__ == "__main__":
 
     # Save the DataFrame to a CSV file
     df.to_csv("data/interim/audio_text.csv", index=False)
+
+    print(">> Audio to text conversion completed.")
