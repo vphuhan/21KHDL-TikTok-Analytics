@@ -22,7 +22,6 @@ with DAG(
     # Define the tasks
     task_1 = BashOperator(
         task_id="crawl_tiktok_data",
-        # bash_command="cd /mnt/d/__AoIDA-Project/src/crawler && python crawler.py",
         bash_command="cd /mnt/d/__AoIDA-Project && python src/crawler/crawler.py",
     )
     task_2 = BashOperator(
