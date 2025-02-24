@@ -6,3 +6,11 @@ logs/*
 development/*
 # Ignore all videos
 *.mp4
+# Ignore all audio files
+*.wav
+# Ignore all files in the temp folder
+temp/*
+# Ignore all intermediate JSON files when transcripting audio
+data/interim/audio_text_list/*
+# Ignore all .DS_Store files
+.DS_Store

@@ -1,6 +1,48 @@
+- Các cột cần trích xuất:
+  - Audio-to-text
+  - Language detector
+  - Description
+
 # 21KHDL-TikTok-Analytics
 
-- Lịch họp cố định: 15h T3 hàng tuần
+- Lịch họp cố định:
+  - 15h T3 hàng tuần
+  - 15h T6 hàng tuần
+
+# TODO: Đến 15h T6, ngày 28/02/2025
+
+- Tập trung tìm hiểu về danh sách các TikToker trong lĩnh vực ẩm thực
+
+# TODO: Đến 15h T3, ngày 25/02/2025
+
+1. Phát: Trình bày data pipeline, kết quả thu thập dữ liệu (mẫu), khai thác được gì từ video
+2. Hãn: Trình bày hiện tại có bao nhiêu mẫu dữ liệu rồi (100 noxscore, 1 tháng trở lại) => 1000 mẫu, 100 trường
+3. Tín, Lực, Hiếu: Trình bày phân tích dữ liệu, cleaning trên text, cắt frame để xem hoạt ảnh của video có ảnh hưởng lượt view không
+4. Tiếp tục tìm hiểu về cách trích xuất nội dung từ video
+
+# TODO: Đến 15h T6, ngày 21/02/2025
+
+- Trình bày data pipeline (code chạy được), kết quả thu thập dữ liệu, khai thác được gì từ video
+  - Data pipeline: Phát (Lấy dữ liệu, trích xuất audio, audio2text, flatten JSON)
+  - Thu thập dữ liệu: Hãn
+- Trực quan hóa dữ liệu (trình bày một mẫu dashboard đơn giản), phân tích dữ liệu, và rút ra insights
+  - Dữ liệu mẫu: https://github.com/vphuhan/21KHDL-TikTok-Analytics/blob/vmphat/data/interim/video_info.csv
+  - Dữ liệu chính thức: Phát upload sau
+  - Dùng Plotly + Streamlit
+  - Lực, Tín và Hiếu
+- Tìm thêm TikToker trong các lĩnh vực: Lấy ~20 người TikToker, nên chọn người Việt, nên chọn người nổi tiếng
+  - Công nghệ: Tín
+  - Ẩm thực (Food reviewer): Hiếu
+  - Thể dục thể thảo, gym, đời sống, thời trang, trang điểm, làm đẹp: Hãn
+  - Việc làm, viết CV, hướng dẫn học (ngành giáo dục): Lực
+  - Du lịch, khám phá: Phát
+    => Lấy: username (ví dụ erikkkofficial, không lấy ký tự @) rồi bỏ vào code để lấy video sau.
+
+# TODO: Đến 15h T3, ngày 18/02/2025
+
+- Tín: Tạo thành file CSV, viết bảng mô tả cho các cột trong 1 file notebook riêng
+- Phát: Tách audio từ video, chuyển audio thành text
+- Lực: tui làm data image caption cho các frame trong folder video
 
 # TODO: Đến 15h CN, ngày 09/02/2025
 
