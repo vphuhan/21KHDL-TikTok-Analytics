@@ -1,3 +1,8 @@
+"""
+airflow webserver => localhost:8080
+airflow scheduler
+"""
+
 from datetime import datetime, timedelta
 from airflow import DAG
 from airflow.operators.bash import BashOperator

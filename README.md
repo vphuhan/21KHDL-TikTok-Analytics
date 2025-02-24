@@ -9,6 +9,10 @@
   - 15h T3 hàng tuần
   - 15h T6 hàng tuần
 
+# TODO: Đến 15h T6, ngày 28/02/2025
+
+- Tập trung tìm hiểu về danh sách các TikToker trong lĩnh vực ẩm thực
+
 # TODO: Đến 15h T3, ngày 25/02/2025
 
 1. Phát: Trình bày data pipeline, kết quả thu thập dữ liệu (mẫu), khai thác được gì từ video
