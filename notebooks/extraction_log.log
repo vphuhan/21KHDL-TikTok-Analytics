@@ -16847,3 +16847,12 @@ re.error: bad escape \p at position 2
     raise source.error('bad escape %s' % escape, len(escape))
 re.error: bad escape \p at position 2
 
+2025-03-08 12:15:57,194 - INFO - Saved 282 foods to extracted_data/foods_list.json
+2025-03-08 12:15:57,195 - INFO - Saved 93 locations to extracted_data/locations_list.json
+2025-03-08 12:15:57,201 - INFO - Saved intermediate results to extracted_data/processed_data_batch_1.csv after batch 1/1
+2025-03-08 12:15:57,203 - INFO - Extraction complete. Found 282 unique foods and 93 unique locations.
+2025-03-08 12:15:57,203 - INFO - Bootstrapping to expand entity lists...
+2025-03-08 12:16:16,540 - INFO - Added 461 potential foods from bootstrapping
+2025-03-08 12:16:16,548 - INFO - Saved 692 foods to extracted_data/foods_list.json
+2025-03-08 12:16:16,549 - INFO - Saved 93 locations to extracted_data/locations_list.json
+2025-03-08 12:16:16,557 - INFO - Processing complete. Results saved to 'extracted_data' directory.
