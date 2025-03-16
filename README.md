@@ -6,8 +6,40 @@
 # 21KHDL-TikTok-Analytics
 
 - Lịch họp cố định:
-  - 15h T3 hàng tuần
-  - 15h T6 hàng tuần
+  - 14h T3 hàng tuần
+  - 14h T6 hàng tuần
+
+# TODO: 14h T6, 14/03/2025
+
+- Team tiền xử lý dữ liệu: Phát, Hãn, Tín
+- Team phân tích dữ liệu và rút insights: Lực, Mỹ, Tín, Phát
+
+  - Dùng thư viện trực quan hóa dữ liệu có thể tương tác được (ví dụ: Plotly, v.v.)
+  - **Phân tích theo video** (trọng tâm): Mỹ
+    - Phân tích tương quan:
+      - số vs số => scatter Plot
+      - số vs phân loại => bar chart, heatmap
+  - Phân tích theo user (sẽ group by userId trong tập dữ liệu video): Lực
+
+  `*.save_fig() => .png/.jpg => gemini => rút insights`
+
+- Team làm web app để tạo kịch bản: Hiếu, Hãn
+
+# TODO: Đến 15h T3, ngày 11/03/2025
+
+- Lọc dữ liệu từ transcription, lọc lại các cột dữ liệu trong video_info
+- Trình bày thu thập + xử lý dữ liệu + công nghệ bên dưới:
+  - Tên mô hình + Tên tác vụ + Số lượng tham số
+
+# TODO: Đến 15h T3, ngày 04/03/2025
+
+- Thu thập dữ liệu: Hãn
+- Trích xuất nội dung thêm từ video:
+  - Phát: Tìm hiểu cách xử lý video mà không cần tải xuống
+
+# TODO: Đến 15h T6, ngày 28/02/2025
+
+- Tập trung tìm hiểu về danh sách các TikToker trong lĩnh vực ẩm thực
 
 # TODO: Đến 15h T3, ngày 25/02/2025
 
@@ -31,7 +63,7 @@
   - Ẩm thực (Food reviewer): Hiếu
   - Thể dục thể thảo, gym, đời sống, thời trang, trang điểm, làm đẹp: Hãn
   - Việc làm, viết CV, hướng dẫn học (ngành giáo dục): Lực
-  - Du lịch, khám phá: Phát
+  - Du lịch, khám phá: Phát  
     => Lấy: username (ví dụ erikkkofficial, không lấy ký tự @) rồi bỏ vào code để lấy video sau.
 
 # TODO: Đến 15h T3, ngày 18/02/2025

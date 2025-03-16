@@ -7,7 +7,7 @@ author: id, uniqueId, nickname, signature, createTime, verified
 music: id, title, duration, original, isCopyrighted
 challenges (có vẻ là in4 của hashtag): id, title, desc
 stats: diggCount, shareCount, commentCount, playCount, collectCount
-statsV2 (là stats nhưng string và có thêm 'repostCoun't)
+statsV2 (là stats nhưng string và có thêm 'repostCount')
 textExtra (cũng liên quan đến hashtag)
 authorStats
 shareEnabled
