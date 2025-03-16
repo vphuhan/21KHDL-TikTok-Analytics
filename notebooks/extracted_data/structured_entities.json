@@ -4,10 +4,10 @@
     "author_id": 7201903893503116294,
     "extracted_entities": {
       "foods": [
-        "sữa chua",
+        "sữa chua nếp cẩm",
         "thịt",
         "sữa",
-        "sữa chua nếp cẩm"
+        "sữa chua"
       ],
       "locations": [
         "bình thạnh"
@@ -22,26 +22,26 @@
     "author_id": 7201903893503116294,
     "extracted_entities": {
       "foods": [
-        "sò lông mỡ",
+        "ốc muộn nướng tiêu",
+        "thịt",
         "gà",
-        "ốc",
-        "đậu hủ",
-        "tôm tươi",
+        "ốc bưu nướng",
+        "ốc tươi",
         "ốc hương hấp",
+        "ốc hương",
+        "ốc",
         "ốc khế",
         "đậu hủ giòn béo",
-        "ốc tươi",
-        "thịt",
-        "ốc muộn nướng tiêu",
-        "ốc bưu nướng",
-        "ốc hương"
+        "tôm tươi",
+        "sò lông mỡ",
+        "đậu hủ"
       ],
       "locations": [
         "thủ đức"
       ],
       "tastes": [
-        "hủ giòn béo",
-        "giòn béo áo"
+        "giòn béo áo",
+        "hủ giòn béo"
       ]
     }
   },
@@ -50,23 +50,23 @@
     "author_id": 7201903893503116294,
     "extracted_entities": {
       "foods": [
-        "gà",
-        "bò",
-        "ốc",
-        "cá",
-        "măng",
-        "thịt gà",
-        "lẩu măng",
-        "rau",
         "thịt",
-        "cá tai tượng"
+        "gà",
+        "rau",
+        "ốc",
+        "cá tai tượng",
+        "thịt gà",
+        "cá",
+        "lẩu măng",
+        "bò",
+        "măng"
       ],
       "locations": [
         "củ chi"
       ],
       "tastes": [
-        "măng chua phần",
-        "và thơm lắm"
+        "và thơm lắm",
+        "măng chua phần"
       ]
     }
   },
@@ -89,23 +89,23 @@
     "author_id": 7201903893503116294,
     "extracted_entities": {
       "foods": [
-        "hủ tiếu mì bò",
-        "gà",
-        "sò đồng giá",
-        "bò",
-        "ốc",
-        "cá",
-        "đậu hủ",
-        "tôm đại dương",
-        "tôm thịt",
-        "tôm",
-        "hủ tiếu mì sườn",
-        "đậu hủ kì",
         "tôm đại dương chân gà",
+        "tôm thịt",
+        "gà",
         "thịt",
-        "gà tàu",
+        "đậu hủ kì",
+        "hủ tiếu mì bò",
         "hủ tiếu mì hải sản",
-        "hủ tiếu mì sườn há"
+        "tôm",
+        "ốc",
+        "hủ tiếu mì sườn",
+        "tôm đại dương",
+        "sò đồng giá",
+        "cá",
+        "gà tàu",
+        "hủ tiếu mì sườn há",
+        "đậu hủ",
+        "bò"
       ],
       "locations": [],
       "tastes": [
@@ -119,18 +119,18 @@
     "author_id": 7201903893503116294,
     "extracted_entities": {
       "foods": [
-        "thịt sông khói",
-        "gà",
-        "sữa",
-        "bò",
-        "ốc",
-        "cá",
-        "thịt bò tươi",
-        "bò tươi",
-        "thịt",
         "thịt bò",
+        "gà",
+        "thịt",
         "thịt nguội sông khói",
-        "kem sữa"
+        "ốc",
+        "kem sữa",
+        "thịt sông khói",
+        "thịt bò tươi",
+        "cá",
+        "bò tươi",
+        "sữa",
+        "bò"
       ],
       "locations": [],
       "tastes": [
@@ -144,13 +144,13 @@
     "extracted_entities": {
       "foods": [
         "gà",
-        "bò",
-        "cá",
-        "bò bò",
         "bò vàng",
-        "bò bóp",
         "gỏi bò bóp",
-        "nấm"
+        "nấm",
+        "bò bò",
+        "bò bóp",
+        "cá",
+        "bò"
       ],
       "locations": [
         "bình thạnh"
@@ -165,32 +165,32 @@
     "author_id": 7201903893503116294,
     "extracted_entities": {
       "foods": [
-        "vịt lậu",
-        "ốc trứng muối",
-        "thịt ngọt nước",
         "gà",
-        "sữa",
-        "kem",
-        "ốc",
-        "cá",
+        "thịt",
+        "sữa phường",
+        "thịt ngọt nước",
+        "vịt lậu",
+        "ốc tươi",
+        "ốc hương",
+        "tôm",
+        "ốc trứng muối",
         "ốc trứng muối bạn",
         "ốc hương xốt trứng muối",
-        "tôm",
-        "ốc tươi",
-        "thịt",
-        "ốc trứng muối trứng",
-        "sữa phường",
-        "ốc hương",
-        "bánh mì"
+        "ốc",
+        "bánh mì",
+        "kem",
+        "cá",
+        "sữa",
+        "ốc trứng muối trứng"
       ],
       "locations": [
+        "phú nhuận gò",
         "tân bình",
-        "phú nhuận",
-        "phú nhuận gò"
+        "phú nhuận"
       ],
       "tastes": [
-        "trái thơm đây",
         "thịt ngọt nước",
+        "trái thơm đây",
         "ốc tươi 100"
       ]
     }
@@ -200,27 +200,27 @@
     "author_id": 7201903893503116294,
     "extracted_entities": {
       "foods": [
-        "heo",
-        "rau trước",
-        "rau",
+        "gà",
+        "bò tươi thái",
         "xôi quanh",
+        "heo",
+        "cá",
+        "bò mềm",
+        "thịt bò",
+        "thịt",
+        "rau trước",
+        "bò mắm ruốt",
+        "rau",
         "thịt tươi",
         "lẩu bò",
-        "bò",
-        "thịt đông lạnh",
-        "gà",
-        "thịt bò tươi thái",
-        "thịt bò tươi",
         "cơm miếng bò thai",
-        "thịt",
-        "thịt bò",
-        "lẩu tái nhúng",
-        "cá",
-        "bò mắm ruốt",
-        "bò mềm",
+        "thịt đông lạnh",
+        "thịt bò tươi thái",
         "bò tươi",
-        "bò tươi thái",
-        "bò thai"
+        "bò thai",
+        "thịt bò tươi",
+        "bò",
+        "lẩu tái nhúng"
       ],
       "locations": [],
       "tastes": [
@@ -233,25 +233,297 @@
     "author_id": 7201903893503116294,
     "extracted_entities": {
       "foods": [
-        "sò ốc",
         "gà",
-        "bò",
-        "ốc",
-        "cá",
-        "tôm hôm",
-        "bò bò",
-        "tôm",
-        "cơm hùm",
-        "bò nướng tảng",
-        "ốc boulot",
         "cơm",
-        "bò bên quán"
+        "tôm",
+        "tôm hôm",
+        "bò nướng tảng",
+        "ốc",
+        "bò bên quán",
+        "sò ốc",
+        "bò bò",
+        "ốc boulot",
+        "cá",
+        "bò",
+        "cơm hùm"
       ],
       "locations": [
         "khuến"
       ],
       "tastes": [
         "muốn ngon bỏ"
+      ]
+    }
+  },
+  {
+    "video_id": 7313049400782212354,
+    "author_id": 7201903893503116294,
+    "extracted_entities": {
+      "foods": [
+        "bắp",
+        "gà sốt cay",
+        "gà",
+        "chả cá",
+        "ốc",
+        "gà truyền thống",
+        "gà bên ngoài",
+        "gà rán rẻ",
+        "gà rán rẻ nhất",
+        "cá",
+        "gà bắp"
+      ],
+      "locations": [],
+      "tastes": [
+        "nó mềm lắm"
+      ]
+    }
+  },
+  {
+    "video_id": 7312743828501335298,
+    "author_id": 7201903893503116294,
+    "extracted_entities": {
+      "foods": [
+        "bắp",
+        "thịt",
+        "chả cá",
+        "gà",
+        "cơm",
+        "súp thịt heo bếp",
+        "thịt heo cơm",
+        "heo trưa",
+        "heo",
+        "cơm thịt heo",
+        "heo bếp",
+        "heo cơm",
+        "thịt heo bếp",
+        "bún",
+        "cá",
+        "thịt heo",
+        "súp",
+        "bắp nhà"
+      ],
+      "locations": [],
+      "tastes": [
+        "chiên giòn súp"
+      ]
+    }
+  },
+  {
+    "video_id": 7312372691892276481,
+    "author_id": 7201903893503116294,
+    "extracted_entities": {
+      "foods": [
+        "gà",
+        "trà chanh bất kỳ",
+        "trà thanh long giả tay",
+        "trà chanh trà thanh long",
+        "trà chanh",
+        "trà",
+        "trà chanh giả tây"
+      ],
+      "locations": [],
+      "tastes": [
+        "là ngon không",
+        "là thơm chưa"
+      ]
+    }
+  },
+  {
+    "video_id": 7312013516389600514,
+    "author_id": 7201903893503116294,
+    "extracted_entities": {
+      "foods": [
+        "lẩu",
+        "thịt",
+        "gà",
+        "thịt mỡ tươi chiên",
+        "lẩu cá",
+        "cá bên chị",
+        "gà khô lá chanh",
+        "cá",
+        "bò",
+        "bò khô gà khô"
+      ],
+      "locations": [
+        "thuế tiền",
+        "thuế tiền chị"
+      ],
+      "tastes": []
+    }
+  },
+  {
+    "video_id": 7311626008677993729,
+    "author_id": 7201903893503116294,
+    "extracted_entities": {
+      "foods": [
+        "thịt bò",
+        "thịt",
+        "cơm",
+        "súp",
+        "kem béo ngậy",
+        "kem",
+        "tôm",
+        "heo",
+        "súp tôm",
+        "cá trê chiên",
+        "sữa bên cạnh",
+        "kem dừa",
+        "cá",
+        "sữa",
+        "bò",
+        "kem trái dừa"
+      ],
+      "locations": [],
+      "tastes": [
+        "mà ngon lắm",
+        "mặn ngọt cùng",
+        "vị béo từ",
+        "trái thơm súp",
+        "và thanh hơn"
+      ]
+    }
+  },
+  {
+    "video_id": 7311301692501331202,
+    "author_id": 7201903893503116294,
+    "extracted_entities": {
+      "foods": [
+        "thịt",
+        "gà",
+        "rau",
+        "cơm",
+        "gà ngon",
+        "heo",
+        "đậu hủ kho thịt",
+        "cơm siêu to khổng lồ",
+        "cá",
+        "đậu hủ",
+        "bò"
+      ],
+      "locations": [],
+      "tastes": [
+        "đen ngon quá"
+      ]
+    }
+  },
+  {
+    "video_id": 7311180210135747842,
+    "author_id": 7201903893503116294,
+    "extracted_entities": {
+      "foods": [
+        "thịt bò anh",
+        "gà",
+        "bò kho xương ống",
+        "lẩu bò kho",
+        "cá",
+        "thịt bò",
+        "thịt",
+        "nấm",
+        "lẩu bò kho xương",
+        "thịt bò thịt bò",
+        "lẩu",
+        "rau",
+        "lẩu bò",
+        "bò anh",
+        "trà đá",
+        "bò kho xương ống nha",
+        "bò kho riêng",
+        "bò kho",
+        "bò thịt bò anh",
+        "bò",
+        "trà"
+      ],
+      "locations": [],
+      "tastes": [
+        "nó mềm hơn",
+        "nó thơm hơn"
+      ]
+    }
+  },
+  {
+    "video_id": 7310882154475556097,
+    "author_id": 7201903893503116294,
+    "extracted_entities": {
+      "foods": [
+        "gà",
+        "trà sữa alisan",
+        "trà",
+        "sữa alisan",
+        "trà cây cây nhưng mà",
+        "kem",
+        "trà sữa",
+        "trà trà",
+        "cá",
+        "sữa"
+      ],
+      "locations": [],
+      "tastes": [
+        "là thơm và",
+        "nó béo mịn"
+      ]
+    }
+  },
+  {
+    "video_id": 7310814812102069506,
+    "author_id": 7201903893503116294,
+    "extracted_entities": {
+      "foods": [
+        "lẩu",
+        "thịt bò",
+        "thịt",
+        "gà",
+        "thịt dê mềm",
+        "thịt bên ngoài",
+        "thịt dê tươi nhưng mà",
+        "heo",
+        "thịt kiểu mông cổ",
+        "bò kiểu mông cổ",
+        "thịt dê tươi",
+        "cá",
+        "thịt bò kiểu mông",
+        "bò",
+        "thịt dê"
+      ],
+      "locations": [],
+      "tastes": [
+        "dê mềm ta",
+        "dê tươi và"
+      ]
+    }
+  },
+  {
+    "video_id": 7310517399583804673,
+    "author_id": 7201903893503116294,
+    "extracted_entities": {
+      "foods": [
+        "gà",
+        "phở bò",
+        "kem",
+        "tôm",
+        "heo",
+        "bún riêu",
+        "thịt bàn",
+        "cá",
+        "bún",
+        "thịt",
+        "canh cải thịt",
+        "kem dừa",
+        "lẩu",
+        "rau",
+        "ốc",
+        "cơm",
+        "rau rừng",
+        "cháo mực đứa",
+        "cà phê",
+        "thịt kho tộ",
+        "tôm mũ",
+        "bò"
+      ],
+      "locations": [
+        "nhà bè"
+      ],
+      "tastes": [
+        "bán ngon mà"
       ]
     }
   }
