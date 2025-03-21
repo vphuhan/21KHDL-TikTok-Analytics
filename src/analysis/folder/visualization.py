@@ -2,13 +2,8 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
-import ast
 
-# Function to load data
-def load_data(file_path):
-    df = pd.read_csv(file_path)
-    df['hashtags'] = df['hashtags'].apply(lambda x: x.split(',') if isinstance(x, str) and x.strip() else [])
-    return df
+
 
 # Hashtag Engagement
 # Function to analyze hashtag engagement
@@ -103,7 +98,7 @@ def plot_hashtag_trends(df, time_agg="Daily", top_n=5):
     trend_df = pd.DataFrame(trend_data)
     
     # Get top trending hashtags
-    top_hashtags = trend_df.groupby("hashtag")["engagement"].sum().nlargest(top_n).index
+    top_hashtags = trend_df.groupby("hashtag", observed=False)["engagement"].sum().nlargest(top_n).index
     trend_df = trend_df[trend_df["hashtag"].isin(top_hashtags)]
 
     # Plot line chart
@@ -121,7 +116,7 @@ def analyze_hashtag_count_effect(df):
     labels = ['1-2', '3-5', '6-8', '9-12', '13-15', '16-20', '21-30', '30+']
     df['hashtag_group'] = pd.cut(df['num_hashtags'], bins=bins, labels=labels, right=False)
 
-    hashtag_effect = df.groupby(['hashtag_group'], observed=True).agg(
+    hashtag_effect = df.groupby(['hashtag_group'], observed=False).agg(
         total_views=('statsV2.playCount', 'sum'),
         total_likes=('statsV2.diggCount', 'sum'),
         total_shares=('statsV2.shareCount', 'sum'),
@@ -133,7 +128,7 @@ def analyze_hashtag_count_effect(df):
 
 # Function to get top hashtags by group
 def get_top_hashtags_by_group(df, top_n=5):
-    hashtag_groups = df.groupby('hashtag_group')
+    hashtag_groups = df.groupby('hashtag_group', observed=False)
     top_hashtags_list = []
     
     for group, group_df in hashtag_groups:
@@ -203,6 +198,103 @@ def plot_interactive_hashtag_analysis(hashtag_effect_df, top_hashtags_df):
         xaxis2=dict(categoryorder="total descending"),  # ✅ Dynamic sorting applied
         legend=dict(itemclick="toggle", itemdoubleclick="toggleothers")  # 🔥 Fully interactive legend
     )
+
+    return fig
+
+# Video Duration Analysis - Load & Categorize
+def categorize_video_duration(df):
+    bins = [0, 10, 30, 60, 90, 120, 180, 300, 600, float("inf")]
+    labels = ["<10s", "10-30s", "30-60s", "60-90s", "90-120s", "2 mins", "3-5 mins", "5-10 mins", ">10 mins"]
+    df["video_duration_category"] = pd.cut(df["video.duration"], bins=bins, labels=labels, right=False)
+    return df
+
+# 📊 Video Duration vs. Views (Bar + Line Chart)
+def plot_video_duration_vs_views(df, metric="Views"):
+    df = categorize_video_duration(df)
+
+    # Aggregate based on the selected metric
+    duration_summary = df.groupby("video_duration_category", observed=False).agg(
+        num_videos=("id", "count"),
+        total_metric=(metric, "sum")
+    ).reset_index()
+
+    # Plot
+    fig = make_subplots(specs=[[{"secondary_y": True}]])
+    fig.add_trace(go.Bar(x=duration_summary["video_duration_category"], y=duration_summary["num_videos"],
+                          name="Number of Videos", marker_color="blue"), secondary_y=False)
+    fig.add_trace(go.Scatter(x=duration_summary["video_duration_category"], y=duration_summary["total_metric"],
+                             name=f"Total {metric}", mode="lines+markers", marker_color="red"), secondary_y=True)
+
+    # Layout
+    fig.update_layout(title_text=f"Video Duration vs. {metric}",
+                      xaxis_title="Video Duration Category",
+                      yaxis_title="Number of Videos",
+                      yaxis2_title=f"Total {metric}")
+    
+    return fig
+
+
+# 📊 Video Duration vs. Engagement (Scatter Plot)
+def plot_video_duration_vs_engagement(df, metric="Views"):
+    df = categorize_video_duration(df)
+
+    # Filter only the selected metric
+    engagement_df = df[["video_duration_category", metric]]
+    engagement_df.rename(columns={metric: "Count"}, inplace=True)
+
+    # Scatter plot
+    fig = px.scatter(
+        engagement_df,
+        x="video_duration_category",
+        y="Count",
+        title=f"Video Duration vs. {metric}",
+        labels={"video_duration_category": "Video Duration Category", "Count": f"Total {metric}"},
+        category_orders={"video_duration_category": ["<10s", "10-30s", "30-60s", "60-90s", "90-120s", "2 mins", "3-5 mins", "5-10 mins", ">10 mins"]}
+    )
+
+    return fig
+
+
+def plot_posting_time_vs_views(df, metric="Views"):
+    df['hour'] = df['createTime'].dt.hour  # Extract hour from timestamp
+
+    # Aggregate based on the selected metric
+    hourly_metric = df.groupby("hour", observed=False)[metric].sum().reset_index()
+
+    # Plot
+    fig = px.line(hourly_metric, x="hour", y=metric,
+                  markers=True, title=f"Total {metric} by Posting Hour (0-23h)",
+                  labels={"hour": "Hour of the Day", metric: f"Total {metric}"})
+
+    # Highlight 19h-22h with a shaded region
+    fig.add_vrect(x0=19, x1=22, fillcolor="red", opacity=0.2, layer="below", 
+                  annotation_text="19h-22h", annotation_position="top left")
+
+    return fig
+
+
+def plot_posting_day_vs_engagement(df, metric="Views"):
+    df["day_of_week"] = df["createTime"].dt.day_name()  # Extract weekday name
+
+    # Define weekday order (so the chart is in order)
+    weekday_order = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+
+    # Aggregate based on the selected metric
+    weekly_metric = df.groupby("day_of_week", observed=False)[metric].sum().reset_index()
+
+    # Ensure correct weekday order
+    weekly_metric["day_of_week"] = pd.Categorical(weekly_metric["day_of_week"], categories=weekday_order, ordered=True)
+    weekly_metric = weekly_metric.sort_values("day_of_week")
+
+    # Plot
+    fig = px.bar(weekly_metric, x="day_of_week", y=metric,
+                 title=f"Total {metric} by Day of the Week",
+                 labels={"day_of_week": "Day of the Week", metric: f"Total {metric}"},
+                 text_auto=True)
+
+    # Highlight Friday-Sunday
+    fig.add_vrect(x0=3.5, x1=6.5, fillcolor="orange", opacity=0.2, layer="below", 
+                  annotation_text="Weekend (Fri-Sun)", annotation_position="top left")
 
     return fig
 
