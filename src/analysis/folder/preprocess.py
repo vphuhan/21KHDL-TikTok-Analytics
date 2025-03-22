@@ -23,5 +23,8 @@ def load_data(path):
         x, list) and "Audio không liên quan ẩm thực" in x)]
     # df[['has_personal_story', 'has_cta']] = df[[
     #     'has_personal_story', 'has_cta']].astype('bool')
-    # print(df.info())
+    df["createTime"] = pd.to_datetime(
+        df["createTime"], utc=True)
+    df["createTime"] = df["createTime"].dt.tz_convert(
+        "Asia/Ho_Chi_Minh")
     return df

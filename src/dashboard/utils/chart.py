@@ -89,7 +89,7 @@ def render_wordcloud(df, field):
     st.pyplot(fig)
 
 
-def render_duration_chart(df, metric='views'):
+def render_duration_chart(df, metric='statsV2.playCount', stat_type='mean'):
     import numpy as np
 
     bins = [0, 10, 30, 60, 90, 120, 180, 300, 600, float("inf")]
@@ -97,46 +97,12 @@ def render_duration_chart(df, metric='views'):
               "2 mins", "3-5 mins", "5-10 mins", ">10 mins"]
 
     if 'video.duration' not in df.columns or metric not in df.columns:
-        st.warning("Thiếu cột 'video.duration' hoặc metric để phân tích.")
+        st.warning("Thiếu cột 'video.duration' hoặc chỉ số để phân tích.")
         return
 
     df = df.dropna(subset=['video.duration', metric])
     df['duration_bin'] = pd.cut(
         df['video.duration'], bins=bins, labels=labels, right=False)
-
-    grouped = (
-        df.groupby('duration_bin')[metric]
-        .mean()
-        .reset_index(name=f'avg_{metric}')
-        .sort_values(by='duration_bin')
-    )
-
-    fig = px.bar(
-        grouped,
-        x='duration_bin',
-        y=f'avg_{metric}',
-        title=f'Trung bình {metric.capitalize()} theo độ dài video',
-        labels={'duration_bin': 'Độ dài video',
-                f'avg_{metric}': f'Trung bình {metric.capitalize()}'},
-        height=500
-    )
-    st.plotly_chart(fig, use_container_width=True)
-
-
-def render_duration_chart(df, metric='views', stat_type='mean'):
-    import numpy as np
-
-    bins = [0, 10, 30, 60, 90, 120, 180, 300, 600, float("inf")]
-    labels = ["<10s", "10-30s", "30-60s", "60-90s", "90-120s",
-              "2 mins", "3-5 mins", "5-10 mins", ">10 mins"]
-
-    if 'duration' not in df.columns or metric not in df.columns:
-        st.warning("Thiếu cột 'duration' hoặc chỉ số để phân tích.")
-        return
-
-    df = df.dropna(subset=['duration', metric])
-    df['duration_bin'] = pd.cut(
-        df['duration'], bins=bins, labels=labels, right=False)
 
     if stat_type == 'mean':
         grouped = (
