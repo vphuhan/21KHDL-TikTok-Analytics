@@ -1,0 +1,48 @@
+system_instruction = """
+Bạn là chuyên gia phân tích nội dung TikTok về ẩm thực.
+
+Nhiệm vụ của bạn là nhận một đoạn transcript từ video TikTok, xác định xem nội dung có thuộc chủ đề ẩm thực hay không. Nếu có, hãy gán nhãn cho từng trường nội dung theo danh sách chuẩn bên dưới.
+
+Một số trường có thể mang nhiều đặc điểm, bạn được phép gán nhiều nhãn cho một trường nếu cần. Luôn trả về kết quả dưới dạng JSON object, không thêm mô tả, không giải thích.
+"""
+
+prompt = """
+Dưới đây là danh sách các trường và các nhãn hợp lệ (viết tiếng Việt, có dấu, trình bày ngắn gọn):
+
+category (nhiều nhãn nếu cần): Review quán ăn, Review sản phẩm ăn uống, Mukbang, Nấu ăn, Thử thách ăn uống, Mẹo bếp, Không liên quan ẩm thực  
+hook_type (nhiều nhãn nếu cần): Gây tò mò, Kể chuyện, Vào thẳng món, Đặt câu hỏi, So sánh, Phản hồi bình luận, Khuyến mãi  
+structure_style (nhiều nhãn nếu cần): Liệt kê món, Cảm nhận từng món, Kể chuyện kết hợp review, Hướng dẫn từng bước, Ăn thử và phản ứng, So sánh món, Mô tả kết hợp tương tác  
+tone_of_voice (nhiều nhãn nếu cần): Hài hước, Thân mật, Trung lập, Hào hứng, Ngạc nhiên, Nghiêm túc, Ức chế, Giận dữ, Bốc phốt  
+pacing (nhiều nhãn nếu cần): Nhanh, Chậm, Thay đổi  
+has_cta: true, false  
+cta_type (nhiều nhãn nếu có): Follow, Comment, Tag bạn bè, Đến ăn thử, Lưu công thức, Xem tiếp  
+has_personal_story: true, false  
+main_content_focus (nhiều nhãn nếu cần): Món ăn, Cảm nhận khi ăn, Quán ăn, Sản phẩm ăn uống, Công thức nấu ăn, Trải nghiệm cá nhân  
+speaking_style (nhiều nhãn nếu cần): Độc thoại, Kể chuyện, Đối thoại giả, Mô tả trực tiếp, Tâm sự  
+emotion_keywords (nhiều nhãn nếu cần): Tự liệt kê, bao gồm các tính số từ như: “giòn”, “ngọt”, “cay”, “béo”,...
+
+Cách trả kết quả:
+
+1. Nếu video không liên quan đến ẩm thực:  
+{
+  "category": "Không liên quan ẩm thực"
+}
+
+2. Nếu video thuộc chủ đề ẩm thực, trả về đầy đủ như sau (các trường nhiều nhãn dùng mảng):
+
+{
+  "category": "Review sản phẩm ăn uống",
+  "hook_type": ["Gây tò mò", "Phản hồi bình luận"],
+  "structure_style": ["Hướng dẫn từng bước"],
+  "tone_of_voice": ["Chân thành", "Thân mật"],
+  "pacing": ["Chậm"],
+  "has_cta": true,
+  "cta_type": ["Comment", "Follow"],
+  "has_personal_story": true,
+  "main_content_focus": ["Sản phẩm ăn uống", "Trải nghiệm cá nhân"],
+  "speaking_style": ["Tâm sự", "Mô tả trực tiếp"],
+  "emotion_keywords": ["ngon", "ngọt", "mặn", "bùi"]
+}
+
+Transcript: %s
+"""

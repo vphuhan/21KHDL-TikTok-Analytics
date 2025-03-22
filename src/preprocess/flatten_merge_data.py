@@ -3,9 +3,10 @@ from tqdm import tqdm
 from typing import List
 import json
 import pandas as pd
-
+import sys
 # Show all columns
 pd.set_option('display.max_columns', None)
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
 
 def list_file_types(directory: str, file_extension: str) -> List[str]:
@@ -98,7 +99,8 @@ if __name__ == "__main__":
 
     # ********** Phase 1: Load JSON files into a DataFrame **********
     # List all JSON files in the directory
-    json_files = list_file_types("data/raw", ".json")
+    json_files = list_file_types(
+        "data/raw/final", ".json")
 
     # Check if there is any JSON file
     if len(json_files) == 0:
@@ -106,43 +108,45 @@ if __name__ == "__main__":
         exit()
 
     # Split this list to user_info and video_info
-    video_json_files = [
-        file for file in json_files if file.endswith("/videos_info.json")]
+    # video_json_files = [
+    #     file for file in json_files if file.endswith("/videos_info.json")]
     user_json_files = [
         file for file in json_files if file.endswith("/user_info.json")]
 
     # Load JSON files into a DataFrame
-    video_info_df = load_json_files_into_df(video_json_files)
+    # video_info_df = load_json_files_into_df(json_files)
     user_info_df = load_json_files_into_df(user_json_files)
 
     # Convert video.id to string
-    video_info_df["video.id"] = video_info_df["video.id"].astype(str)
+    # video_info_df["video.id"] = video_info_df["video.id"].astype(str)
 
-    # ********** Phase 2: Load transcript data for each video **********
-    # Load transcript data for each video
-    audio_text_df = pd.read_csv("data/interim/audio_text.csv")
+    # # ********** Phase 2: Load transcript data for each video **********
+    # # Load transcript data for each video
+    # audio_text_df = pd.read_csv("data/interim/audio_text.csv")
 
-    # Rename columns
-    audio_text_df.columns = ["author_name", "video_id", "audio_to_text"]
+    # # Rename columns
+    # audio_text_df.columns = ["author_name", "video_id", "audio_to_text"]
 
-    # Select only video_id and audio_to_text columns
-    audio_text_df = audio_text_df[["video_id", "audio_to_text"]]
+    # # Select only video_id and audio_to_text columns
+    # audio_text_df = audio_text_df[["video_id", "audio_to_text"]]
 
-    # Convert video_id to string
-    audio_text_df["video_id"] = audio_text_df["video_id"].astype(str)
+    # # Convert video_id to string
+    # audio_text_df["video_id"] = audio_text_df["video_id"].astype(str)
 
-    # ********** Phase 3: Merge video_info_df and audio_text_df **********
-    # Merge "video_info_df" and "audio_text_df" on "author_name" and "video_id"
-    # This action will use left join to keep all rows in "video_info_df"
-    # and append column "audio_to_text" to the right of "video_info_df"
-    video_info_df = pd.merge(left=video_info_df, right=audio_text_df, how="left",
-                             left_on="video.id", right_on="video_id")
+    # # ********** Phase 3: Merge video_info_df and audio_text_df **********
+    # # Merge "video_info_df" and "audio_text_df" on "author_name" and "video_id"
+    # # This action will use left join to keep all rows in "video_info_df"
+    # # and append column "audio_to_text" to the right of "video_info_df"
+    # video_info_df = pd.merge(left=video_info_df, right=audio_text_df, how="left",
+    #                          left_on="video.id", right_on="video_id")
 
     # Drop "video_id" column because it is duplicated
-    video_info_df = video_info_df.drop(columns=["video_id"])
+    # video_info_df = video_info_df.drop(columns=["video_id"])
 
     # ********** Phase 4: Save DataFrame to CSV file **********
-    video_info_df.to_csv("data/interim/video_info.csv", index=False)
-    user_info_df.to_csv("data/interim/user_info.csv", index=False)
+    # video_info_df.to_csv(
+    #     "data/final_raw_videos_264_users.csv", index=False)
+
+    user_info_df.to_csv("data/final_raw_users.csv", index=False)
 
     print(">> Finish flattening and merging data.")
