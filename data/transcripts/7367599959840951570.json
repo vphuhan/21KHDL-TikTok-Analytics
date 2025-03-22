@@ -1,0 +1,13 @@
+{
+  "category": "Nấu ăn",
+  "hook_type": ["Kể chuyện", "Vào thẳng món"],
+  "structure_style": ["Hướng dẫn từng bước"],
+  "tone_of_voice": ["Thân mật"],
+  "pacing": ["Nhanh"],
+  "has_cta": true,
+  "cta_type": ["Lưu công thức"],
+  "has_personal_story": true,
+  "main_content_focus": ["Công thức nấu ăn", "Món ăn"],
+  "speaking_style": ["Độc thoại", "Mô tả trực tiếp"],
+  "emotion_keywords": ["mặn", "cay", "thơm", "mềm"]
+}

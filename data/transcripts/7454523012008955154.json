@@ -1,0 +1,42 @@
+{
+  "category": [
+    "Review sản phẩm ăn uống",
+    "Nấu ăn"
+  ],
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng món"
+  ],
+  "structure_style": [
+    "Hướng dẫn từng bước",
+    "Kể chuyện kết hợp review"
+  ],
+  "tone_of_voice": [
+    "Thân mật",
+    "Hào hứng"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "has_cta": true,
+  "cta_type": [
+    "Xem tiếp",
+    "Comment",
+    "Follow"
+  ],
+  "has_personal_story": true,
+  "main_content_focus": [
+    "Món ăn",
+    "Sản phẩm ăn uống",
+    "Công thức nấu ăn",
+    "Trải nghiệm cá nhân"
+  ],
+  "speaking_style": [
+    "Kể chuyện",
+    "Mô tả trực tiếp",
+    "Tâm sự"
+  ],
+  "emotion_keywords": [
+    "ngon"
+  ]
+}

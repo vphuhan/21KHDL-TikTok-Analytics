@@ -1,0 +1,12 @@
+{
+  "category": "Nấu ăn",
+  "hook_type": ["Kể chuyện", "Gây tò mò"],
+  "structure_style": ["Kể chuyện kết hợp review", "Cảm nhận từng món"],
+  "tone_of_voice": ["Thân mật", "Hào hứng"],
+  "pacing": ["Thay đổi"],
+  "has_cta": false,
+  "has_personal_story": true,
+  "main_content_focus": ["Món ăn", "Cảm nhận khi ăn", "Trải nghiệm cá nhân"],
+  "speaking_style": ["Kể chuyện", "Mô tả trực tiếp"],
+  "emotion_keywords": ["ngọt", "thơm", "ngon", "chua", "chát"]
+}

@@ -1,0 +1,30 @@
+{
+  "category": "Nấu ăn",
+  "hook_type": [
+    "Vào thẳng món"
+  ],
+  "structure_style": [
+    "Hướng dẫn từng bước"
+  ],
+  "tone_of_voice": [
+    "Thân mật"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "has_cta": true,
+  "cta_type": [
+    "Comment"
+  ],
+  "has_personal_story": true,
+  "main_content_focus": [
+    "Món ăn",
+    "Công thức nấu ăn"
+  ],
+  "speaking_style": [
+    "Mô tả trực tiếp"
+  ],
+  "emotion_keywords": [
+    "tươi"
+  ]
+}

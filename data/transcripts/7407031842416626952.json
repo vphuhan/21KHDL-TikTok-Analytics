@@ -1,0 +1,13 @@
+{
+  "category": "Review sản phẩm ăn uống",
+  "hook_type": ["Gây tò mò", "Phản hồi bình luận"],
+  "structure_style": ["Cảm nhận từng món"],
+  "tone_of_voice": ["Thân mật", "Hào hứng"],
+  "pacing": ["Thay đổi"],
+  "has_cta": true,
+  "cta_type": ["Đến ăn thử", "Follow"],
+  "has_personal_story": true,
+  "main_content_focus": ["Món ăn", "Cảm nhận khi ăn", "Sản phẩm ăn uống"],
+  "speaking_style": ["Độc thoại", "Mô tả trực tiếp"],
+  "emotion_keywords": ["ngon", "thơm", "mềm", "vừa", "giòn", "mát", "nhản"]
+}

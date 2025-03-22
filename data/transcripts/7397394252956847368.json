@@ -1,0 +1,13 @@
+{
+  "category": "Nấu ăn",
+  "hook_type": ["Kể chuyện", "Gây tò mò"],
+  "structure_style": ["Kể chuyện kết hợp review", "Hướng dẫn từng bước"],
+  "tone_of_voice": ["Thân mật", "Hài hước"],
+  "pacing": ["Thay đổi"],
+  "has_cta": false,
+  "cta_type": [],
+  "has_personal_story": true,
+  "main_content_focus": ["Món ăn", "Công thức nấu ăn", "Trải nghiệm cá nhân"],
+  "speaking_style": ["Kể chuyện", "Độc thoại"],
+  "emotion_keywords": ["ngon", "tươi", "dai"]
+}

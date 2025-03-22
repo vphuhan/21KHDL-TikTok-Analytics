@@ -1,0 +1,13 @@
+{
+  "category": "Thử thách ăn uống",
+  "hook_type": ["Gây tò mò", "Đặt câu hỏi"],
+  "structure_style": ["Ăn thử và phản ứng", "Kể chuyện kết hợp review"],
+  "tone_of_voice": ["Hài hước", "Thân mật", "Hào hứng"],
+  "pacing": ["Nhanh"],
+  "has_cta": true,
+  "cta_type": ["Đến ăn thử"],
+  "has_personal_story": true,
+  "main_content_focus": ["Món ăn", "Cảm nhận khi ăn", "Quán ăn", "Trải nghiệm cá nhân"],
+  "speaking_style": ["Kể chuyện", "Mô tả trực tiếp"],
+  "emotion_keywords": ["ngon", "mát", "mềm", "mịn", "ngọt"]
+}

@@ -1,0 +1,13 @@
+{
+  "category": "Review sản phẩm ăn uống",
+  "hook_type": ["Gây tò mò", "Vào thẳng món"],
+  "structure_style": ["Ăn thử và phản ứng", "Cảm nhận từng món"],
+  "tone_of_voice": ["Thân mật", "Hài hước"],
+  "pacing": ["Thay đổi"],
+  "has_cta": true,
+  "cta_type": ["Comment", "Follow"],
+  "has_personal_story": true,
+  "main_content_focus": ["Sản phẩm ăn uống", "Cảm nhận khi ăn"],
+  "speaking_style": ["Độc thoại", "Mô tả trực tiếp"],
+  "emotion_keywords": ["giòn", "cay", "tê", "thơm", "bột", "ngán", "khó nuốt", "ngon"]
+}

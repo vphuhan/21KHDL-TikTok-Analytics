@@ -1,0 +1,13 @@
+{
+  "category": "Review sản phẩm ăn uống",
+  "hook_type": ["Kể chuyện", "Khuyến mãi"],
+  "structure_style": ["Kể chuyện kết hợp review"],
+  "tone_of_voice": ["Thân mật", "Hào hứng"],
+  "pacing": ["Thay đổi"],
+  "has_cta": true,
+  "cta_type": ["Đến ăn thử", "Xem tiếp", "Follow"],
+  "has_personal_story": true,
+  "main_content_focus": ["Sản phẩm ăn uống", "Quán ăn", "Trải nghiệm cá nhân"],
+  "speaking_style": ["Kể chuyện", "Mô tả trực tiếp"],
+  "emotion_keywords": ["thanh mát", "sảng khoái", "tinh túy", "yên"]
+}

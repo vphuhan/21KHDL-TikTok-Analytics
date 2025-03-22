@@ -1,0 +1,33 @@
+{
+  "category": "Review sản phẩm ăn uống",
+  "hook_type": [
+    "Vào thẳng món"
+  ],
+  "structure_style": [
+    "Ăn thử và phản ứng",
+    "Cảm nhận từng món"
+  ],
+  "tone_of_voice": [
+    "Thân mật"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "has_cta": false,
+  "cta_type": [],
+  "has_personal_story": true,
+  "main_content_focus": [
+    "Món ăn",
+    "Cảm nhận khi ăn",
+    "Sản phẩm ăn uống"
+  ],
+  "speaking_style": [
+    "Mô tả trực tiếp"
+  ],
+  "emotion_keywords": [
+    "chua",
+    "ngọt",
+    "dai",
+    "giòn"
+  ]
+}

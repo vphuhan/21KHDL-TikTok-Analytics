@@ -1,0 +1,13 @@
+{
+  "category": "Review sản phẩm ăn uống",
+  "hook_type": ["Gây tò mò", "Vào thẳng món"],
+  "structure_style": ["Liệt kê món", "Ăn thử và phản ứng"],
+  "tone_of_voice": ["Hài hước", "Thân mật", "Ngạc nhiên"],
+  "pacing": ["Thay đổi"],
+  "has_cta": true,
+  "cta_type": ["Comment"],
+  "has_personal_story": true,
+  "main_content_focus": ["Sản phẩm ăn uống", "Trải nghiệm cá nhân"],
+  "speaking_style": ["Độc thoại", "Mô tả trực tiếp"],
+  "emotion_keywords": ["đẹp", "thơm", "xấu"]
+}

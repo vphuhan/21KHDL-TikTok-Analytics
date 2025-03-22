@@ -1,0 +1,13 @@
+{
+  "category": "Mukbang",
+  "hook_type": ["Vào thẳng món"],
+  "structure_style": ["Ăn thử và phản ứng", "Cảm nhận từng món"],
+  "tone_of_voice": ["Thân mật", "Hào hứng"],
+  "pacing": ["Thay đổi"],
+  "has_cta": true,
+  "cta_type": ["Ăn thử"],
+  "has_personal_story": true,
+  "main_content_focus": ["Món ăn", "Cảm nhận khi ăn", "Trải nghiệm cá nhân"],
+  "speaking_style": ["Độc thoại", "Kể chuyện", "Mô tả trực tiếp"],
+  "emotion_keywords": ["ngon", "thơm", "béo", "thúi", "nồng nàn", "thủm thủm", "béo nghẹn"]
+}

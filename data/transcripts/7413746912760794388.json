@@ -1,0 +1,13 @@
+{
+  "category": "Nấu ăn",
+  "hook_type": ["Kể chuyện"],
+  "structure_style": ["Hướng dẫn từng bước"],
+  "tone_of_voice": ["Thân mật"],
+  "pacing": ["Thay đổi"],
+  "has_cta": true,
+  "cta_type": ["Follow", "Comment"],
+  "has_personal_story": true,
+  "main_content_focus": ["Công thức nấu ăn", "Trải nghiệm cá nhân"],
+  "speaking_style": ["Kể chuyện", "Mô tả trực tiếp"],
+  "emotion_keywords": ["nóng", "giòn", "ngon", "béo", "mềm"]
+}

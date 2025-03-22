@@ -1,0 +1,13 @@
+{
+  "category": "Nấu ăn",
+  "hook_type": ["Gây tò mò", "Kể chuyện"],
+  "structure_style": ["Hướng dẫn từng bước", "Kể chuyện kết hợp review"],
+  "tone_of_voice": ["Thân mật", "Chân thành"],
+  "pacing": ["Thay đổi"],
+  "has_cta": true,
+  "cta_type": ["Comment", "Follow"],
+  "has_personal_story": true,
+  "main_content_focus": ["Công thức nấu ăn", "Trải nghiệm cá nhân", "Món ăn"],
+  "speaking_style": ["Kể chuyện", "Mô tả trực tiếp", "Tâm sự"],
+  "emotion_keywords": ["ngon", "dai", "giòn", "sệt", "béo", "chát", "cứng", "nhão"]
+}

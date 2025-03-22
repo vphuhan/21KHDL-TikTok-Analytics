@@ -1,0 +1,13 @@
+{
+  "category": ["Nấu ăn", "Review sản phẩm ăn uống"],
+  "hook_type": ["Kể chuyện", "Vào thẳng món"],
+  "structure_style": ["Hướng dẫn từng bước", "Kể chuyện kết hợp review"],
+  "tone_of_voice": ["Thân mật", "Hài hước", "Chân thành"],
+  "pacing": ["Thay đổi"],
+  "has_cta": true,
+  "cta_type": ["Ăn thử", "Tag bạn bè"],
+  "has_personal_story": true,
+  "main_content_focus": ["Món ăn", "Sản phẩm ăn uống", "Trải nghiệm cá nhân"],
+  "speaking_style": ["Độc thoại", "Kể chuyện", "Đối thoại giả"],
+  "emotion_keywords": ["ngon", "đói"]
+}

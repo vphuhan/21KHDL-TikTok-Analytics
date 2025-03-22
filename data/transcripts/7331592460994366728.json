@@ -1,0 +1,29 @@
+{
+  "category": "Review quán ăn",
+  "hook_type": [
+    "Vào thẳng món"
+  ],
+  "structure_style": [
+    "Liệt kê món"
+  ],
+  "tone_of_voice": [
+    "Thân mật"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "has_cta": true,
+  "cta_type": [
+    "Follow",
+    "Đến ăn thử"
+  ],
+  "has_personal_story": false,
+  "main_content_focus": [
+    "Quán ăn",
+    "Món ăn"
+  ],
+  "speaking_style": [
+    "Mô tả trực tiếp"
+  ],
+  "emotion_keywords": []
+}

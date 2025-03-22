@@ -1,0 +1,13 @@
+{
+  "category": "Thử thách ăn uống",
+  "hook_type": ["Phản hồi bình luận", "Vào thẳng món"],
+  "structure_style": ["Ăn thử và phản ứng", "Mô tả kết hợp tương tác"],
+  "tone_of_voice": ["Thân mật", "Hào hứng"],
+  "pacing": ["Thay đổi"],
+  "has_cta": true,
+  "cta_type": ["Đến ăn thử"],
+  "has_personal_story": true,
+  "main_content_focus": ["Món ăn", "Cảm nhận khi ăn", "Quán ăn"],
+  "speaking_style": ["Kể chuyện", "Mô tả trực tiếp"],
+  "emotion_keywords": ["ngon", "cay", "nóng"]
+}

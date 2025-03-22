@@ -1,0 +1,33 @@
+{
+  "category": "Review sản phẩm ăn uống",
+  "hook_type": [
+    "Gây tò mò",
+    "Kể chuyện"
+  ],
+  "structure_style": [
+    "Kể chuyện kết hợp review",
+    "Cảm nhận từng món"
+  ],
+  "tone_of_voice": [
+    "Bức xúc",
+    "Thân mật"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "has_cta": false,
+  "cta_type": [],
+  "has_personal_story": true,
+  "main_content_focus": [
+    "Sản phẩm ăn uống",
+    "Trải nghiệm cá nhân"
+  ],
+  "speaking_style": [
+    "Kể chuyện",
+    "Độc thoại"
+  ],
+  "emotion_keywords": [
+    "bẩn",
+    "khó chịu"
+  ]
+}

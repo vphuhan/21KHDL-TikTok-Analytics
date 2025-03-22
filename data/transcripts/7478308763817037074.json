@@ -1,0 +1,13 @@
+{
+  "category": "Nấu ăn",
+  "hook_type": ["Gây tò mò"],
+  "structure_style": ["Hướng dẫn từng bước"],
+  "tone_of_voice": ["Thân mật", "Hào hứng"],
+  "pacing": ["Nhanh"],
+  "has_cta": true,
+  "cta_type": ["Follow", "Lưu công thức"],
+  "has_personal_story": true,
+  "main_content_focus": ["Công thức nấu ăn", "Món ăn"],
+  "speaking_style": ["Độc thoại", "Mô tả trực tiếp"],
+  "emotion_keywords": ["giòn", "thơm", "ngậy", "xốp", "ngon", "mềm"]
+}

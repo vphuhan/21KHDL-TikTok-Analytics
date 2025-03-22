@@ -1,0 +1,32 @@
+{
+  "category": "Review sản phẩm ăn uống",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "structure_style": [
+    "Kể chuyện kết hợp review"
+  ],
+  "tone_of_voice": [
+    "Thân mật",
+    "Hào hứng"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "has_cta": true,
+  "cta_type": [
+    "Follow"
+  ],
+  "has_personal_story": true,
+  "main_content_focus": [
+    "Sản phẩm ăn uống",
+    "Trải nghiệm cá nhân"
+  ],
+  "speaking_style": [
+    "Kể chuyện",
+    "Tâm sự"
+  ],
+  "emotion_keywords": [
+    "ngon"
+  ]
+}

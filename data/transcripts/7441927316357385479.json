@@ -1,0 +1,13 @@
+{
+  "category": "Nấu ăn",
+  "hook_type": ["Phản hồi bình luận"],
+  "structure_style": ["Hướng dẫn từng bước", "Ăn thử và phản ứng"],
+  "tone_of_voice": ["Thân mật"],
+  "pacing": ["Thay đổi"],
+  "has_cta": true,
+  "cta_type": ["Liên hệ", "Follow"],
+  "has_personal_story": true,
+  "main_content_focus": ["Món ăn", "Cảm nhận khi ăn", "Sản phẩm ăn uống"],
+  "speaking_style": ["Kể chuyện", "Mô tả trực tiếp"],
+  "emotion_keywords": ["tươi", "thơm", "ngon"]
+}

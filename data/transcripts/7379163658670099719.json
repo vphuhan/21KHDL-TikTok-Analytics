@@ -1,0 +1,13 @@
+{
+  "category": "Nấu ăn",
+  "hook_type": ["Gây tò mò", "So sánh"],
+  "structure_style": ["Hướng dẫn từng bước", "So sánh món"],
+  "tone_of_voice": ["Thân mật"],
+  "pacing": ["Thay đổi"],
+  "has_cta": true,
+  "cta_type": ["Lưu công thức", "Follow"],
+  "has_personal_story": true,
+  "main_content_focus": ["Công thức nấu ăn", "Món ăn"],
+  "speaking_style": ["Mô tả trực tiếp"],
+  "emotion_keywords": ["ngon", "mặn"]
+}

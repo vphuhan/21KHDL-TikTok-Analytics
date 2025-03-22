@@ -1,0 +1,13 @@
+{
+  "category": "Nấu ăn",
+  "hook_type": ["Kể chuyện"],
+  "structure_style": ["Kể chuyện kết hợp review", "Hướng dẫn từng bước"],
+  "tone_of_voice": ["Thân mật", "Hào hứng"],
+  "pacing": ["Thay đổi"],
+  "has_cta": true,
+  "cta_type": ["Đến ăn thử", "Follow"],
+  "has_personal_story": true,
+  "main_content_focus": ["Món ăn", "Công thức nấu ăn", "Trải nghiệm cá nhân"],
+  "speaking_style": ["Kể chuyện", "Mô tả trực tiếp"],
+  "emotion_keywords": ["ngon", "cay", "nóng"]
+}

@@ -1,0 +1,13 @@
+{
+  "category": "Review sản phẩm ăn uống",
+  "hook_type": ["Đặt câu hỏi"],
+  "structure_style": ["Cảm nhận từng món", "Mô tả kết hợp tương tác"],
+  "tone_of_voice": ["Thân mật", "Trung lập"],
+  "pacing": ["Thay đổi"],
+  "has_cta": true,
+  "cta_type": ["Đến ăn thử", "Comment", "Tag bạn bè"],
+  "has_personal_story": true,
+  "main_content_focus": ["Sản phẩm ăn uống", "Trải nghiệm cá nhân"],
+  "speaking_style": ["Độc thoại", "Tâm sự"],
+  "emotion_keywords": ["ngon", "mặn", "ngọt", "cay", "hài hòa", "ngán"]
+}

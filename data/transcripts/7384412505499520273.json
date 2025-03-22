@@ -1,0 +1,13 @@
+{
+  "category": "Nấu ăn",
+  "hook_type": ["Gây tò mò", "Vào thẳng món"],
+  "structure_style": ["Hướng dẫn từng bước", "Ăn thử và phản ứng"],
+  "tone_of_voice": ["Thân mật", "Hài hước", "Hào hứng"],
+  "pacing": ["Thay đổi"],
+  "has_cta": true,
+  "cta_type": ["Follow"],
+  "has_personal_story": true,
+  "main_content_focus": ["Công thức nấu ăn", "Món ăn", "Trải nghiệm cá nhân"],
+  "speaking_style": ["Kể chuyện", "Mô tả trực tiếp", "Đối thoại giả"],
+  "emotion_keywords": ["thơm", "giòn", "ngon", "nồng nàn", "béo", "đậm đà"]
+}

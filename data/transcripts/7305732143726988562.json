@@ -1,0 +1,13 @@
+{
+  "category": "Nấu ăn",
+  "hook_type": ["Gây tò mò"],
+  "structure_style": ["Hướng dẫn từng bước", "Cảm nhận từng món"],
+  "tone_of_voice": ["Thân mật", "Hài hước"],
+  "pacing": ["Thay đổi"],
+  "has_cta": true,
+  "cta_type": ["Ăn thử"],
+  "has_personal_story": true,
+  "main_content_focus": ["Món ăn", "Công thức nấu ăn", "Trải nghiệm cá nhân"],
+  "speaking_style": ["Độc thoại", "Kể chuyện"],
+  "emotion_keywords": ["ngon", "chua", "lạnh"]
+}

@@ -1,0 +1,13 @@
+{
+  "category": "Review sản phẩm ăn uống",
+  "hook_type": ["Gây tò mò", "Vào thẳng món"],
+  "structure_style": ["Ăn thử và phản ứng", "Cảm nhận từng món"],
+  "tone_of_voice": ["Thân mật", "Hài hước", "Ngạc nhiên"],
+  "pacing": ["Thay đổi"],
+  "has_cta": true,
+  "cta_type": ["Bye bye"],
+  "has_personal_story": true,
+  "main_content_focus": ["Món ăn", "Cảm nhận khi ăn", "Trải nghiệm cá nhân"],
+  "speaking_style": ["Đối thoại giả", "Mô tả trực tiếp"],
+  "emotion_keywords": ["ngon", "cay", "hơi ít"]
+}

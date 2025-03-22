@@ -1,0 +1,37 @@
+{
+  "category": "Review quán ăn",
+  "hook_type": [
+    "Gây tò mò",
+    "Phản hồi bình luận"
+  ],
+  "structure_style": [
+    "Cảm nhận từng món",
+    "Kể chuyện kết hợp review"
+  ],
+  "tone_of_voice": [
+    "Thân mật",
+    "Hài hước"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "has_cta": true,
+  "cta_type": [
+    "Đến ăn thử",
+    "Follow"
+  ],
+  "has_personal_story": true,
+  "main_content_focus": [
+    "Món ăn",
+    "Quán ăn",
+    "Cảm nhận khi ăn"
+  ],
+  "speaking_style": [
+    "Đối thoại giả",
+    "Kể chuyện"
+  ],
+  "emotion_keywords": [
+    "ngậy",
+    "ngọt"
+  ]
+}

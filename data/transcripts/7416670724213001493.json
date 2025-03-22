@@ -1,0 +1,37 @@
+{
+  "category": "Review sản phẩm ăn uống",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng món"
+  ],
+  "structure_style": [
+    "Ăn thử và phản ứng",
+    "Mô tả kết hợp tương tác"
+  ],
+  "tone_of_voice": [
+    "Thân mật",
+    "Hài hước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "has_cta": true,
+  "cta_type": [
+    "Follow",
+    "Comment"
+  ],
+  "has_personal_story": false,
+  "main_content_focus": [
+    "Sản phẩm ăn uống",
+    "Cảm nhận khi ăn"
+  ],
+  "speaking_style": [
+    "Đối thoại giả",
+    "Mô tả trực tiếp"
+  ],
+  "emotion_keywords": [
+    "ngán",
+    "ngấy",
+    "nhiều sữa"
+  ]
+}

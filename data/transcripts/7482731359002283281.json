@@ -1,0 +1,13 @@
+{
+  "category": "Nấu ăn",
+  "hook_type": ["Vào thẳng món"],
+  "structure_style": ["Hướng dẫn từng bước"],
+  "tone_of_voice": ["Thân mật", "Hào hứng"],
+  "pacing": ["Thay đổi"],
+  "has_cta": true,
+  "cta_type": ["Lưu công thức", "Follow"],
+  "has_personal_story": true,
+  "main_content_focus": ["Công thức nấu ăn", "Trải nghiệm cá nhân", "Món ăn"],
+  "speaking_style": ["Độc thoại", "Kể chuyện", "Mô tả trực tiếp"],
+  "emotion_keywords": ["ngon", "cay", "thơm", "mềm", "dẻo", "dai"]
+}

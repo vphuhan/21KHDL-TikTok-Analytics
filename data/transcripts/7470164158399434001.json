@@ -1,0 +1,13 @@
+{
+  "category": "Review quán ăn",
+  "hook_type": ["Gây tò mò", "Vào thẳng món"],
+  "structure_style": ["Cảm nhận từng món"],
+  "tone_of_voice": ["Thân mật", "Hào hứng"],
+  "pacing": ["Thay đổi"],
+  "has_cta": true,
+  "cta_type": ["Đến ăn thử"],
+  "has_personal_story": true,
+  "main_content_focus": ["Quán ăn", "Món ăn", "Cảm nhận khi ăn"],
+  "speaking_style": ["Kể chuyện", "Mô tả trực tiếp"],
+  "emotion_keywords": ["ngon", "chua", "mặn", "ngọt", "cay", "vừa phải", "ngấy", "đậm", "giai", "giòn"]
+}

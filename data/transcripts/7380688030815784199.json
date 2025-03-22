@@ -1,0 +1,13 @@
+{
+  "category": ["Nấu ăn", "Trải nghiệm cá nhân"],
+  "hook_type": ["Kể chuyện", "Vào thẳng món"],
+  "structure_style": ["Kể chuyện kết hợp review", "Hướng dẫn từng bước", "Cảm nhận từng món"],
+  "tone_of_voice": ["Thân mật", "Chia sẻ"],
+  "pacing": ["Thay đổi"],
+  "has_cta": true,
+  "cta_type": ["Tag bạn bè", "Xem tiếp", "Follow"],
+  "has_personal_story": true,
+  "main_content_focus": ["Món ăn", "Công thức nấu ăn", "Trải nghiệm cá nhân", "Sản phẩm ăn uống"],
+  "speaking_style": ["Kể chuyện", "Mô tả trực tiếp", "Tâm sự"],
+  "emotion_keywords": ["chua", "ngon", "thơm", "vừa ăn", "bổ"]
+}

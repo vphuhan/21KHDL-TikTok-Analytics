@@ -1,0 +1,13 @@
+{
+  "category": "Review quán ăn",
+  "hook_type": ["Kể chuyện"],
+  "structure_style": ["Kể chuyện kết hợp review", "Cảm nhận từng món"],
+  "tone_of_voice": ["Thân mật", "Hào hứng"],
+  "pacing": ["Thay đổi"],
+  "has_cta": true,
+  "cta_type": ["Follow", "Đến ăn thử"],
+  "has_personal_story": true,
+  "main_content_focus": ["Quán ăn", "Món ăn", "Trải nghiệm cá nhân"],
+  "speaking_style": ["Kể chuyện", "Mô tả trực tiếp"],
+  "emotion_keywords": ["khát", "mát", "tuyệt vời", "vàng ươm", "bắt mắt", "khoái khẩu", "cay", "mặn", "dai", "ngọt", "giòn", "sần sần", "chua", "ngọt", "đậm đà", "ngon", "dễ thương", "nhiệt tình"]
+}

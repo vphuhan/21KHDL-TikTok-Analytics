@@ -1,0 +1,40 @@
+{
+  "category": "Thử thách ăn uống",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "structure_style": [
+    "Ăn thử và phản ứng",
+    "Kể chuyện kết hợp review"
+  ],
+  "tone_of_voice": [
+    "Hài hước",
+    "Ngạc nhiên",
+    "Bốc phốt"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "has_cta": true,
+  "cta_type": [
+    "Comment"
+  ],
+  "has_personal_story": true,
+  "main_content_focus": [
+    "Món ăn",
+    "Cảm nhận khi ăn",
+    "Trải nghiệm cá nhân"
+  ],
+  "speaking_style": [
+    "Kể chuyện",
+    "Mô tả trực tiếp"
+  ],
+  "emotion_keywords": [
+    "cay",
+    "ngọt",
+    "ngon",
+    "béo",
+    "đắng",
+    "hăng"
+  ]
+}

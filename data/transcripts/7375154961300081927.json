@@ -1,0 +1,38 @@
+{
+  "category": "Mukbang",
+  "hook_type": [
+    "Phản hồi bình luận",
+    "Gây tò mò"
+  ],
+  "structure_style": [
+    "Ăn thử và phản ứng",
+    "Kể chuyện kết hợp review"
+  ],
+  "tone_of_voice": [
+    "Thân mật",
+    "Hài hước"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "has_cta": true,
+  "cta_type": [
+    "Comment"
+  ],
+  "has_personal_story": true,
+  "main_content_focus": [
+    "Món ăn",
+    "Cảm nhận khi ăn",
+    "Trải nghiệm cá nhân"
+  ],
+  "speaking_style": [
+    "Kể chuyện",
+    "Độc thoại"
+  ],
+  "emotion_keywords": [
+    "cay",
+    "ngon",
+    "mập",
+    "bự"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "category": "Nấu ăn",
+  "hook_type": ["Đặt câu hỏi", "Vào thẳng món"],
+  "structure_style": ["Hướng dẫn từng bước", "Cảm nhận từng món"],
+  "tone_of_voice": ["Thân mật", "Hào hứng"],
+  "pacing": ["Nhanh"],
+  "has_cta": true,
+  "cta_type": ["Đến ăn thử", "Follow"],
+  "has_personal_story": true,
+  "main_content_focus": ["Món ăn", "Cảm nhận khi ăn", "Sản phẩm ăn uống", "Công thức nấu ăn"],
+  "speaking_style": ["Độc thoại", "Mô tả trực tiếp"],
+  "emotion_keywords": ["ngon", "giòn", "cay", "béo", "ngọt", "mặn", "đậm đà", "dai", "sần sật", "tê"]
+}
