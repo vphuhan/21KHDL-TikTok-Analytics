@@ -1,14 +1,12 @@
-from sklearn.preprocessing import MinMaxScaler
-import streamlit as st
-import pandas as pd
-import plotly.express as px
-import ast
-# from wordcloud import WordCloud
-import matplotlib.pyplot as plt
-import plotly.graph_objects as go
-
 from config import COLUMN_LABELS
+import plotly.graph_objects as go
+import matplotlib.pyplot as plt
+import ast
 import plotly.express as px
+import pandas as pd
+import streamlit as st
+from sklearn.preprocessing import MinMaxScaler
+# from wordcloud import WordCloud
 
 
 def generate_color_map(labels):
@@ -72,17 +70,22 @@ def plot_bar_chart(df, field, metric, stat_type, color_map=None):
     return fig
 
 
+# def scale_params_0_100(df, params):
+#     df_scaled = df.copy()
+#     scaler = MinMaxScaler(feature_range=(0, 100))
+#     df_scaled[params] = scaler.fit_transform(df[params])
+#     return df_scaled
+
 def scale_params_0_100(df, params):
     df_scaled = df.copy()
-    scaler = MinMaxScaler(feature_range=(0, 100))
-    df_scaled[params] = scaler.fit_transform(df[params])
-    return df_scaled
-
-
-def normalize_params(df, params):
-    scaler = MinMaxScaler()
-    df_scaled = df.copy()
-    df_scaled[params] = scaler.fit_transform(df_scaled[params])
+    for col in params:
+        min_val = df[col].min()
+        max_val = df[col].max()
+        if max_val == min_val:
+            # Trường hợp toàn 1 giá trị, gán luôn là 0 hoặc 100 tuỳ ý
+            df_scaled[col] = 0
+        else:
+            df_scaled[col] = (df[col] - min_val) / (max_val - min_val) * 100
     return df_scaled
 
 
