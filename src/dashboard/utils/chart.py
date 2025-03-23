@@ -1,32 +1,29 @@
+from sklearn.preprocessing import MinMaxScaler
 import streamlit as st
 import pandas as pd
 import plotly.express as px
 import ast
 # from wordcloud import WordCloud
 import matplotlib.pyplot as plt
+import plotly.graph_objects as go
 
 from config import COLUMN_LABELS
+import plotly.express as px
 
 
-def render_chart(df, field, metric, stat_type):
-    # đảm bảo cột tồn tại trước khi truy cập
+def generate_color_map(labels):
+    palette = px.colors.qualitative.Plotly  # hoặc Plotly, Pastel, Bold...
+    colors = palette * (len(labels) // len(palette) + 1)
+    return {label: colors[i] for i, label in enumerate(labels)}
+
+
+def plot_bar_chart(df, field, metric, stat_type, color_map=None):
     if metric not in df.columns or field not in df.columns:
-        return None
-
-    if field == 'cta_type':
-        # df = df[df['has_cta'] == True]  # chỉ giữ video có CTA
-        # df = df[df['cta_type'].notna()]  # loại bỏ NaN
-        df = df[df['cta_type'] != "[nan]"]  # loại bỏ NaN
-        # df['cta_type'] == "[nan]"
-        df = df[df['cta_type'].apply(lambda x: isinstance(
-            x, list) and len(x) > 0)]  # loại bỏ list rỗng
-
-    if field not in df.columns:
         return None
 
     exploded = df[[metric, field]].copy()
     exploded = exploded.explode(field)
-    exploded = exploded.dropna(subset=[field])  # loại bỏ nan trước khi group
+    exploded = exploded.dropna(subset=[field])
 
     if stat_type == 'mean':
         grouped = (
@@ -53,11 +50,16 @@ def render_chart(df, field, metric, stat_type):
     else:
         return None
 
+    # Nếu không truyền color_map, tự tạo (ít khi dùng)
+    if color_map is None:
+        color_map = generate_color_map(grouped[field].tolist())
+
     fig = px.bar(
         grouped,
         x=grouped.columns[1],
         y=field,
         color=field,
+        color_discrete_map=color_map,
         orientation='h',
         title=f'{COLUMN_LABELS.get(field, field)} vs {grouped.columns[1]}',
         labels={
@@ -67,6 +69,81 @@ def render_chart(df, field, metric, stat_type):
         height=600
     )
     fig.update_layout(showlegend=False)
+    return fig
+
+
+def scale_params_0_100(df, params):
+    df_scaled = df.copy()
+    scaler = MinMaxScaler(feature_range=(0, 100))
+    df_scaled[params] = scaler.fit_transform(df[params])
+    return df_scaled
+
+
+def normalize_params(df, params):
+    scaler = MinMaxScaler()
+    df_scaled = df.copy()
+    df_scaled[params] = scaler.fit_transform(df_scaled[params])
+    return df_scaled
+
+
+def plot_radar_chart(df, field, metrics, selected_label=None, color_map=None):
+    exploded = df[metrics + [field]].copy()
+    exploded = exploded.explode(field)
+    exploded = exploded.dropna(subset=[field])
+    exploded = scale_params_0_100(exploded, metrics)
+    fig = go.Figure()
+
+    if selected_label and len(selected_label) > 0:
+        # Nếu có selected_label, vẽ từng label
+        if color_map is None:
+            color_map = generate_color_map(selected_label)
+
+        for label in selected_label:
+            subset = exploded[exploded[field] == label][metrics].mean()
+            fig.add_trace(go.Scatterpolar(
+                r=subset.tolist() + [subset.tolist()[0]],
+                theta=metrics + [metrics[0]],
+                fill='toself',
+                name=str(label),
+                opacity=0.5,
+                line=dict(color=color_map.get(label))
+            ))
+    else:
+        # Nếu không có selected_label, vẽ median của toàn bộ
+        subset = exploded[metrics].mean()
+        # st.write(subset)
+
+        fig.add_trace(go.Scatterpolar(
+            r=subset.tolist() + [subset.tolist()[0]],
+            theta=metrics + [metrics[0]],
+            fill='toself',
+            name="Tổng thể",
+            opacity=0.6,
+            # hoặc có thể random màu hoặc color_map['all'] nếu muốn
+            line=dict(color="blue")
+        ))
+
+    fig.update_layout(
+        polar=dict(
+            radialaxis=dict(
+                visible=True,
+                tickvals=[0, 25, 50, 75, 100],
+                # range=[exploded.min(), exploded.max()],
+                tickangle=45,
+                tickfont=dict(size=10),
+                showline=True,
+                gridcolor="rgba(0,0,0,0.1)",
+                gridwidth=0.5,
+            ),
+            angularaxis=dict(
+                tickfont=dict(size=12),
+            )
+        ),
+        showlegend=True,
+        template="plotly_white",
+        height=550,
+        title=" vs. ".join(selected_label) if selected_label else "Tổng thể"
+    )
     return fig
 
 
