@@ -9,24 +9,26 @@ from streamlit_plotly_events import plotly_events
 st.set_page_config(layout="wide")
 
 # Load data
-df = load_data("data/content_analyse.csv")
+# df = load_data("data/content_analyse.csv")
+df = load_data("data/content_features_6_users.parquet")
 
 #################### SIDE BAR ####################
 st.sidebar.header("Tùy chọn phân tích")
 
 category_options = sorted({
-    cat for sublist in df['category'] if isinstance(sublist, list)
+    cat for sublist in df['categories'] if isinstance(sublist, list)
     for cat in sublist if isinstance(cat, str)
 })
 
+st.write(category_options)
 selected_category = st.sidebar.multiselect(
     "Chọn chủ đề:", options=category_options, default=None
 )
 
 
-# Filter by category
+# Filter by categories
 if selected_category:
-    df = df[df['category'].apply(lambda cats: any(
+    df = df[df['categories'].apply(lambda cats: any(
         cat in cats for cat in selected_category))]
 
 #################### MAIN LAYOUT ####################
@@ -36,7 +38,7 @@ st.markdown("## Về nội dung video")
 
 # Field SelectBox
 FIELDS_TO_ANALYZE = set(COLUMN_LABELS.keys()) - \
-    set(['category', 'has_cta', 'has_personal_story'])
+    set(['categories', 'has_cta', 'has_personal_story'])
 
 selected_field = st.selectbox(
     "Chọn trường cần hiển thị biểu đồ:",
@@ -108,8 +110,8 @@ with col2:
     # st.write("")
     # st.write("")
 
-    radar_fig = plot_radar_chart(df, selected_field, metrics=[
-                                 'views', 'likes', 'comments', 'shares', 'collects'], selected_label=selected_labels, color_map=color_map)
+    radar_fig = plot_radar_chart(df, selected_field, metrics=list(set(COLUMN_METRICS.keys(
+    )) - set(['engagement_rate'])), selected_label=selected_labels, color_map=color_map)
 
     if radar_fig:
         st.plotly_chart(radar_fig, use_container_width=True, key="radar_chart")
