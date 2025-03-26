@@ -1,0 +1,16 @@
+{
+  "category": ["Review sản phẩm ăn uống"],
+  "main_content_focus": ["Sản phẩm ăn uống", "Cảm nhận trải nghiệm"],
+  "structure_style": ["Review trải nghiệm", "So sánh"],
+  "hook_type": ["Vào thẳng vấn đề"],
+  "tone_of_voice": ["Thân mật", "Hào hứng"],
+  "pacing": ["Chậm"],
+  "has_cta": true,
+  "cta_type": ["Comment"],
+  "emotion_keywords": ["thơm", "béo", "giòn", "ngọt", "ngon"],
+  "hook_content": "hey mọi người! hôm nay mình sẽ thử ăn bánh đồng xu ở bên hàn coi có khác gì bánh đồng xu ở việt nam không nha.",
+  "cta_phrases": ["mọi người có món gì ngon gợi ý cho kim với.", "nhớ cho tên quán hay tên món nha mọi người, để biết đường tui tìm tui ăn nè."],
+  "highlight_phrases": ["lúc làm cũng hấp dẫn lắm", "vỏ bánh nó sẽ có một cái sự giòn nhẹ", "phô mai thì vừa thơm, vừa béo", "ngon hơn nhưng mà giá thì nó mắc hơn"],
+  "notable_elements": ["So sánh trực tiếp bánh đồng xu ở hai nước", "Miêu tả chi tiết cảm nhận về hương vị", "Giọng nói thân thiện, gần gũi"],
+  "gemini_analysis": "Video có nội dung so sánh trực tiếp món ăn ở hai quốc gia, tạo sự tò mò cho người xem. Cách miêu tả hương vị chi tiết giúp người xem dễ hình dung. Tuy nhiên, темп nói chậm có thể khiến một số người cảm thấy thiếu hấp dẫn."
+}

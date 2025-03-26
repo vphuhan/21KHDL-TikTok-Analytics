@@ -1,0 +1,16 @@
+{
+  "category": ["Nấu ăn"],
+  "main_content_focus": ["Món ăn", "Công thức nấu ăn"],
+  "structure_style": ["Hướng dẫn", "Kể chuyện"],
+  "hook_type": ["Vào thẳng vấn đề"],
+  "tone_of_voice": ["Thân mật", "Hài hước"],
+  "pacing": ["Nhanh"],
+  "has_cta": false,
+  "cta_type": [],
+  "emotion_keywords": ["ngon", "dai", "dính"],
+  "hook_content": "rồi đồ ăn của quý khách đây. đây. tào hủ ky cuộn tâm thịt đây cả nhà ơi. hôm nay tuấn lại ra thêm một món mới từ bếp nhà tuấn nha.",
+  "cta_phrases": [],
+  "highlight_phrases": ["tào hủ ky cuộn tâm thịt đây cả nhà ơi", "mở quán cho vui thôi nha", "quên quét lớp dầu bên dưới nữa", "ai nói tôi vô tri á là tôi giận à", "tàn ác với tôi quá mà"],
+  "notable_elements": ["Chế biến món ăn tại nhà", "Giọng văn hài hước, gần gũi", "Chèn các tình huống đời thường vào video"],
+  "gemini_analysis": "Video có cách dẫn dắt tự nhiên, gần gũi, tạo cảm giác thân thiện cho người xem. Tuy nhiên, video thiếu CTA có thể làm giảm tương tác."
+}

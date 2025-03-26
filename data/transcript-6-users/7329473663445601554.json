@@ -1,0 +1,16 @@
+{
+  "category": ["Nấu ăn", "Review sản phẩm ăn uống"],
+  "main_content_focus": ["Món ăn", "Sản phẩm ăn uống", "Cảm nhận trải nghiệm"],
+  "structure_style": ["Review trải nghiệm", "Hướng dẫn"],
+  "hook_type": ["Vào thẳng vấn đề"],
+  "tone_of_voice": ["Thân mật", "Hào hứng"],
+  "pacing": ["Thay đổi"],
+  "has_cta": false,
+  "cta_type": [],
+  "emotion_keywords": ["ngon", "cay", "mềm", "thơm", "vừa vị", "ngọt", "phê", "bùng nổ"],
+  "hook_content": "ăn thịt nướng hàn quốc mà kiểu không ăn được cái lá này thì đúng là thiếu sót luôn đấy, nhưng mà trước tiên thì phải đi làm thịt nướng đã.",
+  "cta_phrases": [],
+  "highlight_phrases": ["thịt ba chỉ mới ngon nhá", "kinh nghiệm xương máu ăn bao nhiêu thịt mới đúc kết ra được đấy", "miếng thịt nó kiểu bóng nhẫy luôn", "cái lá mà mọi người không ăn được đây đúng không?", "phải hai miếng thịt mới bỏ mọi người ạ làm một cuộn siêu to khổng lồ", "mấy cái sốt ướp sẵn ý, có mấy ngàn thôi mà nó làm rất là tốt cái nhiệm vụ của nó ý"],
+  "notable_elements": ["Chế biến món ăn tại nhà", "Đánh giá sản phẩm ướp thịt nướng", "Thao tác nướng và cuốn thịt điêu luyện"],
+  "gemini_analysis": "Video có cách dẫn dắt tự nhiên, gần gũi, tạo cảm giác như đang trò chuyện với bạn bè. Việc chia sẻ kinh nghiệm cá nhân và đánh giá sản phẩm một cách chân thật giúp tăng độ tin cậy. Tuy nhiên, video thiếu CTA có thể làm giảm tương tác từ người xem."
+}

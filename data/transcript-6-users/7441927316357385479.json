@@ -1,0 +1,16 @@
+{
+  "category": ["Nấu ăn"],
+  "main_content_focus": ["Món ăn"],
+  "structure_style": ["Kể chuyện", "Hướng dẫn"],
+  "hook_type": ["Phản hồi bình luận"],
+  "tone_of_voice": ["Thân mật"],
+  "pacing": ["Nhanh"],
+  "has_cta": true,
+  "cta_type": ["Liên hệ", "Mời trải nghiệm"],
+  "emotion_keywords": ["tươi", "sần sực", "thơm", "ngon", "hấp dẫn", "độc đáo"],
+  "hook_content": "hôm bữa tôi làm cua nâu hấp muối ớt đỏ, nhiều người chửi tôi á lãng phí muối quá, vì tiền cua còn thua tiền muối.",
+  "cta_phrases": ["cả nhà muốn mua á thì liên hệ bên thích muối nha."],
+  "highlight_phrases": ["tiền cua còn thua tiền muối", "tôm hùm hấp coi tiền tôm với tiền muối á cái nào á mắc hơn à", "ăn vào là mang bệnh thêm", "tôm nó tươi mà thịt nó sần sực luôn cả nhà, thơm lắm"],
+  "notable_elements": ["Nội dung phản hồi bình luận của người xem", "Cách dẫn dắt vấn đề hài hước, gần gũi", "Giọng nói thân thiện"],
+  "gemini_analysis": "Video có cách mở đầu thu hút bằng cách nhắc lại các bình luận trái chiều từ video trước, tạo sự tương tác và tò mò cho người xem. Cách nói chuyện gần gũi, thân thiện giúp tăng tính kết nối. Tuy nhiên, video tập trung nhiều vào việc giải thích hơn là thể hiện quá trình nấu ăn một cách trực quan."
+}

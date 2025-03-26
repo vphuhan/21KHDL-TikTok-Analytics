@@ -1,0 +1,16 @@
+{
+  "category": ["Nấu ăn"],
+  "main_content_focus": ["Món ăn", "Cảm nhận trải nghiệm"],
+  "structure_style": ["Review trải nghiệm", "Hướng dẫn"],
+  "hook_type": ["Phản hồi bình luận"],
+  "tone_of_voice": ["Thân mật", "Hài hước"],
+  "pacing": ["Nhanh"],
+  "has_cta": false,
+  "cta_type": [],
+  "emotion_keywords": ["thèm", "ngon", "giòn", "vàng", "khô", "thơm thơm", "giòn giòn", "đỡ ngấy", "tạm ổn", "fail"],
+  "hook_content": "hi mọi người, ta nói từ bữa đi hàn quốc về tới giờ, tự nhiên hôm nay cũng thèm cái món lòng sữa bò.",
+  "cta_phrases": [],
+  "highlight_phrases": ["tự nhiên hôm nay cũng thèm cái món lòng sữa bò", "lúc bỏ vô nó cũng to dữ lắm mà sao không hiểu giờ nó teo hết trơn rồi nè", "ăn ngoài tiệm ngon ghê á, sao ở nhà làm sao nó fail hoài vậy trời"],
+  "notable_elements": ["Sử dụng ngôn ngữ đời thường, gần gũi", "Nhấn mạnh vào sự thất bại khi tự làm món ăn", "Giọng nói tự nhiên, biểu cảm chân thật"],
+  "gemini_analysis": "Video có cách mở đầu tự nhiên, tạo cảm giác thân thiện với người xem. Việc chia sẻ trải nghiệm nấu ăn không thành công có thể tạo sự đồng cảm. Tuy nhiên, video thiếu tính hướng dẫn cụ thể và chưa có CTA để tăng tương tác."
+}

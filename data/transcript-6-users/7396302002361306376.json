@@ -1,0 +1,16 @@
+{
+  "category": ["Nấu ăn"],
+  "main_content_focus": ["Công thức nấu ăn", "Món ăn"],
+  "structure_style": ["Hướng dẫn"],
+  "hook_type": ["Vào thẳng vấn đề"],
+  "tone_of_voice": ["Hào hứng", "Thân mật"],
+  "pacing": ["Nhanh"],
+  "has_cta": false,
+  "cta_type": [],
+  "emotion_keywords": ["núng nính", "bóng mướt", "mềm", "béo ngậy", "mềm mướt", "ngậy", "dẻo mướt", "chảy chảy", "tan ngay trong miệng", "ngon"],
+  "hook_content": "ơi, nếu mà biết trước trứng onsen dễ làm như thế này, thì bây giờ hàng tuần không cần tốn tiền ra nhà hàng nhật rồi các bác ơi.",
+  "cta_phrases": [],
+  "highlight_phrases": ["trứng onsen dễ làm như thế này", "lòng trắng núng nính bóng mướt", "mềm mướt và ngậy cực kỳ", "mềm như pudding, tan ngay trong miệng"],
+  "notable_elements": ["Hướng dẫn làm món ăn đơn giản, dễ làm tại nhà", "Sử dụng nồi chiên không dầu để nấu ăn", "So sánh với món trứng lòng đào của Việt Nam"],
+  "gemini_analysis": "Video hướng dẫn nấu ăn đơn giản, tập trung vào món trứng onsen. Mở đầu bằng cách nêu bật sự dễ dàng của công thức, tạo động lực cho người xem thử nghiệm. Sử dụng ngôn ngữ thân mật, gần gũi. Tuy nhiên, video thiếu CTA để tăng tương tác."
+}

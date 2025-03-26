@@ -1,0 +1,16 @@
+{
+  "category": ["Nấu ăn"],
+  "main_content_focus": ["Công thức nấu ăn", "Món ăn", "Cảm nhận trải nghiệm"],
+  "structure_style": ["Hướng dẫn", "Kể chuyện"],
+  "hook_type": ["Vào thẳng vấn đề"],
+  "tone_of_voice": ["Thân mật", "Hào hứng"],
+  "pacing": ["Thay đổi"],
+  "has_cta": false,
+  "cta_type": [],
+  "emotion_keywords": ["cay", "thơm", "bùng vị", "ngon", "chua cay mặn ngọt hài hòa", "đậm đà", "keo l", "lưu luyến"],
+  "hook_content": "ta nói thời tiết mà cứ lạnh lạnh xoang xoang như thế này thì trong đầu chỉ có hai phương án để trả lời cho câu hỏi tối nay ăn gì, đấy chính là một là lẩu, hai là nướng.",
+  "cta_phrases": [],
+  "highlight_phrases": ["lẩu sa tế cho nó bùng vị", "mùa đông là phải x2 độ cay cho nó thổi bay giá rét", "nấu ăn tóc bết là cũng đúng", "ăn vẫn ngon đét", "nêm được tất", "thơm cay bùng vị", "ăn mới đã cái nư", "bao nhiêu bí mật là trôi tuột ra hết luôn"],
+  "notable_elements": ["Video chia sẻ quá trình nấu lẩu sa tế tại nhà, kết hợp yếu tố kể chuyện và lồng ghép các bí quyết nấu ăn.", "Sử dụng nhiều từ ngữ địa phương, tạo cảm giác gần gũi, thân mật.", "Nhấn mạnh vào trải nghiệm ăn uống cùng bạn bè, tăng tính tương tác."],
+  "gemini_analysis": "Video có nội dung khá dài, tập trung vào quá trình chuẩn bị và nấu ăn một cách chi tiết. Cách dẫn dắt tự nhiên, gần gũi giúp người xem cảm thấy thoải mái. Tuy nhiên, video thiếu CTA có thể làm giảm tương tác từ người xem."
+}

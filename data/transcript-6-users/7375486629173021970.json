@@ -1,0 +1,28 @@
+{
+  "category": ["Nấu ăn"],
+  "main_content_focus": ["Món ăn", "Công thức nấu ăn"],
+  "structure_style": ["Hướng dẫn", "Kể chuyện"],
+  "hook_type": ["Vào thẳng vấn đề"],
+  "tone_of_voice": ["Thân mật"],
+  "pacing": ["Thay đổi"],
+  "has_cta": true,
+  "cta_type": ["Mời trải nghiệm", "Comment"],
+  "emotion_keywords": ["thơm", "bắt thèm", "vàng ươm", "dễ làm"],
+  "hook_content": "bánh gối hay còn gọi là bánh xếp hoặc bánh quai vạc chiên. hôm nay cả nhà cùng làm thử với tuấn nha.",
+  "cta_phrases": [
+    "xin mời cả nhà thưởng thức món bánh gối mới ra lò của tuấn nha.",
+    "một cái bánh vậy á ở ngoài người ta bán giá bao nhiêu vậy cả nhà? để lần sau chạy ra mua cho lẹ chứ làm cực quá."
+  ],
+  "highlight_phrases": [
+    "múa bột nè",
+    "vũ điệu sinh khớp",
+    "làm bánh á là nó hơi cực vì nhiều công đoạn",
+    "bánh gối là gói bánh"
+  ],
+  "notable_elements": [
+    "Giọng nói thân thiện, gần gũi",
+    "Thêm yếu tố kể chuyện đời thường vào video nấu ăn",
+    "Sử dụng từ ngữ địa phương"
+  ],
+  "gemini_analysis": "Video hướng dẫn nấu ăn này có cách tiếp cận thân thiện và gần gũi, tạo cảm giác như đang trò chuyện với người quen. Việc lồng ghép những câu chuyện, kỷ niệm cá nhân giúp video trở nên hấp dẫn và thu hút hơn. Tuy nhiên, video có thể tập trung hơn vào các bước làm bánh để tăng tính hữu ích cho người xem."
+}

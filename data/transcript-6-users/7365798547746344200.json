@@ -1,0 +1,16 @@
+{
+  "category": ["Nấu ăn"],
+  "main_content_focus": ["Món ăn", "Công thức nấu ăn"],
+  "structure_style": ["Hướng dẫn"],
+  "hook_type": ["Gây tò mò"],
+  "tone_of_voice": ["Thân mật"],
+  "pacing": ["Chậm"],
+  "has_cta": true,
+  "cta_type": ["Mời trải nghiệm"],
+  "emotion_keywords": ["cay", "ngon", "hấp dẫn"],
+  "hook_content": "nhìn tướng vẻ phấn khích nơi dày, cả nhà có biết á tướng làm chi để chi không?",
+  "cta_phrases": ["thôi, mời cả nhà ăn cùng tướng nha."],
+  "highlight_phrases": ["bún nước tương", "tương ớt chinsu", "cay cay", "kẹo kẹo lại ăn ngon hơn", "ăn chay thì có ăn được trứng không ta?"],
+  "notable_elements": ["Giọng nói địa phương", "Câu hỏi tương tác với người xem"],
+  "gemini_analysis": "Video có cách dẫn dắt tự nhiên, gần gũi với người xem thông qua giọng nói địa phương và cách đặt câu hỏi. Tuy nhiên, video có thể được cải thiện bằng cách tăng tốc độ và thêm các cảnh quay cận cảnh để làm nổi bật quá trình nấu ăn."
+}

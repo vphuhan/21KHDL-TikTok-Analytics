@@ -1,0 +1,16 @@
+{
+  "category": ["Review sản phẩm ăn uống"],
+  "main_content_focus": ["Sản phẩm ăn uống", "Cảm nhận trải nghiệm"],
+  "structure_style": ["Review trải nghiệm", "Hướng dẫn"],
+  "hook_type": ["Vào thẳng vấn đề"],
+  "tone_of_voice": ["Thân mật", "Hào hứng"],
+  "pacing": ["Thay đổi"],
+  "has_cta": false,
+  "cta_type": [],
+  "emotion_keywords": ["mặn", "đắng", "chát", "ngon", "mềm", "bùi"],
+  "hook_content": "hi mọi người. hôm nay mình sẽ ăn lại con nghán huyết này nha. clip lần trước mình ăn sai cách mình chấp phải xin lỗi mọi người.",
+  "cta_phrases": [],
+  "highlight_phrases": ["ăn sai cách mình chấp phải xin lỗi mọi người", "hướng dẫn mình lại cái cách làm đúng cách", "ăn vào mình cũng bị đắng và chát lưỡi nhẹ", "giống như là hai trong một, kết hợp từ sò huyết cũng như là con ngao màu tím"],
+  "notable_elements": ["So sánh hai loại nghán huyết khác nhau", "Sửa sai từ video trước", "Hướng dẫn cách sơ chế"],
+  "gemini_analysis": "Video có tính chân thật cao nhờ việc thừa nhận sai sót ở clip trước. Nội dung tập trung vào so sánh trải nghiệm ăn hai loại nghán huyết khác nhau. Tuy nhiên, video thiếu CTA để tăng tương tác."
+}

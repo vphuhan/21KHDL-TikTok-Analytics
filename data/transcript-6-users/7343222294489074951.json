@@ -1,0 +1,16 @@
+{
+  "category": ["Nấu ăn", "Review sản phẩm ăn uống"],
+  "main_content_focus": ["Món ăn", "Sản phẩm ăn uống", "Cảm nhận trải nghiệm"],
+  "structure_style": ["Hướng dẫn", "Review trải nghiệm", "So sánh"],
+  "hook_type": ["Vào thẳng vấn đề"],
+  "tone_of_voice": ["Hào hứng", "Thân mật"],
+  "pacing": ["Thay đổi"],
+  "has_cta": true,
+  "cta_type": ["Mời trải nghiệm"],
+  "emotion_keywords": ["sang xịn mịn", "tươi mát", "hoàn hảo", "ngọt ngào", "thơm", "béo ngậy", "phong phú", "ngon", "cao cấp", "tiện lợi", "đơn giản"],
+  "hook_content": "mọi người. lâu rồi mình chưa làm cái món mì ý này tại nhà. hôm nay kim mới phát hiện ra một loại mì ý đóng gói sẵn nhưng hơi bị sang xịn mịn luôn nè.",
+  "cta_phrases": ["mọi người mua tại giỏ hàng tiktok shop kim nha."],
+  "highlight_phrases": ["mì ý đóng gói sẵn nhưng hơi bị sang xịn mịn luôn nè", "đẹp mắt và ngon luôn", "chuẩn vị nhà hàng nữa chứ", "vị tươi mát của cà chua", "thịt viên thì tràn ngập luôn", "thơm thơm vị ngon béo ngậy của lớp sốt kem sữa nè", "hương vị nấm thơm và phong phú ngon đúng chuẩn vị nhà hàng nha", "cầu kỳ nhưng mà vẫn vô cùng chất lượng và sang trọng luôn", "ai mà có ngờ ngon ghê"],
+  "notable_elements": ["So sánh mì ý tự nấu và mì ý nhà hàng", "Nhấn mạnh tính tiện lợi và chất lượng của sản phẩm", "Sử dụng nhiều tính từ để mô tả hương vị và cảm xúc"],
+  "gemini_analysis": "Video kết hợp nấu ăn và review sản phẩm, tạo sự tin tưởng bằng cách so sánh với nhà hàng. Giọng điệu hào hứng và thân thiện giúp thu hút người xem. Tuy nhiên, video có thể tập trung hơn vào quá trình nấu ăn để tăng tính hữu ích."
+}

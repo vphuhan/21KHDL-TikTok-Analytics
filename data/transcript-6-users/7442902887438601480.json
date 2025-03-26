@@ -1,0 +1,16 @@
+{
+  "category": ["Nấu ăn"],
+  "main_content_focus": ["Món ăn", "Công thức nấu ăn"],
+  "structure_style": ["Hướng dẫn"],
+  "hook_type": ["Đặt câu hỏi"],
+  "tone_of_voice": ["Thân mật", "Hào hứng"],
+  "pacing": ["Chậm"],
+  "has_cta": true,
+  "cta_type": ["Mời trải nghiệm"],
+  "emotion_keywords": ["ngon", "dai", "thơm", "sảng khoái", "yêu đời"],
+  "hook_content": "bà con tôm hùm nấu với tô mì, như vậy đủ ngon chưa cả nhà?",
+  "cta_phrases": [],
+  "highlight_phrases": ["sợi mì vàng sáng dai ngon", "mùi sa tế tôm rất đặc trưng", "ăn tô mì thôi mà thấy nó cũng sảng khoái, yêu đời"],
+  "notable_elements": ["Sử dụng ngôn ngữ địa phương tạo cảm giác gần gũi", "Tập trung vào quá trình nấu ăn đơn giản"],
+  "gemini_analysis": "Video có cách dẫn dắt tự nhiên, gần gũi. Việc tập trung vào quá trình nấu mì đơn giản, dễ thực hiện có thể thu hút người xem. Tuy nhiên, video thiếu các CTA cụ thể để tăng tương tác."
+}

@@ -1,0 +1,16 @@
+{
+  "category": ["Review quán ăn"],
+  "main_content_focus": ["Quán ăn", "Món ăn", "Cảm nhận trải nghiệm"],
+  "structure_style": ["Review trải nghiệm", "Review mô tả"],
+  "hook_type": ["Vào thẳng vấn đề"],
+  "tone_of_voice": ["Hào hứng", "Thân mật"],
+  "pacing": ["Nhanh"],
+  "has_cta": false,
+  "cta_type": [],
+  "emotion_keywords": ["ngon", "tươi", "béo", "ngậy", "mát"],
+  "hook_content": "mọi người hôm nay mọi người đi ăn ốc tô với lại hào với kim nha.",
+  "cta_phrases": [],
+  "highlight_phrases": ["ngon mà nó tươi gì đâu luôn á", "chất lượng vẫn như xưa á mọi người", "quá trời quá đất rồi", "ốc hương mà nó to là to luôn á", "mát dữ dữ lắm luôn á"],
+  "notable_elements": ["Nhiều món ăn được review", "Quán ăn vỉa hè bình dân", "Giọng nói địa phương"],
+  "gemini_analysis": "Video có cách dẫn dắt tự nhiên, gần gũi, phù hợp với các video review quán ăn vỉa hè. Tuy nhiên, video thiếu CTA có thể làm giảm tương tác. Chất lượng hình ảnh ở mức trung bình."
+}

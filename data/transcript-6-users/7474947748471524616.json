@@ -1,0 +1,16 @@
+{
+  "category": ["Nấu ăn"],
+  "main_content_focus": ["Món ăn", "Công thức nấu ăn"],
+  "structure_style": ["Hướng dẫn"],
+  "hook_type": ["Vào thẳng vấn đề"],
+  "tone_of_voice": ["Hào hứng", "Thân mật"],
+  "pacing": ["Nhanh"],
+  "has_cta": true,
+  "cta_type": ["Mời trải nghiệm"],
+  "emotion_keywords": ["chua", "cay", "ngon", "thèm", "ngọt", "dính"],
+  "hook_content": "lạp xưởng mà đem đi bóp gỏi chua chua cay cay ăn thử đi. tôi nói hen, nó rần rần cái đầu luôn.",
+  "cta_phrases": ["mời cả nhà ăn cơm nha, làm thử đi, ngon lắm đó."],
+  "highlight_phrases": ["rần rần cái đầu luôn", "muốn ăn là đi mua về làm à", "thánh tương ớt luôn rồi", "dính như thôi luôn"],
+  "notable_elements": ["Giọng nói địa phương đặc trưng", "Nấu ăn tại nhà", "Sử dụng nhiều từ ngữ địa phương"],
+  "gemini_analysis": "Video hướng dẫn nấu ăn tại nhà với giọng văn địa phương gần gũi. Cách dẫn dắt nhanh và tập trung vào món ăn giúp người xem dễ theo dõi. Tuy nhiên, video có thể thu hút hơn nếu hình ảnh món ăn được quay cận cảnh và hấp dẫn hơn."
+}

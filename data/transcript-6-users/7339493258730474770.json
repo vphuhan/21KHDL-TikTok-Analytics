@@ -1,0 +1,16 @@
+{
+  "category": ["So sánh", "Review sản phẩm ăn uống", "Nấu ăn"],
+  "main_content_focus": ["Món ăn", "Sản phẩm ăn uống", "Cảm nhận trải nghiệm"],
+  "structure_style": ["So sánh", "Review trải nghiệm"],
+  "hook_type": ["Vào thẳng vấn đề"],
+  "tone_of_voice": ["Thân mật", "Hào hứng"],
+  "pacing": ["Thay đổi"],
+  "has_cta": true,
+  "cta_type": ["Comment", "Mời trải nghiệm"],
+  "emotion_keywords": ["ngon", "nóng", "đầy đủ", "mềm", "dai", "vừa", "phê"],
+  "hook_content": "hai đĩa mì ý tự làm trong vòng 15 phút, giá 58.000 và một phần mì ý mua ngoài tiệm, đợi 45 phút, giá 158.000. thử cả hai nhé.",
+  "cta_phrases": ["thế, 58.000 15 phút với 158.000 45 phút thì mọi người chọn cái nào?"],
+  "highlight_phrases": ["full topping", "full đầy đủ đấy, không thiếu một cái gì luôn đấy", "ăn cũng ngon. ok đấy", "ngon 10 chẳng hạn thì món ở nhà mình phải ngon 9,1 9,2 đấy, không phải 9,0 đâu", "58.000 là dành cho hai người ăn chứ một người ăn không nổi"],
+  "notable_elements": ["So sánh trực tiếp hai món mì ý với các tiêu chí thời gian, giá cả và hương vị", "Sử dụng ngôn ngữ đời thường, gần gũi", "Thực hiện nấu ăn song song với chờ đồ ăn ship tới"],
+  "gemini_analysis": "Video có bố cục rõ ràng, so sánh trực tiếp hai lựa chọn mì ý giúp người xem dễ dàng hình dung ưu nhược điểm. Cách nói chuyện tự nhiên và nhấn mạnh vào giá cả là điểm cộng. Tuy nhiên, video có thể tập trung hơn vào trải nghiệm hương vị để tăng tính hấp dẫn."
+}

@@ -1,0 +1,16 @@
+{
+  "category": ["Nấu ăn", "Review sản phẩm ăn uống"],
+  "main_content_focus": ["Công thức nấu ăn", "Món ăn", "Sản phẩm ăn uống"],
+  "structure_style": ["Hướng dẫn", "Review trải nghiệm", "Kể chuyện"],
+  "hook_type": ["Kể chuyện"],
+  "tone_of_voice": ["Thân mật", "Hài hước", "Hào hứng"],
+  "pacing": ["Thay đổi"],
+  "has_cta": true,
+  "cta_type": ["Mời trải nghiệm", "Follow"],
+  "emotion_keywords": ["thơm", "bắt cơm", "ngon", "vừa vị", "nhanh gọn lẹ"],
+  "hook_content": "trước ở quê mình người ta trồng nhiều hoa chuối lắm. hôm nào mà muốn ăn nộm hoa chuối thì cứ mạnh dạn sang nhà hàng xóm, cúi đầu 90 độ khoan thai, chào lễ phép rồi xin hoa chuối với cái tông giọng đằm thắm nhất, nhỏ nhẹ nhất.",
+  "cta_phrases": ["bà nào mà cũng muốn nấu ăn nhanh gọn lẹ thì thủ sẵn một em về cất tủ ăn dần nha.", "ăn năm ngư ớt tỏi lý sơn để đồng hành cùng với bà con nông dân huyện đảo lý sơn quảng bá đặc sản việt nam nữa.", "mọi người cũng bới tô cơm ngồi ăn cùng nha."],
+  "highlight_phrases": ["cúi đầu 90 độ khoan thai, chào lễ phép", "thái độ bất thường và giọng nói phải gọi là nổi da gà", "mai một dần cái khả năng xin ăn", "bao hết trước xong tất cả những mâm cơm luôn", "khát vọng sen tơ"],
+  "notable_elements": ["Câu chuyện mở đầu hài hước", "Lồng ghép yếu tố văn hóa vùng miền", "Sử dụng sản phẩm đặc trưng để tạo điểm nhấn"],
+  "gemini_analysis": "Video kết hợp yếu tố hài hước và cách kể chuyện tự nhiên để thu hút người xem. Việc lồng ghép sản phẩm địa phương vào công thức nấu ăn giúp quảng bá đặc sản vùng miền. Tuy nhiên, video có thể tập trung hơn vào quá trình nấu nướng để tăng tính hướng dẫn."
+}

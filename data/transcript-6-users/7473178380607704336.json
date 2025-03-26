@@ -1,0 +1,16 @@
+{
+  "category": ["Nấu ăn"],
+  "main_content_focus": ["Món ăn", "Công thức nấu ăn", "Cảm nhận trải nghiệm"],
+  "structure_style": ["Hướng dẫn", "Review trải nghiệm"],
+  "hook_type": ["Vào thẳng vấn đề"],
+  "tone_of_voice": ["Thân mật", "Hào hứng"],
+  "pacing": ["Chậm"],
+  "has_cta": true,
+  "cta_type": ["Comment"],
+  "emotion_keywords": ["thơm", "mềm", "ngon", "chua", "cay", "mặn", "ngọt", "thấm đều", "thơm nhẹ"],
+  "hook_content": "khi mọi người hôm nay có món gà hấp muối hột rục xương nha.",
+  "cta_phrases": ["gửi cái clip này những ai mà đang xem kim ăn gà, ai mà có bí quyết mà luộc gà hay hấp gà ngon thì kim xin với nha."],
+  "highlight_phrases": ["gà hấp muối hột rục xương", "mềm xèo luôn mọi người ơi", "muốn rục xương luôn", "sốt này nó cứu cả con gà luôn"],
+  "notable_elements": ["Chia sẻ công thức gà hấp muối", "Giọng nói thân thiện, gần gũi", "Thêm phần review trải nghiệm cá nhân"],
+  "gemini_analysis": "Video có cách dẫn dắt chậm rãi, tỉ mỉ, phù hợp với nội dung hướng dẫn nấu ăn. Việc chia sẻ cả những lần thất bại trước đây tạo sự đồng cảm với người xem. Tuy nhiên, video có thể tập trung hơn vào quá trình thực hiện để tăng tính hữu ích."
+}

@@ -1,0 +1,16 @@
+{
+  "category": ["Nấu ăn", "Review sản phẩm ăn uống"],
+  "main_content_focus": ["Món ăn", "Sản phẩm ăn uống", "Cảm nhận trải nghiệm"],
+  "structure_style": ["Review trải nghiệm"],
+  "hook_type": ["Vào thẳng vấn đề"],
+  "tone_of_voice": ["Thân mật", "Hào hứng"],
+  "pacing": ["Thay đổi"],
+  "has_cta": true,
+  "cta_type": ["Khác"],
+  "emotion_keywords": ["thích", "đẹp", "háo hức", "sạch", "ưng", "tiện", "hời"],
+  "hook_content": "mình trước giờ là thiếu tự tin nhất cái khoản mà nấu các món cá ấy, bởi vì không phân biệt được các loại cá với nhau.",
+  "cta_phrases": ["mọi người tranh thủ mua mấy cái dịp sale cho giá hời nha."],
+  "highlight_phrases": ["không phân biệt được các loại cá", "giao đến cho ba con to như gùi ấy", "mấy lúc yếu kém là không thấy các anh vào xin vía bao giờ", "ăn xong là chắc chắn ngồi mở cái tăm nước rồi háo hức lắm"],
+  "notable_elements": ["Kết hợp nấu ăn và review sản phẩm tăm nước", "Giọng kể chuyện tự nhiên, gần gũi", "Chèn các chi tiết hài hước"],
+  "gemini_analysis": "Video kết hợp nấu ăn và review sản phẩm một cách tự nhiên, giọng kể chuyện thân thiện giúp người xem cảm thấy gần gũi. Các chi tiết hài hước được lồng ghép khéo léo, tuy nhiên video có thể tập trung hơn vào một trong hai nội dung để tránh bị loãng."
+}

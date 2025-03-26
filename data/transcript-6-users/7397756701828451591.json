@@ -1,0 +1,16 @@
+{
+  "category": ["Nấu ăn", "Review sản phẩm ăn uống"],
+  "main_content_focus": ["Công thức nấu ăn", "Sản phẩm ăn uống", "Món ăn", "Cảm nhận trải nghiệm"],
+  "structure_style": ["Kể chuyện", "Hướng dẫn", "Review trải nghiệm"],
+  "hook_type": ["Kể chuyện"],
+  "tone_of_voice": ["Thân mật", "Hài hước", "Hào hứng"],
+  "pacing": ["Thay đổi"],
+  "has_cta": true,
+  "cta_type": ["Mời trải nghiệm"],
+  "emotion_keywords": ["cay cay", "mặn mặn", "ngọt ngọt", "hao cơm", "giòn", "cay", "thơm", "ngon", "cay ngon tinh khiết"],
+  "hook_content": "nhớ cái hồi mới yêu anh nguyên ấy, có hôm anh nguyên anh bị ốm.",
+  "cta_phrases": ["mời mọi người ăn cơm của hai chị em mình nha."],
+  "highlight_phrases": ["ăn cũng hao cơm oải cả chưởng", "món gì cũng phải cay cay tí nó mới bén", "thơm cay dùng thay ớt trái"],
+  "notable_elements": ["Câu chuyện mở đầu hài hước về nấu ăn cho người yêu", "Kết hợp nấu ăn và review sản phẩm", "Sử dụng nhiều từ ngữ địa phương"],
+  "gemini_analysis": "Video có sự kết hợp giữa kể chuyện hài hước và hướng dẫn nấu ăn, tạo sự gần gũi và thu hút. Cách giới thiệu sản phẩm lồng ghép tự nhiên vào quá trình nấu nướng. Tuy nhiên, video có thể tập trung hơn vào một món ăn cụ thể để tăng tính chuyên sâu."
+}

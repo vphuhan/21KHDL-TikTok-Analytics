@@ -1,0 +1,16 @@
+{
+  "category": ["Nấu ăn"],
+  "main_content_focus": ["Món ăn", "Công thức nấu ăn"],
+  "structure_style": ["Hướng dẫn"],
+  "hook_type": ["Vào thẳng vấn đề"],
+  "tone_of_voice": ["Thân mật", "Hào hứng"],
+  "pacing": ["Thay đổi"],
+  "has_cta": true,
+  "cta_type": ["Comment"],
+  "emotion_keywords": ["ngon", "xuất sắc", "cay", "thơm", "đậm đà", "béo", "mềm", "cuốn", "ngán"],
+  "hook_content": "khi mọi người, lần này tôi làm cái nấm kim châm sốt cay xăm xẻng, thêm thịt ba chỉ nữa.",
+  "cta_phrases": ["nha mọi người làm theo cái nước sốt của kim á, nêm nếm theo cái khẩu vị của mình nha.", "mà có ai dám thử không ta?"],
+  "highlight_phrases": ["ta nói nó xuất sắc luôn mọi người", "ăn ngon nhưng mà nó hơi dính răng xíu nha mọi người", "phải rất rất cay thì ăn nó mới ngon", "mùi nó thơm phức mà nó siêu cay luôn", "rất rất là cay luôn", "thịt nó mềm mềm béo béo thêm mỡ xen kẽ nên ăn cũng đỡ bị ngán", "ăn xong cái ngày hôm sau nó hơi ấy chút xíu á mọi người"],
+  "notable_elements": ["Giọng nói địa phương gần gũi, thân thiện", "Hướng dẫn nấu ăn chi tiết, dễ làm theo", "Thêm yếu tố hài hước về việc ăn nấm kim châm bị dính răng"],
+  "gemini_analysis": "Video hướng dẫn nấu món nấm kim châm sốt cay với giọng văn thân thiện, gần gũi. Video tập trung vào quá trình nấu và cảm nhận cá nhân về món ăn. Điểm mạnh là sự chân thật và cách diễn đạt tự nhiên, tạo cảm giác gần gũi cho người xem."
+}

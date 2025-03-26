@@ -1,0 +1,16 @@
+{
+  "category": ["Nấu ăn", "Review sản phẩm ăn uống"],
+  "main_content_focus": ["Công thức nấu ăn", "Món ăn", "Sản phẩm ăn uống"],
+  "structure_style": ["Hướng dẫn"],
+  "hook_type": ["Kể chuyện"],
+  "tone_of_voice": ["Hào hứng", "Thân mật"],
+  "pacing": ["Thay đổi"],
+  "has_cta": true,
+  "cta_type": ["Mời trải nghiệm"],
+  "emotion_keywords": ["xinh xẻo", "thơm lừng", "ngọt", "cay cay", "đậm đà", "đã"],
+  "hook_content": "mâm cơm tết nhà các bác thường có những món gì? hôm nay puta phải vào bếp làm sương sương đôi ba món tết để múc bang liền thôi.",
+  "cta_phrases": ["ấm cái bụng xong lại nhớ ra liền siêu thị để múc ngay giỏ quà tết của nam ngư, không là hết quà nhanh lắm đó nha mọi người ơi."],
+  "highlight_phrases": ["hộp quà tết của nam ngư xinh xẻo quá trời, ngập tràn không khí tết", "thấy thịt đông là thấy tết ý", "cắt hoa kiểu này nó cầu kỳ hơn một tí, mà đảm bảo là trông mâm cơm tết nó có gu hẳn luôn ý", "giải cứu mấy em giò chả hay là thịt gà bị ế", "100% tỏi từ đảo lý sơn nên rót ra là thấy cái mùi nó thơm lừng luôn nha", "cái món này nó cay cay ngọt ngọt, ăn cùng cơm nóng hay là ăn cùng bánh chưng đảm bảo đều tết cả đấy luôn"],
+  "notable_elements": ["Video hướng dẫn nấu các món ăn ngày Tết quen thuộc, kết hợp review sản phẩm nước mắm", "Sử dụng nhiều từ ngữ địa phương, tạo cảm giác gần gũi, thân thiện"],
+  "gemini_analysis": "Video có nội dung gần gũi, giọng văn địa phương tạo cảm giác thân thiện. Tuy nhiên, video tập trung nhiều vào việc giới thiệu sản phẩm hơn là hướng dẫn nấu ăn, có thể khiến người xem cảm thấy quảng cáo quá lộ liễu."
+}

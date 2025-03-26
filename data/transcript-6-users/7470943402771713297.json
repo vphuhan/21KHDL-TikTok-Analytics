@@ -1,0 +1,16 @@
+{
+  "category": ["Nấu ăn"],
+  "main_content_focus": ["Món ăn"],
+  "structure_style": ["Hướng dẫn"],
+  "hook_type": ["Vào thẳng vấn đề"],
+  "tone_of_voice": ["Thân mật", "Hào hứng"],
+  "pacing": ["Thay đổi"],
+  "has_cta": true,
+  "cta_type": ["Comment"],
+  "emotion_keywords": ["ngon", "cay", "thơm", "béo", "ngậy", "mặn", "ngán", "ngọt", "giòn", "thấm"],
+  "hook_content": "hey mọi người. hôm nay mình sẽ thử kết hợp tôm nướng với lại tủy bò ăn sẽ như thế nào nha.",
+  "cta_phrases": ["ai muốn lấy công thức thì mình comment nha.", "có gì kim sẽ trả lời cho mọi người nha."],
+  "highlight_phrases": ["ăn không hề bị ngán luôn", "cay te", "thơm béo", "mặn vừa phải", "thơm đều từ trong ra ngoài"],
+  "notable_elements": ["Giọng nói thân thiện, gần gũi", "Chia sẻ công thức nấu ăn", "Mô tả chi tiết quá trình chế biến"],
+  "gemini_analysis": "Video hướng dẫn nấu ăn này có phong cách gần gũi, sử dụng ngôn ngữ đời thường và giọng điệu thân thiện. Việc chia sẻ công thức và khuyến khích người xem bình luận tạo sự tương tác. Tuy nhiên, video có thể tập trung hơn vào việc quay cận cảnh món ăn để tăng tính hấp dẫn."
+}

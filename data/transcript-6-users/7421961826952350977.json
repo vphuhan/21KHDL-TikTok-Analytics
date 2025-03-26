@@ -1,0 +1,16 @@
+{
+  "category": ["Nấu ăn"],
+  "main_content_focus": ["Món ăn", "Công thức nấu ăn", "Cảm nhận trải nghiệm"],
+  "structure_style": ["Hướng dẫn", "Review trải nghiệm"],
+  "hook_type": ["Đặt câu hỏi"],
+  "tone_of_voice": ["Thân mật"],
+  "pacing": ["Chậm"],
+  "has_cta": false,
+  "cta_type": [],
+  "emotion_keywords": ["tươi", "giòn", "chua chua", "cay cay", "thơm nồng"],
+  "hook_content": "khi mọi người không biết ở đây có ai ăn đồ sống mà bị đau bụng chưa ta? hôm nay mình sẽ ăn cái món sò lông sốt mắm wasabi nha.",
+  "cta_phrases": [],
+  "highlight_phrases": ["sò lông sốt mắm wasabi", "sò lông rất là tươi luôn", "sừng sực sừng sực", "thơm nồng cái mùi wasabi", "ăn đồ sống mà bị đau bụng"],
+  "notable_elements": ["Hướng dẫn làm món sò lông sốt wasabi", "Chia sẻ trải nghiệm ăn đồ sống", "Nhắc nhở về an toàn thực phẩm"],
+  "gemini_analysis": "Video có cách dẫn dắt gần gũi, chia sẻ kinh nghiệm cá nhân khi ăn đồ sống. Tuy nhiên, video thiếu CTA để tăng tương tác."
+}

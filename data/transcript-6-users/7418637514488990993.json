@@ -1,0 +1,16 @@
+{
+  "category": ["Review sản phẩm ăn uống", "Nấu ăn"],
+  "main_content_focus": ["Sản phẩm ăn uống", "Công thức nấu ăn", "Cảm nhận trải nghiệm"],
+  "structure_style": ["Review trải nghiệm", "Hướng dẫn"],
+  "hook_type": ["Kể chuyện"],
+  "tone_of_voice": ["Thân mật", "Hào hứng"],
+  "pacing": ["Thay đổi"],
+  "has_cta": true,
+  "cta_type": ["Follow", "Comment", "Lưu lại"],
+  "emotion_keywords": ["giòn", "dai dai", "chua chua", "cay cay", "mặn mặn", "hậu ngọt", "ngon", "sạch", "đáng tiền", "thơm"],
+  "hook_content": "khi mọi người lần đầu tiên mà mình ăn ốc mà ngâm sữa luôn á, hôm bữa mình đi siêu thị tình cờ mình thấy cái giỏ ốc này nè, nhớ hồi đó có ăn một lần rồi.",
+  "cta_phrases": ["nên bạn nào mà ăn ốc luộc ốc hấp á có thể làm nước chấm giống kim nè, gia giảm độ cay theo khẩu vị của mình là ok nha."],
+  "highlight_phrases": ["ốc mà ngâm sữa luôn á", "ốc này còn sống luôn", "nước nó trong veo à", "ngâm sữa nó vô nghĩa quá trời luôn á", "ăn biết bao nhiêu lần rồi mà không thể nào mà phân biệt được ốc lát với ốc bưu luôn á"],
+  "notable_elements": ["Thực hiện và review món ốc lạ (ngâm sữa)", "Chất giọng miền Nam gần gũi", "Nhiều chi tiết hài hước, tự nhiên"],
+  "gemini_analysis": "Video có nội dung review chân thật, gần gũi, tập trung vào trải nghiệm cá nhân. Cách dẫn dắt tự nhiên, tạo cảm giác thân thiện cho người xem. Tuy nhiên, video có thể tập trung hơn vào quá trình ngâm sữa để tăng tính độc đáo và thu hút."
+}

@@ -1,0 +1,16 @@
+{
+  "category": ["Nấu ăn"],
+  "main_content_focus": ["Công thức nấu ăn", "Món ăn", "Cảm nhận trải nghiệm"],
+  "structure_style": ["Hướng dẫn", "Review trải nghiệm"],
+  "hook_type": ["Đặt câu hỏi"],
+  "tone_of_voice": ["Thân mật", "Hài hước", "Hào hứng"],
+  "pacing": ["Thay đổi"],
+  "has_cta": true,
+  "cta_type": ["Follow", "Comment", "Mời trải nghiệm"],
+  "emotion_keywords": ["ngọt thanh", "thơm", "ngon", "kỳ công", "xứng đáng", "ngọt gắt", "khủng khiếp"],
+  "hook_content": "hôm đến ngần này tuổi rồi nhiều bạn vẫn tưởng là cái lớp bên trên bát canh cua nó là gạch cua đúng không? con cua nào mà nó lại nhiều gạch thế cua hoàng đế à?",
+  "cta_phrases": ["ăn món này xong nhớ mấy món mẹ mình làm quá, mai chắc phải đi ăn pizza á."],
+  "highlight_phrases": ["cua hoàng đế à?", "mấy con cua đồng bé tí ti mà cảm giác nó nhiều gạch khủng khiếp luôn đấy", "ngọt thanh", "ngọt đến từ rau và ngọt đến từ gạch cua", "vua chúa ngày xưa chỉ thế thôi. bố thiên hạ luôn"],
+  "notable_elements": ["Giọng nói thân thiện, gần gũi", "Sử dụng nhiều từ ngữ địa phương", "So sánh hài hước", "Quay cận cảnh món ăn hấp dẫn"],
+  "gemini_analysis": "Video hướng dẫn nấu ăn này có cách dẫn dắt gần gũi, tạo cảm giác thân thiện cho người xem. Tuy nhiên, video có pacing khá chậm và dài, có thể gây nhàm chán. Việc thêm các yếu tố hài hước và hình ảnh món ăn hấp dẫn giúp giữ chân người xem."
+}

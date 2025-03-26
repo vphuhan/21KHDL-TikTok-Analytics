@@ -1,0 +1,16 @@
+{
+  "category": ["Nấu ăn"],
+  "main_content_focus": ["Món ăn", "Công thức nấu ăn", "Cảm nhận trải nghiệm"],
+  "structure_style": ["Hướng dẫn", "Review trải nghiệm"],
+  "hook_type": ["Vào thẳng vấn đề"],
+  "tone_of_voice": ["Thân mật", "Hào hứng"],
+  "pacing": ["Nhanh"],
+  "has_cta": false,
+  "cta_type": [],
+  "emotion_keywords": ["cay", "ngọt", "chua", "mặn", "cay nồng", "cay giả mang", "đậm đà", "đậm sâu", "săn chắc", "ngọt thịt"],
+  "hook_content": "xin chào mọi người. hôm nay mình sẽ ăn cái món tôm sốt thái này nha.",
+  "cta_phrases": [],
+  "highlight_phrases": ["cay giả mang luôn mọi người", "cay mà đậm đà đậm sâu luôn á", "tôm thì vừa săn chắc ăn nó ngọt thịt á mọi người", "mắm thì chua chua, cay cay, ăn thêm có tỏi thì nó có vị cay nồng á, tăng cái độ ngon lên nữa"],
+  "notable_elements": ["Hướng dẫn làm tôm sốt thái chi tiết", "Nhấn mạnh trải nghiệm vị giác cá nhân", "Cảnh quay cận cảnh món ăn hấp dẫn"],
+  "gemini_analysis": "Video có nội dung hướng dẫn nấu ăn rõ ràng, tập trung vào món tôm sốt thái. Cách dẫn dắt nhanh, trực tiếp vào vấn đề. Tuy nhiên, video thiếu lời kêu gọi hành động (CTA) để tăng tương tác."
+}

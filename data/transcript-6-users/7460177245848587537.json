@@ -1,0 +1,16 @@
+{
+  "category": ["Nấu ăn"],
+  "main_content_focus": ["Món ăn", "Công thức nấu ăn", "Cảm nhận trải nghiệm"],
+  "structure_style": ["Hướng dẫn", "Review trải nghiệm"],
+  "hook_type": ["Vào thẳng vấn đề"],
+  "tone_of_voice": ["Thân mật", "Hào hứng"],
+  "pacing": ["Thay đổi"],
+  "has_cta": false,
+  "cta_type": [],
+  "emotion_keywords": ["thơm", "cay cay", "tê tê", "béo", "mặn mặn ngọt ngọt", "cuốn", "ngon", "lạ", "bắt vị"],
+  "hook_content": "hey mọi người. hôm nay mình sẽ thử làm cái món trứng gà nướng kiểu trung ăn nha.",
+  "cta_phrases": [],
+  "highlight_phrases": ["món trứng gà nướng kiểu trung", "trứng nó sệt và như lòng đào luôn nó ngon dữ lắm luôn á mọi người", "ăn nó cũng sẽ lạ và bắt vị hơn"],
+  "notable_elements": ["Hướng dẫn nấu ăn chi tiết", "Gợi ý biến tấu topping", "Nhấn mạnh trải nghiệm cá nhân"],
+  "gemini_analysis": "Video hướng dẫn nấu món trứng gà nướng kiểu Trung Quốc với giọng văn thân thiện, gần gũi. Video tập trung vào quá trình nấu và cảm nhận cá nhân về món ăn. Tuy nhiên, video thiếu lời kêu gọi hành động (CTA)."
+}

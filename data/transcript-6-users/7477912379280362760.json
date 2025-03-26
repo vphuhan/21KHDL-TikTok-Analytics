@@ -1,0 +1,16 @@
+{
+  "category": ["Review quán ăn"],
+  "main_content_focus": ["Quán ăn", "Món ăn", "Cảm nhận trải nghiệm"],
+  "structure_style": ["Review mô tả", "Review trải nghiệm"],
+  "hook_type": ["Vào thẳng vấn đề"],
+  "tone_of_voice": ["Thân mật", "Hào hứng"],
+  "pacing": ["Nhanh"],
+  "has_cta": false,
+  "cta_type": [],
+  "emotion_keywords": ["ngon", "mặn"],
+  "hook_content": "này là bán bò kho từ lúc có 3.000 tô à. bây giờ là lên giá rồi, mà tô này cũng có 25.000 thôi nha.",
+  "cta_phrases": [],
+  "highlight_phrases": ["tô này cũng có 25.000 thôi nha", "bán ba mấy năm rồi", "bò kho hay hết sớm lắm", "tới đâu là múc tới đó", "tô rất là nhiều luôn"],
+  "notable_elements": ["Giới thiệu quán ăn lâu đời", "Giá rẻ", "Địa điểm dễ tìm"],
+  "gemini_analysis": "Video cung cấp thông tin chi tiết về quán ăn lâu đời, từ giá cả đến địa điểm và các món ăn khác. Tuy nhiên, video thiếu lời kêu gọi hành động (CTA) để khuyến khích người xem tương tác hoặc ghé thăm quán."
+}

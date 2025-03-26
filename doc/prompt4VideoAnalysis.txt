@@ -7,41 +7,107 @@ Một số trường có thể mang nhiều đặc điểm, bạn được phép
 """
 
 prompt = """
-Dưới đây là danh sách các trường và các nhãn hợp lệ (viết tiếng Việt, có dấu, trình bày ngắn gọn):
+Dưới đây là danh sách các trường cần gán nhãn. Mỗi trường (trừ emotion_keywords) chỉ được chọn từ đúng danh sách nhãn đã liệt kê. Không được tạo nhãn mới hoặc viết tự do. Một trường có thể mang nhiều nhãn nếu phù hợp.
 
-category (nhiều nhãn nếu cần): Review quán ăn, Review sản phẩm ăn uống, Mukbang, Nấu ăn, Thử thách ăn uống, Mẹo bếp, Không liên quan ẩm thực  
-hook_type (nhiều nhãn nếu cần): Gây tò mò, Kể chuyện, Vào thẳng món, Đặt câu hỏi, So sánh, Phản hồi bình luận, Khuyến mãi  
-structure_style (nhiều nhãn nếu cần): Liệt kê món, Cảm nhận từng món, Kể chuyện kết hợp review, Hướng dẫn từng bước, Ăn thử và phản ứng, So sánh món, Mô tả kết hợp tương tác  
-tone_of_voice (nhiều nhãn nếu cần): Hài hước, Thân mật, Trung lập, Hào hứng, Ngạc nhiên, Nghiêm túc, Ức chế, Giận dữ, Bốc phốt  
-pacing (nhiều nhãn nếu cần): Nhanh, Chậm, Thay đổi  
-has_cta: true, false  
-cta_type (nhiều nhãn nếu có): Follow, Comment, Tag bạn bè, Đến ăn thử, Lưu công thức, Xem tiếp  
-has_personal_story: true, false  
-main_content_focus (nhiều nhãn nếu cần): Món ăn, Cảm nhận khi ăn, Quán ăn, Sản phẩm ăn uống, Công thức nấu ăn, Trải nghiệm cá nhân  
-speaking_style (nhiều nhãn nếu cần): Độc thoại, Kể chuyện, Đối thoại giả, Mô tả trực tiếp, Tâm sự  
-emotion_keywords (nhiều nhãn nếu cần): Tự liệt kê, bao gồm các tính số từ như: “giòn”, “ngọt”, “cay”, “béo”,...
+category (nhiều nhãn nếu cần): 
+- Review quán ăn: Đánh giá, giới thiệu quán ăn, nhà hàng, xe đẩy, tiệm nhỏ,... nơi có thể đến ăn trực tiếp.
+- Review sản phẩm ăn uống: Đánh giá các sản phẩm ăn uống có thể mua sẵn và dùng ngay, bao gồm đồ đóng gói, đồ ăn vặt, món ăn chế biến sẵn hoặc đóng gói mang về (nhưng không ăn tại quán).
+- Mukbang: Video tập trung vào việc ăn số lượng lớn, ăn to, ăn gần mic hoặc ăn nhiều món cùng lúc, thường ít lời thoại.
+- Nấu ăn: Video hướng dẫn hoặc ghi lại quá trình nấu ăn, có thể ở nhà, ngoài trời hoặc trong bếp chuyên nghiệp.
+- Không liên quan ẩm thực: Video không thuộc bất kỳ chủ đề nào liên quan đến ăn uống, món ăn, quán ăn hoặc trải nghiệm ẩm thực.
+
+main_content_focus (nhiều nhãn nếu cần):
+Món ăn, Quán ăn, Sản phẩm ăn uống, Công thức nấu ăn, Cảm nhận trải nghiệm
+
+structure_style (nhiều nhãn nếu cần):
+- Review mô tả: Mô tả khách quan về món ăn, quán ăn, đặc điểm sản phẩm.
+- Review trải nghiệm: Chia sẻ cảm giác, cảm xúc, đánh giá chủ quan về món ăn, sản phẩm hoặc quán ăn.
+- Kể chuyện: Nội dung được xây dựng như một câu chuyện có tình huống, nhân vật, diễn biến.
+- Hướng dẫn: Hướng dẫn rõ ràng từng bước thực hiện món ăn hoặc quy trình liên quan.
+- So sánh: So sánh trực tiếp hai hoặc nhiều món ăn, sản phẩm, quán ăn khác nhau.
+- Kịch hóa: Giả vờ nói chuyện, đóng nhiều vai, đóng kịch ngắn.
+- Phỏng vấn: Trò chuyện, đặt câu hỏi trực tiếp với người bán, đầu bếp hoặc khách hàng.
+- Chia sẻ thông tin: Cung cấp thông tin về nguồn gốc món ăn, kiến thức dinh dưỡng, mẹo vặt, lịch sử hoặc văn hóa ẩm thực.
+
+hook_type (nhiều nhãn nếu cần):
+- Gây tò mò: Gợi mở điều gì đó chưa rõ ràng, tạo cảm giác muốn biết tiếp (ví dụ: “Bạn sẽ không tin điều này…”).
+- Kể chuyện: Mở đầu bằng một câu chuyện, hồi ức, trải nghiệm cá nhân.
+- Vào thẳng vấn đề: Mở đầu bằng nội dung chính của video ngay lập tức, không dẫn dắt dài dòng. Có thể là món ăn, địa điểm, giá tiền, mục tiêu review,...
+- Đặt câu hỏi: Mở đầu bằng một câu hỏi hướng tới người xem (ví dụ: “Bạn đã thử món này chưa?”).
+- Phản hồi bình luận: Dẫn dắt từ comment hoặc yêu cầu của người xem.
+- Khuyến mãi: Mở đầu bằng thông tin ưu đãi, giảm giá, tặng quà,...
+- So sánh: So sánh món ăn, quán, trải nghiệm giữa hai bên (ví dụ: “Phở Hà Nội vs Sài Gòn?”).
+- Giật tít: Câu mở đầu sốc, gây chú ý mạnh bằng cách nói ngoa, phóng đại (“Ngon nhất hành tinh!”).
+- Gây tranh cãi: Cố tình tạo quan điểm gây chia rẽ, kích thích tranh luận (“Tôi thấy bún bò Đà Nẵng chán thật sự…”).
+
+tone_of_voice (nhiều nhãn nếu cần):
+Hào hứng, Hài hước, Thân mật, Ngọt ngào, Ngạc nhiên, Trung lập, Nghiêm túc, Khó chịu, Giận dữ, Bốc phốt
+
+pacing (nhiều nhãn nếu cần):
+- Nhanh: Nói gấp, chuyển cảnh nhanh, không có nhiều khoảng nghỉ.
+- Chậm: Nói từ tốn, nhiều khoảng ngắt, cảm giác nhẹ nhàng.
+- Thay đổi: Có sự chuyển biến rõ ràng về tốc độ trong video (ví dụ: mở đầu nhanh – giữa chậm lại).
+
+has_cta: true, false
+
+cta_type (nhiều nhãn nếu cần): 
+- Follow: Kêu gọi người xem theo dõi kênh.
+- Like: Kêu gọi thả tim video.
+- Share: Kêu gọi chia sẻ video cho người khác.
+- Comment: Kêu gọi bình luận ý kiến, góp ý, trả lời câu hỏi,...
+- Lưu lại: Gợi ý người xem lưu video để xem hoặc dùng sau (thường thấy trong clip nấu ăn, review).
+- Mời trải nghiệm: Kêu gọi người xem đến quán, thử món, dùng sản phẩm,... (áp dụng được cho món ăn, quán ăn, sản phẩm ăn uống).
+- Xem tiếp: Gợi ý xem phần 2, video liên quan, hoặc series tiếp theo.
+- Liên hệ: Gợi ý inbox, gọi điện, đặt hàng, hoặc tìm thêm thông tin từ người bán/nhà sáng tạo.
+- Khác: CTA không nằm trong các nhóm trên hoặc quá riêng biệt, không phân loại được rõ ràng.
+
+emotion_keywords (nhiều nhãn nếu cần):
+Tự liệt kê, dưới dạng một danh sách duy nhất gồm các tính từ, trạng từ hoặc cụm từ thể hiện cảm giác khi ăn hoặc cảm xúc tổng thể. Bao gồm:
+- Từ mô tả vị giác, kết cấu món: “giòn”, “béo”, “cay”, “mặn”, “thơm”, “ngọt”, “bùi”, “dai”, “ngậy”,...
+- Từ mô tả cảm xúc: “thất vọng”, “phấn khích”, “hài lòng”, “ngán”, “nghiện”, “thỏa mãn”,...
+- Từ cảm thán phổ biến: “hết nước chấm”, “vỡ oà”, “đỉnh”, “dã man”, “lừa tình”, “không tin được”,...
+
+Ngoài việc gán nhãn, hãy trích xuất thêm 4 trường sau nếu có:
+
+- hook_content: Câu mở đầu thực tế của video, thường nằm ở 1–2 câu đầu. Phải là câu xuất hiện trong transcript, không được viết lại.
+- cta_content: Danh sách các câu kêu gọi hành động (CTA) cụ thể trong video, thường nằm ở phần cuối. Phải lấy đúng nguyên văn trong transcript.
+- highlight_phrases: Danh sách các cụm từ nổi bật, dễ viral, thể hiện cảm xúc mạnh hoặc phong cách nói ấn tượng. Không giới hạn số lượng, chỉ cần là câu/cụm từ đặc sắc.
+- notable_elements: Nhận xét ngắn gọn về những yếu tố nổi bật trong video, bao gồm bất kỳ điểm gì đặc biệt, độc lạ, sáng tạo hoặc có thể giúp giữ chân người xem. Có thể là câu chuyện thú vị, nội dung gây sốc, độ hài hước, chuyển cảnh khéo, giọng điệu, v.v.
+- gemini_analysis: Phân tích ngắn gọn bằng văn bản, do Gemini tự đưa ra. Nội dung có thể bao gồm nhận xét tổng thể về phong cách video, cách truyền tải nội dung, mức độ thu hút, điểm mạnh/yếu của video, hoặc điều gì khiến video trở nên hiệu quả (hoặc không).
+
+Trả về cả 4 trường dưới dạng:
+- hook_content: chuỗi (string)
+- cta_phrases: danh sách (array of strings)
+- highlight_phrases: danh sách (array of strings)
+- notable_elements: danh sách (array of strings)
+- gemini_analysis: chuỗi (string)
+
+Nếu không có, để giá trị là chuỗi rỗng ("") hoặc mảng rỗng ([]).
 
 Cách trả kết quả:
 
-1. Nếu video không liên quan đến ẩm thực:  
+1. Nếu video không liên quan đến ẩm thực:
 {
   "category": "Không liên quan ẩm thực"
 }
 
-2. Nếu video thuộc chủ đề ẩm thực, trả về đầy đủ như sau (các trường nhiều nhãn dùng mảng):
+2. Nếu video thuộc chủ đề ẩm thực, trả về đầy đủ các trường sau (các trường nhiều nhãn dùng dạng mảng):
 
 {
-  "category": "Review sản phẩm ăn uống",
+  "category": ["Review sản phẩm ăn uống"],
+  "main_content_focus": ["Sản phẩm ăn uống", "Cảm nhận trải nghiệm"],
+  "structure_style": ["Hướng dẫn", "Review trải nghiệm"],
   "hook_type": ["Gây tò mò", "Phản hồi bình luận"],
-  "structure_style": ["Hướng dẫn từng bước"],
-  "tone_of_voice": ["Chân thành", "Thân mật"],
+  "tone_of_voice": ["Thân mật", "Hào hứng"],
   "pacing": ["Chậm"],
   "has_cta": true,
-  "cta_type": ["Comment", "Follow"],
-  "has_personal_story": true,
-  "main_content_focus": ["Sản phẩm ăn uống", "Trải nghiệm cá nhân"],
-  "speaking_style": ["Tâm sự", "Mô tả trực tiếp"],
-  "emotion_keywords": ["ngon", "ngọt", "mặn", "bùi"]
+  "cta_type": ["Follow", "Comment"],
+  "emotion_keywords": ["ngon", "mềm", "béo", "vỡ oà"],
+  "hook_content": "Bạn tin được không, chỉ với 25k mà được full topping thế này?",
+  "cta_phrases": ["Thấy hấp dẫn thì nhớ follow mình và comment món bạn muốn mình thử tiếp nhé!"],
+  "highlight_phrases": ["full topping thế này", "ngon hơn mình tưởng", "giá quá mềm"],
+  "notable_elements": ["Mở đầu bằng lời dẫn hài hước", "Cut cảnh dồn dập", "Tiếng miền Trung dễ thương"]
+  "gemini_analysis": "Video này sử dụng giọng nói gần gũi và cách kể chuyện đời thường để tạo cảm giác thân thiện. Việc đưa ra chi tiết giá tiền sớm giúp tăng khả năng giữ chân. Tuy nhiên, tốc độ dựng khá chậm có thể khiến người xem mất kiên nhẫn ở đoạn giữa."
 }
 
 Transcript: %s

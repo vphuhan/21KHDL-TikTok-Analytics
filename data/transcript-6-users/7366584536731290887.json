@@ -1,0 +1,16 @@
+{
+  "category": ["Nấu ăn"],
+  "main_content_focus": ["Món ăn", "Công thức nấu ăn"],
+  "structure_style": ["Hướng dẫn"],
+  "hook_type": ["Đặt câu hỏi"],
+  "tone_of_voice": ["Thân mật", "Hào hứng"],
+  "pacing": ["Thay đổi"],
+  "has_cta": true,
+  "cta_type": ["Mời trải nghiệm"],
+  "emotion_keywords": ["ngon", "thơm", "lạ miệng", "dễ chịu"],
+  "hook_content": "bánh canh nước cốt dừa, cả nhà đã thử chưa?",
+  "cta_phrases": ["bạn nào chưa nấu món này lần nào á giống như tuấn á thì thử nấu đi.", "tuấn thấy nó ngon lắm đó, ăn không hề mập luôn.", "ăn xong chạy tám vòng quanh nhà là không mập nha."],
+  "highlight_phrases": ["lạ miệng nhưng rất ngon nghe", "mùi nước cốt dừa với mùi hải sản nó bốc lên nó thơm, nó thơm gì thôi đó", "chưa ăn mà thấy ngon dữ rồi ta", "món tôi nấu, clip tôi dựng thì tôi muốn nhanh là nhanh, muốn chậm là chậm à"],
+  "notable_elements": ["Giọng nói thân thiện, gần gũi", "Hướng dẫn nấu ăn chi tiết, dễ hiểu", "Chèn những câu nói vui vẻ, hài hước"],
+  "gemini_analysis": "Video hướng dẫn nấu ăn này có cách dẫn dắt tự nhiên, gần gũi, tạo cảm giác thoải mái cho người xem. Việc chia sẻ cả quá trình chuẩn bị và nấu nướng giúp người xem dễ dàng làm theo. Tuy nhiên, video có thể tập trung hơn vào các mẹo nấu ăn để tăng tính hữu ích."
+}

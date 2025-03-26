@@ -1,0 +1,16 @@
+{
+  "category": ["Nấu ăn"],
+  "main_content_focus": ["Món ăn", "Công thức nấu ăn"],
+  "structure_style": ["Hướng dẫn"],
+  "hook_type": ["Vào thẳng vấn đề"],
+  "tone_of_voice": ["Thân mật"],
+  "pacing": ["Thay đổi"],
+  "has_cta": true,
+  "cta_type": ["Mời trải nghiệm", "Comment"],
+  "emotion_keywords": ["ngon", "cay", "thơm", "hấp dẫn", "dính", "không ngán"],
+  "hook_content": "bao tử heo, tim heo rồi cật heo, ba thứ này đem đi nấu lẩu cả nhà đã thử chưa? ngon lắm đó.",
+  "cta_phrases": ["cả nhà thử món này chấm với muối tiêu xem có ngon không nha.", "tứng có để bên dưới comment đó, xin mời cả nhà cùng ăn với tứng nha."],
+  "highlight_phrases": ["ăn cũng ngon lắm nên lần này làm lại", "nấu cùng cho nó ngọt nước", "nồi niêu của chú trắng tinh vậy?", "chà muốn chết luôn đó", "miếng bao tử heo bây giờ không một chút mồ hôi mà ngược lại rất thơm luôn cả nhà ơi", "ai dè bị dính luôn chứ, chấm hoài không ngán mà nó cay cay với thơm mùi tiêu nên ăn khá là hợp luôn"],
+  "notable_elements": ["Giọng nói thân thiện, gần gũi", "Nội dung hướng dẫn nấu ăn chi tiết", "Thêm yếu tố hài hước nhẹ nhàng"],
+  "gemini_analysis": "Video có nội dung hướng dẫn nấu ăn rõ ràng, giọng nói thân thiện tạo cảm giác gần gũi. Tuy nhiên, video có nhiều đoạn lan man không cần thiết, có thể lược bớt để tăng tính tập trung."
+}

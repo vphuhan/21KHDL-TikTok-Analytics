@@ -1,0 +1,16 @@
+{
+  "category": ["Nấu ăn"],
+  "main_content_focus": ["Món ăn", "Công thức nấu ăn", "Cảm nhận trải nghiệm"],
+  "structure_style": ["Review trải nghiệm", "Hướng dẫn"],
+  "hook_type": ["Vào thẳng vấn đề"],
+  "tone_of_voice": ["Hào hứng", "Thân mật"],
+  "pacing": ["Thay đổi"],
+  "has_cta": true,
+  "cta_type": ["Mời trải nghiệm"],
+  "emotion_keywords": ["ngon", "cay cay", "mềm rục", "thơm", "đậm đà", "lạ", "ngon lắm"],
+  "hook_content": "heo quay mà kho tàu thì thứ nào mà chịu nổi.",
+  "cta_phrases": ["ai không tin tôi á, hay à nghĩ ông này xạo thì thử kho một nồi nhỏ ăn thử đi.", "rồi quay lại đây á kiếm tôi nha.", "xin mời cả nhà ăn cùng tấn."],
+  "highlight_phrases": ["heo quay mà kho tàu thì thứ nào mà chịu nổi", "ăn nó ngon dữ lắm cả nhà ơi, thiệt luôn", "món này là phải cay cay", "ta nói nó thơm mà cái màu cực đẹp luôn nha cả nhà ơi", "mềm rục, cắn một cái á đứt làm đôi luôn", "mềm mềm cay cay vị đậm đà ăn rất lạ mà ngon lắm cả nhà ơi"],
+  "notable_elements": ["Giọng nói địa phương", "Nấu ăn biến tấu", "Lời mời ăn thử mang tính khẳng định"],
+  "gemini_analysis": "Video có cách dẫn dắt tự nhiên, gần gũi, tạo cảm giác thân thiện cho người xem. Việc chia sẻ quá trình nấu ăn chi tiết giúp tăng tính tin cậy và khuyến khích người xem thử làm theo. Tuy nhiên, video có thể tập trung hơn vào việc thể hiện hương vị và cảm xúc khi ăn để tăng tính hấp dẫn."
+}

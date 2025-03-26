@@ -1,0 +1,16 @@
+{
+  "category": ["Nấu ăn"],
+  "main_content_focus": ["Món ăn", "Công thức nấu ăn", "Cảm nhận trải nghiệm"],
+  "structure_style": ["Review trải nghiệm", "Hướng dẫn", "Kể chuyện"],
+  "hook_type": ["Phản hồi bình luận"],
+  "tone_of_voice": ["Thân mật", "Hài hước"],
+  "pacing": ["Thay đổi"],
+  "has_cta": true,
+  "cta_type": ["Mời trải nghiệm", "Comment"],
+  "emotion_keywords": ["ngon", "ngọt thanh", "mát", "cháy cạnh", "ngọt lợ", "thơm"],
+  "hook_content": "hôm qua đọc được cái comment chị kia bảo là ôi con bé này không thấy nó ăn cơm nhỉ? mình lướt một loạt bộ sưu tập hàn the thời gian vừa qua thì đúng thật không có clip nào mình ăn cơm.",
+  "cta_phrases": ["thôi mọi người xem đến đây còn trần chờ gì nữa? bới tô cơm, bới tô cơm.", "canh thì không thừa nhưng mà thịt giang cháy cạnh thì hơi ế mọi người vào giải quyết giùm nha.", "người vài ba miếng cho hết đĩa chứ thấy nhục quá."],
+  "highlight_phrases": ["thịt giang cháy cạnh", "ăn ngon oải cả trứng", "kho tía ngọt như mía lùi ấy ăn tiểu đường sớm", "cua dị ứng hồi bé đây rồi", "ngọt thanh, ngon mỉ cũng bàng"],
+  "notable_elements": ["Video mang tính đời thường, gần gũi", "Sử dụng nhiều từ ngữ địa phương", "Câu chuyện dẫn dắt hài hước"],
+  "gemini_analysis": "Video có cách dẫn dắt tự nhiên, gần gũi, tạo cảm giác thân thiện cho người xem. Sử dụng ngôn ngữ đời thường, hài hước giúp tăng tính giải trí. Tuy nhiên, video có thể tập trung hơn vào quá trình nấu ăn để tăng tính hữu ích."
+}

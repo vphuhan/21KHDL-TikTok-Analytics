@@ -1,0 +1,16 @@
+{
+  "category": ["Nấu ăn"],
+  "main_content_focus": ["Món ăn", "Công thức nấu ăn"],
+  "structure_style": ["Hướng dẫn"],
+  "hook_type": ["Vào thẳng vấn đề"],
+  "tone_of_voice": ["Thân mật"],
+  "pacing": ["Chậm"],
+  "has_cta": false,
+  "cta_type": [],
+  "emotion_keywords": ["thơm", "ngon", "mềm rục", "chua ngọt", "đã"],
+  "hook_content": "cá nục kho nước mía cuốn bánh tráng siêu ngon, cả nhà cùng vào bếp với tuấn nha.",
+  "cta_phrases": [],
+  "highlight_phrases": ["cá nục kho nước mía cuốn bánh tráng siêu ngon", "món này á kho càng lâu càng ngon để cho xương cá mềm rục ra luôn, ăn mới đã nha cả nhà", "đúng bài của món này á là chấm với nước mắm chua ngọt nhưng mà tuấn thấy á chấm với nước kho là ngon nhất luôn đó"],
+  "notable_elements": ["Giọng nói thân thiện, gần gũi", "Chia sẻ công thức nấu ăn món cá nục kho nước mía", "Cách dẫn dắt tự nhiên, tạo cảm giác ấm cúng"],
+  "gemini_analysis": "Video có cách dẫn dắt gần gũi, thân thiện, tạo cảm giác ấm cúng như đang nấu ăn cùng gia đình. Tuy nhiên, video thiếu CTA để tăng tương tác."
+}

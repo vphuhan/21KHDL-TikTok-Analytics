@@ -1,0 +1,16 @@
+{
+  "category": ["Review sản phẩm ăn uống", "Nấu ăn"],
+  "main_content_focus": ["Sản phẩm ăn uống", "Công thức nấu ăn", "Cảm nhận trải nghiệm"],
+  "structure_style": ["Review trải nghiệm", "Hướng dẫn"],
+  "hook_type": ["Gây tò mò"],
+  "tone_of_voice": ["Hào hứng", "Thân mật"],
+  "pacing": ["Nhanh"],
+  "has_cta": false,
+  "cta_type": [],
+  "emotion_keywords": ["ngon", "mềm mềm dai dai", "giòn giòn", "thơm", "ngọt nhẹ"],
+  "hook_content": "hi mọi người. kỳ mới mua được cái thau mì lạnh khổng lồ này nè.",
+  "cta_phrases": [],
+  "highlight_phrases": ["thau mì lạnh khổng lồ", "đi từ seoul ra tới busan", "hữu duyên lắm luôn á", "sợi mì thì mềm mềm dai dai", "giòn giòn như dưa muối gì á", "thau inox nữa chứ, mình ăn xong mình rửa mình xài luôn á"],
+  "notable_elements": ["Sử dụng nhiều từ địa phương", "Mô tả chi tiết quá trình nấu mì", "Thái độ hào hứng khi review"],
+  "gemini_analysis": "Video có nội dung đơn giản, gần gũi, phù hợp với người xem trẻ tuổi. Việc chia sẻ trải nghiệm thực tế giúp tăng độ tin cậy. Tuy nhiên, video thiếu CTA có thể làm giảm tương tác."
+}

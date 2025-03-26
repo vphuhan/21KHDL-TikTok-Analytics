@@ -1,0 +1,16 @@
+{
+  "category": ["Nấu ăn"],
+  "main_content_focus": ["Món ăn", "Công thức nấu ăn"],
+  "structure_style": ["Hướng dẫn"],
+  "hook_type": ["Vào thẳng vấn đề"],
+  "tone_of_voice": ["Thân mật"],
+  "pacing": ["Nhanh"],
+  "has_cta": false,
+  "cta_type": [],
+  "emotion_keywords": ["cay", "chua", "mặn", "ngọt", "tanh", "ngon"],
+  "hook_content": "hay mọi người. hôm nay mình đi chợ mua tôm sú để làm cái món tôm sú sống sốc ớt với kim nha.",
+  "cta_phrases": [],
+  "highlight_phrases": ["tôm sú sống sốc ớt với kim", "cay cái ruột", "thịt nó rất là ngọt", "không có mùi tanh luôn"],
+  "notable_elements": ["Giọng nói thân thiện, gần gũi", "Món ăn độc đáo, lạ miệng"],
+  "gemini_analysis": "Video tập trung vào quá trình chuẩn bị và chế biến món ăn, với lời bình luận chân thực và gần gũi. Tuy nhiên, video thiếu CTA để tăng tương tác với người xem."
+}

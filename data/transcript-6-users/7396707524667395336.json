@@ -1,0 +1,16 @@
+{
+  "category": ["Nấu ăn", "Review sản phẩm ăn uống"],
+  "main_content_focus": ["Công thức nấu ăn", "Món ăn", "Sản phẩm ăn uống", "Cảm nhận trải nghiệm"],
+  "structure_style": ["Hướng dẫn", "Review trải nghiệm"],
+  "hook_type": ["Vào thẳng vấn đề", "Đặt câu hỏi"],
+  "tone_of_voice": ["Thân mật"],
+  "pacing": ["Thay đổi"],
+  "has_cta": true,
+  "cta_type": ["Comment"],
+  "emotion_keywords": ["ngọt", "đắng", "giòn", "thơm", "béo ngậy"],
+  "hook_content": "xin chào mọi người. hôm nay tôi mới làm cái socola dubai thì quá tệ không ta? vậy hôm nay tôi sẽ làm em nó nè.",
+  "cta_phrases": ["ai biết cách mua thì chỉ tôi với nha."],
+  "highlight_phrases": ["socola dubai chính gốc", "ăn nó giòn giòn, nó thơm thơm cái mùi bơ hạt dẻ, thêm cái vị béo ngậy nữa", "làm ăn chơi thôi"],
+  "notable_elements": ["Hướng dẫn làm socola Dubai tại nhà", "So sánh với phiên bản gốc", "Giọng văn thân thiện, gần gũi", "Tự nhận xét món ăn chưa thành công"],
+  "gemini_analysis": "Video có sự kết hợp giữa hướng dẫn nấu ăn và review sản phẩm, tạo sự gần gũi nhờ giọng văn thân thiện. Tuy nhiên, video có thể tập trung hơn vào quá trình làm hoặc so sánh rõ hơn với bản gốc để tăng tính hấp dẫn."
+}

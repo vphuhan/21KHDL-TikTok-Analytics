@@ -1,0 +1,16 @@
+{
+  "category": ["Nấu ăn"],
+  "main_content_focus": ["Món ăn", "Công thức nấu ăn", "Cảm nhận trải nghiệm"],
+  "structure_style": ["Hướng dẫn", "Review trải nghiệm"],
+  "hook_type": ["Vào thẳng vấn đề"],
+  "tone_of_voice": ["Thân mật", "Hào hứng"],
+  "pacing": ["Thay đổi"],
+  "has_cta": true,
+  "cta_type": ["Like"],
+  "emotion_keywords": ["thơm", "giòn", "chắc", "vừa", "ngon", "chảy nước miếng"],
+  "hook_content": "video này tốn nước miếng lắm đây.",
+  "cta_phrases": ["mình mất bốn ngày để làm được cái món này, mọi người chỉ mất khoảng nửa giây để tim cái video này."],
+  "highlight_phrases": ["ăn chín uống sôi nhở", "tai heo thì mình sẽ cuộn lại tí cho nó đẹp thôi chứ cũng chả tác dụng gì đâu", "mắm ngon ấy thì ngâm cái gì cũng được", "bố của xuất sắc"],
+  "notable_elements": ["Hướng dẫn nấu ăn chi tiết, tỉ mỉ", "Giọng điệu thân thiện, gần gũi", "Chèn thêm các chi tiết hài hước"],
+  "gemini_analysis": "Video hướng dẫn nấu ăn tại nhà với cách dẫn dắt tự nhiên, gần gũi. Việc chia sẻ kinh nghiệm cá nhân và các mẹo nhỏ giúp tăng tính thực tế và hữu ích cho người xem. Tuy nhiên, video có thể được cải thiện bằng cách tập trung hơn vào quá trình nấu ăn và giảm bớt các đoạn lan man."
+}

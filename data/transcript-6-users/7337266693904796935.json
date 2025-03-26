@@ -1,0 +1,16 @@
+{
+  "category": ["Nấu ăn"],
+  "main_content_focus": ["Công thức nấu ăn", "Món ăn"],
+  "structure_style": ["Hướng dẫn"],
+  "hook_type": ["Vào thẳng vấn đề"],
+  "tone_of_voice": ["Thân mật"],
+  "pacing": ["Thay đổi"],
+  "has_cta": true,
+  "cta_type": ["Follow", "Comment"],
+  "emotion_keywords": ["ngọt nước", "ngon", "giòn", "thiếu chất", "tiết kiệm"],
+  "hook_content": "hôm nay mình sẽ hướng dẫn để ăn mì cực kỳ tiết kiệm mà mình nghĩ là ai cũng có thể làm được.",
+  "cta_phrases": ["cứ ăn mì như này ngày qua ngày là sẽ tiết kiệm được rất nhiều."],
+  "highlight_phrases": ["cực kỳ tiết kiệm", "cho ngọt nước", "chấm hết bài thơ luôn", "nó ngon thật sự", "vừa tiết kiệm lại còn vừa ngon"],
+  "notable_elements": ["Hướng dẫn nấu mì theo phong cách tiết kiệm, tận dụng topping có sẵn", "Giọng điệu gần gũi, thân thiện"],
+  "gemini_analysis": "Video hướng dẫn nấu mì theo phong cách tiết kiệm, tận dụng tối đa các nguyên liệu có sẵn. Cách dẫn dắt thân thiện, gần gũi giúp người xem cảm thấy dễ dàng thực hiện theo. Tuy nhiên, video thiếu sự hấp dẫn về mặt hình ảnh, có thể làm giảm sự thu hút."
+}

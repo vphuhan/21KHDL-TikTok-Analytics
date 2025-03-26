@@ -1,0 +1,16 @@
+{
+  "category": ["Review sản phẩm ăn uống"],
+  "main_content_focus": ["Sản phẩm ăn uống", "Cảm nhận trải nghiệm"],
+  "structure_style": ["Review trải nghiệm"],
+  "hook_type": ["Vào thẳng vấn đề", "Đặt câu hỏi"],
+  "tone_of_voice": ["Thân mật"],
+  "pacing": ["Nhanh"],
+  "has_cta": true,
+  "cta_type": ["Comment", "Liên hệ", "Follow"],
+  "emotion_keywords": ["đắt", "lãi lời", "lười"],
+  "hook_content": "mình nhìn mãi chứ nó khác ở đâu cả.",
+  "cta_phrases": ["nếu như mà mọi người đã từng ăn thì mọi người có thể comment ở phía bên dưới giúp mình.", "có chăng thì gắn tí link ở bên dưới, kiếm vài đồng hoa hồng."],
+  "highlight_phrases": ["mình nhìn mãi chứ nó khác ở đâu cả", "mình thì cứ đến bữa mình cắm nồi cơm", "cứ đợt nào lười là thôi, cắm nồi cơm với ăn tí mắm tép. xong bữa", "không mọi người lại kêu mình búc kinh"],
+  "notable_elements": ["Nhận xét sản phẩm một cách chân thật, gần gũi", "Sử dụng nhiều từ ngữ đời thường"],
+  "gemini_analysis": "Video review sản phẩm mắm tép chưng thịt. Người nói review chân thật, gần gũi, tuy nhiên chưa làm nổi bật được điểm khác biệt của sản phẩm."
+}

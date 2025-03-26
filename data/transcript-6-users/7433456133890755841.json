@@ -1,0 +1,16 @@
+{
+  "category": ["Nấu ăn"],
+  "main_content_focus": ["Món ăn", "Công thức nấu ăn", "Cảm nhận trải nghiệm"],
+  "structure_style": ["Hướng dẫn", "Review trải nghiệm"],
+  "hook_type": ["Vào thẳng vấn đề"],
+  "tone_of_voice": ["Thân mật"],
+  "pacing": ["Thay đổi"],
+  "has_cta": false,
+  "cta_type": [],
+  "emotion_keywords": ["cay", "giòn", "ngon", "thơm", "vàng", "sệt", "đậm vị", "nhạt nhạt", "nóng"],
+  "hook_content": "hey mọi người, hôm nay mình sẽ làm cái món đùi gà sốt cay kiểu hàn quốc nha.",
+  "cta_phrases": [],
+  "highlight_phrases": ["đùi gà sốt cay kiểu hàn quốc", "ăn uống tùy khẩu vị của mọi người ghê ha", "team đậm vị sẽ nhúng sốt sẵn, team mà nhạt nhạt thì mình chấm sốt riêng giùm kim"],
+  "notable_elements": ["Hướng dẫn nấu ăn chi tiết", "Chia sẻ kinh nghiệm cá nhân", "Gợi ý điều chỉnh theo khẩu vị"],
+  "gemini_analysis": "Video hướng dẫn nấu món đùi gà sốt cay một cách chi tiết và dễ hiểu. Người nói chia sẻ kinh nghiệm cá nhân và gợi ý cách điều chỉnh công thức phù hợp với khẩu vị từng người, tạo cảm giác gần gũi và hữu ích cho người xem. Tuy nhiên, video thiếu lời kêu gọi hành động (CTA)."
+}

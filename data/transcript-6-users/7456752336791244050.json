@@ -1,0 +1,16 @@
+{
+  "category": ["Nấu ăn"],
+  "main_content_focus": ["Món ăn", "Công thức nấu ăn"],
+  "structure_style": ["Hướng dẫn"],
+  "hook_type": ["Kể chuyện"],
+  "tone_of_voice": ["Thân mật", "Hài hước"],
+  "pacing": ["Thay đổi"],
+  "has_cta": true,
+  "cta_type": ["Liên hệ", "Mời trải nghiệm"],
+  "emotion_keywords": ["giòn", "mềm thơm", "giòn sực sực", "ngon", "thơm", "chua ngọt", "hấp dẫn", "không ngán"],
+  "hook_content": "ha, khổ lắm. hôm qua lỡ hứa việt nam mà vô địch là bữa nay khỏi nấu cơm luôn, nên sáng giờ cũng đâu có ăn cơm, trưa hôm qua ăn bún.",
+  "cta_phrases": ["cả nhà muốn mua chả thì liên hệ bên tiệm lẩu cù lao giùm tuấn nha.", "xin mời cả nhà."],
+  "highlight_phrases": ["mấy nay thời tiết khô ráo, đúng kiểu tết sát bên hông nhà luôn rồi đó bà con", "ăn lẩu thái đợt này chắc nó đã lắm", "có ai ăn chay mà cuốn chả giò thịt không?", "tô bún đơn giản vậy mà ngon không tưởng luôn", "chả lạnh gân nó giòn sực sực vì có tai heo rồi vừa có thịt ngạc nữa"],
+  "notable_elements": ["Sử dụng nhiều từ ngữ địa phương", "Câu chuyện mở đầu hài hước, gần gũi", "Miêu tả món ăn hấp dẫn"],
+  "gemini_analysis": "Video có cách dẫn dắt tự nhiên, gần gũi, tạo cảm giác thân thiện cho người xem. Tuy nhiên, video có thể tập trung hơn vào quá trình nấu ăn và giảm bớt các chi tiết không liên quan để tăng tính tập trung."
+}

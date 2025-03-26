@@ -1,0 +1,16 @@
+{
+  "category": ["Review quán ăn"],
+  "main_content_focus": ["Quán ăn", "Món ăn", "Cảm nhận trải nghiệm"],
+  "structure_style": ["Review trải nghiệm", "Kể chuyện"],
+  "hook_type": ["Vào thẳng vấn đề"],
+  "tone_of_voice": ["Hào hứng", "Thân mật"],
+  "pacing": ["Nhanh"],
+  "has_cta": true,
+  "cta_type": ["Mời trải nghiệm"],
+  "emotion_keywords": ["giòn", "ngọt vừa phải", "không ngọt gắt", "siêu cuốn", "mê", "khoái"],
+  "hook_content": "chắc chắn đây là hàng bánh rán số một trong lòng putta ở thời điểm hiện tại.",
+  "cta_phrases": ["địa chỉ thì ở ngã tư trần nhân tông với cả phố triệu việt vương. cô bán tầm đầu buổi chiều, nhanh hết lắm nên là mọi người tranh thủ liền đi nha."],
+  "highlight_phrases": ["hàng bánh rán mỗi ngày chỉ bán đúng 2 300 chiếc, ăn được không ý là còn phải tùy vào nhân phẩm nữa nha", "trông cái màu nó khác hẳn mấy cái hàng bánh rán khác", "bánh rán mật mà từ vỏ đến nhân độ ngọt siêu vừa phải, thế nó mới ảo chứ"],
+  "notable_elements": ["Chèn yếu tố hài hước về việc mua bánh rán phụ thuộc vào \"nhân phẩm\"", "Miêu tả chi tiết về màu sắc và độ giòn của bánh", "Nhấn mạnh độ ngọt vừa phải, phù hợp với nhiều khẩu vị"],
+  "gemini_analysis": "Video có cách dẫn dắt tự nhiên, gần gũi, tạo cảm giác thân thiện cho người xem. Việc tập trung vào trải nghiệm cá nhân và cảm xúc khi ăn giúp tăng tính thuyết phục. Tuy nhiên, video có thể cải thiện bằng cách thêm hình ảnh cận cảnh hơn về bánh và địa điểm bán."
+}

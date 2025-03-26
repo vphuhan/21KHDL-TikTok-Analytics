@@ -1,0 +1,16 @@
+{
+  "category": ["Nấu ăn"],
+  "main_content_focus": ["Món ăn", "Công thức nấu ăn"],
+  "structure_style": ["Hướng dẫn"],
+  "hook_type": ["Đặt câu hỏi"],
+  "tone_of_voice": ["Thân mật", "Hài hước", "Hào hứng"],
+  "pacing": ["Thay đổi"],
+  "has_cta": true,
+  "cta_type": ["Mời trải nghiệm", "Comment"],
+  "emotion_keywords": ["cay cay", "thơm cay", "đậm đà", "mềm", "giòn sần sực", "cuốn", "hấp dẫn", "ngon"],
+  "hook_content": "tay heo khìa nước dừa rồi kẹp bánh mì thêm một chút tương ớt cay cay nữa, món này tôi làm xong mở xe bánh mì bán, có ai ủng hộ không ta?",
+  "cta_phrases": ["vậy là ra lò một ổ. ổ này bán cỡ nhiêu tiền được hả cả nhà?", "nói giỡn thôi chứ món này á nó ngon lắm, mọi người có thời gian á làm thử nha.", "xin mời cả nhà ăn bánh mì với tứng."],
+  "highlight_phrases": ["miền tây được thiên nhiên ưu ái quá trời", "trái dừa là chân ái trong nấu ăn luôn", "thơm cay hài hòa", "giòn sần sực của sụn tai", "nước sốt này á chính là chân ái trong món ăn này nha"],
+  "notable_elements": ["Giọng nói địa phương gần gũi, tạo cảm giác thân thiện", "Món ăn quen thuộc, dễ làm tại nhà", "Thực hiện các cảnh quay cận cảnh, kích thích vị giác"],
+  "gemini_analysis": "Video hướng dẫn nấu ăn này có cách dẫn dắt tự nhiên, gần gũi nhờ giọng nói địa phương. Món ăn được trình bày hấp dẫn, kích thích vị giác. Tuy nhiên, video có thể tập trung hơn vào quá trình nấu nướng để tăng tính hữu ích cho người xem."
+}

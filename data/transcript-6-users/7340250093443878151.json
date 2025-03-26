@@ -1,0 +1,16 @@
+{
+  "category": ["Nấu ăn"],
+  "main_content_focus": ["Món ăn", "Công thức nấu ăn"],
+  "structure_style": ["Hướng dẫn"],
+  "hook_type": ["Vào thẳng vấn đề"],
+  "tone_of_voice": ["Thân mật", "Hào hứng"],
+  "pacing": ["Nhanh"],
+  "has_cta": false,
+  "cta_type": [],
+  "emotion_keywords": ["siêu cay", "vàng giòn", "ngon", "béo béo", "chua chua", "cay cay", "thơm", "quá đã"],
+  "hook_content": "hay mọi người, hôm nay mình sẽ làm cái món đậu hũ kẹp rau răm siêu cay nha.",
+  "cta_phrases": [],
+  "highlight_phrases": ["đậu hũ kẹp rau răm siêu cay", "ăn liền nó sẽ ngon hơn", "nhứt cái nách thiệt nha", "ngon, bổ rẻ"],
+  "notable_elements": ["Hướng dẫn nấu ăn đơn giản, dễ làm theo", "Sử dụng ngôn ngữ địa phương tạo sự gần gũi", "Tập trung vào quá trình làm món ăn tại nhà"],
+  "gemini_analysis": "Video có nội dung đơn giản, dễ thực hiện theo. Sử dụng ngôn ngữ địa phương giúp tăng tính gần gũi và thân thiện. Tuy nhiên, video thiếu lời kêu gọi hành động (CTA) để tăng tương tác."
+}

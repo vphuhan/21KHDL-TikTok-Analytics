@@ -1,0 +1,16 @@
+{
+  "category": ["Nấu ăn"],
+  "main_content_focus": ["Món ăn", "Công thức nấu ăn"],
+  "structure_style": ["Hướng dẫn"],
+  "hook_type": ["Đặt câu hỏi"],
+  "tone_of_voice": ["Thân mật"],
+  "pacing": ["Thay đổi"],
+  "has_cta": true,
+  "cta_type": ["Mời trải nghiệm"],
+  "emotion_keywords": ["giòn", "chua", "cay", "thơm", "ngon", "thèm", "vừa ăn", "dai"],
+  "hook_content": "Nọng heo chiên giòn sau đó lắc sốt chua cay, cả nhà đã làm thử món này chưa?",
+  "cta_phrases": ["xin mời cả nhà cùng ăn với tuấn nha.", "ai có làm thử thì mình bỏ cái da đi cho đỡ bị dai nha quý vị ơi."],
+  "highlight_phrases": ["cắt gì mà lục quá nhìn khó chịu vô cùng", "tay cũng lên chuột nữa", "xui ghê", "cay xè như trái ớt trái luôn rồi", "thịt vàng rượi hết rồi, nhìn thấy thèm chưa cả nhà?", "ép như người ta ép thịt mỡ vậy", "lắc hay trộn gì cũng được, miễn sốt nó thấm đều là lụm lúa", "vị thì ngon quá nhưng mà hình như lắc nước sốt để lâu thì phần da nó bị dai rồi cả nhà"],
+  "notable_elements": ["Giọng nói thân thiện, gần gũi", "Nhiều câu nói hài hước, dí dỏm", "Hướng dẫn chi tiết, dễ làm theo"],
+  "gemini_analysis": "Video hướng dẫn nấu ăn đơn giản, dễ thực hiện tại nhà. Cách nói chuyện gần gũi, hài hước giúp video trở nên thu hút hơn. Tuy nhiên, một số đoạn có thể hơi dài dòng và thiếu tập trung."
+}
