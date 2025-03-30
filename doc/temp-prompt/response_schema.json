@@ -1,0 +1,202 @@
+{
+  "type": "object",
+  "description": "Gán nhãn nội dung video TikTok ẩm thực và trích xuất các đặc điểm nổi bật từ transcript.",
+  "required": ["categories"],
+  "properties": {
+    "categories": {
+      "type": "array",
+      "description": "Thể loại chung của video. Nếu kết quả là 'Không liên quan ẩm thực' thì trả về duy nhất trường 'categories', không cần trích xuất các trường khác",
+      "items": {
+        "type": "string",
+        "enum": [
+          "Review quán ăn",
+          "Review sản phẩm ăn uống",
+          "Review món ăn",
+          "Mukbang",
+          "Nấu ăn",
+          "Không liên quan ẩm thực"
+        ]
+      }
+    },
+    "structure_style": {
+      "type": "array",
+      "description": "Cách xây dựng nội dung, hình thức thể hiện video.",
+      "items": {
+        "type": "string",
+        "enum": [
+          "Mô tả đặc điểm",
+          "Chia sẻ trải nghiệm cá nhân",
+          "Kể chuyện",
+          "Hướng dẫn",
+          "So sánh",
+          "Kịch hóa",
+          "Đối thoại",
+          "Chia sẻ kiến thức"
+        ]
+      }
+    },
+    "hook_type": {
+      "type": "array",
+      "description": "Cách mở đầu video nhằm thu hút người xem.",
+      "items": {
+        "type": "string",
+        "enum": [
+          "Gây tò mò",
+          "Cho thấy kết quả trước",
+          "Kể chuyện",
+          "Vào thẳng vấn đề",
+          "Đặt câu hỏi",
+          "Phản hồi bình luận",
+          "Khuyến mãi",
+          "So sánh",
+          "Giật tít",
+          "Gây tranh cãi",
+          "Tạo sự đồng cảm"
+        ]
+      }
+    },
+    "tone_of_voice": {
+      "type": "array",
+      "description": "Giọng điệu, cảm xúc của người nói.",
+      "items": {
+        "type": "string",
+        "enum": [
+          "Hào hứng",
+          "Hài hước",
+          "Thân thiện",
+          "Chân thành",
+          "Ngạc nhiên",
+          "Bí ẩn",
+          "Trung lập",
+          "Trang trọng",
+          "Nghiêm túc",
+          "Châm biếm",
+          "Khó chịu",
+          "Giận dữ",
+          "Bốc phốt"
+        ]
+      }
+    },
+    "pacing": {
+      "type": "array",
+      "description": "Nhịp độ của video và lời thoại.",
+      "items": {
+        "type": "string",
+        "enum": ["Nhanh", "Chậm", "Thay đổi"]
+      }
+    },
+    "has_cta": {
+      "type": "string",
+      "enum": ["true", "false"],
+      "description": "Video có kêu gọi hành động (CTA) hay không."
+    },
+    "cta_type": {
+      "type": "array",
+      "description": "Các loại CTA xuất hiện trong video.",
+      "items": {
+        "type": "string",
+        "enum": [
+          "Follow kênh",
+          "Thích video",
+          "Bình luận",
+          "Chia sẻ",
+          "Lưu video",
+          "Xem video tiếp theo",
+          "Truy cập trang cá nhân",
+          "Truy cập link sản phẩm",
+          "Thử làm theo công thức",
+          "Ăn cùng",
+          "Ghé thăm địa điểm",
+          "Chia sẻ công thức",
+          "So sánh",
+          "Đặt câu hỏi"
+        ]
+      }
+    },
+    "content_style": {
+      "type": "array",
+      "description": "Phong cách tổng quát về nội dung và cách diễn đạt video.",
+      "items": {
+        "type": "string",
+        "enum": [
+          "Gen Z",
+          "Truyền thống",
+          "Chuyên nghiệp",
+          "Đời thường",
+          "Sang trọng",
+          "Drama",
+          "Kiến thức",
+          "Sáng tạo",
+          "Nhanh gọn",
+          "Chi tiết"
+        ]
+      }
+    },
+    "audience_target": {
+      "type": "array",
+      "description": "Nhóm khán giả tiềm năng của video.",
+      "items": {
+        "type": "string",
+        "enum": [
+          "Học sinh, sinh viên",
+          "Người đi làm, dân văn phòng",
+          "Phụ huynh, gia đình có trẻ nhỏ",
+          "Người trẻ (Gen Z)",
+          "Người nội trợ, yêu thích nấu ăn tại nhà",
+          "Người ăn chay, ăn healthy",
+          "Người thích ăn vặt, đồ ngọt",
+          "Người yêu thích ẩm thực nước ngoài",
+          "Người thích khám phá ẩm thực tại địa phương",
+          "Khách du lịch, người Việt ở nước ngoài"
+        ]
+      }
+    },
+    "summarization": {
+      "type": "string",
+      "description": "Tóm tắt ngắn gọn nội dung video, nêu rõ mục tiêu chính, các yếu tố chính được đề cập và đánh giá chung (nếu có). (Tối đa 3 câu)"
+    },
+    "hook_content": {
+      "type": "string",
+      "description": "Câu mở đầu thực tế của video, thường nằm ở 1–2 câu đầu. Phải là câu xuất hiện trong transcript, không được viết lại."
+    },
+    "cta_content": {
+      "type": "array",
+      "description": "Danh sách các câu kêu gọi hành động (CTA) cụ thể trong video. Phải lấy đúng nguyên văn trong transcript.",
+      "items": {
+        "type": "string"
+      }
+    },
+    "emotion_keywords": {
+      "type": "array",
+      "description": "Tự liệt kê, dưới dạng một danh sách duy nhất gồm các tính từ, trạng từ hoặc cụm từ thể hiện cảm giác khi ăn hoặc cảm xúc tổng thể.",
+      "items": {
+        "type": "string"
+      }
+    },
+    "highlight_phrases": {
+      "type": "array",
+      "description": "Danh sách các cụm từ nổi bật, dễ viral, thể hiện cảm xúc mạnh hoặc phong cách nói ấn tượng. Không giới hạn số lượng, chỉ cần là câu/cụm từ đặc sắc.",
+      "items": {
+        "type": "string"
+      }
+    },
+    "body_analysis": {
+      "type": "array",
+      "description": "Phân tích nội dung chính của video (không bao gồm hook và CTA).",
+      "items": {
+        "type": "object",
+        "required": ["step", "comment"],
+        "properties": {
+          "step": {
+            "type": "string",
+            "description": "Tên bước nội dung chính (không kèm chú thích)."
+          },
+          "comment": {
+            "type": "string",
+            "description": "Cảm nhận ngắn gọn khi xem phần nội dung tương ứng."
+          }
+        }
+      }
+    }
+  }
+}
