@@ -1,0 +1,57 @@
+{
+  "categories": [
+    "Nấu ăn"
+  ],
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "comment": "Giới thiệu món nghêu hấp thái và công thức làm tại nhà."
+    },
+    {
+      "step": "Hướng dẫn nấu ăn",
+      "comment": "Hướng dẫn chi tiết các bước làm nghêu hấp thái, từ chuẩn bị nguyên liệu đến khi hoàn thành."
+    },
+    {
+      "step": "Lưu ý khi nấu",
+      "comment": "Nhắc nhở không nên nấu nghêu quá lâu để tránh bị teo."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "tê tê",
+    "ngon",
+    "dính"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ta nói cái giọng mà bơ bơ ha, ngồi húp tới nước nghêu hấp thái nó dính thì thôi luôn.",
+    "ngon như ngoài quán luôn"
+  ],
+  "hook_content": "Mỗi lần đi nhậu, tới cái lúc mà TT á là y như rằng lần nào tôi cũng kêu một phần nghêu hấp thái.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn công thức làm nghêu hấp thái tại nhà ngon như ngoài quán. Các bước thực hiện bao gồm phi thơm sả ớt, nêm gia vị và nấu nghêu đến khi mở miệng. Lưu ý không nên nấu quá lâu để nghêu không bị teo.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

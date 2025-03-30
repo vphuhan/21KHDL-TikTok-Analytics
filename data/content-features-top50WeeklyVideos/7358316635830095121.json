@@ -1,0 +1,77 @@
+{
+  "categories": [
+    "Review món ăn",
+    "Nấu ăn",
+    "Review quán ăn"
+  ],
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "comment": "Mở đầu bằng việc so sánh xôi chiên mua ở quán và tự làm."
+    },
+    {
+      "step": "Mua xôi chiên ở quán",
+      "comment": "Mua 8 cái xôi chiên với giá 54.000 và mô tả thành phần bên trong."
+    },
+    {
+      "step": "Xôi chiên tự làm",
+      "comment": "Giới thiệu xôi chiên tự làm với số lượng 10 miếng, nhiều nhân hơn."
+    },
+    {
+      "step": "Công thức và chi phí",
+      "comment": "Chia sẻ công thức nước dùng đơn giản và liệt kê chi phí nguyên liệu làm xôi chiên."
+    },
+    {
+      "step": "Nhận xét",
+      "comment": "Đưa ra nhận xét về sự khác biệt giữa xôi chiên mua và tự làm."
+    },
+    {
+      "step": "Thử món ăn",
+      "comment": "Thử món ăn và khẳng định việc so sánh chỉ mang tính chất vui vẻ."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Tôi tò mò, bạn cũng thế."
+  ],
+  "cta_type": [
+    "So sánh"
+  ],
+  "emotion_keywords": [
+    "tò mò",
+    "vui"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "50.000 xôi chiên ở quán và 50.000 xôi chiên tự làm với tiêu chí vui thôi.",
+    "Tôi tò mò, bạn cũng thế."
+  ],
+  "hook_content": "nói nhiều nữa. 50.000 xôi chiên ở quán và 50.000 xôi chiên tự làm với tiêu chí vui thôi. Tôi tò mò, bạn cũng thế.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Gây tò mò",
+    "So sánh"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "So sánh",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video so sánh xôi chiên mua ở quán và tự làm với ngân sách 50.000 VNĐ. Người làm tự làm xôi với số lượng nhiều hơn và chia sẻ công thức, chi phí. Kết luận việc so sánh chỉ mang tính chất vui vẻ.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

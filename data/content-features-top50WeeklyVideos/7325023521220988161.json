@@ -1,0 +1,42 @@
+{
+  "categories": ["Nấu ăn"],
+  "audience_target": ["Người nội trợ, yêu thích nấu ăn tại nhà"],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "comment": "Món bún thịt nướng làm nhanh trong 30 phút."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "comment": "Thịt vai hoặc ba rọi cắt lát mỏng, xay nhuyễn tỏi và hành tím."
+    },
+    {
+      "step": "Ướp thịt",
+      "comment": "Ướp thịt với các loại gia vị và sả, để thấm trong 10 phút."
+    },
+    {
+      "step": "Nướng thịt",
+      "comment": "Cho thịt vào nồi chiên không dầu và nướng ở 160 độ trong 18 phút."
+    },
+    {
+      "step": "Pha nước mắm",
+      "comment": "Pha nước mắm theo công thức trên màn hình, thêm ớt tỏi xay."
+    },
+    {
+      "step": "Trình bày",
+      "comment": "Cho bún, rau, thịt nướng ra tô và chan nước mắm."
+    }
+  ],
+  "content_style": ["Đời thường", "Nhanh gọn"],
+  "cta_content": ["Nhớ thử nha"],
+  "cta_type": ["Thử làm theo công thức"],
+  "emotion_keywords": [],
+  "has_cta": "true",
+  "highlight_phrases": [],
+  "hook_content": "Làm món thịt nướng đơn giản cho cả nhà ăn chỉ tốn có 30 phút thôi.",
+  "hook_type": ["Vào thẳng vấn đề"],
+  "pacing": ["Nhanh"],
+  "structure_style": ["Hướng dẫn"],
+  "summarization": "Video hướng dẫn làm món bún thịt nướng đơn giản, nhanh chóng trong 30 phút. Các bước bao gồm sơ chế, ướp thịt, nướng thịt, pha nước mắm và trình bày.",
+  "tone_of_voice": ["Thân thiện"]
+}

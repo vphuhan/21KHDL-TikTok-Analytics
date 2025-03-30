@@ -1,0 +1,78 @@
+{
+  "categories": [
+    "Nấu ăn"
+  ],
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "comment": "Giới thiệu các nguyên liệu đã chuẩn bị sẵn."
+    },
+    {
+      "step": "Sơ chế xương",
+      "comment": "Luộc sơ xương để loại bỏ bọt và chất bẩn."
+    },
+    {
+      "step": "Hầm xương",
+      "comment": "Bắt đầu hầm xương với rượu nấu ăn để khử mùi."
+    },
+    {
+      "step": "Làm kim chi ớt dưa leo",
+      "comment": "Trộn các nguyên liệu làm kim chi."
+    },
+    {
+      "step": "Chuẩn bị cải muối",
+      "comment": "Xé nhỏ cải muối và trộn với tương đậu, tương ớt."
+    },
+    {
+      "step": "Nấu canh khoai tây hầm xương",
+      "comment": "Cho cá cơm xay, khoai tây, ớt bột, bột lá mè vào hầm."
+    },
+    {
+      "step": "Cho ba ăn thử",
+      "comment": "Đánh giá món kim chi làm trước đó."
+    },
+    {
+      "step": "Chuẩn bị ăn tối",
+      "comment": "Dọn canh và mời mọi người ăn cơm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mời mọi người ăn cơm chung với cả nhà mình nha"
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thèm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ăn chung là nhất nách luôn á mọi người",
+    "Nghe cái tiếng ba tụi nó nhai mà mắc thèm luôn á",
+    "Ớt kim chi ngon quá nè"
+  ],
+  "hook_content": "trước mình có làm cái hộp kim chi củ cải, bữa nay nó ngon quá trời luôn rồi, nên là bây giờ mình sẽ đi rớt tùng hơn, ghé qua cái tiệm mình mua thêm mớ xương nữa, về làm cái món canh hầm khoai tây, canh khoai tây hầm xương trước, ăn chung là nhất nách luôn á mọi người.",
+  "hook_type": [
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ quá trình nấu món canh khoai tây hầm xương và làm kim chi ớt dưa leo để ăn cùng. Người nấu giới thiệu nguyên liệu, các bước sơ chế và nấu nướng, đồng thời mời mọi người cùng ăn cơm. Cuối video là cảm nhận về món ăn.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

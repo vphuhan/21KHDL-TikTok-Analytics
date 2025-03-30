@@ -1,0 +1,65 @@
+{
+  "categories": [
+    "Nấu ăn"
+  ],
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu nguyên liệu",
+      "comment": "Liệt kê các loại mì, xúc xích, hành baro, bông cải, tỏi, trứng và gia vị."
+    },
+    {
+      "step": "Sơ chế",
+      "comment": "Hướng dẫn cắt xúc xích, hành baro, xay tỏi và đầu hành trắng."
+    },
+    {
+      "step": "Pha trộn gia vị",
+      "comment": "Trộn các gói gia vị với lòng đỏ trứng."
+    },
+    {
+      "step": "Luộc và xào",
+      "comment": "Luộc sơ bông cải, luộc trứng lòng đào, xào xúc xích và hỗn hợp tỏi hành."
+    },
+    {
+      "step": "Nấu mì",
+      "comment": "Xào thơm hỗn hợp tỏi, hành, cho nước và gia vị vào, thêm mì và nấu."
+    },
+    {
+      "step": "Hoàn thành",
+      "comment": "Thêm phô mai (tùy chọn), cho topping và thưởng thức."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "dính"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mọi người thử nấu mì cay theo cách này đi, đảm bảo dính nha."
+  ],
+  "hook_content": "Mọi người thử nấu mì cay theo cách này đi, đảm bảo dính nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách nấu mì cay tại nhà một cách nhanh gọn và chi tiết. Người nấu giới thiệu các nguyên liệu, sơ chế, pha trộn gia vị, luộc, xào và nấu mì. Cuối cùng là thêm topping và thưởng thức.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

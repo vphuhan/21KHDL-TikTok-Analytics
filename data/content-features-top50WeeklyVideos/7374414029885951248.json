@@ -1,0 +1,65 @@
+{
+  "categories": [
+    "Review món ăn"
+  ],
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bạch tuộc ăn liền",
+      "comment": "Mô tả sản phẩm đã được hấp và cấp đông, chỉ cần rã đông để ăn."
+    },
+    {
+      "step": "Rã đông và miêu tả sản phẩm",
+      "comment": "Cân nặng và giá tiền được đề cập, cùng với nhận xét ban đầu về mùi tanh."
+    },
+    {
+      "step": "Ăn thử và đánh giá",
+      "comment": "Nhận xét về độ dai, giòn và vị mặn của bạch tuộc ở các phần khác nhau."
+    },
+    {
+      "step": "Đánh giá chung",
+      "comment": "So sánh với bạch tuộc thông thường và cảm nhận về độ no sau khi ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "dai",
+    "giòn",
+    "mỏi miệng",
+    "tanh",
+    "no"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "mình vừa mua được cái con thủy quái này",
+    "Cái mùi của nó khá là tanh",
+    "Nhai khá là mỏi miệng rồi đấy",
+    "ăn cái này thì nhanh no thật",
+    "bán nguyên con nhìn hay hay á"
+  ],
+  "hook_content": "mình vừa mua được cái con thủy quái này mọi người ạ.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review bạch tuộc ăn liền sau khi rã đông. Người review mô tả hình dáng, mùi vị và độ dai của bạch tuộc, đồng thời so sánh với bạch tuộc thông thường. Cuối cùng, đưa ra đánh giá về trải nghiệm ăn thử.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

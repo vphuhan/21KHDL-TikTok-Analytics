@@ -1,0 +1,81 @@
+{
+  "categories": [
+    "Review quán ăn",
+    "Review sản phẩm ăn uống",
+    "Review món ăn"
+  ],
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Đi chợ mua nguyên liệu",
+      "comment": "Chọn mua các nguyên liệu tươi ngon cho món lẩu cá tra."
+    },
+    {
+      "step": "Giới thiệu các món ăn kèm",
+      "comment": "Liệt kê các món ăn khác như cháo gà nấm, ốc đắng."
+    },
+    {
+      "step": "Giới thiệu sản phẩm hỗ trợ sức khỏe",
+      "comment": "Quảng cáo tinh dầu thông đỏ và đông trùng hạ thảo."
+    },
+    {
+      "step": "Ra sân bay",
+      "comment": "Di chuyển ra sân bay để về lại hàng."
+    },
+    {
+      "step": "Ăn phở ở sân bay",
+      "comment": "Thưởng thức phở trước khi chia tay."
+    },
+    {
+      "step": "Tạm biệt người thân",
+      "comment": "Xúc động chia tay người thân trước khi lên máy bay."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Ai có nhu cầu thì nhắn cho Misu shop giùm mình nha.",
+    "Shop còn nhiều sản phẩm tốt cho sức khỏe khác như bổ não cao hồng sâm.",
+    "là địa chỉ uy tín đã mười người mua hàng hàng chẫn cho gia đình mình."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "mừng vui",
+    "buồn hiu",
+    "mến tay mến chân",
+    "không khóc mà ảnh khóc ngon lành",
+    "ngon giấc"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn tới bể tiến luôn mà.",
+    "Về có 20 ngày chưa ăn uống được gì hết trơn rồi tới ngày đi nữa rồi.",
+    "Giờ thì về đại hàn cày cuốc, cố gắng để tới Tết mình sẽ đưa hai bạn nhỏ về thăm ông bà một lần nữa nha."
+  ],
+  "hook_content": "Đây là cái ngày mà muốn hay không gì bọn mình cũng phải quay lại hàng.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại ngày cuối cùng của gia đình ở Việt Nam trước khi trở lại Hàn Quốc. Họ đi chợ mua sắm, ăn lẩu cá tra chia tay, giới thiệu sản phẩm chăm sóc sức khỏe cho ông bà. Cuối cùng, cả gia đình ra sân bay, xúc động chia tay người thân và hứa hẹn sẽ sớm trở lại.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

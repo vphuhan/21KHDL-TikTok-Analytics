@@ -1,0 +1,77 @@
+{
+  "categories": [
+    "Nấu ăn"
+  ],
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn và nguyên liệu",
+      "comment": "Mô tả quá trình chuẩn bị nguyên liệu và mua sắm."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "comment": "Các bước sơ chế và chuẩn bị nguyên liệu được thực hiện cẩn thận."
+    },
+    {
+      "step": "Nấu nước dùng",
+      "comment": "Hướng dẫn chi tiết cách nấu nước dùng bún bò."
+    },
+    {
+      "step": "Chuẩn bị rau ăn kèm",
+      "comment": "Giới thiệu các loại rau ăn kèm tươi ngon."
+    },
+    {
+      "step": "Trình bày và thưởng thức",
+      "comment": "Thành phẩm bún bò hấp dẫn và quá trình thưởng thức món ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Ai mà có thèm bún bò thì cứ lên Thái Dương Mắc mà gom về nấu nghe."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "thèm",
+    "ngon",
+    "tê tái",
+    "đã",
+    "vừa vị",
+    "mê"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "đang học trong lớp cái tự nhiên thèm tôi bún bò ngan xương",
+    "lần mua lần khó nên mỗi lần mua là cả thùng vậy không đó",
+    "Gắp thử đũa ăn trước mà tôi nói nó ngon tê tái hết, cái cục gân bò mà chấm vô cái chén nước mắm có bốn trái ớt tôi nói nó đã",
+    "Gắp đũa bốn cắn thêm miếng chả lụa tao nói không có còn gì diễn tả được hết"
+  ],
+  "hook_content": "đang học trong lớp cái tự nhiên thèm tôi bún bò ngan xương, thế là phải ghi nguyên liệu ra giấy rồi ghé ngang siêu thị gần nhà kiếm cái nồi to to, chứ ở nhà không có được cái nồi nào mà ra hồn hết trơn.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình tự nấu bún bò huế tại nhà của một người đang sinh sống ở Nhật Bản. Từ việc đi mua nguyên liệu ở siêu thị Thái Dương Mart, sơ chế, nấu nước dùng, đến khi hoàn thành món ăn và thưởng thức. Người này chia sẻ trải nghiệm nấu ăn và cảm nhận về hương vị món bún bò tự nấu.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

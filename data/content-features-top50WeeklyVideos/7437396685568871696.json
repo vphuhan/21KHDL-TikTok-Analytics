@@ -1,0 +1,95 @@
+{
+  "categories": [
+    "Review quán ăn",
+    "Review món ăn",
+    "Review sản phẩm ăn uống"
+  ],
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu chocolate bomb",
+      "comment": "Mở đầu bằng việc giới thiệu sản phẩm chocolate bomb từ hai địa điểm khác nhau."
+    },
+    {
+      "step": "Đánh giá sữa",
+      "comment": "Đánh giá hương vị sữa của hai quán, so sánh và đưa ra cảm nhận cá nhân."
+    },
+    {
+      "step": "Thử nghiệm chocolate bomb",
+      "comment": "Thực hiện thử nghiệm bằng cách thả chocolate bomb vào sữa nóng và quan sát sự thay đổi."
+    },
+    {
+      "step": "Đánh giá hương vị sau khi pha",
+      "comment": "Đánh giá hương vị của đồ uống sau khi chocolate bomb tan chảy, so sánh giữa hai quán."
+    },
+    {
+      "step": "Thử nghiệm với sữa Ông Thọ",
+      "comment": "Thử nghiệm với sữa Ông Thọ để so sánh hương vị."
+    },
+    {
+      "step": "Thử nghiệm các vị khác",
+      "comment": "Thử nghiệm các vị khác của chocolate bomb."
+    },
+    {
+      "step": "Chấm điểm",
+      "comment": "Chấm điểm các loại đồ uống đã thử."
+    },
+    {
+      "step": "Đánh giá tổng quan",
+      "comment": "Đánh giá tổng quan về trải nghiệm và đưa ra lời khuyên."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Mọi người ơi qua quán Giang.",
+    "Mọi người nên thử nên cả hai tiệm luôn.",
+    "Nói gì cái nào thì chụp hình."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Chia sẻ",
+    "So sánh"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "ngọt vừa phải",
+    "béo béo",
+    "ngọt gắt",
+    "thích mắt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "bơm vô thì nó mới nở ra là móp cái ly này là chảy nhựa này nè",
+    "Má ơi giờ bị u tê luôn á má.",
+    "Mấy cái bệnh ca hiện tại là nhờ mấy ba mấy má này nè.",
+    "Panda bao thầu luôn!",
+    "móp cái ly này là chảy nhựa này nè",
+    "máy đỉnh máy đỉnh máy đỉnh"
+  ],
+  "hook_content": "bơm vô thì nó mới nở ra là móp cái ly này là chảy nhựa này nè.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review chocolate bomb từ hai quán khác nhau là Lúc Anh Lúc Ánh và một tiệm cà phê. Người review so sánh hương vị sữa, cách chế biến, và đánh giá các loại chocolate bomb khác nhau như matcha và ca cao. Cuối cùng, đưa ra lời khuyên nên thử cả hai tiệm và chụp ảnh.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành",
+    "Châm biếm"
+  ]
+}

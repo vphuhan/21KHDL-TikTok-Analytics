@@ -1,0 +1,38 @@
+{
+  "categories": ["Review món ăn"],
+  "audience_target": ["Người trẻ (Gen Z)", "Người thích ăn vặt, đồ ngọt"],
+  "body_analysis": [
+    {
+      "step": "Mở hộp quà",
+      "comment": "Tò mò về món quà được tặng."
+    },
+    {
+      "step": "Đánh giá món quà",
+      "comment": "Hài hước khi nhận ra món quà không như mong đợi."
+    },
+    {
+      "step": "Chế biến món ăn",
+      "comment": "Sáng tạo khi kết hợp các nguyên liệu có sẵn."
+    },
+    {
+      "step": "Khẳng định tình cảm",
+      "comment": "Nhấn mạnh giá trị tinh thần hơn vật chất."
+    }
+  ],
+  "content_style": ["Gen Z", "Đời thường", "Sáng tạo", "Nhanh gọn"],
+  "cta_content": ["Có thì mọi người biết phải làm gì rồi đấy"],
+  "cta_type": ["Ghé thăm địa điểm"],
+  "emotion_keywords": ["vui", "ngon"],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nhà em có gì em tặng cái nấy.",
+    "Anh em mình đến với nhau nó là cái tình cảm.",
+    "Em cho gì anh ăn nấy."
+  ],
+  "hook_content": "Hộp quà của anh em Vio tặng. Phần hai.",
+  "hook_type": ["Gây tò mò"],
+  "pacing": ["Thay đổi"],
+  "structure_style": ["Chia sẻ trải nghiệm cá nhân", "Kịch hóa"],
+  "summarization": "Video mở hộp quà từ người hâm mộ, bên trong là gói phở không gia vị được đựng trong vỏ mì Hảo Hảo. Chủ kênh vui vẻ chấp nhận và chế biến món ăn từ những gì mình có, nhấn mạnh tình cảm quan trọng hơn vật chất. Cuối video kêu gọi mọi người tặng quà trong phiên live sắp tới.",
+  "tone_of_voice": ["Hài hước", "Thân thiện", "Chân thành", "Ngạc nhiên"]
+}

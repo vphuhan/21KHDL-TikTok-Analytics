@@ -1,0 +1,74 @@
+{
+  "categories": [
+    "Nấu ăn",
+    "Review món ăn"
+  ],
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Luộc trứng lòng đào",
+      "comment": "Hướng dẫn cách luộc trứng lòng đào hoàn hảo."
+    },
+    {
+      "step": "Cắt hành tây và táo",
+      "comment": "Chuẩn bị nguyên liệu cho phần nước tương Nhật."
+    },
+    {
+      "step": "Pha nước tương Nhật",
+      "comment": "Hướng dẫn chi tiết cách pha nước tương Nhật."
+    },
+    {
+      "step": "Cắt hành tây, tỏi, ớt, hành lá",
+      "comment": "Chuẩn bị nguyên liệu cho phần nước tương Việt Nam."
+    },
+    {
+      "step": "Pha nước tương Việt Nam",
+      "comment": "Hướng dẫn chi tiết cách pha nước tương Việt Nam."
+    },
+    {
+      "step": "Ngâm trứng với nước tương",
+      "comment": "Hướng dẫn cách ngâm trứng và thời gian bảo quản."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "chọn một trong hai để làm thử nhé"
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "số zách"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ăn kèm với lại cơm nóng là số zách luôn",
+    "Ngon nhất là qua đêm"
+  ],
+  "hook_content": "Đây là trứng ngâm tương và đây cũng là trứng ngâm tương, nhưng mà khác nhau là một cái là bằng nước tương Nhật và một cái là bằng nước tương Việt Nam.",
+  "hook_type": [
+    "So sánh",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "So sánh"
+  ],
+  "summarization": "Video hướng dẫn 2 cách làm trứng ngâm tương: một cách dùng nước tương Nhật và một cách dùng nước tương Việt Nam. Video cung cấp công thức chi tiết và thời gian bảo quản cho mỗi loại. Người xem có thể chọn một trong hai cách để thử làm tại nhà.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

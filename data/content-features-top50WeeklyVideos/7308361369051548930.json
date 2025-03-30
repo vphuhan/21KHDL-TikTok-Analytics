@@ -1,0 +1,30 @@
+{
+  "categories": ["Review món ăn", "Mukbang"],
+  "audience_target": ["Người trẻ (Gen Z)", "Người thích ăn vặt, đồ ngọt"],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu chân giò muối",
+      "comment": "Mô tả cân nặng sản phẩm."
+    },
+    {
+      "step": "Ăn thử",
+      "comment": "Đánh giá hương vị và độ giòn."
+    },
+    {
+      "step": "Đề xuất ăn kèm",
+      "comment": "Gợi ý chấm tương ớt để tăng hương vị."
+    }
+  ],
+  "content_style": ["Đời thường", "Nhanh gọn"],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": ["giòn", "ngấy", "mặn"],
+  "has_cta": "false",
+  "highlight_phrases": ["thịt muối ăn liền", "ăn giòn và không bị ngấy", "chấm tương ớt thì mình thấy ăn quá đã luôn"],
+  "hook_content": "Mời mọi người cùng mình ăn chân giò muối nha.",
+  "hook_type": ["Vào thẳng vấn đề"],
+  "pacing": ["Chậm"],
+  "structure_style": ["Chia sẻ trải nghiệm cá nhân"],
+  "summarization": "Video mukbang chân giò muối mua sẵn trong siêu thị. Người nói đánh giá độ giòn, vị mặn vừa phải và gợi ý chấm cùng tương ớt. Nhìn chung đây là một món ăn nhanh gọn, tiện lợi.",
+  "tone_of_voice": ["Thân thiện"]
+}

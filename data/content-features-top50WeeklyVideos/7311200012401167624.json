@@ -1,0 +1,30 @@
+{
+  "categories": ["Review món ăn", "Mukbang"],
+  "audience_target": ["Người thích ăn vặt, đồ ngọt", "Người thích khám phá ẩm thực tại địa phương"],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu mộng dừa",
+      "comment": "Tò mò về hình dáng và kích thước của mộng dừa."
+    },
+    {
+      "step": "Chia sẻ trải nghiệm",
+      "comment": "Diễn tả quá trình khó khăn để lấy được mộng dừa."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "comment": "Nhận xét về độ ngọt và kết cấu của mộng dừa."
+    }
+  ],
+  "content_style": ["Đời thường"],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": ["ngon", "ngọt"],
+  "has_cta": "false",
+  "highlight_phrases": ["mộng dừa này ăn ngọt thật"],
+  "hook_content": "Review cả thế giới mộng dừa, lúc đầu khi mà háng về mình cứ tưởng là nhầm, sau đó nhắn tin cho người bán thì mới biết, hóa ra là cái cây này phải mất cả tiếng đồng hồ thì mình mới có thể lấy được nó ra, nhưng mà nó to thật đấy.",
+  "hook_type": ["Gây tò mò"],
+  "pacing": ["Chậm"],
+  "structure_style": ["Chia sẻ trải nghiệm cá nhân", "Mô tả đặc điểm"],
+  "summarization": "Video review món mộng dừa, chia sẻ về quá trình lấy mộng dừa và đánh giá hương vị. Mộng dừa được nhận xét là ngọt nhưng hơi sốp.",
+  "tone_of_voice": ["Thân thiện"]
+}

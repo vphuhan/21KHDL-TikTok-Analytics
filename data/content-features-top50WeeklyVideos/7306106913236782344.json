@@ -1,0 +1,91 @@
+{
+  "categories": [
+    "Nấu ăn",
+    "Review món ăn"
+  ],
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "comment": "Giới thiệu món tép chiên bột tự làm."
+    },
+    {
+      "step": "Mua nguyên liệu",
+      "comment": "Đi chợ mua tép và các nguyên liệu khác."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "comment": "Lặt tép, cắt khoai môn."
+    },
+    {
+      "step": "Pha bột",
+      "comment": "Pha bột bánh xèo và bột gạo, nêm gia vị."
+    },
+    {
+      "step": "Chiên bánh",
+      "comment": "Chiên tép và khoai môn với bột."
+    },
+    {
+      "step": "Làm nước chấm",
+      "comment": "Chuẩn bị nước mắm chua ngọt."
+    },
+    {
+      "step": "Chuẩn bị rau",
+      "comment": "Chuẩn bị rau sống ăn kèm."
+    },
+    {
+      "step": "Thưởng thức",
+      "comment": "Mời mọi người cùng ăn."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "comment": "Giới thiệu collagen."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn với nhà mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "vừa ăn",
+    "giòn rộp rộp",
+    "đẹp da",
+    "dễ uống"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ăn ngon ơi là ngon",
+    "ăn thử tép chiên bột tại hàng",
+    "ngồi lặt muốn rãy cái lưng",
+    "giờ chiên ra nhiều ghê luôn á",
+    "giòn rộp rộp"
+  ],
+  "hook_content": "Giờ giờ mình ăn cái món tép chiên bột này ở Việt Nam thôi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ quá trình làm món tép chiên bột tại Hàn Quốc. Từ khâu chuẩn bị nguyên liệu, sơ chế, pha bột, chiên bánh đến làm nước chấm và thưởng thức cùng rau sống. Đồng thời, video cũng giới thiệu sản phẩm collagen giúp đẹp da.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

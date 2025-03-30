@@ -1,0 +1,71 @@
+{
+  "categories": [
+    "Nấu ăn",
+    "Review món ăn"
+  ],
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "comment": "Anh Tuấn giới thiệu món cá hồi nấu măng cua và món cà ri tôm."
+    },
+    {
+      "step": "Chuẩn bị và sơ chế",
+      "comment": "Anh cắt cá hồi, ướp gia vị và tranh thủ nấu trước vì sợ khách đến."
+    },
+    {
+      "step": "Khách đến",
+      "comment": "Khách đến mang theo rất nhiều đồ ăn, khiến anh phải để món cà ri tôm lại nấu sau."
+    },
+    {
+      "step": "Nấu ăn và dọn dẹp",
+      "comment": "Anh tiếp tục nấu món lẩu cá hồi, dọn dẹp bếp để mọi người hấp tôm, ghẹ."
+    },
+    {
+      "step": "Mời mọi người ăn",
+      "comment": "Anh mời mọi người về nhà mình để cùng ăn uống."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Xin mời cả nhà ăn cùng mấy anh em Tuấn."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "vui",
+    "náo nhiệt",
+    "mệt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Con cá hồi 4 kí, đố các nhà, Tuấn sẽ làm món gì với nó nha.",
+    "Bữa nay ăn xong chắc đem giấu cái cân luôn.",
+    "Khách tới nhà bắt khách làm luôn vậy mới ngầu nha bà con.",
+    "Tuấn còn trẻ lắm cả nhà ơi, năm nay mới gần có 60 à."
+  ],
+  "hook_content": "Con cá hồi 4 kí, đố các nhà, Tuấn sẽ làm món gì với nó nha.",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Anh Tuấn làm món lẩu cá hồi măng chua đãi khách tại nhà. Khách đến mang theo nhiều đồ ăn, anh vui vẻ nấu nướng và mời mọi người cùng ăn. Anh còn hài hước chia sẻ về việc bị gọi là chú khiến anh thấy mệt.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "categories": [
+    "Review quán ăn",
+    "Review món ăn"
+  ],
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "comment": "Giới thiệu cơm chiên cây điệp."
+    },
+    {
+      "step": "Đánh giá phần cơm",
+      "comment": "Nhận xét về cơm, đồ ăn kèm và nước chấm."
+    },
+    {
+      "step": "Đánh giá chi tiết các thành phần",
+      "comment": "Đánh giá da gà, chả cá, trứng."
+    },
+    {
+      "step": "So sánh với review khác",
+      "comment": "Nhận xét về sự khác biệt so với các review trước đó."
+    },
+    {
+      "step": "Đánh giá chung",
+      "comment": "Đưa ra kết luận về giá cả và chất lượng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Tôi tò mò, bạn cũng thế."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "ngấy",
+    "thất vọng",
+    "tò mò",
+    "hụt hẫng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "bốc theo cảm tính",
+    "tiêu chuẩn kép",
+    "tiền ít mà đòi nhiều"
+  ],
+  "hook_content": "ăn thử cơm chiên cái điểm đi anh.",
+  "hook_type": [
+    "Gây tò mò",
+    "Phản hồi bình luận"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review cơm chiên cây điệp với giá 35k. Người review đánh giá về cơm, đồ ăn kèm và so sánh với các review khác. Mặc dù có một số điểm chưa hài lòng, nhưng tổng thể vẫn chấp nhận được với mức giá.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

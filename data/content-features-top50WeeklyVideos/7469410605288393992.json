@@ -1,0 +1,83 @@
+{
+  "categories": [
+    "Review quán ăn",
+    "Review món ăn"
+  ],
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bánh flan và cà phê",
+      "comment": "Mô tả giá và sự tò mò về giá trị của món ăn."
+    },
+    {
+      "step": "Uống thử cà phê muối",
+      "comment": "Đánh giá hương vị cà phê đậm đà, béo và vừa miệng."
+    },
+    {
+      "step": "Mở bánh flan",
+      "comment": "Nhận xét về giá cả và nguồn gốc thông tin về quán."
+    },
+    {
+      "step": "Ăn thử bánh flan",
+      "comment": "Đánh giá độ mịn, vị béo của sữa và caramel, so sánh với kỳ vọng."
+    },
+    {
+      "step": "Đánh giá chung về bánh flan",
+      "comment": "Nhận xét về thành phần, độ béo và cảm giác lạ miệng."
+    },
+    {
+      "step": "So sánh bánh flan",
+      "comment": "Nhận xét về độ lỏng so với bánh flan khác, đánh giá tổng quan."
+    },
+    {
+      "step": "Đánh giá cảm tính và hỏi ý kiến người xem",
+      "comment": "Chấm điểm và mời người xem bình luận về giá cả."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "280.000 với mọi người là mắc hay là rẻ thì mọi người comment vô"
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "dịu",
+    "dễ thương",
+    "đậm đà",
+    "béo",
+    "vừa phải",
+    "ngon",
+    "dễ chịu",
+    "thơm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "bánh plan 300 trời đất ơi",
+    "sao cái bánh plan 300 vô cái tay tôi nó dẹp bẹp luôn vậy trời",
+    "mấy cái ngon như vậy nè không có cho Thiên An"
+  ],
+  "hook_content": "Bánh plan 300.000, ly cà phê 50.000, trời ơi trớn đau cái bánh plan 300.000.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review bánh flan 300k và cà phê muối tại một quán ăn. Người nói thử và đánh giá hương vị, độ mịn của bánh flan, đồng thời so sánh với các loại bánh flan khác. Cuối video, người nói chấm điểm và hỏi ý kiến người xem về giá cả.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "categories": ["Review món ăn"],
+  "audience_target": ["Học sinh, sinh viên", "Người trẻ (Gen Z)", "Người thích khám phá ẩm thực tại địa phương"],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món dộp hấp muối",
+      "comment": "Mở đầu bằng giới thiệu món ăn và cảm nhận cá nhân."
+    },
+    {
+      "step": "Miêu tả dộp",
+      "comment": "Nhấn mạnh độ dai, ngọt và giá cả phải chăng."
+    },
+    {
+      "step": "Quá trình chuẩn bị và hấp",
+      "comment": "Hướng dẫn cách ngâm, rửa và hấp dộp với muối và sả."
+    },
+    {
+      "step": "Chia sẻ kinh nghiệm hấp",
+      "comment": "Lưu ý thời gian hấp để dộp không bị mặn."
+    },
+    {
+      "step": "Thưởng thức",
+      "comment": "Miêu tả hương vị khi ăn kèm muối ớt."
+    }
+  ],
+  "content_style": ["Đời thường", "Nhanh gọn"],
+  "cta_content": ["Giờ thì mời mọi người ăn chung với tôi nghe"],
+  "cta_type": ["Ăn cùng"],
+  "emotion_keywords": ["siêu dai ngọt", "ngọt", "cay xê xêm", "tê tê tâm hồn", "ú nu", "đã ghê", "dai ngọt ngập miệng", "ngon chấn động", "đã"],
+  "has_cta": "true",
+  "highlight_phrases": ["ăn siêu dai ngọt", "20 cành một ký", "ăn cùng với muối ớt đâm cay cay ta nói nó ngon chấn động luôn"],
+  "hook_content": "Hôm nay review một loại sò mà ăn siêu dai ngọt, nhìn tưởng đâu con nghén đắt đỏ chứ thật ra có 20 cành một ký hà.",
+  "hook_type": ["Gây tò mò", "Vào thẳng vấn đề"],
+  "pacing": ["Nhanh"],
+  "structure_style": ["Mô tả đặc điểm", "Chia sẻ trải nghiệm cá nhân", "Hướng dẫn"],
+  "summarization": "Video giới thiệu món dộp hấp muối, một món ăn có giá cả phải chăng và hương vị dai ngọt đặc trưng. Người bán chia sẻ cách chọn, sơ chế và hấp dộp để đạt được hương vị ngon nhất, đồng thời gợi ý ăn kèm với muối ớt cay. Cuối video mời mọi người cùng ăn.",
+  "tone_of_voice": ["Hào hứng", "Thân thiện"]
+}

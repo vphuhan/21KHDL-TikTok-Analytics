@@ -1,0 +1,81 @@
+{
+  "categories": [
+    "Nấu ăn",
+    "Review món ăn"
+  ],
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "comment": "Món ăn phù hợp để đổi vị."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "comment": "Hướng dẫn sơ chế bao tử và lưỡi heo để khử mùi và tăng độ giòn."
+    },
+    {
+      "step": "Sơ chế các nguyên liệu khác",
+      "comment": "Rửa nấm và rau củ."
+    },
+    {
+      "step": "Sơ chế bao tử và lưỡi",
+      "comment": "Hướng dẫn cắt bao tử và lưỡi."
+    },
+    {
+      "step": "Ướp bao tử và lưỡi",
+      "comment": "Hướng dẫn ướp gia vị."
+    },
+    {
+      "step": "Xào bao tử và lưỡi",
+      "comment": "Xào bao tử và lưỡi đã ướp."
+    },
+    {
+      "step": "Nấu bao tử và lưỡi",
+      "comment": "Hướng dẫn nấu với nước dừa và các nguyên liệu khác."
+    },
+    {
+      "step": "Hoàn thành",
+      "comment": "Thêm hành và tiêu xanh."
+    },
+    {
+      "step": "Thưởng thức",
+      "comment": "Gợi ý cách ăn và cảm nhận món ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Giờ thì hai mời mọi người cùng ăn bao tử với lưỡi heo nấu tiêu xanh với hai nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngán",
+    "thơm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bao tử với lưỡi heo á thì mềm, giòn giòn, thơm mùi tiêu xanh, chấm với bánh mì hoặc là chan bún ăn rất là ngon luôn.",
+    "Mọi người ngán cá, ngán thịt á, Tết này mình làm thử món này ăn nha."
+  ],
+  "hook_content": "nay mà đang chán cá, ngán thịt, nhất là dịp Tết á, thịt cá ăn nhiều cũng ngán thì mình thử đổi qua nấu món này nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn nấu món bao tử lưỡi heo nấu tiêu xanh, bắt đầu bằng việc giới thiệu món ăn như một gợi ý thay thế cho các món thịt cá ngày Tết. Sau đó, video hướng dẫn chi tiết các bước sơ chế, ướp và nấu món ăn. Cuối cùng, người nói mời mọi người cùng ăn và gợi ý cách thưởng thức món ăn.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

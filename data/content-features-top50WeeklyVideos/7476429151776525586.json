@@ -1,0 +1,66 @@
+{
+  "categories": [
+    "Nấu ăn",
+    "Review món ăn"
+  ],
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu nguyên liệu và cách làm rượu mía",
+      "comment": "Thao tác nhanh, dễ hình dung."
+    },
+    {
+      "step": "Hướng dẫn ủ rượu mía",
+      "comment": "Hướng dẫn chi tiết, rõ ràng."
+    },
+    {
+      "step": "Thành phẩm và cảm nhận",
+      "comment": "Mô tả hấp dẫn, kích thích vị giác."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Truyền thống",
+    "Kiến thức",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "bạn cũng nhanh tay làm thử ở nhà đi nhé"
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm lừng",
+    "say say",
+    "ngọt thanh",
+    "ngon miệng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "chỉ cần rắc hai gói muối ăn vào mía, lại có thể làm ra món ngon kinh điển, chỉ giới nhà giàu mới được ăn vào những năm 60",
+    "còn ngon hơn cả bào ngư hải sâm nữa đó",
+    "vừa ngọt thanh vừa ngon miệng, nồng độ cồn thấp, hơi say say, không say xỉn"
+  ],
+  "hook_content": "Ai mà ngờ được, chỉ cần rắc hai gói muối ăn vào mía, lại có thể làm ra món ngon kinh điển, chỉ giới nhà giàu mới được ăn vào những năm 60.",
+  "hook_type": [
+    "Gây tò mò",
+    "Giật tít"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ kiến thức"
+  ],
+  "summarization": "Video hướng dẫn cách làm rượu mía lên men tại nhà, món ăn được giới thiệu là kinh điển và chỉ nhà giàu mới có vào những năm 60. Các bước thực hiện bao gồm xay mía, ủ men và lọc lấy nước rượu. Thành phẩm rượu mía có vị ngọt thanh, ngon miệng và nồng độ cồn thấp.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "categories": [
+    "Review quán ăn",
+    "Review món ăn"
+  ],
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Gọi món",
+      "comment": "Giới thiệu chi tiết về món phở gà muốn ăn."
+    },
+    {
+      "step": "Đường đi đến quán",
+      "comment": "Miêu tả đường đi có phần khó khăn đến quán phở."
+    },
+    {
+      "step": "Giới thiệu quán",
+      "comment": "Thông tin về giờ mở cửa đặc biệt của quán."
+    },
+    {
+      "step": "Đánh giá món phở",
+      "comment": "Miêu tả chi tiết và đánh giá hương vị, thành phần của phở."
+    },
+    {
+      "step": "Đánh giá trứng trần",
+      "comment": "Nhận xét về món trứng trần ăn kèm."
+    },
+    {
+      "step": "Tương tác với chủ quán",
+      "comment": "Hỏi thăm và chúc chú chủ quán."
+    },
+    {
+      "step": "Giới thiệu lại quán",
+      "comment": "Nhấn mạnh địa điểm và độ ngon của quán."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Giới thiệu với toàn thể anh em bà con nhá, đây là quán phở gà tên là Hòa, rất là ngon ở bên trong ngõ Hàng Hương nhá."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "tuyệt vời",
+    "thơm",
+    "ngậy",
+    "giòn",
+    "mặn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "nhiều hành nhiều bánh thì còn gì tuyệt bằng nữa chứ?",
+    "ngõ Hàng Hương bé như cái mắt muỗi luôn",
+    "hành lá xanh mướt phủ đầy hết cả bát phở",
+    "vừa ngon lại còn vừa ngầy ngậy",
+    "quả nước phở của ông chú ngon quá. Quá tuyệt vời. Quá ngon."
+  ],
+  "hook_content": "Chú ơi, chú có lưng gà không chú? Cho cháu một phần lưng lườn, nhiều hành, nhiều bánh, nhiều thịt, cộng thêm một quả trứng trần nhưng nhớ là phải trần cả lòng trắng và để riêng một bát con.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán phở gà Hòa nằm trong ngõ Hàng Hương. Người review gọi một bát phở gà lưng lườn nhiều hành và đánh giá cao hương vị nước dùng, độ ngon của thịt gà, quẩy và trứng trần. Video khuyến khích mọi người ghé thăm quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

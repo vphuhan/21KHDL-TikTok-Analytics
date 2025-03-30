@@ -1,0 +1,30 @@
+{
+  "categories": ["Review món ăn", "Mukbang"],
+  "audience_target": ["Người thích ăn vặt, đồ ngọt", "Người yêu thích ẩm thực nước ngoài"],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu các loại bánh",
+      "comment": "Giới thiệu các loại bánh quê hấp dẫn."
+    },
+    {
+      "step": "Ăn và cảm nhận",
+      "comment": "Tập trung vào việc ăn và mô tả hương vị."
+    },
+    {
+      "step": "No và nhờ người yêu ăn phụ",
+      "comment": "Chia sẻ cảm giác no và nhờ người yêu giúp."
+    }
+  ],
+  "content_style": ["Đời thường"],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": ["ngon", "thèm", "đã", "thơm", "ngậy", "no"],
+  "has_cta": "false",
+  "highlight_phrases": ["Ngon quá trời luôn", "Tôi no quá rồi mí bà ơi"],
+  "hook_content": "Thèm bánh quê quá, lại phải ăn thôi.",
+  "hook_type": ["Vào thẳng vấn đề"],
+  "pacing": ["Chậm"],
+  "structure_style": ["Chia sẻ trải nghiệm cá nhân"],
+  "summarization": "Video mukbang bánh quê, Vivi ăn và cảm nhận hương vị của bánh đúc lá dứa, bánh bò, bánh da lợn và bánh bò lá dứa sầu riêng. Vì quá no nên Vivi đã nhờ người yêu ăn phụ.",
+  "tone_of_voice": ["Hào hứng", "Thân thiện"]
+}

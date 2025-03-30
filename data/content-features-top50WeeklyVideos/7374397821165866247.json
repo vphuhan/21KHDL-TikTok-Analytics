@@ -1,0 +1,89 @@
+{
+  "categories": [
+    "Nấu ăn",
+    "Review món ăn"
+  ],
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "comment": "Nêu lý do làm món kim chi cải thảo và bún hải sản."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "comment": "Đi chợ mua bắp cải thảo và hải sản."
+    },
+    {
+      "step": "Hướng dẫn muối kim chi",
+      "comment": "Hướng dẫn chi tiết cách muối kim chi cải thảo nhanh trong 2 tiếng."
+    },
+    {
+      "step": "Làm sốt kim chi",
+      "comment": "Hướng dẫn làm sốt kim chi từ hành tây, tỏi, đường, mắm tép, ớt bột và nước mắm."
+    },
+    {
+      "step": "Làm bún rau chân vịt",
+      "comment": "Chia sẻ cách làm bún rau chân vịt để bổ sung rau."
+    },
+    {
+      "step": "Trộn kim chi và chuẩn bị bún hải sản",
+      "comment": "Trộn cải thảo đã ngâm với sốt và chuẩn bị nồi bún hải sản."
+    },
+    {
+      "step": "Chia sẻ về công việc và sức khỏe",
+      "comment": "Chia sẻ về việc sụt cân và được gia đình giúp đỡ."
+    },
+    {
+      "step": "Mời ăn",
+      "comment": "Mời mọi người ăn bún hải sản và kim chi."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "comment": "Nhấn mạnh vị ngon của kim chi."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Giờ mời người ăn chung với cả nhà mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "thèm",
+    "ngon",
+    "ổn áp",
+    "맛있어",
+    "맛이"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Hôm bữa mình bị đau mỏi thì ăn bún hải sản với kim chi ăn liền này giảm mang luôn",
+    "Mà cái kim chi này cũng muối nhanh lắm 2 tiếng muối xong là mình có thể ăn liền được luôn.",
+    "Miệng thì nói nghỉ ngơi chứ lúc nào mình cũng bài á mọi người không bài ít bài nhiều nha."
+  ],
+  "hook_content": "Hôm bữa mình bị đau mỏi thì ăn bún hải sản với kim chi ăn liền này giảm mang luôn mà mấy bữa đó nước uống còn không nổi nữa nói chi ăn, nên là bữa nay tình hình sức khỏe ổn áp rồi giờ ghé chợ mình mua cái bắp cải thảo thêm mớ hải sản nữa về chiến liền luôn.",
+  "hook_type": [
+    "Kể chuyện",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm kim chi cải thảo ăn kèm bún hải sản. Tác giả chia sẻ kinh nghiệm bản thân khi bị ốm và thèm ăn món này. Video cũng hướng dẫn cách làm bún rau chân vịt và chia sẻ về sự giúp đỡ của gia đình.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

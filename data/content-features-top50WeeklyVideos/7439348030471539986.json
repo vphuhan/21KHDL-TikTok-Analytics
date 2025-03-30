@@ -1,0 +1,61 @@
+{
+  "categories": [
+    "Review món ăn"
+  ],
+  "audience_target": [
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu suất cơm 30k",
+      "comment": "Giới thiệu địa điểm ăn uống bình dân, giá rẻ."
+    },
+    {
+      "step": "Mô tả các thành phần của suất cơm",
+      "comment": "Liệt kê các món ăn kèm và giá cả."
+    },
+    {
+      "step": "Hướng dẫn cách pha nước chấm",
+      "comment": "Hướng dẫn chi tiết cách pha nước chấm theo khẩu vị cá nhân."
+    },
+    {
+      "step": "Đánh giá hương vị và trải nghiệm",
+      "comment": "Nhấn mạnh sự ngon miệng và phù hợp với sở thích cá nhân."
+    },
+    {
+      "step": "Xin lỗi về chất lượng hình ảnh",
+      "comment": "Giải thích lý do hình ảnh không rõ nét do điều kiện ánh sáng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "vừa miệng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "ăn đúng cái kiểu đúng theo sở thích của mình luôn",
+    "rất đơn giản thôi nhưng mà chấm cực kỳ là ngon luôn",
+    "thích ăn cay thì cho thêm ít ớt chan chan vào cái cơm"
+  ],
+  "hook_content": "Đây là suất cơm 30k, suất cơm mà bà con hay xuống chợ phiên hay ăn đấy mọi người, cũng chỉ có 30k thôi, nó mấy món đơn giản thôi mọi người ạ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu suất cơm 30k ở chợ phiên, bao gồm cơm và thịt. Người bán tự pha nước chấm theo khẩu vị cá nhân, nhấn mạnh sự ngon miệng và phù hợp với sở thích. Video cũng xin lỗi về chất lượng hình ảnh do điều kiện ánh sáng yếu.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

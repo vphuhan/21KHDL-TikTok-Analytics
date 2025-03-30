@@ -1,0 +1,57 @@
+{
+  "categories": [
+    "Nấu ăn"
+  ],
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bí quyết",
+      "comment": "Mở đầu bằng vấn đề thường gặp khi xào mì tại nhà."
+    },
+    {
+      "step": "Chia sẻ công thức",
+      "comment": "Hướng dẫn chi tiết cách ngâm mì, sơ chế nguyên liệu và pha nước sốt."
+    },
+    {
+      "step": "Thực hiện món ăn",
+      "comment": "Trình bày quá trình xào mì ốc móng tay từ đầu đến cuối."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Chia sẻ công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "giòn rụm",
+    "thơm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mình xào ở nhà nó không có ngon giống như xào ở ngoài hàng tại vì mấy anh mấy chị chưa có nằm lòng cái bí quyết này nè.",
+    "Mấy anh mấy chị mà cứ nằm lòng cái bí quyết như thế này á là mình xào ra một cái dĩa mì nó không bao giờ bị bở, không bao giờ bị dính chùm lại và cái cọng rau muống ăn nó giòn rụm, đặc biệt á cọng mì của mình nó sẽ rất là thấm sốt luôn nghen."
+  ],
+  "hook_content": "Mì xào ốc móng tay mấy anh mấy chị có để ý không? Mình xào ở nhà nó không có ngon giống như xào ở ngoài hàng tại vì mấy anh mấy chị chưa có nằm lòng cái bí quyết này nè.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ bí quyết xào mì ốc móng tay ngon như ngoài hàng. Các bước bao gồm ngâm mì với nước đá, sơ chế ốc móng tay và pha chế nước sốt. Thành phẩm là món mì xào không bị bở, rau muống giòn và cọng mì thấm sốt.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

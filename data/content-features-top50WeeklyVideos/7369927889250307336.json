@@ -1,0 +1,68 @@
+{
+  "categories": [
+    "Nấu ăn"
+  ],
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món thịt kho dưa",
+      "comment": "Mở đầu bằng việc phản hồi các bình luận về video cá kho dưa và giới thiệu món thịt kho dưa."
+    },
+    {
+      "step": "Sơ chế và thái thịt",
+      "comment": "Hướng dẫn cách sơ chế thịt bằng cách trần qua nước nóng và thái miếng vừa ăn."
+    },
+    {
+      "step": "Kho thịt với dưa",
+      "comment": "Hướng dẫn cách thắng nước màu, cho thịt vào đảo, nêm gia vị và cho dưa chua vào kho."
+    },
+    {
+      "step": "Đun và hoàn thành món ăn",
+      "comment": "Hướng dẫn cách đun thịt đến khi cạn nước, chia sẻ mẹo đun hai lửa để thịt mềm nhừ hơn."
+    },
+    {
+      "step": "Mời ăn",
+      "comment": "Mời mọi người cùng ăn cơm với món thịt kho dưa."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Truyền thống",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "các bác nhớ lưu lại video thịt kho dưa này nha",
+    "vậy nên là các bác nhớ kiểm tra kỹ xem đã bật nút nồi cơm chưa và nấu một nồi thật to vào."
+  ],
+  "cta_type": [
+    "Lưu video",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "bắt cơm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Món này ngoài ngon ra thì còn rất bắt cơm",
+    "Nếu như mà có thời gian thì các bác đun hai lửa nha, thì sẽ mềm nhừ hơn"
+  ],
+  "hook_content": "Tôi lên cái video cá kho dưa theo công thức của bản thân mà các bác comment quá trời.",
+  "hook_type": [
+    "Phản hồi bình luận"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách nấu món thịt kho dưa chua đơn giản, bắt cơm. Bắt đầu bằng việc phản hồi các bình luận về video trước, sau đó hướng dẫn chi tiết từng bước từ sơ chế đến khi hoàn thành món ăn. Cuối cùng, mời mọi người cùng thưởng thức.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

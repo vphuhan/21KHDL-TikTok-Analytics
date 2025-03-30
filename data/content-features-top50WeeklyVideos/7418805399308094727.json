@@ -1,0 +1,30 @@
+{
+  "categories": ["Review món ăn", "Mukbang"],
+  "audience_target": ["Người trẻ (Gen Z)", "Người thích ăn vặt, đồ ngọt", "Người thích khám phá ẩm thực tại địa phương"],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món thịt kho Hello Kitty",
+      "comment": "Mô tả món ăn có vẻ ngoài không hấp dẫn."
+    },
+    {
+      "step": "Giới thiệu cà phê Laura",
+      "comment": "Giới thiệu giải pháp để có thể ăn món thịt kho."
+    },
+    {
+      "step": "Cách ăn thịt kho",
+      "comment": "Đề xuất cách ăn để món thịt kho ngon miệng hơn."
+    }
+  ],
+  "content_style": ["Đời thường", "Nhanh gọn"],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": ["ngon", "khỏe", "phê"],
+  "has_cta": "false",
+  "highlight_phrases": ["Review cả thế giới thịt kho Hello Kitty", "ăn nó mới phê được"],
+  "hook_content": "Review cả thế giới thịt kho Hello Kitty.",
+  "hook_type": ["Vào thẳng vấn đề"],
+  "pacing": ["Nhanh"],
+  "structure_style": ["Chia sẻ trải nghiệm cá nhân"],
+  "summarization": "Video review món thịt kho Hello Kitty có màu sắc không hấp dẫn. Để ăn được món này, người nói uống kèm cà phê Laura và ăn kèm chanh, muối ớt để tăng hương vị.",
+  "tone_of_voice": ["Hài hước", "Thân thiện"]
+}

@@ -1,0 +1,30 @@
+{
+  "categories": ["Review món ăn", "Mukbang"],
+  "audience_target": ["Người trẻ (Gen Z)", "Người thích ăn vặt, đồ ngọt"],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "comment": "Giới thiệu món lạp xưởng Hà Khẩu tự chiên."
+    },
+    {
+      "step": "Miêu tả món ăn",
+      "comment": "Miêu tả cách chiên lạp xưởng bằng nước để đỡ khô, chấm cùng bột ớt cay."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "comment": "Nhấn mạnh vị ngon của món ăn mặc dù cay."
+    }
+  ],
+  "content_style": ["Đời thường", "Nhanh gọn"],
+  "cta_content": ["Cảm ơn mọi người đã xem video của mình, hẹn gặp video sau, tạm biệt"],
+  "cta_type": ["Xem video tiếp theo"],
+  "emotion_keywords": ["ngon", "cay"],
+  "has_cta": "true",
+  "highlight_phrases": ["Ăn lần nào cũng cắn tiều cả môi ý nhưng mà ngon", "Ngon quá"],
+  "hook_content": "Xin chào mọi người, hôm nay mình sẽ ăn lạp sưởng hạt khẩu, mời mọi người ăn cùng mình nhá.",
+  "hook_type": ["Vào thẳng vấn đề"],
+  "pacing": ["Nhanh"],
+  "structure_style": ["Chia sẻ trải nghiệm cá nhân"],
+  "summarization": "Video mukbang lạp xưởng Hà Khẩu tự chiên tại nhà. Người ăn chia sẻ cách chiên bằng nước để lạp xưởng không bị khô và chấm cùng bột ớt cay. Mặc dù cay nhưng món ăn rất ngon.",
+  "tone_of_voice": ["Thân thiện", "Hào hứng"]
+}

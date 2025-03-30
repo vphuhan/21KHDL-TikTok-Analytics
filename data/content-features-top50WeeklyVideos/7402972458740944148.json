@@ -1,0 +1,34 @@
+{
+  "categories": ["Review món ăn", "Mukbang", "Review sản phẩm ăn uống"],
+  "audience_target": ["Người trẻ (Gen Z)", "Người thích ăn vặt, đồ ngọt"],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu lạp xưởng Khởi Bách Hưng",
+      "comment": "Phủ nhận ý kiến lạp xưởng gây ngấy."
+    },
+    {
+      "step": "So sánh với lạp xưởng thông thường",
+      "comment": "Nhấn mạnh tỷ lệ nạc cao, ít mỡ."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "comment": "Tự tin về khả năng ăn nhiều."
+    },
+    {
+      "step": "Mời ăn",
+      "comment": "Tập trung vào trải nghiệm ăn uống."
+    }
+  ],
+  "content_style": ["Đời thường", "Nhanh gọn"],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": ["ngon"],
+  "has_cta": "false",
+  "highlight_phrases": ["lạp xưởng này nó ngon nhứt nách luôn á"],
+  "hook_content": "Hôm trước bạn nào kêu là cái lạp xưởng này ăn ngấy, mình chắc chắn là bạn chưa ăn thử cái lạp xưởng Khởi Bách Hưng này rồi.",
+  "hook_type": ["Phản hồi bình luận", "Gây tranh cãi"],
+  "pacing": ["Nhanh"],
+  "structure_style": ["So sánh", "Chia sẻ trải nghiệm cá nhân", "Mô tả đặc điểm"],
+  "summarization": "Video giới thiệu và đánh giá lạp xưởng Khởi Bách Hưng, so sánh với lạp xưởng thông thường và khẳng định hương vị ngon, không ngấy. Người nói tự tin có thể ăn nhiều lạp xưởng một lúc. Cuối video mời mọi người cùng ăn.",
+  "tone_of_voice": ["Hào hứng", "Thân thiện"]
+}

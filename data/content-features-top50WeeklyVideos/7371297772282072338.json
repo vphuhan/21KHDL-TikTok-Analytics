@@ -1,0 +1,77 @@
+{
+  "categories": [
+    "Review quán ăn",
+    "Review món ăn"
+  ],
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu xe cá viên chiên",
+      "comment": "Giới thiệu xe cá viên nhỏ, ít khách."
+    },
+    {
+      "step": "Hỏi thăm chú bán hàng",
+      "comment": "Hỏi về các loại topping và giá cả."
+    },
+    {
+      "step": "Gọi món",
+      "comment": "Gọi cá viên chiên mắm."
+    },
+    {
+      "step": "Quan sát quá trình chiên",
+      "comment": "Quay cận cảnh quá trình chiên cá viên."
+    },
+    {
+      "step": "Hỏi về thời gian bán",
+      "comment": "Hỏi về thời gian bán và thâm niên."
+    },
+    {
+      "step": "Nhận xét về món ăn",
+      "comment": "Nhận xét về hương vị và sốt ăn kèm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mấy bạn có a ghé qua đây xe cá viên chiên của chú Phúc nè để ủng hộ chú nha"
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Chia sẻ"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "béo",
+    "thơm",
+    "ok"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Không tất cả các xe cá viên chiên ở đây thì xe của chú này là nhỏ nhất và ít nhất.",
+    "Dầu chiên cá viên chiên còn vàng còn ngon quá trời luôn nè.",
+    "Béo thơm.",
+    "Vị ăn quá là ok đó."
+  ],
+  "hook_content": "Không tất cả các xe cá viên chiên ở đây thì xe của chú này là nhỏ nhất và ít nhất.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video review xe cá viên chiên ế khách của một chú lớn tuổi. Người quay giới thiệu các loại topping, trò chuyện với chú bán hàng và ăn thử món cá viên chiên mắm. Cuối video, người quay kêu gọi mọi người ủng hộ chú.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

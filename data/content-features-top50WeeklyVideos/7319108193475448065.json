@@ -1,0 +1,81 @@
+{
+  "categories": [
+    "Review quán ăn",
+    "Review sản phẩm ăn uống",
+    "Review món ăn"
+  ],
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu tiệm bánh của Việt Hương",
+      "comment": "Giới thiệu địa điểm ăn uống gắn liền với người nổi tiếng."
+    },
+    {
+      "step": "Review bánh bông lan tan chảy phô mai",
+      "comment": "Đánh giá độ tan chảy và hương vị của bánh."
+    },
+    {
+      "step": "Review bánh bông lan trứng muối club",
+      "comment": "So sánh hương vị với tiramisu và đánh giá độ ngọt."
+    },
+    {
+      "step": "Review bánh xúc xích",
+      "comment": "Nhận xét về hương vị quen thuộc và hình dáng dễ thương."
+    },
+    {
+      "step": "Review bánh rosson bơ tỏi",
+      "comment": "Đánh giá hương vị bơ tỏi và độ mềm của bánh."
+    },
+    {
+      "step": "Review bánh chà bông trà cay",
+      "comment": "Nhận xét về lớp bơ và hương vị trà cay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người biết cái quán nào của anh chị nghệ sĩ nào thì mọi người giới thiệu cho mình nha mọi người."
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "dễ ăn",
+    "dễ thương",
+    "thơm",
+    "béo",
+    "vừa ăn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trời ơi!",
+    "Ưm, trời ơi!",
+    "Cái kem phô mai ngon quá vậy",
+    "Trời ơi dễ thương ha, dễ thương nè nè, cái độ núng nính nè"
+  ],
+  "hook_content": "Trời ơi!Ưm, trời ơi!Ăn cùng nghệ sĩ Việt Hương nha mọi người ơi, đây là cái tiệm của cô Việt Hương tên là Sugertown hay gì đó mọi người.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review các loại bánh tại tiệm bánh của nghệ sĩ Việt Hương. Người review thử và đánh giá hương vị, độ ngọt, và so sánh với các loại bánh khác. Kết luận về món ăn yêu thích và khuyến khích mọi người giới thiệu thêm các quán ăn của nghệ sĩ khác.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

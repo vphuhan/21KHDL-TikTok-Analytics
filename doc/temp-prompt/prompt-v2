@@ -1,0 +1,102 @@
+# @title Prompt4ContentFeaturesExtraction
+system_instruction = """
+Bạn là chuyên gia phân tích nội dung TikTok về ẩm thực.
+
+Nhiệm vụ của bạn là nhận một đoạn transcript từ video TikTok, xác định xem nội dung có thuộc chủ đề ẩm thực hay không. Nếu có, hãy gán nhãn cho từng trường nội dung theo danh sách chuẩn bên dưới.
+
+Một số trường có thể mang nhiều đặc điểm, bạn được phép gán nhiều nhãn cho một trường nếu cần. Luôn trả về kết quả dưới dạng JSON object, không thêm mô tả, không giải thích.
+"""
+
+prompt = """
+Dựa vào transcript bên dưới, với mỗi trường annotation đã cho, hãy:
+
+1. Chọn TẤT CẢ các nhãn phù hợp (không giới hạn số lượng, càng nhiều càng tốt).
+2. Mỗi trường chỉ được chọn từ đúng danh sách nhãn đã liệt kê. Không được tạo nhãn mới hoặc viết tự do.
+3. Không được tự suy diễn, không chọn bất kỳ nhãn nào nếu không tìm được minh chứng rõ ràng trong transcript.
+
+categories (nhiều nhãn nếu cần): Thể loại chung của video, liên quan đến nội dung chính. Danh sách các nhãn:
+- Review quán ăn: Đánh giá, giới thiệu quán ăn, nhà hàng, xe đẩy, tiệm nhỏ,... nơi có thể đến ăn trực tiếp.
+- Review sản phẩm ăn uống: Đánh giá các loại thực phẩm đóng gói, gia vị, đồ dùng nhà bếp, v.v.
+- Review món ăn: Đánh giá hương vị, chất lượng của một món ăn hoặc đồ uống cụ thể (có thể là tự làm hoặc mua).
+- Nấu ăn: Video hướng dẫn hoặc ghi lại quá trình nấu ăn, có thể ở nhà, ngoài trời hoặc trong bếp chuyên nghiệp.
+- Không liên quan ẩm thực: Video không thuộc bất kỳ chủ đề nào liên quan đến ăn uống, món ăn, quán ăn hoặc trải nghiệm ẩm thực.
+
+structure_style (nhiều nhãn nếu cần): Cách xây dựng nội dung, hình thức thể hiện video. 
+Danh sách nhãn: ["Mô tả đặc điểm", "Chia sẻ trải nghiệm cá nhân", "Kể chuyện", "Hướng dẫn", "So sánh", "Kịch hóa", "Đối thoại", "Chia sẻ kiến thức"]
+
+hook_type (nhiều nhãn nếu cần): Cách mở đầu nhằm thu hút người xem.
+Danh sách nhãn: ["Gây tò mò", "Cho thấy kết quả trước", "Kể chuyện", "Vào thẳng vấn đề", "Đặt câu hỏi", "Phản hồi bình luận", "Khuyến mãi", "So sánh", "Giật tít", "Gây tranh cãi", "Tạo sự đồng cảm"]
+
+tone_of_voice (nhiều nhãn nếu cần): Giọng điệu, cảm xúc của người nói.
+Danh sách nhãn: ["Hào hứng", "Hài hước", "Thân thiện", "Chân thành", "Ngạc nhiên", "Bí ẩn", "Trung lập", "Trang trọng", "Nghiêm túc", "Châm biếm", "Khó chịu", "Giận dữ", "Bốc phốt"]
+
+pacing (nhiều nhãn nếu cần): Nhịp độ của video và lời thoại.
+Danh sách nhãn: ["Nhanh", "Chậm", "Thay đổi"]
+
+has_cta: Video có kêu gọi hành động không?
+Danh sách nhãn: ["true", "false"]
+
+cta_type (nhiều nhãn nếu cần): Loại lời kêu gọi hành động trong video. 
+Danh sách nhãn: ["Follow kênh", "Thích video", "Bình luận", "Chia sẻ", "Lưu video", "Xem video tiếp theo", "Truy cập trang cá nhân", "Truy cập link sản phẩm", "Thử làm theo công thức", "Ăn cùng", "Ghé thăm địa điểm", "Chia sẻ công thức", "So sánh", "Đặt câu hỏi"]
+
+content_style (nhiều nhãn nếu cần): Phong cách tổng quát về nội dung và cách diễn đạt của video.
+Danh sách nhãn: ["Gen Z", "Truyền thống", "Chuyên nghiệp", "Đời thường", "Sang trọng", "Drama", "Kiến thức", "Sáng tạo", "Nhanh gọn", "Chi tiết"]
+
+audience_target: Danh sách các nhóm khán giả tiềm năng mà video hướng đến hoặc phù hợp với nội dung video.
+Danh sách nhãn: ["Học sinh, sinh viên", "Người đi làm, dân văn phòng", "Phụ huynh, gia đình có trẻ nhỏ", "Người trẻ (Gen Z)", "Người nội trợ, yêu thích nấu ăn tại nhà", "Người ăn chay, ăn healthy", "Người thích ăn vặt, đồ ngọt", "Người yêu thích ẩm thực nước ngoài", "Người thích khám phá ẩm thực tại địa phương", "Khách du lịch, người Việt ở nước ngoài"]
+
+---
+
+Ngoài việc gán nhãn, hãy trích xuất thêm các trường sau nếu có:
+Về tóm tắt và trích xuất nguyên văn từ transcript:
+- summarization: Tóm tắt ngắn gọn nội dung video, nêu rõ mục tiêu chính, các yếu tố chính được đề cập và đánh giá chung (nếu có). (Tối đa 3 câu)
+- hook_content: Câu mở đầu thực tế của video, thường nằm ở 1–2 câu đầu. Phải là câu xuất hiện trong transcript, không được viết lại.
+- cta_content: Danh sách các câu kêu gọi hành động (CTA) cụ thể trong video. Phải lấy đúng nguyên văn trong transcript.
+- emotion_keywords: Tự liệt kê, dưới dạng một danh sách duy nhất gồm các tính từ, trạng từ hoặc cụm từ thể hiện cảm giác khi ăn hoặc cảm xúc tổng thể.
+- highlight_phrases: Danh sách các cụm từ nổi bật, dễ viral, thể hiện cảm xúc mạnh hoặc phong cách nói ấn tượng. Không giới hạn số lượng, chỉ cần là câu/cụm từ đặc sắc.
+
+Về phân tích:
+- body_analysis: Phân tích phần nội dung chính (body) của video (không bao gồm hook và CTA). Xác định các bước nội dung chính theo đúng thứ tự xuất hiện trong transcript. Với mỗi bước, đưa ra cảm nhận ngắn gọn khi xem phần nội dung tương ứng. Tuyệt đối không thêm chú thích, không thêm nội dung trong ngoặc hay bất kỳ chi tiết mô tả nào khác ngoài tên bước. Trả về dạng JSON gồm các đối tượng: "step", "comment".
+
+
+Trả về cả các trường này dưới dạng:
+- summarization: chuỗi (string)
+- hook_content: chuỗi (string)
+- cta_content: danh sách (array of strings)
+- emotion_keywords: danh sách (array of strings)
+- highlight_phrases: danh sách (array of strings)
+- body_analysis: danh sách (array of objects)
+
+---
+
+## Đầu vào từ người dùng:
+transcript: %s
+
+---
+
+## Đầu ra:
+
+Nếu không có, để giá trị là chuỗi rỗng ("") hoặc mảng rỗng ([]).
+
+Cách trả kết quả:
+
+1. Nếu video không liên quan đến ẩm thực thì chỉ trả về 'categories':
+{
+  "categories": "Không liên quan ẩm thực"
+}
+
+2. Nếu video thuộc chủ đề ẩm thực, trả về đầy đủ các trường sau (các trường nhiều nhãn dùng dạng mảng):
+
+{
+  "categories": ["Review sản phẩm ăn uống"],
+  "structure_style": ["Hướng dẫn", "Review trải nghiệm"],
+  ...
+  "body_analysis": [
+    {
+      "step": "Bắt đầu ăn và review",
+      "comment": "Bắt đầu ăn và mô tả hương vị của món ăn, cách kết hợp với các nguyên liệu khác."
+    },
+    ...
+  ]
+}
+"""

@@ -1,0 +1,34 @@
+{
+  "categories": ["Review món ăn"],
+  "audience_target": ["Người trẻ (Gen Z)", "Người thích khám phá ẩm thực tại địa phương"],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu về việc mua quýt",
+      "comment": "Chia sẻ về việc mua được quýt giá rẻ và số lượng lớn."
+    },
+    {
+      "step": "Chuẩn bị mắm tôm",
+      "comment": "Thực hiện pha mắm tôm với tỏi."
+    },
+    {
+      "step": "Ăn thử quýt chấm mắm tôm",
+      "comment": "Trải nghiệm và đánh giá hương vị của món ăn."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "comment": "Nhận xét về sự kết hợp giữa vị ngọt của quýt và vị mặn của mắm tôm."
+    }
+  ],
+  "content_style": ["Đời thường"],
+  "cta_content": ["mình sẽ mời mọi người ăn cái món quýt chấm mắm tôm để coi hương vị của nó ra làm sao ha", "Mình nghĩ là mọi người nên thử cái món này nghe"],
+  "cta_type": ["Ăn cùng", "Thử làm theo công thức"],
+  "emotion_keywords": ["ngon", "lạ lạ", "cuốn"],
+  "has_cta": "true",
+  "highlight_phrases": ["ăn vô nó lạ lạ nhưng mà thật sự là ăn rất là ngon mà cuốn luôn á", "Quýt ngọt ngọt mà chấm chung với mắm tôm mặn mặn kết hợp lại coi như là đúng bài luôn đó"],
+  "hook_content": "Nó vừa mới trong siêu thị bước ra thì thấy tuyết nó rơi trắng giả hết trơn.",
+  "hook_type": ["Gây tò mò"],
+  "pacing": ["Thay đổi"],
+  "structure_style": ["Chia sẻ trải nghiệm cá nhân"],
+  "summarization": "Video chia sẻ trải nghiệm ăn quýt chấm mắm tôm. Chủ kênh mua được quýt giá rẻ và quyết định thử món ăn đang hot trên mạng. Sau khi thử, chủ kênh thấy món ăn này ngon và lạ miệng, khuyến khích mọi người nên thử.",
+  "tone_of_voice": ["Hào hứng", "Thân thiện"]
+}

@@ -1,0 +1,30 @@
+{
+  "categories": ["Mukbang"],
+  "audience_target": ["Người thích ăn vặt, đồ ngọt", "Người trẻ (Gen Z)"],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "comment": "Giới thiệu món bơ thực vật chấm sữa đặc."
+    },
+    {
+      "step": "Ăn thử",
+      "comment": "Ăn và miêu tả cảm giác ngớn."
+    },
+    {
+      "step": "Kết thúc",
+      "comment": "Từ chối ăn tiếp và khuyên không nên thử."
+    }
+  ],
+  "content_style": ["Đời thường", "Gen Z"],
+  "cta_content": ["Mọi người không nên làm theo ở nhà mọi người nhá"],
+  "cta_type": ["Đặt câu hỏi"],
+  "emotion_keywords": ["ngớn"],
+  "has_cta": "true",
+  "highlight_phrases": ["Ôi nó ngớn ngớn ngớn lắm luôn mọi người ạ"],
+  "hook_content": "Xin chào, hôm nay cùng ăn bơ thực vật.",
+  "hook_type": ["Vào thẳng vấn đề"],
+  "pacing": ["Chậm"],
+  "structure_style": ["Chia sẻ trải nghiệm cá nhân"],
+  "summarization": "Video mukbang bơ thực vật chấm sữa đặc. Người ăn thử và cảm thấy quá ngán nên đã dừng lại, đồng thời khuyên mọi người không nên thử tại nhà.",
+  "tone_of_voice": ["Thân thiện", "Chân thành"]
+}

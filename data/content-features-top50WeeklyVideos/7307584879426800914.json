@@ -1,0 +1,83 @@
+{
+  "categories": [
+    "Nấu ăn",
+    "Review món ăn"
+  ],
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu nguyên liệu và sơ chế",
+      "comment": "Mô tả chi tiết các bước chuẩn bị nguyên liệu."
+    },
+    {
+      "step": "Hấp bí ngô",
+      "comment": "Hướng dẫn cách hấp bí ngô."
+    },
+    {
+      "step": "Nghiền bí ngô và trộn bột",
+      "comment": "Hướng dẫn trộn các nguyên liệu để tạo thành hỗn hợp bột."
+    },
+    {
+      "step": "Tạo hình bánh và lăn mè",
+      "comment": "Hướng dẫn tạo hình bánh và phủ mè."
+    },
+    {
+      "step": "Chiên bánh",
+      "comment": "Hướng dẫn chiên bánh."
+    },
+    {
+      "step": "Thưởng thức",
+      "comment": "Mô tả cảm nhận về món ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Mình sẽ chia sẻ các món ăn gia đình đơn giản mỗi ngày, bạn hãy nhấn like và theo dõi mình nhé.",
+    "Sau này nếu muốn ăn mà không biết làm thì vẫn có thể tìm lại mình.",
+    "mời bạn cùng lưu lại và trổ tài cho gia đình nhé."
+  ],
+  "cta_type": [
+    "Follow kênh",
+    "Thích video",
+    "Lưu video",
+    "Thử làm theo công thức",
+    "Chia sẻ công thức"
+  ],
+  "emotion_keywords": [
+    "thơm ngon",
+    "thơm",
+    "giòn",
+    "dẻo",
+    "ngon tuyệt",
+    "thèm",
+    "thành công"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "chỉ cần cho bí ngô vào chảo dầu đang sôi, khi vớt ra nó đã trở thành một món ăn kinh điển",
+    "bánh bí ngô mè làm như vậy thì vừa giòn vừa dẻo, ngon tuyệt, nhìn đã thấy thèm rồi"
+  ],
+  "hook_content": "Mình không ngờ rằng, chỉ cần cho bí ngô vào chảo dầu đang sôi, khi vớt ra nó đã trở thành một món ăn kinh điển, mà nhiều người chưa từng thử qua.",
+  "hook_type": [
+    "Gây tò mò",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm bánh bí ngô mè đơn giản tại nhà. Bắt đầu bằng việc sơ chế bí ngô, hấp chín, nghiền nhuyễn rồi trộn với bột và các nguyên liệu khác. Sau đó, tạo hình bánh, lăn qua mè và chiên giòn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

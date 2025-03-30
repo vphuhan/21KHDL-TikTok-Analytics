@@ -1,0 +1,76 @@
+{
+  "categories": [
+    "Review món ăn"
+  ],
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mô tả bánh",
+      "comment": "So sánh kích thước bánh thực tế và trên video, nêu giá và thành phần."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "comment": "Nhận xét về mùi vị, độ dẻo, nhân bánh."
+    },
+    {
+      "step": "Đặt câu hỏi",
+      "comment": "Hỏi về trải nghiệm của người xem với bánh ngải thật."
+    },
+    {
+      "step": "Đánh giá chung",
+      "comment": "Nhấn mạnh về giá cả không hợp lý và cảm giác không đáng tiền."
+    },
+    {
+      "step": "Giải thích lý do mua",
+      "comment": "Chia sẻ lý do vẫn mua dù thấy bánh nhỏ và đặt câu hỏi về kích thước bánh."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Bình luận",
+    "So sánh",
+    "Đặt câu hỏi"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "dẻo dai",
+    "đắt",
+    "không bõ dính răng",
+    "đen",
+    "fake"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mà bánh ngải mình mua ở ngoài sao nó bé tí thế này hả mọi người?",
+    "Nói chung ăn thì cũng được nhưng mà 35.000đ cho một cái xô này thì quá đắt.",
+    "Với mình ăn hết cả cái xô này mình thấy nó chẳng bõ dính răng ấy."
+  ],
+  "hook_content": "Hello mọi người, cái bánh ngải mình thấy mọi người quay ở trên video sao nó to.",
+  "hook_type": [
+    "Gây tò mò",
+    "Đặt câu hỏi",
+    "So sánh"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh",
+    "Đối thoại"
+  ],
+  "summarization": "Video review bánh ngải Lạng Sơn mua online với kích thước nhỏ và giá cao. Người nói so sánh với hình ảnh trên mạng, đánh giá về hương vị và đặt câu hỏi về chất lượng sản phẩm thật.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Ngạc nhiên",
+    "Khó chịu"
+  ]
+}

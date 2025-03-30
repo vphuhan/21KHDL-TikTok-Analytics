@@ -1,0 +1,34 @@
+{
+  "categories": ["Nấu ăn", "Review món ăn"],
+  "audience_target": ["Người trẻ (Gen Z)", "Người nội trợ, yêu thích nấu ăn tại nhà"],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "comment": "Giới thiệu món hàu luộc sả ăn kèm đọt keo độc đáo."
+    },
+    {
+      "step": "Sơ chế hàu",
+      "comment": "Chia sẻ cách luộc hàu với sả để hàu chín tới, không bị teo."
+    },
+    {
+      "step": "Hái đọt keo",
+      "comment": "Kể về kỷ niệm tuổi thơ gắn liền với đọt keo."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "comment": "Miêu tả hương vị món ăn kèm muối ớt, nhấn mạnh sự kết hợp độc đáo giữa hàu và đọt keo."
+    }
+  ],
+  "content_style": ["Đời thường", "Sáng tạo", "Nhanh gọn"],
+  "cta_content": ["Giờ thì mời mọi người ăn chung với tui nha!"],
+  "cta_type": ["Ăn cùng"],
+  "emotion_keywords": ["ngọt", "béo", "cay", "tê tái tâm hồn", "ngon"],
+  "has_cta": "true",
+  "highlight_phrases": ["ăn là nó nhân đôi độ ngọt của con hào luôn", "ăn với đọt keo nữa ta nói nó ngọt xám hồn luôn", "Kiểu cái đọt keo này ăn vô hào của mình nó ngọt lên một tầm cao mới luôn"],
+  "hook_content": "Hello mọi người! Lại là tôi Mập Bà Tám nấu ăn đây.",
+  "hook_type": ["Vào thẳng vấn đề"],
+  "pacing": ["Nhanh"],
+  "structure_style": ["Chia sẻ trải nghiệm cá nhân", "Hướng dẫn"],
+  "summarization": "Video chia sẻ cách làm món hàu luộc sả ăn kèm đọt keo độc đáo. Người nấu chia sẻ bí quyết luộc hàu và kỷ niệm tuổi thơ gắn liền với đọt keo, đồng thời miêu tả hương vị món ăn khi kết hợp với muối ớt. Cuối video, người nấu mời mọi người cùng ăn.",
+  "tone_of_voice": ["Hào hứng", "Thân thiện", "Chân thành"]
+}

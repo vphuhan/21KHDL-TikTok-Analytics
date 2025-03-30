@@ -1,0 +1,57 @@
+{
+  "categories": [
+    "Review quán ăn",
+    "Review món ăn"
+  ],
+  "audience_target": [
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Gọi món",
+      "comment": "Khách hàng gọi hai bát tiết chửng."
+    },
+    {
+      "step": "Nhận xét về món ăn",
+      "comment": "Khách hàng khen món ăn ngon và hỏi về bí quyết làm tiết."
+    },
+    {
+      "step": "Chia sẻ của chủ quán",
+      "comment": "Chủ quán chia sẻ về công thức gia truyền và thâm niên bán hàng."
+    },
+    {
+      "step": "Thông tin về giá và thời gian bán",
+      "comment": "Thông tin về giá một bát và thời gian bán hàng của quán."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thích"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Bặt tia bác được kiểu gì mà được khéo thế",
+    "Ở Hà Nội không ai làm được",
+    "Công thức gia truyền cả"
+  ],
+  "hook_content": "Bới cho con hai bát tiết chửng nhá. ở đây ăn ngon.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video là đoạn hội thoại ngắn giữa người mua và người bán tiết luộc măng cay tại chợ Nam Đồng. Người mua khen món ăn ngon và hỏi bí quyết, người bán chia sẻ về công thức gia truyền và thời gian bán hàng lâu năm.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "categories": [
+    "Review quán ăn",
+    "Review món ăn"
+  ],
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu đồ ngâm tương",
+      "comment": "Giới thiệu món ăn và địa điểm mua gần nhà."
+    },
+    {
+      "step": "Đánh giá đóng gói và hình thức",
+      "comment": "Nhận xét về cách đóng gói sản phẩm."
+    },
+    {
+      "step": "Đánh giá hương vị cá hồi ngâm tương",
+      "comment": "Trải nghiệm và đánh giá hương vị cá hồi."
+    },
+    {
+      "step": "Đánh giá hương vị tôm ngâm tương",
+      "comment": "Trải nghiệm và đánh giá hương vị tôm."
+    },
+    {
+      "step": "Nhận xét chung",
+      "comment": "Đưa ra đánh giá tổng quan và so sánh với trải nghiệm của người khác."
+    },
+    {
+      "step": "Thông tin giá cả và địa điểm mua",
+      "comment": "Thông tin về giá và nơi mua sản phẩm."
+    },
+    {
+      "step": "Chia sẻ kinh nghiệm cá nhân",
+      "comment": "Chia sẻ thói quen ăn uống và kinh nghiệm chọn quán."
+    },
+    {
+      "step": "Kể về trải nghiệm của người thân",
+      "comment": "Chia sẻ trải nghiệm không thích đồ ngâm tương của người thân."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thèm",
+    "ngon",
+    "giòn",
+    "mê",
+    "tiếc tiền"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "ăn liên tục nhưng mà mình vẫn thấy ngon mà không có bị ngán",
+    "ăn được đồ ngâm tương rồi cái bị thích á là ăn liên tục luôn"
+  ],
+  "hook_content": "Hêy mọi người, không biết ở đây mọi người có thích ăn đồ ngâm tương, họ lại bị ngán tiền á mọi người.",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review đồ ngâm tương mua gần nhà. Người nói chia sẻ trải nghiệm ăn cá hồi và tôm ngâm tương, đánh giá hương vị, độ tươi ngon và cách đóng gói. Cuối cùng, người nói chia sẻ kinh nghiệm cá nhân và trải nghiệm của người thân về món ăn này.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "categories": [
+    "Review món ăn",
+    "Nấu ăn"
+  ],
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ngọc kê hấp hành gừng",
+      "comment": "Tò mò về hương vị món ăn."
+    },
+    {
+      "step": "Chia sẻ về việc mua ngọc kê",
+      "comment": "Thông tin hữu ích cho người muốn tìm mua nguyên liệu."
+    },
+    {
+      "step": "Sơ chế và ướp ngọc kê",
+      "comment": "Mô tả quá trình chuẩn bị món ăn."
+    },
+    {
+      "step": "Giới thiệu cà phê",
+      "comment": "Quảng cáo sản phẩm xen kẽ."
+    },
+    {
+      "step": "Thưởng thức ngọc kê hấp",
+      "comment": "Diễn tả cảm xúc khi ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người tranh thủ hốt nha, hốt dữ lắm.",
+    "Giờ thì mời mọi người ăn chung với tôi nghen."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngọt",
+    "nóng",
+    "ngon",
+    "thơm",
+    "cay",
+    "tê tái tâm hồn",
+    "béo",
+    "đã",
+    "thèm ăn",
+    "mê"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn miệng ơi nó vừa ngọt mà vừa nóng ngon lắm luôn",
+    "Món này lẽ số một không món nào số hai luôn",
+    "Ngọc kê thì cái nào cái nấy, thanh thản thần mà nóng môi hỏi, làm một lần hai cái rồi quẫn tiêm miếng muối ớt, quất một cái nhập miệng, ta nói nó béo mà mình cắn tới đâu xịt nước tới đó đã gì đâu."
+  ],
+  "hook_content": "ăn ngọc kê nhiều rồi mà lần đầu tiên tôi hấp ngọc kê với hạnh gừng.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ về món ngọc kê hấp hành gừng, từ quá trình mua nguyên liệu, sơ chế, đến thưởng thức. Xen kẽ đó là quảng cáo sản phẩm cà phê. Cuối video mời mọi người cùng ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

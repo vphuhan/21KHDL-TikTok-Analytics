@@ -1,0 +1,80 @@
+{
+  "categories": [
+    "Nấu ăn",
+    "Review món ăn"
+  ],
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Sơ chế mỡ",
+      "comment": "Các bước sơ chế mỡ được thực hiện cẩn thận và tỉ mỉ."
+    },
+    {
+      "step": "Luộc mỡ",
+      "comment": "Quá trình luộc mỡ giúp loại bỏ mùi hôi và làm chín sơ."
+    },
+    {
+      "step": "Cắt mỡ",
+      "comment": "Việc cắt mỡ thành miếng nhỏ giúp tóp mỡ giòn đều hơn."
+    },
+    {
+      "step": "Chiên bằng nồi chiên không dầu",
+      "comment": "Quá trình chiên làm mỡ tóp lại và da giòn."
+    },
+    {
+      "step": "Chiên bằng chảo",
+      "comment": "Quá trình chiên bằng chảo đòi hỏi sự cẩn thận và đảo đều tay."
+    },
+    {
+      "step": "Chiên lần 2 bằng chảo",
+      "comment": "Chiên lần 2 giúp da tóp mỡ bung ra và giòn hơn."
+    },
+    {
+      "step": "So sánh",
+      "comment": "So sánh thành phẩm của hai cách làm."
+    },
+    {
+      "step": "Đánh giá",
+      "comment": "Đánh giá chất lượng và hương vị của hai loại tóp mỡ."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "giòn tan",
+    "không bị chai"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Tóp mỡ da giòn á thì mình nghĩ là ai cũng thích đúng không?",
+    "Tổng cộng ở đây là mình sẽ đảo hết 15 phút, nhưng mà mình tua nhanh á chỉ có khoảng tầm 10 giây thôi.",
+    "Thật sự ra là mỏi lắm nha, nhưng mà không có dám ngưng, ngưng là nó nổ mà tóp mỡ da giòn nó nổ thì mọi người biết nó như thế nào rồi đó.",
+    "Giòn tan luôn, không hề bị chai nha.",
+    "Okay là cái da của nó nổ hết ra luôn á. 10 điểm."
+  ],
+  "hook_content": "Tóp mỡ da giòn á thì mình nghĩ là ai cũng thích đúng không? Nhưng mà với cách bình thường là làm bằng chảo và cách hiện đại hơn là làm bằng nồi chiên không dầu thì cả hai cái loại nào sẽ ngon hơn, nhanh hơn, bữa nay cùng mình làm thử nha.",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "So sánh"
+  ],
+  "summarization": "Video hướng dẫn cách làm tóp mỡ da giòn bằng chảo và nồi chiên không dầu, so sánh ưu nhược điểm của hai phương pháp. Tác giả chia sẻ kinh nghiệm cá nhân và đánh giá hương vị, độ giòn của từng loại tóp mỡ. Kết luận nên làm bằng nồi chiên không dầu sẽ nhanh và ngon hơn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

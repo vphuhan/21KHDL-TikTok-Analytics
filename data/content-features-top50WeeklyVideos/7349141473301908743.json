@@ -1,0 +1,80 @@
+{
+  "categories": [
+    "Review sản phẩm ăn uống",
+    "Review món ăn"
+  ],
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "comment": "Mô tả ban đầu về xúc xích, bao bì và giá cả."
+    },
+    {
+      "step": "Đánh giá ngoại hình",
+      "comment": "Nhận xét về hình dáng, màu sắc và so sánh với bì lợn."
+    },
+    {
+      "step": "Đánh giá độ giòn",
+      "comment": "Kiểm tra độ giòn của lớp vỏ bên ngoài."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "comment": "Thử ăn với bột ớt và tương ớt, so sánh với xúc xích Việt Nam."
+    },
+    {
+      "step": "Đánh giá trải nghiệm ăn",
+      "comment": "Cảm nhận về độ bột, độ khó nuốt và vị tổng thể."
+    },
+    {
+      "step": "Thử ăn sống",
+      "comment": "Thử ăn trực tiếp không qua chế biến và đưa ra kết luận."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người biết là có nên mua hay không rồi đấy."
+  ],
+  "cta_type": [
+    "Đặt câu hỏi"
+  ],
+  "emotion_keywords": [
+    "hấp dẫn",
+    "thơm",
+    "tê cay",
+    "ngán",
+    "khó nuốt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "sao cái mùi hộp này kinh thế?",
+    "bịp thế nhỉ",
+    "ăn nó rất giống một cái xúc xích ăn liền, xúc xích trẻ em ấy",
+    "nhai nó không khác gì nhai một cục bột",
+    "cảm giác ăn này thì mình nghĩ là không phải cảm giác ăn của con người. Mà là cảm giác ăn của bốn ăn thế"
+  ],
+  "hook_content": "Nhìn kiểu hấp dẫn thế nhỉ? Thử nhá.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review xúc xích ăn liền với nhiều nhận xét trái chiều. Mặc dù có vẻ ngoài hấp dẫn và lớp vỏ giòn, xúc xích lại bị chê về phần nhân bột, khó nuốt và vị không đặc sắc. Người review thử ăn kèm với các loại gia vị khác nhau và ăn sống để đưa ra đánh giá cuối cùng.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Chân thành",
+    "Ngạc nhiên",
+    "Khó chịu"
+  ]
+}

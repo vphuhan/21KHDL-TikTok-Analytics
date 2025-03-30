@@ -1,0 +1,61 @@
+{
+  "categories": [
+    "Review món ăn"
+  ],
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sự việc bị bom gà",
+      "comment": "Thông báo về việc đơn hàng gà bị trả lại, thể hiện sự buồn bã."
+    },
+    {
+      "step": "Mô tả tình trạng gà bị trả về",
+      "comment": "Nhấn mạnh về thiệt hại do gà bị hỏng sau khi trả về."
+    },
+    {
+      "step": "Quyết định xử lý gà",
+      "comment": "Quyết định mang gà đi chôn, thể hiện sự tiếc nuối."
+    },
+    {
+      "step": "Giải thích lý do không thể gửi gà mổ sẵn",
+      "comment": "So sánh với việc gửi gà sống và giải thích về rủi ro khi gửi gà mổ sẵn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chuyên nghiệp",
+    "Chuyên nghiệp"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "buồn",
+    "tiếc"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "em lại bị bom gà rồi",
+    "Thật sự rất là buồn các anh chị ạ",
+    "rất là tiếc rất là buồn luôn"
+  ],
+  "hook_content": "các anh chị ơi, em lại bị bom gà rồi.",
+  "hook_type": [
+    "Kể chuyện",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ về việc người bán bị bom gà mổ sẵn, gây thiệt hại do gà bị hỏng sau khi vận chuyển. Người bán thể hiện sự buồn bã và tiếc nuối khi phải mang gà đi chôn. Video cũng giải thích lý do không nên gửi gà mổ sẵn đi xa.",
+  "tone_of_voice": [
+    "Chân thành",
+    "Khó chịu",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "categories": [
+    "Nấu ăn",
+    "Review món ăn"
+  ],
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món muối tiêu chanh",
+      "comment": "Mở đầu bằng cách giới thiệu cách ăn gà ngon nhất với muối tiêu chanh."
+    },
+    {
+      "step": "Hấp chân gà",
+      "comment": "Trong lúc chờ đợi, người nói mang chân gà đi hấp."
+    },
+    {
+      "step": "Hướng dẫn làm muối tiêu chanh",
+      "comment": "Hướng dẫn chi tiết cách làm muối tiêu chanh, nhấn mạnh có thể điều chỉnh theo khẩu vị."
+    },
+    {
+      "step": "Hoàn thành và thưởng thức",
+      "comment": "Trình bày thành phẩm và gợi ý cách dùng với gà và hải sản."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thần thánh",
+    "thơm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cách đơn giản nhất để có thể ăn hết một con gà, đó là chỉ cần một chén muối tiêu chấm thiệt là ngon.",
+    "Chấm một lần á đảm bảo gà với hải sản không biết bao nhiêu cho đủ nữa."
+  ],
+  "hook_content": "Cách đơn giản nhất để có thể ăn hết một con gà, đó là chỉ cần một chén muối tiêu chấm thiệt là ngon.",
+  "hook_type": [
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm muối tiêu chanh đơn giản để chấm gà và hải sản. Người làm chia sẻ bí quyết và công thức chi tiết, đồng thời khuyến khích điều chỉnh theo khẩu vị cá nhân. Thành phẩm có thể bảo quản trong tủ lạnh.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

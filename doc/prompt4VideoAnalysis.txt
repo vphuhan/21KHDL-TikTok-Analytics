@@ -9,7 +9,7 @@ Một số trường có thể mang nhiều đặc điểm, bạn được phép
 prompt = """
 Dưới đây là danh sách các trường cần gán nhãn. Mỗi trường (trừ emotion_keywords) chỉ được chọn từ đúng danh sách nhãn đã liệt kê. Không được tạo nhãn mới hoặc viết tự do. Một trường có thể mang nhiều nhãn nếu phù hợp.
 
-category (nhiều nhãn nếu cần): 
+categories (nhiều nhãn nếu cần): 
 - Review quán ăn: Đánh giá, giới thiệu quán ăn, nhà hàng, xe đẩy, tiệm nhỏ,... nơi có thể đến ăn trực tiếp.
 - Review sản phẩm ăn uống: Đánh giá các sản phẩm ăn uống có thể mua sẵn và dùng ngay, bao gồm đồ đóng gói, đồ ăn vặt, món ăn chế biến sẵn hoặc đóng gói mang về (nhưng không ăn tại quán).
 - Mukbang: Video tập trung vào việc ăn số lượng lớn, ăn to, ăn gần mic hoặc ăn nhiều món cùng lúc, thường ít lời thoại.
@@ -88,13 +88,13 @@ Cách trả kết quả:
 
 1. Nếu video không liên quan đến ẩm thực:
 {
-  "category": "Không liên quan ẩm thực"
+  "categories": "Không liên quan ẩm thực"
 }
 
 2. Nếu video thuộc chủ đề ẩm thực, trả về đầy đủ các trường sau (các trường nhiều nhãn dùng dạng mảng):
 
 {
-  "category": ["Review sản phẩm ăn uống"],
+  "categories": ["Review sản phẩm ăn uống"],
   "main_content_focus": ["Sản phẩm ăn uống", "Cảm nhận trải nghiệm"],
   "structure_style": ["Hướng dẫn", "Review trải nghiệm"],
   "hook_type": ["Gây tò mò", "Phản hồi bình luận"],

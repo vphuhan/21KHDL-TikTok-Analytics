@@ -1,0 +1,34 @@
+{
+  "categories": ["Mukbang", "Review sản phẩm ăn uống"],
+  "audience_target": ["Người trẻ (Gen Z)", "Người thích ăn vặt, đồ ngọt"],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sữa bột",
+      "comment": "Giới thiệu sản phẩm sữa bột dành cho người trên 18 tuổi."
+    },
+    {
+      "step": "Miêu tả hương vị",
+      "comment": "Miêu tả hương vị thơm ngon, béo và ngọt vừa phải của sữa."
+    },
+    {
+      "step": "Tiết lộ nguồn gốc",
+      "comment": "Tiết lộ đây là sữa của Huy Thành và đang tranh thủ dùng khi Huy Thành đi du lịch."
+    },
+    {
+      "step": "Bày tỏ sự ngạc nhiên",
+      "comment": "Bày tỏ sự ngạc nhiên khi biết có sữa bột dành cho người trên 18 tuổi."
+    }
+  ],
+  "content_style": ["Đời thường", "Gen Z"],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": ["ngon"],
+  "has_cta": "false",
+  "highlight_phrases": ["Đây là sữa bột dành cho người trên 18.", "Vậy người trên 18 là trẻ con hay là người lớn ta?"],
+  "hook_content": "Đây là sữa bột dành cho người trên 18.",
+  "hook_type": ["Vào thẳng vấn đề", "Gây tò mò"],
+  "pacing": ["Nhanh"],
+  "structure_style": ["Chia sẻ trải nghiệm cá nhân", "Mô tả đặc điểm"],
+  "summarization": "Video mukbang sữa bột dành cho người trên 18 tuổi. Người quay review hương vị thơm ngon, béo ngọt của sữa và hài hước tiết lộ đây là sữa 'ăn trộm' của Huy Thành. Video kết thúc bằng câu hỏi gây tò mò về việc người trên 18 tuổi uống sữa bột.",
+  "tone_of_voice": ["Hài hước", "Thân thiện", "Ngạc nhiên"]
+}

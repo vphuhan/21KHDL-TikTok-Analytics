@@ -1,0 +1,82 @@
+{
+  "categories": [
+    "Review quán ăn",
+    "Review món ăn"
+  ],
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món bánh phô mai sữa nướng",
+      "comment": "Mô tả sự xuất hiện của món ăn mới tại Sài Gòn."
+    },
+    {
+      "step": "Mô tả chi tiết về món ăn",
+      "comment": "Giải thích cách chế biến và thành phần của món ăn."
+    },
+    {
+      "step": "Đánh giá hương vị và giá cả",
+      "comment": "Nhận xét về độ ngon và tính hợp lý của giá cả."
+    },
+    {
+      "step": "Giới thiệu các món khác tại quán",
+      "comment": "Liệt kê thêm các lựa chọn khác ngoài món chính."
+    },
+    {
+      "step": "Giới thiệu đồ uống",
+      "comment": "Gợi ý thêm các loại đồ uống đi kèm."
+    },
+    {
+      "step": "Giới thiệu món ăn kèm khác",
+      "comment": "Gợi ý thêm món ăn khác để tăng trải nghiệm."
+    },
+    {
+      "step": "Thông tin địa điểm quán",
+      "comment": "Cung cấp thông tin về địa chỉ và thời gian hoạt động."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thèm",
+    "thơm xỉu",
+    "bao phê",
+    "ngọt ngọt",
+    "chua chua",
+    "giải khát",
+    "ngon",
+    "không bị ngấy"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "U là trời, nhìn mấy cái cục phô mai nó ngon gì đâu luôn á.",
+    "Nói thiệt nha, đứng đây nhìn nướng thôi là thèm muốn ăn liền á mọi người, nó thơm xỉu luôn.",
+    "Mọi người nhìn vậy thôi chứ ăn một tới hai cây sẽ thấy vừa đủ nha, nhưng đảm bảo là bữa sau lại thèm tiếp cho coi."
+  ],
+  "hook_content": "Bánh phô mai sữa nướng, anh là người đầu tiên bán tại Sài Gòn nha mấy bạn.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Giật tít"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu món bánh phô mai sữa nướng mới xuất hiện tại Sài Gòn, đồng thời review thêm các món ăn và đồ uống khác tại quán. Người bán tự nhận là người đầu tiên bán món này tại Sài Gòn và mô tả chi tiết hương vị, cách chế biến của món ăn. Địa chỉ quán nằm tại đường Nguyễn Trãi, quận 5.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

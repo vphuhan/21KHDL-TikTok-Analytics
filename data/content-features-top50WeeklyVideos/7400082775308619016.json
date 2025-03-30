@@ -1,0 +1,66 @@
+{
+  "categories": [
+    "Review món ăn"
+  ],
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bánh",
+      "comment": "Giới thiệu hai loại bánh da trứng cuộn kem tươi chà bông và bánh diêm mạch cuộn kem trứng chà bông."
+    },
+    {
+      "step": "Đánh giá bánh da trứng",
+      "comment": "Đánh giá bánh da trứng to, đặc, no, mềm, dẻo, có vị mặn, ngọt, béo."
+    },
+    {
+      "step": "Đánh giá bánh diêm mạch",
+      "comment": "Đánh giá bánh diêm mạch ít bông hơn, vỏ bánh ngon, dẻo, dai, vị mặn, ngọt, béo nhưng ngọt hơn."
+    },
+    {
+      "step": "Tổng kết",
+      "comment": "Đánh giá chung hai loại bánh ngoại hình bình thường nhưng chất lượng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mình có gắn link sản phẩm trong phần giỏ hàng của video, mọi người nếu mà ai quan tâm có thể bấm vào để tham khảo"
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thích",
+    "hài hòa",
+    "chất lượng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ăn thử mình thấy ngon thật sự luôn",
+    "ăn sáng hoặc là chiều đói hoặc là đêm đói, dậy ăn một cái thì no luôn",
+    "ngoại hình của nó trông bình thường nhưng mà khi ăn thì rất là chất lượng"
+  ],
+  "hook_content": "Mọi người đã có ai ăn thử cái bánh này chưa?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review hai loại bánh: bánh da trứng cuộn kem tươi chà bông và bánh diêm mạch cuộn kem trứng chà bông. Bánh da trứng được đánh giá là to, mềm, dẻo, vị mặn ngọt béo hài hòa. Bánh diêm mạch ít bông hơn nhưng vỏ bánh ngon, ngọt hơn. Cả hai loại bánh đều được đánh giá là chất lượng so với ngoại hình.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

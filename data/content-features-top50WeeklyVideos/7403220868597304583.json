@@ -1,0 +1,57 @@
+{
+  "categories": [
+    "Review quán ăn",
+    "Review món ăn",
+    "Mukbang"
+  ],
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "comment": "Giới thiệu hàng sườn bò và món tủy bò."
+    },
+    {
+      "step": "Đánh giá sản phẩm",
+      "comment": "Nhận xét về kích thước tủy và độ béo."
+    },
+    {
+      "step": "Trải nghiệm cá nhân",
+      "comment": "Chia sẻ cảm xúc không hài lòng khi ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "béo",
+    "không hợp",
+    "tiếc tiền",
+    "không phê"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Tủy hơi nhỏ một tí, nhưng mà vẫn có tủy nha",
+    "Đúng là quá không phê đi"
+  ],
+  "hook_content": "review cả thế giới. Chuyện là mình có đi qua cái hàng sườn bò và mình bảo với cô bán hàng là cho cháu hai ống tủy.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món tủy bò mua ở một quán ven đường. Người review không hài lòng về kích thước tủy và hương vị quá béo, cảm thấy tiếc tiền.",
+  "tone_of_voice": [
+    "Chân thành",
+    "Khó chịu"
+  ]
+}

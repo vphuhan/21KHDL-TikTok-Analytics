@@ -1,0 +1,78 @@
+{
+  "categories": [
+    "Nấu ăn",
+    "Review món ăn"
+  ],
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món hành muối xổi",
+      "comment": "Món ăn dân dã, quen thuộc."
+    },
+    {
+      "step": "Mô tả cảm xúc khi ăn hành muối",
+      "comment": "Nhấn mạnh sự hấp dẫn của món ăn."
+    },
+    {
+      "step": "Chia sẻ về mùa hành",
+      "comment": "Thông tin hữu ích về thời điểm có món ăn."
+    },
+    {
+      "step": "Mô tả nguyên liệu",
+      "comment": "Nguyên liệu dễ kiếm, gần gũi."
+    },
+    {
+      "step": "Chia sẻ công thức muối hành",
+      "comment": "Công thức đơn giản, dễ làm theo."
+    },
+    {
+      "step": "Mô tả thành phẩm",
+      "comment": "Nhấn mạnh sự ngon miệng của món ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bác nào mà thích thì tranh thủ ăn đi nha.",
+    "Bác nào mà sợ hôi thì cho thêm nửa quả chanh nữa nha.",
+    "Bác nào mà trong trường phái thích ăn hành giống em chỉ có nghiện thôi."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thích",
+    "nghiện"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "chỉ bát hành muối sổi là ngon rồi",
+    "cơm cá, cơm thịt bị ra rìa hết luôn",
+    "cái nách nó cứ bật tanh tách thôi",
+    "Một mình em hết một đĩa và ba bát cơm"
+  ],
+  "hook_content": "Nói thật với các bác chứ, chỉ cần một bát củ hành muối xổi như thế này thôi, cơm cá, cơm thịt bị ra rìa hết luôn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ cách làm món hành muối xổi đơn giản tại nhà. Người làm giới thiệu món ăn kèm cảm xúc thích thú khi ăn. Món ăn này đặc biệt ngon và tốn cơm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hài hước"
+  ]
+}

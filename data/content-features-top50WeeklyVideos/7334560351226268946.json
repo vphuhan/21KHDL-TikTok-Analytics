@@ -1,0 +1,76 @@
+{
+  "categories": [
+    "Review quán ăn",
+    "Review món ăn"
+  ],
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu các loại ốc và giá",
+      "comment": "Thông tin chi tiết về giá cả và loại ốc."
+    },
+    {
+      "step": "Tình hình quán vắng khách",
+      "comment": "Chia sẻ về tình hình kinh doanh của quán."
+    },
+    {
+      "step": "Hỏi thăm về quán",
+      "comment": "Hỏi về thời gian bán và công việc trước đây của bà chủ."
+    },
+    {
+      "step": "Miêu tả thêm về ốc gạo",
+      "comment": "Nhấn mạnh độ ngon và hiếm của ốc gạo."
+    },
+    {
+      "step": "Khuyến khích ủng hộ quán",
+      "comment": "Lời kêu gọi ủng hộ chân thành."
+    },
+    {
+      "step": "Giới thiệu địa điểm quán",
+      "comment": "Thông tin về vị trí để mọi người dễ tìm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chuyên nghiệp"
+  ],
+  "cta_content": [
+    "ủng hộ bà túi ốc nhen",
+    "qua ủng hộ bà nghe"
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "đặc sản",
+    "béo",
+    "đã"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ốc gạo là ngon đặc sản quán ải này",
+    "Ốc gạo đây nhiều khi là 90, 100 một lon mà cũng không có mà ăn luôn á mọi người",
+    "ốc to này là mới mới mới đã bà hè, mới béo hì"
+  ],
+  "hook_content": "Cái ốc kêu đây là một tô đây 30 ngàn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video giới thiệu quán ốc của một bà cụ bán lâu năm, quán hơi vắng khách. Người quay review các loại ốc và giá cả, đồng thời khuyến khích mọi người ủng hộ quán. Địa điểm quán nằm đối diện cổng Mỹ Trà.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

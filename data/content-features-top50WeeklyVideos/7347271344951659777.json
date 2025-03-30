@@ -1,0 +1,34 @@
+{
+  "categories": ["Mukbang"],
+  "audience_target": ["Người trẻ (Gen Z)", "Người thích ăn vặt, đồ ngọt"],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "comment": "Giới thiệu món trứng vịt lộn."
+    },
+    {
+      "step": "Ăn trứng vịt lộn",
+      "comment": "Ăn và mô tả cảm nhận."
+    },
+    {
+      "step": "Hỏi về sở thích",
+      "comment": "Hỏi người xem về sở thích ăn mề trứng vịt lộn."
+    },
+    {
+      "step": "Kết thúc",
+      "comment": "Cảm ơn người xem."
+    }
+  ],
+  "content_style": ["Đời thường", "Nhanh gọn"],
+  "cta_content": ["Cám ơn mọi người đã xem video của em"],
+  "cta_type": ["Thích video", "Xem video tiếp theo"],
+  "emotion_keywords": ["Ngon"],
+  "has_cta": "true",
+  "highlight_phrases": ["Ngon quá"],
+  "hook_content": "Chào mọi người ăn trứng vịt lộn với em nha.",
+  "hook_type": ["Vào thẳng vấn đề"],
+  "pacing": ["Nhanh"],
+  "structure_style": ["Chia sẻ trải nghiệm cá nhân"],
+  "summarization": "Video mukbang ăn trứng vịt lộn. Người quay ăn 10 quả trứng vịt lộn và mời mọi người cùng ăn. Cuối video, người quay hỏi người xem có thích ăn mề trứng vịt lộn không và cảm ơn mọi người đã xem.",
+  "tone_of_voice": ["Thân thiện"]
+}

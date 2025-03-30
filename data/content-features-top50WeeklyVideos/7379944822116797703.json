@@ -1,0 +1,71 @@
+{
+  "categories": [
+    "Review quán ăn",
+    "Review món ăn"
+  ],
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu về quán ăn",
+      "comment": "Giới thiệu địa điểm ăn uống cùng bạn bè."
+    },
+    {
+      "step": "Gọi món",
+      "comment": "Các bạn trẻ lựa chọn và gọi các món ăn khác nhau."
+    },
+    {
+      "step": "Phỏng vấn về tình trạng hôn nhân",
+      "comment": "Chủ đề hài hước về tình trạng độc thân của các bạn."
+    },
+    {
+      "step": "Review hương vị món ăn",
+      "comment": "Đánh giá chi tiết về hương vị và trải nghiệm ăn uống."
+    },
+    {
+      "step": "Đánh giá giá cả",
+      "comment": "Nhận xét về mức giá hợp lý so với số lượng và chất lượng món ăn."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "bức xúc",
+    "trong lành",
+    "ngọt",
+    "cay",
+    "mướt",
+    "rẻ"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cái vị ngọt của sốt á nó đấm thẳng vào lưỡi em anh ạ.",
+    "Xong rồi sau đó em lại gặp thêm một tí xiên và kim chi nữa.",
+    "Thế bồi thêm độ chua ui! Mướt luôn anh ạ!"
+  ],
+  "hook_content": "Cái gì? Con gà chị bé đen chị xin lỗi em ấy đứa đi ăn với chị không chị vào chị ơi Trung Học Phổ Thông An Dơ hen ở đâu nhỉ?",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video ghi lại trải nghiệm ăn uống của một nhóm bạn tại quán ăn gần trường THPT An Dương. Các bạn trẻ gọi nhiều món khác nhau và chia sẻ cảm nhận về hương vị. Video cũng đề cập đến tình trạng hôn nhân độc thân của các bạn.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

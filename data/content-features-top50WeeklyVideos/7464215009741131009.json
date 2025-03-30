@@ -1,0 +1,80 @@
+{
+  "categories": [
+    "Review món ăn",
+    "Nấu ăn"
+  ],
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu ốc",
+      "comment": "Mô tả hình dáng ốc và dự đoán vị ngon."
+    },
+    {
+      "step": "Luộc ốc",
+      "comment": "Hướng dẫn sơ chế và luộc ốc."
+    },
+    {
+      "step": "Pha nước chấm",
+      "comment": "Nhấn mạnh sự quan trọng của chén muối ớt."
+    },
+    {
+      "step": "Thưởng thức ốc",
+      "comment": "Miêu tả hương vị và cảm giác khi ăn."
+    },
+    {
+      "step": "Đặt câu hỏi",
+      "comment": "Hỏi về loại ốc đang ăn."
+    },
+    {
+      "step": "Mời ăn",
+      "comment": "Mời mọi người cùng ăn và thể hiện sự thích thú."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "ai biết thì nói cho tui với nha",
+    "mời mọi người ăn chung với tui"
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "giòn ngọt",
+    "đắng nhẹ",
+    "cuốn",
+    "đã"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ốc thì ú nu hà, lễ con nào con nấy ra cũng hết cái đuôi trắng phao mà không có bị teo",
+    "Ăn vô thì cực kỳ giòn ngọt mà hơi đắng nhẹ, nhưng mà cái đắng này là ăn cuốn nha",
+    "Ốc đắng luộc ăn đã nè"
+  ],
+  "hook_content": "Chào mọi người, con này là con ốc đắng hay là con ốc gạo, chưa rõ ốc nào, chứ nhìn nó ú nu mà trắng phau như vầy là đảm bảo ngon rồi.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu món ốc đắng luộc sả. Người làm video chia sẻ cách luộc ốc, pha nước chấm và cảm nhận về hương vị của món ăn. Cuối video, người này mời mọi người cùng ăn và hỏi về loại ốc.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "categories": [
+    "Review món ăn"
+  ],
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "comment": "Mở đầu bằng sự tranh cãi về tên gọi của món ăn."
+    },
+    {
+      "step": "Trải nghiệm món ăn",
+      "comment": "Rán khô mỡ cá và ăn thử."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "comment": "Nhận xét về độ béo, mặn và gợi ý ăn kèm."
+    },
+    {
+      "step": "Thử với mắm me",
+      "comment": "Ăn kèm mắm me để giảm độ mặn."
+    },
+    {
+      "step": "Tổng kết",
+      "comment": "Đưa ra kết luận về món ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "béo",
+    "mặn",
+    "ngán"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "khô mỡ cá dứa, hay khô mỡ cá basa hả mọi người"
+  ],
+  "hook_content": "Chào mọi người. Đây là cái món ăn mà gây rất là nhiều sự tranh cãi trong thời gian vừa qua.",
+  "hook_type": [
+    "Gây tranh cãi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món khô mỡ cá gây tranh cãi về tên gọi. Người review trải nghiệm món ăn, nhận xét về độ béo, mặn và gợi ý ăn kèm với cơm hoặc mắm me. Cuối cùng, đưa ra kết luận món ăn phù hợp với người thích béo và mỡ cá.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

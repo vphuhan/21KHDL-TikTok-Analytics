@@ -1,0 +1,84 @@
+{
+  "categories": [
+    "Review món ăn",
+    "Nấu ăn"
+  ],
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu về Việt Nam",
+      "comment": "Thông báo cả gia đình sẽ về Việt Nam chơi."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "comment": "Đi chợ mua nguyên liệu lạ để làm quà, có cá mặt quỷ hấp giá đậu nành."
+    },
+    {
+      "step": "Nấu món cá mặt quỷ hấp",
+      "comment": "Hướng dẫn nấu món cá mặt quỷ hấp với tinh bột khoai tây và giá đậu nành."
+    },
+    {
+      "step": "Chuẩn bị món Kimbap",
+      "comment": "Ông xã làm món Kimbap hình trái tim tặng vợ nhân ngày 8/3."
+    },
+    {
+      "step": "Pha cà phê",
+      "comment": "Pha cà phê Laura của Nhật Kim Anh."
+    },
+    {
+      "step": "Ăn tối",
+      "comment": "Mời mọi người ăn tối cùng gia đình."
+    },
+    {
+      "step": "Cả nhà cùng ăn",
+      "comment": "Cả nhà cùng nhau thưởng thức bữa ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Mọi người còn biết cá này làm món gì nữa thì gợi ý cho mình với nha."
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Chia sẻ công thức"
+  ],
+  "emotion_keywords": [
+    "thích",
+    "ngon",
+    "yêu thương",
+    "hạnh phúc",
+    "ghiền",
+    "ngọt ngào",
+    "thơm tho"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bên ngoài cái con cá này thì sợ nhưng mà ăn cái thịt nó vừa dai vừa ngọt ngon lắm luôn.",
+    "Nó hơi cay cay mặn mặn ngọt ngọt mà ăn với cơm trắng dính lắm luôn á nha."
+  ],
+  "hook_content": "nhiều lần suy nghĩ thì cả nhà mình cũng quyết định rồi sẽ về Việt Nam chơi một chuyến nha mọi người.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ về quyết định về Việt Nam chơi của gia đình. Nội dung chính là nấu món cá mặt quỷ hấp giá đậu nành, làm kimbap trái tim và pha cà phê Laura. Cuối cùng, cả gia đình cùng nhau ăn tối và mời mọi người cùng thưởng thức.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "categories": [
+    "Review món ăn",
+    "Mukbang"
+  ],
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "comment": "Giới thiệu các món ngâm tương, đặc biệt nhấn mạnh trứng ngâm tương ăn với cơm rất ngon."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "comment": "Nhận xét về độ tươi ngon, độ béo của cá hồi, độ thấm vị của tôm, độ giòn của tôm."
+    },
+    {
+      "step": "Đánh giá nhược điểm",
+      "comment": "Nhấn mạnh đồ ăn lạnh có thể không hợp khẩu vị một số người."
+    },
+    {
+      "step": "Đánh giá tôm ngâm tương",
+      "comment": "Miêu tả chi tiết về tôm ngâm tương và gợi ý số lượng người ăn phù hợp."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "béo",
+    "thấm",
+    "giòn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "dính chưởng với lại cái món ngâm tương này rồi",
+    "ăn á trời ơi nó đau ví nhẹ lắm luôn á",
+    "cá hồi nó béo gì đâu luôn mọi người",
+    "tôm nó bóng lưỡng luôn á mọi người, ăn vào thì nó giòn giòn"
+  ],
+  "hook_content": "Hêy mọi người, ta nói dính chưởng với lại cái món ngâm tương này rồi, là mỗi ngày ăn một tiệm khác nhau nè.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review các món ngâm tương như trứng, tôm, cá hồi ăn kèm cơm. Người nói đánh giá cao hương vị tươi ngon, đậm đà của món ăn nhưng cũng lưu ý về việc đồ ăn lạnh có thể không phù hợp với một số người.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

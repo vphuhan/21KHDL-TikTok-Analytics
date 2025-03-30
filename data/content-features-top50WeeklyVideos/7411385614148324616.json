@@ -1,0 +1,34 @@
+{
+  "categories": ["Review món ăn", "Mukbang", "Review sản phẩm ăn uống"],
+  "audience_target": ["Người trẻ (Gen Z)", "Người thích ăn vặt, đồ ngọt"],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món thịt kho",
+      "comment": "Mô tả món ăn hấp dẫn."
+    },
+    {
+      "step": "Nhận xét về món thịt kho",
+      "comment": "Đánh giá hương vị và độ ngán của món ăn."
+    },
+    {
+      "step": "Giới thiệu cà phê Laura",
+      "comment": "Giới thiệu sản phẩm cà phê kèm thành phần và công dụng."
+    },
+    {
+      "step": "Cách ăn thịt kho",
+      "comment": "Gợi ý cách ăn thịt kho đỡ ngán."
+    }
+  ],
+  "content_style": ["Đời thường", "Nhanh gọn"],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": ["đã", "ngon", "khỏe"],
+  "has_cta": "false",
+  "highlight_phrases": ["Review cả thế giới thịt kho thành hủy diệt virus.", "Tuy là thành hủy diệt nhiều cơ bắp nhưng mà ăn vẫn hơi ngán nha.", "Vừa ngon, vừa khỏe như thế này, bảo sao thấy ai cũng uống cà phê Laura luôn.", "thịt kho thành hủy diệt virus này thì màu tím rất là thủy chung nhưng ăn hơi ngán nên cho thêm lát chanh và chấm thêm tí muối cay nữa là quá đã"],
+  "hook_content": "Review cả thế giới thịt kho thành hủy diệt virus.",
+  "hook_type": ["Vào thẳng vấn đề"],
+  "pacing": ["Nhanh"],
+  "structure_style": ["Chia sẻ trải nghiệm cá nhân", "Mô tả đặc điểm"],
+  "summarization": "Video review món thịt kho \"thành hủy diệt virus\" và nhận xét về độ ngán của món ăn. Đồng thời giới thiệu cà phê Laura của Nhật Kim Anh, gợi ý ăn thịt kho kèm chanh và muối ớt để đỡ ngán.",
+  "tone_of_voice": ["Hài hước", "Thân thiện"]
+}

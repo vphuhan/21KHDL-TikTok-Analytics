@@ -1,0 +1,30 @@
+{
+  "categories": ["Review sản phẩm ăn uống"],
+  "audience_target": ["Người trẻ (Gen Z)", "Người thích ăn vặt, đồ ngọt"],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu video trước đó và phản hồi về các bình luận nghi ngờ PR",
+      "comment": "Giải thích về video trước và phủ nhận việc nhận tiền quảng cáo."
+    },
+    {
+      "step": "Giải thích về trải nghiệm ăn tương ớt",
+      "comment": "Nhấn mạnh cảm nhận ngon miệng ban đầu, sau đó thay đổi khi ăn với món khác."
+    },
+    {
+      "step": "Giải thích lý do mua tương ớt",
+      "comment": "Nêu rõ mục đích mua để làm video trải nghiệm theo yêu cầu của người xem."
+    }
+  ],
+  "content_style": ["Đời thường", "Chuyên nghiệp"],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": ["ngon"],
+  "has_cta": "false",
+  "highlight_phrases": ["Cái chai tương ớt đấy nó có ngon hay không thì nó còn phụ thuộc vào việc là mình đang ăn cái món gì nữa.", "Mình chấp nhận cái giá cao. Mình đâu có mua để sử dụng thường xuyên đâu, bởi vì mình không có cái nhu cầu đấy. "],
+  "hook_content": "Xin chào mọi người. Hôm trước thì mình có đăng một cái video ăn thử tương ớt bái béo.",
+  "hook_type": ["Phản hồi bình luận"],
+  "pacing": ["Thay đổi"],
+  "structure_style": ["Chia sẻ trải nghiệm cá nhân"],
+  "summarization": "Video giải thích về việc review tương ớt bái béo ở video trước. Người nói phủ nhận việc PR cho sản phẩm và giải thích trải nghiệm ăn tương ớt với các món ăn khác nhau. Video cũng đề cập đến lý do mua tương ớt để làm video trải nghiệm theo yêu cầu của người xem.",
+  "tone_of_voice": ["Thân thiện", "Chân thành"]
+}

@@ -1,0 +1,82 @@
+{
+  "categories": [
+    "Review quán ăn",
+    "Review món ăn"
+  ],
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu về chuyến đi chơi ở Dallas",
+      "comment": "Chia sẻ về chuyến đi chơi cùng bạn ở Dallas, mô tả thời tiết và không khí."
+    },
+    {
+      "step": "Ghé quán Thái vì đói",
+      "comment": "Tình huống ngẫu nhiên dẫn đến việc ghé một quán Thái vì đói bụng."
+    },
+    {
+      "step": "Review món Pad Thái",
+      "comment": "Đánh giá cao món Pad Thái, miêu tả hương vị hoàn hảo."
+    },
+    {
+      "step": "Review món cà ri tôm",
+      "comment": "Nhận xét về món cà ri tôm, có sự khác biệt trong cảm nhận về độ béo."
+    },
+    {
+      "step": "Ăn thử kem",
+      "comment": "Trải nghiệm ăn thử kem và so sánh các hương vị."
+    },
+    {
+      "step": "Lựa chọn hoạt động tiếp theo",
+      "comment": "Quyết định đi xem tranh sau khi cân nhắc giữa sở thú và bảo tàng."
+    },
+    {
+      "step": "Chia sẻ về sở thích nghệ thuật",
+      "comment": "Tiết lộ về niềm đam mê nghệ thuật và hội họa."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "sung sướng cõi lòng",
+    "thơm",
+    "ngon",
+    "đã cái nư",
+    "tò mò",
+    "thích"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "ăn vô một miếng nó ngon mà sung sướng cõi lòng luôn đó",
+    "vị chua, vị ngọt, vị cay thật sự hoàn hảo, nó khớp tới từng mạch khẩu vị ở trong người mình luôn",
+    "béo cỡ này nó mới đã cái nư",
+    "uy tín như bài toán 0 + 1 = 0 á"
+  ],
+  "hook_content": "có một bình luận mà mình cảm thấy sốc nhất khi đăng tải mấy cái clip đi du lịch Mỹ nè, khiến cho mình cảm thấy bị hoài nghi về nhân sinh luôn á.",
+  "hook_type": [
+    "Phản hồi bình luận"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ về trải nghiệm ăn món Thái và đi chơi ở Dallas. Người làm video đã ghé một quán Thái và review món Pad Thái, cà ri tôm, đồng thời ăn thử kem. Sau đó, người này đã đi xem tranh và chia sẻ về sở thích nghệ thuật của mình.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "categories": [
+    "Nấu ăn",
+    "Review món ăn"
+  ],
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "comment": "Chia sẻ về công việc nhà và ý định làm bánh xèo miền Trung."
+    },
+    {
+      "step": "Công việc hàng ngày",
+      "comment": "Mô tả một ngày bận rộn với nhiều công việc khác nhau."
+    },
+    {
+      "step": "Đi lấy hàng",
+      "comment": "Chia sẻ về việc đi lấy hàng bằng xe buýt và tàu điện ngầm."
+    },
+    {
+      "step": "Bán hàng",
+      "comment": "Giải thích lý do chọn bán một loại sản phẩm collagen cụ thể."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "comment": "Ghé chợ mua nguyên liệu và bắt đầu chuẩn bị làm bánh xèo và bánh khọt."
+    },
+    {
+      "step": "Làm bánh xèo miền Trung",
+      "comment": "Lần đầu làm bánh xèo miền Trung và pha nước mắm theo kiểu miền Tây."
+    },
+    {
+      "step": "Pha bột bánh xèo",
+      "comment": "Pha bột bánh xèo theo cảm tính và chia sẻ về kinh nghiệm làm bánh khọt."
+    },
+    {
+      "step": "Đổ bánh",
+      "comment": "Bắt đầu đổ bánh xèo và chia sẻ về sự khác biệt so với bánh xèo của người khác."
+    },
+    {
+      "step": "Mời ăn",
+      "comment": "Mời mọi người ăn bánh xèo cùng gia đình."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "tuyệt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "một ngày mọi người cần bao nhiêu tiếng để làm được hết việc nhà, còn mình chắc phải 48 tiếng mới đủ á",
+    "Tới khúc này là hơi bị gối loạn chút xíu rồi đó, hồi nữa là bánh xèo Trung Tây luôn."
+  ],
+  "hook_content": "một ngày mọi người cần bao nhiêu tiếng để làm được hết việc nhà, còn mình chắc phải 48 tiếng mới đủ á.",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video ghi lại một ngày bận rộn của một người phụ nữ với nhiều công việc khác nhau, từ chăm sóc con cái, bán hàng đến nấu ăn. Cô chia sẻ về việc chuẩn bị và làm món bánh xèo miền Trung, đồng thời mời mọi người cùng thưởng thức.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

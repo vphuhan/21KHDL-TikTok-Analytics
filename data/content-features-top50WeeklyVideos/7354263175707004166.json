@@ -1,0 +1,68 @@
+{
+  "categories": [
+    "Review món ăn",
+    "Mukbang"
+  ],
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "comment": "Giới thiệu món cà xỉu muối."
+    },
+    {
+      "step": "Ăn thử",
+      "comment": "Bắt đầu ăn và miêu tả hương vị."
+    },
+    {
+      "step": "Đánh giá",
+      "comment": "Nhận xét về độ ngon và các phần khác nhau của món ăn."
+    },
+    {
+      "step": "Khám phá",
+      "comment": "Tiếp tục ăn và khám phá các bộ phận của cà xỉu."
+    },
+    {
+      "step": "Kết luận",
+      "comment": "Tổng kết về hương vị và hình dáng của món ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "mặn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "phải ăn tiền cơm mới ngon đúng không?",
+    "mặn nha, nhưng mà rất là thơm",
+    "Ngon á.",
+    "Ăn thịt nó khá là nhiều nha.",
+    "Ngon ngon."
+  ],
+  "hook_content": "Một hai ba.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review món cà xỉu muối. Người nói thử và miêu tả hương vị mặn, thơm, ngon của món ăn. Video ngắn gọn, tập trung vào trải nghiệm ăn uống thực tế.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

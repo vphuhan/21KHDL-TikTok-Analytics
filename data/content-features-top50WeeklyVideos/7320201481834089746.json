@@ -1,0 +1,73 @@
+{
+  "categories": [
+    "Review món ăn",
+    "Review sản phẩm ăn uống"
+  ],
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu khách và món ăn",
+      "comment": "Giới thiệu cô Tường Hân đến ăn Tết và các món ăn đãi khách."
+    },
+    {
+      "step": "Chuẩn bị đón khách",
+      "comment": "Dọn dẹp nhà cửa và chuẩn bị món ăn cho khách."
+    },
+    {
+      "step": "Giới thiệu về cô Tường Hân",
+      "comment": "Nhấn mạnh sở thích và thói quen ăn uống của khách."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "comment": "Mô tả cách ăn món hàu hấp và gỏi cá."
+    },
+    {
+      "step": "Giới thiệu cà phê",
+      "comment": "Giới thiệu và pha cà phê Dora của Nhật Kim Anh cho khách."
+    },
+    {
+      "step": "Pha cà phê cho ba",
+      "comment": "Pha cà phê đá cho ba sau khi giúp dọn dẹp."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "khoái",
+    "mến",
+    "thương",
+    "ngon",
+    "thơm",
+    "mê"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cô Tường Hân khó ăn lắm mọi người, kiểu món gì không hợp khẩu vị hay sao á.",
+    "Tường Hân nhà mình khoái chi lắm, mến cô lắm, nhỏ như chú hay bị nịnh đó mọi người.",
+    "Ai cũng khen cà phê thôi. Khẩu vị cà phê không bị chua miệng, cô Tường Hân uống xong còn xin hai hộp về nữa á mọi người.",
+    "ba Tường Hân mê cà phê kiểu này lắm, mùi thơm ơi là thơm luôn."
+  ],
+  "hook_content": "Cô Tường Hân qua nhà bọn mình ăn tết nè.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh chuẩn bị và đãi khách đến chơi nhà ăn Tết với món hàu hấp và gỏi cá. Chủ nhà giới thiệu về khách và chia sẻ các món ăn, thức uống được yêu thích. Cuối video là cảnh pha cà phê cho ba sau khi giúp dọn dẹp.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

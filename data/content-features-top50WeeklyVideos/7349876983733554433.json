@@ -1,0 +1,78 @@
+{
+  "categories": [
+    "Review quán ăn",
+    "Review món ăn"
+  ],
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bánh Doraemon",
+      "comment": "Giới thiệu hài hước về bánh rán Doraemon."
+    },
+    {
+      "step": "Mô tả bánh",
+      "comment": "Mô tả chi tiết về bánh và nhân bánh."
+    },
+    {
+      "step": "Bán hàng",
+      "comment": "Tương tác vui vẻ với khách hàng."
+    },
+    {
+      "step": "Giới thiệu địa điểm bán",
+      "comment": "Thông tin về địa điểm và thời gian bán bánh."
+    },
+    {
+      "step": "Đánh giá bánh",
+      "comment": "Nhận xét về hương vị và trải nghiệm ăn bánh."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "mềm mềm",
+    "giòn tan",
+    "thơm",
+    "béo béo",
+    "ngậy ngậy",
+    "mặn mặn",
+    "bon mồm",
+    "vui tính"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái bánh tròn này á là bánh rắn Doraemon, còn cái bánh dài dài này là Doraemon bánh rắn.",
+    "Bánh dài thì 4.000, ai mua lẻ thì 4.000, mà mua 10 cái thì tính 40.",
+    "Anh không đi thi thôi chứ anh thi cỡ Trấn Thành ở lại á. Ờ Trường Giang cũng ở lại luôn. Ở lại đánh giải còn anh bị đuổi vậy."
+  ],
+  "hook_content": "Cái bánh tròn này á là bánh rắn Doraemon, còn cái bánh dài dài này là Doraemon bánh rắn.",
+  "hook_type": [
+    "Gây tò mò",
+    "So sánh"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu và review bánh rán Doraemon của một người bán hàng vui tính ở quận 5. Anh bán bánh với nhiều hình dáng khác nhau và có cách nói chuyện hài hước, thu hút người mua. Bánh được đánh giá là ngon, có nhiều hương vị và được bán ở địa điểm quen thuộc.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

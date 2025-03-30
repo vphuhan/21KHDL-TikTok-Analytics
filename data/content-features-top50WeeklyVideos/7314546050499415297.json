@@ -1,0 +1,78 @@
+{
+  "categories": [
+    "Review món ăn"
+  ],
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Chuẩn bị ra sân bay",
+      "comment": "Hồi hộp, có chút lo lắng vì lần đầu bay xa."
+    },
+    {
+      "step": "Check-in và vào lounge",
+      "comment": "May mắn vì mang được đồ ăn qua trót lọt. Thất vọng vì đồ ăn ở lounge không hấp dẫn."
+    },
+    {
+      "step": "Chuyến bay đầu tiên đến Nhật",
+      "comment": "Cảm thấy hãng bay Nhật Bản rất ổn, đồ ăn ngon."
+    },
+    {
+      "step": "Quá cảnh ở Nhật",
+      "comment": "Đồ ăn ở phòng chờ Nhật không đa dạng."
+    },
+    {
+      "step": "Chuyến bay dài đến Mỹ",
+      "comment": "Mong muốn được bay hạng thương gia. Đồ ăn trên máy bay hương vị Nhật Bản."
+    },
+    {
+      "step": "Đến Houston và bay tiếp đến Dallas",
+      "comment": "Cảm thấy nhẹ nhõm khi đến Mỹ. Thủ tục nhập cảnh nhanh chóng."
+    },
+    {
+      "step": "Kết thúc hành trình",
+      "comment": "Háo hức bắt đầu chuyến du lịch Mỹ."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Thôi, tạm thời vậy nha, tui đi ngủ cái, buồn ngủ lắm rồi."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "mừng xỉu",
+    "lo toan",
+    "vật vã",
+    "ớn",
+    "buồn ngủ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nguyên cái vali toàn là đồ ăn đi qua trót lọt mừng xỉu.",
+    "Đi qua cổng hải quan Mỹ hỏi 2 câu, tới Mỹ làm cái gì? Đi bao lâu? Xong hết, vậy thôi đó."
+  ],
+  "hook_content": "đã tới Mỹ an toàn và thuận lợi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại hành trình bay đến Mỹ kéo dài gần 24 tiếng của một bạn nữ. Bạn chia sẻ về những khó khăn khi di chuyển, đồ ăn trên máy bay của các hãng hàng không khác nhau và thủ tục nhập cảnh ở Mỹ. Cuối cùng, bạn đã đến Mỹ an toàn và chuẩn bị bắt đầu chuyến du lịch.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hài hước"
+  ]
+}

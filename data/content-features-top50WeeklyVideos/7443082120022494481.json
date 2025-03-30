@@ -1,0 +1,99 @@
+{
+  "categories": [
+    "Review quán ăn",
+    "Review món ăn"
+  ],
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán nước",
+      "comment": "Mô tả quán bình dân, giá rẻ, đông khách."
+    },
+    {
+      "step": "Review ly nước trái cây",
+      "comment": "Nhấn mạnh vị trái cây, độ ngọt vừa phải, khen ngon."
+    },
+    {
+      "step": "Review trà mãng cầu",
+      "comment": "Đánh giá vừa vặn, nhiều mãng cầu, giá rẻ."
+    },
+    {
+      "step": "Review cam chanh dây",
+      "comment": "Khen đậm vị trái cây, mùi thơm."
+    },
+    {
+      "step": "Review yogurt",
+      "comment": "Nhận xét quá ngọt, nên bỏ đá."
+    },
+    {
+      "step": "Review trà táo bạc hà",
+      "comment": "Nhắc đến kỷ niệm với Tina, đánh giá dịu."
+    },
+    {
+      "step": "Review Matcha Latte",
+      "comment": "Chê có vị tanh nhẹ."
+    },
+    {
+      "step": "Review khoai môn bột",
+      "comment": "Nhắc lại tuổi thơ, khen ngon nhất trong các loại."
+    },
+    {
+      "step": "Review khoai môn tươi",
+      "comment": "Đánh giá ổn định, khoai môn dày."
+    },
+    {
+      "step": "Tổng kết",
+      "comment": "Nhận xét quán hợp khẩu vị, giá rẻ nhưng phải xếp hàng lâu."
+    },
+    {
+      "step": "Giải thích về clip xúc xích phô mai trước đó",
+      "comment": "Phản hồi về việc bị hiểu nhầm mua sai xúc xích."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "ngon",
+    "vừa",
+    "ngọt",
+    "yêu thích",
+    "dễ thương",
+    "ổn định"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "25 cành",
+    "thơm mùi trái thị",
+    "ngọt rất là vừa",
+    "mãng cầu ê hề",
+    "cam nó thơm nhức nách",
+    "uống vô đưa về tuổi thơ",
+    "khoai môn tươi mà mình thấy là ổn định"
+  ],
+  "hook_content": "Không, trên mạng, ngoài đời mọi người nhìn giùm em đi.",
+  "hook_type": [
+    "Gây tò mò",
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review tiệm nước Lúc Anh Lúc Ánh với nhiều loại đồ uống khác nhau như nước trái cây, trà mãng cầu, cam chanh dây, yogurt, trà táo bạc hà, matcha latte và các loại khoai môn. Người review đánh giá chi tiết từng loại, chỉ ra ưu nhược điểm và chấm điểm. Cuối cùng, video giải thích thêm về một clip review xúc xích phô mai trước đó.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

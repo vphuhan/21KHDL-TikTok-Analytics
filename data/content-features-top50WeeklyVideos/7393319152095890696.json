@@ -1,0 +1,59 @@
+{
+  "categories": [
+    "Review món ăn"
+  ],
+  "audience_target": [
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "comment": "Món ăn ức mỡ cá dứa có vẻ lạ, kén người ăn."
+    },
+    {
+      "step": "Ăn thử và đánh giá",
+      "comment": "Thực tế trải nghiệm món ăn với cơm và sốt me."
+    },
+    {
+      "step": "Đưa ra lời khuyên",
+      "comment": "Lời khuyên cho những ai muốn thử món ăn này."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nếu như mọi người vẫn muốn thử nhá, để an toàn nhất thì nên mua ít thôi, chứ đừng mua hẳn một cân, mua tầm 500 g và 200 g là được rồi."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "khó ăn",
+    "ngán",
+    "kinh",
+    "sợ mùi",
+    "tùy khẩu vị"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "nếu như ai mà không ăn được mỡ thì vui lòng là skip qua cái video này luôn",
+    "Khi mọi người cắn vào nó sẽ ứa cái mỡ ra",
+    "Ở nhà ai sợ mùi thì cái món này sẽ không dành cho những người kiểu đấy, tại vì món này chiên lên rất mùi, mùi mỡ, tanh của cá"
+  ],
+  "hook_content": "nếu như ai mà không ăn được mỡ thì vui lòng là skip qua cái video này luôn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review món ức mỡ cá dứa, một món ăn đặc sản có hương vị khá kén người ăn. Người review ăn thử món này với cơm và sốt me, đồng thời đưa ra lời khuyên cho những ai muốn thử.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

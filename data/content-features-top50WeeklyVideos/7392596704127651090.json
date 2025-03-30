@@ -1,0 +1,41 @@
+{
+  "categories": ["Review món ăn", "Mukbang"],
+  "audience_target": ["Người trẻ (Gen Z)", "Người thích khám phá ẩm thực tại địa phương"],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "comment": "Mở đầu bằng hình ảnh trứng hột vịt thúi hấp dẫn."
+    },
+    {
+      "step": "Chia sẻ trải nghiệm cá nhân",
+      "comment": "Kể về sở thích ăn trứng hột vịt thúi khi buồn miệng."
+    },
+    {
+      "step": "Kể chuyện",
+      "comment": "Chia sẻ kỷ niệm về việc mua và ủ trứng hột vịt thúi."
+    },
+    {
+      "step": "Miêu tả món ăn",
+      "comment": "Miêu tả hương vị và cách ăn trứng hột vịt thúi với muối tiêu ớt."
+    }
+  ],
+  "content_style": ["Đời thường", "Nhanh gọn"],
+  "cta_content": ["Giờ thì mời mọi người ăn chung với tôi nghe"],
+  "cta_type": ["Ăn cùng"],
+  "emotion_keywords": ["ngon", "thèm", "béo", "ghiền", "tê tái tâm hồn"],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "trứng hột vịt thúi phải chao chao mà xanh như vậy nè",
+    "béo gì đâu",
+    "ai mà biết ăn là ghiền",
+    "mùi thúi mỉm miều",
+    "trứng nào trứng nấy nó cũng chất lượng mà thúi nồng nặn luôn",
+    "tê tái tâm hồn"
+  ],
+  "hook_content": "Ồi chao nè. Ngon chưa? Hello mọi người.",
+  "hook_type": ["Cho thấy kết quả trước"],
+  "pacing": ["Nhanh"],
+  "structure_style": ["Chia sẻ trải nghiệm cá nhân"],
+  "summarization": "Video Mukbang món trứng hột vịt thúi. Người tạo nội dung chia sẻ về sở thích ăn trứng hột vịt thúi và cách thưởng thức món ăn này với muối tiêu ớt. Video có lời mời mọi người cùng ăn.",
+  "tone_of_voice": ["Hào hứng", "Thân thiện"]
+}

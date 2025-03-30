@@ -1,0 +1,38 @@
+{
+  "categories": ["Nấu ăn"],
+  "audience_target": ["Phụ huynh, gia đình có trẻ nhỏ", "Người nội trợ, yêu thích nấu ăn tại nhà", "Người thích ăn vặt, đồ ngọt"],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu nguyên liệu",
+      "comment": "Các nguyên liệu dễ kiếm và quen thuộc."
+    },
+    {
+      "step": "Hướng dẫn trộn bột",
+      "comment": "Hướng dẫn chi tiết từng bước trộn bột."
+    },
+    {
+      "step": "Cán và cắt bột",
+      "comment": "Hướng dẫn cán bột mỏng và cắt thành miếng nhỏ."
+    },
+    {
+      "step": "Chiên bánh",
+      "comment": "Hướng dẫn chiên bánh vàng đều."
+    },
+    {
+      "step": "Thành phẩm",
+      "comment": "Mô tả món bánh sau khi chiên xong."
+    }
+  ],
+  "content_style": ["Đời thường", "Nhanh gọn", "Chi tiết"],
+  "cta_content": ["hãy nhấn theo dõi mình nhé", "có thể sẽ giúp ích cho bạn đấy"],
+  "cta_type": ["Follow kênh"],
+  "emotion_keywords": ["ngon", "ngọt", "giòn", "bổ dưỡng", "thích"],
+  "has_cta": "true",
+  "highlight_phrases": ["Chỉ cần trứng gà và sữa là có thể làm ra một món ngon kinh điển", "Trứng và sữa tươi kết hợp với nhau, làm theo cách của mình, sẽ có vị ngọt, giòn, bổ dưỡng, trẻ em cũng rất thích ăn"],
+  "hook_content": "Nhiều người mua trứng về nhà chỉ biết luộc với chiên.",
+  "hook_type": ["Vào thẳng vấn đề"],
+  "pacing": ["Nhanh"],
+  "structure_style": ["Hướng dẫn"],
+  "summarization": "Video hướng dẫn làm món bánh chiên từ trứng gà và sữa tươi. Các bước thực hiện bao gồm trộn bột, cán mỏng, cắt miếng nhỏ và chiên vàng. Món bánh này có vị ngọt, giòn, bổ dưỡng và trẻ em rất thích.",
+  "tone_of_voice": ["Thân thiện", "Chân thành"]
+}

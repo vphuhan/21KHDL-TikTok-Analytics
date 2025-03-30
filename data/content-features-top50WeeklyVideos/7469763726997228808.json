@@ -1,0 +1,71 @@
+{
+  "categories": [
+    "Review món ăn",
+    "Mukbang"
+  ],
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "comment": "Giới thiệu xương tủy bò nướng và giá."
+    },
+    {
+      "step": "Nếm thử",
+      "comment": "Thử ăn và mô tả hương vị, độ béo ngậy."
+    },
+    {
+      "step": "Đánh giá",
+      "comment": "Nhận xét về trải nghiệm ăn, so sánh với tưởng tượng và đề xuất cách ăn kèm."
+    },
+    {
+      "step": "Kết luận",
+      "comment": "Đánh giá chung về món ăn: bổ, đắt nhưng không ngon nếu ăn một mình."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Tôi thử giàu, bạn cũng thế.",
+    "Tôi thử giàu, bạn cũng thế."
+  ],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "béo",
+    "ngậy",
+    "nổi da gà",
+    "ngấy",
+    "bổ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ăn một phát là kiểu này luôn đấy",
+    "Ông nào mà nướng thêm với bơ nữa thì chắc là úi giời ôi"
+  ],
+  "hook_content": "Mọi người ăn cái xương tủy bò ở đây ngon quá, thế nên là mình cũng phải thử phát mọi người.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review món xương tủy bò nướng đang hot trên mạng. Người này đã mua và ăn thử, nhận xét món ăn thơm nhưng quá béo ngậy nếu ăn không. Kết luận món này bổ, đắt nhưng không ngon nếu không ăn kèm.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

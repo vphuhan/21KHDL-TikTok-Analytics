@@ -1,0 +1,82 @@
+{
+  "categories": [
+    "Review món ăn",
+    "Nấu ăn",
+    "Review sản phẩm ăn uống"
+  ],
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu về việc so sánh giá bột chiên tự làm và mua ngoài",
+      "comment": "Mở đầu bằng câu hỏi gây tò mò về sự chênh lệch giá."
+    },
+    {
+      "step": "Cân đo số lượng bột chiên tự làm và mua ngoài",
+      "comment": "So sánh trực quan về số lượng để người xem dễ hình dung."
+    },
+    {
+      "step": "Giới thiệu các loại nước chấm",
+      "comment": "Nêu các loại nước chấm ăn kèm và cách pha chế đơn giản."
+    },
+    {
+      "step": "Đánh giá về chất lượng và cách chế biến",
+      "comment": "So sánh cách chiên và các thành phần của bột chiên tự làm và mua ngoài."
+    },
+    {
+      "step": "Tính toán chi phí nguyên liệu tự làm bột chiên",
+      "comment": "Liệt kê chi tiết các nguyên liệu và giá cả để tính tổng chi phí."
+    },
+    {
+      "step": "So sánh tổng chi phí và đưa ra kết luận",
+      "comment": "Đưa ra kết luận về việc tự làm tiết kiệm hơn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Thử nhá, cái món này nó dễ dễ làm lắm mọi người, nếu như mà rảnh các kiểu ấy thì bỏ tiền ra và mua, làm cho nó tiết kiệm ha."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "So sánh"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "đỡ ngán",
+    "tiết kiệm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "30.000 một chiên ở ngoài quán và 30.000 một chiên tự làm của mình sẽ chênh lệch bao nhiêu không?",
+    "mình chiên kỹ hơn ha. Nói chung là khi mà mình tự chiên thì mình căn làm sao để cho nó ngon nhất.",
+    "mệt nhất là cái công đoạn gọi là chiên bột thôi, còn lại tất cả mọi thứ là easy.",
+    "nếu như mà rảnh các kiểu ấy thì bỏ tiền ra và mua, làm cho nó tiết kiệm ha."
+  ],
+  "hook_content": "Có bao giờ thắc mắc là 30.000 một chiên ở ngoài quán và 30.000 một chiên tự làm của mình sẽ chênh lệch bao nhiêu không? Tôi tò mò, bạn cũng thế.",
+  "hook_type": [
+    "Gây tò mò",
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "So sánh",
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video so sánh giá của bột chiên mua ngoài quán và tự làm tại nhà với cùng một số tiền. Nội dung tập trung vào việc cân đo số lượng, so sánh chất lượng, và tính toán chi phí nguyên liệu để chứng minh tự làm tiết kiệm hơn. Cuối cùng, video khuyến khích người xem tự làm tại nhà.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

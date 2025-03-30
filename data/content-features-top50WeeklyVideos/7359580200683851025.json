@@ -1,0 +1,59 @@
+{
+  "categories": [
+    "Review sản phẩm ăn uống",
+    "Review món ăn"
+  ],
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "comment": "Giới thiệu cốc mì có giá 72k và lý do mua nó."
+    },
+    {
+      "step": "Đánh giá bên ngoài",
+      "comment": "Nhận xét về vẻ ngoài và mùi hương của mì."
+    },
+    {
+      "step": "Trải nghiệm",
+      "comment": "Vẽ mặt mèo lên mì và ăn thử."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "comment": "Đánh giá về topping, hương vị, sợi mì và độ dài."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thất vọng",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Tôm ngon ghê",
+    "mua cái hộp mì này với giá cao như vậy chỉ vì mình nghĩ là nó sẽ có cái mặt mèo giống như quảng cáo"
+  ],
+  "hook_content": "Cái hộp mì ly này mình mua với giá 72k. Và tại sao mình lại mua nó với một cái giá cao như vậy thì bây giờ mình sẽ cho mọi người xem.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review cốc mì có giá 72k. Người nói đánh giá vẻ ngoài, mùi vị và chất lượng của mì, đồng thời bày tỏ sự thất vọng vì sản phẩm không giống như quảng cáo.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

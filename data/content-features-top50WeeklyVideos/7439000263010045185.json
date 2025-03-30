@@ -1,0 +1,133 @@
+{
+  "categories": [
+    "Review quán ăn",
+    "Review món ăn"
+  ],
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "comment": "Quán có vẻ đang gặp khó khăn trong kinh doanh."
+    },
+    {
+      "step": "Đánh giá về việc nhận lỗi",
+      "comment": "Đánh giá cao việc quán tự nhận trách nhiệm khi kinh doanh không tốt."
+    },
+    {
+      "step": "Nhận xét về việc không QC",
+      "comment": "Quán ở xa nên việc quay video có thể không hiệu quả."
+    },
+    {
+      "step": "Đánh giá chung về các loại nước",
+      "comment": "Các món đều có giá 25 cành, không dùng siro công nghiệp."
+    },
+    {
+      "step": "Uống thử trà trái cây",
+      "comment": "Nhấn mạnh về sự tươi ngon và đa dạng của trái cây."
+    },
+    {
+      "step": "Đánh giá trà ổi",
+      "comment": "Nghi ngờ có hương liệu, nhưng vẫn đánh giá cao nếu là tự nhiên."
+    },
+    {
+      "step": "Uống thử trà dưa lưới",
+      "comment": "Nhận xét về vị ngọt tự nhiên."
+    },
+    {
+      "step": "Uống thử trà mãng cầu",
+      "comment": "Thích hương vị đậm đà."
+    },
+    {
+      "step": "Uống thử trà xoài ổi",
+      "comment": "Đánh giá cao sự kết hợp hương vị."
+    },
+    {
+      "step": "Chia sẻ về việc chọn quán để review",
+      "comment": "Nhấn mạnh sự công bằng và lắng nghe khách hàng."
+    },
+    {
+      "step": "Uống thử artichoke đỏ",
+      "comment": "Đánh giá cao sự sáng tạo và tốt cho sức khỏe."
+    },
+    {
+      "step": "Uống thử thơm chanh dây",
+      "comment": "Hy vọng quán sẽ phát triển."
+    },
+    {
+      "step": "Uống thử dâu tằm",
+      "comment": "Góp ý về việc cắt bỏ phần cuốn để tránh vị chát."
+    },
+    {
+      "step": "Tổng kết và kêu gọi ủng hộ",
+      "comment": "Đảm bảo chất lượng và sự lắng nghe khách hàng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "mọi người có thể comment cho mình biết là mọi người uống mọi người cảm thấy như thế nào",
+    "Nhớ nha tới quán uống.",
+    "Thí dụ cái ly này mà không được nhiều như clip của tôi báo tôi liền. Clip, xóa.",
+    "Đi ngang Biên Hòa hay là ai ở Biên Hòa có thể ủng hộ cho bạn.",
+    "Mọi người có thử bỏ 25 cành ra, nếu như mọi người cảm thấy mà không phù hợp tầm dưới hai chục bạn thì mình trả tiền lại cho.",
+    "Cám ơn mọi người đã coi clip của mình và cũng như là chúc ơ quán Sài Gòn Chuẩn Vị là sẽ phát triển hơn và sẽ có đủ tiền lo cho bản thân, cho gia đình, cho con, cho cái.",
+    "Và nhớ nha hãy giữ cái sự chất lượng này và đi lên nha, đừng đi xuống."
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "dễ thương",
+    "vừa",
+    "tươi",
+    "ngọt",
+    "thơm",
+    "vừa phải",
+    "dễ chịu",
+    "dễ uống",
+    "thích",
+    "chát chát",
+    "tự nhiên",
+    "vừa phải",
+    "tươi tắn",
+    "dễ thương"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bán càng ngày càng giảm như vậy là chắc khả năng cao là do nước của mình rồi.",
+    "một cái quán dễ thương là một cái quán mà biết nhận lỗi về mình.",
+    "Em bảo đảm một cái quán bán ra mà ế chỉ có thể là vì mình thôi.",
+    "Trời ơi bỏ vô cái gì như mà không phải vị trái cây đâu. Trời trái cây là tao muốn uống trái cây nguyên chất.",
+    "tới uống, mà nó không được nhiều như thế này clip này biến mất khỏi vũ trụ.",
+    "Lơ, hên thì lên còn không thì thôi coi như là kỷ niệm.",
+    "ăn vô cái phần này thì nó sẽ cảm giác bị chát chát đó mọi người.",
+    "nếu như mọi người cảm thấy mà không phù hợp tầm dưới hai chục bạn thì mình trả tiền lại cho."
+  ],
+  "hook_content": "nó không được nhiều như thế này, clip này biến mất khỏi vũ trụ.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video review một quán trà trái cây ở Biên Hòa đang gặp khó khăn. Người review thử nhiều loại trà khác nhau, đưa ra đánh giá chi tiết về hương vị, độ tươi và chất lượng nguyên liệu. Anh cũng nhấn mạnh sự quan trọng của việc lắng nghe khách hàng và giữ vững chất lượng để phát triển.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hài hước"
+  ]
+}

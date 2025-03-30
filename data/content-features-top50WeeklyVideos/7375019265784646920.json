@@ -1,0 +1,26 @@
+{
+  "categories": ["Review món ăn", "Mukbang"],
+  "audience_target": ["Người thích ăn vặt, đồ ngọt", "Người yêu thích ẩm thực nước ngoài"],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bánh oản",
+      "comment": "Nói về độ ngậy của bánh."
+    },
+    {
+      "step": "Trải nghiệm ăn bánh",
+      "comment": "Cảm nhận bánh gây nghẹn và quá ngậy."
+    }
+  ],
+  "content_style": ["Đời thường"],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": ["ngậy", "ngon", "nghẹn"],
+  "has_cta": "false",
+  "highlight_phrases": ["Review cả thế giới bánh oản khổng lồ, ngậy tuyệt đối, anh em lên.", "Bánh này ăn là bao nghẹn luôn.", "Công nhận là bánh bao ngậy thì ăn cũng ngon thật đấy"],
+  "hook_content": "Review cả thế giới bánh oản khổng lồ, ngậy tuyệt đối, anh em lên.",
+  "hook_type": ["Vào thẳng vấn đề"],
+  "pacing": ["Nhanh"],
+  "structure_style": ["Chia sẻ trải nghiệm cá nhân"],
+  "summarization": "Video review bánh oản khổng lồ với trải nghiệm ăn ngậy và hơi nghẹn. Người review đánh giá bánh ngon nhưng quá ngậy.",
+  "tone_of_voice": ["Hài hước", "Thân thiện"]
+}

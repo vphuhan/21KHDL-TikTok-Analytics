@@ -1,0 +1,65 @@
+{
+  "categories": [
+    "Review sản phẩm ăn uống",
+    "Review món ăn"
+  ],
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "comment": "Túi kẹo được order 5 ngày mới có, tạo sự tò mò."
+    },
+    {
+      "step": "Miêu tả hình dáng, mùi vị",
+      "comment": "Hình dáng lạ mắt, mùi thơm dừa."
+    },
+    {
+      "step": "Ăn thử và đánh giá",
+      "comment": "Kẹo bở và bột, vị bình thường, không nổi bật."
+    },
+    {
+      "step": "So sánh với các sản phẩm khác",
+      "comment": "So sánh với chè lam và kẹo dừa Việt Nam, đánh giá không ngon bằng."
+    },
+    {
+      "step": "Đưa ra lời khuyên",
+      "comment": "Không nên mua."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "ngọt nhẹ",
+    "bình thường",
+    "không ngon",
+    "chán"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "ăn rưng rưng nhẹ, rưng rưng nước mắt",
+    "ăn như đấm vào mồm"
+  ],
+  "hook_content": "260 một túi như thế này mà còn phải đợi order 5 ngày.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review một loại kẹo Thái Lan có giá 260k/túi. Người review nhận xét kẹo có mùi thơm dừa nhẹ, vị ngọt bình thường và không đáng tiền so với giá cả. So sánh với chè lam và kẹo dừa Việt Nam, người này đánh giá kẹo Thái Lan không ngon bằng và khuyên không nên mua.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

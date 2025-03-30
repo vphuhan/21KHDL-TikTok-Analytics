@@ -1,0 +1,71 @@
+{
+  "categories": [
+    "Nấu ăn",
+    "Review món ăn"
+  ],
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món cháo sò lông",
+      "comment": "Mở đầu bằng câu đố vui, dẫn dắt người xem vào món ăn."
+    },
+    {
+      "step": "Giới thiệu nguyên liệu và giá cả",
+      "comment": "Thông tin chi tiết về sò lông và giá cả ở địa phương."
+    },
+    {
+      "step": "Mẹo sơ chế sò lông",
+      "comment": "Hướng dẫn cách làm sạch và khử mùi tanh của sò."
+    },
+    {
+      "step": "Hướng dẫn nấu cháo",
+      "comment": "Các bước nấu cháo từ rang gạo đến xào sò và nấu chung."
+    },
+    {
+      "step": "Hoàn thiện và thưởng thức",
+      "comment": "Thêm rau ăn kèm và cảm nhận món ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Tết này mấy bà làm thử cái món cháo sò lông này ăn thử đi.",
+    "Nên nếu Tết này chưa biết làm món gì thì mấy bà nấu thử cái này nghe. Dở bắt đền tui nè."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "cực kỳ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trời ơi nó ngon lắm luôn á.",
+    "tới cái khúc này là thơm mà cầm lòng không đặng luôn á.",
+    "Dở bắt đền tui nè."
+  ],
+  "hook_content": "Đố mấy bà con này là con gì?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn nấu món cháo sò lông thơm ngon, bắt đầu bằng câu đố vui và giới thiệu nguyên liệu. Sau đó, chia sẻ mẹo sơ chế sò và các bước nấu cháo chi tiết, cuối cùng khuyến khích người xem thử làm theo.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}
