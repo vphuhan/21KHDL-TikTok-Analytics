@@ -46,9 +46,9 @@ def load_data():
         if isinstance(x, NoneType):
             return []
     for col in features_df.columns:
-        str_flag = features_df[col].apply(
+        list_flag = features_df[col].apply(
             lambda x: isinstance(x, np.ndarray)).any()
-        if str_flag:
+        if list_flag:
             features_df[col] = features_df[col].apply(parse_list)
     return features_df
 
