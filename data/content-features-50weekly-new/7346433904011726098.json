@@ -1,0 +1,97 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu các loại quả chua và đồ chấm kèm theo.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các loại quả chua được giới thiệu."
+    },
+    {
+      "step": "Uống nước lên men",
+      "desc": "Uống star kombucha và giới thiệu sản phẩm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có nhiều cảm xúc."
+    },
+    {
+      "step": "Ăn chanh",
+      "desc": "Ăn chanh chấm muối và miêu tả cảm giác.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy kích thích vị giác và tò mò."
+    },
+    {
+      "step": "Ăn khế",
+      "desc": "Ăn khế chấm muối và miêu tả độ chua.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị khi người ăn bị chua."
+    },
+    {
+      "step": "Ăn xoài",
+      "desc": "Ăn xoài và so sánh với các loại quả khác.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có nhiều cảm xúc."
+    },
+    {
+      "step": "Hướng dẫn pha muối",
+      "desc": "Hướng dẫn cách pha muối chấm đồ chua.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích khi được chia sẻ công thức."
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Đưa ra lời khuyên và kết thúc video.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Vàng có gắn giỏ hàng star kombucha này ở góc trái màn hình cho bạn nào cần nha.",
+    "Cảm ơn bạn đã xem video của tóc vàng. Hẹn gặp lại bạn vào video lần sau."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "kích thích vị giác",
+    "phê",
+    "tuyệt vời",
+    "chua",
+    "ngọt",
+    "mặn",
+    "cay",
+    "ngon không diễn tả nên lời"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Vàng ăn vô các bạn, vàng tưởng tượng giống như là vàng đi sang một thế giới khác luôn.",
+    "Cảm giác giống như lạc vào thế giới khác luôn các bạn.",
+    "Tại vì vàng sinh ra để làm mukbang đó bạn."
+  ],
+  "hook_content": "Hai bạn, hôm nay vàng sẽ ăn đồ chua nha và uống star kombucha nữa.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang ăn các loại quả chua như chanh, khế, xoài xanh chấm muối tự trộn, đồng thời uống star kombucha. Người ăn miêu tả cảm giác kích thích vị giác và hương vị đặc biệt của từng loại quả.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu các món",
+      "desc": "Liệt kê các món ăn như gà rán, pizza, hamburger, hot dog,...",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Ăn gà rán",
+      "desc": "Thưởng thức gà rán chấm sốt, khen ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Ăn pizza",
+      "desc": "Ăn pizza hải sản, chấm sốt và khen ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Ăn hamburger và hot dog",
+      "desc": "Thưởng thức hamburger, hot dog và nhận xét về hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi đói"
+    },
+    {
+      "step": "Ăn hoành thánh",
+      "desc": "Ăn hoành thánh và khen thơm, đậm đà.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Ăn bánh flan",
+      "desc": "Ăn bánh flan với cà phê, nhận xét bớt chán.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Uống nước quất",
+      "desc": "Uống nước quất giải khát và khen ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Sảng khoái"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "béo",
+    "ngọt",
+    "đậm đà",
+    "khát"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Trời ăn nó béo béo ngọt ngọt nha",
+    "Trời ơi thơm thế",
+    "Trời đậm đà vậy, ngon á"
+  ],
+  "hook_content": "Hôm nay ăn gì đây?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình ăn uống nhiều món khác nhau như gà rán, pizza, hamburger, hoành thánh, bánh flan và nước quất. Người này vừa ăn vừa đưa ra cảm nhận về hương vị của từng món.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu mực câu cán Bà Nhân Vlog và giá thành.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, cung cấp thông tin cơ bản."
+    },
+    {
+      "step": "Bối cảnh ủng hộ",
+      "desc": "Chia sẻ lý do mua hàng, ủng hộ hoạt động từ thiện.",
+      "impact_level": "2",
+      "viewer_emotion": "Tôn trọng và đồng cảm với hành động đẹp."
+    },
+    {
+      "step": "Đánh giá hình thức",
+      "desc": "Nhận xét về hình dáng, độ dài của miếng mực cán.",
+      "impact_level": "1",
+      "viewer_emotion": "Quan sát, đánh giá khách quan."
+    },
+    {
+      "step": "Thử và so sánh",
+      "desc": "Nếm thử, nhận xét độ dày, độ dai và so sánh các miếng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị và chất lượng."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Đưa ra đánh giá về hương vị và trải nghiệm.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng ý với nhận xét về hương vị đậm đà."
+    },
+    {
+      "step": "Kết hợp với cháo",
+      "desc": "Thử ăn kèm với cháo và so sánh với món ăn thời thơ ấu.",
+      "impact_level": "2",
+      "viewer_emotion": "Gợi nhớ kỷ niệm tuổi thơ."
+    },
+    {
+      "step": "Kết luận và cảm ơn",
+      "desc": "Đánh giá cuối cùng và cảm ơn người xem.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thân thiện và gần gũi."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người đã coi clip của mình.",
+    "Cảm ơn mọi người đã coi clip."
+  ],
+  "cta_type": [
+    "Chia sẻ công thức",
+    "Chia sẻ công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "vui",
+    "dễ thương"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mực. Trời ơi mực mực thối ra rồi, con cái họng họng em luôn.",
+    "Khi cái món gì mà nó nhiều gia vị thì nó thật sự là nó cũng không phải là quá tốt sức khỏe nhưng mà ăn chơi rất là vui, ăn ok.",
+    "Cái vị cháo nguội nó mới ai nơi nào có được đâu."
+  ],
+  "hook_content": "Trên mạng mực của bà nhân Vlog. Ngoài đời mực câu cán của bà nhân vlog nha mọi người ơi 295.000đ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review mực câu cán của Bà Nhân Vlog, đánh giá hương vị, độ dai và thử kết hợp với cháo. Người review chia sẻ trải nghiệm cá nhân và so sánh các miếng mực khác nhau.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món",
+      "desc": "Giới thiệu trà sữa hành lá Yankee và sự bất ngờ về món.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị kỳ lạ."
+    },
+    {
+      "step": "Đánh giá ban đầu",
+      "desc": "Nhận xét về mùi hành nồng và nghi ngờ về hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hoài nghi và lo lắng."
+    },
+    {
+      "step": "Nếm thử",
+      "desc": "Nếm trà sữa, topping và hành lá, đánh giá hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Ghê sợ và thất vọng."
+    },
+    {
+      "step": "Bày tỏ cảm xúc",
+      "desc": "Bày tỏ sự kinh khủng về món ăn và mùi hành nồng.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy buồn cười và kinh tởm."
+    },
+    {
+      "step": "Mời trải nghiệm",
+      "desc": "Mời người xem cùng trải nghiệm và chia sẻ cảm nhận.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò và muốn biết ý kiến người khác."
+    },
+    {
+      "step": "Giải thích quan điểm",
+      "desc": "Giải thích về việc tôn trọng đồ ăn và lý do phải bỏ.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình với quan điểm."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Xin lỗi và hy vọng Yankee sẽ có món dễ uống hơn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thông cảm với người review."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Há miệng ra 2 3 uống thử rồi cho em một cái cảm nhận cho em một cái cảm nhận xuống phần bình luận giùm em một cái mọi người uống mọi cảm giác như thế nào như thế nào.",
+    "Cảm ơn mọi người đã coi clip của mình, bye bye!"
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "kinh khủng",
+    "nặng",
+    "cực kỳ",
+    "ghê",
+    "hăng",
+    "ngọt",
+    "béo",
+    "đậm đà",
+    "khó chịu",
+    "hôi",
+    "nồng nàn",
+    "xin lỗi"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trời ơi tôi uống cái gì vậy trời?",
+    "Bây giờ cái miệng của bây giờ nó hôi, mùi hành một cách rất là nồng nàn luôn, cái gì vậy.",
+    "Tự nhiên cái đồ ngọt là đồ ngọt tự nhiên bỏ hành lá vô nó rất là kỳ."
+  ],
+  "hook_content": "Trời rất kinh khủng lắm mọi người ơi trên mạng.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review món trà sữa hành lá của Yankee, người review đã thử và đánh giá món này rất tệ, không hợp khẩu vị và có mùi hành nồng nặc, đồng thời xin lỗi vì đã có những biểu cảm không tốt khi ăn.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên",
+    "Khó chịu"
+  ]
+}

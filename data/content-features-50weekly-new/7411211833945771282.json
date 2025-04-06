@@ -1,0 +1,93 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu về việc được tặng lương khô và hình ảnh nhà máy.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm mới."
+    },
+    {
+      "step": "Đánh giá vị ruốc thịt",
+      "desc": "Miêu tả mùi vị và cảm nhận khi ăn lương khô ruốc thịt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng muốn ăn thử."
+    },
+    {
+      "step": "Đánh giá vị hoa quả",
+      "desc": "Đánh giá mùi vị của lương khô vị hoa quả, so sánh với cam.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thú vị về sự đa dạng hương vị."
+    },
+    {
+      "step": "So sánh và nhận xét",
+      "desc": "So sánh độ cứng và hương vị với các loại lương khô khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Có thêm thông tin để so sánh, lựa chọn."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Đánh giá kỹ hơn về vị ruốc thịt và hoa quả, độ ngọt.",
+      "impact_level": "2",
+      "viewer_emotion": "Hiểu rõ hơn về đặc điểm từng loại."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Nhấn mạnh lại về việc đây là lương khô 'chân ái'.",
+      "impact_level": "3",
+      "viewer_emotion": "Tin tưởng vào đánh giá của người review."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Mọi người ai mà đang tìm kiếm một cái loại lương khô mà ăn nó ít ngọt nó không bị ngấy, thì mọi người có thể tham khảo cái loại lương khô này nhá."
+  ],
+  "cta_type": [
+    "Chia sẻ",
+    "Lưu video"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "cuốn",
+    "wow",
+    "thơm",
+    "dễ chịu",
+    "thích thú",
+    "ngạc nhiên",
+    "dịu",
+    "thanh",
+    "chất lượng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đây là cái loại lương khô ít ngọt nhất, ăn cuốn nhất luôn trong số các loại lương khô mình từng ăn.",
+    "Cái lần đầu mình ăn á mình còn phải wow! mà sao lương khô nó ngon được đến như thế này.",
+    "Đây đúng là cái lương khô chân ái của mình."
+  ],
+  "hook_content": "Đây là cái loại lương khô ít ngọt nhất, ăn cuốn nhất luôn trong số các loại lương khô mình từng ăn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review lương khô với nhiều hương vị khác nhau, đặc biệt nhấn mạnh vào độ ít ngọt và hương vị thơm ngon, dễ ăn. Người review đánh giá cao sản phẩm và gọi là 'lương khô chân ái'.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

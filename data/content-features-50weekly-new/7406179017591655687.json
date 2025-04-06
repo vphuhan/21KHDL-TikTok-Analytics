@@ -1,0 +1,89 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món măng chấm chẩm chéo và nguồn gốc nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn và nguyên liệu."
+    },
+    {
+      "step": "Pha chế chẩm chéo",
+      "desc": "Pha chẩm chéo với nước mắm và chanh để tăng hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với cách pha chế."
+    },
+    {
+      "step": "Thưởng thức măng luộc",
+      "desc": "Hướng dẫn hai cách ăn măng chấm chẩm chéo.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy ngon miệng và muốn thử."
+    },
+    {
+      "step": "Thưởng thức măng sống",
+      "desc": "Ăn và so sánh măng sống với măng luộc.",
+      "impact_level": "3",
+      "viewer_emotion": "Ngạc nhiên và thích thú với trải nghiệm mới."
+    },
+    {
+      "step": "Gợi ý món ăn kèm",
+      "desc": "Gợi ý các món khác có thể ăn kèm với măng và chẩm chéo.",
+      "impact_level": "2",
+      "viewer_emotion": "Tưởng tượng về các món ăn ngon."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Vàng sẽ tăng nick bé Như Hảo bên dưới cho bạn nào muốn ăn ngon giống Vàng nha.",
+    "Okay, cám ơn bạn đã xem video của Tóc Vàng."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "thèm",
+    "xuất sắc",
+    "ngon",
+    "ngon xỉu",
+    "đã",
+    "ngọt",
+    "cay",
+    "ngon không nói nên lời",
+    "thần thánh",
+    "giòn",
+    "non",
+    "tuyệt vời"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trời ơi, không biết bé Hảo làm cái công thức chẩm chéo này như thế nào mà nó ngon quá trời luôn bạn ơi.",
+    "Vàng thích cái cảm giác ăn tới đâu lột đến đó giống như vậy bạn. Nó đã.",
+    "Ngoài đồ sống ra á là Vàng thích ăn măng nhất trên đời á bạn."
+  ],
+  "hook_content": "Chào các bạn. Mùa măng đến rồi bạn ơi. Hôm nay Vàng sẽ ăn măng chấm với chẩm chéo nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video mukbang về món măng chấm chẩm chéo, Tóc Vàng vừa ăn vừa chia sẻ cảm nhận về hương vị, độ tươi ngon của măng, đồng thời hướng dẫn cách ăn măng và gợi ý các món ăn kèm hấp dẫn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu combo",
+      "desc": "Dự đoán combo bán chạy nhất, giới thiệu các thành phần.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món trong combo."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Nhận xét về đùi gà rong biển, bim bim máy ngói mới.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú với các món ăn mới lạ."
+    },
+    {
+      "step": "Review bim bim ngói",
+      "desc": "Phân tích hương vị bim bim ngô phô mai, độ giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử hương vị của bim bim."
+    },
+    {
+      "step": "Đánh giá bỏng ngô tặng kèm",
+      "desc": "Nhận xét công tâm về bỏng ngô được tặng kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về chất lượng bỏng ngô."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Ăn vặt thì ăn cùng Bà Tuyết, combo này mình để ở góc màn hình nhá."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "cuốn",
+    "hợp lý",
+    "giòn",
+    "thơm",
+    "ngọt",
+    "thích"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đây dự sẽ là cái combo mà bán nhiều nhất nhà bà Tuyết từ trước đến giờ luôn.",
+    "Cái này ngon vãi luôn ấy thật.",
+    "Nó sẽ giòn, nó sẽ thơm bởi vì bim bim máy ngói sẽ có hương kiểu phô mai, nó sẽ ngọt ngọt."
+  ],
+  "hook_content": "Đây dự sẽ là cái combo mà bán nhiều nhất nhà bà Tuyết từ trước đến giờ luôn. Lãi nhiều hay không thì không biết nha. Đây là combo phân chia thiên hạ.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review combo mới nhất của Bà Tuyết, tập trung vào các món như bò Kobe, nem nướng, thạch trái cây, đùi gà rong biển và đặc biệt là bim bim máy ngói mới ra mắt. Người này cũng đánh giá khách quan về bỏng ngô tặng kèm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

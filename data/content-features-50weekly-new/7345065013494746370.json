@@ -1,0 +1,75 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu thử thách",
+      "desc": "Nêu điều kiện để người lạ đồng ý tham gia thử thách.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về người tham gia cùng."
+    },
+    {
+      "step": "Tìm kiếm bạn đồng hành",
+      "desc": "Tiếp cận và thuyết phục một học sinh tham gia.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với sự cởi mở của học sinh."
+    },
+    {
+      "step": "Chọn món và thưởng thức",
+      "desc": "Đến quán ăn vặt, cùng nhau chọn và ăn các món.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng các món ăn vặt."
+    },
+    {
+      "step": "Trò chuyện và tương tác",
+      "desc": "Hỏi han về sở thích, trường học và trêu đùa.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ với sự hài hước trong cuộc trò chuyện."
+    },
+    {
+      "step": "Kết thúc buổi ăn",
+      "desc": "Tạm biệt và hứa hẹn gặp lại các bạn học sinh.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy buổi gặp gỡ thú vị."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Follow kênh"
+  ],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Video này mà lên xu hướng thì năng sẽ lấy vợ.",
+    "Đủ để cao hơn chị.",
+    "Má ơi nó hả mồm thật rồi."
+  ],
+  "hook_content": "Video này mà lên xu hướng thì năng sẽ lấy vợ.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video ghi lại thử thách ăn cùng người lạ của chủ kênh. Trong video này, chủ kênh đã ăn vặt cùng một bạn học sinh cấp 2 và trò chuyện vui vẻ.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Nhấn mạnh quán ngon hơn các địa điểm nổi tiếng khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ ngon của quán."
+    },
+    {
+      "step": "Không gian quán",
+      "desc": "Mô tả không gian quê, sử dụng đá tổ ong hoài niệm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với không gian độc đáo."
+    },
+    {
+      "step": "Món khai vị",
+      "desc": "Giới thiệu rau sống chấm sốt cà chua tóp mỡ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món ăn thanh mát."
+    },
+    {
+      "step": "Các món ăn gợi nhớ tuổi thơ",
+      "desc": "Nộm bò cà pháo, các món lâu rồi mới được ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thân quen, muốn thử."
+    },
+    {
+      "step": "Bánh tráng heo quay",
+      "desc": "Mô tả chi tiết các thành phần và hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy đói bụng, thèm ăn."
+    },
+    {
+      "step": "Má heo nướng ngũ vị",
+      "desc": "Giới thiệu má heo nướng ăn kèm xôi và sốt thái.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy lạ miệng, muốn trải nghiệm."
+    },
+    {
+      "step": "Các món khác",
+      "desc": "Chim quay, nem tôm tạo hình sáng tạo, lẩu tôm bầu.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với sự đa dạng của menu."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thanh mát",
+    "thèm",
+    "rất ngon",
+    "cuốn",
+    "thơm",
+    "hấp dẫn",
+    "uy tín",
+    "thơm ngọt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Quán bánh tráng heo quay ngon đỉnh không gian như resort",
+    "Trở về tuổi thơ với menu toàn các món rất lâu rồi mới được ăn",
+    "Sôi lên cái múc ra ăn nó còn thơm ngọt hơn cả gạch cua ý"
+  ],
+  "hook_content": "Sau khi được khai sảng quán bánh tráng heo quay này thì Phú Cường hay Trang Mỹ chỉ còn là một cái tên các bác ạ.",
+  "hook_type": [
+    "Gây tò mò",
+    "So sánh"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quán bánh tráng heo quay Mộc Vị với không gian quê và nhiều món ăn gợi nhớ tuổi thơ. Đặc biệt, quán nổi tiếng với món bánh tráng heo quay và lẩu tôm bầu.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

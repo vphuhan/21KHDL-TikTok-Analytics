@@ -1,0 +1,68 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu nước A đang hot trên mạng, giá hơn 1 triệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm đắt tiền."
+    },
+    {
+      "step": "Miêu tả cảm giác",
+      "desc": "Miêu tả mùi vị the mát, cảm giác mạnh như ăn kẹo, mù tạt.",
+      "impact_level": "3",
+      "viewer_emotion": "Hình dung rõ hơn về sản phẩm."
+    },
+    {
+      "step": "Đánh giá vị",
+      "desc": "Vị ngọt ban đầu chuyển sang đắng, thông mũi họng.",
+      "impact_level": "2",
+      "viewer_emotion": "Biết thêm thông tin về sản phẩm."
+    },
+    {
+      "step": "Đưa ra kết luận",
+      "desc": "Nước thông mũi họng phiên bản mạnh, có cũng được, không cũng được.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thông tin khách quan."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "the the",
+    "buốt buốt",
+    "ngọt",
+    "đắng",
+    "tỉnh táo"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "cảm giác khi mới sử dụng nó giống như kiểu mình ăn 10 viên kẹo cùng lúc",
+    "nó giống như kiểu là mình ăn mù tạt ấy, nó sẽ xông lên khắp cả mũi, họng, tai các thứ",
+    "nó là một cái nước thông mũi mắt họng phiên bản cực mạnh"
+  ],
+  "hook_content": "Cái nước A này thì mình thấy khá là hot trên mạng thời gian gần đây.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review nước A đang hot trên mạng, có giá hơn 1 triệu, vị the mát mạnh, có tác dụng thông mũi họng. Người review đánh giá sản phẩm này có cũng được, không có cũng không sao.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

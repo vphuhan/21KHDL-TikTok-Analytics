@@ -1,0 +1,95 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món sườn ram sả ớt và độ hao cơm của nó.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy món ăn hấp dẫn, gợi cảm giác thèm ăn."
+    },
+    {
+      "step": "Giới thiệu bản thân",
+      "desc": "Tự giới thiệu về bản thân, công việc và địa điểm sống.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết thêm thông tin về người nấu."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Hướng dẫn sơ chế sườn và ướp gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Nắm được các bước chuẩn bị nguyên liệu."
+    },
+    {
+      "step": "Chiên sườn",
+      "desc": "Hướng dẫn chiên sườn và chia sẻ mẹo chiên không bị khô.",
+      "impact_level": "2",
+      "viewer_emotion": "Học được mẹo chiên sườn giòn ngon."
+    },
+    {
+      "step": "Làm sốt",
+      "desc": "Hướng dẫn làm sốt ram sả ớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Biết cách pha chế nước sốt hấp dẫn."
+    },
+    {
+      "step": "Hoàn thiện món ăn",
+      "desc": "Đảo sườn với sốt cho đến khi sốt áo đều.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy món ăn rất hấp dẫn và thèm thuồng."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Mời mọi người cùng ăn và khen món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn làm theo và thưởng thức ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nếu mà bữa nào không có biết nấu cái món gì á mấy chị tham khảo thử cái món này đi, em thấy dễ làm ăn rất là ngon luôn.",
+    "Giờ thì em mời mấy chị ăn cơm với em nha."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngán",
+    "hao cơm",
+    "thấm",
+    "hấp dẫn",
+    "vừa",
+    "mặn mặn",
+    "cay cay",
+    "thơm",
+    "dễ làm",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trời ơi ta nói cái món này là hai lon gạo ăn mới hết á.",
+    "Mấy chị nhìn vậy á chứ cái cục sườn ăn nó không có bị khô đâu.",
+    "Mấy chị mà chiên thịt ở lửa nhỏ là cái thịt của mình nó sẽ bị khô lắm."
+  ],
+  "hook_content": "Sườn non mua về mà ra bình thường ăn ngán quá, mấy chị thử cái sườn ram sả ớt này ăn thử nghe.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm món sườn ram sả ớt đơn giản, dễ làm tại nhà. Người nấu chia sẻ các bí quyết để sườn không bị khô và cách nêm nếm gia vị vừa ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

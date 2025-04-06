@@ -1,0 +1,90 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Hỏi về giá trứng và lý do giá cao hơn",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về chất lượng và sự tỉ mỉ",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng"
+    },
+    {
+      "step": "Thông tin",
+      "desc": "Thông tin địa điểm và thời gian bán",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Độ tin cậy",
+      "desc": "Khách hàng tin tưởng trứng sạch và ngon",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng"
+    },
+    {
+      "step": "Quy trình",
+      "desc": "Mô tả quy trình làm trứng tỉ mỉ",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên"
+    },
+    {
+      "step": "So sánh",
+      "desc": "So sánh trứng lột và trứng vỏ",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Khách hàng",
+      "desc": "Khách hàng từ nước ngoài cũng thích",
+      "impact_level": "2",
+      "viewer_emotion": "Tự hào"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "dai",
+    "chua chua ngọt ngọt",
+    "vui",
+    "mừng",
+    "dễ thương",
+    "mến",
+    "khoái",
+    "thích"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Tụi bay có ăn trứng gà của bả bán chưa mà tụi bay nói, tụi bay ăn đi rồi tụi bay hãy nói.",
+    "Ăn nó thơm thơm nó dai hơn, chứ không phải lười thì cũng có đi nhưng mà nó ngon hơn chứ. Rồi, ăn nó nó phân biệt ra liền.",
+    "Ảnh nói á nếu mà ăn thưởng thức á là ăn đặc biệt cái trứng thôi không chấm gì mới biết trứng ngon hay trứng dở."
+  ],
+  "hook_content": "Mấy chứng gà thường con thấy là bán cũng là 7 8.000đ, sao bán giá 11.000đ con?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video giới thiệu về quán trứng gà nướng kiểu Thái Lan nổi tiếng ở Sài Gòn, chia sẻ về bí quyết làm trứng chất lượng và sự yêu thích của khách hàng. Cô chủ quán cũng kể về hành trình bán trứng của mình và niềm vui khi được khách hàng yêu mến.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

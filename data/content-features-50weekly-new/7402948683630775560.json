@@ -1,0 +1,82 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bánh canh ghẹ và lý do nấu món ăn này",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách nấu món bánh canh ghẹ."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Rửa sạch, luộc ghẹ, tôm và giữ lại phần nước luộc",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, đây là công đoạn chuẩn bị."
+    },
+    {
+      "step": "Nấu nước dùng",
+      "desc": "Phi thơm tỏi, hành, xào nấm và đổ nước luộc tôm ghẹ",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với cách nấu nước dùng đơn giản."
+    },
+    {
+      "step": "Nêm nếm",
+      "desc": "Nêm hạt nêm, nước mắm, đường để nước dùng thêm đậm đà",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến bí quyết nêm nếm của anh."
+    },
+    {
+      "step": "Trình bày món ăn",
+      "desc": "Cho bánh canh, nước dùng, topping vào thố và đun sôi",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với cách trình bày món ăn."
+    },
+    {
+      "step": "Mời vợ ăn",
+      "desc": "Gọi vợ xuống ăn và gỡ ghẹ cho vợ",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm động trước sự quan tâm của anh."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Vợ ăn và khen ngon, chồng được khen giỏi",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ, hạnh phúc cùng cặp đôi."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "giỏi"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Tiếp tục với series các món ngon dâm vợ.",
+    "Nấu tại nhà thì topping lại vừa nhiều, vừa sạch.",
+    "Nấu ăn chăm vợ thì nó cũng không khó lắm."
+  ],
+  "hook_content": "Ủa, còn ngủ chưa? Đang ngủ kìa. Sao hai anh em ăn ghẹ nè.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn nấu món bánh canh ghẹ nhanh gọn, đơn giản tại nhà để chăm sóc vợ sau sinh. Anh chàng chia sẻ bí quyết nấu nước dùng ngon và trình bày món ăn hấp dẫn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

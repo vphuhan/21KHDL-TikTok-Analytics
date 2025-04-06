@@ -1,0 +1,88 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món chân gà sốt thái và lý do được yêu thích.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về công thức."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê và sơ chế các nguyên liệu cần thiết.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Nấu sốt thái",
+      "desc": "Hướng dẫn chi tiết cách nấu sốt thái.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị."
+    },
+    {
+      "step": "Trộn chân gà",
+      "desc": "Hướng dẫn trộn chân gà với sốt thái.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi đói bụng."
+    },
+    {
+      "step": "Thưởng thức và mời",
+      "desc": "Mời mọi người cùng thưởng thức món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Giới thiệu sản phẩm khác",
+      "desc": "Giới thiệu các loại nước chấm khác.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Cả nhà có dùng sốt thái á thì nhắn Hưng á, bữa nay Hưng nấu luôn nha.",
+    "Cả nhà có dùng á thì nhắn Hưng luôn nha."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Đặt câu hỏi"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thèm",
+    "hết sẩy",
+    "xuất sắc"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Món này dùng để lai rai á là hết sẩy.",
+    "Linh hồn của món này á thì nó nằm hết trong tô nước sốt đây nè.",
+    "Nhìn cái màu sốt thái á xuất sắc quá chừng luôn cả nhà ha."
+  ],
+  "hook_content": "Đây là công thức và cách làm chân gà sốt thái ngon bất bại luôn nha cả nhà.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn công thức làm chân gà sốt thái ngon bất bại, từ sơ chế nguyên liệu, nấu nước sốt đến trộn và thưởng thức. Kèm theo đó là lời mời mua sốt thái và các loại nước chấm khác.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

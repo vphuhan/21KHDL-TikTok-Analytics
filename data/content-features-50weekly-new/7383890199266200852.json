@@ -1,0 +1,93 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món chè chuối kiểu mới và sự hấp dẫn của nó.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món chè chuối mới."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Hướng dẫn chuẩn bị và sơ chế các nguyên liệu cần thiết.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, cần thiết để nấu ăn."
+    },
+    {
+      "step": "Làm viên chuối",
+      "desc": "Trộn bột, nhào nặn, cắt và tạo hình viên chuối.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị khi thấy cách tạo hình viên chuối."
+    },
+    {
+      "step": "Luộc viên chuối",
+      "desc": "Luộc viên chuối và sơ chế lại với nước lạnh.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thao tác cơ bản."
+    },
+    {
+      "step": "Luộc bột bán",
+      "desc": "Luộc bột bán và sơ chế lại với nước lạnh.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thao tác cơ bản."
+    },
+    {
+      "step": "Nấu chè",
+      "desc": "Nấu nước cốt dừa, sữa tươi, đường và các nguyên liệu khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi mùi thơm của nước cốt dừa."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Trình bày và thưởng thức món chè chuối kiểu mới.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn được ăn thử ngay lập tức."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Nếu thấy hữu ích thì cho mình xin một like và một lượt theo dõi để biết được nhiều món ăn ngon hơn nha."
+  ],
+  "cta_type": [
+    "Thích video",
+    "Follow kênh"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "mềm dẻo",
+    "thơm ngon",
+    "thơm",
+    "hấp dẫn",
+    "bắt mắt",
+    "ngọt thanh",
+    "béo ngậy"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Món này ngon nhất nhói hơn cả những cách nấu chè chuối thông thường, vừa tận dụng được chuối chín, lại vừa có món chè vừa ngon vừa mới lạ chiêu đãi mọi người.",
+    "Chuối và bột kết hợp đã tạo nên những viên chè tròn xoe, vàng ươm bắt mắt vô cùng, không giống như những cách nấu chè chuối truyền thống là cho thẳng chuối vào nồi.",
+    "Chè chuối kiểu mới này có hương vị rất là riêng, viên chè dai dai dẻo dẻo thơm lừng mùi chuối, kết hợp với nước chè béo ngậy từ sữa tươi và cốt dừa, chè có vị ngọt thanh."
+  ],
+  "hook_content": "Nhà có chuối chín mà không dùng hết thì các bạn hãy làm món này nè.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách nấu chè chuối kiểu mới với viên chuối dai dẻo, kết hợp nước cốt dừa béo ngậy và sữa tươi thơm ngon. Món chè này không chỉ tận dụng được chuối chín mà còn mang đến hương vị mới lạ, hấp dẫn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

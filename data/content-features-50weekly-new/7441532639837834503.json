@@ -1,0 +1,81 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu món mật ong đông đá và mời ăn cùng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Nếm thử và đánh giá",
+      "desc": "Nếm mật ong và nhận xét về độ ngọt đậm.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ vì độ ngọt."
+    },
+    {
+      "step": "So sánh và mô tả",
+      "desc": "So sánh trạng thái mật ong với mạch nha bánh tráng.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung rõ hơn về sản phẩm."
+    },
+    {
+      "step": "Nhận xét trải nghiệm",
+      "desc": "Nêu cảm nhận về độ thú vị nhưng hơi dơ khi ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình với trải nghiệm."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Mô tả hương vị ngọt, dẻo, mát và thú vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn nếm thử."
+    },
+    {
+      "step": "Đưa ra lời khuyên",
+      "desc": "Khuyên người thích đồ ngọt nên thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy được gợi ý."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngọt",
+    "dẻo",
+    "quánh",
+    "mát",
+    "thú vị"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nó ngọt là mình sặc luôn á.",
+    "Về cái trạng thái của nó y chang cái mạch nha mà bánh tráng lam á.",
+    "Vị của nó thì kiểu ngọt ngọt dẻo dẻo quánh quánh mát mát ấy, ăn nó cũng có cái thú vị."
+  ],
+  "hook_content": "Nó ngọt là mình sặc luôn á.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video mukbang thử món mật ong đông đá, người review chia sẻ cảm nhận về độ ngọt đậm, trạng thái dẻo và hương vị đặc biệt của món ăn, đồng thời đưa ra lời khuyên cho những người yêu thích đồ ngọt.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

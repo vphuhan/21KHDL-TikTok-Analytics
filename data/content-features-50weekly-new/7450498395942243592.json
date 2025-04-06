@@ -1,0 +1,83 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu địa điểm",
+      "desc": "Giới thiệu công viên nước VinWonders mới mở ở quận 9.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về địa điểm mới."
+    },
+    {
+      "step": "Thông tin chung",
+      "desc": "Thời gian mở cửa, giá vé và ưu đãi khi mua vé.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích."
+    },
+    {
+      "step": "Trải nghiệm trò chơi",
+      "desc": "Review các trò chơi trượt nước và gợi ý trò vui nhất.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú với các trò chơi."
+    },
+    {
+      "step": "Ẩm thực",
+      "desc": "Gợi ý các món ăn nên thử trong công viên nước.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử các món ăn."
+    },
+    {
+      "step": "Thời gian biểu",
+      "desc": "Gợi ý lịch trình vui chơi cả khu khô và khu nước.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hợp lý, dễ áp dụng."
+    },
+    {
+      "step": "Di chuyển",
+      "desc": "Hướng dẫn cách di chuyển đến công viên từ trung tâm.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến việc đi lại."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "vui",
+    "đã",
+    "thoải mái",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đi tránh nóng cuối tuần cũng lý tưởng á mọi người.",
+    "Trượt cái nào cũng đã hết trơn á.",
+    "Mình nghe nói là có xe buýt miễn phí của Vin, chở mọi người đi từ trung tâm xuống đây luôn, cho nên mọi người cũng có thể tham khảo thêm nha."
+  ],
+  "hook_content": "Tính ra là từ quận Nhất xuống đây có 30 phút à, mà có nguyên một cái công viên nước siêu to luôn mọi người.",
+  "hook_type": [
+    "Cho thấy kết quả trước",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video review công viên nước VinWonders mới ở quận 9, bao gồm thông tin về giá vé, các trò chơi, khu ăn uống và cách di chuyển. Video phù hợp cho những ai muốn đi vui chơi, giải trí vào cuối tuần.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

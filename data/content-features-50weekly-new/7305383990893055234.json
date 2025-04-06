@@ -1,0 +1,66 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu snack khô gà Ponnie với hai vị khác nhau.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm mới."
+    },
+    {
+      "step": "Trải nghiệm sản phẩm",
+      "desc": "Ăn và mô tả cảm nhận về hương vị của từng loại khô gà.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn ăn thử."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Nhận xét về nguyên liệu, hương vị và trải nghiệm tổng quan.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "giòn rụm",
+    "đã miệng",
+    "ngon",
+    "thơm",
+    "thích",
+    "béo béo",
+    "vừa",
+    "thanh đạm",
+    "chất lượng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ăn nó giòn rụm luôn, nhai kêu rốp rốp luôn các bạn ạ.",
+    "Khô gà bơ tỏi thì ăn thơm thơm béo béo vị bơ, kết hợp với cả cái hương vị bùi bùi của tỏi nữa, ăn rất là thích.",
+    "Khô gà lá chanh thì mình thấy ăn nó thanh đạm hơn là khô gà bơ tỏi, ăn nó kiểu ít ngấy hơn vị bơ tỏi ấy."
+  ],
+  "hook_content": "Xin chào mọi người. Hôm nay thì mình sẽ ăn snack khô gà Pony.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review snack khô gà Ponnie với hai vị lá chanh và bơ tỏi, tập trung mô tả hương vị, độ giòn và cảm nhận cá nhân về sản phẩm, đánh giá ngon và chất lượng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

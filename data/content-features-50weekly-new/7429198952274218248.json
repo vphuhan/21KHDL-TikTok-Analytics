@@ -1,0 +1,94 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu cơm cháy Lương Bằng mới ra mắt và độ khó khi mua.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về sản phẩm mới và độ nổi tiếng."
+    },
+    {
+      "step": "Đánh giá hình thức",
+      "desc": "So sánh hình thức cơm cháy Lương Bằng với cơm cháy khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Thắc mắc về sự giống nhau giữa các sản phẩm."
+    },
+    {
+      "step": "Ăn thử và so sánh",
+      "desc": "Ăn thử cơm cháy và khẳng định sự giống nhau về hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ vì hương vị quá giống sản phẩm khác."
+    },
+    {
+      "step": "Đánh giá thành phần",
+      "desc": "Phân tích và so sánh các thành phần của hai loại cơm cháy.",
+      "impact_level": "2",
+      "viewer_emotion": "Chú ý đến các chi tiết nhỏ trong thành phần."
+    },
+    {
+      "step": "So sánh giá cả",
+      "desc": "So sánh giá cả và đưa ra đánh giá về giá trị sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Cân nhắc về giá trị của sản phẩm so với giá tiền."
+    },
+    {
+      "step": "Đánh giá cuối cùng",
+      "desc": "Đưa ra cảm nhận cá nhân và khuyến khích ủng hộ sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tôn trọng ý kiến cá nhân và khuyến khích ủng hộ."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Mọi người qua coi cả hai bên thử giùm em coi, trời em nói là nó giống y chang là một chỗ, không khác một chút nào.",
+    "Ai thích bên nào thì mua ủng hộ cho bên đó."
+  ],
+  "cta_type": [
+    "So sánh",
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "đậm đà",
+    "cay cay",
+    "béo béo",
+    "dễ ăn",
+    "vừa phải",
+    "dễ chịu"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Sao nó giống cái cơm cháy bà ba ngựa quá vậy?",
+    "Tôi ăn vô giống y chang rồi kêu gia công nghe chị Băng ơi, vậy không có được nghen.",
+    "Ủa đâu có khác gì cơm cháy của chị Ba Ngựa đâu ta?"
+  ],
+  "hook_content": "Trên mạng cơm cháy Lương Bằng. Cơm từ gạo ST25.Ngoài đời cơm cháy Lương Bằng nha mọi người ơi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "So sánh",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review cơm cháy Lương Bằng, so sánh với cơm cháy của chị Ba Ngựa về hình thức, hương vị và giá cả. Người review nghi ngờ về công thức độc quyền của sản phẩm do quá giống với sản phẩm khác trên thị trường.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên",
+    "Châm biếm",
+    "Nghiêm túc"
+  ]
+}

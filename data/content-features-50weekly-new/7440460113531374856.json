@@ -1,0 +1,94 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người ăn chay, ăn healthy",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ba chỉ chay và các loại nước chấm thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị ba chỉ chay."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét về độ giòn, béo và vị cay của món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm ăn."
+    },
+    {
+      "step": "Mô tả thành phần",
+      "desc": "Mô tả thành phần món ăn và độ tin cậy của nguồn gốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào sản phẩm."
+    },
+    {
+      "step": "So sánh gia vị",
+      "desc": "So sánh hương vị món ăn khi chấm với các loại gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với cách thưởng thức khác nhau."
+    },
+    {
+      "step": "Giải thích cảm giác",
+      "desc": "Giải thích cảm giác khi ăn và giới thiệu món canh rau ngót.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Đánh giá tổng quan",
+      "desc": "Đánh giá lại hương vị và so sánh các loại nước chấm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy rõ sự yêu thích với xì dầu."
+    },
+    {
+      "step": "Lưu ý về sản phẩm",
+      "desc": "Lưu ý về cách bảo quản và thành phần của ruốc rong biển.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến chất lượng sản phẩm."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "các bạn quan tâm yêu thương nhớ ủng hộ mình nha"
+  ],
+  "cta_type": [
+    "Truy cập trang cá nhân"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "giòn",
+    "béo",
+    "cay",
+    "háo hức",
+    "phê",
+    "thưởng thức",
+    "tuyệt vời",
+    "yêu thương",
+    "biết ơn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Thực sự ngon các bạn ạ! Nó giòn giòn, nó béo béo, cay cay của ớt.",
+    "Mình có một cái thói quen hay khám phá là xem là cái đồ ăn này là chấm với gia vị gì thì là là ngon nhất.",
+    "Mình thấy là chấm với xì dầu tỏi ớt ngon hơn là chấm với cả tương ớt các bạn ạ, thật sự luôn. Phê luôn."
+  ],
+  "hook_content": "Hôm nay là lần đầu tiên các bạn ạ, mình được ăn gọi là ba chỉ chay, mình sẽ chấm ba chỉ chay này lần lượt với tương ớt, xì dầu và nước mắm chay, nước mắm chay các bạn nhé.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video mukbang món ba chỉ chay và ruốc rong biển trộn cơm, người ăn thử nghiệm các loại nước chấm khác nhau và chia sẻ cảm nhận về hương vị, độ giòn, béo, cay của món ăn, đồng thời đưa ra lưu ý về cách bảo quản sản phẩm ruốc rong biển.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

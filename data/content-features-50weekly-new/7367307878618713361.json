@@ -1,0 +1,62 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Mời mọi người cùng ăn chân gà hấp hành.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Chọn loại chân gà",
+      "desc": "Quyết định chọn chân gà màu vàng thay vì màu trắng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Bắt đầu ăn",
+      "desc": "Ăn chân gà và thể hiện sự ngon miệng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Ăn kèm",
+      "desc": "Ăn kèm chân gà với hành sống.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ngon từ thịt ngọt từ xương"
+  ],
+  "hook_content": "Mời mọi người ăn chân gà với em nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang chân gà hấp hành, người ăn mời mọi người cùng ăn và thể hiện sự ngon miệng khi ăn cùng hành sống.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

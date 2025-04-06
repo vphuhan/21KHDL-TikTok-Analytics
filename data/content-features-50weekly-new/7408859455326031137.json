@@ -1,0 +1,72 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Gọi món",
+      "desc": "Khách hàng gọi các món ăn vặt quen thuộc như mì cay, bim bim.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy nhớ lại tuổi thơ."
+    },
+    {
+      "step": "Tự lấy đồ",
+      "desc": "Người bán hàng chỉ dẫn khách tự lấy đồ và thanh toán.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Mua hàng",
+      "desc": "Khách đưa tiền và nhận lại hóa đơn từ người bán.",
+      "impact_level": "1",
+      "viewer_emotion": "Giao dịch mua bán diễn ra nhanh chóng."
+    },
+    {
+      "step": "Xin tiền",
+      "desc": "Khách xin tiền bà để nộp tiền bài kiểm tra ở trường.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hơi buồn cười và nhớ về thời đi học."
+    },
+    {
+      "step": "Mua thêm đồ",
+      "desc": "Khách tiếp tục mua thêm nhiều món ăn vặt khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thèm các món ăn vặt."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thèm thuồng",
+    "háo hức"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "老板，来点只辣条一包冰袋。",
+    "奶奶，给我10块钱。老师今天让我交试卷钱。"
+  ],
+  "hook_content": "老板，来点只辣条一包冰袋。",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Kịch hóa",
+    "Đối thoại"
+  ],
+  "summarization": "Video ghi lại cảnh mua đồ ăn vặt tuổi thơ tại một cửa hàng tạp hóa nhỏ, với các món ăn quen thuộc như mì cay, bim bim, và nước ngọt.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

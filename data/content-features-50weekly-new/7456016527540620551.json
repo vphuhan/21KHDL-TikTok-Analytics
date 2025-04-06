@@ -1,0 +1,99 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món chả giò tôm thịt Út Hiền đang gây sốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn được giới thiệu."
+    },
+    {
+      "step": "Thử món và đánh giá",
+      "desc": "Thử ăn và đánh giá chả giò tôm thịt, hoành thánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú khi xem người khác ăn."
+    },
+    {
+      "step": "Phản hồi về việc nấu ăn",
+      "desc": "Chia sẻ về áp lực khi nấu ăn và bị nhận xét.",
+      "impact_level": "1",
+      "viewer_emotion": "Đồng cảm với người nấu."
+    },
+    {
+      "step": "Thẩm định con dâu",
+      "desc": "Đùa về việc các mẹ chồng vào thẩm định con dâu.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ với sự hài hước."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Đánh giá độ giòn, hương vị và so sánh các loại.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến đánh giá hương vị."
+    },
+    {
+      "step": "Chấm điểm",
+      "desc": "Chấm điểm cho từng loại chả giò và hoành thánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về điểm số cuối cùng."
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Khuyên mọi người tự trải nghiệm và cảm nhận.",
+      "impact_level": "1",
+      "viewer_emotion": "Gật gù đồng ý với lời khuyên."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người đã clip của em và mọi người cũng đừng tin bất kỳ những cái gì mà em review hãy tự ăn và tự cảm nhận.",
+    "Cảm ơn mọi người đã clip, bye bye."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "dễ thương",
+    "dễ ăn",
+    "giòn",
+    "thơm",
+    "vừa miệng",
+    "ngon",
+    "nhức nách",
+    "hợp",
+    "okay",
+    "thích"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đây là một trong những cái chảo mà không dính mà dính nhất trên vũ trụ.",
+    "Các mẹ chào mừng của tôi là chuẩn bị vô là thẩm định con dâu.",
+    "Trời ơi nhức nách, mọi người phải chấm với Mayo."
+  ],
+  "hook_content": "Trên mạng chả giò tôm thịt Út Hiền.Không ai làm lại chị, ngoài đời chả giò tôm thịt Út Hiền nha mọi người ơi.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review món chả giò tôm thịt Út Hiền đang hot trên mạng, người review ăn thử và đưa ra các đánh giá khách quan về hương vị, độ giòn và giá cả, đồng thời chia sẻ trải nghiệm cá nhân khi nấu ăn.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

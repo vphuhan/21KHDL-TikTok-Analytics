@@ -1,0 +1,90 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu mở đầu",
+      "desc": "Giới thiệu địa điểm ăn uống và người đồng hành cùng trải nghiệm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Gặp gỡ người hâm mộ",
+      "desc": "Tình cờ gặp người nổi tiếng và chụp ảnh cùng fan.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Gọi món và giới thiệu",
+      "desc": "Gọi nhiều món xiên nướng và giới thiệu các loại.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Bắt đầu ăn và thể hiện sự ngon miệng với các món xiên.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Ăn thêm nhiều món",
+      "desc": "Tiếp tục ăn thêm nhiều loại xiên khác nhau, kể cả món nhộng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Nhận xét từ chủ quán",
+      "desc": "Chủ quán khen ngợi khả năng ăn uống của cô gái.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên"
+    },
+    {
+      "step": "Thanh toán và kết thúc",
+      "desc": "Thanh toán hóa đơn và kết thúc buổi mukbang.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "các bạn nhất định phải thử nhé."
+  ],
+  "cta_type": [
+    "Ăn cùng",
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "tuyệt vời",
+    "hấp dẫn",
+    "ăn siêu ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn cùng với tỏi đúng tuyệt vời.",
+    "Em đúng là đỉnh của đỉnh luôn.",
+    "Ăn được là phúc."
+  ],
+  "hook_content": "Hôm nay đi ăn đồ nướng ở Cát Bi Stone, cùng Tiểu Bảo đi trải nghiệm xiên nướng siêu to ở Đồng Bắc.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh một cô gái ăn mukbang xiên nướng tại một quán ăn ở Cát Bi Stone, với nhiều loại xiên khác nhau và được chủ quán khen ngợi về khả năng ăn uống.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

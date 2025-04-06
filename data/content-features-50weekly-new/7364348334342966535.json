@@ -1,0 +1,86 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán mì",
+      "desc": "Giới thiệu quán mì chua cay mới mở ở Hoàng Quốc Việt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về địa điểm mới."
+    },
+    {
+      "step": "Mô tả món ăn",
+      "desc": "Miêu tả chi tiết về mì chua cay và các loại topping.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng khi nghe mô tả."
+    },
+    {
+      "step": "Nhấn mạnh chất lượng",
+      "desc": "Khẳng định nước dùng tự nhiên, không phẩm màu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng."
+    },
+    {
+      "step": "Giới thiệu mì trộn",
+      "desc": "Giới thiệu thêm món mì trộn với sốt đặc biệt.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử món mì trộn."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Nhấn mạnh mì ngon, topping tươi, giá hợp lý.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đáng để thử."
+    },
+    {
+      "step": "Thông tin địa điểm",
+      "desc": "Cung cấp địa chỉ quán và khuyến khích ghé thăm.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhớ địa chỉ."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "các bác tham khảo thử xem sao"
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "tươi",
+    "hợp lý",
+    "thơm",
+    "vừa vặn",
+    "sướng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nước dùng chua một chút, cay nhẹ, ngọt thì sâu từ nước xương với hải sản.",
+    "sốt trộn thơm dậy vị hành tỏi phi, chua cay mặn ngọt vừa vặn lắm luôn.",
+    "mì ngon, topping tươi, giá cả lại còn hợp lý."
+  ],
+  "hook_content": "Sướng nhất anh em quận Cầu Giấy rồi nhá.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu quán mì chua cay mới ở Cầu Giấy với giá cả phải chăng, chất lượng tốt. Ngoài ra, quán còn có món mì trộn hấp dẫn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

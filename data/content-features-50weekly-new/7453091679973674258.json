@@ -1,0 +1,78 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mua sắm nguyên liệu",
+      "desc": "Đi siêu thị Hàn Quốc mua nguyên liệu làm kim chi hành lá.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú khi thấy nhiều đồ Hàn Quốc."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Lặt và rửa hành lá với sự giúp đỡ của gia đình.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Nấu cháo gà",
+      "desc": "Nấu cháo gà nấm rơm để lấy sức làm kim chi.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi đói bụng khi thấy món cháo gà."
+    },
+    {
+      "step": "Pha sốt kim chi",
+      "desc": "Pha nước sốt kim chi từ bột nếp, ớt bột và các gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về công thức làm sốt."
+    },
+    {
+      "step": "Trộn kim chi",
+      "desc": "Trộn hành lá với sốt và cho vào hộp.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú khi thấy món kim chi dần hoàn thiện."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Bà ngoại khen ngon, để kim chi ngấm gia vị rồi ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Háo hức muốn thử món kim chi."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "làm biếng",
+    "thèm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mình sẽ trổ tài làm kim chi hành lá tại Việt Nam nha mọi người.",
+    "Ăn cháo gà để lấy sức làm kim chi hành, mà ăn xong cái làm biếng ngang luôn.",
+    "Bà ngoại mình mà khen vừa ăn là ngon rồi đó."
+  ],
+  "hook_content": "mình sẽ trổ tài làm kim chi hành lá tại Việt Nam nha mọi người ăn hả hỏi ăn",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm kim chi hành lá đơn giản tại nhà, bắt đầu từ việc mua nguyên liệu ở siêu thị Hàn Quốc, sơ chế, pha sốt, trộn và thưởng thức. Trong quá trình làm kim chi, người làm còn nấu thêm cháo gà nấm rơm để bồi bổ.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

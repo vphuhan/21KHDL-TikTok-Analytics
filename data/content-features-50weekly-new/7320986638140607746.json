@@ -1,0 +1,43 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu bánh kem và khuyến khích người xem ăn cùng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị bánh kem."
+    },
+    {
+      "step": "Ăn uống",
+      "desc": "Ăn và có tương tác ngắn gọn, húp đồ ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có nhiều cảm xúc."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [],
+  "has_cta": "false",
+  "highlight_phrases": [],
+  "hook_content": "ăn đi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh ăn bánh kem, khuyến khích người xem ăn cùng. Nội dung ngắn gọn và tập trung vào hành động ăn.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

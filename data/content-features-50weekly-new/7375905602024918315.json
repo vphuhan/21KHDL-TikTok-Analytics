@@ -1,0 +1,86 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ốc kèn và mời mọi người cùng ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Miêu tả cảm quan",
+      "desc": "Miêu tả độ ngon và béo của ốc kèn.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi thèm thuồng."
+    },
+    {
+      "step": "So sánh và liên hệ",
+      "desc": "Giải thích về tên gọi và nguồn gốc của ốc kèn.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết thêm thông tin."
+    },
+    {
+      "step": "Nhấn mạnh trải nghiệm",
+      "desc": "Nhấn mạnh cảm giác chưa ăn được phần thịt.",
+      "impact_level": "1",
+      "viewer_emotion": "Không có gì đặc biệt."
+    },
+    {
+      "step": "Đề xuất cách chế biến",
+      "desc": "Đề xuất cách chế biến khác ngon hơn.",
+      "impact_level": "1",
+      "viewer_emotion": "Gợi ý hay."
+    },
+    {
+      "step": "Thông tin thêm",
+      "desc": "Chia sẻ thêm về nguồn gốc của ốc kèn.",
+      "impact_level": "1",
+      "viewer_emotion": "Thêm kiến thức."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Cảm ơn và hẹn gặp lại.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "cảm ơn cả nhà theo dõi video của Thành. Hẹn gặp bạn ở video tiếp theo nha. Bye bye."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "béo"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mấy con này chắc chắn là cái đuôi nó sẽ rất ngon rồi nè.",
+    "Cái phần gan ốc ngon quá, rất là béo luôn mọi người ơi.",
+    "Con này Thành nghĩ là chắc giờ hình dáng của nó giống như cái kèn á, thành ra là người ta gọi nó là ốc kèn."
+  ],
+  "hook_content": "Ồ, mấy con này chắc chắn là cái đuôi nó sẽ rất ngon rồi nè.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video mukbang ốc kèn, người làm video vừa ăn vừa miêu tả cảm nhận về độ ngon, béo của món ăn, đồng thời chia sẻ thêm về nguồn gốc và cách chế biến khác.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Liệt kê các món ăn sẽ thử trong video hôm nay.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò, muốn xem tiếp các món khác."
+    },
+    {
+      "step": "Thưởng thức bánh xèo",
+      "desc": "Ăn và nhận xét về bánh xèo mini.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi thèm thuồng khi thấy bánh xèo giòn."
+    },
+    {
+      "step": "Thưởng thức hamburger",
+      "desc": "Ăn hamburger gà rán và cho thêm sốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn bởi phần sốt."
+    },
+    {
+      "step": "Thưởng thức bánh kép",
+      "desc": "Ăn và nhận xét về bánh kép.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy món này lạ và muốn thử."
+    },
+    {
+      "step": "Thưởng thức bò bít tết",
+      "desc": "Ăn bò bít tết và khoai tây chiên.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy rất thèm thịt."
+    },
+    {
+      "step": "Uống nước trái cây",
+      "desc": "Uống nước trái cây sau khi ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Thưởng thức kem",
+      "desc": "Ăn kem dâu và kết thúc.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn kem để giải khát."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "giòn",
+    "ngọt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Bò này còn ngon vậy.",
+    "Trời cũng ngon, ngon quá.",
+    "Ngon đấy."
+  ],
+  "hook_content": "Nè hôm nay ăn gì cà? Chút ăn bánh xèo, hamburger, bánh kép, thịt bò, nước trái cây, banacotta, cây kem.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình người này ăn nhiều món khác nhau như bánh xèo, hamburger, bánh kép, bò bít tết, kem và nước trái cây. Người này vừa ăn vừa đưa ra cảm nhận cá nhân.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

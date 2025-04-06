@@ -1,0 +1,79 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Nhớ lại thời sinh viên và giới thiệu món trứng cút rim.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú vì gợi nhớ kỷ niệm."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Luộc và khứa trứng cút, thấm khô để chiên không bị nổ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung theo dõi các bước làm."
+    },
+    {
+      "step": "Chiên trứng và phi tỏi",
+      "desc": "Chiên trứng cút và phi tỏi cho thơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi âm thanh và hình ảnh."
+    },
+    {
+      "step": "Làm nước sốt",
+      "desc": "Nấu nước sốt sánh quyện, vừa ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ hương vị món ăn."
+    },
+    {
+      "step": "Rim trứng với sốt",
+      "desc": "Rim trứng cút với nước sốt đã pha.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Hoàn thiện món ăn",
+      "desc": "Thêm hành lá, tỏi phi và thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn thử ngay lập tức."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "mặn điếm",
+    "ngọt ngọt cay cay"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Chiều nay ở Sài Gòn thì ngày nào mà nó trả mưa.",
+    "Trứng nào mà luộc ra mà nó hơi rách rách như vậy là bỏ mẹ.",
+    "Nước sốt này á tôi đã da giảm lại rồi không có bị ngọt đâu yên tâm."
+  ],
+  "hook_content": "Chiều nay ở Sài Gòn thì ngày nào mà nó trả mưa. tôi lười đi ra đường mấy bà nên là tôi tưởng nhớ lại cái thời mà còn sanh diên, làm một cái chảo này nè mặn điếm.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món trứng cút rim mặn ngọt cay, gợi nhớ ký ức thời sinh viên. Người làm chia sẻ công thức gia giảm để món ăn vừa miệng hơn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

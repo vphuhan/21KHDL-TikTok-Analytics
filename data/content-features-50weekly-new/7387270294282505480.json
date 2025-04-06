@@ -1,0 +1,83 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu so sánh",
+      "desc": "So sánh giá trứng cá tầm với trứng gà để gây ấn tượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự so sánh giá cả."
+    },
+    {
+      "step": "Chứng minh giá rẻ",
+      "desc": "Đưa ra bằng chứng về giá mua trứng cá tầm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với thông tin giá cả."
+    },
+    {
+      "step": "Đánh giá ngoại hình",
+      "desc": "Miêu tả vẻ ngoài của trứng cá tầm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung xem hình ảnh minh họa."
+    },
+    {
+      "step": "Nếm thử",
+      "desc": "Nếm thử và mô tả hương vị của trứng cá tầm.",
+      "impact_level": "3",
+      "viewer_emotion": "Tò mò về hương vị."
+    },
+    {
+      "step": "Đề xuất cách ăn",
+      "desc": "Đề xuất cách ăn trứng cá tầm với cơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Gợi ý cách thưởng thức."
+    },
+    {
+      "step": "Kết luận hài hước",
+      "desc": "Kết thúc bằng câu chuyện hài hước về việc lãng phí tiền.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy hài hước."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "mặn",
+    "tanh",
+    "ngậy"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "chứng tỏ trứng cá hồi nó không phải là đắt, rẻ hơn trứng gà",
+    "Khi mà mọi người nhai, mọi người sẽ có cảm giác là nó tét tét tét tét trong mồm, nó nổ ở mồm ấy",
+    "500 nghìn đồng này vứt đi rồi"
+  ],
+  "hook_content": "Mọi người cứ bảo là trứng cá tầm nó đắt chứ, mình thấy nó rẻ mà.",
+  "hook_type": [
+    "Gây tranh cãi",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review trứng cá tầm, so sánh giá với trứng gà và đưa ra cảm nhận về hương vị, kết thúc bằng tình huống hài hước về việc mua không thành công. Người nói cho rằng trứng cá tầm rẻ hơn so với trứng gà.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

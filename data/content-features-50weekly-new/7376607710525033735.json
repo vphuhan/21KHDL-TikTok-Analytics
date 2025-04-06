@@ -1,0 +1,95 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu về món bún mắm và trải nghiệm ăn tại quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Quyết định tự nấu",
+      "desc": "Quyết định tự nấu món bún mắm sau khi ấn tượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với ý tưởng"
+    },
+    {
+      "step": "Tìm hiểu nguyên liệu",
+      "desc": "Nghiên cứu nguyên liệu và quyết định mua sốt nấu sẵn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chuẩn bị topping",
+      "desc": "Chuẩn bị topping đầy đặn, thể hiện sự sung túc.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với sự chuẩn bị"
+    },
+    {
+      "step": "Nấu nước dùng",
+      "desc": "Nấu nước dùng từ nước dừa và sốt, thêm gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị"
+    },
+    {
+      "step": "Thưởng thức và đánh giá",
+      "desc": "Thưởng thức món ăn tự nấu và đánh giá hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú với kết quả"
+    },
+    {
+      "step": "Kêu gọi sự đồng tình",
+      "desc": "Mong muốn người xem thấy thuyết phục dù dùng sốt sẵn.",
+      "impact_level": "2",
+      "viewer_emotion": "Hài hước"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Gói này nấu mà ngon thì mình sẽ cho mọi người thông tin tham khảo, còn không ngon thì mọi người tự mua mắm cá sặc với cá linh về mà nấu nha.",
+    "Mình mua cả cái gói sốt nấu bún bò Huế nữa cơ, hôm nào mình sẽ nấu thử xem nó có ok không nhá"
+  ],
+  "cta_type": [
+    "Chia sẻ công thức",
+    "Xem video tiếp theo",
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "ngon khúng khiếp",
+    "chân ái",
+    "mừng hấm",
+    "mãn nguyện",
+    "ngon tuyệt cà là vời",
+    "chưa thấy ngán"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ăn xong bắt bún phải gọi là nó ngon khúng khiếp",
+    "topping thì mình sẽ phải là xum xuê âm tùm, thể hiện được cái đẳng cấp và sự sung túc trong ăn uống của gia chủ",
+    "nước dùng ngày hôm qua là trưa mai hai đứa mình còn nấu thêm được hai bát bún nữa ăn vẫn ngon tuyệt cà là vời chưa thấy ngán miếng nào, nhưng mai mà ăn nữa thì ngán"
+  ],
+  "hook_content": "mình có thằng bạn học đại học vào trong Nam lập nghiệp, lúc nó về lại Hà Nội chơi ấy nó bảo cái món nó ấn tượng nhất ở trong đấy là cái món bún mắm, thế là mình cũng phải đi ăn thử một quán ở ngoài Hà Nội, quán bún mắm chú sáu ấy, bước vào quán là mùi mắm nó nồng nặc luôn nhưng mà ăn xong bắt bún phải gọi là nó ngon khúng khiếp.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video kể về trải nghiệm của người làm khi ăn bún mắm ở quán và quyết định tự nấu tại nhà bằng gói sốt sẵn. Cô chia sẻ quá trình chuẩn bị, nấu nướng và đánh giá hương vị món ăn, đồng thời kêu gọi người xem ủng hộ.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

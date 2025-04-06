@@ -1,0 +1,79 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu bản thân và món trà sữa đặc biệt với topping kỳ lạ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Trình bày các topping",
+      "desc": "Liệt kê và mô tả các loại topping độc đáo với giá cả.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Thử và đánh giá",
+      "desc": "Thử nghiệm và đưa ra đánh giá hương vị các loại trà sữa.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Nhận xét topping",
+      "desc": "Đánh giá chi tiết từng loại topping, từ cheese ball đến sầu riêng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Tìm 'chi'",
+      "desc": "Tìm kiếm 'chi' trong topping hoa cúc và đưa ra kết luận.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "ngon",
+    "hợp gu",
+    "ngậy",
+    "béo",
+    "chua"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Trời ơi tôi yêu thái xanh thật nha, cái vị ok.",
+    "Trà sữa gạo rang. Thơm mùi gạo rang kinh khủng luôn á, ê, sữa gạo rang thơm ngon hết.",
+    "Nhân chi nhiều quá không thấy được luôn á."
+  ],
+  "hook_content": "Sao rồi, sao shop bán được cái này hay vậy sao. Hello mọi người, tôi Tiết Tôn Tăng.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review trà sữa với nhiều loại topping độc đáo, người nói thử và đưa ra đánh giá về hương vị, giá cả của từng loại, đặc biệt là topping 'hoa cúc'. Thái xanh và trà sữa gạo rang được đánh giá cao.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

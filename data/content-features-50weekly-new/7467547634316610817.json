@@ -1,0 +1,88 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món xương ống tủy bò nướng ớt cay tê của Trung.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới lạ."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Mua 2kg xương ống tủy bò và ớt cay tê của Trung.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Ướp gia vị",
+      "desc": "Rưới ớt cay tê lên xương và chà xát cho thấm đều.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thèm thuồng vì màu sắc hấp dẫn."
+    },
+    {
+      "step": "Nướng xương",
+      "desc": "Nướng trong 25 phút ở 200 độ, không quét dầu.",
+      "impact_level": "1",
+      "viewer_emotion": "Hơi đói bụng."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Cào tủy và ăn, miêu tả hương vị béo, thơm, cay, tê.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn được ăn thử ngay lập tức."
+    },
+    {
+      "step": "Nhận xét",
+      "desc": "Thích ớt cay tê, hợp với món nướng, nên ăn cả phần ngoài.",
+      "impact_level": "2",
+      "viewer_emotion": "Gật gù đồng ý với nhận xét."
+    },
+    {
+      "step": "Bí quyết",
+      "desc": "Nướng đỡ ngán hơn hấp, tủy khô và thơm hơn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích với thông tin này."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "cay",
+    "tê",
+    "ngon",
+    "mê",
+    "béo",
+    "thơm",
+    "mặn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cái tủy á nó béo béo nó thơm thơm mọi người. Thêm cái phần muối mặn mặn với lại cái ớt nó cay cay á, mà càng ăn thì mọi người sẽ cảm nhận được cái độ tê của cái ớt á mọi người.",
+    "Không hiểu sao từ lúc mà tôi ăn được cái ớt cay tê này á mọi người, bị mê luôn nên là giờ tôi ăn cái món nướng nào tôi hay ướp bằng cái muối ớt cay tê này lắm.",
+    "Nướng thì nó sẽ tạo thêm mùi thơm và cái phần tủy nó sẽ khô lại tí xíu là lúc ăn nó sẽ đỡ ngán hơn là hấp nha mọi người."
+  ],
+  "hook_content": "Ê mọi người, hôm nay mình sẽ thử làm cái món xương ống tủy bò nướng với lại ớt cay tê của Trung nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video mukbang món xương ống tủy bò nướng ớt cay tê, chia sẻ cảm nhận về hương vị và cách chế biến để đỡ ngán. Người làm video tỏ ra rất thích món ăn này và khuyến khích thử.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

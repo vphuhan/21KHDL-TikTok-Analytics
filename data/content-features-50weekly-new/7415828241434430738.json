@@ -1,0 +1,92 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bạch tuộc sống và các nguyên liệu ăn kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn và cách thưởng thức."
+    },
+    {
+      "step": "Chuẩn bị và trộn sốt",
+      "desc": "Trộn sốt và cho bạch tuộc 'uống' sốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi ghê sợ nhưng tò mò về hương vị."
+    },
+    {
+      "step": "Ăn thử bạch tuộc lần 1",
+      "desc": "Ăn thử bạch tuộc với sốt và nhận xét.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy lạ và tò mò về cảm giác."
+    },
+    {
+      "step": "Điều chỉnh sốt",
+      "desc": "Pha loãng sốt để bạch tuộc dễ 'uống' hơn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Ăn thử bạch tuộc lần 2",
+      "desc": "Ăn lại bạch tuộc và đánh giá hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy ngon miệng hơn."
+    },
+    {
+      "step": "Ăn kèm",
+      "desc": "Ăn bạch tuộc với các loại rau khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy lạ miệng và hấp dẫn."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Cảm ơn người xem và hẹn gặp lại.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Cảm ơn bạn đã xem video của Tóc Vàng nha.",
+    "Hẹn gặp lại bạn vào video lần sau."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "cay",
+    "mới lạ",
+    "wow",
+    "ngọt",
+    "đắng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Vàng xin lỗi những bạn nào là Phật tử hoặc là đang trong giữ giới mà xem phải clip này của Vàng nha.",
+    "Nếu là em mực á, em sẽ nhảy, cặp tạch cặp tạch đó bạn.",
+    "Cái cảm giác khổ qua nó đắng đắng, ăn kèm với cái sự ngọt ngọt dai dai của bạch tuộc á bạn. Đây là cái cảm giác mới lạ lắm mọi người ơi."
+  ],
+  "hook_content": "Hay da, hôm nay Vàng sẽ ăn bạch tuộc sống nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh Tóc Vàng ăn mukbang bạch tuộc sống với sốt Thái tự pha và các loại rau củ ăn kèm. Cô nàng vừa ăn vừa chia sẻ cảm nhận về hương vị và độ tươi ngon của món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

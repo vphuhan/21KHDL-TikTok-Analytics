@@ -1,0 +1,72 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Vivi giới thiệu món ốc lác hương chấm cơm mẻ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Ăn và miêu tả",
+      "desc": "Vivi ăn ốc và liên tục khen ngon, ngọt.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Miêu tả chi tiết",
+      "desc": "Vivi miêu tả ốc to, múp rụp và luộc với cơm mẻ.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung rõ hơn về món ăn"
+    },
+    {
+      "step": "Tiếp tục ăn và khen",
+      "desc": "Vivi tiếp tục ăn và khen ốc ú nu.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy hấp dẫn"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mời mọi người ăn cùng Vivi nhá."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngọt",
+    "ngon",
+    "siêu ngon",
+    "ú nu"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Quá, siêu ngọt luôn.",
+    "Trời ơi con ốc nào nó cũng to múp rụp luôn á mọi người.",
+    "Trời ơi, con nào cũng ú nu luôn đó mọi người."
+  ],
+  "hook_content": "Hello mọi người, hôm nay Vivi sẽ ăn ốc lác hương chấm cơm mẻ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Vivi mukbang món ốc lác hương chấm cơm mẻ, liên tục khen ngon và miêu tả chi tiết về độ tươi ngon của ốc.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

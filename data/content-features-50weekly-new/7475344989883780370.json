@@ -1,0 +1,88 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu các món ăn sẽ thưởng thức: bánh tráng trộn, chân gà...",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn được giới thiệu."
+    },
+    {
+      "step": "Thưởng thức top mỡ",
+      "desc": "Bắt đầu thưởng thức top mỡ nổi tiếng và bày tỏ cảm xúc.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy phấn khích trước sự ngon miệng."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Đánh giá chi tiết các món ăn khác như gà, trứng non, xoài...",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với những đánh giá chân thực."
+    },
+    {
+      "step": "Cảm nhận chung",
+      "desc": "Đưa ra cảm nhận chung về chất lượng và độ sạch sẽ của đồ ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng của quán."
+    },
+    {
+      "step": "Đánh giá sốt",
+      "desc": "Nhấn mạnh sự ngon miệng của sốt, ngon hơn cả sốt chấm riêng.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng hương vị của sốt."
+    },
+    {
+      "step": "Trà sữa và chân gà",
+      "desc": "Khen ngợi thạch trà sữa và cách ăn chân gà sả thái.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử ngay trà sữa và chân gà."
+    },
+    {
+      "step": "Độ tỉ mỉ",
+      "desc": "Công nhận sự tỉ mỉ và kỹ lưỡng trong cách chế biến đồ ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với sự cẩn thận của người làm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "đúng gu",
+    "ngon quá",
+    "thề",
+    "ngon thiệt",
+    "chất lượng",
+    "sạch sẽ",
+    "ngon hơn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cuối cùng ngày này cũng đã đến, cái ngày mà tôi được thưởng thức top mỡ siêu siêu nổi tiếng của chị Hồ Kim Nhuyễn.",
+    "Cảm giác giống như là tối nay mình có sẽ có một giấc ngủ ngon vậy đó.",
+    "Trong cái sốt này tôi thấy nó ngon hơn là cái sốt chấm riêng luôn á."
+  ],
+  "hook_content": "Múc bánh bánh tráng trộn, chân gà sả thái, trà sữa của chị Hồ Kim Nhuyễn!",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình mukbang các món ăn của chị Hồ Kim Nhuyễn, bao gồm bánh tráng trộn, chân gà sả thái, trà sữa và đặc biệt là top mỡ siêu nổi tiếng. Người này đánh giá cao hương vị, chất lượng và độ sạch sẽ của đồ ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

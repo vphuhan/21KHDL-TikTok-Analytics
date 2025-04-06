@@ -1,0 +1,74 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu xe cơm chiên Cây Điệp và sự nổi tiếng của quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ nổi tiếng."
+    },
+    {
+      "step": "Thông tin chi tiết",
+      "desc": "Thời gian bán, đối tượng khách hàng và giá cả.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy phù hợp với túi tiền."
+    },
+    {
+      "step": "Mô tả món ăn",
+      "desc": "Các món bán, topping và cách chế biến cơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng các loại topping."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Đánh giá về giá cả, chất lượng và số lượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào nhận xét."
+    },
+    {
+      "step": "Nhấn mạnh độ hot",
+      "desc": "Quán rất đông khách.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn đến ăn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "hôm nào có dịp đi ngang ghé thử nhé"
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ổn áp"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Hộp cơm tràn ngập topping chỉ 30 cành 2 người ăn no căng",
+    "25 30 cành mà cầm hộp cơm nặng tay luôn á"
+  ],
+  "hook_content": "Cái xe cơm chiên cây điệp của anh này chắc có một mình tôi giờ này tôi mới biết tới ổng luôn á trời.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review xe cơm chiên Cây Điệp nổi tiếng ở Sài Gòn với giá cả phải chăng, nhiều topping hấp dẫn. Chủ yếu bán cho học sinh, sinh viên và dân văn phòng.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

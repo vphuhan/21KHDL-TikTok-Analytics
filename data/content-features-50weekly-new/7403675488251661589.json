@@ -1,0 +1,87 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món mắm cà đu đủ dưa leo và độ ngon của nó",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Nguồn gốc công thức",
+      "desc": "Chia sẻ công thức được truyền lại từ mợ bán mắm ngoài chợ",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào công thức"
+    },
+    {
+      "step": "Liệt kê nguyên liệu",
+      "desc": "Liệt kê nguyên liệu và giá cả ước tính để làm món mắm",
+      "impact_level": "1",
+      "viewer_emotion": "Nắm bắt thông tin"
+    },
+    {
+      "step": "Sơ chế đu đủ",
+      "desc": "Hướng dẫn chọn và sơ chế đu đủ để đảm bảo độ giòn ngọt",
+      "impact_level": "2",
+      "viewer_emotion": "Học hỏi kinh nghiệm"
+    },
+    {
+      "step": "Sơ chế các nguyên liệu khác",
+      "desc": "Hướng dẫn sơ chế cà pháo và dưa leo để phơi nắng",
+      "impact_level": "1",
+      "viewer_emotion": "Nắm bắt thông tin"
+    },
+    {
+      "step": "Pha mắm nêm",
+      "desc": "Hướng dẫn pha mắm nêm và lưu ý khi nêm nếm",
+      "impact_level": "2",
+      "viewer_emotion": "Ghi nhớ bí quyết"
+    },
+    {
+      "step": "Trộn và thưởng thức",
+      "desc": "Trộn nguyên liệu đã sơ chế với mắm nêm và thưởng thức",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "giòn",
+    "thơm",
+    "chảy nước miếng",
+    "hôi"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Không phải khen chứ, đây là cái cách làm mắm cà đu đủ dưa leo mà ngon kịch cần luôn nè.",
+    "Đi chợ chưa tới 100.000đ mua mấy cái đồ này về làm nữa mà tao nói ăn nguyên làng ổng hết luôn á.",
+    "Một miếng thịt luộc ha, kẹp với miếng đu đủ với dưa leo, kẹp thêm miếng cà pháo nữa, tao nói còn cái gì bằng nữa mấy chị."
+  ],
+  "hook_content": "Hay là chắc tôi bán luôn cái món mắm cà đu đủ dưa leo này luôn chứ mấy bà? Trời ơi, tao nói nó ngon lắm luôn á.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm mắm cà đu đủ dưa leo ngon và giòn, công thức được truyền lại từ người thân. Người làm chia sẻ các bí quyết chọn nguyên liệu và pha mắm nêm để món ăn thêm hấp dẫn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

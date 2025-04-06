@@ -1,0 +1,70 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu lại video trước",
+      "desc": "Nhắc lại video ăn thử tương ớt và phản hồi của khán giả.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giải thích về PR",
+      "desc": "Khẳng định không nhận tiền PR và giải thích lý do khen ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Phân tích trải nghiệm",
+      "desc": "Nhấn mạnh sự khác biệt khi ăn với các món khác nhau.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Lý do mua sản phẩm",
+      "desc": "Giải thích mục đích mua tương ớt để làm video trải nghiệm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chuyên nghiệp",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thật sự"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Các bạn thử tưởng tượng là các bạn ăn cái chai tương ớt đấy mà các bạn thấy ngon nhưng mà chỉ vì không thích anh Phan Bảo Long mà các bạn lại bảo là không ngon như thế thì nó lại không được khách quan lắm.",
+    "Mình nghĩ là cái chai tương ớt đấy nó có ngon hay không thì nó còn phụ thuộc vào việc là mình đang ăn cái món gì nữa.",
+    "Mình chấp nhận cái giá cao. Mình đâu có mua để sử dụng thường xuyên đâu, bởi vì mình không có cái nhu cầu đấy."
+  ],
+  "hook_content": "Xin chào mọi người. Hôm trước thì mình có đăng một cái video ăn thử tương ớt bái béo.",
+  "hook_type": [
+    "Phản hồi bình luận",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại",
+    "Liệt kê"
+  ],
+  "summarization": "Video này giải thích về việc người nói đã review tương ớt Bái Béo trong video trước và phản hồi về những ý kiến trái chiều, đồng thời chia sẻ trải nghiệm ăn tương ớt với các món khác nhau. Người nói khẳng định không nhận tiền PR và lý giải việc mua tương ớt chỉ để làm video trải nghiệm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Trung lập"
+  ]
+}

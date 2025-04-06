@@ -1,0 +1,81 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu địa điểm",
+      "desc": "Giới thiệu công viên nước lớn nhất Việt Nam, cách Sài Gòn 45 phút.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về địa điểm."
+    },
+    {
+      "step": "Đánh giá chi phí",
+      "desc": "Giá vé hợp lý cho học sinh, sinh viên, đáng tiền.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy giá cả phải chăng."
+    },
+    {
+      "step": "Trải nghiệm trò chơi",
+      "desc": "Trải nghiệm trò sóng thần cao 4m và lướt sóng nhân tạo.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy phấn khích và thích thú."
+    },
+    {
+      "step": "Tiện ích",
+      "desc": "Không cần ôm phao vì có máy kéo phao tự động.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy tiện lợi."
+    },
+    {
+      "step": "Mời gọi",
+      "desc": "Mời mọi người đi chơi cùng Lan thang Sài Gòn.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy được mời tham gia."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Còn bây giờ thì mời mọi người đi chơi cùng với Lan thang Sài Gòn nghe."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "siêu thích",
+    "hết hồn",
+    "đáng tiền",
+    "ghê",
+    "tỉnh ra liền"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Vé ở đây chỉ có 300 cành cho học sinh sinh viên thôi nhưng mà chơi siêu đáng tiền luôn.",
+    "Trời ơi! Chu cha mèn đét ơi, ta nói sóng thần nó đánh một cái là chỉ muốn văng luôn cái nớp đi thôi.",
+    "Trời đất ơi tự nhiên cái tôi tỉnh ra liền luôn, tự nhiên tôi hết hồn rồi."
+  ],
+  "hook_content": "Siêu công viên nước lớn nhất Việt Nam chỉ cách Sài Gòn 45 phút đi xe.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu về siêu công viên nước lớn nhất Việt Nam gần Sài Gòn, tập trung vào trải nghiệm các trò chơi như sóng thần và lướt sóng nhân tạo, đồng thời đánh giá giá vé hợp lý và tiện ích của công viên.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Nhắc lại drama cũ về review bánh tráng và đòi công bằng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về drama và sự công bằng."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu bánh tráng và quy trình xé bánh tráng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, chờ đợi đánh giá."
+    },
+    {
+      "step": "Đánh giá bánh tráng",
+      "desc": "Nhận xét về độ dẻo, độ dày và độ cứng của bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến chất lượng sản phẩm."
+    },
+    {
+      "step": "Trộn và nếm thử",
+      "desc": "Trộn bánh tráng với muối, hành phi, sa tế và đánh giá.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng, muốn ăn thử."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Đánh giá vị muối, sa tế và độ mềm của bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Chú ý đến hương vị và độ mềm."
+    },
+    {
+      "step": "Thêm topping",
+      "desc": "Thêm tóp mỡ, mỡ hành và hành lá để tăng độ mềm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự thay đổi hương vị."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Nhắc lại khó khăn khi review và đánh giá cuối cùng.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm và ghi nhận đánh giá."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Drama"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "dẻo",
+    "vừa phải",
+    "dễ thương",
+    "dễ chịu",
+    "khó nhai",
+    "cực",
+    "nóng",
+    "mệt mỏi",
+    "mỏi hàm",
+    "tuổi thơ",
+    "okay"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Trong cái clip hôm nay tôi sẽ phân xử hết tôi sẽ đòi lại công bằng cho bản thân mình.",
+    "Mọi người phải trong cái hoàn cảnh hồi xưa của em khi mà em bị kiểu rất nhiều người tấn công rồi xong rồi thuê những Tiktoker nổi tiếng vô nói em quá trời luôn mà lúc đó em đâu có tiếng nói đâu mọi người.",
+    "Không biết ai ăn cái bánh tráng này có giống mình hay không, chứ bây giờ là hai cái cơ hàm của mình nó rất là đơ luôn."
+  ],
+  "hook_content": "làm sao mà mọi người cảm thấy là có niềm tin là được. Trên mạng bánh tráng muối buột chi? Ngoài đời bánh tráng muối buột chi nha mọi người.",
+  "hook_type": [
+    "Gây tò mò",
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review bánh tráng muối, tập trung vào việc đánh giá độ dẻo, độ cứng và hương vị của sản phẩm. Người review chia sẻ trải nghiệm cá nhân và so sánh với các loại bánh tráng khác, đồng thời nhắc lại drama cũ liên quan đến việc review bánh tráng.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Chân thành",
+    "Khó chịu"
+  ]
+}

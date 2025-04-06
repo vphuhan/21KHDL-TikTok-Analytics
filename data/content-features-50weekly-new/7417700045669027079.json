@@ -1,0 +1,68 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Chọn số may mắn",
+      "desc": "Khách hàng chọn số ngẫu nhiên để reviewer trả tiền bát xôi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị với cách mua hàng độc đáo."
+    },
+    {
+      "step": "Giới thiệu xôi",
+      "desc": "Miêu tả chi tiết về thành phần và hình thức của bát xôi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị và giá trị của xôi."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhấn mạnh hương vị đặc trưng và sự kết hợp hoàn hảo.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng và muốn thử ngay."
+    },
+    {
+      "step": "Tri ân người bán",
+      "desc": "Gửi lời chúc tốt đẹp đến cô Huệ, người bán xôi.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp và cảm động trước tình cảm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "dẻo thơm",
+    "ấn tượng",
+    "thích"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Xôi ở đây ngon điên, hạt xôi dẻo thơm mùi nghệ.",
+    "Ăn đỗ ấy quyện tí với mùi mỡ thịt đung đỉnh luôn.",
+    "Cô Huệ mãi đỉnh, mãi đỉnh, mãi đỉnh."
+  ],
+  "hook_content": "chọn giúp con một số ấy, từ 1 cho đến 100 đi.",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quán xôi Hoàng Mai ở K9 Bách Khoa, Hà Nội, với cách mua độc đáo là chọn số ngẫu nhiên để trả tiền. Người bán xôi được miêu tả là cô Huệ, xôi được đánh giá cao về hương vị và sự đầy đặn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

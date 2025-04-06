@@ -1,0 +1,77 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán dimsum nổi tiếng ở quận 5, gần tòa nhà ba cây nhang.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về địa điểm quán dimsum ngon."
+    },
+    {
+      "step": "Gọi món và review",
+      "desc": "Gọi các món như chân gà tàu xì, tôm cuốn, há cảo, bánh bao kim sa.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng các món dimsum."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét hương vị từng món: há cảo ngon, chân gà mềm mại, bánh bao lạ.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử các món ăn được review."
+    },
+    {
+      "step": "Nhấn mạnh trải nghiệm",
+      "desc": "Khen sự nhiệt tình của chủ quán và sự thoải mái khi ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với sự thân thiện của quán."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Chào toàn thể anh em bà con nhá. Đây là dim sum cực kỳ ngon ở quận năm, bao đỉnh."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "mềm",
+    "mại",
+    "bột bột",
+    "tan tan",
+    "tuyệt vời",
+    "thủ công",
+    "ngấy"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "mấy cô chủ quán nhiệt tình cực kỳ, hướng dẫn cách tôi pha nước chấm và hướng dẫn tôi ăn món nào trước cho đỡ ngấy luôn",
+    "Ôi giời ôi ăn nó ngon nó mềm, nó mại nó bột bột, ăn nó tan tan",
+    "Đấy các bạn thấy sự nhiệt tình của người Sài Gòn chưa? Thấy tôi uống hết trà đá thế là cô ấy mang luôn cả một ca cho tôi uống thoải mái luôn ý."
+  ],
+  "hook_content": "Vâng, xin chào các cô. Con được giới thiệu từ Hà Nội vào thế học quán nhà mình nổi tiếng gần trăm năm ở quận năm rồi đúng không?",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán dimsum bình dân ở quận 5, TP.HCM, tập trung vào trải nghiệm thực tế, đánh giá hương vị các món ăn và sự nhiệt tình của chủ quán. Người Hà Nội vào ăn và thấy rất ngon.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

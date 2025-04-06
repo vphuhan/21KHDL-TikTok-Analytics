@@ -1,0 +1,92 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu bọ biển đắt đỏ và bày tỏ sự háo hức muốn thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới lạ."
+    },
+    {
+      "step": "Thông tin về địa điểm mua",
+      "desc": "Chia sẻ địa điểm mua bọ biển uy tín, bao ăn, bao vận chuyển.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhớ thông tin hữu ích."
+    },
+    {
+      "step": "Sơ chế",
+      "desc": "Hướng dẫn sơ chế bọ biển đơn giản, dễ thực hiện.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy dễ dàng để thử."
+    },
+    {
+      "step": "Chế biến mỡ hành",
+      "desc": "Nhấn mạnh sự quan trọng của mỡ hành và chia sẻ cách làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng mùi thơm của mỡ hành."
+    },
+    {
+      "step": "Nướng và thêm gia vị",
+      "desc": "Miêu tả quá trình nướng và thêm gia vị, đặc biệt là muối ớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ hương vị cuối cùng."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá chi tiết hương vị của bọ biển nướng mỡ hành.",
+      "impact_level": "3",
+      "viewer_emotion": "Thực sự muốn nếm thử."
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng thưởng thức món bọ biển nướng mỡ hành.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy gần gũi và thân thiện."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi nghen."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "háo hức",
+    "mê",
+    "ngọt",
+    "béo",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Lần đầu tiên tôi ăn thử mà phải bất hơn chữ ngờ luôn.",
+    "Bên trong thì rất là nhiều trứng với thịt siêu siêu béo, mà đặc biệt cái huyết của nó rất là ngon nha, kiểu nó ngọt và nó na núng nính như thạch vậy đó.",
+    "Tính ra con này ngọt béo có đủ, không có thiếu gì luôn, quá là mê."
+  ],
+  "hook_content": "Nhìn sơ tưởng đâu là tiểu cường khổng lồ.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món bọ biển nướng mỡ hành, từ giới thiệu, sơ chế, chế biến đến đánh giá hương vị. Người làm video chia sẻ trải nghiệm lần đầu ăn và mời mọi người cùng thưởng thức.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

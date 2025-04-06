@@ -1,0 +1,88 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu chung",
+      "desc": "Giới thiệu khay kẹo Tết mẹ mua và các loại kẹo tuổi thơ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú, tò mò về các loại kẹo."
+    },
+    {
+      "step": "Đánh giá kẹo sô cô la",
+      "desc": "Đánh giá các loại kẹo sô cô la khác nhau, đặc biệt Ferrero Rocher.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng, muốn ăn thử."
+    },
+    {
+      "step": "Đánh giá bánh cua",
+      "desc": "Đánh giá bánh hình con cua, so sánh với bánh gấu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị và hình dáng độc đáo."
+    },
+    {
+      "step": "Đánh giá kẹo trái cây",
+      "desc": "Đánh giá kẹo vị nho và dâu, nhấn mạnh vị nho ngon nhất.",
+      "impact_level": "2",
+      "viewer_emotion": "Nhớ lại hương vị tuổi thơ, muốn ăn thử."
+    },
+    {
+      "step": "Đánh giá kẹo gấu trúc",
+      "desc": "Đánh giá kẹo gấu trúc, một trong những loại kẹo hot nhất.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn biết tại sao loại kẹo này lại được ưa chuộng."
+    },
+    {
+      "step": "Đánh giá kẹo ngô",
+      "desc": "Đánh giá kẹo ngô, nhận xét về độ ngọt và độ dính răng.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường, không quá đặc biệt."
+    },
+    {
+      "step": "Đánh giá hồng treo gió",
+      "desc": "Đánh giá hồng treo gió, khen ngon và ít hạt.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng, muốn ăn ngay."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thích",
+    "tuyệt vời",
+    "thơm",
+    "đã"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Sôcola nhà giàu cái món này là em chắc chắn sẽ giấu đi và bọn trẻ con không được ăn. Cái này là của tôi.",
+    "Ngon vãi! Nó là bánh gấu đấy mọi người ạ! Nhưng mà nó là hình con cua thôi.",
+    "Thật sự là trong tất cả các loại hạt ăn Tết thì em thích nhất là hạt dẻ cười và hạt dẻ cười có một cái tên khác mỹ miều hơn, chính là hồ trăn."
+  ],
+  "hook_content": "Chấm điểm khay kẹo Tết mẹ mua.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video chấm điểm các loại kẹo trong khay kẹo Tết mẹ mua, từ kẹo tuổi thơ đến các loại bánh và hạt. Người nói đưa ra đánh giá chi tiết về hương vị, độ ngọt và cảm xúc cá nhân với từng loại.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

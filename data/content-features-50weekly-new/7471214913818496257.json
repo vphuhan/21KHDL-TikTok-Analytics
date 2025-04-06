@@ -1,0 +1,90 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món cá ngừ kho khóm, gợi ý khán giả làm theo.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Chọn nguyên liệu",
+      "desc": "Hướng dẫn chọn cá ngừ và sơ chế để khử mùi tanh.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích với mẹo khử tanh."
+    },
+    {
+      "step": "Sơ chế cá ngừ",
+      "desc": "Rửa cá ngừ với trà xanh và chiên sơ cho vàng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Làm nước sốt",
+      "desc": "Xào khóm, phi thơm hành tỏi và nêm nếm gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi mùi thơm của nước sốt."
+    },
+    {
+      "step": "Kho cá",
+      "desc": "Cho cá vào nước sốt, kho nhỏ lửa đến khi cạn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món cá kho."
+    },
+    {
+      "step": "Thành phẩm",
+      "desc": "Cá kho kẹo, hấp dẫn, ăn với cơm rất ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn ăn ngay lập tức."
+    },
+    {
+      "step": "Lời kêu gọi",
+      "desc": "Khuyến khích thử món cá ngừ kho khóm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Có gì mấy chị lưu lại cái cách này để bữa nào mình làm ăn thử hen.",
+    "Nên nếu mà bữa nay không có biết ăn gì á, mấy chị tham khảo thử cái món cá ngừ kho khóm này của em nhen."
+  ],
+  "cta_type": [
+    "Lưu video",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "hao cơm",
+    "thèm",
+    "hấp dẫn",
+    "dễ sợ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trời đất ơi, tao nói là ngon nhất cái nách luôn á.",
+    "Em kho ở đây á mà nhà hàng xóm thấy nhà hàng xóm còn thèm nữa mà.",
+    "Không ngon là không ăn tiền luôn á."
+  ],
+  "hook_content": "Cá ngừ mua về kho hoài á thì ngán quá.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách nấu món cá ngừ kho khóm đơn giản, dễ làm tại nhà. Người nấu chia sẻ các mẹo để khử mùi tanh của cá và cách nêm nếm gia vị cho vừa ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

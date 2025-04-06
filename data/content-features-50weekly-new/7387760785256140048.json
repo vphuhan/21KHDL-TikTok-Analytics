@@ -1,0 +1,73 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu mở đầu",
+      "desc": "Giới thiệu về hoạt động thường ngày và món ăn được cho.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu đào Fukushima",
+      "desc": "Nhận thùng đào từ Fukushima và giới thiệu về vùng trồng đào.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Chế biến sò điệp",
+      "desc": "Hấp sò điệp và chia sẻ về kinh nghiệm chọn sò.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Thưởng thức sò điệp",
+      "desc": "Nếm thử sò điệp hấp và chấm với muối tiêu.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Thưởng thức đào",
+      "desc": "Nếm thử hai loại đào và chia sẻ cảm nhận về hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngọt",
+    "thơm",
+    "tươi",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Sò điệp này là hàng thiên nhiên nên ăn nó ngọt dữ lắm.",
+    "Cứ hải sản mà đem chấm muối tiêu thì khỏi có bàn cãi gì hết.",
+    "Mà phải công nhận một điều là nó vừa thơm mà còn lại ngọt nữa chứ."
+  ],
+  "hook_content": "Hôm nay đang học thị trường thuê hợi chụp ảnh tới chụp làm kỷ niệm.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại trải nghiệm ăn uống của một người tại Nhật Bản, bao gồm sò điệp hấp và hai loại đào được gửi từ Fukushima. Anh ấy chia sẻ cảm nhận về hương vị tươi ngon và ngọt ngào của các món ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

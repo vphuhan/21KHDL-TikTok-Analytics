@@ -1,0 +1,63 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu các loại ốc",
+      "desc": "Người bán giới thiệu giá các loại ốc khác nhau tại quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về giá cả và các loại ốc."
+    },
+    {
+      "step": "Gọi món",
+      "desc": "Khách gọi ốc gạo, ốc hút và ốc bưu để ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với lựa chọn món ăn."
+    },
+    {
+      "step": "Thông tin quán",
+      "desc": "Thông tin về giờ bán và địa chỉ quán ốc 76.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, cung cấp thông tin hữu ích."
+    },
+    {
+      "step": "Lời mời",
+      "desc": "Hứa hẹn review các quán khác ở khu vực.",
+      "impact_level": "1",
+      "viewer_emotion": "Mong chờ các video review khác."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "rẻ"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ốc ốc ốc",
+    "Quán ốc 76 nha mọi người",
+    "L bữa sau qua quay review hết cho mọi người"
+  ],
+  "hook_content": "rút 30 một lon à. Ốc này 50 một tô. Tô hai lon à. Đây 70 một tô.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Liệt kê"
+  ],
+  "summarization": "Video giới thiệu và review quán ốc 76 với nhiều loại ốc khác nhau và giá cả của chúng. Người bán hàng cung cấp thông tin về giá và giờ mở cửa.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

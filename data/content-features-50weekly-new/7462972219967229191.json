@@ -1,0 +1,76 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán cơm niêu của anh Quang Linh Vlog mới mở.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán cơm niêu này."
+    },
+    {
+      "step": "Đánh giá menu và giá",
+      "desc": "Đánh giá menu và giá cả các món ăn, nước uống.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, nắm bắt thông tin."
+    },
+    {
+      "step": "Review món ăn",
+      "desc": "Review chi tiết các món đã gọi: tôm, bí nụ, cá dứa, thịt kho.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng, muốn ăn thử."
+    },
+    {
+      "step": "Đánh giá canh chua",
+      "desc": "Đánh giá cao món canh chua cá bông lau.",
+      "impact_level": "3",
+      "viewer_emotion": "Thực sự muốn thử món canh này."
+    },
+    {
+      "step": "Tổng kết",
+      "desc": "Nhận xét tổng quan về đồ ăn và chi phí.",
+      "impact_level": "2",
+      "viewer_emotion": "Cân nhắc xem có nên ghé quán."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "giòn",
+    "đậm đà",
+    "vừa",
+    "ngon",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Rang thì rất là thơm luôn cái thịt mà được cháy cạnh á cái phần da giòn giòn ăn rất là ngon nha, thấm đậm đậm đà luôn á.",
+    "Với cá nhân tôi thấy các cái vị của cơm Chu Linh là theo kiểu vị của người Sài Gòn luôn á mọi người, không có sợ bị ngọt nha.",
+    "Em quay thề luôn cái món canh chua này tôi húp đến cái giọt cuối cùng luôn á"
+  ],
+  "hook_content": "Review quán cơm niêu của anh Quang Linh Vlog bán.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quán cơm niêu mới mở của anh Quang Linh Vlog, tập trung vào đánh giá các món ăn đặc trưng như tôm bầu cháy cạnh, bí nụ xào tỏi, cá dứa kho và đặc biệt là canh chua cá bông lau, với nhận xét đồ ăn ngon và hợp khẩu vị người Sài Gòn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

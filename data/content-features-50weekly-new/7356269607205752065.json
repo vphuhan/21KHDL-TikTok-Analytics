@@ -1,0 +1,47 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu gà hấp lá chanh và trứng gà ủ muối.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Nếm thử và đánh giá",
+      "desc": "Đánh giá hương vị món ăn sau khi nuốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với đánh giá"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nhưng mà khi nuốt vào nó lại ngon luôn á"
+  ],
+  "hook_content": "Hôm nay sẽ mukbang gà hấp lá chanh, trứng gà ủ muối.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang gà hấp lá chanh và trứng gà ủ muối, tập trung vào trải nghiệm hương vị sau khi nuốt.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món cá trích ép trứng và giá thành.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Chấm cá trích ép trứng với nước tương và mù tạt.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét về độ dai, giòn và vị chua ngọt của món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung hương vị."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cái miếng cá ăn nó hơi dai dai, gần giống như kiểu cá sống ấy.",
+    "Còn cái trứng bên trong này thì ăn nó rất là giòn, nó giòn kiểu như là rau tiến vua ấy.",
+    "Nói chung là dai, giòn, ngon."
+  ],
+  "hook_content": "Mời mọi người ăn cá trích ép trứng nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review món cá trích ép trứng, tập trung vào trải nghiệm hương vị và cảm nhận cá nhân về món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

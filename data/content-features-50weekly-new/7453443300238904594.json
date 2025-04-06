@@ -1,0 +1,82 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Ăn nhiều và giới thiệu trang phục đi siêu thị của bạn đồng hành.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chọn đồ",
+      "desc": "Thảo luận về việc mua rau hay thịt khi đi siêu thị.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh trống lảng",
+      "desc": "Bạn đồng hành từ chối đăng ký khóa học, muốn đi ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đến sự kiện",
+      "desc": "Tình cờ gặp sự kiện ẩm thực của Chinsu tại siêu thị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Giới thiệu sự kiện",
+      "desc": "Miêu tả về sự kiện, đồ ăn do đầu bếp nổi tiếng nấu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Nhận xét",
+      "desc": "Nhấn mạnh việc nhận quà dễ dàng tại sự kiện.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Chúc nhau sống thọ và hẹn gặp lại ở các sự kiện khác.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "đẹp trai",
+    "vui vẻ"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "vì lỡ mặc suit và đẹp trai hơn anh",
+    "Một cách rất tự nhiên và tình cờ, không hề sắp đặt.",
+    "Đồ ăn thì do cô Phó chủ tịch Hội đầu bếp chuyên nghiệp Hà Nội nấu, mọi người cứ ra là ăn thôi."
+  ],
+  "hook_content": "Ăn nhiều vào.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh hai người đi siêu thị và tình cờ tham gia sự kiện ẩm thực của Chinsu, nơi họ được ăn uống và nhận quà miễn phí. Người quay video nhấn mạnh sự kiện diễn ra tự nhiên và vui vẻ.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

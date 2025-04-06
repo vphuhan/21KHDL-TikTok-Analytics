@@ -1,0 +1,68 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Vivi giới thiệu món lạp xưởng Hà Khẩu nướng và mời mọi người ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò, muốn biết món ăn có ngon không."
+    },
+    {
+      "step": "Miêu tả hương vị",
+      "desc": "Nhấn mạnh độ thơm của lạp xưởng, khen ngon \"nhức nách\".",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy hấp dẫn, thèm thuồng."
+    },
+    {
+      "step": "Cách thưởng thức",
+      "desc": "Ăn lạp xưởng chấm bột ớt, miêu tả cảm giác nóng hổi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với cách ăn và hương vị."
+    },
+    {
+      "step": "Đánh giá chất lượng",
+      "desc": "Khẳng định lạp xưởng tươi, mọng nước và rất ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Tin tưởng vào chất lượng món ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "ngon",
+    "nóng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ngon nhức cái nách",
+    "Cắn miếng nào nó bóc khói miếng đó",
+    "Lạp xưởng tươi mọng nước luôn"
+  ],
+  "hook_content": "Ta da, hôm nay Vivi sẽ ăn lạp xưởng Hà Khẩu nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video mukbang lạp xưởng Hà Khẩu nướng, Vivi miêu tả hương vị thơm ngon, cách ăn kèm bột ớt và đánh giá chất lượng tươi ngon, mọng nước của lạp xưởng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

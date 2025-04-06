@@ -1,0 +1,85 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món sườn bò sốt tiêu đen mới mua và bày tỏ sự thèm thuồng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món mới."
+    },
+    {
+      "step": "Chuẩn bị",
+      "desc": "Rã đông sườn bò và chuẩn bị nướng, chia sẻ mẹo nướng giấy bạc.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, cung cấp thông tin."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Trình bày thành phẩm và mời mọi người cùng ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá chi tiết hương vị sốt tiêu đen và chất lượng thịt.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích."
+    },
+    {
+      "step": "Nhận xét",
+      "desc": "Nhận xét về độ đậm đà của sốt, sự kết hợp với bánh mì và rau.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Chia sẻ trải nghiệm",
+      "desc": "Chia sẻ trải nghiệm mua hàng và cách bảo quản sườn.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy gần gũi, thân thiện."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Khẳng định lại độ ngon và ý định mua lại.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thèm",
+    "hấp dẫn",
+    "thơm",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Sốt rất là đậm đà, thơm nồng mùi tiêu nhưng mà không có bị đắng.",
+    "Thịt rất là mềm luôn. Trong thịt thì có xen kẽ như là gân với lại mỡ hay sao á.",
+    "Miếng sườn vậy thôi mà ăn được hai đợt luôn á."
+  ],
+  "hook_content": "Hey mọi người. Hôm nay lại thèm cái sườn bò của anh Nam nữa rồi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món sườn bò sốt tiêu đen mua từ một người bán tên Nam, tập trung vào hương vị đậm đà của sốt tiêu, độ mềm của thịt và trải nghiệm ăn hai bữa từ một miếng sườn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

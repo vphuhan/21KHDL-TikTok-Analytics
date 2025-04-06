@@ -1,0 +1,92 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bò nhồi mông cổ và lý do thực hiện.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê và sơ chế các nguyên liệu cần thiết.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Xử lý lá sách",
+      "desc": "Gặp sự cố với lá sách và đưa ra giải pháp.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị với cách xử lý"
+    },
+    {
+      "step": "Nhồi thịt và luộc",
+      "desc": "Nhồi thịt bò vào lá sách và đem đi luộc.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Làm sốt chấm",
+      "desc": "Hướng dẫn làm sốt chấm từ hẹ và táo.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử làm theo"
+    },
+    {
+      "step": "Trình bày và cắt",
+      "desc": "Cắt bò nhồi và cảm nhận âm thanh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Đánh giá hương vị và trải nghiệm món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi nghen."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "đã tay",
+    "thơm",
+    "dai giòn",
+    "mọng nước",
+    "vừa ăn",
+    "lạ miệng",
+    "hợp"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mê nhất là cái khúc cắt bò nè, nghe nó kêu bụp bụp mà đã tay lắm luôn.",
+    "bên ngoài dai giòn, bên trong thì mọng nước vừa ăn và đặc biệt siêu thơm mùi hành barô luôn.",
+    "Còn cái phần sốt chấm mới đầu tôi thấy ăn hơi lạ miệng mà ăn thì hợp với món này lắm luôn."
+  ],
+  "hook_content": "Hello mọi người, lại là tôi mập bự thích nấu ăn đây.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm món bò nhồi mông cổ, từ khâu chuẩn bị nguyên liệu, sơ chế, đến cách làm sốt chấm. Người làm chia sẻ trải nghiệm cá nhân và đánh giá hương vị món ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món cua nâu hấp muối ớt đỏ và người làm cùng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Chia sẻ về việc chọn cua đông lạnh thay vì cua sống.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin hữu ích."
+    },
+    {
+      "step": "Chế biến",
+      "desc": "Hướng dẫn cách làm món cua hấp muối ớt đỏ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với cách chế biến đơn giản."
+    },
+    {
+      "step": "Trình bày món ăn",
+      "desc": "Giới thiệu thành phẩm và cách ăn kèm.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng khi thấy món ăn hấp dẫn."
+    },
+    {
+      "step": "Đánh giá sản phẩm",
+      "desc": "Đánh giá về chất lượng món ăn và nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Ghi nhận thông tin đánh giá."
+    },
+    {
+      "step": "Gợi ý cải tiến",
+      "desc": "Đưa ra gợi ý để món ăn ngon hơn.",
+      "impact_level": "1",
+      "viewer_emotion": "Mong chờ phiên bản cải tiến."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cả nhà mua muối chính gốc Tây Ninh thì liên hệ với bên Thích Muối."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "siêu hấp dẫn",
+    "thơm chấn động",
+    "thèm ăn",
+    "ngon",
+    "béo",
+    "hơi bị khô"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cua hấp nó ra nước thấm vào muối ớt, bay cái mùi lên nó thơm chấn động.",
+    "Thiệt nghe cái mùi á một cái là thèm ăn, khô quẹt hơn là ăn cua luôn đó.",
+    "Cua này đúng là siêu gạch luôn cả nhà ơi."
+  ],
+  "hook_content": "Cua nau hấp muối ớt đỏ, món này có ai làm chưa cả nhà?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu món cua nâu hấp muối ớt đỏ do chính người quay thực hiện, chia sẻ về cách làm, nguyên liệu và đánh giá hương vị. Anh cũng gợi ý cách cải thiện món ăn và kêu gọi mua sản phẩm từ nhãn hàng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

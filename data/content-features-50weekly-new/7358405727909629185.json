@@ -1,0 +1,89 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu món trà sữa 160k và sự yêu thích topping.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về ly trà sữa đặc biệt."
+    },
+    {
+      "step": "Mở hộp",
+      "desc": "Mở hộp trà sữa và thất vọng về cách trình bày topping.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với sự thất vọng."
+    },
+    {
+      "step": "Đánh giá topping",
+      "desc": "Đánh giá chi tiết từng loại topping và giá cả.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích và chi tiết."
+    },
+    {
+      "step": "Đánh giá trà sữa",
+      "desc": "Nhận xét về vị trà sữa, độ ngọt và các thành phần khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn biết hương vị thực tế."
+    },
+    {
+      "step": "Khám phá topping lạ",
+      "desc": "Phát hiện topping lạ và nghi ngờ về chất lượng.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ và tò mò."
+    },
+    {
+      "step": "So sánh và kết luận",
+      "desc": "So sánh các loại thạch và đưa ra lời khuyên.",
+      "impact_level": "2",
+      "viewer_emotion": "Có cái nhìn tổng quan hơn."
+    },
+    {
+      "step": "Cảm nhận chung",
+      "desc": "Nhấn mạnh cảm giác ngán và vị chua của topping.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảnh giác và cân nhắc."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngán",
+    "ngậy",
+    "ok",
+    "chua"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "160.000đ một ly trà sữa.",
+    "Gấp hai lần ly trà sữa, bình thường thôi.",
+    "Sao trong cục khúc bạch nó có cái này vậy?"
+  ],
+  "hook_content": "Xin chào sữa có giá 160.000đ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review ly trà sữa topping \"siêu to khổng lồ\" giá 160k, tập trung vào đánh giá chi tiết từng loại topping, hương vị trà sữa và trải nghiệm cá nhân của người review. Người này vừa khen vừa chê, nhưng chủ yếu vẫn thấy ngán và thất vọng về một vài topping.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

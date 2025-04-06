@@ -1,0 +1,102 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Thông báo hũ tỏi ngâm vơi đi một nửa, cảm ơn người hỗ trợ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hũ tỏi ngâm và người được nhắc đến."
+    },
+    {
+      "step": "Kể chuyện hàng xóm",
+      "desc": "Chia sẻ về việc nấu bún bò mời hàng xóm mới chuyển đến.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị về mối quan hệ hàng xóm mới."
+    },
+    {
+      "step": "Tự đánh giá món ăn",
+      "desc": "Tự tin về món ăn do mình nấu, chấm điểm khiêm tốn.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường, không quá đặc sắc."
+    },
+    {
+      "step": "Tình huống nấu ăn",
+      "desc": "Kể về sự vội vã khi nấu bún cho người thân.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hài hước và thương cho người nấu."
+    },
+    {
+      "step": "Mô tả sự cố",
+      "desc": "Kể về sự cố ăn nhầm bát bún và nỗi lo tăng cân.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy buồn cười về sự đãng trí của người nấu."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Khen người yêu ăn ngon miệng, trêu đùa về việc mở kênh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy vui vẻ và thoải mái với sự hài hước."
+    },
+    {
+      "step": "Lời khuyên hài hước",
+      "desc": "Khuyên người yêu không nên mở kênh vì sợ cạnh tranh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị và hài hước về lời khuyên này."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "viewer Tú Tú sang cày view chị với nha đừng để c flop c quê lắm"
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon miệng",
+    "hốt hoảng",
+    "mong manh dễ vỡ",
+    "khen",
+    "yêu",
+    "đói",
+    "xoắn",
+    "giải cứu",
+    "vội vã",
+    "bình tĩnh",
+    "thấu đáo",
+    "ngon miệng",
+    "kinh khủng",
+    "suy nghĩ",
+    "sợ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nay thì cất công nấu bún bò bài bản nên là cũng ngỏ ý mời Tú Tú hàng xóm một bát, chứ từ ngày mình về đây chưa thấy một người hàng xóm nào khác ngoài bé Tú Tú cả.",
+    "Nấu bún bò xong mất trí nhớ còn ăn nhầm bát của anh Nguyên nữa cơ.",
+    "Ôi cái bún bò huế này thằng Hoàng nó ăn ngon miệng kinh khủng luôn ấy."
+  ],
+  "hook_content": "Rồi, hôm nay là kính mời bà con cô bác là ổn định chỗ ngồi ngay ngắn, để dự cái lễ kỷ niệm hũ tỏi ngâm xanh như Bali của trang tấm là chính thức vơi đi một nửa.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện"
+  ],
+  "summarization": "Video kể về việc Trang Tấm nấu bún bò mời hàng xóm mới và những tình huống hài hước xảy ra trong quá trình nấu nướng và thưởng thức món ăn. Cô cũng chia sẻ về những người thân yêu và trêu đùa về việc mở kênh TikTok.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

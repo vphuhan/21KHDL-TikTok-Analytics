@@ -1,0 +1,89 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán hủ tiếu mực mới mở ở Gò Vấp.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán mới."
+    },
+    {
+      "step": "Đánh giá topping",
+      "desc": "Nhấn mạnh topping tươi ngon, nhiều và tốc độ phục vụ nhanh.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng bởi sự tươi ngon."
+    },
+    {
+      "step": "Chi tiết mực tươi",
+      "desc": "Miêu tả cách bảo quản mực tươi và sự tự tin về chất lượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào độ tươi của mực."
+    },
+    {
+      "step": "Thông tin chi nhánh",
+      "desc": "Giới thiệu các chi nhánh khác và địa chỉ chi nhánh mới.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết thêm về thương hiệu."
+    },
+    {
+      "step": "Ưu đãi",
+      "desc": "Thông báo về chương trình giảm giá và tặng kèm.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú với ưu đãi."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Đánh giá độ tươi ngon và nước lèo ngọt thanh của món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử món ăn."
+    },
+    {
+      "step": "Giá và địa chỉ",
+      "desc": "Thông tin về giá cả và địa chỉ chi tiết của quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Nắm bắt thông tin quan trọng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Địa chỉ của quán Tỉnh Đại lại đây nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "tươi",
+    "ngọt thanh",
+    "cuốn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ở Gò Vấp vừa mới khai trương một cái quán hủ tiếu mực ngon và chất lượng lắm nè mọi người.",
+    "Đúng là không một ai kinh doanh mà nhận đồ ăn của mình không tươi đúng không? Nhưng mà tỉnh nhìn cái cách anh bảo quản mực, không nhận là nó tươi thiệt nha.",
+    "Cái nước lèo nó ngọt thanh càng ăn càng cuốn nha mọi người."
+  ],
+  "hook_content": "nước lèo thì chắc chắn phải có bột ngọt, nhưng mà mình phải có một cái lượng vừa đủ, người ta ăn nó sẽ không bị gì hết là ok rồi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu quán hủ tiếu mực 6 Quyết mới mở ở Gò Vấp, nổi bật với topping tươi ngon, phục vụ nhanh và nước lèo ngọt thanh. Quán đang có chương trình giảm giá và tặng kèm nước.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

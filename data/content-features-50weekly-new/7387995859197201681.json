@@ -1,0 +1,95 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về việc mua đồ ăn vặt tại Bách Hóa Xanh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về những món ăn được mua."
+    },
+    {
+      "step": "Liệt kê sản phẩm",
+      "desc": "Liệt kê các loại cá viên, bò viên, xúc xích đã mua.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, mang tính thông tin."
+    },
+    {
+      "step": "Chế biến",
+      "desc": "Trình bày quá trình chế biến các món ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Ít cảm xúc, tập trung vào quá trình."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Bắt đầu ăn và nhận xét về hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú, tò mò về hương vị."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Đánh giá chi tiết từng món ăn và chia sẻ cảm xúc.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thú vị với các đánh giá."
+    },
+    {
+      "step": "Thông tin ưu đãi",
+      "desc": "Nhấn mạnh ưu đãi mua 2 tính tiền 1 tại Bách Hóa Xanh.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến thông tin khuyến mãi."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Lời chào tạm biệt và hẹn gặp lại.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, mang tính lịch sự."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nhanh chân đến Bách Hóa Xanh nha bạn ơi.",
+    "Cảm ơn bạn đã xem video của Tóc Vàng."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo",
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "tuyệt vời",
+    "hấp dẫn",
+    "ngon",
+    "ngon quá",
+    "vừa ăn",
+    "ngon lắm luôn",
+    "ăn no nê"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Lâu rồi mới ăn được một bữa cá viên, bò viên ngon như vậy bạn.",
+    "Mùa Euro này á Bách Hóa Xanh bán nhiều đồ đông mát nè, ăn vặt dễ chế biến, nhanh gọn, đa dạng, ngon miệng, chống đói đêm khuya mà còn mua hai tính một quá là hời luôn bạn ơi.",
+    "Wow, wow ăn no nê luôn á bạn ơi."
+  ],
+  "hook_content": "Yeah, Euro đến rồi bạn, bạn phải đi tậu đồ ăn chống đói mà nhanh gọn dễ chế biến mới được.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video mukbang của Tóc Vàng Hoe giới thiệu mâm đồ chiên mua tại Bách Hóa Xanh nhân dịp Euro, với các món cá viên, bò viên, hot dog xúc xích được chế biến và thưởng thức. Video cũng nhấn mạnh chương trình khuyến mãi mua 2 tính tiền 1 hấp dẫn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

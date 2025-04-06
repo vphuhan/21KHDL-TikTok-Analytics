@@ -1,0 +1,89 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món gà hấp nấm và nguyên liệu chính.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Giới thiệu gà",
+      "desc": "Miêu tả con gà to, ôm trứng, hứa hẹn vị ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đặc biệt."
+    },
+    {
+      "step": "Giới thiệu nồi hấp",
+      "desc": "Giới thiệu nồi hấp Philips Viva, dung tích lớn.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin về sản phẩm."
+    },
+    {
+      "step": "Hấp gà và nấm",
+      "desc": "Hẹn giờ hấp gà trước, sau đó thêm nấm.",
+      "impact_level": "1",
+      "viewer_emotion": "Chờ đợi món ăn."
+    },
+    {
+      "step": "Giới thiệu muối ớt",
+      "desc": "Giới thiệu chén muối ớt cay tê tái.",
+      "impact_level": "2",
+      "viewer_emotion": "Kích thích vị giác."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Mở nồi, xé gà, chấm muối ớt và ăn nấm.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm giác thèm thuồng."
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng ăn món gà hấp nấm.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm giác thân thiện."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tui nhen."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "mọng nước",
+    "thèm",
+    "ngọt",
+    "mê",
+    "ngon ngất ngây"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Giờ tôi xé cái đùi gà nóng hổi mọng nước như vầy không biết có ai thèm không ta?",
+    "ăn thêm miếng nấm nữa chèn ơi nó ngon ngất ngây con gà tây luôn"
+  ],
+  "hook_content": "Hello mọi người, lại là tôi mập múp thích nấu ăn đây.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm món gà hấp nấm đơn giản tại nhà, sử dụng nồi hấp Philips Viva. Người làm giới thiệu các nguyên liệu, cách chế biến và mời mọi người cùng thưởng thức.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán ăn",
+      "desc": "Nhắc lại độ hot của quán ăn và tình hình hiện tại",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự thay đổi của quán"
+    },
+    {
+      "step": "Không gian quán",
+      "desc": "Quán có thêm chi nhánh mới, chi nhánh cũ vắng khách hơn",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không quá đặc biệt"
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Gọi món cũ để kiểm tra chất lượng so với trước đây",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với các món ăn được giới thiệu"
+    },
+    {
+      "step": "Gà nướng phô mai",
+      "desc": "Món gà nướng phô mai vẫn ngon như ngày đầu",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn ăn thử ngay lập tức"
+    },
+    {
+      "step": "Cơm và Udon",
+      "desc": "So sánh và đánh giá các món cơm và Udon khác nhau",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng món ăn"
+    },
+    {
+      "step": "Osaka Ramen",
+      "desc": "Đánh giá cao món Osaka Ramen, món nên gọi của quán",
+      "impact_level": "3",
+      "viewer_emotion": "Tin tưởng vào gợi ý của người đánh giá"
+    },
+    {
+      "step": "Thông tin quán",
+      "desc": "Cung cấp giờ mở cửa và địa chỉ của quán",
+      "impact_level": "1",
+      "viewer_emotion": "Cần thiết để ghé thăm quán"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "mê",
+    "ngon",
+    "thơm",
+    "mềm",
+    "thích",
+    "hùng hậu",
+    "tươi mềm",
+    "chưa bao giờ thất vọng",
+    "xứng đáng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Osaka, một quán Nhật với mức giá bình dân, từng rất hot vào thời điểm cách đây 5 năm bây giờ ra sao?",
+    "Vẫn gọi là những món cũ để xem chất lượng có thay đổi không?",
+    "Đến món cuối cùng cũng chính là linh hồn của quán, Osaka Ramen."
+  ],
+  "hook_content": "Osaka, một quán Nhật với mức giá bình dân, từng rất hot vào thời điểm cách đây 5 năm bây giờ ra sao?",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review quán ăn Osaka, một địa điểm nổi tiếng với các món Nhật bình dân. Người đánh giá đã thử các món ăn quen thuộc và nhận thấy chất lượng vẫn ổn định so với trước đây.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

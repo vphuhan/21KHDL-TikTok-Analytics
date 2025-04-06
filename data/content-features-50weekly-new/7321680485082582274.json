@@ -1,0 +1,78 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu các món ăn trong bữa cơm nhà và nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về công thức nấu các món ăn."
+    },
+    {
+      "step": "Chuẩn bị chả viên",
+      "desc": "Xay và trộn thịt với gia vị, vo thành viên vừa ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy quá trình làm chả viên khá đơn giản."
+    },
+    {
+      "step": "Chuẩn bị khổ qua xào trứng",
+      "desc": "Cắt khổ qua, hành tỏi và chuẩn bị trứng.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy các bước chuẩn bị quen thuộc."
+    },
+    {
+      "step": "Chiên chả viên",
+      "desc": "Chiên hoặc nướng chả viên đến khi vàng thơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn bởi màu vàng của chả viên."
+    },
+    {
+      "step": "Xào khổ qua với trứng",
+      "desc": "Xào hành tỏi, khổ qua rồi cho trứng vào xào cùng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với cách xào trứng không bị vụn."
+    },
+    {
+      "step": "Nấu canh tôm",
+      "desc": "Giã tôm, xào thơm rồi cho nước và rau vào nấu.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy món canh thanh mát, dễ nấu."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Công thức này thì cũng đơn giản và ít nguyên liệu nên mọi người nhớ thử nha, nấu ăn dễ lắm."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "vừa ý",
+    "thơm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Món này thì mọi người đừng có vo quá nhỏ nha, tại vì nó sẽ ra bớt mỡ ấy.",
+    "Khổ qua thì mọi người cắt lát hơi mỏng thôi, đừng có quá mỏng, nó sẽ ra nước ấy.",
+    "Đợi trứng nó hơi rắng một tí xíu thôi thì mọi người bắt đầu khuấy và đừng để phần trứng nó bị vụn ra quá nha."
+  ],
+  "hook_content": "Lâu lắm rồi mới có một bữa cơm nhà vừa ý để chia sẻ với mọi người.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ công thức nấu bữa cơm nhà đơn giản gồm chả viên, khổ qua xào trứng và canh tôm rau mồng tơi, đồng thời đưa ra một vài mẹo nhỏ khi nấu ăn.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

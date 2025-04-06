@@ -1,0 +1,87 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bản thân và quán",
+      "desc": "Tên Phúc, chủ quán súp chị Kiều, địa chỉ và giờ bán.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin cơ bản."
+    },
+    {
+      "step": "Nguồn gốc món ăn",
+      "desc": "Súp mì giòn được chế biến từ công thức mì xào giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị về sự kết hợp độc đáo."
+    },
+    {
+      "step": "Các loại súp và giá",
+      "desc": "Giới thiệu các loại súp và giá cả khác nhau.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích về giá cả."
+    },
+    {
+      "step": "Topping đa dạng",
+      "desc": "Liệt kê các loại topping phong phú và tươi ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với sự đa dạng của topping."
+    },
+    {
+      "step": "Nguồn gốc nguyên liệu",
+      "desc": "Nguồn gốc nguyên liệu tươi và đảm bảo chất lượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng món ăn."
+    },
+    {
+      "step": "Lý do tạo ra món ăn",
+      "desc": "Thích ăn nhiều topping nên tạo ra món ăn này.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với sở thích cá nhân."
+    },
+    {
+      "step": "Chia sẻ về khó khăn",
+      "desc": "Khó khăn khi buôn bán và sự ủng hộ của khách hàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm động trước sự vất vả và đam mê."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "trộm vía",
+    "ổn",
+    "ok"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Em thích ăn cho nên là như vậy.",
+    "Em chích từ công thức của mì xào giòn ra.",
+    "Tại vì cua mắc lắm, bán giá này thì nó không có nổi."
+  ],
+  "hook_content": "thì nhà em hồi xưa là bán hủ tiếu xào, mì xào giòn, cho nên là em chích từ công thức của mì xào giòn ra.",
+  "hook_type": [
+    "Kể chuyện",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện"
+  ],
+  "summarization": "Video giới thiệu quán súp chị Kiều ở Gò Vấp với món súp mì giòn độc đáo, nhiều topping. Chủ quán chia sẻ về nguồn gốc món ăn, các loại súp, nguyên liệu và khó khăn trong quá trình kinh doanh.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

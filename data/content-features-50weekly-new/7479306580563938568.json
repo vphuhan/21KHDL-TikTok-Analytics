@@ -1,0 +1,69 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món Oden của Nhật Bản và giá thành sản phẩm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Liệt kê topping",
+      "desc": "Liệt kê các loại topping có trong gói Oden.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Nếm thử và đánh giá",
+      "desc": "Thử từng loại topping và mô tả hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Đánh giá món Oden dựa trên hương vị nước dùng.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm thơm",
+    "dễ ăn",
+    "thanh đạm",
+    "ngọt ngọt",
+    "mặn mặn",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ngon bởi vì không phải vì cái topping đâu. Topping nó rất là bình thường thôi. Thế nhưng mà cái topping đấy nó ngon lên nhờ cái nước mà họ nấu.",
+    "Họ nấu với công thức là nó có nước tương này, có cái bột cá ngừ này và có cá ngừ thật người ta nấu cùng vào một số loại gia vị đặc trưng của họ nữa.",
+    "Họ nấu thành một cái nước mà nó có vị kiểu thanh đạm, ngọt ngọt, mặn mặn. Nói chung nó khá là ngon nha."
+  ],
+  "hook_content": "Chào mọi người nha. Ngày hôm nay mình sẽ trải nghiệm một cái món ăn của Nhật Bản, cái món này có tên là Oden.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món Oden của Nhật Bản, tập trung vào trải nghiệm cá nhân và đánh giá hương vị của các thành phần, đặc biệt là nước dùng. Người làm video đánh giá cao nước dùng thanh đạm, ngọt mặn hài hòa.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

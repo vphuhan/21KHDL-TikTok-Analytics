@@ -1,0 +1,87 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Nhấn mạnh sự 'mở mang' khi khám phá đồ ăn vặt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm được giới thiệu."
+    },
+    {
+      "step": "Hồi tưởng",
+      "desc": "Gợi nhắc ký ức tuổi thơ gắn liền với đồ ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy hoài niệm về tuổi thơ."
+    },
+    {
+      "step": "Thực tế nghiệt ngã",
+      "desc": "Xót xa cho hoàn cảnh khó khăn của người khác.",
+      "impact_level": "3",
+      "viewer_emotion": "Xúc động, đồng cảm với nhân vật."
+    },
+    {
+      "step": "Hành động",
+      "desc": "Giúp đỡ người có hoàn cảnh khó khăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy ấm áp và nhân văn."
+    },
+    {
+      "step": "Mua đồ ăn",
+      "desc": "Mua bánh và đồ ăn vặt cay cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với các món ăn được chọn."
+    },
+    {
+      "step": "Hành động lặp lại",
+      "desc": "Tiếp tục giúp đỡ người có hoàn cảnh khó khăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm phục tấm lòng nhân ái."
+    },
+    {
+      "step": "Kết",
+      "desc": "Tiếp tục mua đồ ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung vào các sản phẩm ăn uống."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Drama",
+    "Sáng tạo"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "yêu thương",
+    "trong sáng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mở mang khai nhãn.Mở mang ra thế giới.Mở mắt ra con.",
+    "Cho tình yêu trong sáng.Trở về cuộc sống yêu thương.Cho tình yêu thêm đẹp.",
+    "Xin đừng để những điều hối tiếc kia tiếp diễn."
+  ],
+  "hook_content": "Mở mang khai nhãn.Mở mang ra thế giới.Mở mắt ra con.",
+  "hook_type": [
+    "Gây tò mò",
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Kể chuyện",
+    "Kịch hóa"
+  ],
+  "summarization": "Video kể về câu chuyện một người mua đồ ăn vặt và giúp đỡ những người có hoàn cảnh khó khăn, lồng ghép yếu tố tình cảm và thông điệp ý nghĩa.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

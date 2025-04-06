@@ -1,0 +1,93 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món hoành thánh tự làm với giá rẻ và an toàn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "So sánh giá cả",
+      "desc": "So sánh giá hoành thánh tự làm và mua ngoài.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê và sơ chế các nguyên liệu làm nhân.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Xào nhân",
+      "desc": "Hướng dẫn xào khoai và nêm nếm gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "Gói hoành thánh",
+      "desc": "Hướng dẫn gói hoành thánh với nhân tự làm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Làm nước chấm",
+      "desc": "Hướng dẫn làm nước chấm tương ngon và an toàn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Chiên và thưởng thức",
+      "desc": "Hướng dẫn chiên hoành thánh giòn và thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Hào hứng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Gen Z"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "rẻ",
+    "vui",
+    "an toàn",
+    "bùi ngọt",
+    "bùi béo",
+    "giòn rụm",
+    "thơm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "với 37k mà mấy bà có tận 60 miếng hoành thánh để ăn",
+    "tiền ship hết 70k mà tôi làm cái mâm này có 37k, ngu gì mà tiếp",
+    "Người ta làm cái nhân đậu xanh, mình làm nhân khoai lang với khoai môn bùi béo ngon hơn nhiều"
+  ],
+  "hook_content": "với 37k mà mấy bà có tận 60 miếng hoành thánh để ăn, thả ra như vậy nè.",
+  "hook_type": [
+    "Cho thấy kết quả trước",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn cách làm hoành thánh chiên tại nhà với nhân khoai lang và khoai môn, vừa ngon, rẻ lại an toàn vệ sinh thực phẩm, phù hợp cho sinh viên và những người thích nấu ăn tại nhà.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

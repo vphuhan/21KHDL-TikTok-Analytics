@@ -1,0 +1,87 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Đặt câu hỏi về món ăn yêu thích khi đi biển",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Giới thiệu",
+      "desc": "Thèm ăn hàu nên mua 5kg về ăn cho đã",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Miêu tả",
+      "desc": "Miêu tả hàu sữa béo, nhỏ và cách luộc",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Mở hàu và thêm muối ớt để thưởng thức",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Đánh giá độ ngon và cảm giác khi ăn hàu",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Khẳng định độ ngon khi ăn nhiều hàu",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tui."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "béo",
+    "ngon",
+    "đã",
+    "cay",
+    "mê",
+    "mướt mượt",
+    "đỉnh",
+    "nóng mặt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nay hào chỗ tui nhỏ nhỏ dong dong như vậy là 40 cành một ký.",
+    "Mở ra con nào con nấy cũng ú nu mướt mượt nhìn mê chưa.",
+    "Húp vô một cái hời ơi nó béo mà bồng vị đã gì đâu."
+  ],
+  "hook_content": "Thường đi biển thì mọi người khoái ăn món gì nhất?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video chia sẻ trải nghiệm ăn hàu sữa luộc sả tại nhà, từ khâu mua hàu đến chế biến và thưởng thức. Người nói nhấn mạnh vị béo ngậy và cảm giác thỏa mãn khi ăn món này.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

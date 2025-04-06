@@ -1,0 +1,86 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món cá kho dưa và nhận xét của người xem",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Nấu cơm",
+      "desc": "Nhắc nhở nấu cơm để ăn kèm với món thịt kho dưa",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức"
+    },
+    {
+      "step": "Sơ chế thịt",
+      "desc": "Trần thịt qua nước nóng và thái miếng vừa ăn",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Xào thịt",
+      "desc": "Thắng đường làm nước màu rồi cho thịt vào đảo",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Nêm gia vị",
+      "desc": "Nêm gia vị gồm mì chính và nước mắm vừa ăn",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Kho dưa",
+      "desc": "Cho dưa chua và nước dưa vào đun cùng thịt",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Hoàn thành",
+      "desc": "Đun đến khi cạn nước, có thời gian thì đun hai lửa",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "các bác nhớ lưu lại video thịt kho dưa này nha",
+    "mời các bác ăn cùng với nhà tôi nha."
+  ],
+  "cta_type": [
+    "Lưu video",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "bắt cơm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Món này ngoài ngon ra thì còn rất bắt cơm, vậy nên là các bác nhớ kiểm tra kỹ xem đã bật nút nồi cơm chưa và nấu một nồi thật to vào.",
+    "Món này muốn ngon thì sẽ cần phải chọn dưa ngon, sau đó thì các bác sẽ đun cho đến khi cạn nước là được.",
+    "Nếu như mà có thời gian thì các bác đun hai lửa nha, thì sẽ mềm nhừ hơn."
+  ],
+  "hook_content": "Tôi lên cái video cá kho dưa theo công thức của bản thân mà các bác comment quá trời.",
+  "hook_type": [
+    "Phản hồi bình luận"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm món thịt kho dưa chua đơn giản, dễ làm tại nhà. Món ăn này rất ngon và hao cơm.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

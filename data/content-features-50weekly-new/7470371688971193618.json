@@ -1,0 +1,78 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Phản hồi bình luận",
+      "desc": "Đề cập đến bình luận của khách hàng về giá cả buffet.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "So sánh",
+      "desc": "So sánh giữa ăn cá viên truyền thống và ăn buffet.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Đề xuất lựa chọn",
+      "desc": "Đề xuất lựa chọn phù hợp với thói quen ăn uống khác nhau.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình"
+    },
+    {
+      "step": "Giới thiệu ưu đãi",
+      "desc": "Giới thiệu các ưu đãi của buffet 69k tại quán.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Mời trải nghiệm",
+      "desc": "Mời mọi người đến trải nghiệm buffet tại quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Kích thích"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Đó thì Trang mời mọi người cứ đến trải nghiệm nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "thoải mái",
+    "hấp dẫn",
+    "đáng tiền"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Với 69k ăn buffet ở nhà Trang thì cũng rất là đáng tiền nha."
+  ],
+  "hook_content": "69k ở ngoài ăn loài bản họng, phải đi ăn buffet chi trời.",
+  "hook_type": [
+    "Phản hồi bình luận",
+    "Gây tranh cãi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "So sánh",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video phản hồi bình luận về giá buffet 69k, so sánh với việc ăn cá viên truyền thống và giới thiệu các ưu đãi, khuyến khích mọi người đến trải nghiệm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

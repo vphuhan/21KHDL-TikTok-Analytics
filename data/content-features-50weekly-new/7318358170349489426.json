@@ -1,0 +1,89 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu xe khoai tây lốc xoáy",
+      "desc": "Nhấn mạnh giá rẻ và sự hào phóng của xe khoai tây.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ ngon và giá trị."
+    },
+    {
+      "step": "Chia sẻ về hoàn cảnh của người bán",
+      "desc": "Kể về việc gia đình cùng nhau bán khoai tây lốc xoáy.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm và quý trọng."
+    },
+    {
+      "step": "Nhấn mạnh chất lượng và sự hào phóng",
+      "desc": "Tập trung vào lượng phô mai nhiều và chất lượng.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và ấn tượng."
+    },
+    {
+      "step": "So sánh với các quán khác",
+      "desc": "Chỉ ra sự khác biệt về lượng phô mai so với quán khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự khác biệt rõ rệt."
+    },
+    {
+      "step": "Thông tin về nguồn gốc phô mai",
+      "desc": "Đảm bảo về nguồn gốc rõ ràng của bột phô mai.",
+      "impact_level": "2",
+      "viewer_emotion": "An tâm về chất lượng."
+    },
+    {
+      "step": "Đánh giá về giá cả",
+      "desc": "Đặt câu hỏi về mức giá rẻ hay mắc.",
+      "impact_level": "1",
+      "viewer_emotion": "Tự đánh giá và so sánh."
+    },
+    {
+      "step": "Cung cấp địa chỉ",
+      "desc": "Thông tin về địa điểm bán ở các quận khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức muốn đến thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "rẻ",
+    "hào phóng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Có phải đây là xe khoai tây lốc xoáy rẻ và hào phóng nhất Sài Gòn không mọi người?",
+    "Tại vì mấy cái chỗ mà tôi ăn trước đó, bỏ phô mai siêu ít luôn, trong lúc là có miếng có phô mai, miếng không phô mai á, còn đây chị đũa.",
+    "Nên là chị thấy không mai của em cho nhiều lắm."
+  ],
+  "hook_content": "những chỗ khác là người ta đã lên giá rất là lâu rồi. Nhưng mà em chưa có dám lên. Có phải đây là xe khoai tây lốc xoáy rẻ và hào phóng nhất Sài Gòn không mọi người?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video giới thiệu xe khoai tây lốc xoáy ở Sài Gòn với giá rẻ và lượng phô mai hào phóng, đồng thời chia sẻ về hoàn cảnh của người bán và cam kết về chất lượng sản phẩm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

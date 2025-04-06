@@ -1,0 +1,83 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu kế hoạch",
+      "desc": "Thông báo về việc sắp về Việt Nam và đi mua sắm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đi siêu thị",
+      "desc": "Gia đình đi siêu thị, thử đồ ăn và mua sắm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Mua sắm bánh kẹo",
+      "desc": "Chọn lựa và mua bánh kẹo làm quà cho người thân.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thành quả",
+      "desc": "Cho thấy thành quả mua sắm với rất nhiều đồ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Ăn gà rán",
+      "desc": "Cả nhà ăn gà rán và bạch tuộc xào cay.",
+      "impact_level": "3",
+      "viewer_emotion": "Hào hứng"
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Nhận xét về hương vị của gà rán và bạch tuộc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Cả nhà cùng nhau ăn uống vui vẻ.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thương",
+    "buồn",
+    "ngán",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Tuấn Hân dạo này nó thương em nó dữ lắm luôn á mọi người, thức dậy là hôn, tối trước khi đi ngủ là hôn.",
+    "Về lần này lại ngay đợt hè tha hồ chơi với Dì Út luôn rồi.",
+    "Cái da nó giòn dữ thiệt á"
+  ],
+  "hook_content": "Nay chủ nhật mà nếu không gì thay đổi chỉ còn một cái chủ nhật nữa thôi là ba mẹ con mình được về Việt Nam rồi đó.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh gia đình chuẩn bị về Việt Nam, đi siêu thị mua sắm và cùng nhau ăn gà rán. Mọi người trong gia đình đều rất vui vẻ và háo hức.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

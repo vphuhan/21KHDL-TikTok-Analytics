@@ -1,0 +1,65 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu gỏi cuốn tôm siêu bự và mời mọi người cùng ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Ăn và đánh giá",
+      "desc": "Thưởng thức gỏi cuốn và đưa ra cảm nhận về hương vị tôm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Thử nước sốt",
+      "desc": "Chấm gỏi cuốn vào nước sốt và nhận xét về độ vừa ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Phản ứng vị giác",
+      "desc": "Cảm nhận vị cay của nước sốt và thể hiện biểu cảm.",
+      "impact_level": "3",
+      "viewer_emotion": "Ngạc nhiên"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngọt",
+    "vừa ăn",
+    "cay"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Gỏi cuốn tôm siêu bự",
+    "Tôm ngọt quá mọi người",
+    "Cay quá"
+  ],
+  "hook_content": "Ăn gỏi cuốn với quanh nha mọi người.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang ngắn gọn ghi lại quá trình người nói ăn gỏi cuốn tôm, nhận xét về độ tươi ngon của tôm và vị cay của nước chấm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

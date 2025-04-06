@@ -1,0 +1,85 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu vấn đề",
+      "desc": "Đặt câu hỏi về giá phở đắt nhất từng ăn và tự trả lời.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về trải nghiệm của người nói."
+    },
+    {
+      "step": "Kể lại trải nghiệm",
+      "desc": "Chia sẻ trải nghiệm ăn phở đắt ở sân bay với giá 150k.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy bất ngờ và có chút không hài lòng."
+    },
+    {
+      "step": "Tả về món ăn",
+      "desc": "Miêu tả phở ít thịt, ít nước, không rau sống, không chanh.",
+      "impact_level": "1",
+      "viewer_emotion": "Thất vọng về chất lượng món ăn."
+    },
+    {
+      "step": "Giải thích",
+      "desc": "Đưa ra lý do có thể khiến phở ở đó đắt đỏ.",
+      "impact_level": "1",
+      "viewer_emotion": "Tạm chấp nhận lý do được đưa ra."
+    },
+    {
+      "step": "Chi tiết gây sốc",
+      "desc": "Phát hiện sâu trong rau ngót ăn kèm phở.",
+      "impact_level": "3",
+      "viewer_emotion": "Ghê sợ và mất cảm tình."
+    },
+    {
+      "step": "Tự trấn an",
+      "desc": "Nhớ lại kỷ niệm ăn rau không rửa khi còn nhỏ.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đỡ hơn và thông cảm."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Tiếp tục ăn phở dù thấy sâu trong rau.",
+      "impact_level": "1",
+      "viewer_emotion": "Tặc lưỡi chấp nhận và tò mò."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Kiến thức",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "sốc",
+    "đắt",
+    "quá sạch"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Bát phở đắt nhất mà mọi người từng ăn đó là bao nhiêu tiền?",
+    "Vừa ăn mà vừa thấy con sâu nó bò bò ấy mọi người ạ.",
+    "Cứ thế mà vẩy vẩy xong mình nấu mình ăn cũng trải qua như thế này cũng chả có bệnh gì thế là cứ tuốt và ăn thôi."
+  ],
+  "hook_content": "Bát phở đắt nhất mà mọi người từng ăn đó là bao nhiêu tiền?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video kể về trải nghiệm ăn bát phở đắt nhất ở sân bay với giá 150k, phở ít mà không có rau sống, sau đó phát hiện sâu trong rau ngót ăn kèm nhưng vẫn ăn tiếp vì nhớ lại kỷ niệm ăn rau không rửa khi còn nhỏ.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món cá nục kho măng, gợi ý thay đổi cách chế biến.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Giới thiệu bản thân",
+      "desc": "Tự giới thiệu là Bon, nội trợ và bán lạp xưởng, mắm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin cơ bản."
+    },
+    {
+      "step": "Chọn nguyên liệu",
+      "desc": "Chia sẻ kinh nghiệm chọn cá nục và sơ chế cá.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích, học được mẹo."
+    },
+    {
+      "step": "Sơ chế măng",
+      "desc": "Hướng dẫn sơ chế măng le, cách giảm độ chua.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến bí quyết làm măng ngon."
+    },
+    {
+      "step": "Xào măng",
+      "desc": "Hướng dẫn xào măng với tỏi và nêm nếm gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn, muốn thử làm theo."
+    },
+    {
+      "step": "Kho cá",
+      "desc": "Pha nước sốt, kho cá với măng và ớt.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy món ăn rất ngon và hấp dẫn."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Trình bày món ăn, ăn kèm rau muống luộc.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn được ăn ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "nên nếu chiều nay mà mấy chị không biết nấu cái món gì á thì có gì mình tham khảo thử cái món này nhen, bảo đảm không ngon cái gì em cũng chịu luôn á."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngán",
+    "hao cơm",
+    "ngon miệng",
+    "không ngán",
+    "ngon",
+    "ăn cay",
+    "hấp dẫn",
+    "đã",
+    "quất sạch bách",
+    "đơn giản mà ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trời ơi cái món này ta nói nó dễ làm nhưng mà nó hao cơm cực kỳ luôn á mấy chị ơi.",
+    "Mấy chị coi bộ cái nồi cá nục kho măng của em nó có hấp dẫn dễ sợ không?",
+    "Bới một tô cơm múc một con cá múc măng vô nữa thôi tao nói quất sạch bách luôn."
+  ],
+  "hook_content": "Cá nục mà mua về chiên hay kho hoài cũng ngán quá thì bữa nay mình đem đi kho măng thử nha mấy chị ơi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn nấu món cá nục kho măng, một món ăn đặc sản miền Trung, với các bước chi tiết từ sơ chế nguyên liệu đến khi hoàn thành món ăn, chia sẻ thêm về cách ăn kèm và sự giúp đỡ của người yêu.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

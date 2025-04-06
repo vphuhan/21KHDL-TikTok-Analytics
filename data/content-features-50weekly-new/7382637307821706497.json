@@ -1,0 +1,76 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu bánh tráng cuốn trứng lòng đào và trứng bớp.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn biết hương vị món ăn."
+    },
+    {
+      "step": "Thưởng thức bánh tráng lòng đào",
+      "desc": "Ăn và miêu tả hương vị bánh tráng cuốn lòng đào.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng và muốn ăn thử."
+    },
+    {
+      "step": "Thưởng thức bánh tráng trứng bớp",
+      "desc": "Ăn và miêu tả hương vị bánh tráng cuốn trứng bớp.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy món ăn hấp dẫn và muốn thử."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Đánh giá bánh tráng trứng bớp 10 điểm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá của người review."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người muốn bảo ăn thêm món gì thì bình luận cho bảo biết đó nha."
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "béo",
+    "chua chua",
+    "giòn",
+    "bá cháy bồ chét",
+    "đã"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trời ơi cái nước này là chấm ngon nhất trái đất luôn á mấy Kiều ơi.",
+    "Trứng lòng đào siêu béo luôn mọi người. Trộn thêm chút xíu me nó chua chua, thêm một xíu tóp mỡ giòn nữa. Bá cháy bồ chét thiệt sự.",
+    "10 điểm thôi."
+  ],
+  "hook_content": "Nay bảo thêm gì? Mời mọi người mút bánh, bánh tráng cuốn lòng đào.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video mukbang bánh tráng cuốn trứng lòng đào và trứng bớp của Bẻoo, tập trung vào việc thưởng thức và miêu tả hương vị của món ăn. Video có sử dụng nhiều từ ngữ thể hiện cảm xúc và kêu gọi người xem bình luận.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

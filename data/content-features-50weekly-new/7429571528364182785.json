@@ -1,0 +1,93 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Gọi món và trò chuyện",
+      "desc": "Gọi hai bát bún bung thập cẩm và hỏi về rau cần.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thủ tục thường thấy khi đi ăn."
+    },
+    {
+      "step": "Mua đồ ăn sáng cho người yêu",
+      "desc": "Hỏi người yêu muốn ăn gì và mua đồ ăn sáng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú, thấy được sự quan tâm."
+    },
+    {
+      "step": "Giới thiệu quán bún bung",
+      "desc": "Giới thiệu quán bún bung cô Hiếu gần Âu Cơ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về địa điểm được giới thiệu."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá vị nước lèo ngọt mát, nhẹ nhàng, tự nhiên.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hấp dẫn về món ăn."
+    },
+    {
+      "step": "Đánh giá topping",
+      "desc": "Đánh giá cao mọc thịt và sườn sụn của quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng các món topping."
+    },
+    {
+      "step": "So sánh giá cả",
+      "desc": "So sánh giá bún ở đây rẻ và đầy đặn hơn.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến giá cả hợp lý."
+    },
+    {
+      "step": "Trò chuyện với cô chủ",
+      "desc": "Hỏi cô Hiếu về đu đủ và dọc mùng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, cuộc hội thoại đời thường."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Nếu như các bạn cũng thích ăn bún bung thì hãy nốt lại nhá.",
+    "Giới thiệu toàn thể anh em bà con nhá. Đây là bún bung, bún dọc mùng của cô Hiếu ở trên phố, ăn bao đỉnh luôn."
+  ],
+  "cta_type": [
+    "Lưu video",
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thích",
+    "ngọt mát",
+    "nhẹ nhàng",
+    "vừa đậm đà",
+    "thơm hương"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mùa thu của Hà Nội là một cái gì đó thật đẹp, xong rồi lại còn là thật ngon nữa.",
+    "Vị ngọt của xì dầu cùng vị ngọt của phần thịt nó chảy ra, ăn tới đâu thích và ngon tới đó.",
+    "Đây là một quán bún bung rất ngon, nếu như các bạn cũng thích ăn bún bung thì hãy nốt lại nhá."
+  ],
+  "hook_content": "cho con một bát thập cẩm nhiều đồ, một bát nhiều đồ thập cẩm thành là hai bát nhá.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán bún bung cô Hiếu ở Hà Nội, tập trung vào hương vị nước lèo, topping và giá cả phải chăng. Người nói chia sẻ trải nghiệm cá nhân và đánh giá cao quán ăn này.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu tôm sắt",
+      "desc": "Giới thiệu về tôm sắt và sự tò mò về độ cứng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Hấp tôm",
+      "desc": "Chia sẻ cách hấp tôm với muối đơn giản, thơm ngon.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu muối ớt",
+      "desc": "Giới thiệu chén muối ớt đặc biệt ăn kèm tôm hấp.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Đánh giá chất lượng",
+      "desc": "Mô tả chi tiết về gạch, độ ngọt và độ chắc của tôm.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng"
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Khuyên mọi người nên thử tôm sắt nếu có cơ hội.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng thưởng thức tôm hấp.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "nhiều gạch",
+    "đã",
+    "cực kỳ chắc",
+    "ngọt",
+    "thơm",
+    "ngọt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nghe cái tên là biết con tôm này nó cứng dữ lắm, nhưng mà ăn vô thì hơi bị bất ngờ nha.",
+    "Phải nói thịt con này cực kỳ ngọt và đặc biệt rất rất chắc và nhiều gạch.",
+    "Tuy hơi nhỏ nhưng mà ăn miếng nào là chất lượng bá cháy miếng đó nha."
+  ],
+  "hook_content": "Ăn nhiều lỡ tôm rồi mà mọi người có bao giờ thử con tôm sắt chưa?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món tôm sắt hấp muối, tập trung vào việc mô tả độ ngon, độ chắc của thịt tôm và đặc biệt là phần gạch tôm béo ngậy. Người nói khuyến khích mọi người nên thử món này nếu có dịp.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu chai nước ngọt có cách sử dụng kỳ lạ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Hướng dẫn sử dụng",
+      "desc": "Thực hiện các bước mở và sử dụng chai nước.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Mô tả cảm quan",
+      "desc": "Mô tả mùi thơm và viên bi lạ bên trong.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Nếm thử và đánh giá",
+      "desc": "Đánh giá hương vị và cảm nhận sau khi uống.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Thắc mắc về viên bi",
+      "desc": "Băn khoăn về công dụng của viên bi trong chai.",
+      "impact_level": "1",
+      "viewer_emotion": "Hoang mang"
+    },
+    {
+      "step": "So sánh hương vị",
+      "desc": "So sánh với các loại nước dứa khác và 7Up.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Kết luận và hỏi ý kiến",
+      "desc": "Đánh giá chung và đặt câu hỏi cho người xem.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bạn nào mà biết thì có thể giải thích giúp mình."
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Đặt câu hỏi"
+  ],
+  "emotion_keywords": [
+    "hợp khẩu vị",
+    "lạ",
+    "chua ngọt",
+    "ok"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đây là một cái chai nước ngọt mà có cái cách sử dụng rất là kỳ lạ.",
+    "Cái mùi thơm của nó như kiểu mùi thơm của dứa xanh ấy, chứ không phải dứa chín.",
+    "Chốt lại thì uống cũng rất là ok nhưng mà cái viên bi này thì mình vẫn chưa biết công dụng của nó là gì luôn."
+  ],
+  "hook_content": "Đây là một cái chai nước ngọt mà có cái cách sử dụng rất là kỳ lạ.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review một loại nước dứa của Nhật Bản với cách sử dụng độc đáo và một viên bi bí ẩn bên trong. Người review đánh giá hương vị khá ngon nhưng vẫn chưa hiểu công dụng của viên bi và hỏi ý kiến khán giả.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

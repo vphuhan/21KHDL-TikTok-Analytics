@@ -1,0 +1,79 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu cà phê Laura của Nhật Kim Anh có nấm linh chi",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về thành phần"
+    },
+    {
+      "step": "Miêu tả hương vị",
+      "desc": "Miêu tả vị cà phê đậm đà, thơm béo, không chua miệng",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với hương vị"
+    },
+    {
+      "step": "Quảng cáo lợi ích",
+      "desc": "Uống cà phê tràn đầy năng lượng, vừa ngon vừa khỏe",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào lợi ích"
+    },
+    {
+      "step": "Ưu đãi đặc biệt",
+      "desc": "Mua hai hộp cà phê được tặng bình xỉn",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú với ưu đãi"
+    },
+    {
+      "step": "Mời dùng thử",
+      "desc": "Mời mọi người cùng ăn xoài với Thanh",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Chốt hai hộp cà phê Laura á là được một bình xỉn như thế này nha.",
+    "Tranh thủ hốt lắm mọi người ơi."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm béo",
+    "tràn đầy năng lượng",
+    "vừa ngon vừa khỏe"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cà phê có hai loại nấm linh chi và đông trùng hạ thảo, vị thì đậm đà, thơm béo, mà khi uống á không có bị chua miệng.",
+    "Laura cà phê á vừa ngon vừa khỏe, ai mỏng thích nè.",
+    "Chốt hai hộp cà phê Laura á là được một bình xỉn như thế này nha."
+  ],
+  "hook_content": "Nè á, Thanh hái được trái chanh to lắm luôn. Mà trước khi ăn á, Thanh sẽ pha ly cà phê uống cái đã.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu và review cà phê Laura của Nhật Kim Anh, nhấn mạnh vào hương vị thơm ngon, lợi ích sức khỏe và chương trình khuyến mãi hấp dẫn khi mua sản phẩm. Cuối video, người tạo nội dung mời mọi người cùng ăn xoài.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

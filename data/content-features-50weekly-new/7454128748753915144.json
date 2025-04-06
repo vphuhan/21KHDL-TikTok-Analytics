@@ -1,0 +1,81 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu thử thách",
+      "desc": "Nấu 10 phần rau câu flan cà phê phô mai để tặng bạn xem video.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quá trình thực hiện thử thách."
+    },
+    {
+      "step": "Nấu rau câu",
+      "desc": "Nấu rau câu với số lượng lớn, sử dụng nguyên liệu xịn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự chuẩn bị kỹ lưỡng."
+    },
+    {
+      "step": "Sử dụng sản phẩm",
+      "desc": "Sử dụng bọt tuyết Sunlight Powerfoam để lau bếp nhanh chóng.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến khả năng làm sạch của sản phẩm."
+    },
+    {
+      "step": "Làm sạch các vật dụng",
+      "desc": "Làm sạch cặn rau câu, vết dầu mỡ và tấm hút mùi.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với hiệu quả làm sạch của sản phẩm."
+    },
+    {
+      "step": "Tổng kết",
+      "desc": "Nhà sạch thì nhà bạn cũng phải sạch, tặng sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy được khuyến khích sử dụng sản phẩm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn bạn vì đã coi đến đây, mình ăn ngon thì bạn cũng phải ăn ngon, nhà mình sạch thì nhà bạn cũng phải sạch chứ, nên là thôi mình bỏ luôn cái chai này cho bạn dùng thử nha, dùng là ghiền á.",
+    "Mình thì ở Tân Bình còn 10 bạn ngẫu nhiên của tui ơi bạn ở đâu vậy cho tui biết với."
+  ],
+  "cta_type": [
+    "Chia sẻ",
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "yên tâm",
+    "thơm",
+    "dễ chịu",
+    "sạch sẽ",
+    "ghiền"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "chỉ 5 giây là đánh bay mọi vết bẩn",
+    "Bọt tuyết mềm mịn mùi thơm dễ chịu lắm, 100% thành phần là từ thiên nhiên nên là an toàn với các bề mặt bếp.",
+    "mình ăn ngon thì bạn cũng phải ăn ngon, nhà mình sạch thì nhà bạn cũng phải sạch chứ"
+  ],
+  "hook_content": "lại tiếp tục series mình ăn ngon thì bạn cũng thế.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video này giới thiệu thử thách nấu rau câu flan cà phê phô mai và sử dụng bọt tuyết Sunlight Powerfoam để làm sạch bếp. Người nói chia sẻ trải nghiệm cá nhân và khuyến khích người xem sử dụng sản phẩm để giữ nhà cửa sạch sẽ.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

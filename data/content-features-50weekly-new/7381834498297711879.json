@@ -1,0 +1,93 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món mực trứng hấp hành và nguyên liệu tươi ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Sơ chế và ướp mực",
+      "desc": "Mô tả cách ướp mực với gia vị đơn giản.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Hấp mực và pha cà phê",
+      "desc": "Trong lúc chờ mực chín thì giới thiệu cà phê.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Ăn mực hấp với muối ớt và thể hiện cảm xúc.",
+      "impact_level": "3",
+      "viewer_emotion": "Ghen tị"
+    },
+    {
+      "step": "Đặt câu hỏi tương tác",
+      "desc": "Tạo tương tác bằng cách hỏi về trứng mực.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Kết luận và mời ăn",
+      "desc": "Khẳng định độ ngon và mời mọi người cùng ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ai biết thì comment giải đáp cho tôi biết với nha.",
+    "Giờ thì mời mọi người ăn chung với tôi nghe."
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngọt",
+    "đậm đà",
+    "sảng khoái",
+    "ngon",
+    "khỏe",
+    "cay",
+    "thơm phức",
+    "bùi",
+    "béo",
+    "ngon ghê",
+    "ngon số dách"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mực trứng thì mọi người thường làm món gì ngon, chứ tôi khoái nhất là đem đi hấp hành tại đơn giản mà ăn thì nó ngọt dữ lắm.",
+    "Ta nói cà phê gì mà vừa ngon mà còn khỏe nữa, bảo sao ai cũng mê Lora cà phê là đúng rồi.",
+    "Ta nói mực thì ngập ngụi trứng, bùi béo ăn chung với chén muối ớt của tôi thiệt tình là ngon số dách luôn."
+  ],
+  "hook_content": "Hello mọi người, lại là tôi Mật Bật thích nấu ăn đây. Nay mọi người cùng tôi làm mực trứng hấp hành ăn nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm món mực trứng hấp hành đơn giản, chia sẻ trải nghiệm cá nhân và mời mọi người cùng thưởng thức. Đồng thời, video lồng ghép giới thiệu sản phẩm cà phê.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước",
+    "Hào hứng"
+  ]
+}

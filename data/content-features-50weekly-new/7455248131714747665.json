@@ -1,0 +1,91 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món tai heo ngâm chua ngọt tự làm tại nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách làm."
+    },
+    {
+      "step": "Chia sẻ hoàn cảnh",
+      "desc": "Chia sẻ giá tai heo tăng cao và giới thiệu bản thân.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Sơ chế tai heo",
+      "desc": "Hướng dẫn làm sạch và luộc tai heo với các gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích."
+    },
+    {
+      "step": "Xử lý sau luộc",
+      "desc": "Hướng dẫn cách làm tai heo săn và không bị thâm.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Hướng dẫn chuẩn bị ớt và hành tím để ngâm cùng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Cắt và bóp tai heo",
+      "desc": "Hướng dẫn cắt mỏng và bóp tai heo với chanh, muối, đường.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy có mẹo hay."
+    },
+    {
+      "step": "Làm nước ngâm",
+      "desc": "Hướng dẫn làm nước ngâm theo tỷ lệ và các bước.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn làm theo."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Nếu mà không có ngon á, bắt đền em nè."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "giòn",
+    "chua chua ngọt ngọt",
+    "đã",
+    "thơm",
+    "hấp dẫn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tết này không còn tốn tiền mua tai heo ngâm chua ngọt ăn nữa rồi mà tự làm ăn luôn siêu dễ",
+    "Tay heo á thì luộc tầm khoảng 20 tới 25 phút, khi nào nó chín á thì mấy chị vớt ra. Vớt ra xong là mấy chị thả vô cái thau nước đá lạnh cho em liền nghe.",
+    "Một cái kinh nghiệm ngâm tay heo của em á là khi mà mấy chị làm cái nước ngâm á, đừng có làm bị chua quá, chua quá là mấy chị không có để lâu được đâu"
+  ],
+  "hook_content": "Tết này á không có cần tốn tiền mua tay heo ngâm chua ngọt nữa đâu mà mình tự làm ăn luôn mấy chị ơi, dễ lắm.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm tai heo ngâm chua ngọt tại nhà một cách đơn giản và dễ thực hiện, phù hợp cho cả những người không biết nấu ăn. Bon chia sẻ các mẹo để tai heo trắng, giòn và bảo quản được lâu.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu kẹo sáp hình con khỉ và review tổng quan.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hình dáng và hương vị."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Miêu tả hương vị chua ngọt bên trong và cảm giác phê.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn ăn thử."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "chua chua ngọt ngọt",
+    "phê"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Vỏ ngoài thì giòn nhưng bên trong thì chua chua ngọt ngọt",
+    "có thệt nữa dài dài quá là phê"
+  ],
+  "hook_content": "Review cả thế giới kẹo sáp hình con khỉ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review kẹo sáp hình con khỉ với lớp vỏ giòn, nhân chua ngọt và cảm giác 'phê' khi ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

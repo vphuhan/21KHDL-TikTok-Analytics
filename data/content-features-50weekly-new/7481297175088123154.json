@@ -1,0 +1,75 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bọ biển giá 1,3 triệu đồng và nguồn gốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn đắt tiền."
+    },
+    {
+      "step": "Sơ chế và chế biến",
+      "desc": "Luộc sơ và nướng mỡ hành bọ biển.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy quá trình chế biến hấp dẫn."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nếm thử và mô tả hương vị của bọ biển.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung vào cảm nhận hương vị."
+    },
+    {
+      "step": "So sánh và kết luận",
+      "desc": "So sánh với ghẹ, đánh giá giá trị và trải nghiệm.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thông tin hữu ích."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "nếu như coi thấy là mắc hay rẻ thì mọi người click comment mà có ngon hay là không ngon mọi người click comment mà mọi người muốn ăn quán nào thì mọi người cứ comment nha, bye bye."
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Chia sẻ"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "mặn",
+    "béo",
+    "ngọt",
+    "ghét"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "1,3 triệu của tôi mà sao mà ăn có gì một thoáng.",
+    "Bỏ 1,3 triệu ra ngồi nó thấy liếm được 5 phút.",
+    "Thịt của nó thì bằng à nửa à nửa con ghẹ, nửa con cua á."
+  ],
+  "hook_content": "Trời ơi, 1,3 triệu của tôi mà sao ăn có gì một thoáng.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review món bọ biển giá 1,3 triệu, tập trung vào trải nghiệm ăn thử, đánh giá hương vị so với ghẹ và chia sẻ cảm nhận về giá trị của món ăn.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

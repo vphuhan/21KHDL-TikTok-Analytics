@@ -1,0 +1,85 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về việc gói bánh tét chuẩn bị cho đám giỗ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Gói bánh tét",
+      "desc": "Miêu tả công đoạn gói bánh tét với nhân đậu, chuối.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Luộc bánh tét",
+      "desc": "Chia sẻ công đoạn luộc bánh tét và thời gian nấu.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chuẩn bị ốc nướng",
+      "desc": "Chuẩn bị ốc và nước sốt tiêu xanh để nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức"
+    },
+    {
+      "step": "Hoàn thành bánh tét",
+      "desc": "Bánh tét chín và được vớt ra để nguội.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Nướng ốc",
+      "desc": "Nướng ốc bưu và ốc bưu vàng với sốt tiêu xanh.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Mời mọi người cùng ăn ốc nướng tiêu xanh.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấm cúng"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "cay",
+    "ngọt",
+    "thèm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cắt cái đòn bánh ra mà ta nói nó ngon quá chừng luôn á mọi người.",
+    "Con nào con nấy ú nu ú nần luôn.",
+    "Tiết đang nóng rồi ngồi kế bên cái bếp than này nữa ta nói là như xông hơi mới ra luôn á."
+  ],
+  "hook_content": "Nhà mình gói bánh để chuẩn bị đám giỗ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình chuẩn bị đám giỗ của một gia đình, từ gói bánh tét đến làm món ốc bươu nướng tiêu xanh. Mọi người cùng nhau làm bánh và thưởng thức món ốc nướng thơm ngon.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

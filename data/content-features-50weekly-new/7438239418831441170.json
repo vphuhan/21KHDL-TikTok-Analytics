@@ -1,0 +1,91 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về việc trở lại Hàn Quốc và chuẩn bị nấu bánh xèo.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin cơ bản về cuộc sống thường ngày."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Đi chợ mua nguyên liệu và củ dền để làm bánh xèo hai màu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị khi thấy sự chuẩn bị cho món ăn đặc biệt."
+    },
+    {
+      "step": "Pha bột",
+      "desc": "Pha bột gạo và bột bánh xèo, chia sẻ tỷ lệ pha trộn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị với bí quyết làm bánh xèo giòn."
+    },
+    {
+      "step": "Ướp nhân",
+      "desc": "Ướp thịt, mực, tôm với gia vị để làm nhân bánh xèo.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, quá trình chuẩn bị nhân bánh."
+    },
+    {
+      "step": "Đổ bánh",
+      "desc": "Bắt đầu đổ bánh xèo với màu hồng từ củ dền.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị khi thấy màu sắc đẹp mắt của bánh."
+    },
+    {
+      "step": "Pha nước mắm",
+      "desc": "Pha nước mắm Chin-su cá cơm biển Đông để ăn kèm.",
+      "impact_level": "3",
+      "viewer_emotion": "Phấn khích khi thấy món nước mắm quen thuộc."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Ba Tụ Hơn ăn thử bánh xèo và khen ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Phấn khích khi thấy phản ứng tích cực."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ghiền",
+    "ngon",
+    "đẹp",
+    "giòn",
+    "thơm",
+    "hết hồn",
+    "mệt",
+    "yêu thích"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ở bên này bây giờ cái gì nó cũng có mọi người, thuận mùa hay nghịch mùa, muốn ăn cái gì là cũng có, chỉ có điều là mắc hay rẻ thôi nha.",
+    "Đúng là nước mắm Chin-su cá cơm biển Đông, nước mắm quốc dân mà giờ qua tới bên Hàn luôn.",
+    "Ăn món Việt là phải có nước mắm Việt mới chịu nha."
+  ],
+  "hook_content": "chuyện về lại hàng sau 7 ngày ở Việt Nam của bọn mình.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình trở lại Hàn Quốc sau chuyến đi Việt Nam và nấu món bánh xèo miền Trung hai màu cho ba Tụ Hơn. Video tập trung vào quá trình chuẩn bị nguyên liệu, pha bột, đổ bánh và đặc biệt nhấn mạnh vào việc sử dụng nước mắm Chin-su cá cơm biển Đông.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

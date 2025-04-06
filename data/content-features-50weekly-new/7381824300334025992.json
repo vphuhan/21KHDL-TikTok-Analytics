@@ -1,0 +1,67 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu vấn đề",
+      "desc": "Con nhõng nhẽo, vợ chồng mất ngủ, bác sĩ khám và đi chợ.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm với tình trạng của em bé."
+    },
+    {
+      "step": "Chuẩn bị nấu súp",
+      "desc": "Hầm xương, luộc xương, bỏ nước đầu, rửa sạch xương.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách nấu súp."
+    },
+    {
+      "step": "Nấu súp bào ngư",
+      "desc": "Phi tỏi gừng, cho hải sản, nấm đông trùng, nêm gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn với món súp bào ngư."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Mời chồng ăn cơm, cùng nhau thưởng thức súp bào ngư.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú với món ăn mới."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "ga lăng",
+    "buồn",
+    "thèm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Anh thèm dưa hấu mà nghĩ tới cái cảnh hai mẹ con vác trái dưa hấu này về thì không biết chừng nào mới về tới nhà.",
+    "Có nhiêu đó cho hầm bà lằng vô, nấu lên cho chín vậy là xong vậy mà cũng chia sẻ.",
+    "ăn nồi bánh chưng ăn bào ngư thì cũng nhiều rồi. Đây là lần đầu tiên mình nấu súp bào ngư á."
+  ],
+  "hook_content": "Bữa nay Tùng Hưng nhà mình nó lại nhõng nhẽo rồi đây. Tối hôm qua hai vợ chồng mình mất ăn mất ngủ với nó luôn.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ về quá trình nấu món súp bào ngư sâm biển nấm đông trùng hạ thảo để bồi bổ cho con. Người mẹ vừa nấu vừa chia sẻ những suy nghĩ, trải nghiệm cá nhân khi chăm sóc con nhỏ.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

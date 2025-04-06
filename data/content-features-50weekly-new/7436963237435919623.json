@@ -1,0 +1,95 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu bằng câu hỏi",
+      "desc": "Trả lời câu hỏi thường gặp về buffet xiên que 69k.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các ưu đãi của quán."
+    },
+    {
+      "step": "Giới thiệu ưu đãi",
+      "desc": "Liệt kê các loại topping, món ăn kèm, và phí chế biến.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng của món ăn."
+    },
+    {
+      "step": "Giải thích về giá",
+      "desc": "Giải thích lý do giá 69k không bao gồm nước uống.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm với quán."
+    },
+    {
+      "step": "Giới thiệu đồ uống",
+      "desc": "Giới thiệu các loại nước uống có giá từ 10-15k.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy chấp nhận được."
+    },
+    {
+      "step": "Gói buffet nước",
+      "desc": "Giới thiệu gói buffet nước 25k với nhiều lựa chọn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn với ưu đãi."
+    },
+    {
+      "step": "Quy định về nước ngoài",
+      "desc": "Thông báo về việc hạn chế mang đồ uống từ bên ngoài.",
+      "impact_level": "1",
+      "viewer_emotion": "Chấp nhận quy định."
+    },
+    {
+      "step": "Lời kêu gọi",
+      "desc": "Mời khách ghé quán từ 15 giờ hàng ngày.",
+      "impact_level": "1",
+      "viewer_emotion": "Có thể sẽ ghé thăm."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mấy bạn đi học đi làm về sớm ghé ủng hộ Trang nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "thoải mái",
+    "thả ga",
+    "phong phú",
+    "đa dạng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Búp phê xiên que 69k là đã bao gồm nước chưa chị ơi?",
+    "Với cái giá 69k mà nhiều ưu đãi nên như vậy á thì Trang sẽ không thể nào mà bao gồm nước cho mọi người nha.",
+    "Vị chi mọi người chi khoảng 4k cho một loại nước thôi mà sẽ được uống thả ga thoải mái luôn nha."
+  ],
+  "hook_content": "Búp phê xiên que 69k là đã bao gồm nước chưa chị ơi? Em có thể mang nước từ bên ngoài vào quán không ạ?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Phản hồi bình luận"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video giải đáp thắc mắc của khách hàng về buffet xiên que 69k, bao gồm các ưu đãi, giá cả và quy định về nước uống, đồng thời mời khách ghé thăm quán.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

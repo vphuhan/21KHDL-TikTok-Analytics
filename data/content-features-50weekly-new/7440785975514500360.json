@@ -1,0 +1,54 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Hỏi về món trứng đánh kem và các món khác tại quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán và các món đồ uống."
+    },
+    {
+      "step": "Trò chuyện với chủ quán",
+      "desc": "Hỏi về thâm niên của quán và kỷ niệm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với câu chuyện lịch sử của quán."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Truyền thống"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "tươi cười",
+    "suy tư"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Trứng đánh kem Phố cổ tuổi thơ của ai đây??",
+    "Cô bán bao nhiêu năm rồi? 40 năm.",
+    "Tôi vội vàng nụ cười ấy ngập tràn."
+  ],
+  "hook_content": "Tôi còn trừ đánh kem không ạ?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video giới thiệu về quán trứng đánh kem Phố cổ lâu đời, gợi lại ký ức tuổi thơ. Người bán hàng đã bán quán này được 40 năm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

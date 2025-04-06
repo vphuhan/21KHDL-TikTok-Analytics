@@ -1,0 +1,81 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán trà sữa ống tre mới lạ tại Hà Nội.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán mới."
+    },
+    {
+      "step": "Đánh giá đồ uống",
+      "desc": "Nhận xét về trà sữa nướng, kem tươi và topping.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món trà sữa."
+    },
+    {
+      "step": "Đánh giá topping",
+      "desc": "Đánh giá các loại topping và bánh trứng chảy.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử các loại topping."
+    },
+    {
+      "step": "Thông tin địa điểm",
+      "desc": "Chia sẻ về không gian quán và vị trí thuận tiện.",
+      "impact_level": "1",
+      "viewer_emotion": "Quan tâm đến địa điểm."
+    },
+    {
+      "step": "Kêu gọi tham khảo",
+      "desc": "Khuyến khích mọi người đến Dallas Tea trải nghiệm.",
+      "impact_level": "1",
+      "viewer_emotion": "Cân nhắc ghé thăm."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Và đây là Dallas Tea, mọi người tham khảo thử xem sao."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "xinh",
+    "béo ngậy",
+    "thơm",
+    "ngon",
+    "dẻo"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Thật sự nể phục các pháp sư Trung Hoa luôn, cứ vài tháng là lại cho ra một chen mới.",
+    "Đây có lẽ là chen mình thích nhất vì thân thiện với môi trường, có thể tái sử dụng ấm che mang về dùng tiếp được nha."
+  ],
+  "hook_content": "ơi cho em hỏi đây là gì mà xinh thế ạ?",
+  "hook_type": [
+    "Gây tò mò",
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu quán trà sữa ống tre Dallas Tea mới lạ tại Hà Nội, đánh giá hương vị trà sữa nướng, kem tươi béo ngậy và các loại topping hấp dẫn, đồng thời cung cấp thông tin về địa điểm và không gian quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

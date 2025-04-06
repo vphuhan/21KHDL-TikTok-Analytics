@@ -1,0 +1,72 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món Phật Nhảy Tường vừa quay video xong.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Bé Sâu ăn và cảm nhận vị béo ngậy, thơm ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy ngon miệng."
+    },
+    {
+      "step": "Thử hải sâm",
+      "desc": "Khám phá và miêu tả vị giòn của hải sâm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với trải nghiệm mới."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Bé Sâu khen ngon và được hứa mua cho lần sau.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp và vui vẻ."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thích",
+    "ngon",
+    "béo",
+    "ngậy",
+    "thơm",
+    "ngon lắm",
+    "giòn",
+    "thèm",
+    "ngon quá"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Con thấy vị của nó béo béo ngậy ngậy gì ạ?",
+    "Con này ăn nó sẽ hơi giòn giòn gì cũng thấy khá là ngon.",
+    "Ăn phần nhể từ ngon quá."
+  ],
+  "hook_content": "Wow, đây có phải là món phần nhể từ mới đi quay ở trong video không ạ?",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh bé Sâu mukbang món Phật Nhảy Tường và hải sâm. Bé Sâu thích thú với món ăn và khen ngon.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

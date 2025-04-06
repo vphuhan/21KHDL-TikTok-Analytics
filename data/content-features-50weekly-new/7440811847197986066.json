@@ -1,0 +1,104 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu bánh Matcha Red Pudding và các địa điểm mua.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các địa điểm mua bánh."
+    },
+    {
+      "step": "Đánh giá 1",
+      "desc": "Đánh giá chi tiết bánh Matcha Red Pudding của Red Bond.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến hương vị và chất lượng."
+    },
+    {
+      "step": "Đánh giá 2",
+      "desc": "Đánh giá bánh Matcha Red Pudding của Vbao, so sánh vỏ bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với so sánh chi tiết."
+    },
+    {
+      "step": "Đánh giá 3",
+      "desc": "Đánh giá bánh sô cô la của quán, so sánh độ lớn.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với kích thước bánh."
+    },
+    {
+      "step": "So sánh tổng quan",
+      "desc": "So sánh tổng quan và gợi ý lựa chọn theo sở thích.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy hữu ích và dễ lựa chọn."
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Đưa ra lời khuyên về việc tin vào trải nghiệm cá nhân.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình với quan điểm cá nhân."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người đã coi clip của em.",
+    "Bye bye."
+  ],
+  "cta_type": [
+    "Follow kênh",
+    "Bình luận",
+    "So sánh"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "nồng nàn",
+    "béo",
+    "ngọt",
+    "khó chịu",
+    "tanh",
+    "mặn",
+    "vừa",
+    "dễ chịu",
+    "ấn tượng",
+    "đắng",
+    "đại trà",
+    "OK",
+    "thỏa mãn",
+    "nhẹ nhàng",
+    "hiền thục",
+    "đậm đà"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái gì dễ người ta mua, còn cái gì mà bắt tao đợi hả. Biến biến biến.",
+    "Ăn cái kem Matcha mình cảm giác là cái Matcha kiểu là không có rẻ tiền đó mọi người.",
+    "Review là không tin, không tin bất kỳ một ai hết. Hãy tin chính cái đôi môi hãy tin chính chiếc lưỡi của mình."
+  ],
+  "hook_content": "Trên mạng bánh Matcha Red Pudding nha mọi người. Ngoài đời bánh Matcha Red Pudding.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review bánh Matcha Red Pudding từ ba tiệm khác nhau, so sánh hương vị, chất lượng và đưa ra lời khuyên lựa chọn theo sở thích cá nhân. Người nói nhấn mạnh tầm quan trọng của trải nghiệm cá nhân khi đánh giá món ăn.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

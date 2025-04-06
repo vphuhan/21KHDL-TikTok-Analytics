@@ -1,0 +1,81 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu về sự hào phóng của quán bún bò Huế O A Bình.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Trải nghiệm thực tế",
+      "desc": "Người nói đến quán và ăn thử bún bò để kiểm chứng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Giới thiệu menu",
+      "desc": "Giới thiệu các loại bún bò và topping của quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức"
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Đánh giá về lượng thịt, mỡ nội, và các thành phần khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Nhận xét hương vị",
+      "desc": "Nhận xét về hành tím ngâm chua và sa tế sả.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng"
+    },
+    {
+      "step": "Thông tin quán",
+      "desc": "Cung cấp tên quán, giờ mở cửa và địa chỉ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ai mà đã ăn rồi thì cho Phước xin trải nghiệm nha."
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thích"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tô bún là khách ăn thoải mái, em không tính tiền thêm.",
+    "Nhiều khi đi ra ngoài quế chưa chắc ăn ngon miệng bằng quán bên em.",
+    "Tôi khuyên mọi người tới đây thì nên gọi một tô 40 thôi vì thịt nhiều lắm luôn á."
+  ],
+  "hook_content": "-Tô bún là khách ăn thoải mái, em không tính tiền thêm. Khách đang ăn muốn ăn thêm bao nhiêu thì cứ nói em, em đem ra khách ăn thoải mái.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán bún bò Huế O A Bình, nổi tiếng với sự hào phóng khi cho thêm bún và topping miễn phí. Người nói trải nghiệm và đánh giá cao hương vị, đặc biệt là hành tím ngâm chua và sa tế sả.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

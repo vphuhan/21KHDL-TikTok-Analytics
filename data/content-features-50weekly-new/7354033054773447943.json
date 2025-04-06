@@ -1,0 +1,98 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bánh",
+      "desc": "Giới thiệu bánh kem hành lá đang gây sốt trên mạng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món bánh độc lạ."
+    },
+    {
+      "step": "Bộc lộ nỗi sợ",
+      "desc": "Chia sẻ nỗi sợ hành và sự hoang mang khi ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với nỗi sợ của người review."
+    },
+    {
+      "step": "Ăn thử và đánh giá",
+      "desc": "Bắt đầu ăn thử bánh kem hành và đưa ra cảm nhận ban đầu.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy hồi hộp và chờ đợi."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Đánh giá riêng phần bánh và phần hành, kết hợp cả hai.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung vào những đánh giá và so sánh."
+    },
+    {
+      "step": "Ăn 'tách hành'",
+      "desc": "Tách hành ra khỏi bánh để ăn riêng phần bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với cách ăn sáng tạo."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Tự ăn hết phần bánh đã tách hành và kết thúc video.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy nhẹ nhàng và thoải mái."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người đã coi clip của mình.",
+    "Bye bye!"
+  ],
+  "cta_type": [
+    "Thích video",
+    "Bình luận",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "sợ",
+    "ớn lạnh",
+    "ghê",
+    "hăng",
+    "khó chịu",
+    "may mắn",
+    "ngon",
+    "ớn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bánh kem hành là có thiệt nha mấy ní!",
+    "Cái trend này vừa vừa thôi, tới đây là được rồi nha, đừng đi xa quá là không có về kịp nha mọi người ơi.",
+    "Mọi người ơi, bây giờ em là bắt đầu chuẩn bị vô em bóc thử và ăn bánh kem hành nha."
+  ],
+  "hook_content": "Trên mạng bánh kem hành.",
+  "hook_type": [
+    "Gây tò mò",
+    "Phản hồi bình luận"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video review bánh kem hành lá gây sốt trên mạng, tập trung vào trải nghiệm ăn thử và đánh giá hương vị đặc biệt của bánh, đặc biệt là sự kết hợp giữa kem ngọt và hành lá hăng nồng. Người review vừa ăn vừa bày tỏ cảm xúc thật về món bánh độc lạ này.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên",
+    "Khó chịu"
+  ]
+}

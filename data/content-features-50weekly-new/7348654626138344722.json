@@ -1,0 +1,83 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu thử thách",
+      "desc": "Giới thiệu thử thách ăn mì cay khổng lồ tại Idol quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ khó của thử thách."
+    },
+    {
+      "step": "Quá trình chuẩn bị",
+      "desc": "Mô tả quá trình chuẩn bị mì, trụng mì và đổ nước lẩu.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Nhận xét ban đầu",
+      "desc": "Đánh giá vị nước lẩu chua cay và giới thiệu sản phẩm sốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn, muốn thử."
+    },
+    {
+      "step": "Thông tin về mì",
+      "desc": "Thông tin chi tiết về định lượng và topping của mì cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với số lượng topping."
+    },
+    {
+      "step": "Đánh giá độ khó",
+      "desc": "Nhận xét về độ khó của thử thách và khuyến khích tham gia.",
+      "impact_level": "2",
+      "viewer_emotion": "Tự tin vào khả năng của bản thân."
+    },
+    {
+      "step": "Kết quả",
+      "desc": "Thông báo hoàn thành thử thách và địa chỉ quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Chúc mừng người thực hiện thử thách."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ai ghiền mì cay đâu, bạn nào có khả năng đến quán Idol tham gia ngay thôi 😋😋"
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "dễ thương"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Thử thách tô mì cay khổng lồ tại Idol Quán.",
+    "Vị nước lẩu chua cay ở Idol quán rất là ngon nha.",
+    "Bạn nào mà có khả năng thì cứ đến quán trải nghiệm thử nghen."
+  ],
+  "hook_content": "Ăn sạch tô mì cay khổng lồ ở Idol quán.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu thử thách ăn mì cay khổng lồ tại Idol Quán, bao gồm quá trình chuẩn bị, thành phần và đánh giá độ khó, đồng thời khuyến khích người xem tham gia thử thách.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

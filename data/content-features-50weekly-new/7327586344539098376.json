@@ -1,0 +1,82 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu thử nghiệm",
+      "desc": "Nêu vấn đề và quyết định thử nghiệm làm kẹo nougat bằng dầu ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về kết quả."
+    },
+    {
+      "step": "Thực hiện thử nghiệm",
+      "desc": "Mô tả quá trình làm kẹo nougat bằng dầu ăn thay vì bơ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với cách làm khác biệt."
+    },
+    {
+      "step": "Đánh giá kết quả",
+      "desc": "Nhận xét về việc dầu không ngấm vào kẹo và tách lớp.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi thất vọng về kết quả."
+    },
+    {
+      "step": "Thông báo lịch live",
+      "desc": "Thông báo về lịch live cuối cùng trước khi nghỉ Tết.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Kêu gọi mua hàng",
+      "desc": "Kêu gọi người xem mua kẹo nougat và giới thiệu ưu đãi.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thôi thúc mua hàng."
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Khuyên không nên làm kẹo nougat bằng dầu ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy buồn cười."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nên là bác nào mà chưa săn được kẹo nougat thì săn luôn và ngay.",
+    "Hai ngày đó có voucher của TikTok và deal độc quyền của tôi, nên là khi mua một set nguyên liệu nougat được tặng ngay một máy hàn miệng túi mà giá lại cực kỳ đẹp nha."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "không biết có ăn được không",
+    "bỏ đi"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cách làm thì như làm với bơ thôi, nhưng mà hình như là dầu nó không ngấm được vào kẹo marshmallow hay sao ấy, kẹo chảy ra rồi mà dầu vẫn cứ lênh láng ở bên ngoài thôi.",
+    "Còn làm kẹo nougat bằng dầu thì thôi, bỏ đi mà làm người."
+  ],
+  "hook_content": "Nugat có làm được bằng dầu ăn không?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video thử nghiệm làm kẹo nougat bằng dầu ăn thay vì bơ, kết quả không thành công do dầu không ngấm vào kẹo. Đồng thời, người bán thông báo lịch live cuối trước khi nghỉ Tết và khuyến khích mua kẹo nougat.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

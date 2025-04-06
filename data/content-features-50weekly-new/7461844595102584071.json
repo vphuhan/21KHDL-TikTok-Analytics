@@ -1,0 +1,81 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Chào hỏi và gọi món",
+      "desc": "Khách hàng hỏi giá và số lượng trứng thêm vào bánh.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thuyết phục thêm trứng",
+      "desc": "Khách hàng thuyết phục chủ quán cho thêm nhiều trứng hơn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Chế biến bánh",
+      "desc": "Chủ quán bắt đầu đổ trứng và làm bánh trứng kẹp.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Giới thiệu bánh",
+      "desc": "Chủ quán giới thiệu các thành phần và cách làm bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Khách hàng nhận bánh và chuẩn bị thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Háo hức"
+    },
+    {
+      "step": "Thanh toán",
+      "desc": "Khách hàng thanh toán tiền và nhận lời dặn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "giòn",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Thế mà vào được hết, tôi mở quán mấy năm rồi lại làm nhiều bánh như thế, lần đầu tiên đổ đầy ba của trứng đấy.",
+    "Bánh vòng càng ngày càng to rồi.",
+    "Cái này ba quả trứng đấy chị ạ."
+  ],
+  "hook_content": "Là nhà này đúng không? Chào chị ạ, bánh trứng gà thêm một của trứng thì bao nhiêu tiền ạ?",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình mua và làm bánh trứng kẹp đường phố ở Trung Quốc, với điểm nhấn là chiếc bánh \"siêu trứng\" đặc biệt.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

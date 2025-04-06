@@ -1,0 +1,76 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món sữa chua dẻo hoa quả giải ngấy, hướng dẫn làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Hướng dẫn chuẩn bị gelatin, sữa đặc, sữa tươi nguyên kem Anchor.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến nguyên liệu chất lượng."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu sữa tươi Anchor, nhấn mạnh ưu điểm và công dụng.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết thêm thông tin về sản phẩm."
+    },
+    {
+      "step": "Thực hiện công thức",
+      "desc": "Hướng dẫn các bước làm sữa chua dẻo và chuẩn bị hoa quả.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung được cách làm món ăn."
+    },
+    {
+      "step": "Trình bày và thưởng thức",
+      "desc": "Hướng dẫn cách trình bày và gợi ý thưởng thức món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Sữa chua làm từ sữa Anchor làm siêu dễ, ăn siêu mê. Các bác cũng thử nha."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "giải ngấy",
+    "siêu mê",
+    "thơm ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Sữa chua làm từ sữa Anchor làm siêu dễ, ăn siêu mê.",
+    "Sữa tươi tiệt trùng nguyên kem Anchor không chỉ vì vị thơm ngon mà vì sản phẩm còn cung cấp lượng canxi và protein cần thiết."
+  ],
+  "hook_content": "Xong ai lại trơn quay ra cả. Hôm nay các bác vào bếp làm sữa chua dẻo hoa quả giải ngấy với tôi nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm món sữa chua dẻo hoa quả giải ngấy với sữa tươi nguyên kem Anchor, đồng thời giới thiệu về sản phẩm sữa Anchor và các ưu điểm của nó. Công thức làm đơn giản, dễ thực hiện tại nhà.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm mới",
+      "desc": "Nhân vật giới thiệu Milo nấm mới và giá cả tại quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món mới."
+    },
+    {
+      "step": "Mô tả chi tiết",
+      "desc": "Miêu tả các lớp Milo, Oreo, thạch dừa và pudding nấm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng, muốn thử."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét về độ ngọt, độ mềm của thạch và hương vị tổng thể.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy hấp dẫn, muốn ăn ngay."
+    },
+    {
+      "step": "Giới thiệu đồ uống khác",
+      "desc": "Giới thiệu trà sơn trà và hương vị chua đặc trưng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với sự đa dạng của menu."
+    },
+    {
+      "step": "Lưu ý về check-in",
+      "desc": "Hướng dẫn mua thêm xiên hủ lô để có ảnh check-in đẹp.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết thêm mẹo để có ảnh đẹp."
+    },
+    {
+      "step": "Thông tin về quán",
+      "desc": "Nhắc lại quán từng nổi tiếng với trà sữa Vân Nam.",
+      "impact_level": "1",
+      "viewer_emotion": "Nhận ra quán quen thuộc."
+    },
+    {
+      "step": "Thông tin địa điểm",
+      "desc": "Đưa ra tên quán và khuyến khích mọi người đến thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ghé thăm quán."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người tham khảo thử xem sao."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "vừa",
+    "mê",
+    "dễ ăn",
+    "thú vị",
+    "thơm thoang thoảng",
+    "chuẩn bài",
+    "siêu yêu"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "giờ này mọi người còn uống Milo dầm lá sai rồi, bây giờ phải ăn Milo nấm mới là chuẩn bài nhá",
+    "Trên mới tới nữa rồi mọi người ơi, tự tin khẳng định mình lại đi đầu trên này vì chưa ở đâu bán cả.",
+    "Mình thì thử một lần xong phải gọi là mê luôn."
+  ],
+  "hook_content": "Ơ, chị ơi, nhà mình lại có trên mới hả chị?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu món Milo nấm mới tại một quán cà phê, với lớp Milo, Oreo và thạch dừa, cùng với trà sơn trà chua dịu. Kênh tự tin khẳng định mình đi đầu trend này và khuyến khích mọi người đến quán để trải nghiệm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món cá hồi ăn liền giữa đêm mưa, kèm nước chấm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Cắt cá hồi thành sợi, chuẩn bị nước tương, wasabi, ớt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Ăn cá hồi với sốt mayonnaise, nước tương wasabi và ớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thèm ăn."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Miêu tả độ béo ngậy của cá hồi khi ăn kèm mayonnaise.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy kích thích vị giác."
+    },
+    {
+      "step": "So sánh cách ăn",
+      "desc": "So sánh cách ăn truyền thống và cách ăn mới.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với cách ăn mới."
+    },
+    {
+      "step": "Chia sẻ trải nghiệm",
+      "desc": "Chia sẻ lượng cá hồi thường ăn và hỏi ý kiến người xem.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Tìm kiếm thông tin",
+      "desc": "Hỏi địa chỉ mua cá hồi sợi ngon.",
+      "impact_level": "1",
+      "viewer_emotion": "Không có cảm xúc đặc biệt."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Người biết ở đâu không mọi người chỉ kim với.",
+    "Cảm ơn mọi người nhiều nè."
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Đặt câu hỏi"
+  ],
+  "emotion_keywords": [
+    "thèm",
+    "dễ thương",
+    "béo",
+    "ngậy",
+    "cay nồng",
+    "thơm",
+    "đã",
+    "no"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn với lại mayonnaise á. Người ta nói độ béo nhân hai luôn.",
+    "Cá hồi thì mềm mềm nè, ăn béo béo một cái mà ngập ngụa trong khoang họng luôn á mọi người.",
+    "Cái cây mà hít hà, hít hà thôi á."
+  ],
+  "hook_content": "nếu mọi người giữa đêm mà thèm cá hồi phải làm sao? Phải ăn liền chứ sao nè.",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video mukbang về món cá hồi ăn liền vào đêm mưa, Kim vừa ăn vừa chia sẻ cảm nhận về hương vị và hỏi ý kiến người xem về địa chỉ mua cá hồi sợi ngon.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

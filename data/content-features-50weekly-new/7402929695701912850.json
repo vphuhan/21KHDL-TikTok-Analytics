@@ -1,0 +1,91 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món lẩu măng chua cá hồi và các món khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món lẩu măng chua cá hồi."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Cắt cá hồi, ướp gia vị, chuẩn bị các nguyên liệu khác.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thấy các bước chuẩn bị quen thuộc."
+    },
+    {
+      "step": "Khách đến",
+      "desc": "Khách đến thăm, mang theo nhiều đồ ăn thức uống.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ, cảm nhận được sự náo nhiệt."
+    },
+    {
+      "step": "Nấu ăn và trò chuyện",
+      "desc": "Tiếp tục nấu ăn, trò chuyện cùng khách.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với không khí ấm cúng."
+    },
+    {
+      "step": "Dọn dẹp và chuẩn bị",
+      "desc": "Dọn dẹp bếp, chuẩn bị đồ ăn cho khách.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thấy được sự chu đáo."
+    },
+    {
+      "step": "Mời nhập tiệc",
+      "desc": "Mời mọi người về nhà Tuấn để cùng ăn uống.",
+      "impact_level": "3",
+      "viewer_emotion": "Hào hứng muốn tham gia vào bữa tiệc."
+    },
+    {
+      "step": "Lời cảm ơn",
+      "desc": "Cảm ơn mọi người đã đến thăm.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy ấm áp và thân thiện."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Xin mời cả nhà ăn cùng mấy anh em Tuấn.",
+    "Rất cảm ơn các bạn đã đến thăm, hẹn ngày hữu duyên chúng ta sẽ gặp lại nhau nha."
+  ],
+  "cta_type": [
+    "Ăn cùng",
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "vui",
+    "náo nhiệt",
+    "thân thiện"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Con cá hồi 4 kí, đố các nhà, Tuấn sẽ làm món gì với nó nha.",
+    "Nói chứ lâu lâu mà có người ghé thăm là cái bếp đỡ buồn hẳn, náo nhiệt lên liền.",
+    "Từ đây về sau gặp tôi là kêu bằng anh hết, chứ kêu bằng chú là tôi giận mấy đứa á nha."
+  ],
+  "hook_content": "Con cá hồi 4 kí, đố các nhà, Tuấn sẽ làm món gì với nó nha.",
+  "hook_type": [
+    "Gây tò mò",
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video ghi lại quá trình diễn viên Huỳnh Anh Tuấn nấu món lẩu măng chua cá hồi để đãi khách, đồng thời giới thiệu về những người bạn đến thăm và không khí náo nhiệt trong căn bếp của anh.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

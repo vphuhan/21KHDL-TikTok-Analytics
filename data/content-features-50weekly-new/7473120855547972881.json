@@ -1,0 +1,92 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu hàu sữa đại dương và cách ăn kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Luộc hàu",
+      "desc": "Chia sẻ cách luộc hàu và lưu ý để không bị teo.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến bí quyết luộc hàu."
+    },
+    {
+      "step": "Chuẩn bị đồ chấm",
+      "desc": "Giới thiệu các loại đồ chấm ăn kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng."
+    },
+    {
+      "step": "Trải nghiệm ăn",
+      "desc": "Miêu tả cảm nhận khi ăn hàu.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn ăn thử."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Nhận xét về số lượng hàu đã mua.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình với việc mua ít."
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy được mời."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi nghen."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "mê",
+    "chấn động",
+    "thiên đường",
+    "đã",
+    "cay",
+    "tê tê tâm hồn",
+    "mong chờ",
+    "béo",
+    "ngọt",
+    "dai",
+    "đã"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ta nói mở ra con nào con nấy cũng bự chảng chấn động, rưới thêm miếng muối ớt, mù tạt, độ quất một cái đúng là thiên đường đã tới nóc luôn.",
+    "Trời ơi, tôi là tôi mong chờ giây phút này lâu lắm rồi nha.",
+    "Thịt cực kỳ béo ngọt mà có cái còi nó bự nên dai ngọt ăn đã dữ lắm."
+  ],
+  "hook_content": "Nào sữa đại dương u nu, trắng nõn nà, có ai mê không?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu món hàu sữa đại dương luộc sả, cách chế biến và thưởng thức. Người nói chia sẻ trải nghiệm ăn hàu béo ngọt và mời mọi người cùng ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

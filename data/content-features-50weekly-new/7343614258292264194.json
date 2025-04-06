@@ -1,0 +1,80 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu cây kẹo mút hình con lăn độc lạ mới mua được.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hình dáng độc đáo của kẹo."
+    },
+    {
+      "step": "Miêu tả chi tiết",
+      "desc": "Miêu tả hình dáng, giá cả, và khả năng lăn của kẹo.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với thiết kế lăn được."
+    },
+    {
+      "step": "Đánh giá mùi vị",
+      "desc": "So sánh mùi của kẹo với kẹo chíp chíp quen thuộc.",
+      "impact_level": "2",
+      "viewer_emotion": "Nhớ lại hương vị kẹo chíp chíp."
+    },
+    {
+      "step": "Trải nghiệm thực tế",
+      "desc": "Liếm thử và mô tả vị ngọt, chua của kẹo.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung được vị của kẹo."
+    },
+    {
+      "step": "Nhận xét chung",
+      "desc": "Đánh giá vị ok nhưng kích thước quá lớn và bất tiện.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy hơi nản vì kích thước lớn."
+    },
+    {
+      "step": "Ưu điểm thiết kế",
+      "desc": "Nhấn mạnh sự tiện lợi của thiết kế con lăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thích thú với sự tiện lợi này."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "độc lạ",
+    "thơm",
+    "ngọt",
+    "chua",
+    "ok"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mình vừa mua được một cái cây kẹo mút rất là độc lạ.",
+    "Không biết liếm bao giờ mới hết được cái kẹo này.",
+    "Khi mình liếm thì cái viên kẹo nó sẽ lăn lăn. À cũng tiện phết."
+  ],
+  "hook_content": "Mọi người ơi, mình vừa mua được một cái cây kẹo mút rất là độc lạ.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review cây kẹo mút hình con lăn độc lạ, có mùi vị giống kẹo chíp chíp, vị ngọt chua, thiết kế lăn tiện lợi nhưng kích thước lớn gây bất tiện khi ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

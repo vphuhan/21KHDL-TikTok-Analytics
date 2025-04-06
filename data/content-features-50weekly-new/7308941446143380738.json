@@ -1,0 +1,76 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu hàng giảm giá",
+      "desc": "Giới thiệu các mặt hàng giảm giá mạnh ở cửa hàng đồng giá",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các sản phẩm giảm giá."
+    },
+    {
+      "step": "Liệt kê sản phẩm",
+      "desc": "Liệt kê và review nhanh các sản phẩm khác nhau có tại cửa hàng",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng sản phẩm."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Nhấn mạnh về giá rẻ và sự đa dạng của sản phẩm",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thôi thúc muốn đến cửa hàng."
+    },
+    {
+      "step": "Lưu ý về date",
+      "desc": "Cảnh báo về hàng cận date nhưng đảm bảo giá rẻ và đa dạng",
+      "impact_level": "2",
+      "viewer_emotion": "Cân nhắc về việc mua hàng cận date."
+    },
+    {
+      "step": "Hướng dẫn mua sắm",
+      "desc": "Hướng dẫn cách mua sắm và thông báo về tình trạng đông khách",
+      "impact_level": "1",
+      "viewer_emotion": "Cần chuẩn bị tinh thần xếp hàng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "rẻ",
+    "giá hời",
+    "độc đắc",
+    "bất ngờ"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Rồi tôi phải gọi chỗ 543 Tỉnh lộ 10 Bình Tân này là thiên đường giá hời.",
+    "Kiếm được chỗ này như trúng số độc đắc vậy á.",
+    "Tôi biết là mọi người khó tin lắm nhưng mà tin tôi đi. Nó rẻ bất ngờ."
+  ],
+  "hook_content": "Không cần biết ở ngoài bán cái này bao nhiêu tiền, nhưng mà ở đây một sắp như thế này là 30.000đ.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Khuyến mãi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video giới thiệu một cửa hàng ở Bình Tân bán nhiều mặt hàng giá rẻ, giảm giá mạnh, đặc biệt là hàng tiêu dùng và mỹ phẩm. Người bán nhấn mạnh về sự đa dạng và giá cả hấp dẫn, đồng thời lưu ý về hàng cận date.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu lại món váng sữa đã hot trước đó.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị"
+    },
+    {
+      "step": "Ăn thử",
+      "desc": "Ăn và so sánh với loại váng sữa khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn biết cảm nhận"
+    },
+    {
+      "step": "Nhận xét",
+      "desc": "Đưa ra đánh giá về loại váng sữa này.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đây clip báng sữa hôm trước hot quá, nên hôm nay mình sẽ mua thử báng sữa này xem ăn thế nào nhó.",
+    "Cái loại này thì hơi đắt một tí.",
+    "Cái loại này thì sẽ ít cái phần màu vàng hơn á."
+  ],
+  "hook_content": "Đây clip báng sữa hôm trước hot quá, nên hôm nay mình sẽ mua thử báng sữa này xem ăn thế nào nhó.",
+  "hook_type": [
+    "Phản hồi bình luận"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang váng sữa Monte để đáp lại yêu cầu của người xem, người này đã mua và ăn thử để so sánh hương vị.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

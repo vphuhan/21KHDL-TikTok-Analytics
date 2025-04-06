@@ -1,0 +1,84 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu vấn đề",
+      "desc": "Đề cập nỗi lo bún đắt ngày Tết và giới thiệu quán ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về giải pháp được đưa ra."
+    },
+    {
+      "step": "Thông tin về quán",
+      "desc": "Quán lúc nào cũng đông khách trên phố Hàng Mã.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào độ ngon của quán."
+    },
+    {
+      "step": "Giá cả ngày thường và Tết",
+      "desc": "So sánh giá ngày thường và ngày Tết, khá rẻ.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng vì giá cả hợp lý."
+    },
+    {
+      "step": "Mô tả món ăn",
+      "desc": "Review chi tiết các thành phần và hương vị của bún riêu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và muốn thử."
+    },
+    {
+      "step": "Nhận xét về không gian",
+      "desc": "Không gian quán hơi nhỏ, thông báo trước về sự đông đúc.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm và chuẩn bị tinh thần."
+    },
+    {
+      "step": "Thông tin về quán",
+      "desc": "Giới thiệu tên quán và khuyến khích mọi người thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Ghi nhớ để ghé thăm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Và đây là bún riêu chị Ánh, mọi người tham khảo thử xem sao."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Chia sẻ"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "hợp khẩu vị",
+    "giải ngấy"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Biết được nỗi lo ăn một bát bún 100k ngày Tết điển hình tại Hà Nội nên mình phải đi săn lùng ngay vài chỗ ăn cho mọi người đây.",
+    "Đặc biệt mọi người chú ý cái đậu này mềm với xốp, tấc mỡ thì vàng giòn, ngon lắm."
+  ],
+  "hook_content": "rẻ nhất là bao tiền ạ? Bát rẻ nhất là 20.000 là riêu đậu. Nhà chị mở bán xuyên Tết và xuyên giao thừa luôn.",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán bún riêu trên phố Hàng Mã, Hà Nội, đặc biệt mở xuyên Tết với giá cả phải chăng. Người review chia sẻ trải nghiệm ăn uống và đánh giá cao hương vị của quán.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

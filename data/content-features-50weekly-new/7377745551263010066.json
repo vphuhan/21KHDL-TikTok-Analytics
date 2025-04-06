@@ -1,0 +1,87 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu bún chả vuông ở Ninh Bình, hương vị lạ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn thử"
+    },
+    {
+      "step": "Miêu tả quy trình",
+      "desc": "Mô tả quy trình làm chả nướng vuông và nem hải sản.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự tỉ mỉ"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá hương vị và trải nghiệm món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng"
+    },
+    {
+      "step": "Giới thiệu thêm",
+      "desc": "Giới thiệu thêm các món khác như bánh cuốn, bún nem.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử thêm nhiều món"
+    },
+    {
+      "step": "Thông tin giá cả",
+      "desc": "Thông tin về giá cả và địa điểm quán ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "bất ngờ",
+    "lạ",
+    "đáng tiền",
+    "tươi",
+    "đẫm đầy",
+    "chỉn chu",
+    "đậm đà",
+    "mềm mọng",
+    "thơm giòn",
+    "mê",
+    "hạt rẻ",
+    "nhớ đời"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Và thực sự mình quá bất ngờ về em đặc sản Ninh Bình này, hương vị cực kỳ lạ mở 2 năm lúc nào cũng đông.",
+    "Trời ơi, nó đáng tiền toàn hải sản tươi đẫm đầy.",
+    "Thịt nó mềm mọng, thơm giòn mê cực luôn."
+  ],
+  "hook_content": "phá lệ truyền thống đi ăn bún chả hình vuông.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quán bún chả vuông ở Ninh Bình với hương vị lạ, nem hải sản đáng tiền và giá cả phải chăng. Kênh giới thiệu quy trình làm, đánh giá hương vị và gợi ý các món khác nên thử.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

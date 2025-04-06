@@ -1,0 +1,90 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món trà sữa tự làm và lý do đến giờ mới chia sẻ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về công thức đặc biệt."
+    },
+    {
+      "step": "Mẹo làm rau câu",
+      "desc": "Hướng dẫn cách ngâm bột rau câu để không bị chảy nước.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích cho việc nấu ăn."
+    },
+    {
+      "step": "Mẹo nấu trà sữa",
+      "desc": "Chia sẻ bí quyết pha trà sữa Thái xanh không bị chát.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với mẹo hay."
+    },
+    {
+      "step": "Bí quyết trà sữa ngon",
+      "desc": "Tiết lộ bí mật sử dụng bột kem béo để trà sữa sánh mịn.",
+      "impact_level": "2",
+      "viewer_emotion": "Ghi nhớ để thử làm theo."
+    },
+    {
+      "step": "Cách làm thạch",
+      "desc": "Hướng dẫn làm thạch trà sữa thái, nhấn mạnh tỷ lệ dai giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong muốn làm thành công."
+    },
+    {
+      "step": "Kêu gọi tương tác",
+      "desc": "Hỏi về kinh nghiệm thành công khi làm theo công thức.",
+      "impact_level": "1",
+      "viewer_emotion": "Muốn chia sẻ trải nghiệm."
+    },
+    {
+      "step": "Tự tin vào công thức",
+      "desc": "Khẳng định công thức dễ thành công, đặc biệt với món tráng miệng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào kết quả tốt."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Chia sẻ công thức"
+  ],
+  "emotion_keywords": [
+    "thơm ngon",
+    "xịn đét",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cắn một miếng là ôm trọn hương vị thơm ngon của một ly trà sữa xịn đét",
+    "Bạn có biết bí quyết tại sao mà bạn luôn cảm thấy trà sữa ngoài quán ngon hơn bạn pha ở nhà không?",
+    "Đặc biệt là với cái món tráng miệng như là sữa chua, pana cotta, rau câu, bánh lăng mình là trùm luôn."
+  ],
+  "hook_content": "Đây là món mà trong hơn 3 năm làm TikTok, mình chưa dám ra cái video nào về món này cả, tại vì mình thấy công thức mình làm chưa có chuẩn.",
+  "hook_type": [
+    "Gây tò mò",
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm trà sữa thạch thái tại nhà với công thức được hoàn thiện sau 3 năm. Tác giả chia sẻ các mẹo để làm rau câu không bị chảy nước, trà sữa không bị chát và thạch dai giòn vừa đủ.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Trung lập"
+  ]
+}

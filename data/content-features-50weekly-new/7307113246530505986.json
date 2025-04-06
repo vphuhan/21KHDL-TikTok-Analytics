@@ -1,0 +1,82 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu bánh cuốn cô Lý và trải nghiệm ăn từ thời cấp 3.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị bánh cuốn."
+    },
+    {
+      "step": "Miêu tả quán ăn",
+      "desc": "Quán đã sửa sang lại, ăn nên làm ra, khách đông hơn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "So sánh vùng miền",
+      "desc": "So sánh bánh cuốn Lào Cai và Hà Nội, điểm khác biệt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị về sự khác biệt vùng miền."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Đánh giá vỏ bánh, rau sống, trứng lòng đào và chả mỡ.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng món trứng lòng đào."
+    },
+    {
+      "step": "Tổng kết",
+      "desc": "Tổng kết về giá cả và địa điểm quán bánh cuốn cô Lý.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn đến thử nếu có dịp."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Các bạn Lào Cai ơi, nếu như các bạn là một fan của bánh cuốn, hãy sang bên ăn bánh cuốn của bà Lý nhá."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngậy",
+    "ngon",
+    "thơm",
+    "phưng phức",
+    "thoải mái",
+    "hợp lý",
+    "quen"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cả hồi cấp ba của tôi chỉ ăn bánh cuốn của duy nhất quán này.",
+    "Nếu như ở Hà Nội có âu qua tờ thì ở Lào Cai tôi có New Street.",
+    "Úi giời ơi nó ngậy, nó ngon, nó thơm, nó phưng phức."
+  ],
+  "hook_content": "Cho con một suất bánh với cả một quả trứng lòng đào.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu và review quán bánh cuốn cô Lý nổi tiếng ở Lào Cai, từ trải nghiệm cá nhân đến đánh giá chi tiết về món ăn và không gian quán sau khi sửa sang. Video khuyến khích người xem đến thử nếu là fan của bánh cuốn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

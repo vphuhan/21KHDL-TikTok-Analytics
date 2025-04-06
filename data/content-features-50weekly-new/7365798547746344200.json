@@ -1,0 +1,83 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Thông báo làm món bún nước tương, gợi nhớ hương vị xưa.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách làm món ăn."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Chiên đậu hũ, trứng để ăn kèm bún nước tương.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thấy sự chuẩn bị đơn giản."
+    },
+    {
+      "step": "Pha nước tương",
+      "desc": "Pha nước tương với đường, tương ớt, nấu sôi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với công thức pha chế."
+    },
+    {
+      "step": "Hoàn thiện",
+      "desc": "Vớt đậu hũ, cắt trứng, trang trí.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Thắc mắc về món chay",
+      "desc": "Đặt câu hỏi về việc ăn chay có ăn được trứng.",
+      "impact_level": "1",
+      "viewer_emotion": "Không đặc biệt."
+    },
+    {
+      "step": "Thêm nguyên liệu phụ",
+      "desc": "Thêm sa tế tôm để tăng độ cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn, kích thích vị giác."
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng ăn bún nước tương.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "phấn khích",
+    "ngon",
+    "cay cay",
+    "hấp dẫn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ngày xưa ăn món này đơn giản lắm, chỉ cần có bún với nước tương đúng với cái tên nó là xong rồi. Nhưng mà vẫn cực kỳ ngon.",
+    "Tướng chiên thêm vài lớp trứng nè. Chiên bằng chảo chống dính nên tướng không cho dầu ăn nha cả nhà. Vẫn chín và tróc bình thường luôn.",
+    "Cả nhà có biết mua ở đâu thì chỉ tướng với nha."
+  ],
+  "hook_content": "Nhìn tướng vẻ phấn khích nơi dày, cả nhà có biết á tướng làm chi để chi không?",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món bún nước tương đơn giản, gợi nhớ hương vị xưa. Người làm chia sẻ cách pha nước tương, chiên đậu hũ, trứng ăn kèm, đồng thời nêu một vài thắc mắc liên quan đến món ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món nấm đùi gà nướng và sự mới lạ khi chế biến.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của món nấm nướng."
+    },
+    {
+      "step": "Chọn và sơ chế nấm",
+      "desc": "Hướng dẫn chọn nấm đùi gà to, rửa sạch và luộc sơ.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy đây là bước chuẩn bị cần thiết."
+    },
+    {
+      "step": "Pha chế sốt nướng",
+      "desc": "Chia sẻ công thức sốt nướng sa tế đơn giản, dễ làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với công thức sốt nướng hấp dẫn."
+    },
+    {
+      "step": "Nướng và thưởng thức",
+      "desc": "Nướng nấm đến khi khô sốt, thêm lớp sốt và thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng và muốn thử ngay."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Miêu tả hương vị, độ dai và cảm xúc khi ăn nấm nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung được hương vị đặc biệt của món ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "dai",
+    "thơm",
+    "hấp dẫn",
+    "cay",
+    "tê tê tâm hồn",
+    "siêu ngọt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn nấm luộc, nấm xào ngán rồi thì nay tôi đem đi nướng sa tế ăn đổi vị nha.",
+    "Nấm đùi gà thì ú nu, thấm đẫm sốt, chấm thêm muối ớt đâm cay cay, ăn một cái, bên ngoài thì đậm đà, bên trong thì mỏng nước siêu siêu ngọt.",
+    "Nướng xong nó siêu siêu thơm mà hấp dẫn. Phiêu diêu ngang ngửa thịt nướng luôn đó."
+  ],
+  "hook_content": "Mấy cái nấm siêu to khổng lồ mà đem đi nướng thấy lạ lạ, vậy mà ăn ngon đứng hình cây lục bình luôn.",
+  "hook_type": [
+    "Gây tò mò",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video giới thiệu món nấm đùi gà nướng sa tế, từ khâu chuẩn bị, chế biến đến thưởng thức và đánh giá hương vị. Món ăn được đánh giá là ngon, lạ miệng và hấp dẫn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

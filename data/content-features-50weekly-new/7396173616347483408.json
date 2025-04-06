@@ -1,0 +1,91 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Gọi món",
+      "desc": "Khách hàng gọi món phở tái sốt vang gầu, trứng trần.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món phở sốt vang."
+    },
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Quán phở nhỏ nhắn, gần nhà, mới được biết đến.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, cung cấp thông tin địa điểm."
+    },
+    {
+      "step": "Miêu tả món phở",
+      "desc": "Nước dùng sóng sánh, màu vàng nhạt, thơm nồng nàn.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn, kích thích vị giác."
+    },
+    {
+      "step": "Trải nghiệm ăn",
+      "desc": "Trứng trần lòng đào ngậy, kết hợp vị béo nước dùng.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn thử ngay."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Sốt vang ngon, thịt mềm, quẩy dai, Hà Nội nóng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị, có thêm thông tin hữu ích."
+    },
+    {
+      "step": "Tương tác với chủ quán",
+      "desc": "Trò chuyện thân thiện với cô chú chủ quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Ấm áp, gần gũi."
+    },
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu Phở Lê ngon ở Kim Mã cho mọi người.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng, muốn ghé thăm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Đây là Phở Lê rất là ngon ở Kim Mã nhá."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngậy",
+    "béo",
+    "thơm",
+    "đậm đà",
+    "ngon",
+    "kẹo mút chơi bời"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cảm giác trứng trần lòng đào mà ăn cả lòng trắng nó ngậy lắm, vị ngậy của trứng trần hòa quyện cùng cả vị béo của nước dùng kết hợp cùng với cả hương thơm của hành lá tạo ra một cái vị ăn phở rất là đậm đà luôn.",
+    "Ăn xong bát phở sốt vang này cảm giác rất là kẹo mút chơi bời luôn.",
+    "Phở nhà mình ăn ngon đấy."
+  ],
+  "hook_content": "Cô ơi cô có gầu không ạ? Cô có sốt vang không ạ? Cho con một bát bắp sốt vang à không bắp à thế tái sốt vang thêm gầu.",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quán phở bò sốt vang Hà Nội, tập trung vào hương vị món ăn và trải nghiệm tại quán. Người quay đánh giá cao hương vị đậm đà và giới thiệu quán cho mọi người.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

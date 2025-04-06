@@ -1,0 +1,83 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món lẩu hột vịt lộn vị Thái dễ làm, rẻ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Chia sẻ bí quyết",
+      "desc": "Chia sẻ lại công thức sau khi được bạn chỉ dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy được chia sẻ bí mật."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Hướng dẫn chọn mua và sơ chế các nguyên liệu.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích, dễ thực hiện."
+    },
+    {
+      "step": "Nấu nước lẩu",
+      "desc": "Hướng dẫn phi thơm, xào cà chua, dùng gói lẩu Thái.",
+      "impact_level": "2",
+      "viewer_emotion": "Hương vị hấp dẫn, muốn thử ngay."
+    },
+    {
+      "step": "Luộc và sơ chế hột vịt lộn",
+      "desc": "Luộc hột vịt lộn, bóc vỏ và cho vào nồi lẩu.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy quá trình đơn giản."
+    },
+    {
+      "step": "Hoàn thành và thưởng thức",
+      "desc": "Cho rau vào nhúng và thưởng thức món lẩu.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn ăn ngay lập tức."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nếu mà không có ngon á bắt đền em nè."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "chua",
+    "cay",
+    "béo"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mấy chị đừng có làm cái món gì phức tạp hết á, mà thử làm cái lẩu hột vịt lộn vị Thái này đi mấy chị ơi.",
+    "Cái bí quyết mà ra được một cái nồi nước lẩu chua cay ngon á là nó nằm ở đây nè, không có cầu kỳ phức tạp gì hết trơn á.",
+    "Tết này mấy chị đâu có cần làm cái gì phức tạp đâu. Cứ làm một cái nồi lẩu hột vịt lộn vị Thái vậy đó, em vừa thấy đơn giản mà còn ngon nữa."
+  ],
+  "hook_content": "Hết này á mấy chị đừng có làm cái món gì phức tạp hết á, mà thử làm cái lẩu hột vịt lộn vị Thái này đi mấy chị ơi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn nấu món lẩu hột vịt lộn vị Thái đơn giản, dễ làm tại nhà với bí quyết sử dụng gói sốt lẩu Thái Barona, phù hợp cho dịp Tết.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

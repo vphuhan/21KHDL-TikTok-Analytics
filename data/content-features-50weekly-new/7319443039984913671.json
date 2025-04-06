@@ -1,0 +1,81 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán ăn",
+      "desc": "Giới thiệu xe bánh tráng da heo lắc nước mắm nổi tiếng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về địa điểm được giới thiệu."
+    },
+    {
+      "step": "Đánh giá ban đầu",
+      "desc": "Nhận xét về độ dẻo của bánh tráng và tiềm năng khi trộn topping.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với món ăn vặt hấp dẫn."
+    },
+    {
+      "step": "So sánh trải nghiệm",
+      "desc": "So sánh trải nghiệm hiện tại với lần ghé thăm trước.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự thay đổi của món ăn."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Đánh giá về độ sượng của bánh tráng và chất lượng nước mắm.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến chất lượng nguyên liệu."
+    },
+    {
+      "step": "Nhấn mạnh yếu tố quan trọng",
+      "desc": "Nhấn mạnh vai trò của nước mắm trong món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Đồng tình với nhận xét."
+    },
+    {
+      "step": "Nhận xét về topping",
+      "desc": "Đánh giá về topping da heo và tóp mỡ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của topping."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "quá trời",
+    "vãi"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "ăn không hết đâu",
+    "ngon vãi, đúng thế giới luôn á mọi người",
+    "quan trọng là ở cái nước mắm"
+  ],
+  "hook_content": "luôn. đâu. ăn từ từ thôi. Mọi người có thấy ai bán hàng mà như chị này không? Kêu khách là đừng có mua nhiều, ăn không có hết đâu.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review xe bánh tráng da heo lắc nước mắm nổi tiếng ở quận 5, so sánh trải nghiệm hiện tại với lần trước và tập trung đánh giá chất lượng bánh tráng, topping và đặc biệt là nước mắm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

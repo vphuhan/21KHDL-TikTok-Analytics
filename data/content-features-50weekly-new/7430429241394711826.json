@@ -1,0 +1,44 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Mời mọi người cùng ăn cơm thịt luộc mắm nêm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng thưởng thức bữa ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [],
+  "has_cta": "false",
+  "highlight_phrases": [],
+  "hook_content": "Mời cả nhà cùng ăn cơm thịt luộc mắm nêm nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh ăn cơm thịt luộc mắm nêm, tập trung vào trải nghiệm ăn uống cá nhân.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

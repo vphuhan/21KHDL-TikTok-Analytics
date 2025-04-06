@@ -1,0 +1,86 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Đề cập đến phần trước và nhìn nhận tích cực về quán vắng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về nội dung review."
+    },
+    {
+      "step": "Địa điểm",
+      "desc": "Nhắc đến Long Biên và việc ghé thăm quán theo gợi ý.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, chờ đợi review."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Liệt kê và đánh giá các món đã thử: tokbokki, lẩu, gà, trà sữa.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng, muốn biết thêm chi tiết."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Nhấn mạnh điểm nổi bật của trà sữa và gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với món trà sữa và gà."
+    },
+    {
+      "step": "So sánh",
+      "desc": "So sánh giá cả và chất lượng với các quán khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá."
+    },
+    {
+      "step": "Nhấn mạnh hạn chế",
+      "desc": "Chỉ ra vị trí khuất là yếu điểm của quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm với quán."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Nên là ai nhà ở Long Biên hoặc là không ngại đi xa thì có thể thử quán này nhá."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "đầy đặn",
+    "thơm",
+    "mọng nước",
+    "vừa vặn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "trân châu nhà làm viên to, dẻo dẻo, dai dai, vị trà sữa thơm và không bị ngọt",
+    "gà ăn nó mềm, nó mọng nước mà không bị bở",
+    "về vị thì tôi phải công nhận là nó còn ngon hơn một số hàng ở trung tâm ấy"
+  ],
+  "hook_content": "Review quán vắng phần hai.",
+  "hook_type": [
+    "Phản hồi bình luận"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm",
+    "So sánh"
+  ],
+  "summarization": "Video review một quán ăn ngon ở Long Biên, tập trung vào chất lượng món ăn và so sánh với các quán khác, đồng thời chỉ ra hạn chế về vị trí của quán. Người review khuyến khích mọi người nên thử nếu có dịp.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

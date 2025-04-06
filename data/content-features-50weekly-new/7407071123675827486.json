@@ -1,0 +1,85 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu cua nau uy tươi và so sánh với cua đông lạnh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự khác biệt giữa hai loại cua."
+    },
+    {
+      "step": "Miêu tả chi tiết",
+      "desc": "Miêu tả gạch cua tươi mềm, sệt khác với gạch cua đông lạnh.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung được sự khác biệt và cảm thấy thèm ăn."
+    },
+    {
+      "step": "Thưởng thức và đánh giá",
+      "desc": "Bóc cua, ăn và đánh giá độ tươi ngon, không bị ngán.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy hấp dẫn, thèm thuồng và muốn ăn thử."
+    },
+    {
+      "step": "Đề xuất lựa chọn",
+      "desc": "Khuyên nên ăn cua nau uy tươi thay vì cua đông lạnh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào lời khuyên và cân nhắc lựa chọn."
+    },
+    {
+      "step": "Thông tin thêm",
+      "desc": "Chia sẻ trọng lượng cua và cách luộc cua với sả.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết thêm thông tin hữu ích về cua nau uy."
+    },
+    {
+      "step": "Chia sẻ trải nghiệm",
+      "desc": "Thú nhận chưa bóc cua được đẹp như các kênh khác.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy gần gũi và đồng cảm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Okay cảm ơn cả nhà theo dõi video của Thành.",
+    "Hẹn gặp bạn ở video tiếp theo nha."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "hấp dẫn",
+    "xuất sắc",
+    "ngon quá",
+    "quá chất"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cả nhà mình muốn ăn cua nau uy á, nên ăn cua cua tươi nha cả nhà. Nó sẽ không có bị ngán.",
+    "Hay là ăn cua cua đông lạnh á gạch nó quá đặc. Ăn rất là ngán. Cái này nó sẽ vừa đặc đặc vừa sệt sệt.",
+    "Bởi vậy hải sản mọi người ăn đồ tươi sống nó không luôn là xuất sắc hết."
+  ],
+  "hook_content": "Bây giờ tôi mới ăn nghe. Bữa nay mời cả nhà ăn cua nau uy tươi với Thành nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video mukbang cua nau uy tươi, so sánh với cua đông lạnh về độ tươi ngon và hương vị, đồng thời chia sẻ kinh nghiệm cá nhân và cách luộc cua.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

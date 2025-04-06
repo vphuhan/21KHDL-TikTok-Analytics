@@ -1,0 +1,91 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ăn là bọ biển và bày tỏ sự yêu thích.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Sơ chế và review",
+      "desc": "Cắt chân bọ biển và review phần thịt, trứng, gan.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Đánh giá độ béo, ngon của bọ biển, đặc biệt là trứng.",
+      "impact_level": "3",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Thông tin giá cả",
+      "desc": "Thông tin giá bọ biển loại 1 và loại 2 đầu mùa.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Hướng dẫn cách ăn",
+      "desc": "Hướng dẫn cách ăn phần thịt còn sót lại bên trong.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm"
+    },
+    {
+      "step": "Liên tưởng",
+      "desc": "Liên tưởng hình dáng bọ biển với sinh vật ngoài hành tinh.",
+      "impact_level": "2",
+      "viewer_emotion": "Buồn cười"
+    },
+    {
+      "step": "Lời khuyên và kết thúc",
+      "desc": "Khuyên tranh thủ ăn bọ biển đúng mùa và tạm biệt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn cả nhà theo dõi video của Thành.",
+    "Hẹn gặp bạn ở video tiếp theo."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "béo",
+    "đã",
+    "xuất sắc",
+    "thích"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn đáng đồng tiền bát gạo.",
+    "Nói về độ béo á là Thành thấy là không có con nào béo qua lại con này luôn á.",
+    "Mùa bọ biển tới rồi cả nhà mình tranh thủ ăn nha."
+  ],
+  "hook_content": "Bây giờ tụi mình đang nghe, bữa nay là tiếp tục ăn bọ biển nha cả nhà.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video mukbang bọ biển đầu mùa, người review vừa ăn vừa giới thiệu về độ ngon, béo của thịt và trứng bọ biển, đồng thời hướng dẫn cách ăn để không bỏ phí phần thịt nào.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

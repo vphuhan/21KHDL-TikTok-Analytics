@@ -1,0 +1,84 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu về mì cay Vy Anh, số lượng gói và giá cả.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, cung cấp thông tin cơ bản."
+    },
+    {
+      "step": "Chuẩn bị và nấu ăn",
+      "desc": "Violet Vũ nấu mì cho bạn, thêm các nguyên liệu có sẵn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú khi thấy sự quan tâm."
+    },
+    {
+      "step": "Đánh giá mì cay",
+      "desc": "Cả hai cùng ăn và đánh giá độ cay, hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của món ăn."
+    },
+    {
+      "step": "Thử thách độ cay",
+      "desc": "Violet Vũ thử độ cay cao hơn và phản ứng hài hước.",
+      "impact_level": "3",
+      "viewer_emotion": "Vui vẻ, phấn khích với phản ứng bất ngờ."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Cảm ơn người xem và tạm biệt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, kết thúc video."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bye bye mọi người nha!",
+    "Cảm ơn mọi người đã coi clip của tụi mình."
+  ],
+  "cta_type": [
+    "Thích video",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "dễ chịu",
+    "ngon",
+    "cay",
+    "cay vãi",
+    "sợ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cay và chim mỏ bác mồng tơi.",
+    "Trời ơi cứu tôi ơi! Cứu cuộc đời tôi ra!",
+    "Violet Vũ đúng là người lớn nha. À không có sợ cay gì hết trơn á."
+  ],
+  "hook_content": "Ê! Cứu cuộc đời tôi ra!Cứu fan cùng anh nha.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video review mì cay Vy Anh, hai người cùng ăn và đánh giá độ cay, hương vị. Violet Vũ thử thách độ cay cao hơn và có những phản ứng hài hước.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

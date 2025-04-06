@@ -1,0 +1,96 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Mẹ than vãn việc chăm sóc con ốm và bày tỏ muốn nghỉ ngơi.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Nấu chè sầu riêng",
+      "desc": "Mẹ con quyết định nấu chè sầu riêng cho ba và chia sẻ công thức.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Nấu nước chan chè",
+      "desc": "Hướng dẫn làm nước chan chè với đường, nước, muối và xiter.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Nhận xét",
+      "desc": "Nhận xét về sự vất vả khi tự nấu chè và độ ngon của nó.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình"
+    },
+    {
+      "step": "Chuẩn bị bữa ăn",
+      "desc": "Giới thiệu cơm trộn chân gà sốt cay và thói quen ăn chân gà.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chuẩn bị chè",
+      "desc": "Cắt thạch, trộn sầu riêng với kem béo, thêm topping vào chè.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Mời mọi người ăn cơm và chè, cho ba ăn thử và nhận xét.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấm áp"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Giờ mời mọi người ăn cơm, ăn cơm xong rồi ăn chè chung với hai vợ chồng mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngứa tay ngứa chân",
+    "ngon",
+    "nhứt cái nách",
+    "힐링",
+    "맛있어",
+    "다행이야"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái tô chè này mà có thêm mấy trái nhãn, một ít câu câu giòn giòn dẻo dẻo hạt đác nữa ha. Trời ơi ta nói chắc nhứt cái nách luôn á.",
+    "Nước chan chè này của mình là chan được tất cả các loại chè luôn á. Nấu xong mình để tủ lạnh có thể ăn được ba bốn ngày lận á."
+  ],
+  "hook_content": "Bữa nay Su Hee nhà mình nó nhõng nhẽo theo tụi Han ở nè mọi người.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình hai mẹ con làm chè sầu riêng để ba ăn thử, từ công đoạn nấu nước chan chè đến chuẩn bị topping và thưởng thức cùng gia đình. Món chè được nhận xét là ngon dù còn thiếu nguyên liệu.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hài hước"
+  ]
+}

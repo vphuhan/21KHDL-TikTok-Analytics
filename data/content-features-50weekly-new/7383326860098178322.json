@@ -1,0 +1,86 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu 2 món ghẹ: ngâm tương và sốt cay để đãi khách.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách chế biến hai món ghẹ."
+    },
+    {
+      "step": "Sơ chế ghẹ ngâm tương",
+      "desc": "Làm sạch ghẹ, tách mai, ngâm ghẹ với giấm và rượu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy cách sơ chế ghẹ khá kỹ lưỡng."
+    },
+    {
+      "step": "Sơ chế ghẹ sốt cay",
+      "desc": "Tách mai ghẹ, cắt đôi, khử mùi tanh bằng rượu soju.",
+      "impact_level": "2",
+      "viewer_emotion": "Thắc mắc liệu khử tanh bằng rượu soju có hiệu quả?"
+    },
+    {
+      "step": "Nấu nước tương ngâm ghẹ",
+      "desc": "Nấu nước tương với nhiều nguyên liệu khác nhau.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về công thức nước tương đặc biệt."
+    },
+    {
+      "step": "Làm sốt cay",
+      "desc": "Pha trộn các loại bột ớt để tạo vị cay mong muốn.",
+      "impact_level": "2",
+      "viewer_emotion": "Học được cách dùng bột ớt để điều chỉnh độ cay."
+    },
+    {
+      "step": "Trộn ghẹ với sốt",
+      "desc": "Trộn ghẹ đã ráo nước với sốt cay, thêm mè.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món ghẹ trộn cay hấp dẫn."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Giới thiệu món mì ăn thay cơm do làm trễ.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thông cảm vì sự cố bất ngờ."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Mời mọi người ăn mì chung với cả nhà mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "sợ tanh",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mình là chúa tể sợ tanh luôn, mà mình còn ăn được cái món này.",
+    "Tụi hơn ăn cay yếu lắm, cho nên á là mình sẽ bỏ hột ớt nhiều hơn xíu nha. Mình nói chơi á chứ cái bột ớt này nó không có cay, nó chỉ có màu đỏ thôi.",
+    "Cậu về Việt Nam rồi qua đây chi nữa dạ mẹ."
+  ],
+  "hook_content": "Bữa nay mình có mua 6kg ghẹ để chia làm hai món, ghẹ ngâm tương với lại là ghẹ sốt cay.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm hai món ghẹ ngâm tương và ghẹ sốt cay để đãi người thân, chia sẻ công thức chi tiết và cách sơ chế nguyên liệu để khử mùi tanh. Do làm món ghẹ mất nhiều thời gian, nên gia đình ăn mì thay cơm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

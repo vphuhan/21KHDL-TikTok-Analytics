@@ -1,0 +1,84 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu món đậu cuốn lá lốt và bày tỏ sự ngạc nhiên.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Thừa nhận sự nghi ngờ ban đầu",
+      "desc": "Chia sẻ về việc trước đây không tin món này ngon.",
+      "impact_level": "1",
+      "viewer_emotion": "Đồng cảm."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu và sơ chế",
+      "desc": "Mô tả quá trình chuẩn bị đậu và lá lốt.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin cơ bản."
+    },
+    {
+      "step": "Cuốn và chiên",
+      "desc": "Hướng dẫn cách cuốn và chiên đậu với lá lốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị, muốn thử làm theo."
+    },
+    {
+      "step": "Nhấn mạnh kết quả",
+      "desc": "Miêu tả hương vị và cảm nhận khi ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Kêu gọi hành động",
+      "desc": "Khuyến khích người xem tự làm món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Có động lực thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Nhất định các bác phải thử đi, nhức nách luôn."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "béo ngậy",
+    "thơm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Không hiểu làm sao cái món đậu của lá lốt này nó ngon thế các bác ạ.",
+    "Bên ngoài giòn tan, bên trong béo ngậy, lại thơm mùi lá lốt nữa.",
+    "Nhất định các bác phải thử đi, nhức nách luôn."
+  ],
+  "hook_content": "Không hiểu làm sao cái món đậu của lá lốt này nó ngon thế các bác ạ.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ cách làm món đậu cuốn lá lốt chiên giòn, từ khâu chuẩn bị nguyên liệu đến khi hoàn thành món ăn, kèm theo đánh giá hương vị hấp dẫn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

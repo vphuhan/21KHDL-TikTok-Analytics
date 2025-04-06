@@ -1,0 +1,84 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Đặt vấn đề",
+      "desc": "Hỏi tên bánh ở các vùng miền và giới thiệu bánh tro.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về tên gọi khác nhau của bánh."
+    },
+    {
+      "step": "Giải thích",
+      "desc": "Nêu công dụng của bánh tro và sự tò mò về cách làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thắc mắc về nguyên liệu làm bánh tro."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét về hương vị bánh tro khi ăn kèm mật mía.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm nhận được vị ngon đặc biệt của bánh."
+    },
+    {
+      "step": "So sánh",
+      "desc": "So sánh bánh tro với bánh giò tại quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy sự khác biệt giữa hai loại bánh."
+    },
+    {
+      "step": "Khẳng định",
+      "desc": "Quyết định sẽ tiếp tục ủng hộ quán bánh tro này.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng của quán."
+    },
+    {
+      "step": "Thông tin địa điểm",
+      "desc": "Chia sẻ địa chỉ quán bánh tro cho mọi người.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết thêm một địa điểm ăn bánh tro ngon."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Gen Z"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "tò mò",
+    "tuyệt vời",
+    "thơm",
+    "ngọt",
+    "bình thường",
+    "thèm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "ăn dễ tiêu thích hợp với anh em nào mà già yếu. Hoặc là anh em nào là trẻ em ấy thì hay nóng trong thì đi ăn cũng được",
+    "Nói chung là cho cái miếng bánh làm từ tro này vào mồm ấy mình cảm nhận được cái vị ngai ngái của tro. Miếng bánh gio nó hòa cùng với cả mật ăn quá là tuyệt vời",
+    "mỗi lần thèm bánh gio là tôi sẽ ra đây tôi ăn chứ không phải là tìm các hàng bán dọc đường nữa"
+  ],
+  "hook_content": "Anh em cho tôi hỏi cái chỗ ở anh em thì cái bánh này nó tên là cái gì nhỉ?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review bánh gio (bánh tro, bánh ú) ở một quán tại Hà Nội, tập trung vào hương vị đặc trưng khi ăn kèm mật mía và chia sẻ trải nghiệm cá nhân khi thưởng thức món bánh này. Người nói khẳng định sẽ tiếp tục ủng hộ quán vì hương vị đặc biệt.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

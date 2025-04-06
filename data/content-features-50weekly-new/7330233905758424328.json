@@ -1,0 +1,86 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món chè tuyết giáp, món chè đắt đỏ của người Hoa.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món chè đắt đỏ."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Hướng dẫn ngâm tuyết giáp và chọn đu đủ vàng để nấu chè.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích và thú vị."
+    },
+    {
+      "step": "Chưng cách thủy",
+      "desc": "Hướng dẫn chưng cách thủy tuyết giáp và đu đủ đường phèn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Thêm sữa tươi",
+      "desc": "Thêm sữa tươi Kun để tăng độ béo và thơm cho món chè.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn hơn."
+    },
+    {
+      "step": "Thưởng thức và đánh giá",
+      "desc": "Cùng thưởng thức và đánh giá hương vị của món chè.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn được thử ngay."
+    },
+    {
+      "step": "Gợi ý kinh doanh",
+      "desc": "Gợi ý bán trà sữa tuyết giáp và được khen sẽ đẹp da.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy có tiềm năng kinh doanh."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Có dịp thì các bạn có thể mua cho bé nhà mình dùng thử."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "đẹp da",
+    "ngon",
+    "thơm",
+    "béo"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Món chè tuyết giáp, một trong những món chè đắt đỏ nhất trên bàn tiệc của người Hoa để các bạn bổ sung vô cái mâm tiệc của mình ha.",
+    "Nấu trà sữa tuyết giáp, trời nghe ai thấy ngon không? Nghe ai thấy đẹp da là em mê rồi.",
+    "Tuyết giáp... Nó giống như là ăn một cái cục thạch vậy á."
+  ],
+  "hook_content": "Tuyết giáp là mỡ của con nhái hả?Đúng rồi, ăn vô rất là đẹp da.",
+  "hook_type": [
+    "Gây tò mò",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn nấu chè tuyết giáp chưng sữa tươi, một món chè đắt đỏ của người Hoa, với các nguyên liệu như tuyết giáp, đu đủ vàng, đường phèn và sữa tươi. Video cũng chia sẻ trải nghiệm ăn thử và gợi ý kinh doanh món trà sữa tuyết giáp.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

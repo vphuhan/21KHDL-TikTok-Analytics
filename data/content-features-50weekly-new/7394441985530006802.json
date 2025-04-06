@@ -1,0 +1,89 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu hoàn cảnh",
+      "desc": "Sắp về nước nên tranh thủ đi chợ Nhật mua hải sản.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Tò mò về ốc lạ",
+      "desc": "Thắc mắc về loại ốc màu đen giống ốc hương.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Chia sẻ kinh nghiệm",
+      "desc": "Cách người Nhật gói đồ và bảo quản ốc.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Tham khảo ý kiến",
+      "desc": "Hỏi mọi người về loại ốc và giá cả.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Quảng cáo nước chấm",
+      "desc": "Giới thiệu dịch vụ vận chuyển và nước chấm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chế biến ốc",
+      "desc": "Luộc ốc kỹ và chia sẻ cách pha nước chấm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét độ dai, giòn và vị béo của ốc.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "ngon",
+    "dai",
+    "giòn",
+    "béo",
+    "ngon bá cháy",
+    "ngon giả man"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ốc gì mà nó cứng tới nỗi mà lễ gãy nguyên cái cây tâm luôn á chứ.",
+    "Cái đầu thì dai thiệt nghe mọi người nhưng mà dai theo cái kiểu là giòn sần sật á.",
+    "Chấm vô cái chén nước mắm mà múc thêm cái miếng sả tươi nữa, ăn nó giòn mà nó thơm giả man."
+  ],
+  "hook_content": "chỉ còn khoảng hai tuần nữa thôi là mình về nước không có còn đi cái chợ này nữa rồi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ trải nghiệm đi chợ hải sản ở Nhật, đặc biệt là món ốc lạ có màu đen giống ốc hương. Người nói vừa ăn vừa chia sẻ cảm nhận về độ dai, giòn và hương vị của món ốc.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

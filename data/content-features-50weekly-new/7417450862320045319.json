@@ -1,0 +1,93 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu trà sữa túi khổng lồ và ly trà sữa Thái.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm"
+    },
+    {
+      "step": "Chia sẻ trải nghiệm",
+      "desc": "Nêu trải nghiệm cá nhân về các quán review trước.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự thẳng thắn"
+    },
+    {
+      "step": "Đánh giá trà sữa túi",
+      "desc": "Đánh giá trà sữa túi khổng lồ: loãng, ngọt hóa học.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thông tin hữu ích"
+    },
+    {
+      "step": "Đánh giá trà sữa ly",
+      "desc": "Đánh giá trà sữa ly: đậm đà, dễ uống, ổn định.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử trà sữa ly"
+    },
+    {
+      "step": "So sánh hai loại",
+      "desc": "So sánh trà sữa túi và ly, đánh giá tổng quan.",
+      "impact_level": "2",
+      "viewer_emotion": "Biết được sản phẩm phù hợp"
+    },
+    {
+      "step": "Nhấn mạnh quan điểm",
+      "desc": "Nhấn mạnh gu cá nhân khác biệt với số đông.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình với quan điểm"
+    },
+    {
+      "step": "Chấm điểm và kết luận",
+      "desc": "Chấm điểm từng loại và đưa ra lời khuyên.",
+      "impact_level": "2",
+      "viewer_emotion": "Có thêm thông tin tham khảo"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Thôi bai bai.",
+    "Cảm ơn mọi người nha, hết rồi."
+  ],
+  "cta_type": [
+    "Thích video",
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "dễ thương",
+    "ổn định",
+    "ôn hòa",
+    "mừng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tại vì đã đã thấy là không có hợp gu ăn uống rồi. Nhưng thôi kệ đi. Nhất quá thứ lần thứ 25 thôi.",
+    "Đừng có tin mình review.",
+    "Không hợp với mình không có nghĩa là không hợp với những người còn lại."
+  ],
+  "hook_content": "Trên mạng trà sữa túi khổng lồ. Ngoài đời trà sữa túi khổng lồ nha mọi người ơi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review trà sữa túi khổng lồ và trà sữa Thái, tập trung vào trải nghiệm cá nhân và so sánh hương vị. Người review không đánh giá cao trà sữa túi nhưng thấy trà sữa Thái dễ uống và ổn định hơn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

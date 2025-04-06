@@ -1,0 +1,62 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Đặt câu hỏi về sự nhàm chán của tạp hóa tuổi thơ.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu một phiên bản hiện đại của tạp hóa.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Trải nghiệm",
+      "desc": "Yêu cầu bật điều hòa và gọi món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Hài lòng"
+    },
+    {
+      "step": "Thanh toán",
+      "desc": "Thực hiện thanh toán và nhận hóa đơn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Chán tạp hoá tuổi thơ, thì có ngay tạp hoá hiện đại.",
+    "Trời nắng 14, 15 độ thế này, bật cái điều hoà lên cho nó mát.",
+    "Cho một trứng ốp la pha ke."
+  ],
+  "hook_content": "Cô làm mãi tạp hoá tuổi thơ mà không thấy chán à?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu một phiên bản hiện đại của tạp hóa tuổi thơ, với các tiện nghi và món ăn cập nhật. Người xem được trải nghiệm quá trình mua sắm và thanh toán tại cửa hàng.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

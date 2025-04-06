@@ -1,0 +1,81 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu thử thách",
+      "desc": "Người nói giới thiệu thử thách làm kẹo nougat bằng mỡ lợn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Nguồn gốc ý tưởng",
+      "desc": "Giải thích lý do thực hiện thử thách từ bình luận của người xem.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Mời xem kết quả",
+      "desc": "Mời người xem theo dõi kết quả của thử thách làm kẹo.",
+      "impact_level": "1",
+      "viewer_emotion": "Chờ đợi"
+    },
+    {
+      "step": "Quảng bá livestream",
+      "desc": "Thông báo lịch livestream làm kẹo nougat chuẩn công thức.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm"
+    },
+    {
+      "step": "Đánh giá sản phẩm",
+      "desc": "Đánh giá kẹo nougat làm bằng mỡ lợn về ngoại hình và hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "các bác cùng theo dõi xem nhá",
+    "Các bác muốn xem cách làm chuẩn này thì nhất định là không được bỏ qua phiên live của tôi ngày mai đâu nhá."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo",
+    "Follow kênh"
+  ],
+  "emotion_keywords": [
+    "hiếu kỳ",
+    "vẫn ăn được",
+    "không ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "tự nhiên có bác hỏi làm tôi nổi máu hiếu kỳ lên",
+    "ngoại hình xấu, ăn cứng nhưng mà vẫn ăn được nha",
+    "Không bị mùi gì đâu nhưng mà không thể ngon bằng mình làm với bơ được"
+  ],
+  "hook_content": "mở thách làm kẹo Nougat với mỡ lợn.",
+  "hook_type": [
+    "Gây tò mò",
+    "Phản hồi bình luận"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video ghi lại thử thách làm kẹo nougat bằng mỡ lợn theo yêu cầu của người xem, sau đó đánh giá hương vị và so sánh với công thức làm bằng bơ, đồng thời thông báo lịch livestream hướng dẫn làm kẹo nougat chuẩn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

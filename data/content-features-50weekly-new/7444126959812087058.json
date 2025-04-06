@@ -1,0 +1,75 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu xe trái cây",
+      "desc": "Giới thiệu xe trái cây 30 năm ở quận 4, hấp dẫn nhất Sài Gòn",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ nổi tiếng"
+    },
+    {
+      "step": "Mô tả chi tiết",
+      "desc": "Giá cả, các loại trái cây, cách ăn, điểm đặc biệt của quán",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng, muốn ăn thử"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá hương vị xoài và ổi, đặc biệt là ổi luộc",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung hương vị"
+    },
+    {
+      "step": "Kêu gọi tương tác",
+      "desc": "Hỏi khán giả địa điểm bán trái cây hấp dẫn khác ở Sài Gòn",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ngoài ra bạn nào còn biết những cái xe trái cây ở Sài Gòn bán hấp dẫn như thế này nữa thì có thể chỉ phát Huy Nghiên."
+  ],
+  "cta_type": [
+    "Chia sẻ"
+  ],
+  "emotion_keywords": [
+    "hấp dẫn",
+    "thơm",
+    "giòn",
+    "bùi",
+    "ngọt",
+    "đã",
+    "lạ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nhắc tới mà bán trái cây ở quận 4 thì chắc không ai không biết chị này luôn á.",
+    "Ổi luộc thì chị trong một tí muối, ớt và thêm một tí tắc. Tôi thấy là cái sự kết hợp này cũng kỳ lạ lắm.",
+    "Cắn vào một cái phải nói là nước đầy miệng nhưng mà cái chua này nó đã chứ không phải là chua lè chua lét nha."
+  ],
+  "hook_content": "Mỗi ngày một xe trái cây hấp dẫn nhất Sài Gòn và đây là ngày đầu tiên.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu xe trái cây nổi tiếng hơn 30 năm ở quận 4 với món ổi luộc đặc biệt, xoài tươi ngon và các loại mắm chấm hấp dẫn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

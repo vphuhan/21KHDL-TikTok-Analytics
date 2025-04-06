@@ -1,0 +1,64 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu lạp xưởng",
+      "desc": "Phản hồi ý kiến trái chiều và khẳng định chất lượng lạp xưởng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự khác biệt của lạp xưởng."
+    },
+    {
+      "step": "So sánh với loại thường",
+      "desc": "Chỉ ra sự khác biệt về tỉ lệ nạc mỡ của lạp xưởng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với thông tin chi tiết."
+    },
+    {
+      "step": "Khẳng định độ ngon",
+      "desc": "Nhấn mạnh độ ngon và khả năng ăn nhiều của lạp xưởng.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng và muốn thử."
+    },
+    {
+      "step": "Mời ăn thử",
+      "desc": "Mời người xem cùng thưởng thức lạp xưởng.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy gần gũi và được mời gọi."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "lạp xưởng này nó ngon nhứt nách luôn á"
+  ],
+  "hook_content": "Hôm trước bạn nào kêu là cái lạp xưởng này ăn ngấy, mình chắc chắn là bạn chưa ăn thử cái lạp xưởng Khởi Bách Hưng này rồi.",
+  "hook_type": [
+    "Phản hồi bình luận",
+    "Gây tranh cãi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu và khẳng định lạp xưởng Khởi Bách Hưng không ngấy do có tỉ lệ nạc cao, đồng thời nhấn mạnh hương vị ngon và mời người xem cùng thưởng thức.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

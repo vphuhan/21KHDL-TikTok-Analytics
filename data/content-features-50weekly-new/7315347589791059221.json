@@ -1,0 +1,84 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giải thích về tục lệ",
+      "desc": "Tác giả thắc mắc về tục lệ bới cơm ba lần.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về phong tục tập quán."
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Nấu cơm sinh viên với xúc xích và bắp.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với món ăn đơn giản."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Cắt xúc xích và chuẩn bị bắp.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Chiên xúc xích",
+      "desc": "Chiên xúc xích cho chín.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm ăn."
+    },
+    {
+      "step": "Xào bắp",
+      "desc": "Xào bắp cho chín.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn tự làm theo."
+    },
+    {
+      "step": "Làm nước sốt",
+      "desc": "Pha nước sốt từ nước tương và bột.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về công thức."
+    },
+    {
+      "step": "Hoàn thành món ăn",
+      "desc": "Trộn bắp và xúc xích với nước sốt.",
+      "impact_level": "3",
+      "viewer_emotion": "Thấy hấp dẫn và muốn ăn ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Gen Z"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thắc mắc",
+    "thơm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Giải thích giúp tôi á, tại sao phải bới cơm mà bới làm ba lần nha mấy bà ơi.",
+    "Tôi mua được bịch xúc xích có 30.000 à mấy bà, ra làm bốn như vầy nè, để nó làm thành cái chân con bạch tuộc á.",
+    "Hôm nay cùng tôi đi nấu cơm nha, hôm nay mình cũng đi nấu cơm sinh viên luôn."
+  ],
+  "hook_content": "biết á, ở ngoài Bắc á, nếu mà bới cơm vào chén là phải bới ba lần, không được bới hai lần.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ về một phong tục bới cơm ở miền Bắc và hướng dẫn nấu món cơm sinh viên đơn giản với xúc xích và bắp, sử dụng công thức nước sốt tự pha.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

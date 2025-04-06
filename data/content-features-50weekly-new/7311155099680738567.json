@@ -1,0 +1,81 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Chào mừng trở lại và giới thiệu bữa tiệc mukbang thịnh soạn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn."
+    },
+    {
+      "step": "Thưởng thức sashimi",
+      "desc": "Ăn và cảm nhận các loại sashimi khác nhau.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng khi thấy đồ ăn ngon."
+    },
+    {
+      "step": "Quảng cáo Shopee Food",
+      "desc": "Giới thiệu ưu đãi của Shopee Food.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến khuyến mãi."
+    },
+    {
+      "step": "Thưởng thức tôm hùm",
+      "desc": "Mukbang tôm hùm.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú khi xem ăn tôm hùm."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Mukbang bánh kem và tạm biệt người xem.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bạn cũng thử với những món mà bạn thích xem sao nha.",
+    "Hẹn gặp lại bạn vào video lần sau."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "thích",
+    "ngon",
+    "tuyệt vời",
+    "béo",
+    "cay"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Vàng cảm nhận cái hào này á bạn, nó có nhiều sữa lắm luôn á, ăn béo.",
+    "Thật sự rất là ngon luôn á bạn.",
+    "Vàng thích ăn sashimi với lại tôm hùm như vậy á bạn, nhưng mà những món này giá khá là cao á, nên Vàng đợi Shobee Food có chương trình là Vàng đặt về ăn thỏa thích như vậy liền luôn á."
+  ],
+  "hook_content": "Hai bạn, Vàng nhớ bạn quá à, bạn có nhớ Vàng không?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video là một buổi mukbang thịnh soạn của Tóc Vàng, bao gồm sashimi, tôm hùm và bánh kem. Tóc Vàng cũng giới thiệu chương trình khuyến mãi của Shopee Food và khuyến khích người xem thử các món ăn yêu thích của họ.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

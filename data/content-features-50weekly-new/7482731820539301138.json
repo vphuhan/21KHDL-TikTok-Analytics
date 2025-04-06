@@ -1,0 +1,87 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món hủ tiếu xào và tôm chiên giòn miền Tây.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê các nguyên liệu cần thiết để xào hủ tiếu.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Sơ chế",
+      "desc": "Hướng dẫn sơ chế nguyên liệu như ngâm hủ tiếu, xào thịt bò.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "Xào hủ tiếu",
+      "desc": "Hướng dẫn các bước xào hủ tiếu và nêm nếm gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Chiên tôm",
+      "desc": "Chiên tôm lăng bột và chia sẻ lý do làm món này.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Trình bày",
+      "desc": "Gắp hủ tiếu ra đĩa và thú nhận khả năng trang trí kém.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Mời mọi người cùng ăn và giới thiệu các loại tương ớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Xin mời cả nhà cùng ăn với Tuấn nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "cay cay"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ở miền Tây đâu phải Tết mới được ăn hủ tiếu xào đâu, mà thèm là xào nguyên chảo ăn vậy đó.",
+    "Tiếng Việt ta nói nó phong phú, đến đâu thì ẩm thực cũng phong phú đến đó.",
+    "Nhiều khi món ngon ơi là ngon mà Tuấn trang trí là lãng xẹt luôn đó."
+  ],
+  "hook_content": "Ở miền Tây đâu phải Tết mới được ăn hủ tiếu xào đâu, mà thèm là xào nguyên chảo ăn vậy đó. Bùa nữa thêm một dĩa tôm lăng bột chiên giòn nữa.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn cách làm món hủ tiếu xào miền Tây với tôm và thịt bò, cùng món tôm lăng bột chiên giòn ăn kèm. Tuấn chia sẻ các bước làm chi tiết và mời mọi người cùng thưởng thức.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

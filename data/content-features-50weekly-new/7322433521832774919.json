@@ -1,0 +1,80 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Chia sẻ về việc đi làm thẻ ngân hàng và tranh thủ đi chợ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê các nguyên liệu và công thức làm mì tương đen.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Nấu sốt tương đen",
+      "desc": "Hướng dẫn chi tiết cách nấu sốt tương đen chuẩn vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Làm bánh bột chiên",
+      "desc": "Tận dụng nhân đường còn thừa để làm bánh bột chiên.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Hoàn thành và thưởng thức",
+      "desc": "Trình bày món ăn và mời mọi người cùng thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấm cúng"
+    },
+    {
+      "step": "Phản hồi của gia đình",
+      "desc": "Gia đình khen ngon và ăn hết các món đã làm.",
+      "impact_level": "3",
+      "viewer_emotion": "Vui vẻ"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Bây giờ mời mọi người ăn tối mì tương đen chung với cả nhà mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Lâu rồi nhà mình không có ăn mì tương đen, bữa nay làm cái nồi mì tương đen siêu to với lại là cho ông anh mình ăn thử luôn.",
+    "Cũng là sốt tương đen nhưng sau một số bạn nấu là bị đắng. Rồi lần đầu tiên mà mình nấu sốt tương đen luôn á là nó cũng không có bị đắng đâu.",
+    "Bỏ ra có chút xíu công mà là mình được năm sáu cái bánh rồi."
+  ],
+  "hook_content": "Mấy bữa có anh mình ở trên này chơi, đi ra ngoài không có cần ghế số hên cho em chồng mình nữa.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ về quá trình nấu mì tương đen và làm bánh bột chiên nhân đường tại nhà. Người làm video hướng dẫn chi tiết từng bước và mời mọi người cùng thưởng thức bữa tối ấm cúng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

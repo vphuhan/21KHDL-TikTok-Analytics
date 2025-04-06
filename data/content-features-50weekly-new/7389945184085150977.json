@@ -1,0 +1,65 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Mời mọi người cùng ăn ốc luộc sả và giới thiệu món.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị món ốc."
+    },
+    {
+      "step": "Thưởng thức ốc",
+      "desc": "Ăn ốc chấm muối ớt chanh và thể hiện cảm xúc.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn ăn cùng."
+    },
+    {
+      "step": "Trưng bày trứng ốc",
+      "desc": "Khoe trứng ốc và độ tươi ngon của món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú khi thấy trứng ốc."
+    },
+    {
+      "step": "Khoe ốc to",
+      "desc": "Ước lượng kích thước ốc và độ tươi của ốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên vì con ốc to."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "đã"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ăn ốc con bự z mới đã nái nư",
+    "Ốc bu to ngon",
+    "Con này chắc ăn hai lần quá"
+  ],
+  "hook_content": "Mời mọi người ăn ốc luộc sả với em nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang giới thiệu và ăn ốc luộc sả chấm muối ớt chanh, thể hiện sự ngon miệng và thích thú với món ăn, đặc biệt là phần trứng ốc.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

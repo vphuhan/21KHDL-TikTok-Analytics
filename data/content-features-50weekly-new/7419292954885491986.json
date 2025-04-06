@@ -1,0 +1,85 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán xôi",
+      "desc": "Giới thiệu quán xôi nổi tiếng ở Gia Lâm lúc 5:39 sáng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán xôi nổi tiếng."
+    },
+    {
+      "step": "Đánh giá xôi rúc, xôi thịt",
+      "desc": "Đánh giá xôi rúc 10k, xôi thịt 20k, xôi xéo chả trứng cút.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và muốn ăn thử."
+    },
+    {
+      "step": "Đánh giá các thành phần",
+      "desc": "Nhận xét về độ mềm của thịt, vị thơm của xôi, vị dừa.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng về hương vị."
+    },
+    {
+      "step": "Giới thiệu xôi cốm dừa",
+      "desc": "Giới thiệu xôi cốm dừa hạt sen 10k, ba người ăn được.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy giá cả hợp lý."
+    },
+    {
+      "step": "Phỏng vấn chủ quán",
+      "desc": "Phỏng vấn chủ quán về lãi, thứ hạng quán xôi.",
+      "impact_level": "1",
+      "viewer_emotion": "Tập trung vào nội dung phỏng vấn."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Mời mọi người đến quán ăn và nhận mình là số hai.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự khiêm tốn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mời mọi người đến ăn xôi bánh dương gió tay nhá"
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "mềm",
+    "đã",
+    "hồi hộp"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn xôi không ngon thì sao cơ ạ? Anh xoa vào mặt luôn.",
+    "Ở trung tâm Hà Nội xác định các quán khác phải chắp tay niệm Phật.",
+    "Mình phải khiêm tốn, mình phải luôn nhận là số hai thôi."
+  ],
+  "hook_content": "quay em ơi.Á!",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video review quán xôi của anh Dương Chấm Bi lúc 5h sáng ở Gia Lâm, giới thiệu các loại xôi như xôi rúc, xôi thịt, xôi cốm dừa và phỏng vấn chủ quán về chất lượng, giá cả.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

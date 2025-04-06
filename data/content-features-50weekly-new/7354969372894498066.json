@@ -1,0 +1,74 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Nhắc lại kỷ niệm về video hướng dẫn làm gà hấp mắm nhĩ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị vì gợi nhớ kỷ niệm."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê nguyên liệu và định lượng làm gà hấp mắm nhĩ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, cần thiết để nấu ăn."
+    },
+    {
+      "step": "Nấu sốt",
+      "desc": "Hướng dẫn nấu sốt mắm nhĩ đến khi kẹo lại.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị vì công thức dễ làm."
+    },
+    {
+      "step": "Hấp gà",
+      "desc": "Cho gà vào chảo sốt, hấp đến khi chín.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn biết kết quả."
+    },
+    {
+      "step": "Hoàn thiện",
+      "desc": "Rưới sốt lên gà để lên màu đẹp.",
+      "impact_level": "3",
+      "viewer_emotion": "Thấy hấp dẫn và muốn thử ngay."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Tự tin công thức này có thể kinh doanh được.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng món ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "tự tin"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Công thức này là mọi người có thể kinh doanh được luôn á."
+  ],
+  "hook_content": "Quay trở về thời gian đầu tiên mà lúc tôi mới chập chững làm top top thì video hướng dẫn làm gà hấp mắm nhĩ là video được lên xu hướng đầu tiên của tôi luôn á.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn chi tiết cách làm gà hấp mắm nhĩ, gợi nhớ lại kỷ niệm video đầu tiên lên xu hướng của người làm nội dung và tự tin khẳng định công thức này có thể kinh doanh được.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Trang trọng"
+  ]
+}

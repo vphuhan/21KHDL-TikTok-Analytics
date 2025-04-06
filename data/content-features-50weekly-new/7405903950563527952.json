@@ -1,0 +1,86 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về quán xiên bẩn siêu đông trước cổng trường.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán ăn được giới thiệu."
+    },
+    {
+      "step": "Thử thách",
+      "desc": "Thực hiện thử thách đạt view để nhận tiền mừng cưới.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với thử thách đặt ra."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Đánh giá hương vị và giá cả của xiên bẩn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy đói bụng và muốn ăn thử."
+    },
+    {
+      "step": "Nhận xét chung",
+      "desc": "Đưa ra nhận xét về độ đầy đặn và tương chấm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy có thêm thông tin để lựa chọn."
+    },
+    {
+      "step": "So sánh",
+      "desc": "So sánh với các quán xiên bẩn khác.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thông tin này khá hữu ích."
+    },
+    {
+      "step": "Chuyển địa điểm",
+      "desc": "Di chuyển đến quán xiên bẩn siêu vắng.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về địa điểm tiếp theo."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Đánh giá quán vắng và không recommend.",
+      "impact_level": "2",
+      "viewer_emotion": "Tiếc nuối vì quán không ngon."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "rẻ"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nếu mà clip này được 1 triệu view hoặc là 2 triệu view thì thằng đệ mình nó sẽ phải mừng cưới mình với cái số tiền tương ứng với cái số view mà nó đã được trong cái clip này.",
+    "Thực ra thì tôi thấy xiên bẩn ở đâu nó cũng như nhau ấy.",
+    "Cảm giác nó không xứng đáng với cái giá tiền nên là sẽ không recommend cho mọi người nhá."
+  ],
+  "hook_content": "review xiên bẩn siêu đông và xiên bẩn siêu vắng.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review hai quán xiên bẩn, một quán siêu đông và một quán siêu vắng. Người review chia sẻ trải nghiệm và đánh giá chất lượng, giá cả của cả hai quán, đồng thời thách đố người bạn mừng cưới nếu video đạt triệu view.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

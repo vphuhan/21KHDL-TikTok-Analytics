@@ -1,0 +1,86 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu vấn đề",
+      "desc": "Phản hồi về việc giá thịt bằm 10k gây tranh cãi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Giới thiệu các nguyên liệu cần thiết và cách mua.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Sơ chế đậu hũ",
+      "desc": "Hướng dẫn lăn đậu hũ qua bột và chiên giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Xào thịt bằm",
+      "desc": "Hướng dẫn phi hành, xào thịt và thêm các nguyên liệu khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Nấu nước sốt",
+      "desc": "Hướng dẫn pha nước sốt và tạo độ sánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Hoàn thành món ăn",
+      "desc": "Hướng dẫn thêm đậu hũ vào nước sốt và thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn ăn ngay"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Gen Z"
+  ],
+  "cta_content": [
+    "Vô like cho tôi 100 clip ha."
+  ],
+  "cta_type": [
+    "Thích video",
+    "Follow kênh"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "giòn",
+    "núng nính",
+    "muốn bốc ăn",
+    "ghê"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tôi mà kiếm được cái chỗ bán thịt bằm 10.000 thì mấy bà tính gì với tôi.",
+    "Núng nính y chang cái cục đậu hũ phô mai vậy á, muốn bốc chấm tương ớt ăn ghê."
+  ],
+  "hook_content": "Khải này nó chỉ mọi người nấu cơm sinh viên á, làm gì có chỗ nào mà bán cái thịt bằm mà 10.000, chắc chưa.",
+  "hook_type": [
+    "Phản hồi bình luận",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn nấu món đậu hũ sốt thịt bằm đơn giản, giá rẻ cho sinh viên, đồng thời đáp trả những bình luận nghi ngờ về giá thịt bằm 10k. Người nấu hướng dẫn chi tiết từng bước, từ chuẩn bị nguyên liệu đến hoàn thành món ăn.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

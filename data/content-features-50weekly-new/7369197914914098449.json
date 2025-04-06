@@ -1,0 +1,88 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về việc thử bánh mì đắt nhất Sài Gòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Khám phá menu",
+      "desc": "Xem menu và chọn bánh mì truyền thống và hải sản.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá hình thức",
+      "desc": "Nhận xét về hình thức bánh mì và các thành phần đi kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Đánh giá bánh mì truyền thống",
+      "desc": "Mô tả và đánh giá bánh mì truyền thống.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Đánh giá bánh mì hải sản",
+      "desc": "Mô tả và đánh giá bánh mì hải sản.",
+      "impact_level": "3",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "So sánh và kết luận",
+      "desc": "So sánh giá cả và chất lượng với các thương hiệu khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm"
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Nêu cảm nhận chung và đưa ra lời khuyên.",
+      "impact_level": "3",
+      "viewer_emotion": "Hài lòng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Tôi thử giàu, bạn cũng thế, lâu lâu làm bữa cải thiện nó cũng đã cái miệng mọi người."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngon cực kỳ",
+    "đã cái miệng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bánh mì đắt nhất Sài Gòn",
+    "Tôi thử giàu, bạn cũng thế",
+    "Hôm nào đói thiệt đói me me làm một ổ ăn phát là bao đã luôn"
+  ],
+  "hook_content": "nay đi ăn thử bánh mì đắt nhất Sài Gòn nha mọi người.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review hai loại bánh mì (truyền thống và hải sản) tại một quán bánh mì được cho là đắt nhất Sài Gòn, so sánh với các thương hiệu khác về giá cả và chất lượng, đồng thời đưa ra đánh giá cá nhân về hương vị và trải nghiệm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

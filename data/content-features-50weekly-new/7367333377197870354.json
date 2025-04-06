@@ -1,0 +1,85 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Mẹ và con cùng nhau xếp hạng các món ăn yêu thích.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn được lựa chọn."
+    },
+    {
+      "step": "Đánh giá cá kho tộ",
+      "desc": "Mẹ xếp cá kho tộ ở vị trí thứ hai vì rất thích cá.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú khi biết món ăn yêu thích."
+    },
+    {
+      "step": "Đánh giá bánh xèo và bò lá lốt",
+      "desc": "Bánh xèo xếp thứ ba, bò lá lốt thứ năm, có sự so sánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Hiểu rõ hơn về sở thích của người mẹ."
+    },
+    {
+      "step": "Đánh giá bún chả",
+      "desc": "Mẹ chưa ăn bún chả bao giờ nên xếp cuối bảng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, vì chưa biết hương vị."
+    },
+    {
+      "step": "Đánh giá bánh mì và gỏi cuốn",
+      "desc": "Bánh mì xếp thứ 7, gỏi cuốn xếp thứ 6, có sự điều chỉnh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị với sự thay đổi thứ hạng."
+    },
+    {
+      "step": "Đánh giá phở và bún bò huế",
+      "desc": "Mẹ không thích phở, bún bò huế xếp thứ 4.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về lý do không thích phở."
+    },
+    {
+      "step": "Đánh giá cơm tấm và bánh cuốn",
+      "desc": "Cơm tấm xếp thứ nhất, bánh cuốn xếp thứ 9.",
+      "impact_level": "3",
+      "viewer_emotion": "Phấn khích khi biết món ăn yêu thích nhất."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Tụi con thích ăn món nào nhất còm me cho mẹ biết với nha"
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "thích",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mẹ thích cá dữ lắm, vì mẹ tuổi con mèo mà.",
+    "Cơm tấm. Mẹ thích cơm tấm dữ lắm, sáng ngày mẹ ăn, sáng cơm tấm là mẹ thích nhất."
+  ],
+  "hook_content": "thử xếp hạng các món ăn theo yêu thích của mẹ nha mẹ từ số 1 đến số 10.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Liệt kê"
+  ],
+  "summarization": "Video ghi lại cảnh mẹ và con cùng nhau xếp hạng các món ăn yêu thích của mẹ từ 1 đến 10, chia sẻ lý do thích hoặc không thích từng món.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

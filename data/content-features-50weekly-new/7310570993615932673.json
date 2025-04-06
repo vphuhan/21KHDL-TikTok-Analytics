@@ -1,0 +1,91 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Người nói giới thiệu món bánh tráng trộn tự làm và công thức.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Chia sẻ cảm xúc",
+      "desc": "Chia sẻ cảm xúc hạnh phúc khi món ăn thành công và ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Thông báo về tình trạng sức khỏe",
+      "desc": "Thông báo về việc bị cảm nhưng vẫn muốn chia sẻ công thức.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm"
+    },
+    {
+      "step": "Hướng dẫn làm sốt",
+      "desc": "Hướng dẫn chi tiết cách phi tỏi, ớt và nêm gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "Mẹo nấu ăn",
+      "desc": "Chia sẻ mẹo cho bơ Tường An vào sau để giữ mùi thơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Học hỏi"
+    },
+    {
+      "step": "Chọn bánh tráng",
+      "desc": "Hướng dẫn chọn loại bánh tráng mỏng để trộn không bị cứng.",
+      "impact_level": "2",
+      "viewer_emotion": "Lưu ý"
+    },
+    {
+      "step": "Lưu ý khi trộn",
+      "desc": "Nhấn mạnh sốt trộn được nhiều và không nên trộn quá nhiều.",
+      "impact_level": "2",
+      "viewer_emotion": "Ghi nhớ"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết",
+    "Gen Z"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "hạnh phúc",
+    "bất ngờ"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mình hứa là công thức sốt trộn bánh tráng này ngon lắm luôn và chưa ai có công thức này cả.",
+    "Có một cái mẹo là khi bạn nấu gần xong, tắt bếp mới cho bơ Tường An vào, bạn đừng bỏ bơ sớm quá, nó sẽ bị mất mùi, không còn thơm nữa.",
+    "Món này vừa ngon, vừa rẻ mà vị sẽ khiến bạn bất ngờ."
+  ],
+  "hook_content": "Mình hứa là công thức sốt trộn bánh tráng này ngon lắm luôn và chưa ai có công thức này cả.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video hướng dẫn công thức làm sốt trộn bánh tráng tự chế, nhấn mạnh độ ngon và độc đáo của công thức. Người nói chia sẻ các mẹo để làm sốt ngon và cách chọn bánh tráng phù hợp.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

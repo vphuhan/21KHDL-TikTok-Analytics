@@ -1,0 +1,51 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Người nói đề cập đến việc thường xuyên ăn thịt ba chỉ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Nhận xét về món thịt ba chỉ đã mua, khen ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Không hiểu là vợ mình có thu hằn gì với thịt vịt hay không?",
+    "Mà mỗi lần mình thèm thịt vịt là lại cứ mua ba chỉ.",
+    "Được cái là hôm nay mua cũng ngon."
+  ],
+  "hook_content": "review cả thế giới. Không hiểu là vợ mình có thu hằn gì với thịt vịt hay không? Mà mỗi lần mình thèm thịt vịt là lại cứ mua ba chỉ mà mua về cũng bắt review nữa.",
+  "hook_type": [
+    "Gây tò mò",
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review món thịt ba chỉ do vợ mua. Người nói chia sẻ về sở thích ăn thịt vịt nhưng thường xuyên được mua thịt ba chỉ để review và đánh giá món ăn này ngon.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

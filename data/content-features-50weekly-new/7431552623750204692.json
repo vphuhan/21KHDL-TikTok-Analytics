@@ -1,0 +1,73 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu về việc nhận học bổng và muốn ăn bánh",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy dễ thương và quan tâm đến món bánh"
+    },
+    {
+      "step": "Mua bánh",
+      "desc": "Dì đồng ý mua bánh Petit Beurre Lai cho cháu",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy vui lây vì cháu được ăn bánh"
+    },
+    {
+      "step": "Thưởng thức bánh",
+      "desc": "Hai dì cháu bắt đầu ăn và miêu tả hương vị",
+      "impact_level": "3",
+      "viewer_emotion": "Thấy thèm thuồng và muốn ăn thử"
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Cả hai cùng nhau đánh giá và chia sẻ cảm nhận",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của từng loại bánh"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Hứa hẹn mua tiếp nếu cháu đạt học bổng",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy ấm áp và vui vẻ"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thèm",
+    "thích",
+    "vui"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "cuối cùng hôm nay mình cũng được ăn bánh của Petit Beurre Lai rồi",
+    "Cốm Hà Nội ngon lắm sâu ơi",
+    "Cái vị nó kiểu chua chua béo béo ấy."
+  ],
+  "hook_content": "Dì ơi dì, cháu mới nhận học bổng Chu Văn An đấy dì ạ!",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video ghi lại cảnh hai dì cháu cùng nhau ăn bánh Petit Beurre Lai sau khi cháu đạt học bổng. Cả hai cùng nhau thưởng thức và chia sẻ cảm nhận về hương vị của các loại bánh.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

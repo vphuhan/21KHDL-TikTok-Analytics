@@ -1,0 +1,81 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán hoa quả dầm ở 25 Thái Phiên",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về địa điểm"
+    },
+    {
+      "step": "Miêu tả nguyên liệu",
+      "desc": "Miêu tả hoa quả tươi, được gọt liên tục và trộn gia vị",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn vì độ tươi ngon"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhấn mạnh vị chua ngọt, giòn và ngon hơn các quán khác",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn ăn thử"
+    },
+    {
+      "step": "Nhấn mạnh độ nổi tiếng",
+      "desc": "Quán rất đông khách, chứng tỏ độ uy tín và chất lượng",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng"
+    },
+    {
+      "step": "Thông tin bổ sung",
+      "desc": "Không có chỗ ngồi, chỉ bán mang về hoặc order qua app",
+      "impact_level": "1",
+      "viewer_emotion": "Biết thêm chi tiết về quán"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Hoa quả rầm ở 25 Thái Phiên thì vừa ngon vừa rẻ, mọi người đi qua thì vào mua ăn thử xem."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "sướng mồm",
+    "cuốn dã man",
+    "ngon",
+    "không thể nào quên"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Hoa quả dầm 6k 1 lạng phải dùng từ “ĐỈNH”",
+    "Lần nào đi qua đây là cứ phải làm một túi thập cẩm ăn cho nó sướng mồm.",
+    "Đảm bảo là ăn ở đây xong là không thể nào quên cái vị chua cay mặn ngọt."
+  ],
+  "hook_content": "Con và con một lạng con bà giấm.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán hoa quả dầm ở 25 Thái Phiên, Hà Nội với giá 6k/lạng, được đánh giá là ngon và đáng thử. Người bán hàng trộn khéo léo và quán rất đông khách.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Nhầm món, giới thiệu chân vịt sốt thái thay vì chân gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món mới lạ."
+    },
+    {
+      "step": "Miêu tả cảm quan",
+      "desc": "Nhấn mạnh độ giòn của chân vịt so với chân gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự khác biệt."
+    },
+    {
+      "step": "So sánh giá",
+      "desc": "Chân vịt đắt hơn nhưng được ưu đãi.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin giá cả."
+    },
+    {
+      "step": "Khuyến mãi",
+      "desc": "Cóc xoài miễn phí, chân vịt có thể xin thêm.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ vì được ưu đãi."
+    },
+    {
+      "step": "Đánh giá chất lượng",
+      "desc": "Chân vịt không hôi, giòn, sốt thái ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng."
+    },
+    {
+      "step": "Địa điểm",
+      "desc": "Địa chỉ quán ở 29 phố hàng giấy.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết được địa điểm quán."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Và địa chỉ quán ở 29 phố hàng giấy, mọi người qua thử nhá."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "giòn",
+    "ngon",
+    "thích"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Chân vịt nhá, chả hiểu sao nhưng giòn hơn cả chân gà cơ.",
+    "Thích thêm chân vịt nhá, chị chủ quán cho thêm luôn.",
+    "Nó trộn cùng cái quả sốt thái thì thôi, chấm hết luôn."
+  ],
+  "hook_content": "ủ quán mang nhầm hàng rồi.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món chân vịt sốt thái mới lạ ở quán ăn trên phố Hàng Giấy, Hà Nội, với điểm nhấn là độ giòn đặc biệt và ưu đãi hấp dẫn từ chủ quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

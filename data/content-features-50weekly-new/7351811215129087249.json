@@ -1,0 +1,44 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bún riêu cua và các thành phần.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Ăn bún riêu",
+      "desc": "Người nói bắt đầu ăn bún riêu cua.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [],
+  "has_cta": "false",
+  "highlight_phrases": [],
+  "hook_content": "Hôm nay mời cả nhà ăn bún riêu cua với Hà nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang giới thiệu và ăn bún riêu cua với các thành phần như mắm tôm, chả cua, riêu, và giò heo.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

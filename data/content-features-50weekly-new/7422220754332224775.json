@@ -1,0 +1,72 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu cơm, thịt luộc và hũ mắm dưa kèn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhấn mạnh vị ngon của nước mắm.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Miêu tả chi tiết",
+      "desc": "Thịt luộc giòn và các thành phần trong hũ mắm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng."
+    },
+    {
+      "step": "Cảm nhận cá nhân",
+      "desc": "Chia sẻ cảm giác mặn và thèm cơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Đánh giá món ăn là quá ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn thử ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "Ngon",
+    "Siêu ngon",
+    "Giòn",
+    "Quá ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ngon cút đất.",
+    "Cái nước mắm này siêu ngon.",
+    "Thịt luộc nó giòn mọi người."
+  ],
+  "hook_content": "Hôm nay con ăn cơm với lại thịt luộc với lại hũ mắm, dưa kèn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh một người ăn cơm với thịt luộc và hũ mắm dưa kèn, tập trung vào việc miêu tả hương vị ngon và cảm giác thèm ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

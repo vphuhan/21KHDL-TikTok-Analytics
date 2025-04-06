@@ -1,0 +1,65 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món kê gà và mời mọi người cùng ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Trải nghiệm hương vị",
+      "desc": "Miêu tả hương vị béo ngậy và cách ăn kèm.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Đánh giá món ăn ngon, cay và nóng.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người xem video của mình, hẹn gặp video sau."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "béo",
+    "ngon",
+    "cay",
+    "nóng",
+    "tanh"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nó béo mọi người, xong rồi nó tan trong miệng luôn ấy.",
+    "Ngon cay mà nóng mọi người ạ."
+  ],
+  "hook_content": "Xin chào mọi người, hôm nay mình sẽ ăn kê gà, mời mọi người ăn cùng mình nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang về món kê gà hấp hành, người ăn chia sẻ trải nghiệm ăn món này lần đầu, chấm với muối ớt tiêu chanh, cảm nhận vị béo ngậy và cay nóng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

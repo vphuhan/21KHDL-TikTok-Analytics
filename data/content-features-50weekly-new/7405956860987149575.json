@@ -1,0 +1,97 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món trứng cá ngát hấp sả siêu to khổng lồ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Nguồn gốc nguyên liệu",
+      "desc": "Chia sẻ về độ hiếm và cách có được trứng cá.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị vì độ hiếm của món ăn."
+    },
+    {
+      "step": "Chuẩn bị và chế biến",
+      "desc": "Mô tả sơ chế, ướp gia vị và quá trình hấp trứng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, cung cấp thông tin."
+    },
+    {
+      "step": "Uống nước giải khát",
+      "desc": "Giới thiệu và uống cà phê trong lúc chờ trứng chín.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thư giãn, có yếu tố giải trí."
+    },
+    {
+      "step": "Trình bày thành phẩm",
+      "desc": "Miêu tả món trứng cá sau khi hấp chín.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món ăn."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Ăn kèm trứng cá với muối ớt và đánh giá hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy ngon miệng."
+    },
+    {
+      "step": "Lời mời",
+      "desc": "Mời mọi người cùng ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy được mời tham gia."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi nghe."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "siêu to khổng lồ",
+    "yêu dấu",
+    "đậm đà",
+    "sánh kẹo",
+    "đã",
+    "ngon",
+    "tê tái tâm hồn",
+    "u nu béo bùi",
+    "dẻo dẻo",
+    "cay cay",
+    "ngon chấn động địa"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ăn trứng cá ngát siêu to khổng lồ hấp sả nha",
+    "ăn còn dẻo dẻo chứ không có bị khô, quện thêm chén muối ớt cay cay nữa, chèn ơi, ta nói ngon chấn động địa luôn",
+    "trứng thì u nu béo bùi"
+  ],
+  "hook_content": "Hello mọi người, lại là tôi, Mập Bự thích nấu ăn đây.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu và review món trứng cá ngát hấp sả siêu to khổng lồ, từ cách chế biến đến thưởng thức kèm muối ớt cay, đồng thời chia sẻ cảm xúc ngon miệng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

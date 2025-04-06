@@ -1,0 +1,77 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Gọi món",
+      "desc": "Người nói đến quán cơm và gọi các món ăn được giới thiệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn."
+    },
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Miêu tả không gian quán, thực đơn và sự khác biệt so với quán khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự độc đáo."
+    },
+    {
+      "step": "Trải nghiệm món ăn",
+      "desc": "Thưởng thức và miêu tả hương vị của các món đã chọn.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm giác thèm thuồng."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Đánh giá độ ngon, sự vừa miệng và gợi ý quay lại.",
+      "impact_level": "3",
+      "viewer_emotion": "Tin tưởng vào đánh giá."
+    },
+    {
+      "step": "Giới thiệu địa điểm",
+      "desc": "Thông tin về địa điểm quán cơm cho người xem.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ghé thăm quán."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giới thiệu với tất cả anh em bà con nhá. Đây là tiệm cơm Hương Ký ở quận 11. Bao ngon, chuẩn của người bông nhá."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thích",
+    "vừa khẩu vị",
+    "ngon miệng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Em đi hơn 20 cây sang đây đấy.",
+    "Vì mấy thìa nước của thịt kho cộng với cả nước của dưa chua chan với cơm, ăn nó cực kỳ là đưa miệng luôn.",
+    "Bao ngon, chuẩn của người bông nhá."
+  ],
+  "hook_content": "ơi cho em gọi cơm với ạ. Cho xin phép quay một tí nhá. Dạ. Dạ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quán cơm Hương Ký của người Hoa ở quận 11, tập trung vào trải nghiệm thực tế, đánh giá hương vị món ăn và giới thiệu địa điểm quán. Người nói đặc biệt thích món ruột heo và thịt ba chỉ kho, cũng như thói quen uống xá xị khi ăn cơm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

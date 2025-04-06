@@ -1,0 +1,77 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu bánh Guto Hàn Quốc và trào lưu ăn với sữa.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món bánh mới lạ."
+    },
+    {
+      "step": "Thực hiện",
+      "desc": "Đổ sữa vào bánh Guto và bắt đầu ăn thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức muốn xem phản ứng."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét về hương vị khi ăn bánh Guto với sữa.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn thử ngay."
+    },
+    {
+      "step": "Gợi ý kết hợp",
+      "desc": "Gợi ý mix bánh Guto với các loại sữa khác nhau.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích, muốn thử các cách mix khác."
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Khuyên mọi người nên thử bánh Guto với sữa.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào lời khuyên."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người đã xem video của mình, hẹn mọi người ở video sau."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngọt",
+    "dẻo"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đúng là ăn với sữa thì nó sẽ ngon hơn.",
+    "Nói chung là ngon mọi người nên thử."
+  ],
+  "hook_content": "Hôm nay mình có bánh Guto của Hàn mọi người ạ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video review bánh Guto của Hàn Quốc khi ăn cùng với sữa, cho thấy bánh ngon hơn, không bị ngán và gợi ý mix với các loại sữa khác. Người nói khuyến khích mọi người nên thử.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

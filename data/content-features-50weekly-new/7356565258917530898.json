@@ -1,0 +1,88 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu chuyến đi",
+      "desc": "Giới thiệu về chuyến đi Đà Nẵng của gia đình, không có Suhan.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về chuyến đi và các hoạt động."
+    },
+    {
+      "step": "Đến Đà Nẵng",
+      "desc": "Di chuyển từ Cần Thơ đến Đà Nẵng, cảm nhận ban đầu về thành phố.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy háo hức, mong chờ khám phá."
+    },
+    {
+      "step": "Tham quan chùa Linh Ứng",
+      "desc": "Đi chùa Linh Ứng cầu sức khỏe cho Suhan, ăn dừa nước dầm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với trải nghiệm du lịch tâm linh."
+    },
+    {
+      "step": "Khám phá Hội An",
+      "desc": "Ăn tối gần Hội An, đi thuyền ngắm cảnh ban đêm.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thư giãn, tận hưởng không khí."
+    },
+    {
+      "step": "Ăn hải sản",
+      "desc": "Ăn hải sản tại quán quen, thưởng thức ốc hương nướng và lẩu cá mú.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn được thưởng thức hải sản."
+    },
+    {
+      "step": "Kết thúc ngày",
+      "desc": "Đi bộ trên cát, tận hưởng gió biển và kết thúc ngày đầu tiên.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy bình yên, thư thái."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người đã luôn theo dõi và ủng hộ gia đình của mình nha."
+  ],
+  "cta_type": [
+    "Follow kênh"
+  ],
+  "emotion_keywords": [
+    "háo hức",
+    "mát",
+    "mê",
+    "linh thiêng",
+    "nhớ",
+    "mát dễ sợ",
+    "đáng sống",
+    "vui",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ốc hương nướng này lần đầu tiên ba Tụ Hân ăn dính luôn, dấm thêm chút muối ớt nữa chứ người ta nói ngon muốn nhứt cái nách luôn á.",
+    "Người vô trong đây thêm chút xíu đường nữa mà ngọt ngọt nó y như vị miền tây dưới mình luôn."
+  ],
+  "hook_content": "này mời mọi người trải nghiệm Đà Nẵng cùng gia đình bọn mình.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại trải nghiệm du lịch Đà Nẵng hai ngày ba đêm của một gia đình, bao gồm tham quan chùa Linh Ứng, Hội An và thưởng thức hải sản địa phương. Đặc biệt, món ốc hương nướng được ba của Tụ Hân rất yêu thích.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

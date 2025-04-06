@@ -1,0 +1,77 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu về độ nổi tiếng và sự đông đúc của quán xôi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ nổi tiếng của quán."
+    },
+    {
+      "step": "Gọi món",
+      "desc": "Rủ bạn đi ăn và order món theo gợi ý của chủ quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự nhiệt tình của chủ quán."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Đánh giá chi tiết các thành phần của món xôi.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đói bụng và muốn thử."
+    },
+    {
+      "step": "Thông tin thêm",
+      "desc": "Giá cả, các loại topping khác và địa chỉ quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến địa chỉ và giá cả."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "không biết mọi người đã được thử chưa nhỉ?"
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Đặt câu hỏi"
+  ],
+  "emotion_keywords": [
+    "cay tê tê",
+    "mềm",
+    "ngấm đẫm",
+    "hợp",
+    "thơm",
+    "ngậy",
+    "béo ngậy",
+    "chuẩn bài",
+    "giải ngán"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Sau hàng xôi thợ nhuộm thì đây có phải là quán nổi và đông nhất trên phố cổ không anh em?",
+    "Nghe theo lời chị chủ hội đứa gọi hai phần topping mà đã được nhiều như này rồi đấy.",
+    "Pate mình thấy cũng khá là thơm và ngậy. Trứng ở đây thì cũng còn nguyên lòng đào nha, trộn cùng xôi với pate."
+  ],
+  "hook_content": "Xuất đầy đủ là bao nhiêu đấy chị? 100.000. 100.000. Là 12 món đấy chị.",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán xôi Bát Sứ nổi tiếng ở phố cổ Hà Nội, giới thiệu các loại topping ăn kèm và chia sẻ trải nghiệm cá nhân khi ăn tại quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

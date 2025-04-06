@@ -1,0 +1,93 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sự thèm ăn",
+      "desc": "Tự nhiên thèm ăn vặt và muốn ăn tất cả các món.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị vì sự thèm ăn được thể hiện hài hước."
+    },
+    {
+      "step": "Review gà chiên",
+      "desc": "Gà chiên giòn, chấm sốt trứng muối béo ngậy và ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng món gà chiên giòn."
+    },
+    {
+      "step": "Giới thiệu mì xăm",
+      "desc": "Mì xăm đặc biệt với nhiều topping hấp dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy đói bụng khi nhìn thấy nhiều topping."
+    },
+    {
+      "step": "Review chảo gà phô mai",
+      "desc": "Chảo gà phô mai 79k ngon và đáng thử.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn ăn thử ngay chảo gà phô mai nóng hổi."
+    },
+    {
+      "step": "Review tôm càng nướng phô mai",
+      "desc": "Tôm càng nướng phô mai với sốt béo thơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của sốt phô mai."
+    },
+    {
+      "step": "Giới thiệu combo nướng",
+      "desc": "Combo nướng một người 79k đầy đủ và hợp lý.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy combo nướng hấp dẫn và đáng giá."
+    },
+    {
+      "step": "Giới thiệu lẩu",
+      "desc": "Quán ăn vặt có cả nướng và lẩu giá học sinh.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng vì quán có nhiều lựa chọn."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thèm",
+    "hấp dẫn",
+    "ngon",
+    "giòn rụm",
+    "béo",
+    "đã",
+    "thơm",
+    "khoái",
+    "hợp lý",
+    "no"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ta nói miếng gà mới chiên nóng hổi mà giòn rụm, mà nhớ kêu thêm cái sốt trứng muối này nha, chấm hơi bị dính luôn á.",
+    "Đã gà ráng lắc phô mai mà còn chấm trứng muối nữa ta nói nó béo đã luôn.",
+    "Sao cái món gì mà có phô mai ăn nó dính dữ gì ta?"
+  ],
+  "hook_content": "Để hôm nay mình kể một sự thật mà các bạn chưa hề biết.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quán ăn vặt với nhiều món hấp dẫn như gà chiên, mì xăm, chảo gà phô mai, tôm càng nướng phô mai và combo nướng, đặc biệt giá cả phải chăng phù hợp với học sinh sinh viên.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

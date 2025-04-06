@@ -1,0 +1,89 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu hủ tiếu hải sản đặc biệt với giá 150.000 đồng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn đặc biệt này."
+    },
+    {
+      "step": "Đánh giá hủ tiếu",
+      "desc": "Nhận xét về tôm khô nhỏ và việc không có canh nước lèo.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến đánh giá chi tiết."
+    },
+    {
+      "step": "Chấm điểm hủ tiếu",
+      "desc": "Chấm điểm 8 và nhận xét 'ngon hơn nha, cho tám cũng chưa đạt lắm'.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình hoặc không đồng tình với điểm số."
+    },
+    {
+      "step": "Giới thiệu bánh bao",
+      "desc": "Giới thiệu bánh bao xá xíu 35.000 và bánh bao đặc biệt 80.000.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng của bánh bao."
+    },
+    {
+      "step": "Đánh giá bánh bao đặc biệt",
+      "desc": "Miêu tả chi tiết thành phần bánh bao đặc biệt và đánh giá không đậm đà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị bánh bao đặc biệt."
+    },
+    {
+      "step": "Chấm điểm bánh bao",
+      "desc": "Chấm điểm 7 và gợi ý 'ngon chút nữa lì ba bụng bự sẽ cho 10 điểm'.",
+      "impact_level": "2",
+      "viewer_emotion": "Hi vọng lần sau bánh sẽ ngon hơn."
+    },
+    {
+      "step": "Đánh giá đồ uống",
+      "desc": "Đánh giá rau má và chè sen, nhận xét về độ ngọt và hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Cân nhắc lựa chọn đồ uống phù hợp."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Hẹn mọi người chấm điểm video tiếp theo nha."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "mát",
+    "ngọt",
+    "ổn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ngon chút nữa lì ba bụng bự sẽ cho 10 điểm",
+    "nhỏ nhưng mà nó có vỏ",
+    "quán này cuốn tám ổn"
+  ],
+  "hook_content": "chấm điểm quán luyến húa của ca sĩ Rile",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video review quán Liến Húa của ca sĩ Gil Lê, với các món ăn được đánh giá và chấm điểm như hủ tiếu hải sản, bánh bao xá xíu, rau má và chè sen. Quán được đánh giá ở mức ổn.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

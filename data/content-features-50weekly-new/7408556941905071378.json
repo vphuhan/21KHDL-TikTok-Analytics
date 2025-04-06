@@ -1,0 +1,100 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món nem chua rán siêu to và độ nổi tiếng của nó.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Sử dụng nem chua rán từ Vị Phố Food và khen ngợi sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Hướng dẫn chiên",
+      "desc": "Hướng dẫn cách chiên nem chua rán giòn và ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Gợi ý kết hợp",
+      "desc": "Gợi ý ăn nem chua rán với mì trộn thay vì đồ chua xoài.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên"
+    },
+    {
+      "step": "Nhấn mạnh chất lượng",
+      "desc": "Nhấn mạnh nem chua rán được làm theo công thức gia truyền.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng"
+    },
+    {
+      "step": "Miêu tả hương vị",
+      "desc": "Miêu tả chi tiết hương vị và cảm giác khi ăn nem chua rán.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Gợi ý sử dụng",
+      "desc": "Gợi ý trữ nem trong tủ lạnh để ăn trong các dịp đặc biệt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tiện lợi"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi nghe."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "mê",
+    "thơm",
+    "giòn",
+    "vừa vị",
+    "ghiền",
+    "hấp dẫn",
+    "giòn rụm",
+    "dai",
+    "thơm mọng nước",
+    "cay cay",
+    "tê tái",
+    "bá cháy"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn cùng với mì trộn nó lên một đẳng cấp mới luôn.",
+    "Nem chua rán bên ngoài thì giòn rụm, bên trong thì dai, thơm mọng nước.",
+    "Ăn tê tái con ken luôn."
+  ],
+  "hook_content": "Hello mọi người, lại là tôi Mập Bự thích ăn ngon đây.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu món nem chua rán siêu to, được chiên giòn và ăn kèm với mì trộn, tạo nên trải nghiệm ẩm thực hấp dẫn. Người làm video cũng chia sẻ cảm xúc thích thú và gợi ý cách thưởng thức món ăn này.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

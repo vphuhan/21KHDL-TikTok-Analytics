@@ -1,0 +1,83 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu bánh thuyền Gonat và thành phần hạt điều, macca.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thử nghiệm vui",
+      "desc": "Thử xem bánh thuyền có nổi trên nước không.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét về độ béo, giòn và dinh dưỡng của bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Kết hợp",
+      "desc": "Thử ăn bánh thuyền với Sting xanh.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên"
+    },
+    {
+      "step": "Nhận xét chi tiết",
+      "desc": "Miêu tả vị ngọt của mật ong và hương vị Sting xanh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Góp ý",
+      "desc": "Đề xuất thời điểm và cách dùng bánh ngon hơn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Các bạn nên dùng vào bữa sáng hoặc bữa phụ sẽ ngon hơn nếu bạn dùng chung với sữa tươi hoặc sữa chua."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "béo",
+    "giòn",
+    "ngon",
+    "ngọt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bánh mà đi được trên đường là bánh gì hả mẹ? Bánh xe.",
+    "Bánh thuyền không trôi được rồi các bạn ơi. Bánh thuyền cũng chỉ là cái tên thôi, chìm nghỉm thế này rồi các bạn ơi.",
+    "Nó hơi ngọt, ngọt này không phải ngọt từ đường đâu mà là ngọt của các cái hạt điều hạt macca với cả mật ong ạ."
+  ],
+  "hook_content": "Mẹ ơi, bánh mà đi được trên đường là bánh gì hả mẹ? Bánh xe. Ừ. Thế bánh mà bơi được dưới nước thì làm sao? Bánh trôi.",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video review bánh thuyền Gonat với thành phần hạt điều và macca, thử nghiệm bánh với Sting xanh và đưa ra đánh giá về hương vị, độ ngọt. Video cũng đề xuất thời điểm và cách dùng bánh ngon hơn.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

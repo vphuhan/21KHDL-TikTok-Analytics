@@ -1,0 +1,83 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu hoàn cảnh",
+      "desc": "Không có ai ở nhà nên tự đi chợ mua đồ ăn tối.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm"
+    },
+    {
+      "step": "Đi chợ",
+      "desc": "Mua hải sản, mì gói và quà Tết cho ông bà.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Nấu ăn",
+      "desc": "Hấp cua tuyết, chuẩn bị các nguyên liệu khác để nấu mì.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức"
+    },
+    {
+      "step": "Nấu mì",
+      "desc": "Cho gia vị, nấu mì hải sản với cua tuyết và nghêu.",
+      "impact_level": "2",
+      "viewer_emotion": "Đói bụng"
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu hộp cân bằng huyết áp mua ở Micho Shop.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng ăn mì hải sản với gia đình.",
+      "impact_level": "3",
+      "viewer_emotion": "Vui vẻ"
+    },
+    {
+      "step": "Tương tác",
+      "desc": "Tương tác với người thân trong khi ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấm áp"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "đói"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "ăn mì thì không thể nào thiếu kim chi được rồi, nhà có bao nhiêu loại kim chi là mình lấy ra hết luôn",
+    "ăn mì hải sản chung với nhà mình nha",
+    "Anh họ quạo là em đá anh á"
+  ],
+  "hook_content": "Ai nhà mình ai cũng đi làm hết trơn, anh mình thì cũng đi làm luôn rồi.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ về việc người mẹ nấu mì hải sản với cua tuyết và các loại hải sản khác cho gia đình khi mọi người đều đi làm. Đồng thời, video cũng giới thiệu sản phẩm hỗ trợ sức khỏe mua tại Micho Shop.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

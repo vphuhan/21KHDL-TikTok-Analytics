@@ -1,0 +1,77 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu chung",
+      "desc": "Giới thiệu quán nước long nhãn A Bảo và độ nổi tiếng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ nổi tiếng."
+    },
+    {
+      "step": "Liệt kê giá",
+      "desc": "Nhắc lại giá các loại đồ uống size lớn của quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích."
+    },
+    {
+      "step": "Nhấn mạnh đặc điểm",
+      "desc": "Nước long nhãn làm từ nhãn tươi và đường thốt nốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng về nguyên liệu."
+    },
+    {
+      "step": "Giới thiệu món khác",
+      "desc": "Giới thiệu trà đào dầm và các loại trà trái cây.",
+      "impact_level": "1",
+      "viewer_emotion": "Muốn thử các món khác."
+    },
+    {
+      "step": "Thông tin địa điểm",
+      "desc": "Địa chỉ và thời gian bán hàng của quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ghé thăm quán."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "tươi mát",
+    "thanh nhẹ"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ở Sài Gòn này nước long nhãn A Bảo có lẽ là nổi tiếng nhất rồi.",
+    "Nước long nhãn bên em là xài từ trái nhãn tươi với lại 100% đường thốt nốt cho hợp khẩu vị người Việt á anh.",
+    "Các món trà trái cây ở đây thì rất tươi mát vị thanh nhẹ, không có dùng syrup nhiều nha."
+  ],
+  "hook_content": "Dạ một ngày tụi em bán phải 1500 ly nước long nhãn á anh.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video giới thiệu về quán nước long nhãn A Bảo nổi tiếng ở Sài Gòn, đặc biệt là món nước long nhãn Thái Lan làm từ nhãn tươi và đường thốt nốt, cùng với các loại trà trái cây tươi mát.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

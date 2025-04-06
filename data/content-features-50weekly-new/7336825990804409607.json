@@ -1,0 +1,91 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món hoành thánh thỏi vàng, gợi ý làm vía thần tài.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách làm món hoành thánh."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê các nguyên liệu cần thiết: tôm, thịt, đậu xanh, hoành thánh.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy công thức khá đơn giản."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Hướng dẫn sơ chế tôm, thịt, đậu xanh để làm nhân hoành thánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy rõ các bước chuẩn bị."
+    },
+    {
+      "step": "Pha trộn nhân",
+      "desc": "Hướng dẫn trộn nhân với bột năng và dầu mè cho thơm ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ hương vị của nhân."
+    },
+    {
+      "step": "Gói hoành thánh",
+      "desc": "Hướng dẫn gói hoành thánh thành hình thỏi vàng đơn giản.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú với hình dáng độc đáo."
+    },
+    {
+      "step": "Chiên hoành thánh",
+      "desc": "Hướng dẫn chiên hoành thánh vàng giòn, chín đều bên trong.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn được thưởng thức ngay."
+    },
+    {
+      "step": "Thành phẩm",
+      "desc": "Giới thiệu thành phẩm và gợi ý cúng ông địa thần tài.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy ý nghĩa và đẹp mắt."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Chia sẻ công thức"
+  ],
+  "emotion_keywords": [
+    "xinh đẹp",
+    "lộc lá",
+    "bùi",
+    "béo",
+    "thơm",
+    "dai",
+    "giòn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mấy bà vừa mới mua buổi sáng thôi buổi chiều lỗ cái chắc.",
+    "Mấy bà làm cái này vừa có ý nghĩa mà còn lộc lá nguyên một năm mà vừa xinh đẹp nữa nha mấy bà.",
+    "Hai điểm của cái mép á rồi mình chập lại là nó ra hình hỏi vàng ha mấy bà."
+  ],
+  "hook_content": "Thời điểm này tôi còn không tin có nhiều bà mùng 10 mà còn đi mua vàng để vía ông thần tài ông địa, mấy bà vừa mới mua buổi sáng thôi buổi chiều lỗ cái chắc.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món hoành thánh hình thỏi vàng để cúng vía thần tài, với các bước chuẩn bị nguyên liệu, gói và chiên đơn giản, dễ thực hiện tại nhà. Món ăn vừa đẹp mắt, vừa mang ý nghĩa cầu tài lộc.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

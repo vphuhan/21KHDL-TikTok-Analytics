@@ -1,0 +1,88 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bún bò Huế và cách nấu đơn giản tại nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú vì có thể tự nấu món ngon."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Giới thiệu các nguyên liệu cần thiết và cách sơ chế.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm vì có hướng dẫn cụ thể."
+    },
+    {
+      "step": "Hầm thịt và xương",
+      "desc": "Hướng dẫn hầm thịt bò, gân bò và giò heo.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, tập trung vào thông tin."
+    },
+    {
+      "step": "Nấu nước dùng",
+      "desc": "Hướng dẫn nấu nước dùng bún bò Huế.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về bí quyết nấu nước dùng."
+    },
+    {
+      "step": "Chuẩn bị topping",
+      "desc": "Chuẩn bị các loại topping ăn kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi sự đa dạng của topping."
+    },
+    {
+      "step": "Trình bày và thưởng thức",
+      "desc": "Trình bày món bún bò và thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn ăn ngay."
+    },
+    {
+      "step": "Lời khuyên và tạm biệt",
+      "desc": "Đưa ra lời khuyên và kết thúc video.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy hữu ích và hài lòng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Hưng mời cả nhà cùng thưởng thức món này á với gia đình Hưng nha.",
+    "Hưng chúc cả nhà thành công với món bún bò huế này."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "xuất sắc",
+    "hấp dẫn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Linh hồn của món bún bò huế á thì nó nằm trong cái phần mắm ruốc Huế này nè cả nhà.",
+    "Ăn bún bò Hưng thích có vị chua chua á bởi vậy á Hưng cho thêm xíu chanh, cho thêm một xíu sa tế nữa Hưng nói á là ngon xuất sắc luôn á cả nhà.",
+    "Nhìn cái nồi nước súp của Hưng kìa, cái màu hấp dẫn quá chừng luôn cả nhà ha."
+  ],
+  "hook_content": "Cách nấu bún bò huế cực kỳ ngon, đơn giản, dễ làm, cả nhà mình cùng tham khảo nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách nấu bún bò Huế đơn giản tại nhà, từ chuẩn bị nguyên liệu, hầm thịt, nấu nước dùng đến trình bày và thưởng thức. Người nấu chia sẻ bí quyết và kinh nghiệm để món ăn thêm đậm đà và hấp dẫn.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

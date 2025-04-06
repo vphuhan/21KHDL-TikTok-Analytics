@@ -1,0 +1,80 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu kẹo siêu chua của Nhật Bản, mệnh danh chua nhất.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ chua của kẹo"
+    },
+    {
+      "step": "Thử thách lần 1",
+      "desc": "Người thử thách ăn kẹo, đếm thời gian chịu đựng độ chua.",
+      "impact_level": "3",
+      "viewer_emotion": "Hồi hộp chờ đợi phản ứng của người thử"
+    },
+    {
+      "step": "Đánh giá độ chua",
+      "desc": "Nhận xét độ chua gấp 5 lần kẹo khác, quá chua để ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy vị chua rất mạnh mẽ"
+    },
+    {
+      "step": "Thử thách lần 2",
+      "desc": "Tiếp tục ăn và cảm nhận các lớp vị khác nhau.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ sự thay đổi hương vị"
+    },
+    {
+      "step": "Cảm nhận lớp vị",
+      "desc": "Qua lớp chua đến lớp ngọt, nhưng lại chua tiếp khi cắn.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ vì sự thay đổi liên tục"
+    },
+    {
+      "step": "Tổng kết",
+      "desc": "Trải nghiệm cung bậc cảm xúc khác nhau, ăn thú vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử để trải nghiệm cảm giác tương tự"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "chua",
+    "thơm",
+    "ngọt",
+    "thú vị",
+    "bùng nổ vị giác"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "chua sốn lè",
+    "cho mình một cái cung bậc cảm xúc trải nghiệm khác nhau nha",
+    "Đừng ngu khi cắn ra nha, cắn ra lại chua tiếp"
+  ],
+  "hook_content": "Đây là cái kẹo siêu chua của Nhật Bản.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review kẹo siêu chua Black Death của Nhật Bản, người thử trải nghiệm các lớp vị chua, ngọt khác nhau và đưa ra đánh giá về độ thú vị của sản phẩm. Kẹo mang đến cung bậc cảm xúc khác nhau khi ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

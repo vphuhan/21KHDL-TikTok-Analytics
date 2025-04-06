@@ -1,0 +1,72 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu rạp phim giá rẻ",
+      "desc": "Tìm ra rạp phim giá rẻ hơn trà sữa, combo bắp nước rẻ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú vì tìm được địa điểm giải trí rẻ."
+    },
+    {
+      "step": "Đánh giá không gian và chất lượng",
+      "desc": "Không gian đẹp, chất lượng màn chiếu và ghế ngồi tốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn đến trải nghiệm."
+    },
+    {
+      "step": "Thông tin về giá cả và ưu đãi",
+      "desc": "Giá vé 45 cành, combo bắp nước ưu đãi khi làm membership.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy hấp dẫn bởi giá cả phải chăng."
+    },
+    {
+      "step": "Gợi ý phim nên xem",
+      "desc": "Gợi ý các phim đáng xem như Captain America, Nhà Gia Tiên.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn xem phim ngay."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Tranh thủ ra rạp để tận hưởng liền thôi nào các bạn."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ấn tượng",
+    "tốt",
+    "rẻ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "giá vé thậm chí còn rẻ hơn cả một ly trà sữa",
+    "Beta Cinema đã xứng đáng là một trong những rạp chiếu phim đẹp nhất Việt Nam chưa?",
+    "mua combo một bắp một nước thứ hai chỉ còn hai cành"
+  ],
+  "hook_content": "Cuối cùng tôi cũng tìm ra được một cái rạp xem phim mà giá vé thậm chí còn rẻ hơn cả một ly trà sữa nữa.",
+  "hook_type": [
+    "Gây tò mò",
+    "Khuyến mãi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu rạp chiếu phim Beta Cinema với giá vé rẻ, không gian đẹp và nhiều ưu đãi hấp dẫn như combo bắp nước giá rẻ. Người xem được khuyến khích đến rạp để trải nghiệm và xem các bộ phim đang chiếu.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

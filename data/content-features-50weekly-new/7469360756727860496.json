@@ -1,0 +1,84 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bánh",
+      "desc": "Mời mọi người ăn bánh quê, giới thiệu các loại bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các loại bánh được giới thiệu."
+    },
+    {
+      "step": "Thử bánh da lợn",
+      "desc": "Ăn bánh da lợn với nước cốt dừa và khen ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng khi thấy bánh béo ngậy."
+    },
+    {
+      "step": "Thử bánh bèo",
+      "desc": "Ăn và khen bánh bèo thơm ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử bánh bèo."
+    },
+    {
+      "step": "Thử bánh ít trần",
+      "desc": "Ăn bánh ít trần và miêu tả độ dẻo.",
+      "impact_level": "2",
+      "viewer_emotion": "Tưởng tượng được độ dẻo của bánh."
+    },
+    {
+      "step": "Thử bánh bò",
+      "desc": "Giới thiệu và ăn các loại bánh bò khác nhau.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với hình dáng bánh bò rễ tre."
+    },
+    {
+      "step": "Thử các loại bánh khác",
+      "desc": "Thử bánh tậm dịp, gừa cau và dầu không cà phê.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về các loại bánh lạ."
+    },
+    {
+      "step": "Thử bánh bột bán",
+      "desc": "Ăn bánh bột bán và so sánh với bánh đúc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với kết cấu của bánh."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "béo",
+    "thơm",
+    "dẻo"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Trời ơi nó béo nó ngon dữ vậy.",
+    "Cái bánh này ngon dữ dằn.",
+    "Như bánh đúc vậy á. Nhưng mà nó có gân gân."
+  ],
+  "hook_content": "Mời mọi người ăn bánh với em nha, bánh quê nè. Nhiều loại lắm.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video mukbang bánh quê với nhiều loại bánh khác nhau như bánh da lợn, bánh bèo, bánh ít trần, bánh bò và bánh bột bán. Người nói vừa ăn vừa miêu tả hương vị và cảm nhận.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Quán gà nướng chum đông khách, ngày bán 4-500 con.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ nổi tiếng của quán."
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Review combo gà nướng, nộm, xôi chiên giá 248k.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn với combo đầy đặn."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Gà giòn da, chắc thịt, xôi giòn dẻo, ruốc ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử ngay vì được miêu tả ngon."
+    },
+    {
+      "step": "Nhận xét thêm",
+      "desc": "Quán rộng rãi, sạch sẽ, phục vụ ok nhưng hơi xa.",
+      "impact_level": "1",
+      "viewer_emotion": "Cân nhắc vị trí trước khi đến."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bạn nào mà ở gần mạn Cầu Giấy thì có thể ghé quán gà nướng Chum Thái Lam để thử nhá."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "giòn",
+    "thơm",
+    "ngon",
+    "ngọt",
+    "no căng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Gà nhà anh giòn nói thật với em đã bảo rồi, giòn như bánh đa kế.",
+    "Điểm nhấn ở đây là cái sốt màu xanh xanh này, chấm cùng nó nâng tầm cái miếng thịt gà lên nhiều.",
+    "Xôi chiên thì lớp bên ngoài giòn thơm, bên trong mềm dẻo, được phủ rất là nhiều ruốc ở bên trên mà ruốc cũng ngon phết, ăn kiểu nó ngon ngọt đấy, đảm bảo là ăn xong là no căng luôn nhá."
+  ],
+  "hook_content": "Ngày anh cứ bán khoảng tầm 4 500 con là chuyện bình thường ấy.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quán gà nướng chum Thái Lam, giới thiệu combo gà, xôi, nộm và đánh giá hương vị, không gian quán. Quán bán được 4-500 con gà mỗi ngày.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

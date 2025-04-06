@@ -1,0 +1,87 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu hai tô mì giống hình trên bao bì và review",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn biết kết quả review"
+    },
+    {
+      "step": "Review mì tôm chua cay",
+      "desc": "Đánh giá hương vị, độ chua cay, độ đậm đà của nước dùng",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn thử ngay lập tức"
+    },
+    {
+      "step": "Review mì trộn gà phô mai cay",
+      "desc": "Đánh giá vị phô mai, độ cay, độ dai của sợi mì",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng hương vị"
+    },
+    {
+      "step": "Đánh giá chất lượng sản phẩm",
+      "desc": "Nhấn mạnh Vifon là thương hiệu nổi tiếng, yên tâm chất lượng",
+      "impact_level": "1",
+      "viewer_emotion": "Tin tưởng vào thương hiệu"
+    },
+    {
+      "step": "Thông tin sản phẩm",
+      "desc": "Thông tin mì đạt tiêu chuẩn xuất khẩu đi hơn 100 quốc gia",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng về chất lượng"
+    },
+    {
+      "step": "Giá thành",
+      "desc": "Tính toán chi phí làm hai tô mì giống trên bao bì",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy hợp lý với giá tiền"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Tôi nghịch, bạn cũng thế, làm thử hai tô mì này cho người thân hoặc là bạn bè của mình ăn thử nhé, dính phết đấy."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "đã",
+    "bùi bùi béo béo",
+    "thơm",
+    "mặn mặn nhẹ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Hình ảnh chỉ mang tính chất minh họa cho sản phẩm nay đã được thưởng thức thực ở ngoài mọi người ạ.",
+    "Để làm ra một cái đĩa Nhất Vị mì trộn gà phô mai cay này mình sử dụng hết 15.000 ức gà.",
+    "Tính ra thì để làm phần ăn giống như trên bao bì sản phẩm thì nó cũng không quá đắt mọi người ạ."
+  ],
+  "hook_content": "làm hai tô mì full topping giống với hình ảnh minh họa trên bao bì này rồi review xem thử là hết bao nhiêu tiền. Tôi nghịch, bạn cũng thế.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video làm và review hai tô mì tôm chua cay và mì trộn gà phô mai cay với hình thức giống ảnh trên bao bì sản phẩm, sau đó tính toán chi phí để làm ra chúng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

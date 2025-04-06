@@ -1,0 +1,91 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Chào hỏi và giới thiệu món mì siêu cay tự nấu tại nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thân thiện và tò mò về món ăn."
+    },
+    {
+      "step": "Gợi ý",
+      "desc": "Đưa ra gợi ý hài hước về việc nấu mì siêu cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị và có chút đồng cảm."
+    },
+    {
+      "step": "Chuẩn bị topping",
+      "desc": "Liệt kê các loại topping có sẵn trong tủ lạnh.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường, không quá đặc biệt."
+    },
+    {
+      "step": "Nấu mì",
+      "desc": "Mô tả quá trình nấu mì và nhấn mạnh việc thêm ớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thèm thuồng và kích thích vị giác."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Miêu tả cảm giác khi ăn mì cay với topping.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy vô cùng hấp dẫn và muốn ăn ngay."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Đánh giá món ăn bằng hai từ 'ngon đỉnh'.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy tin tưởng và muốn thử."
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng ăn mì siêu cay.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thân thiện và được chào đón."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "giờ thì mời mọi người ăn chung với tôi nghen."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "thèm",
+    "cay",
+    "đã",
+    "ngon đỉnh"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn mì cay thiếu cái gì chứ không có thể nào thiếu nấm kim châm.",
+    "Kiểu sinh ra là dành cho nhau, ăn chung là nhất nách.",
+    "Ta nói mì cay thì bữa nay tôi bỏ ớt nhiều nên húp vô một cái nó cay mà đã cái nư gì đâu."
+  ],
+  "hook_content": "Hello mọi người, lại là tôi mập mợ thích nấu ăn đây. Nay mọi người cùng tôi nấu mì siêu cay tại nhà ăn nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn nấu mì siêu cay tại nhà với các loại topping hấp dẫn, nhấn mạnh cảm giác cay đã và ngon miệng khi thưởng thức, đồng thời mời mọi người cùng ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

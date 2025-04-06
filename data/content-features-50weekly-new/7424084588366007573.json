@@ -1,0 +1,77 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Mở đầu bằng câu hỏi về an toàn vệ sinh của snack.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về vấn đề an toàn vệ sinh."
+    },
+    {
+      "step": "Phỏng vấn về nguyên liệu thừa",
+      "desc": "Hỏi về vụn ớt thừa và được trả lời là bán cho lợn.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên và có chút thất vọng."
+    },
+    {
+      "step": "Quy trình sản xuất",
+      "desc": "Miêu tả các công đoạn làm snack nem tôm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có nhiều cảm xúc."
+    },
+    {
+      "step": "Đánh giá sản phẩm",
+      "desc": "Nhấn mạnh hương vị đặc trưng của nem tôm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và gợi nhớ hương vị."
+    },
+    {
+      "step": "Đố vui và kiểm tra",
+      "desc": "Đố số lượng miếng nem tôm và giới thiệu quy trình kiểm tra.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường, không đặc biệt."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người thấy ngon thì nhanh tay ấn ngay vào giỏ hàng mua liền nha."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "mê hương vị",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trời trời bẩn như thế này mà gọi là an toàn vệ sinh cái gì cơ chứ?",
+    "Mình đảm bảo chắc hẳn bạn nào đã từng ăn cũng mê hương vị của nem tôm.",
+    "snack nem tôm làm bằng bột mì VM8 có chứng chỉ ISO chất lượng cực kỳ"
+  ],
+  "hook_content": "Trò chơi bẩn như thế này mà gọi là an toàn vệ sinh cái gì cơ chứ.",
+  "hook_type": [
+    "Gây tranh cãi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review về snack nem tôm, bắt đầu bằng câu hỏi về an toàn vệ sinh, sau đó giới thiệu quy trình sản xuất và đánh giá hương vị của sản phẩm. Cuối video kêu gọi mua hàng.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Mở đầu bằng nhạc nền và lời hát có vần điệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Ăn uống",
+      "desc": "Nhạc tiếp tục, người nói không nói gì, chỉ tập trung ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Nhạc tiếp tục đến hết video, không có lời thoại.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "đê mê",
+    "say sưa"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ôi vợ yêu em đang cười tươi thì coi như là em đã đê mê.",
+    "Đêm kia anh hay thật nhạc anh ra sao không cùng nhau tự nhiên đê mê.",
+    "Hẹn mong ngày mai khi ta tỉnh, ta vẫn say sưa nhau như thế."
+  ],
+  "hook_content": "Ôi vợ yêu em đang cười tươi thì coi như là em đã đê mê.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video quay cảnh ăn uống với nhạc nền sôi động, không có nhiều lời thoại, chủ yếu tập trung vào việc ăn và tận hưởng.",
+  "tone_of_voice": [
+    "Hào hứng"
+  ]
+}

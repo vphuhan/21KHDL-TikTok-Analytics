@@ -1,0 +1,94 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Gọi món",
+      "desc": "Người nói đến quán bún chả và gọi ba suất bún chả.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu địa điểm",
+      "desc": "Giới thiệu địa điểm ăn bún chả cô Hoa ở Lương Khánh Thiện.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Cảm nhận ban đầu",
+      "desc": "Ấn tượng về bát nước chấm chất lượng của quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Cách ăn",
+      "desc": "Chia sẻ cách ăn bún chả của bản thân: trộn mọi thứ vào.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình"
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Đánh giá thịt được tẩm ướp vừa, không bị cháy, ít mỡ.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Trải nghiệm hương vị",
+      "desc": "Nhấn mạnh sự kết hợp hài hòa của bún, thịt và nước dùng.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Kết luận và so sánh",
+      "desc": "Bún chả Hải Phòng khác Hà Nội, gợi ý nên ghé ăn thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Mọi người có thể đến trải nghiệm và dùng thử xem như thế nào nhé."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "ngon",
+    "vừa",
+    "bình thường",
+    "hài hòa",
+    "bắt mắt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái khúc mà tôi nhìn thì cái bát nước chấm này là tôi kiểu ừm quán này có vẻ chất lượng rồi.",
+    "Lúc mà ăn cái miếng thịt xong thì cảm giác nó không có gì gọi là nổi bật. Cảm giác nó khá là bình thường nhưng mà cho đến khi ăn cùng với bún với cả nước dùng u là trời nó ngon nha.",
+    "Giờ thì tôi hiểu vì sao mọi người comment bảo tôi đi ăn quán này nhiều như vậy rồi."
+  ],
+  "hook_content": "cho em ba suất nhá. Ba suất hả? Vâng.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review quán bún chả cô Hoa ở Hải Phòng, tập trung vào trải nghiệm hương vị và so sánh với bún chả Hà Nội. Người nói đánh giá cao sự kết hợp hài hòa của các thành phần và gợi ý nên ghé thăm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

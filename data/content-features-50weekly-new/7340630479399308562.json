@@ -1,0 +1,88 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Xin order",
+      "desc": "Khách hàng xin gói lườn gà mang về nhưng không được.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu nhà hàng buffet gà rán Đài Loan với giá ưu đãi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Miêu tả món ăn",
+      "desc": "Miêu tả độ ngon, dễ xé của lườn gà và kích cỡ lớn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Thông tin thêm",
+      "desc": "Nhấn mạnh về sự khác biệt trong công thức chế biến.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng"
+    },
+    {
+      "step": "Thông tin giá",
+      "desc": "Giá cả, ưu đãi và các trò chơi trúng thưởng tại quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức"
+    },
+    {
+      "step": "Không gian quán",
+      "desc": "Miêu tả không gian quán rộng rãi, thoáng đãng và có view đẹp.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng"
+    },
+    {
+      "step": "Địa điểm quán",
+      "desc": "Địa chỉ quán để mọi người tham khảo.",
+      "impact_level": "1",
+      "viewer_emotion": "Mong chờ"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Và đây là ở 48 Hoàng Cầu, mọi người tham khảo thử xem sao."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thoải mái",
+    "thích",
+    "hợp khẩu vị"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Lườn gà to bằng cả cái mặt",
+    "Buffet gà rán Đài Loan đầu tiên tại Hà Nội"
+  ],
+  "hook_content": "ơi gói cho em đĩa lườn gà này mang về với ạ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu quán buffet gà rán Đài Loan đầu tiên tại Hà Nội, nổi bật với lườn gà big size và nhiều ưu đãi hấp dẫn. Quán có không gian đẹp, rộng rãi, phù hợp cho nhóm đông.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

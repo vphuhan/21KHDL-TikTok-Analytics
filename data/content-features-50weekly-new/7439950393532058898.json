@@ -1,0 +1,85 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bản thân và quán",
+      "desc": "Người bán giới thiệu về bản thân, quá trình và tiêu chí quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về câu chuyện"
+    },
+    {
+      "step": "Quá trình chuẩn bị nguyên liệu",
+      "desc": "Quá trình chuẩn bị nguyên liệu sạch sẽ, tỉ mỉ, hầm 12 tiếng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng"
+    },
+    {
+      "step": "Chia sẻ về lịch sử quán",
+      "desc": "Quán chuyển địa điểm do lượng khách đông, mặt bằng cũ hẹp.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích"
+    },
+    {
+      "step": "Giới thiệu các món ăn",
+      "desc": "Giới thiệu các món ăn đã gọi và cảm nhận hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng, muốn thử"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá vị nước ngọt thanh, chua nhẹ, dễ ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hấp dẫn"
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Khuyên những ai thèm món này thì nên ghé qua.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn đi ăn ngay"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Thật sự là bạn nào ở quận tư mà đang thèm mấy món này thì ghé qua đây ăn nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "bổ",
+    "rẻ",
+    "thơm",
+    "ngọt thanh",
+    "chua chua nhẹ",
+    "dễ ăn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Quán anh là với tiêu chí là ngon bổ rẻ.",
+    "Sâm này được hầm 12 tiếng sau đó cho hột vịt lộn vào để cho ra cái chất ngọt.",
+    "Vị nước ở đây ngọt thanh, chua chua nhẹ dễ ăn lắm mọi người."
+  ],
+  "hook_content": "bản thân anh là người đã từng bị tai nạn giao thông rất là nặng và sau đó anh mới được truyền thừa cái món ăn này để mà bồi bổ sức khỏe trong những ngày anh bệnh.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu quán Đại Bổ Quán ở quận 4 với món hột vịt lộn hầm sâm, chia sẻ về quá trình làm và cảm nhận hương vị các món ăn khác. Quán có tiêu chí ngon, bổ, rẻ và trước đây đã chuyển địa điểm do lượng khách đông.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

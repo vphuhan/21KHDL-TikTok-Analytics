@@ -1,0 +1,96 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu các món ăn và bắt đầu ăn thử sủi cảo konlu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của món sủi cảo."
+    },
+    {
+      "step": "Đánh giá sủi cảo konlu",
+      "desc": "Đánh giá món sủi cảo konlu, nhận xét về tớp mỡ bị gắt dầu.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường với đánh giá này."
+    },
+    {
+      "step": "Đánh giá sủi cảo giấm đen",
+      "desc": "Chuyển sang đánh giá sủi cảo giấm đen và nước chấm đặc biệt.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng và muốn thử ngay món này."
+    },
+    {
+      "step": "So sánh hai loại sủi cảo",
+      "desc": "So sánh sủi cảo giấm đen với sủi cảo konlu và chấm điểm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy rõ sự khác biệt giữa hai món."
+    },
+    {
+      "step": "Thử mì trứng tôm",
+      "desc": "Thử mì trứng tôm và nhận xét về sợi mì, trứng tôm.",
+      "impact_level": "1",
+      "viewer_emotion": "Không quá đặc biệt về món này."
+    },
+    {
+      "step": "Thử bánh chiên",
+      "desc": "Thử bánh chiên có tôm thịt và khen nước chấm ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy món này hấp dẫn hơn."
+    },
+    {
+      "step": "Kết luận và so sánh",
+      "desc": "Nhận xét về quán và khuyến khích nên thử sủi cảo giấm đen.",
+      "impact_level": "2",
+      "viewer_emotion": "Gợi ý hữu ích để lựa chọn món."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Và rất là cảm ơn mọi người đã coi clip của mình. Bye bye!"
+  ],
+  "cta_type": [
+    "Follow kênh",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "vừa phải",
+    "dễ thương",
+    "dễ chịu",
+    "ấn tượng",
+    "lạ",
+    "bình thường",
+    "hôi dầu"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Lần đầu tiên mình ăn một cái vị giấm mình cảm thấy nó nó dễ thương như vậy luôn á.",
+    "ăn vô một cái mình cảm giác là mình sẽ nhớ được hương vị này liền luôn",
+    "ăn vô hết bình thường ăn vô không có cái gì gì ấn tượng"
+  ],
+  "hook_content": "Đó mình ăn của mì hôi dầu mà trợ lý mình ăn vẫn của Mi nói bị hôi dầu luôn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review các món ăn tại một quán người Hoa, tập trung vào sủi cảo konlu, sủi cảo giấm đen, mì trứng tôm và bánh chiên, trong đó sủi cảo giấm đen được đánh giá cao nhất vì hương vị đặc biệt.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

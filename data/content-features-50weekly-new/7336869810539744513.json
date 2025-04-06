@@ -1,0 +1,86 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán bánh mì",
+      "desc": "Giới thiệu quán bánh mì giá rẻ gần trường Đại học Sư Phạm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về địa điểm quán bánh mì."
+    },
+    {
+      "step": "Miêu tả bánh mì thập cẩm",
+      "desc": "Miêu tả chi tiết bánh mì thập cẩm với nhiều loại nhân.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng trước sự hấp dẫn của bánh mì."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá hương vị và trải nghiệm ăn bánh mì.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với những nhận xét chân thật."
+    },
+    {
+      "step": "Nhận xét về cá viên",
+      "desc": "Đưa ra nhận xét về cá viên chiên trong bánh mì.",
+      "impact_level": "1",
+      "viewer_emotion": "Tập trung vào những điểm chưa hài lòng."
+    },
+    {
+      "step": "Thông tin về sự đông khách",
+      "desc": "Cảnh báo về việc phải chờ đợi lâu do quán đông khách.",
+      "impact_level": "1",
+      "viewer_emotion": "Lưu ý về thời gian chờ đợi khi đến quán."
+    },
+    {
+      "step": "Giới thiệu thêm về xôi",
+      "desc": "Giới thiệu thêm về món xôi được bán tại quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Tìm hiểu thêm về các lựa chọn khác tại quán."
+    },
+    {
+      "step": "Địa chỉ quán",
+      "desc": "Cung cấp địa chỉ cụ thể của quán bánh mì.",
+      "impact_level": "2",
+      "viewer_emotion": "Ghi nhớ địa chỉ để ghé thăm quán."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "sướng miệng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "20.000 một chiếc bánh mì thập cẩm đầy ú ụ nhân",
+    "nhân cứ phải gọi là ngập tràn luôn",
+    "cắn đúng kiểu là ngập mồm luôn í, ăn sướng miệng lắm"
+  ],
+  "hook_content": "Biết là đồ ăn ở gần trường dễ rẻ rồi, nhưng mà 20.000 một chiếc bánh mì thập cẩm đầy ú ụ nhân như thế này thì đố mọi người biết là ở trường đại học nào đấy.",
+  "hook_type": [
+    "Gây tò mò",
+    "Cho thấy kết quả trước",
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quán bánh mì thập cẩm giá 20k ở gần trường Đại học Sư Phạm Hà Nội, với nhiều nhân và hương vị ổn, tuy nhiên quán khá đông khách. Ngoài ra quán còn bán xôi với giá tương tự.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

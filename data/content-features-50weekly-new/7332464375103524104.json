@@ -1,0 +1,98 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món chả giò hải sản sốt mayonnaise và nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới lạ."
+    },
+    {
+      "step": "Sơ chế hải sản",
+      "desc": "Trần sơ tôm, mực, cắt hạt lựu, chuẩn bị rau củ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thao tác quen thuộc."
+    },
+    {
+      "step": "Xào rau củ",
+      "desc": "Xào sơ rau củ với tỏi và nêm gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích vì bí quyết nhỏ."
+    },
+    {
+      "step": "Thêm nguyên liệu đặc biệt",
+      "desc": "Thêm táo và lê cắt hạt lựu để tạo vị thanh mát.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ và muốn thử theo."
+    },
+    {
+      "step": "Trộn nhân",
+      "desc": "Trộn đều các nguyên liệu với sốt mayonnaise và gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung được vị ngon."
+    },
+    {
+      "step": "Cuốn và chiên chả giò",
+      "desc": "Cuốn chả giò, lăn bột và chiên giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức chờ đợi thành phẩm."
+    },
+    {
+      "step": "Thưởng thức và review",
+      "desc": "Thưởng thức chả giò và review độ giòn, ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn làm ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Sáng tạo"
+  ],
+  "cta_content": [
+    "Nên là mọi người tham khảo nhen, giờ mình nấu xong rồi sẵn tiện tham gia mini game 'Món Tết Tường An, Tết Tường An Khang' của Tường An luôn nè."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Chia sẻ công thức",
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "béo ngậy",
+    "thanh mát",
+    "giòn rụm",
+    "ngon giả man",
+    "vàng ươm",
+    "giòn dã",
+    "khởi sắc thành công"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "làm chả giò mà thêm quả táo quả lê vô chung lại ngon dữ vậy á mấy bà",
+    "Mình dùng dầu đậu nành Tường An premium với thành phần 100% là dầu đậu nành nguyên chất, không cholesterol, không chất bảo quản, không trans fat nên là rất yên tâm khi chiên rán các món ăn ngập dầu.",
+    "Ăn món này là đảm bảo đón năm mới khởi sắc thành công."
+  ],
+  "hook_content": "Tết này mấy bà thử làm món chả giò hải sản sốt mayonnaise này ăn đi, đảm bảo không ngon kiểu gì tôi cũng chịu luôn.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm món chả giò hải sản sốt mayonnaise với nguyên liệu đặc biệt là táo và lê, sử dụng dầu đậu nành Tường An để chiên giòn và an toàn. Món ăn này hứa hẹn sẽ mang đến sự mới lạ và thành công cho năm mới.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

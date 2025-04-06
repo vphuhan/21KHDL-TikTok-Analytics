@@ -1,0 +1,81 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu tôm lạ",
+      "desc": "Giới thiệu về loại tôm có hình dáng kỳ lạ và kích thước lớn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hình dáng kỳ lạ của con tôm."
+    },
+    {
+      "step": "Chuẩn bị nấu",
+      "desc": "Rửa sạch tôm và chuẩn bị nồi lớn để hấp tôm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, chuẩn bị cho công đoạn nấu."
+    },
+    {
+      "step": "Quá trình hấp",
+      "desc": "Mô tả quá trình hấp tôm và sự thay đổi màu sắc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thắc mắc về màu sắc sau khi hấp."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu sản phẩm hỗ trợ sức khỏe cho người lớn tuổi.",
+      "impact_level": "1",
+      "viewer_emotion": "Quan tâm đến sản phẩm sức khỏe."
+    },
+    {
+      "step": "Đánh giá tôm",
+      "desc": "Mở tôm và đánh giá chất lượng thịt và gạch.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi thất vọng vì không có gạch."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Đánh giá chung về chất lượng thịt tôm sau khi ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy an tâm vì thịt vẫn ngon."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "hơi kỳ kỳ",
+    "lạ lạ",
+    "chiến",
+    "hên xui",
+    "hấp dẫn",
+    "hết hồn hết vía"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nhìn cái đầu của nó lạ lạ, bự bự y chang như là mấy con bọ chét vậy đó.",
+    "Ta nói nó nhỏ xíu không khác gì là một cái đuôi hết.",
+    "Khui ra mà hết hồn hết vía luôn, tại sao không có miếng gạch não ở trỏng vậy?"
+  ],
+  "hook_content": "Hôm nay nhà mình thì có được ba con tôm, nhìn nó hơi kỳ kỳ.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món tôm lạ, tập trung vào hình dáng kỳ lạ và trải nghiệm ăn thử. Kèm theo đó là giới thiệu sản phẩm hỗ trợ sức khỏe cho người lớn tuổi.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước",
+    "Ngạc nhiên"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món đậu hũ phô mai và mời mọi người cùng ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Miêu tả sản phẩm",
+      "desc": "Miêu tả đậu hũ cá phô mai và cách ăn kèm tương ớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá độ mềm, béo của đậu hũ phô mai.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "So sánh sản phẩm",
+      "desc": "So sánh đậu hũ phô mai mua ở siêu thị và loại tự chiên.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Nhận xét số lượng",
+      "desc": "Nhận xét về việc ăn nhiều đậu hũ phô mai gây ngấy.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Kết thúc video",
+      "desc": "Cảm ơn người xem và hẹn gặp lại ở video sau.",
+      "impact_level": "1",
+      "viewer_emotion": "Vui vẻ"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "mềm",
+    "béo",
+    "ngon",
+    "ngấy"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ở trong nó mềm nó béo ấy.",
+    "Cái đậu hũ phô mai này trong siêu bẩn nó có mọi người ạ, nhưng mà kiểu nó không ngon bằng cái gói mà người ta bán để về mình tự chiên với cả ăn lẩu ấy.",
+    "Gói này ăn ngon hơn."
+  ],
+  "hook_content": "Xin chào mọi người, hôm nay mình sẽ ăn đậu hũ phô mai.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang về đậu hũ phô mai, người nói vừa ăn vừa miêu tả hương vị, so sánh các loại đậu hũ phô mai khác nhau và chia sẻ cảm nhận cá nhân.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

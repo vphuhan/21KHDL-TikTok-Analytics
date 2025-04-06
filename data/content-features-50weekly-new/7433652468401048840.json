@@ -1,0 +1,74 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu Milo và trà xanh không độ, bày tỏ sự nghi ngờ.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Phản hồi ý kiến",
+      "desc": "Phản hồi về việc mix Milo và Ovaltine, thích ống mút cũ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thử nghiệm",
+      "desc": "Uống thử Milo mix trà xanh, đánh giá hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "So sánh",
+      "desc": "So sánh màu sắc và hương vị với trà sữa.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên"
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Đánh giá vị bình thường, liên tưởng đến trà sữa pha sẵn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "ảo",
+    "bình thường"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ê, tôi trông màu nó khá giống trà sữa nha.",
+    "Vậy con nó giống trà sữa thật nha.",
+    "Nó giống mấy chai trà sữa pha sẵn ấy."
+  ],
+  "hook_content": "Milo với trà xanh không độ đi anh.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video mukbang thử mix Milo với trà xanh không độ, người nói so sánh màu và vị của hỗn hợp với trà sữa pha sẵn, đánh giá hương vị ở mức bình thường.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

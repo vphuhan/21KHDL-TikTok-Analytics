@@ -1,0 +1,88 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán ốc",
+      "desc": "Giới thiệu quán ốc Dì Minh bán giá bình dân từ xưa đến nay.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán ốc giá rẻ."
+    },
+    {
+      "step": "Mô tả không gian",
+      "desc": "Quán đã dời vào trong, có nhiều bàn và quạt mát mẻ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Thông tin về thời gian",
+      "desc": "Quán bán buổi sáng, mở cửa 10h và nghỉ tầm 3-4h chiều.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích cho ai muốn ghé."
+    },
+    {
+      "step": "Liệt kê các món ốc",
+      "desc": "Quán có mười mấy loại ốc, kể tên một vài món tiêu biểu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thèm thuồng vì nhiều món."
+    },
+    {
+      "step": "Đánh giá món nghêu",
+      "desc": "Nghêu hấp sả 20k ăn rất ngon, có hai loại nước chấm.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử món nghêu hấp sả."
+    },
+    {
+      "step": "Thông tin địa chỉ",
+      "desc": "Địa chỉ quán ốc dì Minh ở 27/6 Hưng Phú, quận 8.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích để tìm đến quán."
+    },
+    {
+      "step": "Lời kêu gọi",
+      "desc": "Ghé quán nếu thích ăn ốc nhiều món giá rẻ.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy được khuyến khích đến quán."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bạn nào thích ăn ốc á mà muốn ăn nhiều món á, mà giá mà 10.000đ thôi á thì có thể ghé đây nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "mát mẻ",
+    "bình dân"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Vẫn bán 10.000đ một dĩa như vậy thôi.",
+    "Khách ở Vũng Tàu lợi ăn nữa.",
+    "Bạn nào thích ăn ốc á mà muốn ăn nhiều món á, mà giá mà 10.000đ thôi á thì có thể ghé đây nha."
+  ],
+  "hook_content": "Theo cô này có thể bán một dĩa ốc 10.000đ được, mà bán lâu dữ lắm rồi đó.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu quán ốc Dì Minh ở quận 8, nổi tiếng với giá rẻ chỉ 10k/dĩa và nhiều loại ốc khác nhau. Quán đã bán lâu năm, có nhiều khách quen từ xa.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

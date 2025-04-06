@@ -1,0 +1,69 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món sò huyết mắm thái và mời mọi người cùng ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Nhận xét về sò huyết",
+      "desc": "Đánh giá sò huyết tươi ngon, khác biệt so với lần trước.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú với sự tươi ngon."
+    },
+    {
+      "step": "Giới thiệu bắp organic",
+      "desc": "Giới thiệu bắp organic đắt tiền và cách bảo quản.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích."
+    },
+    {
+      "step": "Chia sẻ kinh nghiệm luộc sò",
+      "desc": "Chia sẻ cách luộc sò huyết vừa chín tới trong 2 phút.",
+      "impact_level": "2",
+      "viewer_emotion": "Ghi nhớ mẹo luộc sò."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ok, cảm ơn cả nhà theo dõi video của Thành.",
+    "Hẹn gặp bạn video tiếp theo nha."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "tuyệt vời",
+    "xuất sắc"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bữa nay là sò huyết uống nu luôn nha.",
+    "Mọi người muốn luộc cỡ như thế này nè là nó vừa chín tới vừa chín tái thôi nha.",
+    "Nước vừa sôi tim lên á thì mọi người để vô, mọi người luộc, canh đúng 2 phút cho Thành lấy ra nha."
+  ],
+  "hook_content": "Bây giờ tụi mình ăn nhen.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang giới thiệu món sò huyết mắm thái, chia sẻ trải nghiệm ăn uống và cách luộc sò huyết ngon. Ngoài ra, video còn giới thiệu về bắp organic và cách bảo quản.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

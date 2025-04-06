@@ -1,0 +1,72 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu mì cay Samyang ăn kèm xúc xích, trứng, dưa leo",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị và sự kết hợp"
+    },
+    {
+      "step": "Bắt đầu thử thách",
+      "desc": "Nhấn mạnh không ăn cay giỏi và sẽ thử thách bản thân",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về phản ứng của người ăn"
+    },
+    {
+      "step": "Ăn và đánh giá",
+      "desc": "Ăn mì và mô tả cảm giác cay ở đầu lưỡi",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được độ cay của món ăn"
+    },
+    {
+      "step": "Ăn kèm và đánh giá",
+      "desc": "Ăn kèm xúc xích, trứng để giảm độ cay và mô tả hương vị",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự kết hợp hương vị"
+    },
+    {
+      "step": "Cảm nhận độ cay",
+      "desc": "Nhấn mạnh độ cay tăng lên và khó nói chuyện",
+      "impact_level": "3",
+      "viewer_emotion": "Đồng cảm với người ăn"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "run tay",
+    "cay",
+    "thơm",
+    "khó nói chuyện"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nó hơi cay cái đầu lưỡi một chút.",
+    "Kiểu như nhai cùng xúc xích á thì nó sẽ đỡ cay hơn một chút. Nhưng mà vẫn cay á.",
+    "Bây giờ nó khó nói chuyện luôn rồi đó mọi người."
+  ],
+  "hook_content": "Bắt đầu cảm thấy run tay.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang mì cay Samyang với xúc xích, trứng và dưa leo, người ăn chia sẻ cảm nhận về độ cay tăng dần.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

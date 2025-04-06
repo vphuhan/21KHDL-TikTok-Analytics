@@ -1,0 +1,73 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu vấn đề",
+      "desc": "Đề cập đến bình luận về giới hạn thời gian tại Nhà Trang.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về thực hư thông tin."
+    },
+    {
+      "step": "Khẳng định",
+      "desc": "Khẳng định Nhà Trang không giới hạn thời gian ăn buffet.",
+      "impact_level": "3",
+      "viewer_emotion": "Vui vẻ, tin tưởng."
+    },
+    {
+      "step": "Nhấn mạnh ưu đãi",
+      "desc": "Nhấn mạnh các ưu đãi khác như không phụ thu, không tăng giá.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn vì nhiều ưu đãi."
+    },
+    {
+      "step": "Kêu gọi hành động",
+      "desc": "Mời mọi người đến Nhà Trang để tổ chức tiệc tùng.",
+      "impact_level": "2",
+      "viewer_emotion": "Có hứng thú ghé thăm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bởi vậy cuối năm này nếu mà các anh chị có tìm một cái chỗ để họp mặt nè, tất niên tất ngợi thì hãy đến với Nhà Trang nha mọi người ơi."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "thoải mái",
+    "thả ga"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nhà Trang chưa bao giờ giới hạn thời gian khi khách ăn buffet sườn que nha mọi người ơi.",
+    "ăn thoải mái thả ga, muốn ăn bao giờ về cũng được hen",
+    "không phụ thu chế biến nè, không tăng giá vào lễ Tết nha"
+  ],
+  "hook_content": "Mới đây á mọi người, có một bạn vào xem video Nhà Trang ha, thấy trên đó là buffet sườn que 69k Nhà Trang á là không có phụ thu chế biến nè ha, không tăng giá vào dịp lễ Tết nè, mà quá trời topping luôn, 5 60 loại topping, rồi các đồ ăn kèm rau dưa các kiểu đa dạng phong phú quá thì bạn mới comment vậy chắc chắn là Nhà Trang có giới hạn thời gian.",
+  "hook_type": [
+    "Phản hồi bình luận",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video giải đáp thắc mắc về việc buffet xiên que 69k tại Nhà Trang có giới hạn thời gian hay không, đồng thời khẳng định không có giới hạn thời gian và các ưu đãi khác.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

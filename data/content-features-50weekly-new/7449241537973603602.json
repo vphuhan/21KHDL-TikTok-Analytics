@@ -1,0 +1,70 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu về kẹo Thái Lan và sự đặc biệt của nó.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm mới."
+    },
+    {
+      "step": "Đánh giá hình thức",
+      "desc": "Nhận xét về vẻ ngoài và so sánh với mo cau.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với hình dáng lạ."
+    },
+    {
+      "step": "Trải nghiệm vị giác",
+      "desc": "Nếm thử và mô tả vị kẹo: bở, bột, ngọt nhẹ.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hơi thất vọng."
+    },
+    {
+      "step": "So sánh và đánh giá",
+      "desc": "So sánh với chè lam, kẹo dừa, đánh giá không xứng đáng.",
+      "impact_level": "3",
+      "viewer_emotion": "Đồng cảm với sự thất vọng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "bình thường",
+    "ngọt nhẹ",
+    "không ngon",
+    "rưng rưng nước mắt",
+    "chán"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "ăn rưng rưng nhẹ, rưng rưng nước mắt, nó không xứng đáng với những gì mình bỏ ra.",
+    "So với cái chè lam ấy, chè lam của Việt Nam mình ấy, ăn thực sự là không ngon bằng luôn ấy.",
+    "thì vị con này còn chán hơn ấy."
+  ],
+  "hook_content": "260 một túi như thế này mà còn phải đợi order 5 ngày.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review kẹo Thái Lan với vẻ ngoài lạ mắt nhưng hương vị bị đánh giá là không đặc sắc, không xứng đáng với giá tiền so với các loại kẹo truyền thống của Việt Nam.",
+  "tone_of_voice": [
+    "Chân thành",
+    "Thân thiện",
+    "Khó chịu"
+  ]
+}

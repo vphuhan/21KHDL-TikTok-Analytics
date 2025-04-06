@@ -1,0 +1,74 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Người nói giới thiệu bản thân và món trứng gà ta luộc hồng đào.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chia sẻ bí quyết",
+      "desc": "Bí quyết chọn trứng và luộc trứng lòng đào ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích."
+    },
+    {
+      "step": "Thực hiện",
+      "desc": "Thực hiện luộc trứng và chia sẻ thời gian luộc.",
+      "impact_level": "2",
+      "viewer_emotion": "Học hỏi được cách làm."
+    },
+    {
+      "step": "Hoàn thành",
+      "desc": "Trứng đã luộc xong và giới thiệu món ăn kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn."
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng ăn và cảm nhận.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn ăn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "béo",
+    "bổ",
+    "cay xé lưỡi"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Để cho trứng nóng nóng mà húp một cái nó ngon gì đâu á",
+    "trứng hồng đào ngon cỡ này làm sao thiếu được chén muối ớt tiêu cay xé lưỡi có bảy trái ớt của tôi he"
+  ],
+  "hook_content": "Hello mọi người, lại là tôi Mập bự thích nấu ăn đây.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu cách luộc trứng gà ta lòng đào ngon và béo, chia sẻ bí quyết chọn trứng và thời gian luộc phù hợp để có món trứng lòng đào hấp dẫn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

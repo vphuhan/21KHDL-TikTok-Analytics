@@ -1,0 +1,99 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán ăn vặt có nhiều món hot trend.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn."
+    },
+    {
+      "step": "Liệt kê món ăn",
+      "desc": "Liệt kê các món đang hot trend của quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy nhiều món hấp dẫn."
+    },
+    {
+      "step": "Đánh giá địa điểm",
+      "desc": "Đánh giá view, không gian và giờ mở cửa của quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng về không gian."
+    },
+    {
+      "step": "Nhấn mạnh sự nổi tiếng",
+      "desc": "Khẳng định quán rất đông khách và chất lượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá hương vị của các món đồ uống.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn thử ngay."
+    },
+    {
+      "step": "Giới thiệu món mới",
+      "desc": "Giới thiệu món ăn mới lạ chưa ai bán ở Hà Nội.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy độc đáo."
+    },
+    {
+      "step": "Đánh giá tổng quan",
+      "desc": "Đánh giá sự đầu tư, nhân viên và thời gian mở cửa.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy quán chu đáo."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nếu đã tìm một chỗ để tụ tập bạn bè thì hợp lý quá rồi."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "chất lượng",
+    "hot trend",
+    "chill",
+    "hợp lý",
+    "đậm vị",
+    "ngậy",
+    "dai ngon",
+    "cay"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Có trend gì là nhà chú sẽ cập nhật ngay.",
+    "Ở đây có cả view công viên Thống Nhất siêu chiu.",
+    "Tuy là quán ăn vặt vỉa hè nhưng mình thấy được đầu tư cực kỳ kỹ lưỡng."
+  ],
+  "hook_content": "Chủ ơi, nhà mình bán buffet trên năm 2023 luôn ạ?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video giới thiệu một quán ăn vặt ở Hà Nội có nhiều món hot trend, không gian đẹp và mở cửa đến khuya, rất phù hợp để tụ tập bạn bè. Chủ quán luôn cập nhật các món mới và đảm bảo chất lượng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

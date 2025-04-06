@@ -1,0 +1,88 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bạn bè",
+      "desc": "Chia sẻ về tình bạn thời cấp ba và sự xuất hiện của bạn bè.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị khi nghe về tình bạn lâu năm."
+    },
+    {
+      "step": "Đón khách và trêu chọc",
+      "desc": "Mô tả hài hước về trang phục và thái độ của bạn bè.",
+      "impact_level": "3",
+      "viewer_emotion": "Vui vẻ với màn trêu chọc hài hước."
+    },
+    {
+      "step": "Mô tả món ăn",
+      "desc": "Giới thiệu các món ăn như nộm sứa và cá trích ép trứng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn được giới thiệu."
+    },
+    {
+      "step": "Thưởng thức và đánh giá",
+      "desc": "Nhận xét về hương vị và trải nghiệm ăn uống cùng bạn bè.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hứng thú với trải nghiệm ẩm thực."
+    },
+    {
+      "step": "Chia sẻ về sự vội vã",
+      "desc": "Thừa nhận sự bừa bộn và vội vã khi chuẩn bị.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy đồng cảm với sự bận rộn."
+    },
+    {
+      "step": "Giới thiệu bạn bè (2)",
+      "desc": "Giới thiệu tên cụ thể của những người bạn cùng ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có nhiều cảm xúc."
+    },
+    {
+      "step": "Kết luận và nghi ngờ",
+      "desc": "Nghi ngờ về lời khen của bạn bè và dự đoán về tình bạn.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi buồn cười và tò mò về tương lai."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "vui",
+    "ưng cái bụng",
+    "ấm ức"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Gặp nhau một cái là toàn nằm múa tễ răng rửa trút triệu mẹo mỏ thôi, mà thế thì cũng được, cùng ngữ điệu văn hóa cãi nhau nó mới xôm.",
+    "Đến nơi mặc khai bộ đồ phun đen đeo kính tao nhìn mà tao phát điên rồi dạ, chả nhẽ mà đuổi ra khỏi cửa.",
+    "Hai đứa nó vừa ăn vừa khen tấm tắc luôn, làm mũi mình là nở to xe tăng đi cũng lọt đấy."
+  ],
+  "hook_content": "Không biết đến bây giờ có ai còn chơi với mấy đứa bạn hồi cấp ba không?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện"
+  ],
+  "summarization": "Video chia sẻ về buổi tụ tập ăn uống tại nhà với bạn bè cấp ba, bao gồm các món nộm sứa, cá trích ép trứng và sashimi. Người nói kể lại những tình huống hài hước và đáng yêu trong buổi gặp mặt.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

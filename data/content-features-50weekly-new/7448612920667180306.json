@@ -1,0 +1,98 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Tự tin gói nem ngon sau 5 năm làm dâu, được khen.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về bí quyết gói nem."
+    },
+    {
+      "step": "Bí quyết 1",
+      "desc": "Trộn trứng với thịt trước khi cho các nguyên liệu khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích, đáng để thử."
+    },
+    {
+      "step": "Chia sẻ kinh nghiệm",
+      "desc": "Nhân nem mỗi nhà mỗi kiểu, gợi ý thêm lá lốt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Bí quyết 2",
+      "desc": "Thêm dầu ăn để nhân nem không bị chảy nước.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích, đáng để thử."
+    },
+    {
+      "step": "Giới thiệu nguyên liệu",
+      "desc": "Giới thiệu vỏ ram Hà Tĩnh và link mua online.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn tìm mua thử."
+    },
+    {
+      "step": "Lưu ý khi rán",
+      "desc": "Rán ngập dầu, lửa vừa để nem giòn, không bị khô.",
+      "impact_level": "2",
+      "viewer_emotion": "Note lại để làm theo."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Ăn kèm rau sống, chấm nước mắm tỏi ớt.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn ăn ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Truyền thống",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Link mình có để ở giỏ hàng nếu mọi người có nhu cầu thì có thể tham khảo nhá.",
+    "Nên là mọi người nhất định phải lưu lại công thức này, Tết về còn thể hiện nha."
+  ],
+  "cta_type": [
+    "Lưu video",
+    "Thử làm theo công thức",
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "tự tin",
+    "khen",
+    "thơm",
+    "yên tâm",
+    "thích",
+    "giòn",
+    "ngon",
+    "ngán"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "mình sẽ trộn trứng với thịt trước rồi bắt đầu mới cho thêm các nguyên liệu khác",
+    "lúc trộn nem mình sẽ cho thêm một xíu dầu ăn vào. Mọi người yên tâm mà làm theo cách này ấy thì gói nhiều đến mấy thì nhân nem nó cũng không bị chảy nước đâu",
+    "Nem này ăn thì ngon nhưng mà làm thì lỉnh kỉnh nên là mất công một lần làm mọi người làm nhiều luôn rồi để ngăn đông ăn dần nha"
+  ],
+  "hook_content": "Gần 5 năm về làm dâu rồi thì lần nào nhà chồng làm cỗ ấy, mình cũng tự tin cái khoản gói nem.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ bí quyết gói nem giòn, tròn, không bị ướt nhân, với các mẹo trộn nguyên liệu, chọn vỏ ram và rán nem. Video cũng gợi ý cách thưởng thức và bảo quản nem.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món miến sườn cay nấu lá húng quế dễ làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Hướng dẫn chọn sườn sụn/sườn non, tỏi, ớt.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy dễ thực hiện."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Giã tỏi ớt, chặt nhỏ sườn sụn.",
+      "impact_level": "1",
+      "viewer_emotion": "Chú ý các bước sơ chế."
+    },
+    {
+      "step": "Nấu sườn",
+      "desc": "Xào sườn với tỏi ớt, thêm nước, nêm nếm gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi mùi thơm."
+    },
+    {
+      "step": "Chuẩn bị miến",
+      "desc": "Ngâm miến đậu xanh.",
+      "impact_level": "1",
+      "viewer_emotion": "Các bước chuẩn bị được hoàn thiện."
+    },
+    {
+      "step": "Hoàn thành món ăn",
+      "desc": "Cho miến, lá húng quế vào, nêm nếm lại.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng món ăn."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Rắc tiêu và thưởng thức.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn làm thử ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người nhớ thử nha, xác nhận là ngon."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "siêu ngon",
+    "siêu thơm",
+    "thơm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "miếng sườn cây nấu với lại lá quế, món này thì siêu ngon, siêu thơm luôn mà làm rất là nhanh luôn",
+    "Trời ơi, nó thơm lắm luôn á mọi người ơi.",
+    "xác nhận là ngon"
+  ],
+  "hook_content": "Sao món bún nước huyền thoại thì rất là nhiều bạn hỏi mình về một cái món bún, món miếng gì đó dễ làm nhưng ăn lại ngon.",
+  "hook_type": [
+    "Phản hồi bình luận",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn nấu món miến sườn cay lá húng quế đơn giản, nhanh chóng mà lại rất ngon và thơm. Người làm hướng dẫn chi tiết từ chuẩn bị nguyên liệu đến các bước nấu nướng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

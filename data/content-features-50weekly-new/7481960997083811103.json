@@ -1,0 +1,91 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Gọi món",
+      "desc": "Thực khách gọi rất nhiều món đắt tiền như cua hoàng đế, tôm, nhím biển,...",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về số lượng món ăn được gọi."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Thực khách bắt đầu ăn bụng cá ngừ, cua hoàng đế và trứng cá tầm.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và thích thú khi thấy món ăn ngon."
+    },
+    {
+      "step": "Ăn kết hợp",
+      "desc": "Thực khách kết hợp ba món cua hoàng đế, trứng cá tầm và bào ngư.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với cách ăn kết hợp độc đáo."
+    },
+    {
+      "step": "Gọi thêm món",
+      "desc": "Thực khách tiếp tục gọi thêm nhiều món hải sản khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên về sức ăn của thực khách."
+    },
+    {
+      "step": "Thử thịt bò",
+      "desc": "Thực khách ăn thử miếng thịt bò đắt tiền.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của thịt bò đắt tiền."
+    },
+    {
+      "step": "Ăn cơm",
+      "desc": "Thực khách ăn cơm trắng và kết thúc thử thách.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy no và hài lòng."
+    },
+    {
+      "step": "Kiểm tra bụng",
+      "desc": "Thực khách kiểm tra bụng sau khi ăn no.",
+      "impact_level": "2",
+      "viewer_emotion": "Buồn cười và thích thú với hành động hài hước."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "sướng",
+    "đã",
+    "thơm",
+    "ngọt",
+    "béo",
+    "đói",
+    "kinh khủng",
+    "mệt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Má ơi, ngon quá.",
+    "Má ơi, cái thịt của nó ngọt điên.",
+    "Hải sản này mà ăn với trứng cá tầm, không có chỗ chê"
+  ],
+  "hook_content": "rồi, đi hốc thôi nào, thử thách hôm nay sẽ hốc buffet cua hoàng đế nhé, 3360 tệ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình một người ăn buffet hải sản đắt tiền, đặc biệt là cua hoàng đế và trứng cá tầm, với số lượng lớn và nhiều món khác nhau. Người này thể hiện sự thích thú và ngon miệng khi thưởng thức các món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

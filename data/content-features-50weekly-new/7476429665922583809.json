@@ -1,0 +1,82 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Nhắc lại clip cũ và giới thiệu món mới làm từ tủy bò.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Miêu tả nguyên liệu",
+      "desc": "Giá cả và số lượng tủy bò trong hộp không được như ý.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không quá ấn tượng."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Tủy bò không tạo ra sự khác biệt lớn về hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi thất vọng."
+    },
+    {
+      "step": "So sánh",
+      "desc": "Bò nướng ngon hơn, bánh mì tủy bò đỡ ngấy hơn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với so sánh."
+    },
+    {
+      "step": "Tổng kết chi phí",
+      "desc": "Liệt kê chi phí nguyên liệu làm món bánh mì tủy bò.",
+      "impact_level": "1",
+      "viewer_emotion": "Không cảm xúc đặc biệt."
+    },
+    {
+      "step": "So sánh chi phí",
+      "desc": "So sánh chi phí làm món này với món khác đã làm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngấy",
+    "béo ngậy",
+    "thơm",
+    "ngon",
+    "khó cảm nhận"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Tôi thử giàu, bạn cũng thế.",
+    "Cái mùi vị của cái tủy đó mọi người, nó mất tích luôn, không thấy có cái gì luôn.",
+    "Vit này là làm về cái tủy bò nhưng mà cuối cùng là mình lại thấy cái bò nướng của mình nó ngon."
+  ],
+  "hook_content": "Nếu có còn nhớ cái clip ăn tủy bò nướng ngấy ơi là ngấy của mình ở đây không?",
+  "hook_type": [
+    "Phản hồi bình luận",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video làm bánh mì tủy bò nướng để giảm độ ngấy so với ăn tủy bò trực tiếp. Tuy nhiên, hương vị tủy bò không nổi bật và người làm thấy bò nướng ngon hơn.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

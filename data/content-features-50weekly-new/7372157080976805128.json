@@ -1,0 +1,81 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Chia sẻ về việc con ốm và cả nhà quyết định ăn món đơn giản.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thông với vất vả của người mẹ."
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bún trộn kim chi thịt nướng dễ làm và ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy đói bụng và tò mò về món ăn."
+    },
+    {
+      "step": "Miêu tả món ăn",
+      "desc": "Miêu tả chi tiết về món bún trộn kim chi và nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn bởi sự kết hợp nguyên liệu."
+    },
+    {
+      "step": "Chuẩn bị và nướng thịt",
+      "desc": "Chuẩn bị nguyên liệu và nướng thịt sườn mỡ thơm ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng và muốn ăn ngay."
+    },
+    {
+      "step": "Lời mời",
+      "desc": "Mời mọi người cùng thưởng thức món bún trộn kim chi thịt nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thân thiện và muốn thử món."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thương",
+    "lo",
+    "đuối",
+    "vui",
+    "tình cảm",
+    "thèm",
+    "ngon",
+    "xuất sắc",
+    "ghiền",
+    "thơm tỉnh ngủ"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Vì lúc nào mà nó lì quá thì lúc đó không vui nha.",
+    "Hai nhà mình sẽ ăn bún trộn kim chi chung với thịt nướng, món này cho nó dễ chứ bây giờ mà đưa cơm chắc mình nuốt không có nổi đâu.",
+    "Nghe mùi hết trơn mà nó thơm tỉnh ngủ luôn"
+  ],
+  "hook_content": "dạo này Xô Hân nhà mình cứ bị sốt, rồi có bữa sốt cao quá là em ngủ từ sáng tới chiều luôn, xong là bữa đó không có ăn miếng cháo hay uống chút nước nào hết trơn luôn á.",
+  "hook_type": [
+    "Kể chuyện",
+    "Tạo sự đồng cảm"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ về việc chăm sóc con ốm và giới thiệu món bún trộn kim chi thịt nướng dễ làm. Người mẹ vừa kể chuyện vừa hướng dẫn nấu ăn một cách chân thực.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

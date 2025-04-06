@@ -1,0 +1,90 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món mắt cá ngừ hấp hành gừng và người nấu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy bình thường, một màn giới thiệu quen thuộc."
+    },
+    {
+      "step": "Chia sẻ nguyên liệu",
+      "desc": "Chia sẻ về việc mua mắt cá ngừ giá rẻ và tươi ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thích thú vì mua được nguyên liệu ngon."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Hướng dẫn khử mùi tanh của mắt cá ngừ bằng trà.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích với mẹo khử mùi tanh."
+    },
+    {
+      "step": "Nêm gia vị",
+      "desc": "Nêm gia vị đơn giản và bỏ nhiều hành gừng, ớt.",
+      "impact_level": "1",
+      "viewer_emotion": "Không có cảm xúc đặc biệt."
+    },
+    {
+      "step": "Hấp cá",
+      "desc": "Hấp cá trong 15-20 phút đến khi chín.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    },
+    {
+      "step": "Trình bày thành phẩm",
+      "desc": "Mở ra và giới thiệu mắt cá hấp dẫn, thơm ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy đói bụng và thèm thuồng."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Ăn kèm nước mắm cay và cảm nhận vị ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Thấy thèm thuồng và muốn ăn ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ấm bụng",
+    "thơm",
+    "hấp dẫn",
+    "siêu ngọt",
+    "siêu béo",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "mắt cá ngừ siêu bự mà có 80 cành hoa một ký thôi hà",
+    "mở ra một cái ta nói nó thơm thì thôi luôn",
+    "mắt cá thì siêu béo, nhiều thịt ăn với nước mắm cay cay nữa thì còn gì bằng"
+  ],
+  "hook_content": "Hello mọi người, lại là tôi Mập Bự thích nấu ăn đây.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm món mắt cá ngừ hấp hành gừng đơn giản tại nhà, từ khâu sơ chế đến khi thưởng thức. Người nấu chia sẻ mẹo khử mùi tanh và cách nêm gia vị để món ăn thơm ngon, hấp dẫn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

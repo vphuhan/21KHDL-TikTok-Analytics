@@ -1,0 +1,68 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu số tiền và thử thách mua đồ ăn ở cửa hàng tiện lợi",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về những món đồ sẽ được mua."
+    },
+    {
+      "step": "Liệt kê món ăn",
+      "desc": "Liệt kê các món đã mua và giá tiền của từng món",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Pha chế",
+      "desc": "Pha cà phê và giới thiệu sản phẩm cà phê của Nhật Kim Anh",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của loại cà phê mới."
+    },
+    {
+      "step": "Cảm nhận",
+      "desc": "Đánh giá hương vị cà phê và công dụng của sản phẩm",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với những đánh giá tích cực."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "đậm đà",
+    "đê mê",
+    "ngon",
+    "khỏe"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "cà phê gì mà thơm ghê, chất cứ sánh kẹo, hương vị lại cứ đậm đà đê mê",
+    "Đúng là không phải tự nhiên mà ai cũng uống lau ra cà phê, đã ngon mà còn khỏe nữa."
+  ],
+  "hook_content": "212.000 mua được gì?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Liệt kê",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang ghi lại quá trình mua và thưởng thức các món ăn tại cửa hàng tiện lợi với 212.000 VNĐ, sau đó review thêm về cà phê của Nhật Kim Anh.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

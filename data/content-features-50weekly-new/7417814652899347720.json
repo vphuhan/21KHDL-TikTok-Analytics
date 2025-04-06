@@ -1,0 +1,79 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ăn Fufu nổi tiếng của người dân Châu Phi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới lạ."
+    },
+    {
+      "step": "Miêu tả cảm quan",
+      "desc": "Miêu tả hình dáng, thành phần và cách ăn món Fufu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy lạ và hơi khó nuốt."
+    },
+    {
+      "step": "Trải nghiệm hương vị",
+      "desc": "Nếm thử và mô tả hương vị của Fufu với các loại topping.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy món ăn khá lạ miệng."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Đánh giá tổng quan về món ăn và chấm điểm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy món ăn đáng để thử."
+    },
+    {
+      "step": "Lưu ý",
+      "desc": "Đưa ra lưu ý khi ăn Fufu.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy hữu ích."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "vừa phải",
+    "lạ",
+    "cuốn",
+    "hợp lý",
+    "dễ ăn",
+    "thích",
+    "mặn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Trên mạng fu fu, ngoài đời fu fu nha mọi người ơi.",
+    "Cái gia vị ướp nếm rất là vừa khẩu vị người Việt Nam mình luôn.",
+    "Giống như là mình ăn cơm mà khi mà nấu mà bị nhão á, cơm mà nấu bị nhão ra xong rồi ăn với thịt kho."
+  ],
+  "hook_content": "Trên mạng fu fu. Ngoài đời fu fu nha mọi người ơi, đây đây là một trong những cái món ăn rất là nổi tiếng của người dân Châu Phi nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món Fufu của người Châu Phi, từ hình dáng, cách ăn đến hương vị và cảm nhận cá nhân. Người review đánh giá món ăn lạ miệng, dễ ăn và đáng thử.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

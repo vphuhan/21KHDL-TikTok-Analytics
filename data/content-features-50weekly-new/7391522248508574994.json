@@ -1,0 +1,79 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món lòng sữa bò chiên giòn mới làm thành công.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Chia sẻ quá trình chế biến",
+      "desc": "Mô tả quá trình chiên lòng sữa bò gặp nhiều khó khăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với sự vất vả"
+    },
+    {
+      "step": "Miêu tả cảm nhận khi ăn",
+      "desc": "Miêu tả độ giòn, béo ngậy và cảm giác ngập nước.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi ngấy khi nghe miêu tả"
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Nhận xét về sự cực nhọc khi chế biến tại nhà.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy cũng đúng"
+    },
+    {
+      "step": "Đề xuất cách ăn",
+      "desc": "Gợi ý ăn kèm với sốt cay để tăng hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử ăn kèm sốt"
+    },
+    {
+      "step": "So sánh các cách chế biến",
+      "desc": "So sánh giữa việc chiên không và ướp sốt.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "giòn tan",
+    "béo",
+    "ngấy",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cắn một cái giòn tan thật sự luôn.",
+    "Béo là béo nhưng mà cái nước ở trong cái lòng trời ơi, nó ngập ngụ ở trong cổ họng mình luôn á.",
+    "Ăn vài miếng thì ngon nha, nhiều quá cái nó bị ngấy á mọi người."
+  ],
+  "hook_content": "đi mọi người đã chiên giòn lòng sữa bò nướng thành công rồi nè.",
+  "hook_type": [
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video mukbang về món lòng sữa bò chiên giòn, chia sẻ quá trình chế biến gian nan và cảm nhận hương vị béo ngậy, giòn tan nhưng dễ ngấy. Người làm gợi ý ăn kèm với sốt cay và so sánh các cách chế biến khác nhau.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

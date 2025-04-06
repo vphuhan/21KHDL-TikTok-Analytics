@@ -1,0 +1,93 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về Bánh Mì Minh Nhật và quán quân vua đầu bếp.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Review bánh bò phô mai",
+      "desc": "Đánh giá hương vị, thành phần và so sánh với burger.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Review bánh bò đặc biệt",
+      "desc": "Đánh giá sự khác biệt và ưu điểm so với bánh trước.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Review bánh thập cẩm",
+      "desc": "Nhận xét về pate, trứng, chả và sự kết hợp.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Review bánh xá xíu",
+      "desc": "Đánh giá vị thịt, pate và sốt trắng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Review bánh chả nóng",
+      "desc": "Đánh giá vị chả và đề xuất cải tiến.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Review bánh gà nướng",
+      "desc": "Nhận xét về vị gà, độ mềm và sự hài hòa.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bạn đã ăn bánh của hãng này bao giờ chưa? Comment cho tôi biết, cũng như là like và follow để xem tôi tiếp tục phí tiền và các hãng bánh mì tiếp theo nhé."
+  ],
+  "cta_type": [
+    "Follow kênh",
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "sướng mồm",
+    "hài hòa",
+    "kem kem",
+    "vừa ăn",
+    "ok",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "với mức giá bánh mì cũng bán cho vua luôn",
+    "giấc mơ của những ai mong muốn một cái bánh mì với lượng thịt bò nhiều nhất",
+    "Nói chung là một cái bánh tròn trách nhiệm"
+  ],
+  "hook_content": "Sếp hạng tất cả các loại bánh mì của Bánh Mì Minh Nhật, không ngờ chính là thằng liều, tôi lại tiếp tục đi càn quét hãng bánh mì tiếp theo, đấy chính là Bánh Mì Minh Nhật.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Liệt kê",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review và xếp hạng các loại bánh mì của Bánh Mì Minh Nhật, từ bò phô mai đến gà nướng, với đánh giá chi tiết về hương vị, thành phần và giá cả. Người nói đưa ra nhận xét khách quan và đề xuất cải tiến cho thương hiệu.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

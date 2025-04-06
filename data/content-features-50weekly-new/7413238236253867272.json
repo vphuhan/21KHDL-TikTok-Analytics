@@ -1,0 +1,66 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu xúc xích",
+      "desc": "Giới thiệu món ăn là xúc xích khổng lồ và bắt đầu review.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về kích thước và hương vị."
+    },
+    {
+      "step": "Cảm nhận ban đầu",
+      "desc": "Nhận xét về độ nhớt và lạ của xúc xích.",
+      "impact_level": "3",
+      "viewer_emotion": "Ngạc nhiên và có chút khó chịu."
+    },
+    {
+      "step": "Phát hiện lỗi",
+      "desc": "Phát hiện ra có lẫn giấy trong xúc xích.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ và thất vọng về chất lượng."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét về sớ thịt của xúc xích khổng lồ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung vào trải nghiệm ăn uống."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "nhớt nhớt",
+    "nhầy nhầy",
+    "đã"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Sao nó lại nhớt nhớt nhầy nhầy thế này trời.",
+    "Hình như mình ăn phải miếng giấy rồi.",
+    "Xúc xích khổng lồ này ăn có sớ thịt quá to, quá là đã."
+  ],
+  "hook_content": "review cả thế giới xúc xích khổng lồ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món xúc xích khổng lồ, người nói đã có những trải nghiệm không mấy tích cực về độ nhớt và phát hiện có lẫn giấy bên trong, nhưng vẫn đánh giá cao sớ thịt của xúc xích.",
+  "tone_of_voice": [
+    "Ngạc nhiên",
+    "Khó chịu"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Phóng viên tự giới thiệu và giới thiệu quán bún đậu Tiến Hải.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán bún đậu."
+    },
+    {
+      "step": "Gọi món",
+      "desc": "Phóng viên và chủ quán trò chuyện, gợi ý combo đặc biệt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự tương tác."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Phóng viên đánh giá chi tiết các thành phần của bún đậu.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng."
+    },
+    {
+      "step": "Gợi ý thêm món",
+      "desc": "Phóng viên gợi ý thêm mẹt bún đậu khổng lồ.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú với thử thách ăn uống."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Lời kêu gọi thử combo và trải nghiệm các quán Foodmark.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn đến thử quán."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Đến với bún đậu Tiến Hải nhất định phải thử combo bún đậu đặc biệt kết hợp cùng với Coca-Cola Zero nhé.",
+    "Ngoài ra nếu như mọi người có cơ hội tới với thành phố Hồ Chí Minh thì hãy trải nghiệm hết những quán tuyển chọn của Coca-Cola Foodmark trong series của Fit nhé."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "vừa miệng",
+    "ưng",
+    "xuất sắc",
+    "chuẩn Hà Nội",
+    "yêu thích"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nhìn ngon xuất sắc thế này mà bỏ qua thì quá ư là thiếu xót.",
+    "Bên ngoài giòn rụm, bên trong mềm mềm nóng hổi.",
+    "Phượng không hợp mà hợp không tưởng anh ạ."
+  ],
+  "hook_content": "Phóng viên Fit 25 tuổi, độc thân vui tính xinh đẹp. Nhưng nhân vật chính của ngày hôm nay không phải là tôi mà là quán bún đậu Tiến Hải.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video giới thiệu quán bún đậu Tiến Hải ở Sài Gòn, đặc biệt là combo bún đậu kết hợp Coca-Cola Zero. Phóng viên trải nghiệm và đánh giá cao hương vị chuẩn Hà Nội của quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

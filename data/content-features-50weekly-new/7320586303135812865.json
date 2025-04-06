@@ -1,0 +1,74 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu cây xúc xích dài, có vừng và ớt, trông ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hình dáng và hương vị."
+    },
+    {
+      "step": "Đánh giá mùi vị",
+      "desc": "Xúc xích có mùi đồ ăn vặt cổng trường, gia vị Trung Quốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Nhớ lại hương vị quen thuộc."
+    },
+    {
+      "step": "Đánh giá kết cấu",
+      "desc": "Xúc xích mềm, vỏ giòn hơn xúc xích ăn liền, lõi giống.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin tham khảo về độ giòn."
+    },
+    {
+      "step": "Đánh giá hương vị tổng quan",
+      "desc": "Xúc xích ăn liền phết gia vị, béo, cay, hăng, bùi của vừng.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung hương vị sản phẩm."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Gia vị ổn.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm nhận sản phẩm ở mức chấp nhận được."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "béo",
+    "cay",
+    "hăng",
+    "bùi"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nó rất là dài và nhìn nó có hạt vừng với cả ớt này, trông rất là ngon.",
+    "Cái xúc xích này mình thấy nó có cái mùi giống kiểu mấy cái đồ ăn vặt cổng trường ấy, cái mùi gia vị Trung Quốc rất là rõ ấy.",
+    "Ăn nó kiểu béo, cay cay, hăng hăng, thêm một chút cái bùi bùi của vừng."
+  ],
+  "hook_content": "Mọi người ơi, mình mới mua được một cái cây xúc xích trông rất là ngon mọi người ạ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review cây xúc xích ăn liền với hình dáng độc đáo, đánh giá về mùi vị, độ mềm và nhận xét chung về hương vị gia vị.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

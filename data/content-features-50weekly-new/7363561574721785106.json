@@ -1,0 +1,61 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Nhạc nền và lời bài hát về cuộc đời trắc trở.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về nội dung video."
+    },
+    {
+      "step": "Tiếp tục",
+      "desc": "Lời bài hát về vui vẻ và cơ hội.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thư giãn và thoải mái."
+    },
+    {
+      "step": "Kết",
+      "desc": "Lời bài hát khuyến khích vui vẻ và tận hưởng.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy được động viên."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "vui",
+    "say",
+    "đắm say",
+    "yên bình"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Hãy cứ tan vào những em đêm tối nay.",
+    "Cứ tan trong màn đêm này đắm say.",
+    "Vì ngày mai lại một cơ hội để ôm trọn tình trôi."
+  ],
+  "hook_content": "một cuộc đời trắc trở nên chi bao lâu em bỏ lại hết đằng sau.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Kể chuyện"
+  ],
+  "summarization": "Video sử dụng lời bài hát để diễn tả cảm xúc và khuyến khích người xem vui vẻ, tận hưởng cuộc sống, và hướng đến những điều tốt đẹp hơn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

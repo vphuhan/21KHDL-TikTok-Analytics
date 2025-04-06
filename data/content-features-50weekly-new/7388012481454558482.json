@@ -1,0 +1,82 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu bằng câu chuyện hài hước",
+      "desc": "Kể một câu chuyện bịa về việc mang bánh vào rạp phim.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị vì câu chuyện hài hước."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu bánh gạo dinh dưỡng Kul với các hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm mới."
+    },
+    {
+      "step": "So sánh và đánh giá hương vị",
+      "desc": "So sánh vị tự nhiên và vị tương Nhật, nêu cảm nhận.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với phần so sánh hương vị."
+    },
+    {
+      "step": "Thông tin thêm về sản phẩm",
+      "desc": "Thông tin về gạo giống Nhật, canxi và quy trình sản xuất.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thông tin hữu ích."
+    },
+    {
+      "step": "Kết luận và khuyến khích",
+      "desc": "Nhấn mạnh sự ngon miệng, dinh dưỡng và kêu gọi thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Có động lực muốn thử sản phẩm."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Thử ngay đi mọi người."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "thích"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái vị tự nhiên này giống vị ngày xưa thế.",
+    "Ăn như kiểu ăn cơm lươn ấy mọi người ạ.",
+    "Sáng ra mọi người chỉ ăn đúng một cái bánh gạo này thôi, no hay không thì chưa biết, nhưng mà ngon với dinh dưỡng."
+  ],
+  "hook_content": "lỡ mang đúng một gói bánh và rạt chiếu phim mà tí nữa bị người ta đuổi về, mà mấu chốt ấy là mình có tính ăn đâu, phải công nhận là người ta tinh thật.",
+  "hook_type": [
+    "Kể chuyện",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh",
+    "Kể chuyện"
+  ],
+  "summarization": "Video review bánh gạo dinh dưỡng Kul với các hương vị khác nhau, so sánh hương vị và đưa ra đánh giá cá nhân, đồng thời chia sẻ thông tin về thành phần và lợi ích của sản phẩm.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

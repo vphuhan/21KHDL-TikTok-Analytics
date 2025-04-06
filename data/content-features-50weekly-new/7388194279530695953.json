@@ -1,0 +1,78 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu hàu sống ướp đá ăn kèm các loại sốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Thưởng thức hàu sống",
+      "desc": "Vắt chanh, rưới nước tương wasabi và ăn hàu.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Nhận xét hương vị",
+      "desc": "Nhận xét về vị béo, lợ của hàu và vị cay của wasabi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "So sánh cách ăn",
+      "desc": "So sánh cách ăn hàu với đậu hành và tương xí muội.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Gợi ý cách ăn",
+      "desc": "Gợi ý nên lót đá lạnh khi ăn hàu để ngon hơn.",
+      "impact_level": "2",
+      "viewer_emotion": "Ghi nhớ"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mà biết chỗ thì chỉ tôi với nha."
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Chia sẻ"
+  ],
+  "emotion_keywords": [
+    "béo",
+    "cay",
+    "ngon",
+    "thèm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "hầu sống tánh chanh thì ăn rất là béo nè.",
+    "ăn không quen mọi người sẽ cảm thấy nó hơi lợ lợ á mọi người.",
+    "Mình nhớ lót đá lạnh ở dưới nha. Lúc ăn con hầu nó sẽ lạnh lạnh. Nó sẽ ngon hơn là hầu nguội á mọi người."
+  ],
+  "hook_content": "khi mọi người mắt cái giống gì mà mấy bữa nay hít ăn đêm không ạ?",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang ăn hàu sống với nhiều loại sốt khác nhau, người ăn chia sẻ cảm nhận về hương vị và gợi ý cách ăn ngon hơn. Đồng thời hỏi địa chỉ mua hàu to.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

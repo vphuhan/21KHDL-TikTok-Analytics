@@ -1,0 +1,78 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Chào hỏi và làm quen",
+      "desc": "Chị gái tiếp cận và bắt chuyện với một bạn nam lạ mặt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự tương tác."
+    },
+    {
+      "step": "Mời ăn xuyên bẩn",
+      "desc": "Chị gái mời bạn nam ăn xuyên bẩn cùng nhóm bạn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự hào phóng."
+    },
+    {
+      "step": "Trò chuyện hài hước",
+      "desc": "Cả nhóm trêu chọc, tán tỉnh nhau bằng những câu nói hài hước.",
+      "impact_level": "3",
+      "viewer_emotion": "Vui vẻ và thích thú."
+    },
+    {
+      "step": "Giới thiệu địa điểm",
+      "desc": "Nhóm bạn chia sẻ về độ nổi tiếng của quán xuyên bẩn Côn Viên.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, cung cấp thông tin."
+    },
+    {
+      "step": "Tán tỉnh qua lại",
+      "desc": "Bạn nam và chị gái tiếp tục tán tỉnh nhau bằng những câu nói đùa.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị và hài hước."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thích",
+    "yêu",
+    "đẹp trai",
+    "hay ho",
+    "thích quá"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đi sao cũng được, chỉ cần đi cùng em thôi là được.",
+    "Ngồi cạnh em là không mất sai lầm.",
+    "Uống chung với chị mới có chửa được."
+  ],
+  "hook_content": "Nátảm. Trương yêu. Chị đang chịu chị Mau, chị đang nào chử rách ăn người ta.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kịch hóa",
+    "Đối thoại"
+  ],
+  "summarization": "Video ghi lại cảnh một chị gái tiếp cận và mời một bạn nam lạ mặt cùng ăn xuyên bẩn với nhóm bạn của mình, tạo nên những tình huống trò chuyện hài hước và tán tỉnh nhau.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu quán cơm 35k ở quận 1, gây tò mò.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Miêu tả quán",
+      "desc": "Quán đông khách, chủ yếu mua mang về.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Cơm chiên kèm khoai tây, da gà, trứng lòng đào.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Thông tin địa điểm",
+      "desc": "Đối diện tòa nhà dát vàng, bán từ 11h.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "rẻ",
+    "đảm bảo vệ sinh",
+    "đông khách"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "một suất cơm 30.000 ở ngay quận một mà anh chủ quán bảo là thôi tốt nhất là đừng có ăn, đi ăn cái khác đi",
+    "mấy anh quần xanh đi ăn thì chắc chắn là đảm bảo vệ sinh",
+    "cơm chiên của anh đối diện với tòa nhà dát vàng ở phố Cây Điệp"
+  ],
+  "hook_content": "một suất cơm 30.000 ở ngay quận một mà anh chủ quán bảo là thôi tốt nhất là đừng có ăn, đi ăn cái khác đi, nhưng mình vẫn cố xếp hàng để ăn, vì thấy mấy anh quần xanh đi ăn thì chắc chắn là đảm bảo vệ sinh.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu quán cơm chiên 35k siêu rẻ ở quận 1, được nhiều người ưa chuộng vì ngon và đảm bảo vệ sinh. Món ăn kèm khoai tây, da gà giòn, trứng lòng đào.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

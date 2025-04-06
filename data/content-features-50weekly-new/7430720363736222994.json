@@ -1,0 +1,81 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu thử thách",
+      "desc": "Người nói nhắc lại thử thách trộn 7UP và Sprite theo yêu cầu.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Phân tích vẻ ngoài",
+      "desc": "So sánh màu sắc và bọt của hai loại nước sau khi trộn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Nếm thử",
+      "desc": "Nếm từng loại nước và nhận xét về hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Nhận xét về sự khác biệt và độ ngon của hỗn hợp.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Phản ứng tiêu cực",
+      "desc": "Thể hiện sự thất vọng vì không thấy sự khác biệt.",
+      "impact_level": "3",
+      "viewer_emotion": "Thất vọng"
+    },
+    {
+      "step": "Chỉ trích",
+      "desc": "Chê bai những bình luận yêu cầu làm thử thách vô nghĩa.",
+      "impact_level": "2",
+      "viewer_emotion": "Khó chịu"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngọt",
+    "béo",
+    "nhiều ga",
+    "ảo",
+    "phí thời gian"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Hai cái tôi thấy cũng chả khác mẹ gì nhau cả.",
+    "Tôi cảm giác tôi vừa phí 2 phút cuộc đời."
+  ],
+  "hook_content": "Mic bẩn ấp spy đi anh.",
+  "hook_type": [
+    "Phản hồi bình luận"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video thử thách trộn 7UP và Sprite theo yêu cầu của người xem, sau khi thử thì người nói không thấy sự khác biệt và cảm thấy phí thời gian.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Chân thành",
+    "Khó chịu"
+  ]
+}

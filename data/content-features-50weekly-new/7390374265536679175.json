@@ -1,0 +1,86 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món trứng gà lộn um bầu và số lượng trứng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Rửa trứng gà, hái rau mồng tơi trên sân thượng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Luộc trứng",
+      "desc": "Luộc trứng gà và lo lắng về việc trứng nổ.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi lo lắng theo người nấu."
+    },
+    {
+      "step": "Sơ chế",
+      "desc": "Băm tỏi, đầu hành, xào bầu với gia vị.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Nấu món ăn",
+      "desc": "Cho trứng vào nồi bầu, chuẩn bị ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy đói và thèm ăn."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Cả nhà cùng ăn trứng gà lộn um bầu.",
+      "impact_level": "3",
+      "viewer_emotion": "Vui vẻ, ấm cúng."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Kết thúc bữa ăn, còn hai trứng cuối cùng.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy no và hài lòng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "ngọt",
+    "béo",
+    "thú vị",
+    "hấp dẫn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nói chiều ăn nó ngon, trời ơi cái nước chủ yếu là nó ngọt của bầu.",
+    "Không biết là làm sao chứ nghĩ thôi là cũng đã thấy thú vị rồi đó nha mọi người.",
+    "Để cho cái nồi trứng lộn um bầu thêm hấp dẫn á thì mình sẽ cho lên đây một ít hành nữa"
+  ],
+  "hook_content": "Hôm nay mình có món mới cho ba tụi Hon thử nữa rồi nè, trứng gà lộn um bầu nha, hay còn gọi là lẩu hột vịt lộn á.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình nấu món trứng gà lộn um bầu của một người mẹ để cho gia đình thưởng thức. Món ăn được cả nhà yêu thích, đặc biệt là ba của các bé.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

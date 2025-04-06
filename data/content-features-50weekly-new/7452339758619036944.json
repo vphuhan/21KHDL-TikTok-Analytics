@@ -1,0 +1,92 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu dộp hấp muối, nhấn mạnh độ dai ngon và giá rẻ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn và cảm thấy thú vị."
+    },
+    {
+      "step": "Mua và sơ chế",
+      "desc": "Mua dộp, ngâm với ớt, rửa sạch, rải muối hột và xả.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thấy được quá trình chuẩn bị."
+    },
+    {
+      "step": "Hấp dộp",
+      "desc": "Hướng dẫn hấp dộp, lưu ý thời gian để tránh bị mặn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích, có thêm kinh nghiệm hấp dộp."
+    },
+    {
+      "step": "Pha nước chấm",
+      "desc": "Giới thiệu chén muối ớt đâm cay xê xêm.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng và thèm thuồng với món nước chấm."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Miêu tả dộp ú nu, dai ngọt, ăn với muối ớt ngon chấn động.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng và muốn ăn thử."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Nhận xét nên mua nhiều hơn vì nhiêu đây là hơi ít.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy món ăn hấp dẫn và đáng thử."
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người ăn chung.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thân thiện."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi nghe."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "siêu dai ngọt",
+    "ngọt",
+    "cay xê xêm",
+    "tê tê tâm hồn",
+    "ú nu",
+    "dai ngọt ngập miệng",
+    "ngon chấn động"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ăn siêu dai ngọt",
+    "ăn cùng với muối ớt đâm cay cay ta nói nó ngon chấn động luôn",
+    "cay xê xêm mà tê tê tâm hồn"
+  ],
+  "hook_content": "Hôm nay review một loại sò mà ăn siêu dai ngọt, nhìn tưởng đâu con nghén đắt đỏ chứ thật ra có 20 cành một ký hà.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video review món dộp hấp muối, một loại sò dai ngọt và rẻ tiền. Người làm video hướng dẫn cách hấp dộp ngon và pha nước chấm muối ớt cay xê xêm, đồng thời mời mọi người cùng ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

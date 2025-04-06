@@ -1,0 +1,65 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Mời mọi người cùng ăn bún bò Huế với Dung.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Trộn và nêm nếm",
+      "desc": "Thêm sa tế cay và mắm ớt vào bún bò.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Dung bắt đầu ăn và cảm nhận hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Nhận xét",
+      "desc": "Khen bún bò ngon, cay và nhiều topping.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "cay",
+    "xuất sắc"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Hôm nay vô ăn bún bò phải phun tốc luôn.",
+    "Sa tế ở đây cay lắm mọi người ơi.",
+    "Trời ơi, ngon quá."
+  ],
+  "hook_content": "Mời mọi người ăn bún bò cùng với Dung nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang bún bò Huế full topping siêu cay của Dung Thích Ăn, tập trung vào quá trình trộn, nêm nếm và thưởng thức món ăn một cách ngon miệng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món lẩu ếch măng chua sẽ nấu cho gia đình.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Đi chợ mua măng chua và ếch, sơ chế nguyên liệu.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin cơ bản."
+    },
+    {
+      "step": "Ướp ếch",
+      "desc": "Ướp ếch với gia vị thông thường như mắm, muối.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin cơ bản, dễ thực hiện."
+    },
+    {
+      "step": "Nấu lẩu",
+      "desc": "Phi hành tỏi, xào cà chua, cho măng và nước.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn hơn với các bước nấu."
+    },
+    {
+      "step": "Nêm nếm",
+      "desc": "Nêm nếm gia vị cho vừa ăn, thêm sa tế, nước cốt me.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị."
+    },
+    {
+      "step": "Hoàn thiện",
+      "desc": "Múc lẩu ra, thêm rau, mời mọi người cùng ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn ăn thử."
+    },
+    {
+      "step": "Cảm nhận món ăn",
+      "desc": "Gia đình quây quần ăn và đưa ra cảm nhận.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy ấm cúng, hạnh phúc."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mời mọi người ăn chung với cả nhà mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "ngon",
+    "chua chua",
+    "ăn dính",
+    "ngon lắm",
+    "buồn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Con lẩu ếch măng chua này là lần đầu tiên mình nấu luôn á, mà mình thấy nó dễ, nó ngon nha.",
+    "Đó, nó chỉ có vậy thôi đó mà ta nói ăn ngon nhức nách luôn."
+  ],
+  "hook_content": "Bữa nay mình sẽ tạo bất ngờ cho ông bà ngoại bằng một cái tivi mới nha.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn nấu món lẩu ếch măng chua đơn giản tại nhà, từ khâu chuẩn bị nguyên liệu đến khi hoàn thành và thưởng thức cùng gia đình. Món ăn được đánh giá là dễ nấu, ngon và hấp dẫn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

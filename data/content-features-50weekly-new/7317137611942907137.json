@@ -1,0 +1,84 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán lẩu Thái siêu đông khách ở khu Phùng Khoang.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ nổi tiếng của quán."
+    },
+    {
+      "step": "Không gian quán",
+      "desc": "Miêu tả không gian quán có ba tầng và khu vực ngồi khác nhau.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin về không gian quán."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Review cánh gà chiên mắm, gỏi tôm và lẩu Thái hai người.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú với đánh giá món ăn."
+    },
+    {
+      "step": "Cảm nhận lẩu Thái",
+      "desc": "Nhận xét về hương vị lẩu Thái đã được điều chỉnh cho phù hợp.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị lẩu."
+    },
+    {
+      "step": "Thưởng thức thêm",
+      "desc": "Thử thêm viên thả lẩu và mì tôm để no bụng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Tổng kết",
+      "desc": "Nhấn mạnh độ nổi tiếng của quán và lời mời đến ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng về độ nổi tiếng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Buổi tối mùa đông đưa người yêu đi ăn lẩu thái đi các bạn ơi."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ấm áp"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "đến quán chị ăn là ăn được kiểu vua kiểu chúa đúng không?",
+    "riêng về khoản lẩu Thái chẳng quán nào đông khách bằng cái quán này luôn.",
+    "Buổi tối mùa đông đưa người yêu đi ăn lẩu thái đi các bạn ơi."
+  ],
+  "hook_content": "Chứ em có hai người thì gọi nồi mấy trăm? Em ăn một nồi lẩu hai nhá.",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán lẩu Thái nổi tiếng ở khu Phùng Khoang, Hà Nội, tập trung vào đánh giá hương vị món ăn, không gian quán và trải nghiệm cá nhân của người review.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

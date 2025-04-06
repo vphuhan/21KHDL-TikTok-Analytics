@@ -1,0 +1,90 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món mắm chưng và nỗi thèm thuồng sau chuyến đi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món mắm chưng."
+    },
+    {
+      "step": "Chia sẻ công thức",
+      "desc": "Chia sẻ công thức và liều lượng mắm chưng trên màn hình.",
+      "impact_level": "3",
+      "viewer_emotion": "Vui vẻ vì có công thức chi tiết."
+    },
+    {
+      "step": "Bí quyết chưng mắm",
+      "desc": "Hướng dẫn cách chưng mắm không bị ứ nước với gừng, tỏi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với mẹo nhỏ."
+    },
+    {
+      "step": "Chưng mắm",
+      "desc": "Hướng dẫn chi tiết các bước chưng mắm, số lần mở nắp.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung để ghi nhớ các bước."
+    },
+    {
+      "step": "Hoàn thiện món ăn",
+      "desc": "Thêm lòng đỏ trứng, hành, ớt, tiêu và đậy nắp hoàn thành.",
+      "impact_level": "3",
+      "viewer_emotion": "Háo hức muốn thử ngay."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu các loại mắm khác và trà dưỡng nhan, trà ngũ vị.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không quá ấn tượng."
+    },
+    {
+      "step": "Mời thưởng thức",
+      "desc": "Mời ăn cơm trưa và chúc mọi người buổi trưa vui vẻ.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thân thiện, ấm áp."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cả nhà có cần làm món nào từ mắm á thì cứ nhắn Hương á, Hương sẽ tư vấn cho mình."
+  ],
+  "cta_type": [
+    "Truy cập trang cá nhân",
+    "Đặt câu hỏi"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thèm",
+    "đậm đà",
+    "hấp dẫn",
+    "vui vẻ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đi chơi có mấy bữa mà Hương về á, thèm mắm chưng hết sức, bởi vậy Hương chưng nguyên thố á ăn cho nó đã.",
+    "Sau này cả nhà mình chưng mắm, thử cho một ít gừng băm nhuyễn, thêm một xíu dầu tỏi phi. Rồi cả nhà cứ thử xem hương vị á có ngon hơn bình thường không nha.",
+    "Cách mà Hương chia sẻ với cả nhà á, khi chưng xong tô mắm của mình rất là khô ráo."
+  ],
+  "hook_content": "Đây là công thức và cách làm mắm chưng ngon chuẩn vị miền Tây luôn nha cả nhà.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm mắm chưng chuẩn vị miền Tây, chia sẻ công thức, bí quyết chưng mắm không bị ứ nước và giới thiệu các sản phẩm khác từ mắm. Cuối video mời mọi người cùng ăn cơm trưa và chúc buổi trưa vui vẻ.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

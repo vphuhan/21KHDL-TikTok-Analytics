@@ -1,0 +1,95 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu bọ biển và hình dáng kỳ lạ của nó.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Sơ chế",
+      "desc": "Hấp bọ biển với gừng, sả, tiêu và nước dừa.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, chờ đợi món ăn."
+    },
+    {
+      "step": "Pha nước chấm",
+      "desc": "Pha nước chấm muối tiêu chanh ớt đơn giản.",
+      "impact_level": "1",
+      "viewer_emotion": "Không có cảm xúc đặc biệt."
+    },
+    {
+      "step": "Bắt đầu ăn",
+      "desc": "Cắt bọ biển và thưởng thức các phần khác nhau.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, tò mò hương vị."
+    },
+    {
+      "step": "Uống nước",
+      "desc": "Uống Coca-Cola mix hai loại không đường và nguyên bản.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với cách uống độc đáo."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Miêu tả chi tiết hương vị béo, ngọt, dai, sực sực.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn thử ngay."
+    },
+    {
+      "step": "So sánh",
+      "desc": "So sánh bọ biển với tôm hùm và cua hoàng đế.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn và đáng thử."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cám ơn bạn đã xem video của Tóc Vàng nha.",
+    "Hẹn gặp lại bạn vào video lần sau."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngọt",
+    "béo",
+    "thơm",
+    "ngon",
+    "hồi hộp",
+    "wow",
+    "ngon xỉu"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ngon xỉu luôn á bạn, rất là ngon luôn. Nó béo, nó béo, nó thơm, nó ngọt thiệt.",
+    "Ngon tương đương ăn với tôm hùm và cua hoàng đế luôn á bạn.",
+    "Cùng một cái thân con này mà có nhiều cái vị khác nhau á bạn."
+  ],
+  "hook_content": "Mấy bạn ơi, hôm nay Vàng sẽ ăn con bọ biển này nha bạn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video mukbang về bọ biển được sơ chế và ăn thử bởi Tóc Vàng hoe. Cô nàng miêu tả chi tiết hương vị và so sánh nó với các loại hải sản khác.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

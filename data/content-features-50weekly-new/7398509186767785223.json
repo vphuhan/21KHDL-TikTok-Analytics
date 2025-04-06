@@ -1,0 +1,91 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Đi chợ",
+      "desc": "Hai mẹ con đi chợ mua thịt để nướng ăn cơm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Ướp thịt",
+      "desc": "Ướp thịt với hành, tỏi, hành lá, dầu ăn và các gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu sản phẩm xịt họng, kem chống nắng và bộ nồi.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Quảng cáo live",
+      "desc": "Thông báo về phiên live và các sản phẩm sẽ được giới thiệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Trộn dưa cải",
+      "desc": "Trộn dưa cải với ớt, tỏi và đường để ăn kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Pha nước mắm",
+      "desc": "Pha nước mắm chua ngọt để chan cơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Bới cơm và thưởng thức",
+      "desc": "Bới cơm, thêm thịt nướng, dưa cải, mỡ hành và ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Hào hứng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mega live mn nhớ tham gia cùng mình nha",
+    "Mọi người nhớ đón xem nha."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo",
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "thơm ngon",
+    "ngon",
+    "hồi hộp",
+    "mê"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Thịt mình đem đi ốp nướng kiểu này á, thơm ngon từ Hàn Quốc về tới Việt Nam.",
+    "Má nhà bà ngoại mình nè, cưỡng lại đâu có được đâu.",
+    "Bữa nào mà mình nướng thịt này ha là nó ăn nhiều lắm mọi người."
+  ],
+  "hook_content": "Bữa nay là lần thứ hai trong ngày hai mẹ con mình đi chợ rồi đó.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình đi chợ, ướp thịt nướng, pha nước mắm chua ngọt và chuẩn bị cơm tấm sườn nướng tại nhà. Đồng thời, video cũng giới thiệu về phiên live sắp tới và các sản phẩm liên quan.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

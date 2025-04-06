@@ -1,0 +1,74 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu lò bánh",
+      "desc": "Giới thiệu về lò bánh trung thu truyền thống gia đình lâu đời.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về lịch sử của lò bánh."
+    },
+    {
+      "step": "Thử bánh thập cẩm sò điệp",
+      "desc": "Thử nghiệm và đánh giá hương vị nhân thập cẩm sò điệp sốt XO.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự kết hợp hương vị mới lạ."
+    },
+    {
+      "step": "Thử bánh đậu đỏ hạnh nhân",
+      "desc": "Thử nghiệm và đánh giá bánh nhân đậu đỏ hạnh nhân.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy muốn thử hương vị này."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Nhận xét về vỏ bánh, nhân bánh và trứng muối của bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng bánh."
+    },
+    {
+      "step": "Giá trị gia đình",
+      "desc": "Nhấn mạnh ý nghĩa gia đình và sự đoàn viên của tiệm bánh.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấm áp và cảm động trước câu chuyện gia đình."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết",
+    "Truyền thống"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thích",
+    "vị tươi",
+    "gi dậy mùi",
+    "bùi bùi"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cắn một miếng thôi là các bạn sẽ nghe được liền cái vị tươi của hải sản luôn á.",
+    "Bánh của Phương Nhiệm Thuận mỏng và ăn không bao giờ bị khô hết.",
+    "Mình rất là thích cái văn hóa của gia đình này, kiểu mỗi năm mọi người sẽ tụ họp về để phát triển cái tiệm bánh truyền thống của gia đình á, rất là đúng ý nghĩa đoàn viên của Tết trung thu luôn."
+  ],
+  "hook_content": "Mấy năm trước khi mà mình biết đến cái lò bánh trung thu truyền thống này thì gần như là năm nào mình cũng ghé qua đây mua bánh cho gia đình hết.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu và review bánh trung thu của lò bánh Phương Nhiệm Thuận, nổi tiếng với các loại bánh truyền thống và nhân mới lạ. Người nói chia sẻ trải nghiệm mua bánh hàng năm và đánh giá cao hương vị, chất lượng bánh cũng như văn hóa gia đình của lò bánh.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

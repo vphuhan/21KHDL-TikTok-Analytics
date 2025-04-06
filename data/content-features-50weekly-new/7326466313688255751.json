@@ -1,0 +1,69 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món gà tây xông khói mua từ siêu thị",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị"
+    },
+    {
+      "step": "Thử món với tương ớt",
+      "desc": "Ăn thử gà tây xông khói với tương ớt và đánh giá",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Thử món với sốt chấm",
+      "desc": "Ăn thử gà tây xông khói với sốt chấm nhật và đánh giá",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Thử món với mù tạt",
+      "desc": "Ăn thử gà tây xông khói với mù tạt vàng và đánh giá",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi bất ngờ"
+    },
+    {
+      "step": "Chia sẻ với bạn",
+      "desc": "Quyết định chia sẻ phần còn lại với bạn",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Gà tây xông khói. Mời anh ăn cơm.",
+    "Chắc để phải ăn luôn cho đã.",
+    "Wow."
+  ],
+  "hook_content": "gà tây xông khói. Mời anh ăn cơm, mình mua được trong siêu thị các bạn ạ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review món đùi gà tây xông khói mua từ siêu thị, ăn kèm với tương ớt, sốt chấm nhật và mù tạt vàng, sau đó chia sẻ phần còn lại với bạn.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

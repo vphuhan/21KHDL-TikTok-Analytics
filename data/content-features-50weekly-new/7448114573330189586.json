@@ -1,0 +1,89 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bánh tráng cuốn lắc khô bò đang hot tại quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Độ nổi tiếng của quán",
+      "desc": "Quán rất nổi tiếng, bán được nhiều, khách xếp hàng đông.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng về độ nổi tiếng."
+    },
+    {
+      "step": "Địa điểm và món nổi bật",
+      "desc": "Địa điểm tại Tân Bình, nổi tiếng với trà Đài Gia Bảo.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích về địa điểm."
+    },
+    {
+      "step": "Topping hấp dẫn",
+      "desc": "Mô tả các loại topping hấp dẫn, nguyên liệu do quán làm.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và hấp dẫn."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhấn mạnh bánh tráng rất ngon, ai ăn cũng ghiền.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn thử ngay lập tức."
+    },
+    {
+      "step": "Các món khác và giá",
+      "desc": "Giới thiệu các món khác và giá cả.",
+      "impact_level": "2",
+      "viewer_emotion": "Cân nhắc lựa chọn."
+    },
+    {
+      "step": "Lời khuyên và địa chỉ",
+      "desc": "Khuyên nên thử và địa chỉ quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Ghi nhớ địa chỉ."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bạn nào mà thèm bánh tráng với nước long nhãn thì nhớ ghé qua Bảo nha mọi người.",
+    "Địa chỉ tính để đây nè."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "hot",
+    "thèm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mà hot lên cũng đúng thôi, vì ăn không thoát được luôn á mọi người.",
+    "Ai mà đạo bánh tráng nhìn thì không thèm đi. Nó thật sự ngon dữ luôn á."
+  ],
+  "hook_content": "Cái này món này đang hot nè, bánh tráng cuốn lắc khô bò.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu món bánh tráng cuốn lắc khô bò đang hot tại quán A Bảo ở Tân Bình, quán nổi tiếng với món nước long nhãn và bánh tráng trộn, được nhiều người yêu thích vì hương vị ngon và topping hấp dẫn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

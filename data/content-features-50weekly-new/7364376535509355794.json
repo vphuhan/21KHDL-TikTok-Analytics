@@ -1,0 +1,66 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món tokbokki yêu thích và bày tỏ sự mong chờ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Phát hiện vấn đề",
+      "desc": "Nhận ra tokbokki chỉ toàn topping và thắc mắc.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ"
+    },
+    {
+      "step": "Giải quyết vấn đề",
+      "desc": "Liên hệ quán nhưng quyết định ăn luôn topping.",
+      "impact_level": "2",
+      "viewer_emotion": "Hụt hẫng"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Cảm thấy no và nhắc nhở không được bỏ đồ ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "kỳ lạ",
+    "muốn ăn",
+    "no"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "toboki ăn toboki là chính chứ, tại sao t topping không vậy?",
+    "Nếu mà bỏ đồ ăn xuống địa ngục sẽ phải nuốt rất là nhiều con sâu.",
+    "toboki đâu?"
+  ],
+  "hook_content": "giờ toboki của tôi đây rồi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review một phần tokbokki nhưng người ăn phát hiện chỉ toàn topping. Cuối cùng, người này vẫn ăn hết phần topping vì không muốn bỏ phí đồ ăn.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

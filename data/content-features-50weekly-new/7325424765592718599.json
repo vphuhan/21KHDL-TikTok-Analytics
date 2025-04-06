@@ -1,0 +1,70 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bánh mì kẹp thịt khâu nhục mới lạ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Hướng dẫn cách hâm nóng thịt khâu nhục đóng hộp.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, mang tính hướng dẫn."
+    },
+    {
+      "step": "Kẹp bánh mì",
+      "desc": "Sử dụng kẹp than để kẹp bánh mì một cách vừa vặn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với cách dùng kẹp than."
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Nhấn mạnh lại tên món ăn: bánh mì kẹp thịt khâu nhục.",
+      "impact_level": "1",
+      "viewer_emotion": "Nhắc lại tên món ăn."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Nêu cảm nhận ban đầu về món bánh mì kẹp thịt khâu nhục.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò muốn biết thêm về hương vị."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "lạ"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Bánh mì kịp thịt khẩu nhục - món lạ mà ngon",
+    "Cái lon này nướng trên lửa thì phải mở hé ra một tí nha, không là nó nổ đấy.",
+    "Tự dưng cái kẹp gắp than này lại hợp lý đến thế, vừa khít kẹp cái bánh mì luôn đấy, vừa khít luôn mọi người ạ, không trạch đi đâu một hướng nào cả."
+  ],
+  "hook_content": "Hôm nay ăn bánh mì pate kẹp thịt khâu nhục, món mới nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu món bánh mì kẹp thịt khâu nhục lạ miệng, hướng dẫn cách hâm nóng thịt và sử dụng kẹp than để kẹp bánh mì một cách vừa vặn.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

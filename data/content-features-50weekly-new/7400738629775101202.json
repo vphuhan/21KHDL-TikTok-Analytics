@@ -1,0 +1,89 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về độ nổi tiếng của tiệm cơm cháy.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ nổi tiếng."
+    },
+    {
+      "step": "Địa điểm và trải nghiệm",
+      "desc": "Lần đầu đến Tân Phú để trải nghiệm món cơm cháy.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự lặn lội của người review."
+    },
+    {
+      "step": "Thời gian chờ đợi",
+      "desc": "Nhấn mạnh thời gian chờ đợi để có món cơm cháy.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy hơi nản vì phải chờ."
+    },
+    {
+      "step": "Miêu tả món ăn",
+      "desc": "Miêu tả chi tiết các thành phần của món cơm cháy đặc biệt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thèm thuồng."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá hương vị của từng thành phần và sự kết hợp.",
+      "impact_level": "2",
+      "viewer_emotion": "Tự hỏi liệu mình có thích món này không."
+    },
+    {
+      "step": "Nhận xét rau luộc",
+      "desc": "Nhận xét rau luộc tươi và kho quẹt hao rau.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự tươi ngon của rau."
+    },
+    {
+      "step": "Ước muốn",
+      "desc": "Ước muốn mua được cơm cháy tạo hình màu mè.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thú vị với ý tưởng cơm cháy màu mè."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "áp lực",
+    "ngậy",
+    "béo",
+    "mặn",
+    "ngọt",
+    "giòn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "bán cơm cháy mà làm màu là không ai màu lại anh chủ này luôn",
+    "Ta nói cơm cháy kén rất là mỏng nha nha giòn rụm luôn.",
+    "Ê kho quẹt là coi ăn hao rau lắm"
+  ],
+  "hook_content": "nói về tiệm cơm cháy triệu view thì trên top top chưa có ai làm lại cái anh này.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán cơm cháy A Bách ở Tân Phú, nổi tiếng trên TikTok. Người review đánh giá các thành phần của món ăn, đặc biệt là độ giòn của cơm cháy và hương vị của kho quẹt.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

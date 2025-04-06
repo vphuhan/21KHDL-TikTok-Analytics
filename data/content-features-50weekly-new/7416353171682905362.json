@@ -1,0 +1,80 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu các món ngâm tương Hàn Quốc hấp dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Nguồn gốc món ăn",
+      "desc": "Chia sẻ lý do lựa chọn món ăn và nguồn gốc của shop.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Trình bày món ăn",
+      "desc": "Liệt kê và cho thấy sự đa dạng của các món ngâm tương.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Ăn và mô tả hương vị của từng món ngâm tương.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Nhấn mạnh độ tươi ngon và chất lượng của món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Nhận xét chung về trải nghiệm ẩm thực.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hài lòng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "hấp dẫn",
+    "ngon",
+    "ngon tuyệt vời",
+    "mềm",
+    "thơm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Hôm nay tôi múc bằng đồ ăn ngâm tương của Hàn Quốc, cực kỳ hấp dẫn luôn.",
+    "Wow. Ngon, ngon tuyệt vời luôn.",
+    "Uầy, trứng rất mềm luôn, cực kỳ thơm và mềm."
+  ],
+  "hook_content": "Hôm nay tôi múc bằng đồ ăn ngâm tương của Hàn Quốc, cực kỳ hấp dẫn luôn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video mukbang về các món ngâm tương Hàn Quốc như trứng, tôm và cá hồi từ Bếp Mẹ Gấu, Hà Nội. Người ăn đánh giá cao hương vị tươi ngon và hấp dẫn của các món ăn này.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

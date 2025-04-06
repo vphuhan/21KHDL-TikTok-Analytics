@@ -1,0 +1,75 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu về túi không khí trong tù và giá tiền.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm"
+    },
+    {
+      "step": "Mô tả bao bì",
+      "desc": "Đọc thông tin trên bao bì và thành phần mùi vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với mô tả"
+    },
+    {
+      "step": "Hướng dẫn sử dụng",
+      "desc": "Hướng dẫn cách sử dụng túi không khí.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Trải nghiệm thực tế",
+      "desc": "Hít thử và đưa ra cảm nhận về mùi vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung lắng nghe"
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Đưa ra đánh giá và lời khuyên.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thất vọng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Và nếu như ai bán cái túi không khí trong tù này thì mọi người đừng mua nha.",
+    "Mọi người tốt nhất là muốn trải nghiệm không khí trong tù thì nên đi tù."
+  ],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thắc mắc",
+    "cảm nhận",
+    "bị lừa"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ngày hôm nay thì mình sẽ trải nghiệm túi không khí trong tù.",
+    "Và sau khi hít khoảng ba bốn hơi thì mình cảm nhận là cái túi không khí trong tù này mình thấy nó gần như là không có mùi gì cả, cảm giác như là mình bị lừa ấy mọi người.",
+    "Mọi người tốt nhất là muốn trải nghiệm không khí trong tù thì nên đi tù."
+  ],
+  "hook_content": "hiện tại thì trên thế giới mới chỉ có ba người sở hữu cái túi không khí này thôi nha mọi người.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review túi không khí trong tù với giá 969.000đ, người review mua về trải nghiệm nhưng cảm thấy không có mùi vị gì đặc biệt và khuyên mọi người không nên mua, thà đi tù còn hơn.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Chân thành"
+  ]
+}

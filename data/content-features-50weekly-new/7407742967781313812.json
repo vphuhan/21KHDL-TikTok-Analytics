@@ -1,0 +1,92 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món mực sốt mắm cay và khẳng định độ ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chia sẻ bí quyết",
+      "desc": "Nhấn mạnh việc chia sẻ công thức mà không ai khác chỉ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự hào phóng."
+    },
+    {
+      "step": "Nguồn gốc công thức",
+      "desc": "Kể về trải nghiệm ăn món này ở quán và tự tìm công thức.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với sự cố gắng."
+    },
+    {
+      "step": "Lưu ý khi mua mực",
+      "desc": "Chia sẻ sự khó khăn khi đi chợ và nhận biết loại mực.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    },
+    {
+      "step": "Sơ chế mực",
+      "desc": "Hướng dẫn luộc sơ mực và ngâm nước đá để giữ độ giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến bí quyết."
+    },
+    {
+      "step": "Tự tin thái quá",
+      "desc": "Tự nhận mình giỏi giang, nhưng thật ra do không có tiền.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú với sự hài hước."
+    },
+    {
+      "step": "Pha chế sốt",
+      "desc": "Hướng dẫn làm nước sốt mắm cay, nêm nếm gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ kết quả."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Xin hãy làm thử món này đi chời ơi nó ngon xỉu cái đùng"
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngon xỉu",
+    "tứa nước miếng",
+    "chịu hết nổi",
+    "đã"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mấy bà đừng có xào hay là luộc nữa. Làm thử cái món mực sốt mắm cay này đi, trời ơi ta nói nó ngon không có đối thủ luôn á.",
+    "Mấy cái công thức buôn bán của người ta á ai hơi đâu mà chỉ cho mấy bà, có mình em là em bày cho mấy bà thôi á, thấy em chịu chơi ghê không?",
+    "Trời ơi mấy bà nhìn coi cái chén nước chấm nè, nhìn thôi là đã nhức cái nách luôn á."
+  ],
+  "hook_content": "Mực mua về á mấy bà đừng có xào hay là luộc nữa.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm món mực sốt mắm cay, chia sẻ công thức tự học được và các bí quyết để món ăn ngon hơn. Người làm video có lối nói chuyện hài hước, gần gũi.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

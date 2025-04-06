@@ -1,0 +1,98 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu Sugar Town của Việt Hương và nhắc lại review cũ",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự thay đổi sau 2 năm."
+    },
+    {
+      "step": "Gọi món",
+      "desc": "Liệt kê các món đã gọi: trà sữa, bánh hoàng kim, bánh ốc",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Review bánh hoàng kim",
+      "desc": "Tập trung vào phần kem chảy tràn và so sánh với clip cũ",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn bởi phần kem tan chảy."
+    },
+    {
+      "step": "Review bánh mới",
+      "desc": "Ăn và đánh giá bánh mới: nhiều trứng, ngọt, không hợp gu",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị bánh mới."
+    },
+    {
+      "step": "So sánh bánh",
+      "desc": "So sánh bánh mới với bánh cũ và chấm điểm từng loại",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình với đánh giá về bánh cũ."
+    },
+    {
+      "step": "Review bánh ốc kem",
+      "desc": "Đánh giá nhanh bánh ốc kem và chấm điểm",
+      "impact_level": "1",
+      "viewer_emotion": "Không có nhiều cảm xúc."
+    },
+    {
+      "step": "Review trà sữa",
+      "desc": "Review trà sữa ngũ vị (thích) và trà thanh long (không thích)",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về trà sữa ngũ vị."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Còn với riêng Panda thì Panda cảm thấy là cái bánh này best.",
+    "Cám ơn mọi người đã coi clip của mình và đây cũng chỉ là những cảm nhận cá nhân của mình thôi nên là cái việc mọi người hãy tự ăn và tự cảm nhận có thể đến Sugar Town để thử nha mọi người."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "wow",
+    "thích",
+    "béo",
+    "ngọt",
+    "vừa vị",
+    "ổn định",
+    "rùng mình",
+    "khó chịu"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Em nói là nước nôi ra nó là inh ỏi.",
+    "Tôi thấy cảm giác là rất là nhiều trứng luôn á.",
+    "Cảm giác là một là sạch sẽ nè, hai là rất là béo béo mà thơm thơm vừa phải."
+  ],
+  "hook_content": "Trên mạng Sugar Town. Dạ. Wow! Ngoài đời Sugar Town thị trấn đường của cô Việt Hương nha mọi người ơi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review quán Sugar Town của Việt Hương sau 2 năm, tập trung vào bánh kem và trà sữa. Người review đánh giá cao bánh kem cũ và trà sữa ngũ vị, không thích bánh mới và trà thanh long.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

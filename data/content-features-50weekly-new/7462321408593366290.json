@@ -1,0 +1,100 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu hoàn cảnh",
+      "desc": "Ở nhà một mình, thèm lẩu nhưng ngại nấu, em gái rủ ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với việc lười nấu ăn."
+    },
+    {
+      "step": "Phát hiện giải pháp",
+      "desc": "Em gái đưa ra giải pháp lẩu ăn liền tiện lợi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm."
+    },
+    {
+      "step": "Trải nghiệm lẩu tôm yum",
+      "desc": "Trải nghiệm lẩu tôm yum hải sản và review hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử."
+    },
+    {
+      "step": "Giới thiệu các vị khác",
+      "desc": "Giới thiệu thêm các vị lẩu khác như nghêu nấm, tôm hùm phô mai.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy có nhiều lựa chọn."
+    },
+    {
+      "step": "Trải nghiệm lẩu tôm hùm phô mai",
+      "desc": "Trải nghiệm lẩu tôm hùm phô mai và review hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng và thích thú."
+    },
+    {
+      "step": "Tổng kết và đánh giá",
+      "desc": "Nhận xét về sự tiện lợi và hương vị của lẩu ăn liền.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào sản phẩm."
+    },
+    {
+      "step": "Gợi ý sử dụng",
+      "desc": "Gợi ý mua lẩu ăn liền cho dịp Tết.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy hữu ích."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Tết này cầm sẵn trên tay mấy cái lẩu để ai thèm có ăn liền nhanh gọn lẹ hết sẩy ha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "thèm",
+    "thơm",
+    "nóng hổi",
+    "vừa thổi vừa ăn",
+    "cay cay",
+    "béo béo",
+    "đúng gu",
+    "ngon",
+    "thơm chịu không nổi",
+    "ăn dính",
+    "vui",
+    "đã",
+    "hết sẩy"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mà nghe nói lẩu cầm tay ô mai chi còn có nhiều vị nữa, như là cái lẩu nghêu nấm đông biển nè, hay là lẩu tôm hùm phô mai. Nghe tôm hùm mà còn phô mai nữa là biết đúng gu rồi.",
+    "Công nhận sợi mì của cái lẩu này nhìn đã con mắt thiệt chứ, vừa to vừa dày mà vàng dai.",
+    "Tết này cầm sẵn trên tay mấy cái lẩu để ai thèm có ăn liền nhanh gọn lẹ hết sẩy ha."
+  ],
+  "hook_content": "Tính từ thời điểm nhà gái đến giờ đã là 5 tiếng nhưng mà mình không hề muốn bước xuống giường.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review lẩu ăn liền Omachi với hai vị tôm yum và tôm hùm phô mai, đánh giá cao sự tiện lợi, hương vị thơm ngon, sợi mì dai và topping hấp dẫn, phù hợp để thưởng thức tại nhà hoặc mang đi du lịch.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

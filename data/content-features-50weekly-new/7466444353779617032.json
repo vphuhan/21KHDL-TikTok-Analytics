@@ -1,0 +1,57 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu cơm phô mai lát và các món ăn kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Ăn và thể hiện cảm xúc về món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Cảm ơn vì bữa ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "béo"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mời anh em ăn cơm phô mai lát.",
+    "người nó béo."
+  ],
+  "hook_content": "Mời anh em ăn cơm phô mai lát.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang cơm phô mai lát ăn kèm kim chi, trứng chiên, nước tương wasabi và sa tế răm biển, thể hiện sự ngon miệng và cảm xúc thích thú.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

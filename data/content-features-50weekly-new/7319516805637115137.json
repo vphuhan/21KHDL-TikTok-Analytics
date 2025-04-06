@@ -1,0 +1,81 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Mô tả món nộm dưa leo giò lụa là món ăn giải ngấy.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Hướng dẫn thái cà rốt, dưa chuột và giới thiệu giò lụa.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến nguyên liệu."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu giò lụa Mít Deli không hàn the, an tâm khi ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào sản phẩm."
+    },
+    {
+      "step": "Hướng dẫn trộn nộm",
+      "desc": "Hướng dẫn pha nước mắm chua ngọt và trộn các nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn làm theo công thức."
+    },
+    {
+      "step": "Thông báo khuyến mãi",
+      "desc": "Mách nhỏ chương trình dùng thử giò lụa Mít Deli giảm 20%.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với ưu đãi."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "các bác nhanh tay dùng thử nha"
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "giải ngấy",
+    "giòn",
+    "cay thơm bùng vị",
+    "cuốn",
+    "yên tâm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ăn giải ngấy cực kỳ tốt luôn",
+    "giò lụa nhà Mít Deli không hàn the nên là ăn yên tâm hẳn",
+    "ớt xiêm xanh, cay thơm bùng vị, ăn cuốn lắm ấy"
+  ],
+  "hook_content": "Với năm tiệc tùng nhiều, nhất định các bác phải làm món nộm này cho tôi, ăn giải ngấy cực kỳ tốt luôn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm món nộm dưa leo giò lụa giải ngấy, đặc biệt giới thiệu giò lụa Mít Deli không hàn the và chương trình khuyến mãi dùng thử.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

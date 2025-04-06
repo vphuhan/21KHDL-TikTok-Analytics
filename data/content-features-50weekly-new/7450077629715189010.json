@@ -1,0 +1,63 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu cháo gà và gà luộc nguyên con, mời mọi người.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Thưởng thức gà luộc",
+      "desc": "Ăn gà luộc chấm muối, cảm nhận hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Miêu tả trải nghiệm",
+      "desc": "Nhấn mạnh việc ăn cả da cả thịt để ngon hơn.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình."
+    },
+    {
+      "step": "Cảm thán",
+      "desc": "Bày tỏ sự thỏa mãn khi ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "đã"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cả da cả thịt đã mới ngon.",
+    "Trời ơi đã quá à."
+  ],
+  "hook_content": "Hôm nay mình có cháo gà với lại gà luộc nguyên con. Mời mọi người nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang tập trung vào việc ăn gà luộc và cháo gà, thể hiện sự ngon miệng và thỏa mãn khi thưởng thức món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

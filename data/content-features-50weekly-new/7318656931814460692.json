@@ -1,0 +1,88 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món gỏi bắp bò rau mầm học được từ nhà chú.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món gỏi bắp bò rau mầm."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Hướng dẫn mua bắp bò ngon và các loại rau mầm.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức muốn thử làm theo."
+    },
+    {
+      "step": "Sơ chế bắp bò",
+      "desc": "Hướng dẫn luộc bắp bò với mẹo bỏ muỗng inox.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy mẹo luộc thịt khá thú vị."
+    },
+    {
+      "step": "Sơ chế rau",
+      "desc": "Hướng dẫn chọn và sơ chế các loại rau cho món gỏi.",
+      "impact_level": "2",
+      "viewer_emotion": "Lưu ý các mẹo sơ chế rau để món gỏi ngon hơn."
+    },
+    {
+      "step": "Pha nước trộn gỏi",
+      "desc": "Chia sẻ công thức nước sốt trộn gỏi đặc biệt.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn biết công thức nước trộn gỏi đặc biệt này."
+    },
+    {
+      "step": "Trộn gỏi",
+      "desc": "Hướng dẫn trộn gỏi đúng cách để không bị dập rau.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy quy trình trộn gỏi khá đơn giản."
+    },
+    {
+      "step": "Trình bày và thưởng thức",
+      "desc": "Hướng dẫn trình bày món gỏi và thưởng thức cùng bánh phồng tôm.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng món gỏi và muốn thử ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "nhẹ bụng",
+    "thơm",
+    "dịu nhẹ",
+    "giòn rụm",
+    "dịu kha"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "quăng cái muỗng inox vô như vậy á thì thịt bò hay là cái đồ hầm á nó sẽ mềm hơn",
+    "Nguyên quyết giùm tôi cái phần nước sốt trộn gỏi là phải làm bằng tắc nó mới thơm nha",
+    "Cái miếng bánh phồng tôm gắp miếng gỏi lên, ta nói nó dịu kha mà nó ngon"
+  ],
+  "hook_content": "Mấy bạn có biết là mấy cái món hầm á thường người ta hay quăng cái muỗng inox vô mấy bạn có biết để làm cái gì không?",
+  "hook_type": [
+    "Gây tò mò",
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm món gỏi bắp bò rau mầm ngon và dễ làm tại nhà, chia sẻ các mẹo để món ăn thêm hấp dẫn và thơm ngon. Món ăn này phù hợp để ăn trong những ngày lễ.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

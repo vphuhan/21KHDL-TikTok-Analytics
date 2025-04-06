@@ -1,0 +1,77 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về một ngày bận rộn và lý do nấu món ăn mất thời gian.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm với sự vất vả của người mẹ."
+    },
+    {
+      "step": "Chuẩn bị",
+      "desc": "Mô tả quá trình chuẩn bị nguyên liệu làm kimbap bông hoa.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món kimbap đặc biệt."
+    },
+    {
+      "step": "Thực hiện",
+      "desc": "Chia sẻ kinh nghiệm làm kimbap và nỗi lo lắng về phản ứng của chồng.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thú vị với sự hài hước trong lời kể."
+    },
+    {
+      "step": "Hoàn thiện",
+      "desc": "Làm thêm tokbokki và lòng hấp để có bữa ăn đầy đủ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn với thực đơn đa dạng."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Mời mọi người cùng ăn bữa cơm gia đình.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy ấm áp và thân thiện."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "mệt mỏi",
+    "tươi hơn",
+    "đói bụng",
+    "cọc tính",
+    "no",
+    "ngon",
+    "cay"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Tự nhiên bữa nào không làm kimbap bữa nay bày ra làm kim lạp bông hoa bông ơ đồ.",
+    "Bữa nay làm một cuộc này cho nó đẹp thôi, còn lại thì mình làm theo cái kiểu truyền thống.",
+    "Ngồi cuốn cuốn gì chứ một hồi nó no rồi ăn cơm không nổi luôn."
+  ],
+  "hook_content": "nay cũng như mọi ngày sáng thì mình sẽ chuẩn bị đưa Tường Hân đi học, nhưng mà cái trực giác của mình hôm nay nó kỳ lắm mọi người, đến trưa cô giáo gọi tới là mình biết có chuyện rồi.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video ghi lại quá trình người mẹ bận rộn chuẩn bị bữa ăn cho gia đình, bao gồm món kimbap hình bông hoa đặc biệt, tokbokki và lòng hấp. Mặc dù tốn nhiều thời gian, cô vẫn muốn mang đến niềm vui cho gia đình.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

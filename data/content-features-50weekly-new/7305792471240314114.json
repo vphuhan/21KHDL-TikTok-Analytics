@@ -1,0 +1,84 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về video so sánh hai loại lương khô phổ biến.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, chờ đợi so sánh."
+    },
+    {
+      "step": "Lương khô quân đội",
+      "desc": "Mô tả chi tiết về bao bì và cách ăn lương khô quân đội.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị."
+    },
+    {
+      "step": "Trải nghiệm lương khô quân đội",
+      "desc": "Nêu cảm nhận về hương vị và độ no của lương khô quân đội.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị với trải nghiệm."
+    },
+    {
+      "step": "Lương khô bay",
+      "desc": "Mô tả chi tiết về bao bì và so sánh với lương khô quân đội.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự khác biệt."
+    },
+    {
+      "step": "Trải nghiệm lương khô bay",
+      "desc": "Nêu cảm nhận về hương vị và độ no của lương khô bay.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với hương vị."
+    },
+    {
+      "step": "So sánh",
+      "desc": "So sánh trực tiếp hương vị và cảm nhận giữa hai loại.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy hữu ích."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "béo",
+    "ngọt",
+    "ngon",
+    "no"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ăn xong vô uống nước là muốn đi ngủ liền luôn thơm thơm béo béo nha mọi người.",
+    "Lương khô quân đội thì nó có một cái vị mặn nhẹ, còn lương khô bay á thì nó lại béo hơn nha.",
+    "Ăn có nhiêu đây thôi mà no nha mọi người. No bình cái bụng luôn á."
+  ],
+  "hook_content": "So sánh các loại lương khô Việt Nam, lương khô bay và lương khô quân đội loại nào sẽ ngon hơn.",
+  "hook_type": [
+    "So sánh",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "So sánh",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video so sánh lương khô quân đội và lương khô bay về hương vị, độ no và thành phần dinh dưỡng, đưa ra đánh giá khách quan về hai loại lương khô này. Lương khô bay được đánh giá cao hơn về độ béo và thơm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

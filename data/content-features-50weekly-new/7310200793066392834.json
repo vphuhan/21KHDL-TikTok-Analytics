@@ -1,0 +1,74 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bánh mì",
+      "desc": "Giới thiệu bánh mì kẹp 75k mua gần nhà và các thành phần.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các thành phần của bánh mì."
+    },
+    {
+      "step": "Nếm thử và đánh giá",
+      "desc": "Ăn và đánh giá hương vị, độ giòn của bánh mì.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị về trải nghiệm ăn bánh mì."
+    },
+    {
+      "step": "Nhận xét chi tiết",
+      "desc": "Đánh giá chi tiết về các thành phần và hương vị tổng thể.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình với đánh giá về hương vị."
+    },
+    {
+      "step": "Đề xuất và kết luận",
+      "desc": "Đề xuất cho người muốn thử và nhận xét về bao bì.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích với gợi ý và đánh giá."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thích",
+    "lạ miệng",
+    "ngon",
+    "bình thường",
+    "béo",
+    "thơm",
+    "chát chát chua chua",
+    "ngọt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Bánh mì giòn tan, ăn rất là thích luôn.",
+    "Cá ngừ và sốt mayo thì ăn nó rất là béo và thơm các bạn ạ.",
+    "Có thể đây sẽ là một cái công thức kẹp bánh mì mới cho các bạn nào muốn ăn thử trải nghiệm."
+  ],
+  "hook_content": "Bánh mì kẹp giá 75.000, mình mua gần nhà nó sẽ có những cái gì?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review bánh mì kẹp giá 75k mua gần nhà, với các thành phần như cá ngừ, ô liu, sốt trứng mayo và rau thơm. Người nói đánh giá bánh mì giòn, lạ miệng nhưng hương vị ở mức bình thường, và gợi ý cho những ai muốn thử nghiệm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

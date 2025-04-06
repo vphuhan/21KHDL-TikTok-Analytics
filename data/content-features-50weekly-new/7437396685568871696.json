@@ -1,0 +1,87 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu chocolate bomb ở hai địa điểm khác nhau.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm."
+    },
+    {
+      "step": "Thử nghiệm và so sánh",
+      "desc": "Thử nghiệm chocolate bomb với sữa nóng và lạnh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với quá trình biến đổi của chocolate bomb."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá chi tiết hương vị của từng loại chocolate bomb.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng và muốn thử."
+    },
+    {
+      "step": "So sánh và chấm điểm",
+      "desc": "So sánh chất lượng và chấm điểm từng loại đồ uống.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá của người review."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Đưa ra nhận xét cuối cùng và lời khuyên cho người xem.",
+      "impact_level": "2",
+      "viewer_emotion": "Có thêm thông tin để lựa chọn."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Mọi người ơi qua quán Giang.",
+    "Nên thử nên cả hai tiệm luôn."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "So sánh"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "ngọt",
+    "vừa phải",
+    "béo",
+    "thích mắt",
+    "khó chịu",
+    "độc lạ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "bơm vô thì nó mới nở ra",
+    "mấy cái bệnh ca hiện tại là nhờ mấy ba mấy má này nè",
+    "mẫu mã ly a rất là mới lạ, móp, méo, à lủng lỗ"
+  ],
+  "hook_content": "bơm vô thì nó mới nở ra là móp cái ly này là chảy nhựa này nè.",
+  "hook_type": [
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "So sánh",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review chocolate bomb ở hai địa điểm khác nhau, so sánh hương vị, chất lượng và đưa ra đánh giá khách quan. Người review khuyến khích nên thử cả hai tiệm để có trải nghiệm riêng.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành",
+    "Khó chịu"
+  ]
+}

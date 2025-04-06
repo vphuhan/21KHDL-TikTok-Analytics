@@ -1,0 +1,66 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu hoàn cảnh",
+      "desc": "Chia sẻ về việc sắp chuyển nhà và máy giặt bị hỏng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Mua nguyên liệu",
+      "desc": "Khoe mua hào đông lạnh ở siêu thị với giá ưu đãi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Sơ chế hào",
+      "desc": "Luộc hào thay vì hấp như lần trước để chín nhanh hơn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thưởng thức và đánh giá",
+      "desc": "Ăn hào luộc chấm chẩm chéo và nhận xét về hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "mời mọi người ăn chung với mình ha"
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "cay"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mà phải công nhận là cái nước chấm chẩm chéo này mà chấm chung với hào thì nó ngon thiệt luôn á.",
+    "Dù là cái hào này đông lạnh nghe nhưng mà khi ăn vào bên trong thì cái độ ngọt của nó vẫn còn mà lại chấm với cái nước chấm này nữa thì coi như là đúng bài luôn đó.",
+    "Nhưng mà có điều là cay quá."
+  ],
+  "hook_content": "Mình chỉ còn ở nhà này đúng 1 tháng nữa thôi mà bữa nay xui một cái là cái máy giặt nó bị hư.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ về việc người dùng mua hào đông lạnh và chế biến bằng cách luộc, sau đó chấm với chẩm chéo và đánh giá hương vị món ăn. Dù hào đông lạnh nhưng vẫn giữ được độ ngọt tự nhiên khi ăn kèm với chẩm chéo.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món lẩu hột vịt lộn nấu chanh ớt độc đáo.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới lạ."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê và sơ chế nguyên liệu: hột vịt lộn, nước dừa, gia vị.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin cơ bản."
+    },
+    {
+      "step": "Nấu lẩu",
+      "desc": "Hướng dẫn các bước nấu lẩu, thêm topping, nêm nếm gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với quá trình nấu."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Thưởng thức món lẩu, miêu tả hương vị và cảm nhận.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng, muốn thử ngay."
+    },
+    {
+      "step": "Ăn kèm",
+      "desc": "Giới thiệu các món ăn kèm như muối ớt, rau.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú với sự kết hợp."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo"
+  ],
+  "cta_content": [
+    "giờ thì mời mọi người ăn chung với tôi."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon xít xo",
+    "ấm bụng",
+    "cay sương sương",
+    "tê tái tâm hồn",
+    "siêu ngọt",
+    "cực đã",
+    "ngọt thanh chua chua cay cay",
+    "ngon đỉnh nóc kịch trần"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mà tôi thấy có nhiều người không có luộc trước mà đem đi để sống vô lẩu luôn, nghe đâu là ăn ngọt hơn hả mọi người.",
+    "Nước lẩu thì ngọt thanh chua chua cay cay, ta nói tưởng không hợp chứ ai ngờ ngon đỉnh nóc kịch trần luôn nha mọi người."
+  ],
+  "hook_content": "Hột vịt lộn luộc, xào me, nấu bầu ăn nhiều rồi mà tôi mới phát hiện mà đem đi nấu lẩu chanh ớt thì là ngon xít xo luôn, không biết có ai thử chưa ta?",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video giới thiệu món lẩu hột vịt lộn nấu chanh ớt độc đáo, chia sẻ cách nấu và cảm nhận về hương vị món ăn. Người làm video mời mọi người cùng ăn và đưa ra những đánh giá tích cực về món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

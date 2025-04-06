@@ -1,0 +1,66 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món viên hải sản sốt phô mai và mời mọi người ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chuẩn bị",
+      "desc": "Lấy tương ớt và dĩa để ăn vì hết xiên que.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Ăn và miêu tả vị ngậy béo của viên hải sản phô mai.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Cảm ơn người xem và hẹn gặp lại ở video sau.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người đã xem hết video của mình. Hẹn mọi người ở video sau. Tạm biệt."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngậy ngậy",
+    "béo béo"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái này nó sẽ ngậy ngậy béo béo."
+  ],
+  "hook_content": "Xin chào mọi người. Hôm nay mình sẽ ăn viên hải sản sốt phô mai.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang viên hải sản sốt phô mai, người ăn giới thiệu món ăn và miêu tả hương vị ngậy béo.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

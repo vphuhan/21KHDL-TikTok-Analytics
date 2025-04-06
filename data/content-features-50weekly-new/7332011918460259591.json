@@ -1,0 +1,86 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Sơ chế da heo",
+      "desc": "Làm sạch và luộc da heo với gừng để khử mùi hôi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung theo dõi quy trình"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Cắt nhỏ da heo, xay hành tỏi, chuẩn bị các loại rau thơm.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhớ các nguyên liệu cần thiết"
+    },
+    {
+      "step": "Trộn hỗn hợp chả",
+      "desc": "Trộn giò sống, da heo, bột mì và gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị cuối cùng"
+    },
+    {
+      "step": "Gói và hấp chả",
+      "desc": "Gói chả bằng giấy nến và giấy bạc, sau đó hấp chín.",
+      "impact_level": "1",
+      "viewer_emotion": "Kiên nhẫn chờ đợi thành phẩm"
+    },
+    {
+      "step": "Tẩm bột và chiên",
+      "desc": "Tẩm bột mì và chiên chả đến khi vàng đều.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng với màu sắc hấp dẫn"
+    },
+    {
+      "step": "Trình bày và thưởng thức",
+      "desc": "Cắt chả, trang trí và thưởng thức món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn thử ngay món chả bì chiên"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Nếu thích hãy chia sẻ cho bạn bè cùng biết.",
+    "Xin chào và hẹn gặp lại."
+  ],
+  "cta_type": [
+    "Chia sẻ"
+  ],
+  "emotion_keywords": [
+    "thơm ngon",
+    "đảm bảo",
+    "khen",
+    "thơm",
+    "giòn",
+    "vừa miệng",
+    "hấp dẫn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Từ khi biết cách làm mới này, Tết nào mình cũng tự tay làm món chả bì chiên giòn thơm ngon, mà không cần phải đi mua nữa.",
+    "Nhà tự làm nên rất đảm bảo, khách đến ai cũng khen hết nè.",
+    "Rất nhanh chóng mình đã có món chả bì chiên giòn nóng hổi để mời khách tới nhà trong dịp Tết, hay khi nhà có cỗ rồi nè."
+  ],
+  "hook_content": "Từ khi biết cách làm mới này, Tết nào mình cũng tự tay làm món chả bì chiên giòn thơm ngon, mà không cần phải đi mua nữa.",
+  "hook_type": [
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn chi tiết cách làm chả bì chiên giòn tại nhà, từ khâu sơ chế nguyên liệu, trộn hỗn hợp, gói chả, hấp chín, đến chiên vàng và thưởng thức. Món ăn này thích hợp để chiêu đãi khách trong dịp Tết hoặc các bữa cỗ.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

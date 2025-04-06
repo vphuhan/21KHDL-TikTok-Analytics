@@ -1,0 +1,86 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu mở đầu",
+      "desc": "Giới thiệu chuyến food tour chợ Nghĩa Tân với ngân sách 100k.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về những món ăn được giới thiệu."
+    },
+    {
+      "step": "Review nem nướng",
+      "desc": "Đánh giá hương vị nem nướng Nha Trang và so sánh với quán khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món nem nướng."
+    },
+    {
+      "step": "Review bánh gối và nộm",
+      "desc": "Miêu tả chi tiết bánh gối giòn tan và nộm đậm đà.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy đói bụng và muốn ăn thử."
+    },
+    {
+      "step": "Review tàu phớ",
+      "desc": "Giới thiệu món tráng miệng tàu phớ với nhiều loại topping.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn một bát tàu phớ mát lạnh."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Kết thúc food tour vì đã quá no dù chưa hết 100k.",
+      "impact_level": "1",
+      "viewer_emotion": "Hơi tiếc vì chưa ăn hết các món."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "đỉnh",
+    "tê tê cay cay",
+    "hết nước chấm",
+    "siêu ngon",
+    "giòn tan",
+    "đầy đặn",
+    "nóng hổi",
+    "thèm",
+    "tươi",
+    "giòn",
+    "đậm đà",
+    "ngon",
+    "mê"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ai mà đã từng ăn nem nướng Nha Trang ở Học viện Nông nghiệp ý thì sẽ thấy quán này không khác gì ăn nem lên đấy luôn.",
+    "Kiểu cái vỏ bánh gối nó rất mỏng thôi nhưng mà giòn tan, nhân thì siêu đầy đặn luôn.",
+    "Mình thích ăn thạch găng lắm luôn ý, nên hàng tàu phớ nào có cái thạch găng này là mình đều mê hết."
+  ],
+  "hook_content": "Phút tua chợ Nghĩa Tân ăn no căng cả bụng mà vẫn chưa hết 100 cành. hú hú mình là anh đây.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video food tour chợ Nghĩa Tân với 100k, giới thiệu các món ăn như nem nướng Nha Trang, bánh gối, nộm và tàu phớ. Mặc dù chưa ăn hết 100k nhưng đã no căng bụng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

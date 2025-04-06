@@ -1,0 +1,79 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món gà sốt mắm tắc độc lạ, hấp dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Sơ chế và pha sốt",
+      "desc": "Mô tả quá trình sơ chế gà và pha chế sốt mắm tắc.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, cần thêm hình ảnh minh họa."
+    },
+    {
+      "step": "Chế biến gà",
+      "desc": "Hướng dẫn cách nấu gà với sốt mắm tắc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với cách làm mới."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Quảng cáo nước hoa Laura Sunshine Pháp số 8.",
+      "impact_level": "1",
+      "viewer_emotion": "Không liên quan đến món ăn."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Mô tả thành phẩm và mời mọi người cùng ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi nghen."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "hấp dẫn",
+    "chua chua đậm vị",
+    "ê ê"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tưởng không ngon, ai về ngon chấn động trời xanh luôn người đẹp ơi.",
+    "Thêm vô chừng nửa chén nước cốt tắc là ra cái sốt độc lạ mà ngon thánh thần ơi luôn.",
+    "Thịt gà thì nhìn bự vậy thôi chứ nó chắc nụi nụi, thấm đẫm sốt mắm tắc chua chua đậm vị."
+  ],
+  "hook_content": "Thấy con gà bóng bẫy như này, đố mọi người là tôi làm gà gì đó.",
+  "hook_type": [
+    "Gây tò mò",
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu món gà sốt mắm tắc độc đáo, hướng dẫn cách làm và mời mọi người cùng thưởng thức. Xen kẽ là quảng cáo nước hoa.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

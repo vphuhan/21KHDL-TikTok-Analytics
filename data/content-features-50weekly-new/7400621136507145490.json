@@ -1,0 +1,59 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu socola Dubai đắt tiền, nhỏ bằng lòng bàn tay.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về giá cả và hương vị."
+    },
+    {
+      "step": "Trải nghiệm sản phẩm",
+      "desc": "Ăn socola sau khi để đông đá và mô tả hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi thất vọng vì phần giữa bị hụt."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Nhận xét về hương vị và giá cả.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy ngon nhưng tiếc tiền."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "bùi",
+    "thơm",
+    "ngọt",
+    "tiếc tiền"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ăn vào thì cũng ngon đấy, có caramel và hạt dẻ ăn bùi bùi thơm thơm ngọt ngọt, cơ mà tiếc tiền quá."
+  ],
+  "hook_content": "review cả thế giới sô cô la Dubai.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review socola Dubai với đánh giá hương vị ngon nhưng giá quá đắt so với kích thước. Người review cảm thấy tiếc tiền sau khi ăn.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món cá viên chiên và thể hiện sự yêu thích.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Đánh giá sản phẩm khác",
+      "desc": "Nhận xét về loại đồ uống quen thuộc và yêu thích.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thơm phức",
+    "ghiền"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Thích nhất là cái này nha.",
+    "Vẫn là cà phê chân ái của tôi.",
+    "Trời ơi nó thơm phức. 100%."
+  ],
+  "hook_content": "Đây nhưng mà thích nhất là cái này nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh người dùng ăn cá viên chiên và uống cà phê, thể hiện sự yêu thích với các món ăn này.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu nguyên liệu",
+      "desc": "Giới thiệu set nguyên liệu làm kẹo nougat và nhấn mạnh chất lượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về nguyên liệu và cách làm."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Hướng dẫn rang hạt và sơ chế các loại quả sấy.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy các bước chuẩn bị khá đơn giản."
+    },
+    {
+      "step": "Nấu kẹo",
+      "desc": "Hướng dẫn chi tiết các bước nấu kẹo nougat.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi lo lắng vì các bước có vẻ phức tạp."
+    },
+    {
+      "step": "Hoàn thiện và bảo quản",
+      "desc": "Hướng dẫn cách tạo hình, làm nguội và bảo quản kẹo.",
+      "impact_level": "1",
+      "viewer_emotion": "Mong chờ thành phẩm cuối cùng."
+    },
+    {
+      "step": "Lưu ý quan trọng",
+      "desc": "Nhấn mạnh các lưu ý để làm kẹo thành công.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy yên tâm hơn khi có lưu ý cụ thể."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Các bác làm thử đi xem có ưng không Tết mà làm nhá."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "mê",
+    "thèm",
+    "ngon",
+    "chuẩn xịn",
+    "đẹp",
+    "ưng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Các nhìn chảo kẹo Nugat của tôi có mê chữ E khéo dài không?",
+    "Với ai thì em không biết, chứ với em Hà, đồ ăn vào người là cứ phải ngon, chuẩn xịn mới ăn, còn không thà không ăn được.",
+    "Đấy các bác thấy không? Làm rất là nhanh, mà làm ra kẹo rất là đẹp lại ngon."
+  ],
+  "hook_content": "Các nhìn chảo kẹo Nugat của tôi có mê chữ E khéo dài không?",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn chi tiết cách làm kẹo nougat tại nhà với set nguyên liệu có sẵn, từ khâu chuẩn bị nguyên liệu đến khi hoàn thành và bảo quản, kèm theo các lưu ý để thành công.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

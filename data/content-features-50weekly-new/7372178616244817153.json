@@ -1,0 +1,72 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu thạch đào độc lạ, giá cả và hình dáng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hình dáng và giá cả."
+    },
+    {
+      "step": "Miêu tả sản phẩm",
+      "desc": "Miêu tả chi tiết về mùi vị và độ mềm của thạch.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và muốn thử."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét về vị chua ngọt và độ mềm của thạch.",
+      "impact_level": "2",
+      "viewer_emotion": "Có thêm thông tin để quyết định mua."
+    },
+    {
+      "step": "So sánh cá nhân",
+      "desc": "So sánh với sở thích cá nhân về độ dai của thạch.",
+      "impact_level": "1",
+      "viewer_emotion": "Hiểu rõ hơn về trải nghiệm cá nhân."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết",
+    "Sáng tạo"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "dễ chịu",
+    "thích",
+    "mềm",
+    "chua ngọt",
+    "không ngán",
+    "đã miệng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cái thạch trái đào này thì mình thấy mùi đào rất là thơm, ngửi cũng rất là thích luôn.",
+    "Thạch của nó thì rất là mềm. Một số loại thạch thì mình thấy ăn nó sẽ hơi dai dai, hơi giòn giòn. Nhưng mà cái thạch này thì nó rất là mềm, cho vào miệng một cái là nó đã nát ra luôn rồi.",
+    "Vị của nó thì có vị chua ngọt. Vị chua ngọt rất là đậm, nhưng mà ăn nó cũng kiểu không bị ngán ấy."
+  ],
+  "hook_content": "Số mọi người biết đây là món gì?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review món thạch quả đào độc lạ, tập trung vào mô tả mùi vị, độ mềm và cảm nhận cá nhân về sản phẩm. Người nói đánh giá cao mùi thơm và vị chua ngọt của thạch, nhưng thích thạch dai hơn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

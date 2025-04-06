@@ -1,0 +1,75 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món xiên bẩn và hamburger kiểu Trung Quốc",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Thưởng thức xiên bẩn",
+      "desc": "Ăn và miêu tả cảm nhận về độ cay và vị ngon",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Thưởng thức hamburger",
+      "desc": "Ăn và miêu tả cảm giác phê với phô mai ảo đá",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Giới thiệu cà phê",
+      "desc": "Giới thiệu và pha cà phê Đông trùng hạ thảo và Minh Chi",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cà phê"
+    },
+    {
+      "step": "Đánh giá cà phê",
+      "desc": "Miêu tả hương vị ngọt nhẹ, tự nhiên và lợi ích sức khỏe",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "cay",
+    "phê",
+    "ảo đá",
+    "thích"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cái pho mai bên trong nó ảo đá, trời cái cảm giác nó phê.",
+    "Tui lúc nào cũng pha cà phê Đông trùng hạ thảo với cà phê là Minh Chi, ồ nó sẫn keo ngon lắm.",
+    "Uống là không hổ danh cà phê vừa ngon vừa tốt cho sức khỏe."
+  ],
+  "hook_content": "Tiếp tục với chuyên mục ăn đêm với Xi Mập nhà mình bà.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang ăn xiên bẩn và hamburger kiểu Trung Quốc, sau đó giới thiệu và pha cà phê Đông trùng hạ thảo, cà phê Minh Chi.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

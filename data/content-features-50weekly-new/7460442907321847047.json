@@ -1,0 +1,83 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món trứng ngâm tương và chia sẻ đã làm món này.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về công thức và cách làm."
+    },
+    {
+      "step": "Luộc trứng",
+      "desc": "Hướng dẫn thời gian luộc trứng để đạt độ lòng đào.",
+      "impact_level": "2",
+      "viewer_emotion": "Lưu ý về thời gian luộc để có trứng lòng đào."
+    },
+    {
+      "step": "Chia sẻ quan điểm",
+      "desc": "Chia sẻ về những bình luận tiêu cực từ một số người.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với những chia sẻ của người nấu."
+    },
+    {
+      "step": "Quay lại nấu ăn",
+      "desc": "Nhấn mạnh công thức đơn giản và dễ thực hiện.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy công thức này dễ làm và muốn thử."
+    },
+    {
+      "step": "Mời ăn tối",
+      "desc": "Mời mọi người ăn tối và xem phản ứng của gia đình.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ phản ứng của gia đình về món ăn."
+    },
+    {
+      "step": "Phản ứng của gia đình",
+      "desc": "Gia đình người nấu thử món ăn và đưa ra phản hồi.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú với phản ứng của gia đình."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người cứ lưu vào để đợi những cái lúc mà không biết nấu gì ý thì mở ra để xem nhá.",
+    "Và mọi người nhớ xem đến cuối để xem phản ứng của gia đình em như thế nào nhá."
+  ],
+  "cta_type": [
+    "Lưu video",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thích"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Em để ý nhá, là có tới 80% những cái comment toxic ấy là đến từ vị trí của các anh con trai.",
+    "Trời ơi các anh làm sao thế? Cứ cho là những cái người mà lấy chồng ngoại quốc như bọn em ấy là sính ngoại đi. Vì sao? Vì sợ va phải vào những cái người như bọn anh ấy.",
+    "Cái công thức này nó đơn giản lắm mọi người ạ. Mọi người cứ lưu vào để đợi những cái lúc mà không biết nấu gì ý thì mở ra để xem nhá."
+  ],
+  "hook_content": "Nay lại tiếp tục series nấu món ăn Việt Nam cho gia đình chồng Nhật với em nhá.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn cách làm món trứng ngâm tương đơn giản, dễ làm tại nhà và chia sẻ về cuộc sống của người Việt ở Nhật. Video cũng đề cập đến những bình luận tiêu cực và phản ứng của gia đình chồng khi ăn món này.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

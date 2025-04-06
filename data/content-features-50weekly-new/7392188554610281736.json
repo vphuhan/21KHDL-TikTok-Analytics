@@ -1,0 +1,87 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu các loại kem ăn khô, món chuột, và đào baby.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn vặt tuổi thơ."
+    },
+    {
+      "step": "Đánh giá kem ăn khô",
+      "desc": "Nhận xét kem ăn khô ngọt, mát, nhưng không ngon và khó ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy món ăn không hấp dẫn."
+    },
+    {
+      "step": "Đánh giá món chuột",
+      "desc": "Nhận xét món chuột cay, bột, gợi nhớ hương vị tuổi thơ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú khi nhớ lại kỷ niệm."
+    },
+    {
+      "step": "Đánh giá đào baby",
+      "desc": "Đánh giá đào baby có nhiều tạp chất, bụi bẩn, nghi bị mốc.",
+      "impact_level": "3",
+      "viewer_emotion": "Ghê sợ và lo lắng về chất lượng."
+    },
+    {
+      "step": "Ăn thử đào baby",
+      "desc": "Ăn thử đào baby, nhận xét vị ngon nhưng hình dạng không chấp nhận được.",
+      "impact_level": "2",
+      "viewer_emotion": "Mâu thuẫn giữa vị giác và thị giác."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Ai nhai hết cùng tôi 😭😭😭"
+  ],
+  "cta_type": [
+    "Ăn cùng",
+    "Đặt câu hỏi"
+  ],
+  "emotion_keywords": [
+    "ngọt",
+    "mát",
+    "cay",
+    "bột",
+    "ngon",
+    "ghê",
+    "sạn",
+    "bụi bẩn",
+    "chua",
+    "mặn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mình nghĩ món này mọi người nên liệt kê vào sách đỏ để bảo tồn thôi, chứ không nên bán ăn nữa.",
+    "Về vị ấy, ăn cái vị này nhớ hồi cấp một thực sự luôn.",
+    "Mọi người ăn sẽ cảm thấy nó rất là nhiều sạn, rất là nhiều bụi bẩn, không dám chấm điểm luôn."
+  ],
+  "hook_content": "phần hai. Cái này người ta gọi là kem. Mọi người tin được không? Cái này gọi là kem đấy, kem ăn khô Cô ăn em.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review các món ăn vặt tuổi thơ như kem ăn khô, món chuột và đào baby, trong đó người nói vừa ăn vừa đưa ra các nhận xét về hương vị, hình dạng và độ an toàn của sản phẩm, đồng thời gợi lại những kỷ niệm thời thơ ấu.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành",
+    "Khó chịu"
+  ]
+}

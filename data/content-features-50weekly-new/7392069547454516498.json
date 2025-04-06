@@ -1,0 +1,87 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu nguyên liệu",
+      "desc": "Giới thiệu nguyên liệu chính là gà và các loại gia vị tự trồng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Sơ chế gà",
+      "desc": "Hướng dẫn cắt gà và trộn với gia vị, trứng, bột bắp.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với công thức ướp gà."
+    },
+    {
+      "step": "Chuẩn bị sốt tắc",
+      "desc": "Hướng dẫn vắt tắc và pha chế nước sốt với các gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Học hỏi cách làm sốt."
+    },
+    {
+      "step": "Chiên gà",
+      "desc": "Chiên gà đến khi vàng giòn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Làm sốt",
+      "desc": "Phi tỏi và cho nước sốt vào chảo.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ món ăn hoàn thành."
+    },
+    {
+      "step": "Hoàn thiện",
+      "desc": "Trộn gà đã chiên với sốt, trang trí với lát tắc.",
+      "impact_level": "3",
+      "viewer_emotion": "Hấp dẫn bởi món ăn."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Miêu tả hương vị món ăn và cho con ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn thử ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "bữa nay mà chưa biết nấu món gì thì nấu thử món này nghe."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "béo béo giòn giòn",
+    "khen ngon quá trời"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Gà này á là 1 kg thịt ức gà mấy bà cắt hình con chì cho tôi rồi bỏ vô một cái âu để mình trộn gia vị.",
+    "Món này hả nó kiểu nó chua chua mặn mặn ngọt ngọt, cái da gà nó béo béo giòn giòn, ngon lắm mấy ông mấy bà.",
+    "Mỗi khi mà ăn non nó về là tôi phải làm một cái món chiên chiên á để cho nó chấm sốt nó ăn."
+  ],
+  "hook_content": "một tháng mà thịt bò với lại thịt heo thì cuối tháng giữa tháng thì chỉ có thịt gà mà fan cho tôi nha mấy ông mấy bà ơi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm món gà sốt tắc đơn giản tại nhà với các nguyên liệu dễ kiếm. Món ăn có vị chua ngọt mặn, da gà béo giòn, rất hấp dẫn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

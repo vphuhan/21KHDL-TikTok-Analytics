@@ -1,0 +1,71 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu hoàn cảnh",
+      "desc": "Chia sẻ trải nghiệm về thời tiết và một tai nạn giao thông.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về liên hệ giữa thời tiết và ẩm thực."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu trứng cá tuyết muối và mực hồng mua ở siêu thị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với các món ăn mới lạ."
+    },
+    {
+      "step": "Đánh giá sản phẩm",
+      "desc": "Nhận xét về độ mềm của trứng cá và độ giòn của mực.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của món ăn."
+    },
+    {
+      "step": "Trải nghiệm sản phẩm",
+      "desc": "Đánh giá cao độ giòn của mực và bày tỏ mong muốn mua lại.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn thử món mực giòn tan."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngán",
+    "tội nghiệp",
+    "ngon",
+    "mềm mềm",
+    "ghén",
+    "lạ",
+    "giòn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Bên đây thì có một cái trứng cá tuyết nè nhìn ngon nè.",
+    "Mà đặc biệt là không chỉ giòn mỗi cái râu không nghe mà cái mình của nó cũng giòn nữa.",
+    "Lần sau mà thấy thì nhất định sẽ ăn tiếp nữa."
+  ],
+  "hook_content": "Trước đây khi mà chưa thấy tuyết, có nghĩa là mình nôn gặp tuyết dữ lắm luôn.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu và đánh giá trứng cá tuyết muối và mực hồng mua ở siêu thị. Người nói chia sẻ trải nghiệm cá nhân và cảm nhận về hương vị, đặc biệt ấn tượng với độ giòn của mực.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

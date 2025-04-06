@@ -1,0 +1,86 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu khách và quà",
+      "desc": "Giới thiệu khách từ Sài Gòn xuống và số lượng hải sản được tặng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các loại hải sản."
+    },
+    {
+      "step": "Khui thùng cua hoàng đế",
+      "desc": "Mở thùng đầu tiên và giới thiệu cua hoàng đế.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với cua hoàng đế."
+    },
+    {
+      "step": "Khui thùng hải sản đông lạnh",
+      "desc": "Mở thùng thứ hai với hải sản nhập khẩu đông lạnh.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với sự đa dạng của hải sản."
+    },
+    {
+      "step": "Khui thùng cá biển",
+      "desc": "Mở thùng thứ ba, giới thiệu về cá biển.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không quá đặc biệt."
+    },
+    {
+      "step": "Chế biến và thưởng thức",
+      "desc": "Chế biến sò điệp nướng mỡ hành và cua Nauy.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng món sò điệp nướng mỡ hành."
+    },
+    {
+      "step": "Thử cua Nauy và ăn sashimi",
+      "desc": "Lần đầu tách vỏ cua Nauy và thử món sashimi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị cua Nauy."
+    },
+    {
+      "step": "Lẩu ếch và cua hoàng đế",
+      "desc": "Ăn lẩu ếch, cua hoàng đế và còi sò điệp.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy ngon miệng và muốn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "cay cay",
+    "mát",
+    "ngọt",
+    "chắc"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nhìn cái tô mỡ hành thơm thôi mà nướng lên á không chịu nổi luôn á.",
+    "Nghe danh đã lâu là cái con cua này thì dưới lớp vỏ nó là siêu gạch luôn.",
+    "Ăn hải sản mà có cảm thấy ngán ngán thì quay qua húp miếng nước lẩu thì nó cũng ngon."
+  ],
+  "hook_content": "Hôm nay thì mình sẽ đón những cái vị khách hải sản từ Sài Gòn xuống.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại buổi tiệc hải sản tại quê nhà với sự tham gia của bạn bè từ Sài Gòn, trong đó người quay giới thiệu và thưởng thức nhiều loại hải sản tươi ngon như cua hoàng đế, cua Nauy, sò điệp Nhật và lẩu ếch.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

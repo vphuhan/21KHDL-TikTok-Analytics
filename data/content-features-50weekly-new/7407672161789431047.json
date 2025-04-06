@@ -1,0 +1,67 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu kẹo sáp",
+      "desc": "Giới thiệu và đánh giá nhanh về kẹo sáp Dolingo.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm."
+    },
+    {
+      "step": "Đề xuất kết hợp",
+      "desc": "Gợi ý uống kèm cà phê Laura để tăng hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với gợi ý."
+    },
+    {
+      "step": "Giới thiệu cà phê",
+      "desc": "Giới thiệu về cà phê Laura và lợi ích sức khỏe.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến lợi ích sức khỏe."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Đánh giá sự kết hợp giữa kẹo sáp và cà phê.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngọt",
+    "ngon",
+    "béo",
+    "đã"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Kẹo sáp Dolingo này thì cũng giòn và ngọt đấy nhưng mà ăn như vậy thì vẫn chưa ngon lắm.",
+    "Uống vào vừa ngon vừa khỏe, mà trung thu này sẽ thật trọn vẹn nếu như có Lau Ra cà phê bên cạnh đó.",
+    "Kẹo sáp Dolingo này thì cực to, nhiều thịt, sốt thì chua chua ngọt ngọt, uống chung thêm chút cà phê ngon thì quá đã."
+  ],
+  "hook_content": "Review cả thế giới, kẹo sáp Dolingo.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review kẹo sáp Dolingo và gợi ý kết hợp với cà phê Laura của Nhật Kim Anh để tăng thêm hương vị và lợi ích cho sức khỏe.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

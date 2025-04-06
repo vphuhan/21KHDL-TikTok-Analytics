@@ -1,0 +1,80 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món chả giò và nguyên liệu làm món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Thái sợi và băm nhỏ các nguyên liệu, chiên sơ khoai.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, dễ hiểu."
+    },
+    {
+      "step": "Trộn nhân",
+      "desc": "Trộn đều nguyên liệu đã sơ chế với gia vị.",
+      "impact_level": "1",
+      "viewer_emotion": "Mong chờ món ăn."
+    },
+    {
+      "step": "Cuốn chả giò",
+      "desc": "Cuốn chả giò và gặp khó khăn khi cuốn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị, đồng cảm."
+    },
+    {
+      "step": "Nhờ giúp đỡ",
+      "desc": "Nhờ người thân giúp cuốn chả giò.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ, nhẹ nhõm."
+    },
+    {
+      "step": "Chiên chả giò",
+      "desc": "Chiên chả giò và chia sẻ kinh nghiệm.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức chờ đợi."
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Chả giò hoàn thành và mời mọi người cùng thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "vàng giòn rụm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cuốn chả giò mà mang bao tay, khó cuốn quá trời luôn.",
+    "Chiên chả giò này y chang như Khương Tử Nha câu cá vậy đó. Phải hết sức kiên nhẫn chứ gấp quá là chả giò sống liền nha cả nhà."
+  ],
+  "hook_content": "Đây là cái món mà Tứng thấy nhiều bạn kêu Tứng làm nhất nè, mà bây giờ mới làm, vì làm món này cực lắm và phải có thời gian rảnh nữa.",
+  "hook_type": [
+    "Phản hồi bình luận"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món chả giò với các nguyên liệu quen thuộc. Tứng chia sẻ quá trình làm món ăn từ sơ chế đến khi hoàn thành và mời mọi người cùng thưởng thức.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

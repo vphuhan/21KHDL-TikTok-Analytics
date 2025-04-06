@@ -1,0 +1,89 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món mochi táo đỏ và lý do làm món này.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Sơ chế táo",
+      "desc": "Hướng dẫn loại bỏ hạt táo để tránh bị chua khi chế biến.",
+      "impact_level": "2",
+      "viewer_emotion": "Học được mẹo nhỏ hữu ích."
+    },
+    {
+      "step": "Làm nhân mochi",
+      "desc": "Hướng dẫn trộn bột nếp với các nguyên liệu khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Nắm bắt công thức cơ bản."
+    },
+    {
+      "step": "Nhồi nhân vào táo",
+      "desc": "Hướng dẫn nhồi bột nếp vào táo và tạo hình.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung được cách làm."
+    },
+    {
+      "step": "Hấp táo",
+      "desc": "Hướng dẫn hấp táo trong khoảng 10-15 phút.",
+      "impact_level": "1",
+      "viewer_emotion": "Chờ đợi thành phẩm."
+    },
+    {
+      "step": "Làm sốt quế hoa",
+      "desc": "Hướng dẫn làm sốt quế hoa để rưới lên mochi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với hương vị mới."
+    },
+    {
+      "step": "Thưởng thức và đánh giá",
+      "desc": "Thưởng thức mochi táo đỏ và đánh giá hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn thử làm theo."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Mọi người thử đi."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "hợp",
+    "vui",
+    "đã"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trời cái táo này ngon quá luôn á.",
+    "Tưởng nó tạp quế á, nhưng mà nó rất hợp nha.",
+    "Cái này là một loại điểm tâm ở Thượng Hải."
+  ],
+  "hook_content": "Ừm. Trời cái táo này ngon quá luôn á.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món mochi táo đỏ, một món điểm tâm của Thượng Hải. Người làm chia sẻ cách sơ chế táo, làm nhân mochi, hấp và làm sốt quế hoa ăn kèm, đồng thời đánh giá hương vị món ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

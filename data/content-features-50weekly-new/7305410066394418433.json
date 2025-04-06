@@ -1,0 +1,79 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu túi không khí Đà Lạt và bày tỏ sự tò mò.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm độc đáo."
+    },
+    {
+      "step": "Đánh giá bao bì",
+      "desc": "Nhận xét về thông tin in trên bao bì sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự hài hước."
+    },
+    {
+      "step": "Trải nghiệm sản phẩm",
+      "desc": "Mở túi không khí và ngửi thử mùi hương bên trong.",
+      "impact_level": "1",
+      "viewer_emotion": "Hơi thất vọng vì không có mùi."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Đưa ra lời khuyên về việc mua sản phẩm này.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích với lời khuyên."
+    },
+    {
+      "step": "Gợi ý sử dụng",
+      "desc": "Đề xuất cách sử dụng sản phẩm để trêu bạn bè.",
+      "impact_level": "3",
+      "viewer_emotion": "Thấy hài hước và có ý tưởng."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "sợ",
+    "vui"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "thơm mùi thông xanh đường nhà rồi thơm mùi cây đại thụ thơm mùi độ cao 2.567 cái nha",
+    "trôi nhỏ bạn mình nó hỏi bà có thể tự làm được luôn mà mọi người mình in ra cái tờ giấy thôi chứ mình không cần tốn 15.000 đâu",
+    "mua cho nó cái túi này nè cho vừa lòng hả dạ liền"
+  ],
+  "hook_content": "Túi không khí Đà Lạt mà bán 15 cành nên mua hay không nên mua?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review túi không khí Đà Lạt với giá 15k, người nói đánh giá mùi hương và tính độc đáo của sản phẩm, đồng thời đưa ra lời khuyên về việc có nên mua hay không.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Hài hước",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

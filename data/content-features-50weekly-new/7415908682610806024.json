@@ -1,0 +1,83 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu các loại xúc xích theo độ dài.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Xúc xích hồ lô",
+      "desc": "Ăn và nhận xét xúc xích hồ lô.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Xúc xích Vạn Mỹ",
+      "desc": "Ăn và nhận xét xúc xích Vạn Mỹ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Xúc xích Gold",
+      "desc": "Ăn và nhận xét xúc xích gold.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Câu hỏi tương tác",
+      "desc": "Đặt câu hỏi về giá trị chai tương ớt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Xúc xích OG",
+      "desc": "Ăn và nhận xét xúc xích OG.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Trùm cuối",
+      "desc": "Ăn và nhận xét loại xúc xích cuối cùng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "cực kỳ đặc thịt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cực kỳ đặc thịt luôn á.",
+    "Có một phô mai đặc luôn.",
+    "Ôi cái này dài phết đấy."
+  ],
+  "hook_content": "Một bạn các loại xúc xích theo độ dài.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang các loại xúc xích khác nhau về độ dài, người ăn thử từng loại và đưa ra nhận xét về hương vị và đặc điểm của chúng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

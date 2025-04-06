@@ -1,0 +1,82 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu cua Cà Mau của Hằng Du Mục và mục đích review.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm."
+    },
+    {
+      "step": "Tách cua",
+      "desc": "Thực hiện tách cua theo kiểu Hằng Du Mục và so sánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với cách tách cua."
+    },
+    {
+      "step": "Nếm thử",
+      "desc": "Nếm thử cua với sốt me và sốt trứng muối.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng hương vị."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Đánh giá chất lượng cua, sốt và trải nghiệm mua hàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá."
+    },
+    {
+      "step": "Chia sẻ quan điểm",
+      "desc": "Chia sẻ về việc sẵn sàng quay lại review nếu quán cải thiện.",
+      "impact_level": "1",
+      "viewer_emotion": "Đồng tình với sự công tâm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn tất cả mọi người đã coi clip của mình và cảm ơn chị Hằng Du Mục đã luôn ủng hộ cho nông sản của Việt Nam và cảm ơn mọi người đã coi clip.",
+    "Bye bye. Chúc mọi người ngon ngon."
+  ],
+  "cta_type": [
+    "Chia sẻ"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thích",
+    "đã",
+    "chất lượng",
+    "béo",
+    "ngọt",
+    "ghê"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Em đặt hôm qua 7 giờ đêm người ta giao tới là phải quay ngay lập tức cho mọi người xem luôn.",
+    "Cái dại nào như vậy đó thôi kệ đi như là.Phải được trải nghiệm để mình biết thêm cái chuyện ăn cua.",
+    "Mọi người yên tâm nha, coi review của em á mà thí dụ mà có vấn đề gì là hôm sau là em quay lại liền."
+  ],
+  "hook_content": "Trên mạng cua Cà Mau của chị Hằng du mục. Ngoài đời cua Cà Mau của chị Hằng du mục nha mọi người ơi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review cua Cà Mau của chị Hằng Du Mục, so sánh trải nghiệm trên mạng và ngoài đời, đồng thời đánh giá chất lượng sản phẩm và dịch vụ. Người review cũng chia sẻ quan điểm về việc sẵn sàng quay lại đánh giá nếu có sự cải thiện.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

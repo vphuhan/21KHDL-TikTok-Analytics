@@ -1,0 +1,102 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu bằng món ăn vặt",
+      "desc": "Mở đầu bằng bánh bò để gợi ý về món bò nướng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc sắc."
+    },
+    {
+      "step": "Giới thiệu địa điểm buffet",
+      "desc": "Giới thiệu quán buffet nướng Hàn Quốc quen thuộc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy đói bụng."
+    },
+    {
+      "step": "Đánh giá món lòng bò",
+      "desc": "Tập trung vào món lòng bò non, món đắt nhất.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Đánh giá các món khác",
+      "desc": "Giới thiệu và đánh giá thêm dẻ sườn, phô mai bắp.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thèm các món nướng."
+    },
+    {
+      "step": "Đề xuất đồ uống",
+      "desc": "Gợi ý uống kèm nước dưa hấu cho mát.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy bình thường."
+    },
+    {
+      "step": "Nhấn mạnh đồ ăn kèm",
+      "desc": "Khen ngợi các món banchan và sốt chấm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn."
+    },
+    {
+      "step": "Giới thiệu món da heo",
+      "desc": "Đánh giá cao món da heo nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy ngon miệng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thèm",
+    "hớn hở",
+    "béo béo",
+    "thả ga",
+    "ngon",
+    "béo",
+    "giàu protein",
+    "chua chua ngọt ngọt",
+    "hấp dẫn",
+    "khoái",
+    "ngọt ngọt",
+    "béo béo",
+    "ngon lành",
+    "mát mẻ",
+    "hợp lý",
+    "đa dạng",
+    "ngon",
+    "mê",
+    "thơm",
+    "dai dai dẻo dẻo",
+    "ngon vừa vị",
+    "tốt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nói chứ đang cầm hộp bánh bò nhưng lòng vẫn hướng về con bò.",
+    "Ăn lẩu nướng mà làm ly nước dưa hấu này cũng hợp lý quá ha.",
+    "Nhìn cũng đáng yêu á nên mình cho vô bụng luôn."
+  ],
+  "hook_content": "Tối tối qua chị đẹp hỏi lâu rồi chưa có ăn bò đúng không?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review buffet nướng Hàn Quốc với các món bò, heo, gà, hải sản nướng hấp dẫn. Đặc biệt, người này rất thích món lòng bò non, dẻ sườn và da heo nướng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

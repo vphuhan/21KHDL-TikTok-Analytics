@@ -1,0 +1,67 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Út Phụng Kim giới thiệu món gà rán mới chiên và mời ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Miêu tả cảm nhận",
+      "desc": "Út Phụng Kim diễn tả độ ngon, giòn của gà rán.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Trải nghiệm cá nhân",
+      "desc": "Út Phụng Kim chia sẻ tần suất ăn gà và các món gà.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Mời ăn tiếp",
+      "desc": "Út Phụng Kim tiếp tục mời mọi người cùng ăn gà rán.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "giòn tan",
+    "quá đã"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Quá đã, quá đã mới chiên nhanh luôn á.",
+    "Chiên này mà ăn đêm á cho nó ngon dữ lắm luôn.",
+    "Chuẩn bị nghe cái âm thanh. Giòn tan."
+  ],
+  "hook_content": "Xin mời.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video ghi lại cảnh Út Phụng Kim ăn gà rán mới chiên, chia sẻ cảm nhận về độ ngon và giòn của món ăn. Đồng thời, Út cũng chia sẻ về tần suất ăn gà của mình và mời mọi người cùng ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

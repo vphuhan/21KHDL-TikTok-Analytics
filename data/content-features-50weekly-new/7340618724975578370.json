@@ -1,0 +1,86 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu món ăn vặt tuổi thơ đã tìm kiếm từ lâu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Trải nghiệm",
+      "desc": "Trải nghiệm lại hương vị tuổi thơ với ô mai muối.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Đánh giá hương vị, độ mềm dẻo của ô mai thanh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "So sánh",
+      "desc": "So sánh hương vị hiện tại với ký ức tuổi thơ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Nhận xét",
+      "desc": "Nhận xét về độ khô và vị gắt của sản phẩm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Tìm kiếm",
+      "desc": "Dự định tìm kiếm loại ô mai khác để thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong đợi"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "mềm",
+    "dẻo",
+    "mặn mặn",
+    "ngọt ngọt",
+    "chua chua",
+    "hơi khô",
+    "hơi gắt",
+    "đắng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đây nó là cái món đồ ăn vặt tuổi thơ mà mình đã tìm kiếm từ rất lâu rồi.",
+    "Đúng là ăn nó rất giống với cả cái hương vị mà hồi còn nhỏ mình hay ăn.",
+    "Dành cho bạn nào chưa ăn bao giờ thì cái ô mai thanh này mình thấy ăn nó thơm, mềm, dẻo."
+  ],
+  "hook_content": "Đây nó là cái món đồ ăn vặt tuổi thơ mà mình đã tìm kiếm từ rất lâu rồi.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm",
+    "So sánh"
+  ],
+  "summarization": "Video review món ô mai thanh, một món ăn vặt gợi nhớ tuổi thơ. Người nói chia sẻ trải nghiệm hương vị, so sánh với ký ức và đưa ra nhận xét về sản phẩm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

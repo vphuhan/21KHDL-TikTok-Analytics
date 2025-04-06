@@ -1,0 +1,93 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu bánh sandwich sa tế chà bông Thùy Tiên đã ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm được hoa hậu yêu thích."
+    },
+    {
+      "step": "Nguồn gốc sản phẩm",
+      "desc": "Chia sẻ quá trình tìm mua sản phẩm từ Thái Lan.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy hơi bất ngờ về giá thành."
+    },
+    {
+      "step": "Thử nghiệm sản phẩm",
+      "desc": "Bắt đầu ăn thử và miêu tả hương vị của sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức về trải nghiệm hương vị."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Phân tích kỹ hơn về vị ngọt, độ giòn và các thành phần.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung lắng nghe đánh giá khách quan."
+    },
+    {
+      "step": "So sánh trải nghiệm",
+      "desc": "So sánh cách ăn của mình với hoa hậu Thùy Tiên.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự so sánh hài hước."
+    },
+    {
+      "step": "Nhấn mạnh hương vị",
+      "desc": "Diễn tả lại hương vị đặc biệt và cảm nhận chung.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng và muốn thử ngay."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Khuyên những người lười ăn sáng nên thử món này.",
+      "impact_level": "2",
+      "viewer_emotion": "Gợi ý hữu ích cho bữa sáng."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "lạ lạ",
+    "ngọt",
+    "mằn mặn",
+    "dễ thương"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Thấy hoa hậu ăn cũng phải ăn theo.",
+    "Kiểu của bé Tiên ăn á là cái kiểu chuẩn chất á, kiểu ăn là nhìn thấy là trời ơi thấy lạ lạ.",
+    "Em đang kiếm những cái món ăn á mà em review độc lạ mà nó ngon á lại mừng lắm."
+  ],
+  "hook_content": "Thấy hoa hậu ăn cũng phải ăn theo.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review bánh sandwich sa tế chà bông mà hoa hậu Thùy Tiên đã ăn, tập trung vào trải nghiệm hương vị và nguồn gốc sản phẩm, đồng thời so sánh với cách thưởng thức của hoa hậu.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

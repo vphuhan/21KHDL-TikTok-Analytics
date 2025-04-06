@@ -1,0 +1,67 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Món bánh đúc được mẹ chồng yêu thích khi trời mưa gió.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món bánh đúc."
+    },
+    {
+      "step": "Nấu bánh đúc",
+      "desc": "Sử dụng cơm nguội để làm bánh đúc theo công thức học lỏm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với công thức bánh đúc đơn giản."
+    },
+    {
+      "step": "Thưởng thức bánh đúc",
+      "desc": "Cả gia đình cùng nhau ăn và khen bánh đúc ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy ấm áp, hạnh phúc."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Chúc mọi người thành công nha."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ấm bụng",
+    "yêu thích",
+    "ngon",
+    "美味しい"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "từ giờ trở đi món này sẽ được xếp vào trong những món ăn yêu thích của mẹ",
+    "Nhật Bản mấy hôm nay thời tiết thì cứ âm u mưa gió cả tuần, làm tôi lại thèm ăn những cái món gì nó ấm bụng",
+    "Công thức thì cực kỳ là đơn giản"
+  ],
+  "hook_content": "Mẹ chồng mình bảo từ giờ trở đi món này sẽ được xếp vào trong những món ăn yêu thích của mẹ.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ công thức làm bánh đúc từ cơm nguội, được mẹ chồng yêu thích trong những ngày mưa gió ở Nhật Bản. Cả gia đình cùng thưởng thức và khen ngon.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

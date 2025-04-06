@@ -1,0 +1,93 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu xôi cua Kim Quán và sự nổi tiếng của nghệ sĩ Kim Thư.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn và quán của người nổi tiếng."
+    },
+    {
+      "step": "Đánh giá tổng quan",
+      "desc": "Nhận xét ban đầu về topping và giá cả của xôi cua.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, tiếp nhận thông tin về giá cả."
+    },
+    {
+      "step": "Thử nghiệm",
+      "desc": "Thực hiện nghi thức đập vỏ cua và đánh giá độ giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với phần đập vỏ cua, tò mò hương vị."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Đánh giá độ nhão của xôi và vị tươi của thịt cua.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến chất lượng xôi và thịt cua."
+    },
+    {
+      "step": "So sánh vùng miền",
+      "desc": "So sánh khẩu vị món ăn với ẩm thực các vùng miền.",
+      "impact_level": "1",
+      "viewer_emotion": "Gật gù nếu có cùng trải nghiệm ẩm thực vùng miền."
+    },
+    {
+      "step": "Đánh giá thêm",
+      "desc": "Đánh giá về độ giòn của xôi và các thành phần khác.",
+      "impact_level": "1",
+      "viewer_emotion": "Tiếp tục theo dõi đánh giá về món ăn."
+    },
+    {
+      "step": "Tổng kết và chấm điểm",
+      "desc": "Tổng kết trải nghiệm và chấm điểm, đưa ra lời khuyên.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá và lời khuyên."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người đã coi clip của em và mong là mọi người đừng tin những gì em review hết, tự ăn tự cảm nhận, mỗi người mỗi khẩu vị nha.",
+    "Nên ăn thử nha mọi người ơi."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "tươi",
+    "nhạt",
+    "dẻo",
+    "mềm",
+    "vừa",
+    "ổn định"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "cua tao nói là tới nóc, nói là tới nóc đỉnh nóc kịch trần á. Hết gì để chê á.",
+    "ăn cái gì cũng khó chịu",
+    "đừng tin những gì em review hết, tự ăn tự cảm nhận, mỗi người mỗi khẩu vị nha."
+  ],
+  "hook_content": "Trên mạng xôi cua Kim Quán, ngoài đời xôi cua Kim Quán nha mọi người ơi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món xôi cua Kim Quán của nghệ sĩ Kim Thư, tập trung vào đánh giá hương vị, chất lượng và trải nghiệm cá nhân khi ăn. Người nói đưa ra nhận xét chi tiết về độ tươi của cua, độ nhão của xôi và so sánh khẩu vị với ẩm thực các vùng miền.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

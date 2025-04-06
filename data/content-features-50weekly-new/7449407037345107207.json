@@ -1,0 +1,73 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu bản thân và những người ăn cùng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Bắt đầu ăn",
+      "desc": "Bắt đầu ăn và thể hiện sự ngon miệng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Đánh giá tôm",
+      "desc": "Khen tôm ngon, béo và nghiện.",
+      "impact_level": "3",
+      "viewer_emotion": "Phấn khích"
+    },
+    {
+      "step": "Thông tin khuyến mãi",
+      "desc": "Thông báo về khuyến mãi và giá cả.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Đề cập đến việc ăn kem sau đó.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "đã",
+    "nghiện",
+    "thoải mái",
+    "tiết kiệm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Trời ơi con tôm nó không có bị béo vậy, ngon con đi.",
+    "Thật là nghiện được ăn tôm của bé mẹ gấu nha.",
+    "Con buôn này là buôn năm gì ăn thoải mái luôn, mà còn tiết kiệm được 118.000 nữa."
+  ],
+  "hook_content": "Đây mẹ gấu con bồ gia đình cùng với tôi nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh mukbang tôm của mẹ gấu cùng gia đình, trong đó mẹ gấu đặc biệt khen tôm ngon, béo và chia sẻ về chương trình khuyến mãi giúp tiết kiệm chi phí.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

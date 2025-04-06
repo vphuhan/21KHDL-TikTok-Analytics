@@ -1,0 +1,91 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Đi chợ mua sắm và sơ chế nguyên liệu từ 3 giờ chiều.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn được chuẩn bị công phu."
+    },
+    {
+      "step": "Làm chả ốc",
+      "desc": "Chia sẻ công thức chả ốc và quá trình làm tỉ mỉ.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với sự cầu kỳ của món ăn."
+    },
+    {
+      "step": "Sơ chế topping",
+      "desc": "Cắt và bảo quản topping lẩu, giới thiệu dụng cụ tiện ích.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy hữu ích với mẹo bảo quản thực phẩm."
+    },
+    {
+      "step": "Nấu nước lẩu riêu cua",
+      "desc": "Chia sẻ kinh nghiệm nấu nước lẩu riêu cua ngon và đậm đà.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong muốn thử ngay công thức nấu lẩu riêu cua."
+    },
+    {
+      "step": "Hoàn thiện món ăn",
+      "desc": "Chuẩn bị ghẹ sữa sốt me và các gia vị ăn kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng các món ăn hấp dẫn."
+    },
+    {
+      "step": "Đón khách và ăn uống",
+      "desc": "Mời người thân đến ăn lẩu và giới thiệu mọi người.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy ấm cúng và thân thiện."
+    },
+    {
+      "step": "Kỷ niệm vui vẻ",
+      "desc": "Chia sẻ kỷ niệm đi thi nhạc viện và khen mọi người ăn ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với câu chuyện hài hước."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "giòn",
+    "vừa ăn",
+    "thích",
+    "ngọt",
+    "thích mê",
+    "ưng cái bụng",
+    "tuyệt vời"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Có cái chả ốc này bạn mình lỡ một lần khen ngon, bây giờ ai đến nhà mình cũng làm cái chả ốc này luôn.",
+    "Từ lúc mình mua được cái hộp cắt bọc thực phẩm này là chân ái. Mua một lần dùng mãn đời chỉ cần thay lõi thôi.",
+    "Nấu ăn cho mấy con người này là thích mê, nấu ra mà ăn hết sạch sành xanh như này là ưng cái bụng."
+  ],
+  "hook_content": "Nay có khách quý đến nhà chơi là mình với anh Nguyên đi chợ và chuẩn bị từ 3:00 chiều.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn",
+    "Kể chuyện"
+  ],
+  "summarization": "Video ghi lại quá trình chuẩn bị và nấu món lẩu riêu cua tại nhà để mời người thân, từ khâu đi chợ, sơ chế nguyên liệu, nấu nước lẩu đến làm các món ăn kèm. Đồng thời, video cũng chia sẻ những kỷ niệm vui vẻ và bí quyết nấu ăn ngon.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

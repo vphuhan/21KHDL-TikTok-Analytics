@@ -1,0 +1,84 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ba chỉ rang riềng hao cơm và bắt mồi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê các nguyên liệu cần thiết và cách sơ chế.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Ướp thịt",
+      "desc": "Hướng dẫn cách ướp thịt với các gia vị.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Trộn bột và riềng",
+      "desc": "Trộn bột chiên giòn, bột bắp và riềng xay vào thịt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Thêm lá mắc mật",
+      "desc": "Thêm lá mắc mật và tro tàu để tạo hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên"
+    },
+    {
+      "step": "Chiên thịt",
+      "desc": "Hướng dẫn chiên thịt với nhiều dầu và lửa lớn.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Thịt chiên vàng là có thể ăn ngay.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "hao cơm",
+    "bắt mồi",
+    "thơm ngon",
+    "ngon cực kỳ"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Món ba chỉ rang riềng này nó ăn hao cơm dã man luôn.",
+    "Để đến lúc chiên lên, riềng nó dính vào thịt ăn thơm ngon lắm.",
+    "Thịt chiên vàng lên là oánh chén thôi, ngon cực kỳ."
+  ],
+  "hook_content": "Món ba chỉ rang riềng này nó ăn hao cơm dã man luôn, mà không chỉ ăn với cơm đâu, nhậu cũng bắt mồi lắm à nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm món ba chỉ rang riềng hao cơm, từ khâu chuẩn bị nguyên liệu, ướp thịt, trộn bột đến chiên vàng giòn. Món ăn này không chỉ ăn với cơm mà còn là món nhậu hấp dẫn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

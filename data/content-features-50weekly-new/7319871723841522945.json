@@ -1,0 +1,84 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu món thịt viên heo cao bồi ăn liền",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Hướng dẫn sử dụng",
+      "desc": "Hướng dẫn cách đun nóng sản phẩm trước khi ăn",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá cảm quan",
+      "desc": "Nhận xét về mùi vị và hình thức của thịt viên",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Trải nghiệm hương vị",
+      "desc": "Thưởng thức và đánh giá hương vị của thịt viên với cơm",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Đánh giá về độ béo và hương vị tổng thể",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Nhấn mạnh lại độ ngon của sản phẩm",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Lời cảm ơn",
+      "desc": "Gửi lời cảm ơn đến người xem",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "ngon",
+    "béo"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ồ lạ nha.",
+    "Loại này nó béo.",
+    "Ngon, một tạ."
+  ],
+  "hook_content": "Mời cả nhà ăn cơm.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món thịt viên heo cao bồi ăn liền, tập trung vào trải nghiệm hương vị và cách sử dụng sản phẩm. Người nói đánh giá cao độ ngon và béo của món ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

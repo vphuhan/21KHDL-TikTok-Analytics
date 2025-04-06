@@ -1,0 +1,98 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món tai heo ngâm chua ngọt tự làm tại nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách làm món ăn."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Hướng dẫn sơ chế tai heo với muối, chanh và quấn dây.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đây là một công đoạn tỉ mỉ."
+    },
+    {
+      "step": "Luộc tai heo",
+      "desc": "Hướng dẫn luộc tai heo với các nguyên liệu tạo mùi thơm.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhớ các nguyên liệu cần thiết."
+    },
+    {
+      "step": "Pha nước ngâm",
+      "desc": "Hướng dẫn pha nước ngâm chua ngọt theo công thức.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong muốn biết tỉ lệ pha chế."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu nước mắm Chin-su cá cơm biển đông.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết thêm một loại nước mắm mới."
+    },
+    {
+      "step": "Ngâm và bảo quản",
+      "desc": "Hướng dẫn ngâm tai heo và chia sẻ về chuối ngâm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự khéo léo của người làm."
+    },
+    {
+      "step": "Thưởng thức và đánh giá",
+      "desc": "Đánh giá thành phẩm và gợi ý cách ăn kèm.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng và muốn làm thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Nên tết này có gì mấy bà làm thử cái món này nha."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "mê",
+    "mặn mặn chua chua",
+    "giòn sần sật",
+    "thơm ngon",
+    "đậm hậu ngọt",
+    "thôi phức",
+    "vàng vàng rất là đẹp",
+    "giòn sần sật",
+    "mặn mặn ngọt ngọt",
+    "rất là đỉnh",
+    "ăn hết sẩy"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Làm tai heo ngâm cái kiểu này ăn thử đi, trời ơi tao nói mê luôn á.",
+    "Mặn mặn chua chua mà giòn sần sật luôn.",
+    "Sau 2 ngày thôi mà cái tai heo của tui nè, tao nói nó thôi phức luôn."
+  ],
+  "hook_content": "Tết này mấy bà khỏi mua tai heo ngâm chua ngọt ở ngoài luôn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn cách làm món tai heo ngâm chua ngọt tại nhà, từ sơ chế nguyên liệu, luộc tai heo, pha nước ngâm đến khi hoàn thành. Đồng thời, video cũng giới thiệu sản phẩm nước mắm Chin-su cá cơm biển đông và gợi ý cách ăn kèm món tai heo.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

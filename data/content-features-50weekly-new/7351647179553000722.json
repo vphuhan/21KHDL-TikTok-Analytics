@@ -1,0 +1,90 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món cá bống mú hấp HongKong do khách mời mang đến.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Nấu ăn",
+      "desc": "Tuấn bắt đầu thực hiện món ăn, các khách mời khác trò chuyện.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú xem nấu ăn."
+    },
+    {
+      "step": "Nêm nếm",
+      "desc": "Tuấn nêm nếm gia vị, chia sẻ bí quyết cá nhân.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Trò chuyện",
+      "desc": "Các khách mời tranh luận về sự công bằng trong công việc.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hơi hài hước."
+    },
+    {
+      "step": "Hoàn thiện",
+      "desc": "Tuấn trang trí món ăn và chuẩn bị dọn lên bàn.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ được thấy món ăn."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Cả nhóm cùng nhau thưởng thức món cá bống mú hấp.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng muốn ăn."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Đánh giá món ăn, khen ngợi người mang cá đến.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy vui lây."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mời cả nhà ăn cùng Tuấn nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "hấp dẫn",
+    "vui vẻ",
+    "thích thú"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cá khô cái số nó khác, mà cá mú cái số nó khác, nữa là chị em mình.",
+    "Nếu như em muốn ngồi như chị em nhớ mang cá mú nha.",
+    "Còn em muốn sướng hơn mà để cho chị làm em phải mang cái gì nó đắt hơn con cá mú."
+  ],
+  "hook_content": "Cá Bống Mú hấp HongKong siêu hấp dẫn cùng anh em Tuấn nha❤️",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình Tuấn chế biến món cá bống mú hấp HongKong do khách mời mang đến, đồng thời chia sẻ những câu chuyện đời thường trong quá trình nấu nướng và thưởng thức món ăn cùng bạn bè.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

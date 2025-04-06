@@ -1,0 +1,83 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Người nói chia sẻ về việc đi siêu thị và chuẩn bị bữa tối.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Nấu canh tương đậu",
+      "desc": "Hướng dẫn nấu canh tương đậu đơn giản, nhanh chóng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Chuẩn bị nước chấm",
+      "desc": "Hướng dẫn pha nước chấm thịt nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu và công dụng của đông trùng hạ thảo.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng ăn tối thịt nướng và canh tương đậu.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu sản phẩm khác",
+      "desc": "Giới thiệu thêm về tinh dầu thông đỏ và các sản phẩm khác.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người có thể vào shop tham khảo nha."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "đói bụng",
+    "ngon",
+    "tốt",
+    "bồi bổ sức khỏe"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nấu canh tương đậu này là siêu đơn giản luôn.",
+    "Ăn ngon ngủ ngon, bổ phổi, tốt cho dạ dày, chống lão hóa nữa.",
+    "Chỗ này uy tín mọi người có thể mua sản phẩm hàng cho gia đình mình nha."
+  ],
+  "hook_content": "Lần đầu tiên đi ra ngoài mà tụi Hân không có đòi đi theo luôn á mọi người.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ về buổi tối gia đình với món thịt nướng và canh tương đậu, đồng thời giới thiệu cách nấu canh đơn giản và các sản phẩm chăm sóc sức khỏe từ MinSu Shop.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

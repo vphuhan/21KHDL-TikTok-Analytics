@@ -1,0 +1,88 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món tóc bốc ki làm từ bánh tráng dư.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với món ăn mới lạ."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Nêu các nguyên liệu cần có như bánh tráng, xúc xích, phô mai.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy dễ thực hiện."
+    },
+    {
+      "step": "Lựa chọn bánh tráng",
+      "desc": "Khuyên dùng bánh tráng mềm, không bị rách khi nhúng nước.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết thêm mẹo chọn bánh tráng phù hợp."
+    },
+    {
+      "step": "Gợi ý nhân bánh",
+      "desc": "Đề xuất nhân xúc xích và phô mai ngon hơn nhân truyền thống.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn thử nhân xúc xích và phô mai."
+    },
+    {
+      "step": "Hướng dẫn làm sốt",
+      "desc": "Hướng dẫn làm sốt tương ớt, tương cà đơn giản, vị Việt Nam.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy dễ làm với nguyên liệu có sẵn."
+    },
+    {
+      "step": "Đảm bảo chất lượng",
+      "desc": "Khẳng định món ăn ngon, nếu không ngon sẽ không đăng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng món ăn."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Nêu cách làm nhanh chóng và thưởng thức món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn làm thử ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "chua chua",
+    "ngọt ngọt",
+    "cay cay",
+    "dẻo dẻo",
+    "dai dai"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nhà bạn có hay ăn món thịt luộc của bánh tráng rau sống đồ không? Thì mình lấy bịch bánh tráng dư ra, cái mình làm liền món này nha, tại vì nó ngon lắm.",
+    "Bạn cố gắng tìm thêm giùm mình xúc xích với phô mai để mình cuộn vào bên trong làm nhân nữa nha. Nó nâng cấp món này lên hẳn luôn á.",
+    "Đây cái phần nước sốt sệt sệt, kẹo kẹo mà gia vị dễ tìm trong bếp nhà ai chắc cũng có."
+  ],
+  "hook_content": "ỉ với một bịch bánh tráng là mình làm được món tóc bốc ki rồi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món tóc bốc ki từ bánh tráng dư với các nguyên liệu dễ kiếm như xúc xích, phô mai và sốt tương ớt, tương cà đơn giản, món ăn này làm nhanh chóng và có hương vị hấp dẫn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

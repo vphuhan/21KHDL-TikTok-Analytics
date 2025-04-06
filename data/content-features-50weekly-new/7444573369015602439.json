@@ -1,0 +1,89 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Chuẩn bị",
+      "desc": "Phi thơm hành tỏi, cho dứa và cà chua vào đảo thơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các bước chuẩn bị."
+    },
+    {
+      "step": "Nấu lẩu",
+      "desc": "Cho nước và gói gia vị lẩu thái Aji-Quick vào.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy tiện lợi và dễ dàng."
+    },
+    {
+      "step": "Thêm topping",
+      "desc": "Cho cua hoàng đế và các đồ nhúng lẩu vào.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy hấp dẫn và thèm thuồng."
+    },
+    {
+      "step": "Pha sốt chấm",
+      "desc": "Pha nước tương Phú Sĩ và sốt mè rang Aji-so.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử công thức sốt chấm."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Thử nước lẩu và các món nhúng, ăn cùng bún.",
+      "impact_level": "3",
+      "viewer_emotion": "Thấy ngon miệng và muốn ăn."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Nhận xét về hương vị và chất lượng của lẩu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Cảm ơn và hẹn gặp lại ở video sau.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người đã xem video của mình, hẹn mọi người video sau. Tạm biệt."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "chua cay tê tê",
+    "ngọt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đúng là sinh ra để dành cho nhau luôn ấy.",
+    "Mùa lạnh thế này mà húp xì sụp cái nước lẩu chua chua cay cay thì đúng bài quá rồi nhở.",
+    "Ui nó ngon mọi người ơi."
+  ],
+  "hook_content": "Ui nó ngon mọi người ơi.",
+  "hook_type": [
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video mukbang lẩu thái cua hoàng đế khổng lồ, người làm giới thiệu cách nấu lẩu nhanh chóng với gói gia vị Aji-Quick, chia sẻ công thức pha sốt chấm và thưởng thức món ăn một cách ngon miệng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

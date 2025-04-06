@@ -1,0 +1,88 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Giới thiệu nguyên liệu nấu món canh tokkuk và cơm nắm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn Hàn Quốc này."
+    },
+    {
+      "step": "Sơ chế xương",
+      "desc": "Ngâm và luộc sơ xương bò để hầm lấy nước dùng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, giống các món hầm khác."
+    },
+    {
+      "step": "Hầm xương",
+      "desc": "Hầm xương bò trong 3-4 tiếng để lấy nước dùng.",
+      "impact_level": "1",
+      "viewer_emotion": "Có vẻ tốn thời gian."
+    },
+    {
+      "step": "Chuẩn bị topping",
+      "desc": "Tách lòng đỏ, lòng trắng trứng và chiên để làm topping.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị với cách trang trí món ăn."
+    },
+    {
+      "step": "Xào thịt bò",
+      "desc": "Xào thịt bò với dầu mè và gia vị cho thơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm mùi thơm của thịt bò xào."
+    },
+    {
+      "step": "Nấu canh",
+      "desc": "Cho bánh gạo và thịt bò xào vào nước dùng hầm.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ món canh hoàn thành."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Trang trí và ăn canh tokkuk với cơm rong biển.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn thử ngay món ăn này."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nếu như bạn nào muốn mua á nhắn qua Anna Nguyễn nhà Miho Shop giùm mình nha chứ mình không có bán."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngon dữ luôn",
+    "ngon quá"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ý nghĩa của cái món canh tót này á là nó tượng trưng cho may mắn, sức khỏe trong năm mới á mọi người.",
+    "Rong biển canxi nâu nguyên chất được lấy từ vùng biển sâu hàm lượng gấp sáu lần rong biển bình thường, và còn được tẩm ướt tinh chất Titu, bột hồng sâm tăng cường sức đề kháng và bồi bổ sức khỏe, muối được tẩm ướt vào rong biển canxi là muối hữu cơ từ New Zealand trải qua quy trình kiểm định bảy bước luôn á.",
+    "Đặc biệt được nướng tận hai lần ở nhiệt độ 200 độ bởi vì nó giòn rụm rụm luôn."
+  ],
+  "hook_content": "Hôm nay mình sẽ lấy cái mối xương bò này để hầm, lấy nước xong rồi nấu canh tógúc ăn nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn nấu món canh tokkuk của Hàn Quốc ăn kèm cơm rong biển, chia sẻ về ý nghĩa may mắn của món ăn này và giới thiệu địa chỉ mua rong biển.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Mời mọi người cùng ăn ốc bươu luộc sả chấm mắm gừng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Miêu tả nguyên liệu",
+      "desc": "Chia sẻ về loại ốc bươu và cách sơ chế sạch sẽ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhấn mạnh độ giòn của ốc lát và cảm giác nóng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "giòn",
+    "khủng khiếp",
+    "nóng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ốc bươu luộc khủng long",
+    "Con ốc mà cái đít nó bằng là con ốc lát nha mọi người.",
+    "Tiếng ốc lát nó giòn hơn."
+  ],
+  "hook_content": "Khủng khiếp.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video mukbang ăn ốc bươu luộc sả chấm mắm gừng, tập trung vào trải nghiệm ăn và miêu tả hương vị giòn ngon của ốc lát.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

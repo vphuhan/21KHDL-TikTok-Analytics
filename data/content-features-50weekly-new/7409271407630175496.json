@@ -1,0 +1,96 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu mở đầu",
+      "desc": "Kể về việc bị nhận xét về tuổi tác và tự động viên bản thân.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị khi người kể chuyện hài hước."
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu thực đơn cơm nhà ba món: tôm chiên giòn, salad, canh chua.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, chỉ là giới thiệu món ăn."
+    },
+    {
+      "step": "Sơ chế và tẩm bột tôm",
+      "desc": "Chia sẻ bí quyết làm tôm thẳng và cách tẩm bột chiên giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự tỉ mỉ và khéo léo."
+    },
+    {
+      "step": "Chiên tôm",
+      "desc": "Thực hiện chiên tôm và chia sẻ kinh nghiệm để tôm không bị cong.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về kết quả chiên tôm."
+    },
+    {
+      "step": "Hoàn thiện và bày trí",
+      "desc": "Trình bày cách hoàn thiện món salad và bày trí mâm cơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với cách bày trí đẹp mắt."
+    },
+    {
+      "step": "Đánh giá và chia sẻ",
+      "desc": "Đánh giá mâm cơm và chia sẻ cảm xúc khi ăn đồ chiên.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với việc ăn đồ chiên dễ ngán."
+    },
+    {
+      "step": "Kết luận hài hước",
+      "desc": "Kết thúc bằng lời than thở hài hước về việc bị chê già.",
+      "impact_level": "3",
+      "viewer_emotion": "Vui vẻ và đồng cảm với nỗi lòng của người kể."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Thôi mình lại tiếp tục ăn đây, nghe bảo là được ăn ngon là sẽ trẻ mãi không già đấy."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "khó chịu",
+    "mơ mộng",
+    "thông thái",
+    "tự tin",
+    "điêu luyện",
+    "thơm",
+    "ngon",
+    "ngán",
+    "xinh gái",
+    "đau"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nhưng mà dẫu cái độ trẻ trung mình còn nhiều hạn chế chứ khoản bếp núc là cũng vô cùng xông xáo và điêu luyện đấy.",
+    "Mà thường mấy cái đồ chiên này ăn một hai miếng là thấy ngán rồi, nhưng mà tôm chiên với cái bột Ajiquick này là bao nhiêu cũng hết nha.",
+    "Không hết nấu đồ ăn ra là phải ngồi ăn cùng với người trẻ hơn mình nó mới đau chứ."
+  ],
+  "hook_content": "Hồi trước hễ người ta bảo là trông già hơn bạn này, bạn kia là khó chịu vô cùng.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ về thực đơn cơm nhà ba món, trong đó món chính là tôm chiên giòn sử dụng bột Ajiquick. Người nấu vừa chia sẻ kinh nghiệm nấu ăn, vừa hài hước kể về những lời nhận xét về tuổi tác.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

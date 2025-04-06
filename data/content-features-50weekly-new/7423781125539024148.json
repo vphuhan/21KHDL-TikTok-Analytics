@@ -1,0 +1,90 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu hoạt động cuối tuần",
+      "desc": "Giới thiệu về việc đi hái hạt dẻ và các hoạt động khác.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Tìm kiếm hạt dẻ trên núi",
+      "desc": "Hai vợ chồng đi tìm hạt dẻ trên núi nhưng không có.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Mua hạt dẻ và nguyên liệu",
+      "desc": "Mua hạt dẻ và các nguyên liệu khác để nấu ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Sơ chế và chuẩn bị các nguyên liệu cho món gà hầm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Hầm gà",
+      "desc": "Hầm gà với hạt dẻ và các nguyên liệu khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Nướng hạt dẻ",
+      "desc": "Trong lúc hầm gà thì ăn hạt dẻ nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Mời mọi người cùng ăn món gà hầm hạt dẻ.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấm áp"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "bạn nào muốn mua thì qua bên kênh phụ giùm mình nha"
+  ],
+  "cta_type": [
+    "Truy cập trang cá nhân"
+  ],
+  "emotion_keywords": [
+    "Sướng",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nhét xong nhìn cái bụng con gà tự nhiên no nóc luôn trời.",
+    "Mọi người đừng có hỏi sao là mình nấu ít nha tại vì nhà mình cũng ăn ít đó mọi người.",
+    "Trời ơi. Sướng cái nảo luôn."
+  ],
+  "hook_content": "Thứ bảy rồi mà mình còn kêu tụi Hon thức dậy lúc 6:00 sáng này đâu phải tại mẹ nhà tụi Hon, tại trường con á, đi chơi về mà lúc 8:00, thường không đi chơi, đi học thức dậy giờ này là ăn cọc rồi đó mọi người.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình hai vợ chồng đi hái hạt dẻ trên núi, sau đó mua thêm nguyên liệu để nấu món gà hầm hạt dẻ và mời mọi người cùng ăn. Món ăn được nấu vào một ngày lạnh trời.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

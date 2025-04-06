@@ -1,0 +1,83 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người ăn chay, ăn healthy"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món đậu hũ mắm tỏi và gợi ý làm món chay.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách chế biến món đậu hũ."
+    },
+    {
+      "step": "Chiên đậu hũ",
+      "desc": "Hướng dẫn chiên đậu hũ với nước đá để đậu thơm béo.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú với mẹo chiên đậu độc đáo."
+    },
+    {
+      "step": "Giải thích",
+      "desc": "Giải thích về việc sử dụng nước mắm chay và ngũ vị tân.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy được giải đáp thắc mắc."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Nhắc cắt đậu hũ và chuẩn bị nước đá để chiên.",
+      "impact_level": "2",
+      "viewer_emotion": "Sẵn sàng chuẩn bị nguyên liệu."
+    },
+    {
+      "step": "Chiên lần 2",
+      "desc": "Chiên đậu hũ hai lần để đạt độ giòn và không bị nổ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy rõ được kỹ thuật chiên đậu."
+    },
+    {
+      "step": "Làm mắm tỏi",
+      "desc": "Phi tỏi và làm mắm tỏi chay, thêm hành lá.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi mùi thơm của tỏi phi."
+    },
+    {
+      "step": "Hoàn thành",
+      "desc": "Trộn đậu hũ với mắm tỏi và giới thiệu thành phẩm.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn thử ngay món đậu hũ mắm tỏi."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "béo",
+    "vui"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đậu hũ của mình á ăn nó vừa thơm mà nó vừa béo nữa mấy anh mấy chị.",
+    "30.000 là cả gia đình ăn vô tư hết ba nồi cơm luôn."
+  ],
+  "hook_content": "hôm nay ăn chay mà mấy anh mấy chị có đầu hũ á, đừng có đem đi chiên với sả nữa mà thử đem đi làm mắm tỏi đi, ăn ngon lắm.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món đậu hũ mắm tỏi chay mặn đều dùng được, với mẹo chiên đậu hũ bằng nước đá để đậu thơm béo. Món ăn này có giá thành rẻ, phù hợp cho cả gia đình.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

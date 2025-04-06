@@ -1,0 +1,62 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu phô mai burata và cách ăn kèm với sữa đặc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị."
+    },
+    {
+      "step": "Đánh giá sản phẩm",
+      "desc": "Nhận xét về độ béo, ngon và không mặn của phô mai.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với mô tả."
+    },
+    {
+      "step": "Gợi ý kết hợp",
+      "desc": "Gợi ý ăn phô mai với sữa đặc hoặc salad.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Kết thúc video",
+      "desc": "Chào tạm biệt và hẹn gặp lại ở video sau.",
+      "impact_level": "1",
+      "viewer_emotion": "Không có cảm xúc đặc biệt."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "béo",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Siêu siêu béo với ngon luôn."
+  ],
+  "hook_content": "Hôm nay mình có phô mai burata mọi người. Mình sẽ ăn kèm với sữa đặc.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang phô mai burata ăn kèm sữa đặc. Người nói đánh giá phô mai béo, ngon và gợi ý ăn kèm salad.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

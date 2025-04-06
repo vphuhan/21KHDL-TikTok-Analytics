@@ -1,0 +1,71 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu kem sấy giòn và kẹo sấy giòn từ một thương hiệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm mới lạ."
+    },
+    {
+      "step": "Trải nghiệm kem sấy giòn",
+      "desc": "Mô tả mùi vị và cảm giác khi ăn kem sấy giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự khác biệt."
+    },
+    {
+      "step": "Trải nghiệm kẹo sấy giòn",
+      "desc": "Nhận xét về độ ngọt và cấu trúc của kẹo.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng về độ nhẹ và hương vị."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Đưa ra đánh giá về sản phẩm và gợi ý có nên thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Cân nhắc về việc mua sản phẩm."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "tò mò",
+    "thơm",
+    "ngọt",
+    "lạ",
+    "thử",
+    "thoải mái"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "kem mà sấy được thì sau này nước họ có sấy được giòn không nhở?",
+    "sấy giòn không khí xong rồi nhai rột rột cả không khí không nhở?",
+    "Cá nhân mình thấy đây là một cái món nó rất là lạ luôn ấy."
+  ],
+  "hook_content": "Không biết là mình có tối cổ không, nhưng bây giờ mình mới biết là có món kem sấy giòn ạ.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review kem và kẹo sấy giòn, tập trung mô tả trải nghiệm ăn uống và đánh giá hương vị, độ lạ của sản phẩm. Người nói đưa ra nhận xét cá nhân và gợi ý có nên thử hay không.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

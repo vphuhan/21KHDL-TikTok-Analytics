@@ -1,0 +1,92 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món gà nguyên con mua gần nhà và bày tỏ sự hứng thú.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Đánh giá ngoại hình",
+      "desc": "Nhận xét về lớp bột bên ngoài gà, cảm thấy không hấp dẫn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thử món ăn",
+      "desc": "Nếm thử gà và nước chấm, nhận xét về độ mềm và vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Đánh giá phần thịt, độ ẩm và sự chuyên nghiệp của món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "Ăn kèm cơm",
+      "desc": "Thử ăn gà kèm cơm và so sánh phần có bột và không bột.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Ăn phần ức gà",
+      "desc": "Thử phần ức gà và đánh giá độ ngon, mềm và mọng nước.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Đánh giá tổng quan",
+      "desc": "Đánh giá cuối cùng về món ăn và trải nghiệm cá nhân.",
+      "impact_level": "2",
+      "viewer_emotion": "Suy ngẫm"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "chán",
+    "không ngon",
+    "mềm",
+    "mọng",
+    "ngon",
+    "hơi ngại",
+    "xấu",
+    "thích",
+    "ngán",
+    "nhói đau"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mình nhìn mình đã thấy không ngon rồi đấy.",
+    "Nếu mọi người hỏi mình là có bột hay không bột ngon hơn thì mình xin trả lời là đùi ngon hơn.",
+    "Mua gà này về để đãi khách ấy thì cũng hơi ngại bởi vì nhìn nó hơi xấu."
+  ],
+  "hook_content": "Chán không muốn nói luôn này.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món gà nguyên con mua gần nhà, tập trung vào đánh giá hương vị, độ mềm, và hình thức của món ăn. Người nói chia sẻ trải nghiệm cá nhân và đưa ra nhận xét về các phần khác nhau của con gà.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

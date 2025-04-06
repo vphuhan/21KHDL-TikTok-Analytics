@@ -1,0 +1,79 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người ăn chay, ăn healthy",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món đậu hũ kho nấm rơm quen thuộc ở quán chay.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách làm món ăn này."
+    },
+    {
+      "step": "Thông báo đặc biệt",
+      "desc": "Thông báo sắp hết tháng chay và cảm ơn người xem.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy video khá gần gũi."
+    },
+    {
+      "step": "Bí quyết chiên đậu",
+      "desc": "Chia sẻ bí quyết chiên đậu hũ giòn và không bị bắn dầu.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú với mẹo chiên đậu hữu ích."
+    },
+    {
+      "step": "Xào nấm",
+      "desc": "Hướng dẫn xào nấm rơm cho săn lại rồi trút đậu hũ vào.",
+      "impact_level": "2",
+      "viewer_emotion": "Hóng chờ các bước tiếp theo."
+    },
+    {
+      "step": "Nêm nếm",
+      "desc": "Nêm gia vị và kho đậu hũ đến khi kẹo lại.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đói bụng."
+    },
+    {
+      "step": "Hoàn thành",
+      "desc": "Thêm tiêu, hành lá, ngò và thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn làm ngay món này để ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngọt",
+    "béo",
+    "thấm sốt",
+    "siêu ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mấy bà cứ tưởng tượng đi cái phần nấm rơm nó ngọt ngọt, mấy ông mấy bà cắn một cái bụp vô đó, cái phần đậu hũ ở bên trong nó béo béo, nó thấm sốt một cái.",
+    "Nói ăn một cái là hết ba nồi cơm nha mấy ông mấy bà.",
+    "Một cái tips để chiên đậu hũ giòn nữa lấy một cái củ gừng vậy nè mấy ông mấy bà chà chà chà chà cái chảo rồi hẳn cho dầu vô."
+  ],
+  "hook_content": "thấy nha cái món đậu hũ kho nấm rơm này nè, đi cái quán chay nào hay thấy cũng có từ nhà hàng sang trọng hay là những cái quán ăn bình dân đều có cái món này.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm món đậu hũ kho nấm rơm chay đơn giản, món ăn quen thuộc ở các quán chay. Chia sẻ bí quyết để chiên đậu hũ được giòn và ngon hơn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu bánh tráng muối vô tri và trải nghiệm đã mua lại.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm."
+    },
+    {
+      "step": "Thông tin giá cả",
+      "desc": "Giá cả của set bánh tráng có hoặc không có sa tế.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích."
+    },
+    {
+      "step": "Mô tả thành phần",
+      "desc": "Các thành phần có trong mỗi bịch bánh tráng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn và đầy đủ."
+    },
+    {
+      "step": "Trộn bánh tráng",
+      "desc": "Trộn tất cả các nguyên liệu và chia sẻ kinh nghiệm.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhấn mạnh hương vị ngon và cuốn hút của bánh tráng.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn mua ăn thử."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ê ai lười á đổ hết năm bịch ra trộn giống tôi đi, trộn lợn xong rồi chiết vô từng cái bịch nhỏ để dành ăn từ từ."
+  ],
+  "cta_type": [
+    "Lưu video",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngon đỉnh",
+    "siêu ngon",
+    "thơm",
+    "cuốn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái bánh tráng muối vô tri này nó ngon đỉnh thiệt sự luôn.",
+    "Mà cái bánh tráng muối vô tri này nó tên là vô tri chứ nó không hề vô tri chút nào luôn.",
+    "Nhìn cái nồi bánh tráng là bắt đầu cái nách nó giựt giựt liền."
+  ],
+  "hook_content": "Cái bánh tráng muối vô tri này nó ngon đỉnh thiệt sự luôn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review bánh tráng muối vô tri, từ giới thiệu sản phẩm, giá cả, thành phần đến cách trộn và đánh giá hương vị. Người bán review rất cuốn hút và đánh giá cao sản phẩm này.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

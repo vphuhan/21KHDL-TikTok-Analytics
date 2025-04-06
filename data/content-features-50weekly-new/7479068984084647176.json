@@ -1,0 +1,82 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món kim chi hành lá ăn cùng lòng nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Hướng dẫn chuẩn bị hành lá, củ hành, cơm trắng, nước.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy dễ làm theo"
+    },
+    {
+      "step": "Xay hỗn hợp",
+      "desc": "Cho hành, cơm, nước, gừng, nước mơ ngâm vào xay.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Ướp hành lá",
+      "desc": "Cho hành lá vào hỗn hợp đã xay để muối.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Nướng lòng",
+      "desc": "Chuẩn bị nướng lòng và làm cơm trộn.",
+      "impact_level": "2",
+      "viewer_emotion": "Đói bụng"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Mời mọi người cùng ăn lòng nướng và kim chi hành.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn ăn cùng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Mời người ăn chung cả nhà mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ấm áp",
+    "ngon",
+    "béo"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cách làm kim chi hành này dễ lắm mọi người, bởi vì nhà mình hay làm ít ít ăn xong làm tiếp.",
+    "Ở bên hàng lòng mắc mọi người, một hộp nhỏ này á mình mua 14.000 won vậy là khoảng hai trăm mấy tiền Việt mình á, nhưng mà ngon béo lắm.",
+    "Dạ, lại đã có gia vị sẵn rồi, không có cần đè chín. Mà mình đem đi nướng lên ăn cũng ngon lắm luôn á."
+  ],
+  "hook_content": "nhà mình có tuyết rơi nè mọi người. Thấy dự kiến đâu á là chỗ khác ghê còn nhiều dày hơn nữa. Lạnh lắm luôn á, nhưng mà cái đó là ở ngoài trời thôi, còn ở trong nhà mình thấy cảnh này là ấm liền nè.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm kim chi hành lá đơn giản để ăn kèm với lòng nướng trong thời tiết lạnh. Video cũng chia sẻ về giá cả của lòng nướng ở Hàn Quốc và mời mọi người cùng thưởng thức.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

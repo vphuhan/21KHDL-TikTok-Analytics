@@ -1,0 +1,92 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu bạch tuộc ngâm tương và lý do món ăn được yêu thích.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Chia sẻ về việc tìm mua bạch tuộc sống khó khăn và nguyên liệu làm.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin về nguyên liệu."
+    },
+    {
+      "step": "Pha nước tương",
+      "desc": "Hướng dẫn pha nước tương chua cay và các gia vị kèm theo.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú với công thức."
+    },
+    {
+      "step": "Trộn bạch tuộc",
+      "desc": "Trộn bạch tuộc đã sơ chế với nước tương và các nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Bắt đầu ăn và miêu tả hương vị của món bạch tuộc ngâm tương.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn ăn thử ngay."
+    },
+    {
+      "step": "Lưu ý khi ăn",
+      "desc": "Đưa ra lời khuyên và cảnh báo khi ăn bạch tuộc sống.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảnh giác và ghi nhớ."
+    },
+    {
+      "step": "Gợi ý thay thế",
+      "desc": "Gợi ý lựa chọn thay thế cho những người không ăn được đồ sống.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết thêm lựa chọn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người thử nha."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "chua chua",
+    "cay cay",
+    "giòn giòn",
+    "đã",
+    "ổn áp"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái này mà ăn với bún nữa là nhức cái nách nha mọi người.",
+    "Tương thì chua chua cay cay, có thêm dưa leo nữa ăn giòn giòn rất là đã luôn.",
+    "Món này mọi người sơ chế xong rồi ăn liền luôn."
+  ],
+  "hook_content": "Chào mọi người. Phải ăn bạch tuộc ngâm tương nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video giới thiệu món bạch tuộc ngâm tương chua cay, cách làm đơn giản và cảm nhận hương vị. Người nói cũng đưa ra các lưu ý khi ăn đồ sống và gợi ý thay thế.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

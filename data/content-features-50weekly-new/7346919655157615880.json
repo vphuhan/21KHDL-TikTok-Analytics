@@ -1,0 +1,64 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Mời khán giả ăn gà rán cùng và giới thiệu món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy đói và tò mò về hương vị."
+    },
+    {
+      "step": "Ăn và miêu tả",
+      "desc": "Bắt đầu ăn đùi gà, chấm tương ớt, tương cà và khen ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng và thích thú."
+    },
+    {
+      "step": "Ăn kèm và miêu tả",
+      "desc": "Ăn kèm xà lách, tiếp tục khen ngon và tận hưởng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy ngon miệng và muốn thử."
+    },
+    {
+      "step": "Ăn cánh gà",
+      "desc": "Tiếp tục ăn cánh gà và ăn kèm xà lách Chubby.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn và muốn ăn cùng."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngon ghê"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nhìn nó ngon ghê chưa mọi người",
+    "Ngon ghê luôn á mọi người ơi"
+  ],
+  "hook_content": "Mời mọi người ăn cùng Út nhen. Hôm nay Út sẽ ăn gà rán nhen.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video là một buổi mukbang gà rán, trong đó người quay vừa ăn vừa trò chuyện, thể hiện sự ngon miệng và mời người xem ăn cùng. Út Phụng Kim review món gà rán kèm các loại tương và xà lách.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu cá thu ngâm dầu của Nga và lý do mua.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm"
+    },
+    {
+      "step": "Cắt và quan sát",
+      "desc": "Cắt cá và nhận xét về độ bở, da dễ bong tróc.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên, nghi ngờ"
+    },
+    {
+      "step": "Ăn thử và đánh giá",
+      "desc": "Ăn thử cá và so sánh với trải nghiệm trước.",
+      "impact_level": "2",
+      "viewer_emotion": "Thắc mắc, bối rối"
+    },
+    {
+      "step": "Nhận xét thêm",
+      "desc": "Cá đã chín, không giống loại đang tìm, bao bì giống.",
+      "impact_level": "2",
+      "viewer_emotion": "Hoang mang, thất vọng"
+    },
+    {
+      "step": "Giải thích và liên hệ",
+      "desc": "Xem lại đơn hàng và liên hệ shop để làm rõ.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người đã xem video của mình, hẹn mọi người video sau. Tạm biệt."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "tanh",
+    "ngon",
+    "đơn giản"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Sao cá thu ngâm dầu của Nga này nó lạ lắm",
+    "Mình thấy nó giống cá hấp cá kho. Ăn nó thế này luôn mọi người ạ. Kiểu nó được làm chín còn rồi ấy.",
+    "Vì mình ăn được tanh nên là cái cá làm chín kiểu này thì với mình thì rất đơn giản luôn ý."
+  ],
+  "hook_content": "Hôm nay mình có cá thu ngâm dầu của Nga mọi người ạ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review cá thu ngâm dầu của Nga, người nói thử ăn và thấy sản phẩm khác với những gì mong đợi, giống cá hấp hơn là cá ngâm dầu thông thường. Cuối video, người nói dự định liên hệ với shop để làm rõ vấn đề.",
+  "tone_of_voice": [
+    "Ngạc nhiên",
+    "Thân thiện"
+  ]
+}

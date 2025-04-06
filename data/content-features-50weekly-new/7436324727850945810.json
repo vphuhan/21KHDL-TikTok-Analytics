@@ -1,0 +1,95 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bò tái chanh và so sánh với bò cháy tỏi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Chọn và sơ chế bò",
+      "desc": "Hướng dẫn chọn thịt bò fillet và cách sơ chế, cắt lát mỏng.",
+      "impact_level": "2",
+      "viewer_emotion": "Học được mẹo hay."
+    },
+    {
+      "step": "Ướp bò",
+      "desc": "Hướng dẫn ướp thịt bò với nước cốt chanh và bảo quản.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Hướng dẫn chuẩn bị các nguyên liệu ăn kèm như khế, rau, củ.",
+      "impact_level": "1",
+      "viewer_emotion": "Không có gì đặc biệt."
+    },
+    {
+      "step": "Pha nước mắm trộn",
+      "desc": "Hướng dẫn pha nước mắm trộn gỏi theo tỉ lệ nhất định.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy công thức hấp dẫn."
+    },
+    {
+      "step": "Trộn gỏi",
+      "desc": "Hướng dẫn trộn các nguyên liệu và trình bày món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Thưởng thức và nhận xét",
+      "desc": "Thưởng thức món ăn và đưa ra đánh giá về hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn ăn thử ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "nên nếu chiều nay mà chưa biết ăn cái gì á thì mấy chị tham khảo thử cái món này nhen."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "mềm",
+    "chua chua",
+    "cay cay",
+    "ngon nhất cái nách",
+    "thơm đậm",
+    "vị dịu tự nhiên",
+    "đã",
+    "chảy nước miếng",
+    "nhức cái nách"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trời ơi! Cái miếng bò nó mềm mà chua chua, cay cay, ăn với bánh phồng tôm là tao nói ngon nhất cái nách luôn á.",
+    "Ngon hay dở thành hay bại là ở cái bước này nè.",
+    "Cái bò tái chanh này mà ăn kèm với lại cái bánh phồng tôm là tao nói nhức cái nách luôn"
+  ],
+  "hook_content": "Quên bò cháy tỏi đi, bữa nay mấy chị thử cái món bò tái chanh theo cái cách này nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm món bò tái chanh đơn giản tại nhà, từ khâu chuẩn bị nguyên liệu đến cách pha nước mắm trộn gỏi, và gợi ý ăn kèm với bánh phồng tôm để tăng thêm hương vị.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

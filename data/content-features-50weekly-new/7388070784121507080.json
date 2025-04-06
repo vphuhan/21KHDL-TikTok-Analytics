@@ -1,0 +1,71 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Vivi giới thiệu món mực nháy mới vớt ngoài biển lên.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Mô tả món ăn",
+      "desc": "Mô tả mực còn tươi, đang nháy và mời mọi người cùng ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Chấm mực với sốt mắm nhĩ và cảm nhận hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhấn mạnh độ giòn, ngọt và sự tươi ngon của mực.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mời mọi người ăn cùng Vivi nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "giòn",
+    "ngọt",
+    "siêu ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ngon nhất cái nách các bạn ơi",
+    "Mực nó ngọt Vi không diễn tả được luôn á",
+    "Ăn sống được ăn kiểu này siêu ngon luôn mọi người"
+  ],
+  "hook_content": "Hello mọi người, hôm nay Vivi sẽ ăn mực nháy nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video ghi lại cảnh Vivi ăn mukbang mực nháy mới vớt từ biển, chấm cùng mắm nhĩ, và cảm nhận vị tươi ngon của món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

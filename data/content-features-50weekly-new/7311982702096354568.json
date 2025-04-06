@@ -1,0 +1,93 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu bằng thử thách",
+      "desc": "Chủ quán tự tin khẳng định chất lượng đồ ăn tươi ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ tươi ngon của nguyên liệu."
+    },
+    {
+      "step": "Giới thiệu quán buffet giá rẻ",
+      "desc": "Nhấn mạnh sự hấp dẫn của buffet bánh gối 59k.",
+      "impact_level": "3",
+      "viewer_emotion": "Ngạc nhiên vì mức giá quá rẻ."
+    },
+    {
+      "step": "Tương tác hài hước",
+      "desc": "Trêu chọc khách hàng sợ béo nhưng vẫn thèm ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với màn tương tác tự nhiên."
+    },
+    {
+      "step": "Khẳng định chất lượng",
+      "desc": "Chủ quán tiết lộ sự quen thuộc và chất lượng bánh gối.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng hơn vào chất lượng món ăn."
+    },
+    {
+      "step": "Giới thiệu các vị bánh",
+      "desc": "Gợi ý ba vị bánh gối đặc biệt nên thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử ngay cả ba vị bánh gối."
+    },
+    {
+      "step": "Giải thích lý do bán buffet",
+      "desc": "Chia sẻ lý do bán buffet để hỗ trợ khách hàng.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thông cảm và thấu hiểu."
+    },
+    {
+      "step": "Thông tin địa điểm",
+      "desc": "Cung cấp địa chỉ quán bánh gối chi tiết.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết được địa chỉ để ghé thăm."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "hấp dẫn",
+    "ngon",
+    "yên tâm",
+    "thoải mái"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nếu mà anh phát hiện ở trong cái bánh này có đồ gì đông lạnh ấy, ngày mai em đóng cửa quán luôn.",
+    "Bánh gối nem rán cho đến chân gà xào tắc hấp dẫn thế này mà còn sợ béo không dám ăn.",
+    "Cứ mà trước giờ quán chỉ bán gọi món năm nay kinh tế khó khăn nên em quyết định bán thêm buffet vào thứ ba và thứ năm để cho mọi người được ăn thoải mái một chút mà không phải lo về giá."
+  ],
+  "hook_content": "Nếu mà anh phát hiện ở trong cái bánh này có đồ gì đông lạnh ấy, ngày mai em đóng cửa quán luôn.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video giới thiệu quán buffet bánh gối giá rẻ với nhiều món ăn kèm hấp dẫn. Chủ quán tự tin cam kết chất lượng và chia sẻ câu chuyện kinh doanh.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

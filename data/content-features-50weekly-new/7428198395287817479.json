@@ -1,0 +1,81 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu về sô cô la của chị Hằng Du Mục, nói về lần mua trước.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm."
+    },
+    {
+      "step": "Quá trình mở hộp",
+      "desc": "Mở hộp sô cô la mới nhận, thể hiện sự chỉn chu trong đóng gói.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với bao bì."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nếm thử sô cô la và mô tả hương vị, độ ngọt, cảm giác.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng."
+    },
+    {
+      "step": "Gợi ý cách ăn",
+      "desc": "Gợi ý ăn sô cô la với trái cây và bảo quản trong tủ lạnh.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử cách ăn mới."
+    },
+    {
+      "step": "So sánh và khẳng định",
+      "desc": "So sánh với loại sô cô la khác, khẳng định không bị gắt cổ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng."
+    },
+    {
+      "step": "Lời khuyên và cảm nhận",
+      "desc": "Khuyên nên thử, nhấn mạnh độ ngon và cảm giác dẻo, quyện.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thuyết phục."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "ngon",
+    "vừa ngọt",
+    "dẻo",
+    "quyện",
+    "hài hòa"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Kiểu cái vị nào nó cũng không ngắt ấy.",
+    "Cảm giác nhai nó dẻo, nó quyện.",
+    "Đắng với cả vị đắng với cả vị ngọt hài hòa nữa."
+  ],
+  "hook_content": "Hôm nay mình lại có sôcola của chị Hằng Dumo mọi người ạ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review sô cô la của chị Hằng Du Mục, tập trung vào hương vị, cảm giác khi ăn và so sánh với các loại sô cô la khác. Người nói đánh giá cao sản phẩm và khuyên mọi người nên thử.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

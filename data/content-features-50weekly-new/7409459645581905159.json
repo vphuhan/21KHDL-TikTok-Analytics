@@ -1,0 +1,52 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Gọi",
+      "desc": "Người nói hỏi người yêu đã đến chưa để chuẩn bị món ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Nghe nhạc",
+      "desc": "Người nói hát một đoạn nhạc không liên quan đến ẩm thực.",
+      "impact_level": "1",
+      "viewer_emotion": "Buồn cười"
+    },
+    {
+      "step": "Lặp lại",
+      "desc": "Người nói lặp lại một số từ như 'sợ', 'why', 'goodbye'.",
+      "impact_level": "1",
+      "viewer_emotion": "Khó hiểu"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [],
+  "has_cta": "false",
+  "highlight_phrases": [],
+  "hook_content": "Baby hả? Anh tới chưa? Anh tới rồi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Kịch hóa"
+  ],
+  "summarization": "Video ghi lại cảnh một người đang nấu ăn và hát một bài hát không liên quan. Món ăn được nhắc đến là bò tái chanh.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

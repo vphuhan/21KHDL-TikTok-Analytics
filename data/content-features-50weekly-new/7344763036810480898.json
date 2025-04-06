@@ -1,0 +1,88 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về việc mua mì cay nhất thế giới để ăn thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ cay của mì."
+    },
+    {
+      "step": "Miêu tả sản phẩm",
+      "desc": "Miêu tả bao bì và so sánh với mì cay Samyang.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự khác biệt."
+    },
+    {
+      "step": "Chuẩn bị",
+      "desc": "Luộc và trộn mì với gói sốt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, chờ đợi."
+    },
+    {
+      "step": "Nếm thử",
+      "desc": "Ăn thử miếng đầu tiên và cảm nhận độ cay.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ và sốc."
+    },
+    {
+      "step": "Đánh giá độ cay",
+      "desc": "Cố gắng ăn thêm và miêu tả cảm giác tê dại.",
+      "impact_level": "2",
+      "viewer_emotion": "Khâm phục sự chịu đựng."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Từ bỏ và đánh giá độ cay không thể chịu nổi.",
+      "impact_level": "3",
+      "viewer_emotion": "Đồng cảm với người review."
+    },
+    {
+      "step": "Thông tin sản phẩm",
+      "desc": "Cung cấp tên và bao bì sản phẩm để người xem mua.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử thách bản thân."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "cay",
+    "tê",
+    "sốc",
+    "dại"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cái mì này ấy, mình thấy ăn miếng đầu tiên là đã cay sốc luôn rồi.",
+    "Sau khi mà ăn xong cái miếng đầu tiên ấy thì cái miệng của mình nó tê dần dần luôn.",
+    "Cái mì Samyang con gà lần trước mình vẫn còn ăn hết được một gói nha. Nhưng mà cái mì này thì đúng mình chịu rồi."
+  ],
+  "hook_content": "Hôm trước mình thấy một shop giới thiệu rằng đây là mì cay nhất thế giới, cho nên là mình mua ăn xem sao.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review mì cay nhất thế giới, người review đã thử và thấy nó cay hơn nhiều so với mì Samyang, đến mức không thể ăn hết. Video cung cấp thông tin về sản phẩm cho những ai muốn thử thách bản thân.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Ngạc nhiên",
+    "Chân thành"
+  ]
+}

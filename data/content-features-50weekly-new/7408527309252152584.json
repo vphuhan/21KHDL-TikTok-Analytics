@@ -1,0 +1,93 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về việc con đi học lại và món gà hầm sâm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị khi thấy cuộc sống gia đình ở Hàn."
+    },
+    {
+      "step": "Đi chợ",
+      "desc": "Đi chợ mua nguyên liệu và nhớ về chợ Việt Nam.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, nhớ về quê hương."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Sơ chế sâm, gà và các nguyên liệu khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách chế biến món ăn."
+    },
+    {
+      "step": "Nấu gà hầm sâm",
+      "desc": "Hướng dẫn các bước hầm gà với bạch tuộc và bào ngư.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú với công thức đặc biệt."
+    },
+    {
+      "step": "Chờ đợi",
+      "desc": "Cả nhà chơi đùa trong lúc chờ gà hầm chín.",
+      "impact_level": "1",
+      "viewer_emotion": "Ấm áp, cảnh gia đình vui vẻ."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Gà hầm sâm chín và cả nhà cùng ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng món ăn."
+    },
+    {
+      "step": "Nhận xét",
+      "desc": "Các thành viên trong gia đình nhận xét về món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ khi thấy mọi người thích món ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "làm biếng",
+    "nhớ",
+    "yêu",
+    "ăn no ngủ kỹ",
+    "giải nhiệt",
+    "thơm",
+    "ngon",
+    "thương"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Gà hầm sâm bữa nay á thì mình sẽ làm một nồi siêu đặc biệt luôn, có bạch tuộc bào ngư nữa.",
+    "Sâm này ngoài nấu á thì mình cũng có thể ngâm với mật ong để làm trà uống, tăng cường sức đề kháng.",
+    "Đi chợ này nhớ chợ Việt Nam ghê luôn á."
+  ],
+  "hook_content": "Đây là ngày đầu tiên tui cho nhà mình đi học lại mà ảnh làm biếng quá trời luôn rồi.",
+  "hook_type": [
+    "Kể chuyện",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video ghi lại cảnh gia đình người Việt ở Hàn Quốc nấu và thưởng thức món gà hầm sâm giải nhiệt. Món ăn có nguyên liệu đặc biệt như bạch tuộc và bào ngư, được nấu theo công thức riêng của gia đình.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hài hước"
+  ]
+}

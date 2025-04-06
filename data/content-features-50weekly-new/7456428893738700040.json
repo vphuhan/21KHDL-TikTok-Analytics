@@ -1,0 +1,70 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán sủi cảo của ông chú người bông và món ăn",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán ăn"
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Đánh giá chi tiết các món ăn như mì khô, sủi cảo chiên",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn thử"
+    },
+    {
+      "step": "Nhận xét chung",
+      "desc": "Đánh giá tổng quan về quán, dịch vụ và chất lượng món",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "clip thích rồi bye bye mấy bạn"
+  ],
+  "cta_type": [
+    "Thích video",
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "béo ngậy",
+    "vừa ăn",
+    "hòa quyện",
+    "thơm",
+    "vừa miệng",
+    "thân thiện",
+    "thích"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "trứng muối dẻo nghẹo, béo ngậy, trứng muối mặn vừa ăn với mì rất là hòa quyện luôn",
+    "vỏ sủi cảo dày vừa, ăn rất là giòn luôn, nhưng bên trong đầy ắp, đạn hồi có con tôm bên trong nữa",
+    "Vị thanh ngọt, đã nha. Phần thịt mềm, mọng nước, cảm nhận rõ được của từng xớ thịt được kéo ra"
+  ],
+  "hook_content": "mấy bạn, múc ban cùng chú gấu. Hôm nay dắt mấy bạn đi ăn mì sủi cảo Kaolao của ông chú người bông",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quán sủi cảo của ông chú người bông, tập trung vào các món mì sủi cảo, sủi cảo chiên và xíu quách. Người review đánh giá cao hương vị, chất lượng và giá cả của quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

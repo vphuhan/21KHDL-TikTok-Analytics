@@ -1,0 +1,84 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món cá trích ép trứng và giá thành.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Đánh giá ban đầu",
+      "desc": "Bày tỏ sự ngạc nhiên về giá và nghi ngờ về hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Nếm thử và miêu tả",
+      "desc": "Nếm thử với nước tương và miêu tả hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "Phân tích chi tiết",
+      "desc": "Phân tích cấu trúc và các lớp của món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Đánh giá toàn diện",
+      "desc": "Đánh giá độ giòn và vị chua của trứng cá.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Nhận xét cuối cùng",
+      "desc": "Đưa ra kết luận về việc món ăn có đáng thử hay không.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nếu như mọi người có điều kiện thì cũng nên thử một lần nhá, đáng để trải nghiệm đấy."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "đắt",
+    "ngon",
+    "chua",
+    "giòn",
+    "tanh"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cá trích ép trứng của mấy ông đây nhá, một cái miếng như thế này mà 197.000, ô trời ơi đắt.",
+    "Phần trứng, nếu mọi người nghe thấy ấy, nó rất là giòn, cực kỳ giòn, cảm giác như là nó tanh tách tanh tách trong mồm ấy.",
+    "Nếu như cái miếng này mà nó tầm 30.000 một miếng là mình sẽ ăn đều đấy, nhưng mà cái miếng này nó 197.000 thì chắc mình cũng chỉ dám ăn một lần."
+  ],
+  "hook_content": "Cá trích ép trứng của mấy ông đây nhá, một cái miếng như thế này mà 197.000, ô trời ơi đắt.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món cá trích ép trứng với giá 197.000, người review đánh giá về hương vị, độ giòn của trứng và đưa ra lời khuyên có nên thử hay không. Món ăn có vị chua nhẹ và hơi tanh, phù hợp với những ai muốn trải nghiệm.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bánh tráng cuốn mắm me quen thuộc, dễ làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy món này quen thuộc, dễ làm theo."
+    },
+    {
+      "step": "Nhấn mạnh điểm đặc biệt",
+      "desc": "Mắm me ngon là yếu tố quan trọng nhất của món bánh tráng cuốn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách làm mắm me ngon."
+    },
+    {
+      "step": "Liệt kê nguyên liệu",
+      "desc": "Giới thiệu các topping cuốn bánh tráng, nhấn mạnh có ruốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Gợi ý các nguyên liệu hấp dẫn."
+    },
+    {
+      "step": "Giới thiệu ruốc",
+      "desc": "Giới thiệu loại ruốc ngon, chất lượng, có thể dùng cho nhiều món.",
+      "impact_level": "2",
+      "viewer_emotion": "Gợi ý một địa chỉ mua ruốc uy tín."
+    },
+    {
+      "step": "Hướng dẫn làm mắm me",
+      "desc": "Hướng dẫn công thức làm mắm me chua ngọt đơn giản, dễ làm.",
+      "impact_level": "3",
+      "viewer_emotion": "Thấy công thức này khá dễ, muốn thử làm."
+    },
+    {
+      "step": "Trình bày thành phẩm",
+      "desc": "Miêu tả bánh tráng cuốn topping đầy đặn, chấm mắm me ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn ăn ngay."
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng ăn bánh tráng cuốn mắm me.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thân thiện, gần gũi."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tui nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "bánh cuốn",
+    "ngon",
+    "chua chua ngọt ngọt",
+    "vừa vị",
+    "đỉnh của chớp"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mắm me mà ngon thì chấm cái gì cũng nhức nách luôn.",
+    "Cuốn bánh tráng thì ngập ngụi topping, chấm vô cái sốt mắm me chua chua ngọt ngọt vừa vị là ta nói đỉnh của chớp luôn."
+  ],
+  "hook_content": "Hello mọi người, lại là tui mập bự thích nấu ăn đây. Nay mọi người cùng tui làm bánh tráng cuốn chấm mắm me ăn nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm món bánh tráng cuốn chấm mắm me đơn giản, quen thuộc. Người làm chia sẻ công thức mắm me đặc biệt và gợi ý các nguyên liệu chất lượng để món ăn thêm ngon miệng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

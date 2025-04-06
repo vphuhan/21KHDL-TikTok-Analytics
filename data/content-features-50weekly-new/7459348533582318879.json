@@ -1,0 +1,84 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu bánh Taco Pháp size nhỏ và các thành phần.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị."
+    },
+    {
+      "step": "Trải nghiệm ăn uống",
+      "desc": "Thưởng thức bánh Taco với nhân bò, thơm, phô mai và sốt.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhấn mạnh sự kết hợp hoàn hảo của các nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú."
+    },
+    {
+      "step": "Thay đổi không gian",
+      "desc": "Thông báo về việc chuyển nhà và cải thiện chất lượng âm thanh.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Thức uống đi kèm",
+      "desc": "Giới thiệu trà chanh Hồng Kông.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử."
+    },
+    {
+      "step": "Kết hợp ẩm thực",
+      "desc": "Nhấn mạnh sự kết hợp giữa bánh Taco Pháp và trà chanh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ok, cảm ơn cả nhà theo dõi video của Thành, hẹn gặp bạn video tiếp theo nha."
+  ],
+  "cta_type": [
+    "Follow kênh",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "hấp dẫn",
+    "đậm đà"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bánh này cũng là lần đầu tiên mà Thành quay trên kênh của mình luôn á.",
+    "Mọi người nếu ăn thì nên cho thêm thơm vô. Thành thấy là thơm bỏ vô ăn rất là ngon.",
+    "Ăn bánh Taco Pháp, uống trà chanh Hồng Kông."
+  ],
+  "hook_content": "Ừm. Bây giờ tụi mình ăn nhen. Bữa nay mình mời cả nhà bánh Taco Pháp với Thành nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video mukbang bánh Taco Pháp kết hợp trà chanh Hồng Kông, chia sẻ trải nghiệm ăn uống và đánh giá hương vị, đồng thời thông báo về việc chuyển nhà và cải thiện chất lượng âm thanh.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

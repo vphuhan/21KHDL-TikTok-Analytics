@@ -1,0 +1,88 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món chân gà rút xương hấp hành và gợi ý làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Sơ chế chân gà",
+      "desc": "Sơ chế và luộc chân gà với gừng để khử mùi.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, quy trình quen thuộc."
+    },
+    {
+      "step": "Ướp và hấp",
+      "desc": "Ướp chân gà với gia vị, tỏi phi và hấp chín.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng vì mùi tỏi phi."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu cà phê Laura có thành phần tốt cho sức khỏe.",
+      "impact_level": "1",
+      "viewer_emotion": "Ít quan tâm."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Thưởng thức chân gà hấp hành cùng mứt đâm cay.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy ngon miệng và thèm thuồng."
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng ăn và kết thúc video.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp và thân thiện."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi nghe."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon đỉnh",
+    "xuôn xướng",
+    "thơm phức",
+    "giòn sần sật",
+    "cay cay",
+    "đã ngập miệng",
+    "tê tái tâm hồn",
+    "mát rười rượi"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Chân gà rút xương đối vào toàn ăn trộn xốt thái hay là ngâm xả tắc mà không ngờ đem đi hấp hành nó ngon đỉnh vậy luôn.",
+    "Có tỏi phi vô là cái chân gà của mình hấp xong nó bùng lên cái mùi thơm hấp dẫn vô cùng vẫn luôn á trời.",
+    "Chân gà hấp hành thì thơm phức mùi tỏi phi, tôi hấp vừa tới nên nó còn giòn sần sật, chấm cùng với mứt đâm cay cay rồi ăn một cái mèn ơi nó đã ngập miệng"
+  ],
+  "hook_content": "Chân gà rút xương đối vào toàn ăn trộn xốt thái hay là ngâm xả tắc mà không ngờ đem đi hấp hành nó ngon đỉnh vậy luôn.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm món chân gà rút xương hấp hành, chia sẻ trải nghiệm ăn uống và giới thiệu sản phẩm cà phê tốt cho sức khỏe. Món ăn được đánh giá là ngon và hấp dẫn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

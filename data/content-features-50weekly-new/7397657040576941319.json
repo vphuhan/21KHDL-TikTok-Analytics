@@ -1,0 +1,91 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món xúc xích, bắp chiên và kỷ niệm thời sinh viên.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với món ăn quen thuộc, gợi nhớ kỷ niệm."
+    },
+    {
+      "step": "Nguyên liệu",
+      "desc": "Liệt kê nguyên liệu và giá cả: xúc xích (39k), bắp (5k).",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm vì nguyên liệu dễ kiếm và giá rẻ."
+    },
+    {
+      "step": "Sơ chế",
+      "desc": "Hướng dẫn tách hạt bắp và cắt xúc xích thành hình carô.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung vào các công đoạn chuẩn bị nguyên liệu."
+    },
+    {
+      "step": "Chiên xúc xích",
+      "desc": "Chiên xúc xích đến khi xù lên như con mực.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với hình ảnh xúc xích chiên xù hấp dẫn."
+    },
+    {
+      "step": "Xào bắp",
+      "desc": "Phi thơm tỏi, xào bắp chín, thêm trứng gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Theo dõi các bước xào bắp đơn giản."
+    },
+    {
+      "step": "Làm sốt",
+      "desc": "Trộn nước sốt theo công thức trên màn hình, nấu kẹo lại.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức muốn biết công thức nước sốt."
+    },
+    {
+      "step": "Hoàn thiện",
+      "desc": "Trộn xúc xích, thêm hành lá, ngò và thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy đói bụng và muốn ăn ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Gen Z"
+  ],
+  "cta_content": [
+    "Mấy ông mấy bà thử làm một cái chảo xúc xích với lại bắp này đi, ăn ta nói nó vừa ngon mà nó vừa tiết kiệm."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "tiết kiệm",
+    "thích"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái món này là món cứu đói sinh viên của tôi hồi xưa đó mấy ông mấy bà.",
+    "Xúc xích á là tôi sẽ cắt carô carô nha mấy ông mấy bà. Kiểu như cắt xéo xéo xéo như vậy nè, xong rồi tôi sẽ xéo xéo xéo ngược lại để cho nó thành hình carô.",
+    "Chiên xong á mình vớt mình để qua một bên nha mấy ông mấy bà cho nó ráo dầu."
+  ],
+  "hook_content": "nẫu nguyên bạn của tôi á cái món gì tôi làm á nó cũng khen hết trơn. Chỉ có cái món này tôi làm là nó chê.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ cách làm món xúc xích, bắp chiên cứu đói thời sinh viên, vừa ngon vừa tiết kiệm. Người làm hướng dẫn chi tiết từng bước, từ sơ chế đến hoàn thiện.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Rửa và làm sạch bao tử, lưỡi heo với các nguyên liệu khử mùi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách sơ chế đặc biệt."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Thái bao tử, lưỡi heo, rửa nấm và các loại rau củ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, chuẩn bị cho công đoạn nấu."
+    },
+    {
+      "step": "Ướp gia vị",
+      "desc": "Ướp bao tử, lưỡi heo với tiêu xanh và các gia vị khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với cách tẩm ướp gia vị đậm đà."
+    },
+    {
+      "step": "Xào và nấu",
+      "desc": "Xào bao tử, lưỡi heo rồi cho nước dừa và các nguyên liệu vào.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi màu sắc và âm thanh xào nấu."
+    },
+    {
+      "step": "Nêm nếm",
+      "desc": "Nêm nếm gia vị và thêm bột năng để tạo độ sánh.",
+      "impact_level": "1",
+      "viewer_emotion": "Quan tâm đến bí quyết nêm nếm."
+    },
+    {
+      "step": "Hoàn thành",
+      "desc": "Thêm hành và tiêu xanh vào món ăn đã hoàn thành.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức muốn thưởng thức món ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Mọi người ngán cá, ngán thịt á, Tết này mình làm thử món này ăn nha.",
+    "Giờ thì hai mời mọi người cùng ăn bao tử với lưỡi heo nấu tiêu xanh với hai nha."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "giòn",
+    "thơm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Để khử mùi bao tử với lưỡi heo, sau khi rửa sạch, hai đem trụng sơ cỡ 5 tới 7 phút với nước muối, gừng sả, rồi mình vớt ra thao nước đá lạnh, làm như vậy lát nữa nấu ăn nó giòn ngon lắm.",
+    "Bao tử với lưỡi heo á thì mềm, giòn giòn, thơm mùi tiêu xanh, chấm với bánh mì hoặc là chan bún ăn rất là ngon luôn.",
+    "nay mà đang chán cá, ngán thịt, nhất là dịp Tết á, thịt cá ăn nhiều cũng ngán thì mình thử đổi qua nấu món này nha."
+  ],
+  "hook_content": "nay mà đang chán cá, ngán thịt, nhất là dịp Tết á, thịt cá ăn nhiều cũng ngán thì mình thử đổi qua nấu món này nha.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề",
+    "Tạo sự đồng cảm"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn nấu món bao tử lưỡi heo nấu tiêu xanh, bắt đầu bằng việc sơ chế nguyên liệu kỹ càng để khử mùi, sau đó xào nấu và nêm nếm gia vị cho vừa ăn. Món ăn có vị mềm, giòn, thơm mùi tiêu xanh, thích hợp ăn kèm bánh mì hoặc bún.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán ốc",
+      "desc": "Giới thiệu quán ốc độc lạ ở Vũng Tàu, không hàng quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự độc đáo của quán."
+    },
+    {
+      "step": "Cách thức bán hàng",
+      "desc": "Anh chủ quán chia sẻ về cách bán ốc đồng giá và chế biến hải sản.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin cơ bản về giá cả và dịch vụ."
+    },
+    {
+      "step": "Ưu điểm của quán",
+      "desc": "Gần chợ, hải sản tươi ngon, không lo bị ăn bớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng quán."
+    },
+    {
+      "step": "Đa dạng món ăn",
+      "desc": "Giới thiệu các món ốc, tôm, ghẹ được chế biến hấp dẫn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử ngay."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét về hương vị của các món ăn, đặc biệt là sốt bơ cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm nhận được vị ngon và hấp dẫn."
+    },
+    {
+      "step": "Thông tin liên hệ",
+      "desc": "Hướng dẫn cách liên hệ và tìm đến quán ốc.",
+      "impact_level": "1",
+      "viewer_emotion": "Muốn biết thêm chi tiết để ghé thăm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người muốn ăn á thì liên hệ cho ảnh tôi đã để thông tin ở trên đây.",
+    "Có bán trên app nữa nhưng mà nhanh gọn nhất là gọi cho ổng."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "hấp dẫn",
+    "thơm khủng khiếp",
+    "ngon đỉnh",
+    "mặn mặn ngọt ngọt cay cay",
+    "béo",
+    "dai dai ngọt ngọt",
+    "ngon",
+    "vừa miệng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ở Vũng Tàu có một gia đình bán ốc cực kỳ độc lạ, không hàng quán, không nhân viên cũng không cần setting.",
+    "Sốt bơ cay của ổng làm ngon đỉnh luôn. Sốt thấm đều con ghẹ mặn mặn ngọt ngọt cay cay dễ ăn.",
+    "Tóm lại là cách chế biến của anh này làm rất là ngon và vừa miệng, không bị quá mặn hay quá ngọt. Vị nào là ra vị đó."
+  ],
+  "hook_content": "ở Vũng Tàu có một gia đình bán ốc cực kỳ độc lạ, không hàng quán, không nhân viên cũng không cần setting.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu về một quán ốc gia đình độc đáo ở Vũng Tàu, nổi tiếng với các món ốc tươi ngon và cách chế biến vừa miệng, đặc biệt là món ghẹ xào sốt bơ cay. Chủ quán còn cung cấp dịch vụ chế biến hải sản mua từ chợ, đảm bảo không ăn bớt của khách.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

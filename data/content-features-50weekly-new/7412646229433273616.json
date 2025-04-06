@@ -1,0 +1,81 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về việc nấu lẩu bò tại nhà và khoe chồng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đảm đang của hai vợ chồng."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Sơ chế xương bò và các loại rau, củ quả.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về công thức và nguyên liệu."
+    },
+    {
+      "step": "Nấu nước lẩu",
+      "desc": "Hầm xương và nêm nếm gia vị cho nước lẩu.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với cách nêm nếm gia vị."
+    },
+    {
+      "step": "Hoàn thiện",
+      "desc": "Trình bày lẩu bò và thưởng thức cùng gia đình.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy đói bụng và thèm ăn."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Cả nhà quây quần ăn uống và trò chuyện vui vẻ.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấm áp, hạnh phúc khi thấy gia đình vui vẻ."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Truyền thống",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn lẩu bò chung với cả nhà mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "hấp dẫn",
+    "vui",
+    "thương vợ thương con",
+    "siêng năng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tuy là mình nấu ở nhà nhưng mà nó ngon không thua kém gì ở ngoài tiệm đâu nha.",
+    "Vậy mà còn xua đuổi người ta lên đuổi xuống nữa chứ, kiểu này chắc mình phải cắt cơm vài bữa cho sợ mới được.",
+    "Nay em nấu phở bò hả? Rồi đâu cái này có sợi phở nữa là mình ăn phở bò luôn cũng được á."
+  ],
+  "hook_content": "hôm nay để cho mọi người thấy ông chồng mình ngoài thương vợ thương con còn siêng năng nữa nha mọi người.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình nấu món lẩu bò tại nhà của một người phụ nữ. Cô ấy chia sẻ công thức, cách nấu và thưởng thức món ăn cùng gia đình.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

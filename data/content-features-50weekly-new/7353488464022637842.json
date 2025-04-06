@@ -1,0 +1,84 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu vấn đề",
+      "desc": "Than thở về việc làm heo quay da giòn thất bại nhiều lần.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm"
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Hướng dẫn cách chiên thịt ba rọi giòn, không văng dầu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Sơ chế",
+      "desc": "Cắt thịt ba chỉ thành miếng vừa ăn, trộn với trứng gà.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Tẩm bột",
+      "desc": "Thêm bột bách và bột năng để tạo độ giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Chiên thịt",
+      "desc": "Chiên hai mặt thịt đến khi giòn, vớt ra để ráo dầu.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức"
+    },
+    {
+      "step": "Làm nước sốt",
+      "desc": "Phi tỏi, ớt, pha nước mắm me theo công thức.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng"
+    },
+    {
+      "step": "Hoàn thiện",
+      "desc": "Đảo thịt với nước sốt, thêm tỏi phi.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "giòn",
+    "ngon",
+    "mềm béo"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Em tin chị đi, em làm theo cái công thức này, cái da heo nó sẽ rất là giòn, nó nổ rôm rốp luôn.",
+    "Chỉ bài cho mấy bà cái cách chiên thịt ba rọi như vậy nè, ăn nó cũng không có bị văng mà cũng cực kỳ là ngon và giòn luôn nè.",
+    "Mấy bà nào muốn giòn dữ thì mình chiên hai lần ha."
+  ],
+  "hook_content": "có bà nào mà giống như tôi không thì giơ tay nha.",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Tạo sự đồng cảm"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn chi tiết cách chiên thịt ba rọi giòn bì, không bị văng dầu, với công thức đơn giản dễ làm tại nhà. Thành phẩm là món thịt chiên giòn ngon, đậm đà hương vị.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

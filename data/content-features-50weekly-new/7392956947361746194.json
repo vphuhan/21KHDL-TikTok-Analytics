@@ -1,0 +1,65 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ăn kèm âm thanh ASMR, tạo cảm giác thèm thuồng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Kết hợp đồ uống",
+      "desc": "Gợi ý kết hợp món ăn với rau má cà phê.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Nhấn mạnh thương hiệu",
+      "desc": "Nhấn mạnh rau má cà phê của ca sĩ Nhật Kim Anh.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đặt câu hỏi",
+      "desc": "Đặt câu hỏi về độ phổ biến của cà phê.",
+      "impact_level": "1",
+      "viewer_emotion": "Tự hỏi"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "mê"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Này mà làm một ly rau má cà phê uống kèm nữa siêu ngon.",
+    "Rau má cà phê của ca sĩ Nhật Kim Anh làm tôi mê quá mấy bà ơi!",
+    "Cà phê ngon vậy, ở sao thấy ai cũng uống?"
+  ],
+  "hook_content": "Ừ, đúng rồi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang món ăn không rõ, kết hợp uống rau má cà phê của Nhật Kim Anh và bày tỏ sự yêu thích.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

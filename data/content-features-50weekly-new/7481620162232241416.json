@@ -1,0 +1,72 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu sản phẩm ngũ cốc sữa chua Misi và so sánh với video khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm mới và cách ăn."
+    },
+    {
+      "step": "Trải nghiệm sản phẩm",
+      "desc": "Nếm thử và miêu tả hương vị, kết cấu của ngũ cốc sữa chua.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với phần miêu tả hương vị hấp dẫn."
+    },
+    {
+      "step": "Đánh giá sản phẩm",
+      "desc": "Đánh giá về lượng dùng, độ no và thành phần của sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến thông tin về độ no của sản phẩm."
+    },
+    {
+      "step": "Thông tin mua hàng",
+      "desc": "Hướng dẫn nơi mua sản phẩm và ưu đãi trên kênh của người nói.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, chỉ là thông tin thêm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Còn nếu không thì mọi người có thể mua ngay trên kênh của mình ở góc trái."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "dễ ăn",
+    "thơm béo",
+    "ngon",
+    "khó chịu"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Này lướt có một lúc mà gặp cái ông này phải 15 lần rồi.",
+    "Theo như mình phân tích thì thay vì bỏ ngũ cốc vào sữa xong rồi xốc ăn như bình thường thì ông này là ông ấy bỏ riêng ra, sữa một chỗ rồi ngũ cốc một chỗ, xong là ăn từng thứ một.",
+    "Mình nghĩ là với mấy bạn nhỏ ấy thì một hộp này thì sẽ không đói đâu."
+  ],
+  "hook_content": "Này lướt có một lúc mà gặp cái ông này phải 15 lần rồi, mà xem mãi không hiểu ý nghĩa của cái video này nó là cái gì.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review sản phẩm ngũ cốc sữa chua Misi, so sánh cách ăn thông thường với một video gây khó hiểu trên TikTok, đồng thời đưa ra đánh giá về hương vị, độ no và nơi mua sản phẩm.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Khó chịu"
+  ]
+}

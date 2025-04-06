@@ -1,0 +1,73 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán hủ tiếu gốc Hoa nổi tiếng có Trấn Thành ghé",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán và sự nổi tiếng của nó"
+    },
+    {
+      "step": "Gọi món và review",
+      "desc": "Gọi hủ tiếu thập cẩm và mì trộn, review hương vị topping",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và muốn thử các món ăn"
+    },
+    {
+      "step": "Không gian quán",
+      "desc": "Nhận xét về không gian quán nhỏ, bình dị, sạch sẽ và mở khuya",
+      "impact_level": "1",
+      "viewer_emotion": "Biết thêm thông tin về quán"
+    },
+    {
+      "step": "Phỏng vấn chủ quán",
+      "desc": "Hỏi chủ quán về các diễn viên nổi tiếng đến ăn và khách quen",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú khi biết quán được nhiều người nổi tiếng ghé"
+    },
+    {
+      "step": "Lời giới thiệu",
+      "desc": "Giới thiệu lại quán hủ tiếu ngon ở Trần Phú, quận 5",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhớ địa điểm quán"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngọt thanh",
+    "đậm đà",
+    "vừa miệng",
+    "hay"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Vừa đáp tới Sài Gòn là tôi phải đi ăn hủ tiếu luôn.",
+    "Xem phim xong đi về mà người tôi cứ tưng tửng tưng tửng ấy.",
+    "Tôi thì gọi hủ tiếu dai, sợi hủ tiếu nó dai dai ăn hay lắm."
+  ],
+  "hook_content": "quán mình có phải quán mà hôm Trấn Thành đến quay phim phim Mai đúng không? Đúng rồi. Đúng rồi.",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quán hủ tiếu gốc Hoa ở Sài Gòn, nơi Trấn Thành quay phim Mai, với món hủ tiếu và mì trộn topping đầy đặn, hương vị đậm đà.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

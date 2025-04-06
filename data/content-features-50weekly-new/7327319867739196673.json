@@ -1,0 +1,85 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu món bánh đúc nóng phù hợp thời tiết.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Điểm đặc biệt",
+      "desc": "Nhấn mạnh cách làm nước mắm đặc trưng của quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Cảm nhận",
+      "desc": "Miêu tả hương vị bánh đúc, thịt và nước mắm.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấm áp"
+    },
+    {
+      "step": "Đánh giá bánh",
+      "desc": "Nhận xét về độ đặc, sánh và dễ ăn của bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Giới thiệu thêm",
+      "desc": "Quán có bán nộm và bánh bột lọc.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Tình huống hài hước",
+      "desc": "Em gái đòi ăn thêm, tả trang phục.",
+      "impact_level": "2",
+      "viewer_emotion": "Hài hước"
+    },
+    {
+      "step": "Địa điểm",
+      "desc": "Địa chỉ quán và sự tiện lợi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tiện lợi"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "đậm đà",
+    "quá đã"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Vào cái thời điểm thời tiết mà làm cho đại bàng cũng hóa thành chim lon thì tất nhiên là không thể bỏ qua cái món bánh đúc nóng này rồi.",
+    "Mình ăn bánh đúc ấy miếng bánh đúc nó đã nhàn nhạt rồi mà kèm thịt với cả mắm vào nó đậm đà nữa thì còn gì bằng.",
+    "Tôi thì áo cọc của con mẹ ngủ quần đùi. Tại ăn bánh nóng người lên cởi áo khoác tí cho nó mát anh em ạ."
+  ],
+  "hook_content": "Vào cái thời điểm thời tiết mà làm cho đại bàng cũng hóa thành chim lon thì tất nhiên là không thể bỏ qua cái món bánh đúc nóng này rồi.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu quán bánh đúc nóng ngon ở Hà Nội, đặc biệt ở nước mắm đậm đà. Người nói chia sẻ trải nghiệm ăn bánh và địa chỉ quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

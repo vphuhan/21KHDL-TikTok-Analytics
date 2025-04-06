@@ -1,0 +1,90 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bánh",
+      "desc": "Giới thiệu các loại bánh hot hit mới mua và nguồn gốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các loại bánh mới."
+    },
+    {
+      "step": "Review bánh Sugar Town",
+      "desc": "Đánh giá chi tiết hai vị bánh phô mai của Sugar Town.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng, muốn thử."
+    },
+    {
+      "step": "Đánh giá bánh sừng bò",
+      "desc": "Nhận xét về bánh sừng bò bơ tỏi mua ở Emart.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc sắc."
+    },
+    {
+      "step": "Review bánh phô mai Zahuy",
+      "desc": "Đánh giá bánh phô mai của Zahuy về hình thức, vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị lạ."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Nhận xét tổng quan về trải nghiệm với các loại bánh.",
+      "impact_level": "1",
+      "viewer_emotion": "Có thêm thông tin tham khảo."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "chất lượng",
+    "hấp dẫn",
+    "đẫm đầy",
+    "thơm",
+    "đậm đà",
+    "cay nhẹ",
+    "béo ngậy",
+    "mặn mặn",
+    "béo",
+    "ngọt",
+    "ngán",
+    "thơm",
+    "khô",
+    "mướt đẹp",
+    "mướt rượt",
+    "mềm mềm",
+    "nung nính",
+    "hơi hơi thạch thạch",
+    "lạ"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "nhiều quá nó lại thành một điểm trừ",
+    "cứ đợt nào các bác ấy bán gì là mình mua cái đấy",
+    "cắn một miếng mà toàn kem là kem, chỉ được miếng thứ nhất miếng thứ hai thôi, sau đó là ngán lắm"
+  ],
+  "hook_content": "mọi người hỏi mình cái bánh này có chất lượng không? Ừ chất lượng chứ nhưng mà trong trường hợp này thì với mình chất lượng quá, nhiều quá nó lại thành một điểm trừ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review các loại bánh hot hit như bánh Sugar Town, bánh sừng bò Emart và bánh phô mai Zahuy, đưa ra đánh giá chi tiết về hương vị, chất lượng và trải nghiệm cá nhân.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

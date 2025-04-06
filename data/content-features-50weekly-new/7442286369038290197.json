@@ -1,0 +1,81 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu mục đích",
+      "desc": "Đi ăn mì cay Seoul để kiểm tra khả năng ăn cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ cay của mì."
+    },
+    {
+      "step": "Gọi món",
+      "desc": "Gọi mì cay thập cẩm cấp độ bảy và lẩu thái sụn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, chờ đợi món ăn."
+    },
+    {
+      "step": "Đánh giá mì thập cẩm",
+      "desc": "Mì ngon, thích thịt cá nhưng không cay như mong đợi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với miếng thịt cá."
+    },
+    {
+      "step": "Thử mì lẩu thái",
+      "desc": "Chỉ thấy chua hơn, độ cay và ngon không đổi.",
+      "impact_level": "1",
+      "viewer_emotion": "Hơi thất vọng."
+    },
+    {
+      "step": "Kết luận và hỏi ý kiến",
+      "desc": "Ngon nhưng không cay, hỏi địa chỉ quán mì cay.",
+      "impact_level": "1",
+      "viewer_emotion": "Muốn tìm quán mì cay hơn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người biết quán nào có mì thật cay thì mọi người có thể để lại ở dưới phần bình luận giúp mình nha."
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "cay",
+    "ngọt",
+    "ngon",
+    "thơm",
+    "béo",
+    "ưng",
+    "thất vọng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tôi còn nhớ là bốn năm trước cái hồi mà mì cay nó còn đang rất là hot. Tôi ăn thử cấp bảy mà nó cay đến nỗi tôi phải uống hết nguyên một cái ca nước lọc đá của quán.",
+    "Nhưng mà phải nói tôi rất ưng cái miếng thịt cá ở trong này nha. Nó thơm thơm ngọt ngọt béo béo mà tôi quên mất không hỏi xem là thịt cá gì.",
+    "Kết lại là ngon nhưng mà về độ cay thì khiến tôi hơi thất vọng."
+  ],
+  "hook_content": "Bạn ơi, cho mình hỏi là sụ bát này còn cấp bảy không nhỉ?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video đi ăn mì cay Seoul để thử độ ăn cay, tuy nhiên, người này cảm thấy thất vọng vì mì không cay như mong đợi và hỏi gợi ý từ người xem.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

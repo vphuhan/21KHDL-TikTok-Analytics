@@ -1,0 +1,97 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món cơm chiên Cây Điệp và giá cả.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chia sẻ trải nghiệm mua hàng",
+      "desc": "Kể về trải nghiệm mua cơm chiên vội vã.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị về sự vội vã."
+    },
+    {
+      "step": "Miêu tả chi tiết",
+      "desc": "Miêu tả topping và trạng thái cơm chiên.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá hương vị cơm và các thành phần.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy có chút thất vọng."
+    },
+    {
+      "step": "Phản hồi về da gà",
+      "desc": "Phản hồi về da gà có vẻ không sạch.",
+      "impact_level": "3",
+      "viewer_emotion": "Ghê sợ và lo lắng."
+    },
+    {
+      "step": "Đánh giá tổng quan",
+      "desc": "Đánh giá tổng quan và kết luận về món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy món này ăn được."
+    },
+    {
+      "step": "Nhận xét và khuyến nghị",
+      "desc": "Nhận xét và khuyến nghị cho người xem.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích cho người đi làm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "có gì ủng hộ nha chứ cái clip không có nội dung a gì nhiều hết trơn."
+  ],
+  "cta_type": [
+    "Thích video",
+    "Bình luận",
+    "Chia sẻ"
+  ],
+  "emotion_keywords": [
+    "nhạt",
+    "khô",
+    "hài hòa",
+    "vừa phải",
+    "dễ thương",
+    "ổn định",
+    "dễ ăn",
+    "hơi sợ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Lẹ lẹ lẹ đi em ơi! Lẹ lẹ đi em chọn cái gì, chọn cái gì không không không kịp suy nghĩ luôn.",
+    "Cơm cháy cũng có mà cơm thường cũng có.",
+    "Nói chung là mọi thứ ổn định nha mọi người ơi, dễ ăn."
+  ],
+  "hook_content": "Dạ em thấy là mấy anh công an cũng ăn cái này rất là nhiều thiệt.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm",
+    "Đối thoại"
+  ],
+  "summarization": "Video review món cơm chiên Cây Điệp với giá 35k, tập trung vào trải nghiệm mua hàng vội vã, đánh giá hương vị, và đặc biệt là phản hồi về vấn đề vệ sinh của da gà. Người nói đánh giá 8/10 nếu xét về giá cả và chất lượng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

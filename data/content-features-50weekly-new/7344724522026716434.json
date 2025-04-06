@@ -1,0 +1,80 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu mục đích chuyến thăm",
+      "desc": "Thăm bà nội sau Tết và trước khi về Việt Nam.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Miêu tả chuyến đi và món ăn",
+      "desc": "Di chuyển đến nhà bà nội, giới thiệu món cá Mặc Quỷ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Tình cảm gia đình",
+      "desc": "Nhấn mạnh sự yêu thương từ mẹ chồng.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm động"
+    },
+    {
+      "step": "Bữa cơm gia đình",
+      "desc": "Giới thiệu các món ăn bà nội nấu: khoai tây, cua ngâm, cá kho.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Thưởng thức sầu riêng",
+      "desc": "Bà nội thử sầu riêng nhưng không thích.",
+      "impact_level": "2",
+      "viewer_emotion": "Hài hước"
+    },
+    {
+      "step": "Kết thúc chuyến thăm",
+      "desc": "Chuẩn bị về và hẹn gặp lại bà nội.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thương",
+    "yêu thương",
+    "vừa miệng",
+    "nhớ"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Tuy là mẹ mình không còn, nhưng mà mình được một người mẹ chồng rất là yêu thương mình luôn.",
+    "Mình với mẹ chồng mình còn hợp cái khẩu vị nữa.",
+    "Hồi trước giờ ăn mấy món Việt Nam á là còn kêu để lại, chứ bữa nay sầu riêng á là thôi thôi con gói đem về đi nha."
+  ],
+  "hook_content": "nè cả nhà, bọn mình qua thăm nhà bà nội thôi, tại vì từ Tết tới giờ cũng không có qua, với lại là nhà bọn mình sắp về Việt Nam nữa.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện"
+  ],
+  "summarization": "Video ghi lại chuyến thăm bà nội của một gia đình ở nước ngoài, với những khoảnh khắc ấm áp bên bữa cơm gia đình và trải nghiệm ẩm thực đặc biệt với món sầu riêng. Tình cảm gia đình và sự gắn bó giữa các thế hệ được thể hiện rõ nét.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

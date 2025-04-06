@@ -1,0 +1,92 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu clip phản hồi về bình luận tiêu cực về quán ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về nội dung phản hồi."
+    },
+    {
+      "step": "Phản hồi về đánh giá",
+      "desc": "Giải thích sự khác biệt giữa trải nghiệm thực tế và quảng cáo.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình với quan điểm."
+    },
+    {
+      "step": "Phản hồi về thái độ",
+      "desc": "Thảo luận về việc im lặng khi trải nghiệm không tốt.",
+      "impact_level": "3",
+      "viewer_emotion": "Bức xúc trước quan điểm im lặng."
+    },
+    {
+      "step": "Chia sẻ kinh nghiệm",
+      "desc": "Kể về drama với quán Cơm Ngọc Diệp và cách giải quyết.",
+      "impact_level": "2",
+      "viewer_emotion": "Thông cảm với người nói."
+    },
+    {
+      "step": "Khẳng định quan điểm",
+      "desc": "Nhấn mạnh việc không hạ thấp người khác vì view và like.",
+      "impact_level": "3",
+      "viewer_emotion": "Khâm phục sự chính trực."
+    },
+    {
+      "step": "Đề xuất giải pháp",
+      "desc": "Gợi ý cách tiếp cận tích cực khi review quán ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích và có giá trị."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Khẳng định sự sẵn sàng xin lỗi và review lại nếu cần.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào sự chân thành."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Drama",
+    "Chuyên nghiệp"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thắc mắc",
+    "lo",
+    "sợ",
+    "uy tín",
+    "cảm nhận bình thường",
+    "thấy ngon",
+    "thấy dở",
+    "chua",
+    "cay"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Thế giới này xấu đi, không phải là do những người xấu làm ra, mà do những người tốt, biết được sự thật mà im lặng.",
+    "View, ai cũng thích, like, ai cũng thích, nhưng mình phải coi nó được cái giá trị như thế nào, và mình không bao giờ vì những cái va like, những cái view đó mình để hạ thấp bất kỳ một con người nào hết.",
+    "Khán giả người ta thông minh lắm, người ta nhìn nhận ra được tất cả vấn đề"
+  ],
+  "hook_content": "3:00 sáng và mình coi được cái clip này, và mình phải lên clip ngay lập tức, để mà mình nói, thật sự là khi mà mình thấy cái comment của bạn này kêu là 'sợ tội ghê, đó giờ ăn dở là tôi im luôn chứ tôi không bao giờ đăng'.",
+  "hook_type": [
+    "Phản hồi bình luận",
+    "Gây tranh cãi"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video phản hồi một bình luận tiêu cực về việc review quán ăn, đồng thời chia sẻ quan điểm về trách nhiệm của food reviewer và kinh nghiệm cá nhân khi gặp drama.",
+  "tone_of_voice": [
+    "Chân thành",
+    "Khó chịu"
+  ]
+}

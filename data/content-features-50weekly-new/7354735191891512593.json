@@ -1,0 +1,82 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn lót bụng",
+      "desc": "Giới thiệu bánh giày kẹp chả như một món ăn lót bụng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy món ăn khá quen thuộc và hấp dẫn."
+    },
+    {
+      "step": "Khoe về quán lẩu gà lá é",
+      "desc": "Bạn khoe đã tìm được quán lẩu gà lá é ngon có máy lạnh.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy tò mò về quán lẩu gà lá é này."
+    },
+    {
+      "step": "Đánh giá món ăn kèm",
+      "desc": "Giới thiệu và đánh giá các món chiên ăn kèm lẩu gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy đói bụng khi nghe các món ăn vặt."
+    },
+    {
+      "step": "Đánh giá lẩu gà lá é",
+      "desc": "Đánh giá hương vị và các thành phần của lẩu gà lá é.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng khi nghe mô tả chi tiết về lẩu."
+    },
+    {
+      "step": "Chia sẻ trải nghiệm",
+      "desc": "Chia sẻ về trải nghiệm ăn lẩu gà giá bình dân, máy lạnh.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng về quán lẩu giá cả hợp lý."
+    },
+    {
+      "step": "Kết thúc bữa ăn",
+      "desc": "Mua thêm lẩu về cho ba và uống sô cô la đá xay.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy một cái kết viên mãn và ngọt ngào."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thoải mái",
+    "thương",
+    "rẻ",
+    "giòn",
+    "ngon miệng",
+    "sảng khoái"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Sáng ăn có nhiêu đó thôi đó mà no tới chiều chưa thấy đói.",
+    "Trúng ngay cái khúc thịt đùi này nhai nó còn sực sực cái gân nữa.",
+    "Ăn cái nồi nhỏ là đúng sáng suốt luôn nước thêm miễn phí mà."
+  ],
+  "hook_content": "Này nào ăn uống cái gì cũng phải sắp xếp suy nghĩ dữ lắm nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video chia sẻ về trải nghiệm đi ăn lẩu gà lá é tại một quán ăn bình dân có máy lạnh, cùng với các món ăn kèm hấp dẫn và sô cô la đá xay tráng miệng. Người này cũng giới thiệu món bánh giày kẹp chả ăn lót bụng buổi sáng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

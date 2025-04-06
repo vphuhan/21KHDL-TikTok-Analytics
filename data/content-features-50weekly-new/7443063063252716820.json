@@ -1,0 +1,95 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món gà hấp muối và chia sẻ trải nghiệm lần đầu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Mô tả quá trình sơ chế và ướp gà với các gia vị.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, nhưng hữu ích."
+    },
+    {
+      "step": "Tiến hành hấp gà",
+      "desc": "Hướng dẫn cách lót nồi và thời gian hấp gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với cách làm."
+    },
+    {
+      "step": "Pha chế đồ uống",
+      "desc": "Giới thiệu và pha cà phê nấm linh chi, đông trùng hạ thảo.",
+      "impact_level": "1",
+      "viewer_emotion": "Không liên quan lắm đến món ăn."
+    },
+    {
+      "step": "Kiểm tra gà chín",
+      "desc": "Kiểm tra gà đã chín và mô tả mùi thơm hấp dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi đói bụng."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Trình bày cách ăn kèm và cảm nhận hương vị món gà.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Đánh giá về độ ngon, ngọt và không bị khô của gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi nghe."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngon bất bại",
+    "thơm",
+    "cay sương sương",
+    "tê tái tâm hồn",
+    "mọng nước",
+    "mất thèm",
+    "ngon ngọt",
+    "thơm phức"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tưởng ăn nó ngon bình thường, ai ngờ nó ngon bất bại luôn.",
+    "Mình lốt cỡ này là xíu con gà hấp ra nó bao thơm không có bị mặn.",
+    "Ăn gà ngon là phải ăn chung với chén muối ớt đâm cay sương sương mà tê tái tâm hồn của tôi nó mới dịu."
+  ],
+  "hook_content": "ăn gà luộc, gà hấp nhiều thì chắc ai cũng đã thử qua món gà hấp muối rồi phải không?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món gà hấp muối, từ khâu chuẩn bị, chế biến đến thưởng thức và đánh giá hương vị. Người làm video chia sẻ trải nghiệm lần đầu làm món này và cảm thấy rất ngon.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

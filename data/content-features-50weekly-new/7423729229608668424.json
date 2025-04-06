@@ -1,0 +1,77 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Nhấn mạnh là người đầu tiên review chân gà không gelatin.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm mới lạ."
+    },
+    {
+      "step": "Miêu tả chi tiết",
+      "desc": "Không có gelatin, cay hơn, mặn, chua, có ớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và muốn thử."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Khó miêu tả, khuyên chờ mở bán để tự trải nghiệm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá của người review."
+    },
+    {
+      "step": "So sánh trọng lượng",
+      "desc": "Không gelatin nên được nhiều chân gà hơn.",
+      "impact_level": "3",
+      "viewer_emotion": "Vui vẻ và cảm thấy có lợi."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mọi người đợi 11 giờ ngày mùng 10 tháng 10, bà Tuyết mở bán.",
+    "Nếu như mà mọi người cùng công mua chân gà nhá, mọi người có thể thử cái loại chân gà mới này."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "thích",
+    "tuyệt vời",
+    "cay",
+    "chảy nước miếng",
+    "hợp"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Riêng cái này nhá, tôi chấp cả TikTok luôn, tôi dám khẳng định luôn, tôi là người đầu tiên trên TikTok múc bang chân gà sả tắc không gelatin của nhà bà Tuyết.",
+    "Thế tính ra thì là hời tí khối lượng ấy chứ nhỉ"
+  ],
+  "hook_content": "Riêng cái này nhá, tôi chấp cả TikTok luôn, tôi dám khẳng định luôn, tôi là người đầu tiên trên TikTok múc bang chân gà sả tắc không gelatin của nhà bà Tuyết.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Gây tranh cãi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review chân gà sả tắc không gelatin của nhà bà Tuyết, nhấn mạnh sự khác biệt về độ cay, thành phần và trọng lượng so với các loại chân gà khác, đồng thời kêu gọi người xem mua và trải nghiệm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

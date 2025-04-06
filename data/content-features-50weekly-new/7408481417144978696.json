@@ -1,0 +1,90 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu thử thách",
+      "desc": "Giới thiệu thử thách ăn các món màu đen cùng mẹ và con.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn màu đen."
+    },
+    {
+      "step": "Lựa chọn món 1",
+      "desc": "Mẹ chọn món đầu tiên là gà ác và giới thiệu về nó.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thèm món gà ác nóng hổi."
+    },
+    {
+      "step": "Đánh giá gà ác",
+      "desc": "Con gái ăn và đánh giá gà ác mềm, mỡ.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy món ăn hấp dẫn."
+    },
+    {
+      "step": "Lựa chọn món 2",
+      "desc": "Con gái chọn thạch đen Cao Bằng.",
+      "impact_level": "1",
+      "viewer_emotion": "Muốn ăn thử thạch đen."
+    },
+    {
+      "step": "Đánh giá thạch đen",
+      "desc": "Mẹ ăn thử và nhận xét nước đường ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thạch đen có vẻ ngon miệng."
+    },
+    {
+      "step": "Lựa chọn món 3",
+      "desc": "Mẹ chọn bìm bìm cay nhất thế giới.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy món ăn này rất cay."
+    },
+    {
+      "step": "Uống trà sữa",
+      "desc": "Uống trà sữa than tre để giải cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn uống trà sữa để giải tỏa."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Các bạn giúp mẹ con mình với nhá."
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "mềm",
+    "mát",
+    "cay"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Con gà rất mềm nha các bạn. Nó mỡ bốc khum nha các bạn.",
+    "Nhìn giống pudding ghê các bạn ạ.",
+    "Bìm bìm cay nhất thế giới. Cay, cay các bạn ạ. Cay quá."
+  ],
+  "hook_content": "Thử thách ăn tất cả các món màu đen cùng chị mẹ con em.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại thử thách ăn các món màu đen của mẹ con. Các món được chọn là gà ác, thạch đen Cao Bằng và bìm bìm cay, sau đó uống trà sữa than tre để giải cay.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

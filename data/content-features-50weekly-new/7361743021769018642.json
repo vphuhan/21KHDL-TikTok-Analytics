@@ -1,0 +1,101 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Mô tả món gà hấp mía ngon và dễ làm, thay thế gà luộc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món gà hấp mía."
+    },
+    {
+      "step": "Chuẩn bị và ướp gà",
+      "desc": "Hướng dẫn ướp gà với nước mía, bột nghệ, lá chanh.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhớ các nguyên liệu ướp gà."
+    },
+    {
+      "step": "Hấp gà",
+      "desc": "Hướng dẫn hấp gà với mía lót dưới đáy nồi.",
+      "impact_level": "1",
+      "viewer_emotion": "Hình dung cách hấp gà."
+    },
+    {
+      "step": "Làm nước chấm",
+      "desc": "Hướng dẫn làm nước chấm chua cay, thơm ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng khi nghe mô tả nước chấm."
+    },
+    {
+      "step": "Hoàn thiện và thưởng thức",
+      "desc": "Gà chín thơm ngon, chia sẻ cảm nhận.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn thử ngay món gà hấp mía."
+    },
+    {
+      "step": "Giới thiệu nồi hấp",
+      "desc": "Giới thiệu nồi hấp hai tầng tiện lợi, chất lượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến sản phẩm nồi hấp."
+    },
+    {
+      "step": "Khuyến mãi Shopee",
+      "desc": "Thông tin về giảm giá và cơ hội trúng thưởng trên Shopee.",
+      "impact_level": "1",
+      "viewer_emotion": "Cân nhắc mua hàng trên Shopee."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Bà nào mà thích ăn mấy món hấp này nọ đồ á mà có một cái nồi này là hợp lý thiệt sự.",
+    "Nên là nồi hấp hai tầng này tính ra rẻ hơn nhiều luôn á."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngon nhất cái nách",
+    "ngon giả man",
+    "săn chắc",
+    "mềm mộng",
+    "ngọt thịt",
+    "chua cay",
+    "đã",
+    "thơm nức mũi",
+    "đỉnh",
+    "nóng hổi",
+    "ngon",
+    "đã",
+    "tấm tắc khen"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Phải nói là nó ngon nhất cái nách luôn á.",
+    "Ăn nó ngon giả man luôn á mấy bà.",
+    "Cuối cùng thêm một ít lá chanh nữa là nó ngon mà cái nách nó giật giật luôn."
+  ],
+  "hook_content": "Để này á mấy bà đừng có làm món gà luộc nữa, mà thử làm cái món gà hấp mía này cho cả nhà cùng ăn đi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm món gà hấp mía thơm ngon, dễ làm tại nhà, kết hợp công thức nước chấm thần thánh. Đồng thời giới thiệu nồi hấp hai tầng tiện lợi và chương trình khuyến mãi trên Shopee.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

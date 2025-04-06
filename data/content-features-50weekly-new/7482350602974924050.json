@@ -1,0 +1,54 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Nhấn mạnh sống một lần nên cần phải tận hưởng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về ý nghĩa của câu nói."
+    },
+    {
+      "step": "Thể hiện cảm xúc",
+      "desc": "Thể hiện cảm xúc yêu thương qua lời bài hát.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không rõ liên quan đến nấu ăn."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Lặp lại cảm xúc yêu thương và mong muốn bày tỏ.",
+      "impact_level": "1",
+      "viewer_emotion": "Không có cảm xúc đặc biệt."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "yêu thương",
+    "đau"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Sao cả đời chỉ sống một lần thôi.",
+    "Cho yêu thương này, quên tên nhau ngàn nỗi đau."
+  ],
+  "hook_content": "Sao cả đời chỉ sống một lần thôi.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Kể chuyện"
+  ],
+  "summarization": "Video sử dụng âm nhạc và lời bài hát để thể hiện cảm xúc yêu thương, kết hợp với hình ảnh món ăn.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

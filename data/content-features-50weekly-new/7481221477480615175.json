@@ -1,0 +1,90 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán ăn",
+      "desc": "Giới thiệu quán mì lạnh, cơm trộn Hàn Quốc trong chợ Gò Vấp.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán ăn"
+    },
+    {
+      "step": "Thông tin chi tiết",
+      "desc": "Giá cả hợp lý, mô hình food court bình dân, địa điểm dễ tìm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thông tin hữu ích"
+    },
+    {
+      "step": "Mô tả món ăn",
+      "desc": "Cơm trộn, mì trộn, mì lạnh với các topping và nước sốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi món ăn"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Cơm trộn đậm đà, mì lạnh chua ngọt, sợi mì dai.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn ăn thử ngay"
+    },
+    {
+      "step": "Gợi ý món ăn kèm",
+      "desc": "Gợi ý chả cá Hàn Quốc ăn kèm với mì lạnh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy gợi ý hợp lý"
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Đổi món với mì trộn khô, trải nghiệm hương vị đặc biệt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với gợi ý"
+    },
+    {
+      "step": "Lời kêu gọi",
+      "desc": "Ghé thăm quán nếu ở Gò Vấp và thích món Hàn.",
+      "impact_level": "2",
+      "viewer_emotion": "Có thể ghé thăm"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bạn nào ở Gò Vấp mà đang tìm món này á thì ghé qua đây nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "đậm đà",
+    "chua chua ngọt ngọt",
+    "bất ngờ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Quay nhiều quán hàng ở Sài Gòn rồi, mà lần đầu tiên tớ thấy cái kiểu quán hàng như thế này luôn.",
+    "Thật sự trong một cái khu chợ truyền thống Việt Nam mà lại có một quán ăn bình dân như thế này.",
+    "Với mức giá này mình khá bất ngờ về hương vị, ăn ngon nha mọi người."
+  ],
+  "hook_content": "Ở trong chợ Gò Vấp, không ngờ là có một cái tiệm mì lạnh, cơm trộn Hàn Quốc giữa đường phố như thế này nè mọi người.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu quán mì lạnh, cơm trộn Hàn Quốc bình dân trong chợ Gò Vấp với giá cả hợp lý, hương vị ngon và nhiều topping. Chủ kênh khuyến khích mọi người ghé thăm nếu ở Gò Vấp và thích món Hàn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

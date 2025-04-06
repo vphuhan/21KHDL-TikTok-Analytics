@@ -1,0 +1,100 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu tảng thịt heo chiên giòn và sự hoành tráng của nó",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ ngon của tảng thịt"
+    },
+    {
+      "step": "Uống nước sủi",
+      "desc": "Uống nước sủi Baberube để giữ dáng và thay thế nước ngọt",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt ấn tượng"
+    },
+    {
+      "step": "Bắt đầu ăn",
+      "desc": "Thêm tương ớt, ăn kèm đồ chua và thưởng thức phần da giòn",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thèm thuồng và hấp dẫn"
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Nhấn mạnh độ ngon, béo ngậy và phê của tảng thịt heo",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy rất kích thích vị giác"
+    },
+    {
+      "step": "Giới thiệu nước sủi",
+      "desc": "Nhấn mạnh tiện lợi của nước sủi giúp kiểm soát cân nặng",
+      "impact_level": "1",
+      "viewer_emotion": "Không mấy quan tâm đến sản phẩm"
+    },
+    {
+      "step": "Ăn kết hợp",
+      "desc": "Kẹp da heo, thịt, tỏi và dưa chua để tăng hương vị",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng hơn bao giờ hết"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Cảm ơn người xem và kêu gọi bình luận món ăn muốn thử",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường, không có gì đặc biệt"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nếu mà bạn muốn Vàng ăn món gì ở video sau á thì comment ở bên dưới cho Vàng biết với nha."
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "dễ thương",
+    "hấp dẫn",
+    "béo ngậy",
+    "ngon ngon xỉu",
+    "nóng",
+    "ngon quá trời",
+    "tuyệt vời",
+    "đã",
+    "ngon đẻ",
+    "phê",
+    "hạnh phúc mỹ mãn",
+    "ngon xỉu"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Wow! Vị rất là ngon và dễ uống nên có thể thay thế nước ngọt được luôn nha bạn. Vừa uống ngon mà còn giữ được dáng nữa nè.",
+    "Vàng chỉ nghĩ đơn giản các bạn là bạn muốn ăn một tảng thịt heo thật to cho nó phê. Nhưng mà bạn không nghĩ là nó sẽ ngon như vậy luôn các bạn, nó ngon quá trời luôn á bạn.",
+    "Hạnh phúc mỹ mãn luôn bạn ơi! Wow ngon xỉu luôn bạn."
+  ],
+  "hook_content": "Các bạn, hôm nay Vàng sẽ mút băng nguyên tảng thịt heo chiên giòn rụm này luôn nè bạn.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang của Tóc Vàng ăn tảng thịt heo chiên giòn rụm, kết hợp uống nước sủi để giữ dáng. Cô nàng thể hiện sự thích thú với món ăn và kêu gọi người xem gợi ý món ăn cho video sau.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

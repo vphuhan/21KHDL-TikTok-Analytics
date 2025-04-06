@@ -1,0 +1,90 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu nhà hàng buffet Cửu Vân Long ở Landmark 81.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về địa điểm và giá cả."
+    },
+    {
+      "step": "Giá cả và không gian",
+      "desc": "Giá cả hợp lý, không gian sang trọng như khách sạn.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng về sự tương phản."
+    },
+    {
+      "step": "Quầy hải sản",
+      "desc": "Đa dạng hải sản tươi ngon, số lượng không giới hạn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và choáng ngợp."
+    },
+    {
+      "step": "Các quầy khác",
+      "desc": "Sushi, sashimi, gỏi, thịt nướng và tráng miệng.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức khám phá."
+    },
+    {
+      "step": "Trải nghiệm cá nhân",
+      "desc": "Khen ngon, rẻ, phục vụ tốt, không gian đẹp.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng và muốn thử."
+    },
+    {
+      "step": "Lưu ý",
+      "desc": "Nhắc nhở đặt bàn trước vì quán rất đông khách.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhớ để chuẩn bị."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Nhà hàng buffet đáng thử khi đến Sài Gòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thuyết phục và hứng thú."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mà trước khi đến mọi người nhớ đặt bàn trước nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "sướng miệng",
+    "ngon",
+    "rẻ",
+    "thích"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Giá tầm có 500 cành một người thôi mà cảm giác như là ăn buffet ở trong khách sạn năm sao luôn á.",
+    "Mình thấy cái quầy hải sản nó như là vô cực luôn vậy đó.",
+    "Mình gỡ được nguyên một cái đùi ghẹ to khổng lồ, chấm với lại cái muối chấm hải sản, cắn một cái ta nói là nhứt cái nách luôn."
+  ],
+  "hook_content": "ta đã mở tới cái chi nhánh thứ ba ở Sài Gòn rồi mà tới giờ mọi người vẫn chưa thử cái nhà hàng buffet này, đúng quả là một thiếu sót lớn nha mọi người.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review nhà hàng buffet Cửu Vân Long chi nhánh Landmark 81 với giá cả phải chăng, không gian sang trọng và đa dạng món ăn, đặc biệt là hải sản tươi ngon. Người xem được khuyến khích nên thử và đặt bàn trước.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Người nói chào khán giả, bắt đầu video mukbang xiên chiên.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Người nói ăn và thể hiện cảm xúc ngon miệng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [],
+  "hook_content": "Chào mọi người nhá.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video là một buổi mukbang ngắn gọn về món xiên chiên, người nói chào khán giả và thưởng thức món ăn.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

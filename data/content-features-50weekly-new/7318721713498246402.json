@@ -1,0 +1,85 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món lẩu hột vịt lộn chua cay dễ làm tại nhà",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Hướng dẫn mua đồ nấu lẩu và chọn hột vịt lộn ngon",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích"
+    },
+    {
+      "step": "Sơ chế",
+      "desc": "Luộc hột vịt lộn và xào thơm các nguyên liệu",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Nêm nếm",
+      "desc": "Nêm gia vị theo công thức và thêm sa tế tôm Chin-Su",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến công thức"
+    },
+    {
+      "step": "Hoàn thành",
+      "desc": "Cho nước dừa và hột vịt lộn vào, nấu đến khi sôi",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Mời mọi người ăn lẩu hột vịt lộn chua cay",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Thảnh thơi lướt Tết là lướt tới video của tôi là nhớ lưu lại, mà nhớ là để thơm ngon hơn thì nhớ mua thêm cái chai sa tế tôm Chin-Su rồi nha."
+  ],
+  "cta_type": [
+    "Lưu video",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "cay",
+    "bùng vị",
+    "ngọt ngon",
+    "đã"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ăn một lần năm sáu trứng chưa thấy đã nữa á",
+    "nấu món này là nhất cái nách",
+    "Làm món này tôi ăn năm sáu trứng chưa thấy đã nữa."
+  ],
+  "hook_content": "Hồi giờ hột vịt lộn mua về chỉ luộc lên rồi ăn với muối tiêu thôi, mà bây giờ mới biết là cái lẩu hột vịt lộn chua cay này, trời ăn một lần năm sáu trứng chưa thấy đã nữa á.",
+  "hook_type": [
+    "Gây tò mò",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn nấu món lẩu hột vịt lộn chua cay đơn giản tại nhà, sử dụng sa tế tôm Chin-Su để tăng hương vị. Món ăn này rất phù hợp để thưởng thức cùng gia đình và bạn bè trong dịp lễ Tết.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

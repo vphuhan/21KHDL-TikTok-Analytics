@@ -1,0 +1,78 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món kê gà lạ lẫm, thắc mắc về tên gọi và nguồn gốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Bắt đầu ăn 3kg kê gà luộc sả, chia sẻ cảm nhận ban đầu.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi ngán"
+    },
+    {
+      "step": "Chuẩn bị nước chấm",
+      "desc": "Pha nước chấm muối tiêu ớt để át đi vị ngán của món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Ăn và cảm nhận vị ngọt bên trong, nhận xét nên ăn nóng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "Xin gợi ý",
+      "desc": "Hỏi khán giả cách chế biến món kê gà ngon hơn.",
+      "impact_level": "1",
+      "viewer_emotion": "Mong đợi"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người biết cái này làm món gì ngon nữa thì có gì chỉ cho mình biết với ha."
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Chia sẻ"
+  ],
+  "emotion_keywords": [
+    "ngọt",
+    "ngán",
+    "thơm",
+    "cay"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "không bổ bề ngang thì nó cũng bổ bề dọc",
+    "ăn cái nào hay là cắn kêu bụp bụp luôn vậy đó",
+    "nhìn sơ qua thì chắc tưởng đâu là luộc hột mít ăn không á"
+  ],
+  "hook_content": "Mọi người ơi, cho mình hỏi là không biết cái kê này ở đâu mà người ta có nhiều dữ vậy?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang món kê gà luộc sả, người ăn chia sẻ trải nghiệm lần đầu ăn món này, vừa ăn vừa pha nước chấm và xin gợi ý cách chế biến từ người xem.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

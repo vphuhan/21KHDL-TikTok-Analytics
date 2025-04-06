@@ -1,0 +1,92 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ốc nướng sa tế tiêu xanh và hoành thánh hoa hồng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Sơ chế ốc",
+      "desc": "Rửa ốc bươu và ngâm với sinh tố lúa mạch.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Hấp ốc",
+      "desc": "Hấp ốc với sả và lá chanh.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Pha nước sốt",
+      "desc": "Pha nước sốt sa tế tiêu xanh.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi đói bụng."
+    },
+    {
+      "step": "Nướng ốc",
+      "desc": "Nướng ốc trên bếp than và đổ sốt sa tế.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Thưởng thức ốc",
+      "desc": "Ăn và cảm nhận hương vị ốc nướng sa tế tiêu xanh.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn ăn ngay lập tức."
+    },
+    {
+      "step": "Làm hoành thánh",
+      "desc": "Trộn nhân và gói hoành thánh hình hoa hồng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy đẹp mắt."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nào mọi người có thể thử nha."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "cay",
+    "thơm",
+    "phê",
+    "giòn",
+    "bùng vị"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bao nhiêu cái sự tinh túy của tôi.",
+    "Ốc thì giòn sừn sực, vừa ăn vừa húp nước ốc phê lắm.",
+    "Ăn bằng miệng và phải ăn cả bằng mắt."
+  ],
+  "hook_content": "Trời ơi bao nhiêu cái sự tinh túy của tôi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu cách làm món ốc nướng sa tế tiêu xanh và hoành thánh hoa hồng, chia sẻ trải nghiệm và cảm nhận về hương vị đặc biệt của món ăn. Kêu gọi mọi người thử làm theo.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

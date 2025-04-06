@@ -1,0 +1,93 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món tôm nổ muối hột và bày tỏ sự háo hức.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Nhấn mạnh điểm đặc biệt",
+      "desc": "Khẳng định độ ngon của món ăn và gợi ý sử dụng tôm tươi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Hướng dẫn cách làm",
+      "desc": "Hướng dẫn chi tiết cách xếp lớp muối, sả và lá chanh.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chia sẻ kinh nghiệm",
+      "desc": "Đề cập đến các món nổ muối hột khác và lợi ích của cách làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm"
+    },
+    {
+      "step": "Kiểm tra kết quả",
+      "desc": "Hồi hộp kiểm tra chảo và khoe thành phẩm tôm hấp.",
+      "impact_level": "3",
+      "viewer_emotion": "Phấn khích"
+    },
+    {
+      "step": "Giới thiệu nước chấm",
+      "desc": "Giới thiệu hai loại nước chấm và công dụng của chúng.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Nhấn mạnh độ ngon và khuyến khích thử món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cả nhà mình ai chưa từng thử qua món này á, khi nào có dịp thì làm thử nha.",
+    "Bên Hưng ngoài nước chấm ra á thì còn rất là nhiều sản phẩm khác nữa. Cả nhà mình có dùng món nào á thì cứ nhắn Hưng nha."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Truy cập trang cá nhân"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "xuất sắc",
+    "thần thánh",
+    "mừng hú hồn",
+    "dai",
+    "thơm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Phải công nhận làm cách này thịt tôm của mình á ngon xuất sắc luôn.",
+    "Kết hợp thêm nước chấm thần thánh của Hưng nữa thì khỏi phải bàn.",
+    "Mấy món nào mà mình đem nổ muối hột á, món nào cũng ngon hết trơn á cả nhà."
+  ],
+  "hook_content": "Lần đầu tiên Hưng làm món tôm nổ muối hột, xem á nó có ngon như lời đồn không nha cả nhà.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn cách làm món tôm nổ muối hột và chia sẻ trải nghiệm lần đầu làm món này. Người làm đánh giá cao hương vị và giới thiệu thêm các loại nước chấm ăn kèm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

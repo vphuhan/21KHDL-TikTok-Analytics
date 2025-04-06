@@ -1,0 +1,49 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giọng mẹ vang lên, thúc giục con về nhà ăn cơm",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy ấm áp và nhớ nhà"
+    },
+    {
+      "step": "Lời hứa",
+      "desc": "Con hứa sẽ về nhưng phải gieo mạ xong đã",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy bình thường"
+    },
+    {
+      "step": "Âm nhạc",
+      "desc": "Lời bài hát về tình yêu đôi lứa vang lên",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy quen thuộc"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [],
+  "has_cta": "false",
+  "highlight_phrases": [],
+  "hook_content": "Mẹ hãy đi nhà, đang reo hớt con ơi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Kể chuyện"
+  ],
+  "summarization": "Video ghi lại lời mẹ giục con về ăn cơm và lời hứa của con. Sau đó chèn thêm một đoạn nhạc.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

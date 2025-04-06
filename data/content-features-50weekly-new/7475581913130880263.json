@@ -1,0 +1,72 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu thùng mayonnaise khổng lồ và loại đặc biệt cho bánh mì.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm mới."
+    },
+    {
+      "step": "Đánh giá sản phẩm",
+      "desc": "Đánh giá vị của mayonnaise và so sánh với loại truyền thống.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với sự khác biệt nhỏ."
+    },
+    {
+      "step": "Chia sẻ cách ăn",
+      "desc": "Chia sẻ cách ăn mayonnaise với cơm và các món khác.",
+      "impact_level": "3",
+      "viewer_emotion": "Ngạc nhiên và thích thú với cách ăn độc đáo."
+    },
+    {
+      "step": "Gợi ý kết hợp",
+      "desc": "Gợi ý chấm mayonnaise với xoài xanh để giảm độ ngấy.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử cách kết hợp mới."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "sướng",
+    "lạ lạ hay hay",
+    "ngon",
+    "hợp",
+    "ngon lành",
+    "đam mê",
+    "ngấy"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ai chê thì chê chứ mình thấy cái sự kết hợp này nó là một cái cực phẩm ý.",
+    "Mình chỉ cần có một bát cơm không với cả Mezola thôi là mình có thể ngồi ăn ngon lành mà không cần phải thêm thức ăn ý.",
+    "Mọi người chấm Mezola cho mình, mình đảm bảo nó ngon và nó hợp, không bị ngấy nghiếc gì luôn."
+  ],
+  "hook_content": "Có ai giống mình là cái nười mà đã ăn Mezola là lần nào cũng phải mua cái thùng Mezola 3 cân siêu to khổng lồ như thế này ăn nó mới sướng.",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review mayonnaise Ajinomoto loại đặc biệt dành cho bánh mì, so sánh với loại truyền thống và chia sẻ cách ăn độc đáo như trộn với cơm, chấm xoài xanh để giảm độ ngấy.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

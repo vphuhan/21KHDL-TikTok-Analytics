@@ -1,0 +1,52 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Chào khán giả bằng một câu ngắn gọn, không tập trung vào món ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Cảnh báo",
+      "desc": "Khuyên mọi người không nên ăn quá nhiều và nhanh như vậy.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Thông báo đây là video ASMR và cảm ơn người xem.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mọi người không nên làm theo mình nhá, bởi vì ăn lướt nhiều như này, thực sự là không tốt đâu."
+  ],
+  "hook_content": "các bạn nhá.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang ngắn, người nói nhắc nhở người xem không nên ăn quá nhanh và nhiều như mình, sau đó cảm ơn người xem đã theo dõi.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

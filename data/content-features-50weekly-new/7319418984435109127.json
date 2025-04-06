@@ -1,0 +1,81 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu bánh tráng muối ớt trộn độc đáo và nguồn gốc tên gọi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về nguồn gốc và hương vị."
+    },
+    {
+      "step": "Đánh giá thành phần",
+      "desc": "Nhấn mạnh chất lượng sa tế tôm, hành phi, tỏi phi tự làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng sản phẩm."
+    },
+    {
+      "step": "Hướng dẫn sử dụng",
+      "desc": "Gợi ý cách ăn kèm với trái cây và mỡ hành, tóp mỡ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thèm thuồng và muốn thử ngay."
+    },
+    {
+      "step": "Trộn và ăn thử",
+      "desc": "Trộn bánh tráng với các nguyên liệu và ăn thử.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy phấn khích và muốn mua."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá hương vị và nhận được phản hồi tích cực từ người khác.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn được ăn thử ngay lập tức."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Tết này là mấy bà phải mua cái bánh tráng này để cho tôi.",
+    "Mấy bà mua trên kênh tôi có khi được free ship á."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngon thiệt",
+    "ngon lắm",
+    "ngon điên đảo",
+    "thèm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái sa tế tôm nhà này ngon lắm nha. Không có bị ngọ đâu, mà ngon lắm.",
+    "Cái anh chủ này nè, ảnh trộn cái muối này theo công thức bô chi nào đó cái ảnh đặt tên cái muối này muối bô chi luôn mà ăn nó ngon.",
+    "Muối này vô tri chứ tên thôi nha. Chứ nó không có vô tri đâu á."
+  ],
+  "hook_content": "Ủa anh ơi, sao cái này gọi là bánh tráng muối bô chi vậy?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video giới thiệu và review bánh tráng trộn muối ớt \"bô chi\" với các thành phần tự làm chất lượng, hướng dẫn cách ăn kèm và kêu gọi mua sản phẩm trên kênh.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

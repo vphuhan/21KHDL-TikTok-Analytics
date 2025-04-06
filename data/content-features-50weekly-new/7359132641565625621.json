@@ -1,0 +1,83 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món miến xào thập cẩm dễ làm, phù hợp ngày nóng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hứng thú với món ăn đơn giản."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Ngâm miến, mộc nhĩ, cà rốt với nước lạnh cho mềm.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường với công đoạn chuẩn bị."
+    },
+    {
+      "step": "Chia sẻ cảm xúc",
+      "desc": "Than thở về thời tiết nắng nóng và sự mệt mỏi.",
+      "impact_level": "1",
+      "viewer_emotion": "Đồng cảm với nỗi khó chịu do thời tiết."
+    },
+    {
+      "step": "Pha sốt",
+      "desc": "Trộn các gia vị: nước tương, dầu hào, muối, bột ngọt,...",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy hữu ích với công thức pha sốt."
+    },
+    {
+      "step": "Xào rau củ",
+      "desc": "Đổi cách xào rau củ trước khi xào miến cho lạ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với sự thay đổi nhỏ trong cách nấu."
+    },
+    {
+      "step": "Quảng cáo sản phẩm",
+      "desc": "Giới thiệu chảo sâu lòng mua trên Shopee.",
+      "impact_level": "1",
+      "viewer_emotion": "Không mấy hứng thú với quảng cáo."
+    },
+    {
+      "step": "Xào miến",
+      "desc": "Gặp sự cố khi xào miến, phải đổi miến khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy buồn cười với tình huống dở khóc dở cười."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "chán",
+    "buồn ăn",
+    "sướng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "ời nóng thế này tra thiết cơm nước gì, làm ngay đĩa miến xào ăn cho nó nhẹ bụng các bác ơi.",
+    "Mà lắm lúc tôi còn bảo chồng tôi á, kể giờ mà không ăn cơm vẫn sống được thì có phải sướng không ấy chứ.",
+    "Hôm nay cái quả xào miến này của tôi là hơi bị tâm linh nha."
+  ],
+  "hook_content": "ời nóng thế này tra thiết cơm nước gì, làm ngay đĩa miến xào ăn cho nó nhẹ bụng các bác ơi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm món miến xào thập cẩm đơn giản, phù hợp cho ngày hè nóng nực, đồng thời chia sẻ về những khó khăn và sự cố gặp phải trong quá trình nấu ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

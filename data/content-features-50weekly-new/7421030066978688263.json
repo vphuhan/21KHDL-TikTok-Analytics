@@ -1,0 +1,93 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Chia sẻ lý do đến giờ mới review một ngày ăn uống.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Nêu quan điểm",
+      "desc": "Đưa ra quan điểm về việc người khác quan tâm đến mẹ bầu.",
+      "impact_level": "1",
+      "viewer_emotion": "Đồng tình"
+    },
+    {
+      "step": "Giới thiệu hoạt động",
+      "desc": "Đi sắm đồ em bé sau khi ăn sáng và uống cà phê.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thử món mới",
+      "desc": "Lần đầu thử bánh Pani Puri và Naan bơ tỏi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Đánh giá Pani Puri",
+      "desc": "Miêu tả hương vị và cảm nhận về bánh Pani Puri.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Đánh giá Cà ri",
+      "desc": "Nhận xét về món cà ri masala và bánh naan.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Đánh giá chung và khuyến khích nên thử.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "hào hứng",
+    "tò mò",
+    "ngon",
+    "giòn",
+    "béo",
+    "bùi",
+    "thú vị",
+    "vui",
+    "lạ lẫm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ê nó ngon lạ nha.",
+    "Trời ơi cái bánh nó giòn mà giòn tan á.",
+    "Kiểu lâu lâu rảnh rỗi muốn thay đổi cuộc sống thì nên thử."
+  ],
+  "hook_content": "Chị ơi, review một ngày ăn uống của bầu đi.",
+  "hook_type": [
+    "Phản hồi bình luận"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review một ngày ăn uống của mẹ bầu, tập trung vào trải nghiệm ăn thử món Ấn Độ là bánh Pani Puri và cà ri masala. Người nói chia sẻ cảm xúc, hương vị và đưa ra lời khuyên nên thử để đổi vị.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

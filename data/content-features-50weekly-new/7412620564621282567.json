@@ -1,0 +1,86 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Than thở về việc siêu thị hết gạo, phải ăn mì gói.",
+      "impact_level": "2",
+      "viewer_emotion": "Thương cảm, đồng cảm."
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu các món ăn thay thế cơm như mì gói, sủi cảo.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Miêu tả hương vị",
+      "desc": "Miêu tả chi tiết hương vị của mì gói và các món ăn kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi thèm thuồng."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Bắt đầu ăn và mời mọi người ăn cùng.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn cùng."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Nhận xét về độ giòn của bạch tuộc và hương vị há cảo.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Ăn ớt và cảm thấy hối hận.",
+      "impact_level": "3",
+      "viewer_emotion": "Buồn cười."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z",
+    "Sáng tạo"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thèm",
+    "ngon",
+    "giòn",
+    "cay",
+    "hối hận"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ăn mì gói lúc no nó thấy không ngon mà ăn lúc đói nó ngon dữ lắm nghe.",
+    "Ta nói ngon tới nỗi mà húp vét cạn tàu ráo máng luôn.",
+    "Tối tối mà đói đói ăn mì gói là coi như ngon khỏi nói luôn."
+  ],
+  "hook_content": "Tình hình hiện nay Nhật là tất cả các siêu thị gần nhà mình bốn năm cái là coi như không còn một hột gạo.",
+  "hook_type": [
+    "Gây tò mò",
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video chia sẻ về việc không có gạo để ăn ở Nhật và thay thế bằng mì gói và các món ăn khác. Người nói review hương vị các món ăn này và thể hiện cảm xúc khi ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước",
+    "Chân thành"
+  ]
+}

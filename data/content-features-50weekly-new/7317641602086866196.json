@@ -1,0 +1,88 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu bản thân sau khi thức khuya và sự lười biếng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Tìm kiếm quán ăn",
+      "desc": "Than thở về việc không ai hỏi han và quyết định ăn mì.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá mì quán",
+      "desc": "Bất ngờ vì tô mì nhiều tỏi, không hợp khẩu vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Mua thêm đồ ăn",
+      "desc": "Đi siêu thị mua dạm xanh và mì cay.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chế biến mì cay",
+      "desc": "Nấu mì cay với dạm, kim chi và nấm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Ăn mì cay và dạm trong trời lạnh.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấm áp"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Nhận xét về món ăn và nấm đùi gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "làm biếng",
+    "đói",
+    "hối hận",
+    "cay cay",
+    "ấm người",
+    "ngọt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Bưng cái tô mì ra tôi muốn xỉu ngang vậy đó.",
+    "Miệng thì nhai vậy đó chứ trong lòng đang hối hận phải nãy ăn cơm thì có lý rồi.",
+    "Ăn miếng dạm húp miếng nước mì tôi nói nó ấm người hẳn ra luôn."
+  ],
+  "hook_content": "Đây là hình ảnh của mình sau khi thức khuya tới 3 4 giờ sáng.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình nấu và ăn mì cay tại nhà sau khi thất vọng với quán ăn. Người nói chia sẻ trải nghiệm cá nhân về việc nấu nướng và thưởng thức món ăn trong thời tiết lạnh.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

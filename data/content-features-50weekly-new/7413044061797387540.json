@@ -1,0 +1,85 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu địa điểm",
+      "desc": "Giới thiệu cửa hàng tiện lợi Hàn Quốc và lý do đến đây.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy quen thuộc với những ai thích đồ Hàn"
+    },
+    {
+      "step": "Khám phá các món ăn",
+      "desc": "Liệt kê và review nhanh các món ăn vặt Hàn Quốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng các món ăn vặt hấp dẫn"
+    },
+    {
+      "step": "Ưu đãi",
+      "desc": "Thông báo về chương trình khuyến mãi khi mua hàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy có lợi nếu mua nhiều"
+    },
+    {
+      "step": "Chọn thêm đồ",
+      "desc": "Chọn thêm các món khác vì có khuyến mãi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn mới"
+    },
+    {
+      "step": "Thanh toán và tận hưởng",
+      "desc": "Thanh toán và tận hưởng ưu đãi từ voucher.",
+      "impact_level": "3",
+      "viewer_emotion": "Vui vẻ vì mua được nhiều đồ và có ưu đãi"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Ăn và đố mọi người đoán tổng tiền bữa ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức muốn biết kết quả"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Đặt câu hỏi"
+  ],
+  "emotion_keywords": [
+    "chữa lành",
+    "hạnh phúc",
+    "thơm",
+    "yêu thích",
+    "thích mê",
+    "sướng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "mỗi lần cần chữa lành là Bota lại quẹo nguyên sang cửa hàng Hàn Quốc",
+    "chưa biết là rách ở đâu nhưng mà cứ được ăn ngon là đã hạnh phúc 7 8 phần rồi",
+    "ngồi xe nó cứ êm du mát rười rượi. Thích mê. Đúng là người có voucher nó sướng hơn hẳn nhờ"
+  ],
+  "hook_content": "ăn trưa ở cửa hàng tiện lợi Hàn Quốc của mình hết bao nhiêu tiền.",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video ghi lại trải nghiệm đi ăn trưa tại cửa hàng tiện lợi Hàn Quốc, giới thiệu các món ăn vặt hấp dẫn và chương trình khuyến mãi, đồng thời chia sẻ cảm xúc vui vẻ khi mua được nhiều đồ và có ưu đãi. Cuối video, người nói đố khán giả đoán tổng tiền bữa ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

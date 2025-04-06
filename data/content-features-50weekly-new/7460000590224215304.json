@@ -1,0 +1,67 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu chân gà",
+      "desc": "Giới thiệu về chân gà mới nhận, số lượng và giá cả.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về chất lượng và giá cả."
+    },
+    {
+      "step": "Đánh giá chân gà",
+      "desc": "Đánh giá độ tươi, kích thước và nguồn gốc của chân gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng sản phẩm."
+    },
+    {
+      "step": "Nhấn mạnh giá hợp lý",
+      "desc": "Khẳng định giá cả hợp lý và khuyến khích mua hàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy sản phẩm đáng mua."
+    },
+    {
+      "step": "Mời ăn và chốt",
+      "desc": "Mời mọi người ăn và gợi ý mua thêm để dành.",
+      "impact_level": "1",
+      "viewer_emotion": "Muốn mua để ăn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người ấn vào góc trái màn hình để tham khảo thêm nhá."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "yên tâm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trăm cành 20 cái mình thấy giá như thế rất là hợp lý nhá."
+  ],
+  "hook_content": "Chân gà vừa nhận chiều nay mọi người ạ, trăm cành 20 cái, ngon lắm.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu và mukbang chân gà rút xương với giá 100k/20 cái, đánh giá độ tươi ngon và khuyến khích mua.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Tổng kết năm cũ bằng món mì cay ăn với đồ lẩu thừa.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với ý tưởng tận dụng đồ ăn thừa."
+    },
+    {
+      "step": "Chia sẻ trải nghiệm",
+      "desc": "May mắn không tăng cân, thoải mái ăn uống, nấu mì đêm khuya.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Review chai sốt mì cay quen thuộc, chia sẻ vì thấy ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy quen thuộc với chai sốt và tin tưởng vào review."
+    },
+    {
+      "step": "Kể chuyện hậu trường",
+      "desc": "Chủ động từ chối lì xì dù rất muốn, nhưng sẽ nhắn lại.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hài hước và tò mò về diễn biến tiếp theo."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Khẳng định mì cay nấu luôn ngon, đảm bảo bởi anh Nguyên.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng món mì và sự đảm bảo."
+    },
+    {
+      "step": "So sánh",
+      "desc": "Chấm điểm mì cay này top 1 so với các loại khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn thử loại mì cay được đánh giá cao nhất."
+    },
+    {
+      "step": "Thông báo sản phẩm mới",
+      "desc": "Sẽ review thêm chai nấu mì kim chi nếu ăn thấy ngon.",
+      "impact_level": "1",
+      "viewer_emotion": "Không quá ấn tượng, chờ đợi review tiếp theo."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người mà tin tưởng Trang Tấm thì cho một like, một share nha, còn không tin tưởng Trang Tấm thì cũng cho một share, một like."
+  ],
+  "cta_type": [
+    "Thích video",
+    "Chia sẻ"
+  ],
+  "emotion_keywords": [
+    "ổn áp",
+    "ngon",
+    "vấn vương"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đây là cái tô mì cay mình nấu chưa một lần thất vọng.",
+    "Mọi người mà nấu giống hề Trang Tấm là chỉ có ăn được, ăn ngon, chứ ăn dở là không đến mức đấy.",
+    "Chắc kiếp trước mình với chị chủ có mối duyên nợ gì đấy, nên là kiếp này Trang Tấm chỉ có vấn vương sản phẩm chị ấy làm ra thôi."
+  ],
+  "hook_content": "Hôm nay là đã bước qua năm mới nên Trang Tấm xin phép được tổng kết năm cũ bằng bữa mì cay rất là viral ở trên kênh.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video tổng kết năm bằng món mì cay nấu từ đồ lẩu thừa, đồng thời review chai sốt mì cay quen thuộc và chia sẻ trải nghiệm cá nhân về món ăn này. Trang Tấm khẳng định chất lượng món mì và hứa hẹn review thêm sản phẩm mới.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu quán bánh mì yêu thích ở Hà Nội.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Ăn bánh mì với nhiều nhân.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Chia sẻ trải nghiệm",
+      "desc": "Nhận xét bánh mì dễ bị rớt nhân.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người xem video của mình. Hẹn mọi người video sau. Tạm biệt."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "thích"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ăn một cái là sẽ no luôn ấy"
+  ],
+  "hook_content": "Xin mời.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang bánh mì Sài Gòn tại một quán ở Hà Nội, chia sẻ trải nghiệm ăn uống và cảm nhận cá nhân.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

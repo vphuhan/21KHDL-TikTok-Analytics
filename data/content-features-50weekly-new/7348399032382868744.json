@@ -1,0 +1,75 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu vấn đề",
+      "desc": "Người nói than phiền về việc bác Tuyết bán giá khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hơi khó hiểu"
+    },
+    {
+      "step": "Liệt kê sự khác biệt",
+      "desc": "Giá cá cơm, combo cá cơm khác với lời người nói.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy có chút hài hước"
+    },
+    {
+      "step": "Bày tỏ thái độ",
+      "desc": "Người nói bất ngờ, cảm thấy lời nói không có trọng lượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy khá thú vị"
+    },
+    {
+      "step": "Chốt lại vấn đề",
+      "desc": "Nhấn mạnh lại sản phẩm và kêu gọi mua hàng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Drama",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mua hàng ở góc trái màn hình nhá."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "bất ngờ",
+    "lạy",
+    "thật sự"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nãy cháu bảo anh em kênh cháu là cái gói cá cơm này 6.000 là giá mặc định rồi, không rẻ hơn được nữa.",
+    "Thế khác gì bác bảo là một cái gói này 5.000.",
+    "Bác không xem lời nói của cháu có tí trọng lượng nào à?"
+  ],
+  "hook_content": "đùa chứ bác Tuyết thôi, cháu lạy bác thật chứ.",
+  "hook_type": [
+    "Gây tò mò",
+    "Phản hồi bình luận"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kịch hóa"
+  ],
+  "summarization": "Video review về việc giá bán cá cơm và combo của bác Tuyết khác với những gì người nói đã thông báo trước đó, gây ra sự bất ngờ và hài hước. Người nói kêu gọi mua hàng ở góc trái màn hình.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Ngạc nhiên",
+    "Châm biếm"
+  ]
+}

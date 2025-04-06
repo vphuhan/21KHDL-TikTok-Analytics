@@ -1,0 +1,96 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bánh",
+      "desc": "Giới thiệu bánh mây sốc phố hot trend, có mặt đầu tiên ở HN.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món bánh mới lạ."
+    },
+    {
+      "step": "Thông tin thêm",
+      "desc": "Bánh có thể thay thế bánh sinh nhật, phù hợp làm quà tặng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Chia sẻ về bếp",
+      "desc": "Vợ là cô giáo dạy làm bánh, học viên từ nhiều nơi.",
+      "impact_level": "1",
+      "viewer_emotion": "Không có nhiều cảm xúc."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Bánh nhẹ như mây, tan trong miệng, giá 39k.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn, muốn thử."
+    },
+    {
+      "step": "Giới thiệu các vị",
+      "desc": "Bánh có 8 vị, bếp mở, làm bánh tươi nóng hổi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị vì nhiều lựa chọn."
+    },
+    {
+      "step": "Trải nghiệm ăn",
+      "desc": "Ngọt vừa phải, thơm, vị rõ, dâu tươi mát.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn thử ngay lập tức."
+    },
+    {
+      "step": "Tổng kết",
+      "desc": "Bánh ngon, check in xinh xỉu.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú, muốn mua."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "lung linh",
+    "đáng yêu",
+    "nhỏ nhỏ xinh xinh",
+    "nhẹ như mây",
+    "tan luôn trong miệng",
+    "ngọt vừa phải",
+    "thơm",
+    "dẻo dai",
+    "mát",
+    "ngon",
+    "xinh xỉu"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Hot trend mở màn đầu tiên của 2025 chắc chắn là cái bánh mây sốc phố này mọi người nhất định phải thử.",
+    "Đúng với cái tên bánh mây luôn nó nhẹ như mây. tan luôn trong miệng ấy mọi người.",
+    "Bánh này ngon mà để check in cũng xinh xỉu."
+  ],
+  "hook_content": "Ê, cái bánh mây sốc phố trên nổ uynh có mặt ở Hà Nội rồi này.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu bánh mây sốc phố đang hot trend ở Hà Nội, bánh có nhiều vị, giá cả phải chăng, hình thức đẹp và hương vị ngon.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

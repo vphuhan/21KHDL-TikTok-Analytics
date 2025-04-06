@@ -1,0 +1,86 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán bánh canh",
+      "desc": "Nhấn mạnh giá cao (350k) và độ nổi tiếng của quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về lý do giá cao."
+    },
+    {
+      "step": "Phản hồi về giá",
+      "desc": "Trích dẫn ý kiến trái chiều về giá cả của quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Hiểu rõ hơn về tranh cãi."
+    },
+    {
+      "step": "Đánh giá chất lượng",
+      "desc": "Nhấn mạnh chất lượng và sự tươi ngon của nguyên liệu.",
+      "impact_level": "3",
+      "viewer_emotion": "Tin tưởng vào chất lượng."
+    },
+    {
+      "step": "Mô tả chi tiết món ăn",
+      "desc": "Miêu tả kỹ lưỡng các thành phần và hương vị đặc trưng.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng."
+    },
+    {
+      "step": "So sánh các lựa chọn",
+      "desc": "Gợi ý lựa chọn phù hợp với túi tiền và khẩu vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Biết thêm lựa chọn khác."
+    },
+    {
+      "step": "Nhấn mạnh sự nổi tiếng",
+      "desc": "Khẳng định quán rất đông khách vào buổi tối.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng."
+    },
+    {
+      "step": "Thông tin chi tiết",
+      "desc": "Cung cấp địa chỉ và thời gian mở cửa của quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Nắm được thông tin cần thiết."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ổn áp",
+    "tươi",
+    "thơm",
+    "chất lượng",
+    "mềm",
+    "dai dai"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cô bán cũng hơn 30 mấy năm rồi nên từ cách nấu, hương vị, chọn đồ tươi thì không còn gì bàn nữa.",
+    "Càng cua ở đây là càng lớn và càng đại nha. Thịt cua càng tươi, không bị bở thịt, nồi nước lèo có gạch cua, nước luộc tôm nên thơm và chất lượng lắm.",
+    "Bánh nổi ở đây tui thấy đỉnh lắm nha, không phải bột đâu mà được làm từ cá thác lác nên siêu thơm."
+  ],
+  "hook_content": "Con mẹ nào nó không biết mấy vô nó 30.000đ không có gì hết.",
+  "hook_type": [
+    "Gây tranh cãi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quán bánh canh cua nổi tiếng với giá 350k, tập trung vào chất lượng nguyên liệu và hương vị đặc biệt của món ăn, đồng thời đề cập đến các lựa chọn giá cả khác nhau và thông tin về địa điểm, thời gian mở cửa.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

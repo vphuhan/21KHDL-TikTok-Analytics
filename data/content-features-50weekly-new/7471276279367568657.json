@@ -1,0 +1,63 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Hỏi thăm quán",
+      "desc": "Hỏi thăm quán đã bán chưa và nói muốn mua mang về.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Gọi món",
+      "desc": "Hỏi giá cả và quyết định mua 200k màng nêm thính.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Nhận xét món ăn",
+      "desc": "Review nhanh màng nêm thính ăn cùng lá rất ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Bắt đầu ăn",
+      "desc": "Bắt đầu ăn màng nêm thính.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mới phát hiện ra là ăn cái với cái lá nó ngon lắm luôn ạ.",
+    "Đấy mọi người nên thử nhá."
+  ],
+  "hook_content": "Cô ơi quán mình bán chưa? Hả? Quán mình bán chưa ạ? À cháu đem về. Vâng cháu đem về đây ạ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình mua và thưởng thức món màng nêm thính tại quán quen, chia sẻ cảm nhận cá nhân về món ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

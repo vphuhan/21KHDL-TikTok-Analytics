@@ -1,0 +1,67 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Gọi món",
+      "desc": "Mua xôi xéo và các món ăn kèm ở một quán quen.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị khi thấy quán quen thuộc."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Ăn xôi xéo nóng hổi với trứng và dưa.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm giác thèm thuồng khi thấy đồ ăn ngon."
+    },
+    {
+      "step": "Cảm nhận",
+      "desc": "Miêu tả hương vị xôi xéo gợi nhớ về Hà Nội.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy ấm áp và gần gũi."
+    },
+    {
+      "step": "Khuyến khích",
+      "desc": "Rủ người yêu cùng ăn để có sức.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "ngon quá",
+    "chuẩn luôn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mỗi lần cầm trên tay gói xôi nóng hổi là như tôi đang cảm nhận được cái vị bình dị của phố phường ấy.",
+    "Một cái vị nhẹ nhàng mà không vội, một cái vị có thể gọi tạm là Hà Nội."
+  ],
+  "hook_content": "Miêu, sáng nay anh ăn xôi xéo nhá.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video ghi lại cảnh người bán hàng mua xôi xéo ở Hà Nội và thưởng thức món ăn này, đồng thời miêu tả cảm xúc về hương vị đặc trưng của nó. Cuối video, người này rủ người yêu cùng ăn để có sức.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

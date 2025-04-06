@@ -1,0 +1,88 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán buffet cuốn",
+      "desc": "Quán buffet cuốn giá rẻ với nhiều món ăn hấp dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị vì giá cả phải chăng."
+    },
+    {
+      "step": "Miêu tả các món ăn",
+      "desc": "Liệt kê các món cuốn, chả, rau và đồ ăn kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi đói bụng vì món ăn đa dạng."
+    },
+    {
+      "step": "Giới thiệu các loại nước chấm",
+      "desc": "Quán có nhiều loại nước chấm phù hợp khẩu vị ba miền.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn thử các loại nước chấm."
+    },
+    {
+      "step": "Đánh giá trải nghiệm",
+      "desc": "Nhấn mạnh độ ngon của nem nướng, bánh ram và ché trộn.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng món nem nướng, bánh ram."
+    },
+    {
+      "step": "Gợi ý món nên thử",
+      "desc": "Khuyên thử bánh xèo mềm cuốn và sốt tương đậu.",
+      "impact_level": "2",
+      "viewer_emotion": "Lưu ý để thử khi đến quán."
+    },
+    {
+      "step": "Nhấn mạnh sự no bụng",
+      "desc": "Ăn tầm năm cuốn là no và quán có nhiều chi nhánh.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy đủ thông tin."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "dính",
+    "vừa vị",
+    "ổn áp",
+    "khoái",
+    "đã",
+    "chất lượng",
+    "bắt vị",
+    "no"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "ăn buffet cuốn chấm mà chỉ có 79 cành",
+    "nem nướng với bánh ram giòn á cuốn chấm nó đã",
+    "thêm xíu ớt cay cay á bắt vị tôi nói nó đã"
+  ],
+  "hook_content": "Trời đất ơi ăn buffet cuốn chấm mà chỉ có 79 cành, khẩu vị từ Bắc Trung Nam đều ăn được luôn nha mấy bà.",
+  "hook_type": [
+    "Khuyến mãi",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quán buffet cuốn giá 79k với nhiều món ăn và nước chấm đa dạng, phù hợp khẩu vị ba miền. Người nói đặc biệt thích nem nướng và bánh ram giòn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

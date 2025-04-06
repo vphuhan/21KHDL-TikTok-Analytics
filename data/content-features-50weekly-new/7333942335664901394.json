@@ -1,0 +1,89 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Thức dậy và chuẩn bị",
+      "desc": "Thức dậy sớm để đi ăn Tết nhà anh ông nội.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đến nhà người thân",
+      "desc": "Đến nhà anh chị để chuẩn bị cúng ông bà.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu mâm cơm cúng",
+      "desc": "Giới thiệu mâm cơm cúng ngày Tết của người Hàn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Nấu canh Tteokguk",
+      "desc": "Nấu canh Tteokguk theo truyền thống Hàn Quốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Chuẩn bị bánh gạo ngũ sắc và các nguyên liệu khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Chiên trứng và thái rong biển",
+      "desc": "Chiên trứng, thái rong biển để trang trí canh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Trang trí và mời mọi người ăn canh Tteokguk.",
+      "impact_level": "3",
+      "viewer_emotion": "Hào hứng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngán",
+    "không khí",
+    "ngáy khò khò",
+    "lạnh"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Văn hóa Hàn bánh gạo tượng trưng cho sự trường thọ là mình thấy quá đúng luôn, nó dài mà nó dai nữa mọi người.",
+    "Ông anh mình ổng ăn mà ổng nhai ổng kêu trời ơi không luôn á.",
+    "Bữa nay lần đầu tiên ông anh mình được ăn luôn á mà ổng la là từ bữa tới giờ món Hàn không có món nào ngán mà cái món này hết trơn."
+  ],
+  "hook_content": "Tình hình mùng 1 Tết của nhà mình là thức sớm vào lúc 5:00 sáng nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video ghi lại cảnh gia đình ăn Tết theo phong tục Hàn Quốc và nấu món canh Tteokguk truyền thống. Người làm video chia sẻ về các công đoạn chuẩn bị, nguyên liệu và cảm nhận của các thành viên trong gia đình.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

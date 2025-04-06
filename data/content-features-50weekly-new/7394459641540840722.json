@@ -1,0 +1,85 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Thăm mộ và hái lá dứa",
+      "desc": "Thăm mộ mẹ, hái lá dứa làm sữa bắp cho gia đình.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm động, gần gũi với tình cảm gia đình."
+    },
+    {
+      "step": "Thu hoạch trái cây",
+      "desc": "Leo trèo hái trái cốc, chia sẻ kỷ niệm tuổi thơ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị, nhớ lại tuổi thơ."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Thái bắp, xay lá dứa, chia sẻ về sự tiện lợi.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin cơ bản."
+    },
+    {
+      "step": "Nấu sữa bắp và rau câu",
+      "desc": "Hướng dẫn nấu sữa bắp bằng máy, làm rau câu lá dứa.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú với công thức."
+    },
+    {
+      "step": "Trình bày và thưởng thức",
+      "desc": "Đổ rau câu, rót sữa bắp, mời cả nhà cùng uống.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn thử ngay."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét của các thành viên gia đình về món sữa bắp.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị."
+    },
+    {
+      "step": "Cảm ơn và kết thúc",
+      "desc": "Cảm ơn mọi người đã xem, kết thúc video.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, lịch sự."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Truyền thống",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm ngon",
+    "ngon",
+    "vui"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cái này về ha trời ơi ta nói đâm thêm cái chén nước ớt nữa ăn nhức cái răng luôn.",
+    "Nghe ra là bày ra nấu ăn như thế này ở Việt Nam còn vui hơn ở Hàn á mọi người.",
+    "Nhìn cái lớp dưới màu xanh rồi mình rót thêm cái lớp trên màu vàng nữa ta nói nó đẹp ơi là đẹp luôn á."
+  ],
+  "hook_content": "Nha, mình sẽ đi thăm mộ mẹ mình rồi hái thêm ít lá dứa nữa để về làm sữa bắp đại cả nhà uống nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình làm sữa bắp rau câu lá dứa tại nhà, từ khâu chuẩn bị nguyên liệu đến khi hoàn thành và mời cả gia đình thưởng thức. Video mang đến cảm giác ấm cúng, gần gũi với những chia sẻ về gia đình và kỷ niệm tuổi thơ.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

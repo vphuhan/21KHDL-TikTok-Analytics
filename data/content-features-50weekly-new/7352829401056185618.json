@@ -1,0 +1,71 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu thử thách",
+      "desc": "Thông báo thực hiện thử thách ăn 30 trứng vịt lộn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về khả năng hoàn thành thử thách."
+    },
+    {
+      "step": "Bắt đầu ăn",
+      "desc": "Mời mọi người ăn cùng và giới thiệu nước chấm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và tò mò về hương vị."
+    },
+    {
+      "step": "Cập nhật tiến độ",
+      "desc": "Thông báo đã ăn hơn 10 quả trứng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, theo dõi tiến độ."
+    },
+    {
+      "step": "Gần hoàn thành",
+      "desc": "Cố gắng ăn nốt ba quả trứng còn lại.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hồi hộp và cổ vũ."
+    },
+    {
+      "step": "Kết thúc thử thách",
+      "desc": "Thông báo no và có lẽ sẽ nghỉ ăn trứng vịt lộn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thông cảm và buồn cười."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "siêu cay",
+    "no"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Hôm nay Vivi thực hiện thử thách ăn hết 30 cái trứng vịt lộn.",
+    "Mắm chấm siêu cay nha.",
+    "Chắc là phải mấy tháng sau nữa Vi mới ăn lại được trứng vịt lộn đó mọi người."
+  ],
+  "hook_content": "Hello mọi người. Hôm nay Vivi thực hiện thử thách ăn hết 30 cái trứng vịt lộn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Vivi thực hiện thử thách ăn 30 trứng vịt lộn với mắm chấm siêu cay, cập nhật tiến độ và chia sẻ cảm xúc no sau khi hoàn thành.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

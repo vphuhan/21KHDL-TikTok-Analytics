@@ -1,0 +1,80 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món cầy hương do người quen tặng, cần chế biến.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chuẩn bị và nếm thử",
+      "desc": "Chuẩn bị đồ chấm, mời mọi người và bắt đầu nếm thử món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Đánh giá hương vị, chất lượng món ăn và chia sẻ trải nghiệm.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với món ăn."
+    },
+    {
+      "step": "Thưởng thức tiếp",
+      "desc": "Tiếp tục ăn và đưa ra những nhận xét, đánh giá chi tiết.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn được ăn thử."
+    },
+    {
+      "step": "Cảm ơn và kết thúc",
+      "desc": "Cảm ơn người tặng và kết thúc video với lời chúc.",
+      "impact_level": "1",
+      "viewer_emotion": "Vui vẻ."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Truyền thống"
+  ],
+  "cta_content": [
+    "Xin mời các bạn nhá!",
+    "Xin mời mọi người nhá!"
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngậy",
+    "ngon",
+    "phê",
+    "đỉnh cao",
+    "tuyệt vời",
+    "quá ngon",
+    "tuyệt đỉnh"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cứ phải sấp đôi cho cho nó ngậy đúng không?",
+    "Mình đang đói là phải sấp đôi các bác ạ.",
+    "Con này mà đúng mà nếu mà anh em mình ở nhà hôm đấy mà nó tươi nguyên bản ấy thì chắc nó đẳng cấp nữa."
+  ],
+  "hook_content": "Cứ phải sấp đôi cho cho nó ngậy đúng không? sao. Này.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh hai người đàn ông chế biến và thưởng thức món cầy hương được tặng, vừa ăn vừa trò chuyện và đánh giá hương vị món ăn. Họ thể hiện sự thích thú và đánh giá cao món ăn này.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

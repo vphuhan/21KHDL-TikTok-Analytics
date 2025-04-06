@@ -1,0 +1,63 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu chân giò muối ăn liền mua tại siêu thị.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá sản phẩm",
+      "desc": "Đánh giá về độ giòn, không ngấy và vị mặn nhẹ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Gợi ý kết hợp",
+      "desc": "Gợi ý chấm cùng tương ớt để tăng thêm hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "giòn",
+    "không ngấy",
+    "mặn nhẹ",
+    "đã"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Thịt của nó mình thấy thấy ăn giòn và không bị ngấy.",
+    "Mặc dù là thịt muối nhưng mà nó không mặn nhiều đâu các bạn ạ.",
+    "Cái này mà chấm tương ớt thì mình thấy ăn quá đã luôn."
+  ],
+  "hook_content": "Mời mọi người cùng mình ăn chân giò muối nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu và đánh giá chân giò muối ăn liền mua tại siêu thị, với các nhận xét về độ giòn, vị mặn nhẹ và gợi ý chấm cùng tương ớt.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

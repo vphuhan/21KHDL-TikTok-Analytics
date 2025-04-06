@@ -1,0 +1,70 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu về cuộc sống ở Nhật Bản khi tuyết rơi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cuộc sống ở Nhật."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu càng cua tuyết mini đông lạnh mua ở siêu thị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy sản phẩm có vẻ hấp dẫn."
+    },
+    {
+      "step": "Mô tả sản phẩm",
+      "desc": "Miêu tả chi tiết về hình dáng, kích thước và giá cả.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy sản phẩm khá rẻ và chất lượng."
+    },
+    {
+      "step": "Chế biến",
+      "desc": "Hướng dẫn cách chế biến càng cua đông lạnh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của món ăn."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Ăn thử và đánh giá hương vị của càng cua.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn được ăn thử món này."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngọt",
+    "chắc thịt",
+    "cay"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Càng cua này thì tuy nhỏ nhưng mà nó ngọt và chắc thịt kinh khủng luôn.",
+    "Ăn mà phải có thử thách này kia thì nó mới lâu được chứ."
+  ],
+  "hook_content": "Hôm nay đang đi làm mà trời tuyết rơi trắng xóa luôn.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review càng cua tuyết mini mua ở siêu thị Nhật Bản, hướng dẫn cách chế biến và thưởng thức món ăn này. Người bán chia sẻ trải nghiệm cá nhân và đánh giá hương vị của càng cua.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

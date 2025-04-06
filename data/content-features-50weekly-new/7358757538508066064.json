@@ -1,0 +1,81 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu xả kho",
+      "desc": "Giới thiệu về việc xả kho hàng hóa với giá rẻ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các sản phẩm."
+    },
+    {
+      "step": "Liệt kê sản phẩm",
+      "desc": "Liệt kê các sản phẩm được giảm giá và so sánh giá.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với giá hời."
+    },
+    {
+      "step": "Nhấn mạnh ưu đãi",
+      "desc": "Nhấn mạnh các ưu đãi mua một tặng một.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy hấp dẫn bởi ưu đãi."
+    },
+    {
+      "step": "Đảm bảo chất lượng",
+      "desc": "Đảm bảo hàng công ty, tem nhãn rõ ràng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào sản phẩm."
+    },
+    {
+      "step": "Chính sách bảo hành",
+      "desc": "Thông báo chính sách bảo hành và đổi trả.",
+      "impact_level": "2",
+      "viewer_emotion": "An tâm khi mua hàng."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Khẳng định giá rẻ và khuyến khích mua hàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú với cơ hội mua sắm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Có gì mấy bà tranh thủ nghe."
+  ],
+  "cta_type": [
+    "Lưu video"
+  ],
+  "emotion_keywords": [
+    "rẻ",
+    "tốt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mua cái gì á rẻ quá cũng sợ.",
+    "Hàng ở đây đang xả kho giá rẻ hơn bên ngoài 6, 7 chục ngàn một món luôn á.",
+    "Cứ mua một tặng một quá trời luôn mà toàn là hàng date xa không à."
+  ],
+  "hook_content": "Mua cái gì á rẻ quá cũng sợ.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Liệt kê",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu chương trình xả kho các sản phẩm chăm sóc cá nhân và bánh kẹo với giá rẻ hơn so với thị trường, kèm theo nhiều ưu đãi mua một tặng một và chính sách bảo hành.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

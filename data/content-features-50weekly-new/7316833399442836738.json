@@ -1,0 +1,94 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu tổng quan",
+      "desc": "Giới thiệu về cửa hàng bách hóa Mie Dung với đa dạng sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự đa dạng của sản phẩm."
+    },
+    {
+      "step": "Liệt kê sản phẩm và giá",
+      "desc": "Liệt kê giá cả các sản phẩm, so sánh với siêu thị khác.",
+      "impact_level": "3",
+      "viewer_emotion": "Ngạc nhiên vì giá rẻ."
+    },
+    {
+      "step": "Nhấn mạnh ưu điểm",
+      "desc": "Nhấn mạnh sự đa dạng hàng hóa, đặc biệt là hàng Tết.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự phong phú của hàng hóa."
+    },
+    {
+      "step": "Chia sẻ trải nghiệm mua sắm",
+      "desc": "Mô tả trải nghiệm mua sắm, cảm giác muốn mua mọi thứ.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với cảm giác của người mua."
+    },
+    {
+      "step": "So sánh giá cả",
+      "desc": "So sánh giá ở cửa hàng với các nơi khác (sàn TMĐT).",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với mức giá cạnh tranh."
+    },
+    {
+      "step": "Đánh giá chất lượng",
+      "desc": "Đánh giá về chất lượng sản phẩm và sự đa dạng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng sản phẩm."
+    },
+    {
+      "step": "Thông tin địa điểm",
+      "desc": "Thông tin địa điểm và kết luận về trải nghiệm mua sắm.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ghé thăm cửa hàng."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "chấn động",
+    "ai chịu nổi",
+    "xinh",
+    "đã",
+    "thơm",
+    "mãn đời",
+    "không có giỡn",
+    "không thất vọng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ở đây mới là sỉ của sỉ luôn nè.",
+    "Gì đâu mà sale 60, 80% như thế này ai chịu nổi.",
+    "Vô đây là chỉ có nước kéo cái vỏ đi thôi chứ xách không có nổi."
+  ],
+  "hook_content": "Tui rì viu đồ rẻ cỡ này rùi hông biết mấy ông bà nhanh chân lẹ tay cỡ nào he?!!!",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video review Bách hóa Mie Dung ở Bình Tân, nơi có nhiều mặt hàng giá rẻ, đặc biệt là đồ Tết. Người bán review giá cả các mặt hàng so với thị trường và chia sẻ trải nghiệm mua sắm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

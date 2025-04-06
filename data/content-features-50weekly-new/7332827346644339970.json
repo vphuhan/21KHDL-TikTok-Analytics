@@ -1,0 +1,82 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về độ nổi tiếng và quy định đặc biệt của quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Không gian quán",
+      "desc": "Miêu tả không gian bếp mở và thói quen dùng gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Đánh giá chi tiết các thành phần và hương vị món hủ tiếu.",
+      "impact_level": "3",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Trộn và nếm thử",
+      "desc": "Cách trộn hủ tiếu và cảm nhận hương vị đặc biệt.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Nhận xét chung",
+      "desc": "Đánh giá về sợi hủ tiếu và nước lèo của quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng"
+    },
+    {
+      "step": "Thông tin địa điểm",
+      "desc": "Cung cấp địa chỉ cụ thể của quán để người xem dễ tìm.",
+      "impact_level": "1",
+      "viewer_emotion": "Mong đợi"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "đã",
+    "thích",
+    "mê",
+    "ngọt",
+    "đậm đà",
+    "thơm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cái sốt tương của quán đó mọi người, phải nói trời ơi đỉnh của chóp nha.",
+    "Đặc biệt là có cái gỏi ngó sen, mọi người ăn siêu ngon luôn, kiểu nó chua chua ngọt ngọt, ăn không có bị ngán.",
+    "Cái cọng hủ tiếu của quán này dai nha, ăn rất là ngon luôn và rất là nhiều topping."
+  ],
+  "hook_content": "Hủ tiếu Thành Đạt không chi nhánh, không mang theo chó, không nhận chuyển khoản thì liệu có ngon như lời đồn.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quán hủ tiếu Thành Đạt nổi tiếng ở Cô Bắc, tập trung vào hương vị đặc trưng của sốt tương, gỏi ngó sen và sợi hủ tiếu dai ngon, đồng thờiReview quán hủ tiếu Thành Đạt ở Cô Bắc, tập trung vào hương vị đặc trưng của sốt tương, gỏi ngó sen và sợi hủ tiếu dai ngon, đồng thời chia sẻ trải nghiệm ăn uống tại quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

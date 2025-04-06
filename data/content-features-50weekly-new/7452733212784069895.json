@@ -1,0 +1,98 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu và Phản hồi Đơn hàng",
+      "desc": "Mở đầu bằng việc nhận xét về đơn hàng và sự nhầm lẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự nhầm lẫn trong đơn hàng."
+    },
+    {
+      "step": "Đánh giá Matcha Latte",
+      "desc": "Tập trung vào hương vị, độ đậm đà và sự cân bằng.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử ngay."
+    },
+    {
+      "step": "Đánh giá Mãng Cầu",
+      "desc": "Nhận xét về vị trà, mãng cầu và việc không tách hột.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi thất vọng vì không tách hột."
+    },
+    {
+      "step": "Đánh giá Trà Ổi",
+      "desc": "Phân tích hương vị, so sánh với khẩu vị ở các độ tuổi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tự hỏi về hương vị 'siro công nghiệp'."
+    },
+    {
+      "step": "Đánh giá Trà Tứ Quý",
+      "desc": "Nhận xét về độ chua, ngọt và sự kết hợp các loại trái.",
+      "impact_level": "1",
+      "viewer_emotion": "Không mấy ấn tượng với hương vị."
+    },
+    {
+      "step": "Đánh giá Trà Đát",
+      "desc": "Đánh giá chung về hương vị, không quá đặc sắc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tạm chấp nhận được."
+    },
+    {
+      "step": "Tổng kết và Góp ý",
+      "desc": "Nhấn mạnh matcha latte ngon nhất, góp ý chân thành.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy được sự chân thành và quan tâm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Ai ở Long An mà thấy được mua ủng hộ cho bả đi.",
+    "Mọi người cũng tin đừng tin những gì mình review, hãy tự đến tự cảm nhận"
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "béo",
+    "vừa vị",
+    "dễ chịu",
+    "ngon",
+    "ổn định",
+    "thích",
+    "quý"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tôi là bị một cái tính là cái gì mà nó không theo ý tôi là tôi sẽ rất là khó chịu.",
+    "Trời đất ơi người ta muốn review là người ta review cho nó đa dạng cho nó phong phú hay là bả không tự tin với những món còn lại của bả, không biết.",
+    "Mọi người cũng tin đừng tin những gì mình review, hãy tự đến tự cảm nhận"
+  ],
+  "hook_content": "mạng matcha latte của Vi Anh, ngoài đời matcha latte của Vi Anh nha mọi người ơi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh",
+    "Liệt kê"
+  ],
+  "summarization": "Video review các loại đồ uống tại quán của Vy Anh ở Long An, tập trung vào matcha latte, mãng cầu, trà ổi, trà tứ quý và trà đát, đưa ra đánh giá chi tiết về hương vị và trải nghiệm cá nhân, đồng thời bày tỏ sự quý mến và ủng hộ dành cho chủ quán.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

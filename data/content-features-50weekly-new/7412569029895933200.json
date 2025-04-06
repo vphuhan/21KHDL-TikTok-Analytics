@@ -1,0 +1,79 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Mở đầu bằng câu hỏi về snack tuổi thơ và lời hứa khám phá.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Khu trộn bột",
+      "desc": "Quá trình trộn bột mì, nguyên liệu chính của snack.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Tạo hình",
+      "desc": "Bột được đưa vào máy tạo hình thành phẩm snack.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Trộn gia vị",
+      "desc": "Snack được trộn với gia vị để tăng hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Đóng gói",
+      "desc": "Snack được đóng gói tự động, đảm bảo vệ sinh.",
+      "impact_level": "1",
+      "viewer_emotion": "An tâm"
+    },
+    {
+      "step": "Thành phẩm",
+      "desc": "Giới thiệu sản phẩm cuối cùng: thùng snack tôm biển.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Có thể bạn chưa biết những gói snack tuổi thơ 2K được làm từ gì?",
+    "Ở đây chúng ta nhìn thấy những chú tôm.",
+    "An toàn vệ sinh vô cùng."
+  ],
+  "hook_content": "Có thể bạn chưa biết những gói snack tuổi thơ 2K được làm từ gì? Hãy ở lại và xem hết video này, chúng ta sẽ khám phá ra sự thật ngay sau đây.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video khám phá quy trình sản xuất snack tôm biển từ khâu trộn bột đến đóng gói, làm nổi bật tính an toàn vệ sinh và sự hấp dẫn của sản phẩm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

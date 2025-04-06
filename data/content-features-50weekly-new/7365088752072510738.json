@@ -1,0 +1,60 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Thông báo tìm được bánh Oreo vị Pikachu và nghi ngờ về chất lượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm mới."
+    },
+    {
+      "step": "Mở hộp và nhận xét",
+      "desc": "Bóc bánh khó khăn, nhận xét ban đầu về chất lượng sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hơi thất vọng."
+    },
+    {
+      "step": "So sánh với sản phẩm trước",
+      "desc": "So sánh với bánh Oreo Pikachu đã ăn trước đó.",
+      "impact_level": "1",
+      "viewer_emotion": "Tự hỏi về sự khác biệt."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "khó chịu",
+    "ngạc nhiên"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Bánh đểu hay sao mà khó bóc vậy?",
+    "Hình như cái này là Oreo đểu.",
+    "Cái Oreo Pikachu hôm trước anh Quang đen ăn khác hơn."
+  ],
+  "hook_content": "Hôm nay mình đã tìm được bánh Oreo vị Pikachu.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review bánh Oreo vị Pikachu, người nói nhận xét bánh khó bóc, nghi ngờ về chất lượng so với sản phẩm đã ăn trước đó.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Chân thành"
+  ]
+}

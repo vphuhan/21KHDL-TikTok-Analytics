@@ -1,0 +1,70 @@
+prompt = """Bạn là một chuyên gia sáng tạo nội dung TikTok trong lĩnh vực ẩm thực.
+
+Hãy phân tích kỹ các transcript sau để rút ra công thức xây dựng nội dung hiệu quả trên TikTok, từ cách nói chuyện, truyền cảm xúc đến việc lựa chọn từ ngữ và nhịp điệu video.
+
+---
+
+**Bước 1: Phân tích xu hướng xây dựng nội dung dựa trên các transcript. Trả lời các câu hỏi sau:**
+
+1. Người nói thường bắt đầu video như thế nào? Có dùng câu hỏi, cảm thán, hay một sự việc bất ngờ?
+2. Giọng điệu họ sử dụng là gì? Có mang phong cách Gen Z, vui vẻ, tự nhiên, hay nghiêm túc, khách quan?
+3. Tiến trình phát triển của video như thế nào? (ví dụ: giới thiệu quán ăn -> giới thiệu menu -> đưa ra cảm nhận -> kêu gọi chia sẻ)
+4. Có cụm từ hay cách diễn đạt nào được lặp lại, dễ viral hoặc gây ấn tượng mạnh không?
+5. Họ mô tả món ăn hoặc trải nghiệm như thế nào? Có dùng từ tượng thanh, cảm xúc cá nhân không?
+6. Có yếu tố cá nhân hóa không? Ví dụ: "mình đi với ai", "mình thấy sao", hay lời khuyên như "nên đi lúc nào"?
+7. Người nói có sử dụng CTA (kêu gọi hành động) không? Nếu có thì theo dạng nào? (Gợi ý, thuyết phục, thách thức, kêu gọi thử…)
+
+---
+
+**Bước 2: Viết dàn ý nội dung ngắn gọn theo 3 phần:**
+
+- **Hook:** Câu mở đầu gây tò mò
+- **Body:** Nội dung chính – gồm trải nghiệm, cảm xúc, đặc điểm món ăn/quán ăn
+- **CTA:** Lời kết thúc có tác dụng thúc đẩy người xem (lưu lại, thử ăn, comment...)
+
+**Lưu ý quan trọng:**
+- Nếu người dùng có mô tả rõ món ăn hoặc địa điểm → hãy sử dụng thông tin đó trong dàn ý
+- Nếu không có, hãy tự đưa ra một ví dụ phù hợp với phong cách các transcript
+
+---
+
+**Bước 3: Viết kịch bản TikTok hoàn chỉnh (~3 phút) dựa trên dàn ý đã tạo**
+
+- Viết như lời thoại thật trong video TikTok, không mô tả hay giải thích
+- Có thể dùng emoji, ngắt câu linh hoạt, từ lóng, viết tắt, cảm thán
+- Lồng ghép cảm xúc mạnh (sốc, tiếc, mê mẩn, chill...) để tăng tính cuốn hút
+- Giữ nhịp điệu tự nhiên, mang phong cách văn nói, không viết theo kiểu văn viết
+
+---
+
+Dưới đây là thông tin từ người dùng và các transcript ví dụ:
+
+**Mô tả từ người dùng:**
+{{user_description}}
+
+**Các transcript ví dụ:**
+{{transcripts}}
+
+""".replace('{{user_description}}', user_input).replace("{{transcripts}}", transcript_prompt)
+
+# Markdown(prompt)
+
+
+
+prompt = f"""
+Bạn là một chuyên gia sáng tạo nội dung TikTok trong lĩnh vực ẩm thực.
+
+Dựa trên những phân tích sau, hãy tạo nên kịch bản hoàn chỉnh cho video TikTok:
+{response_analysis}
+
+Đây là yêu cầu của người dùng: {user_input}
+
+
+Viết kịch bản TikTok hoàn chỉnh (~3 phút) dựa trên dàn ý đã tạo**
+
+- Tận dụng tối đa các phân tích để tạo kịch bản, đặc biệt là các template của hook và cta.
+- Viết như lời thoại thật trong video TikTok, không mô tả hay giải thích
+- Có thể ngắt câu linh hoạt, dùng từ lóng, viết tắt, cảm thán
+
+
+"""

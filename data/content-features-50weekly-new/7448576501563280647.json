@@ -1,0 +1,100 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu chuối",
+      "desc": "Giới thiệu chuối bàn tay Phật độc lạ, nguồn gốc từ Philippines.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hình dáng kỳ lạ của chuối."
+    },
+    {
+      "step": "Trạng thái chuối",
+      "desc": "Chuối chưa chín, cần ủ thêm để có thể quay video.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, chờ đợi kết quả."
+    },
+    {
+      "step": "Chuối bị hỏng",
+      "desc": "Chuối chín không đều, bị mốc, không thể đem tặng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tiếc nuối vì chuối bị hỏng."
+    },
+    {
+      "step": "Tách và nếm thử",
+      "desc": "Tách chuối khó khăn, nếm thử thấy vị ngọt, dẻo, bùi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng hương vị của chuối."
+    },
+    {
+      "step": "Chế biến chuối",
+      "desc": "Cắt và đem chuối đi luộc để thử cách ăn khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị chuối luộc."
+    },
+    {
+      "step": "Thưởng thức chuối luộc",
+      "desc": "Chuối luộc có vị ngọt đậm, ngon hơn chuối sống.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn thử ngay món chuối luộc."
+    },
+    {
+      "step": "Kết luận và CTA",
+      "desc": "Chuối có ý nghĩa tâm linh, hỏi ý kiến Tina.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy video khá vô tri."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người lỡ lướt ngang qua thì ủng hộ giùm em nha.",
+    "Cám ơn mọi người đã coi clip của mình."
+  ],
+  "cta_type": [
+    "Thích video",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "độc lạ",
+    "khó khăn",
+    "thúi",
+    "mốc",
+    "meo",
+    "khó tách",
+    "dẻo",
+    "bùi",
+    "ngọt",
+    "ngon",
+    "vô tri",
+    "tâm linh"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Độc lạ chưa? Có một cái content creator nào ở Sài Gòn mà có được cái nải chuối bàn tay Phật giống em?",
+    "Trời lý tôi luộc chưa có được đều lắm. Cái này phải luộc thêm ờ 10 phút nữa thì nó sẽ là nóng hổi luôn.",
+    "Mình nghĩ cái chuối này cúng hay này kia nó sẽ rất là okay. Tại nó mang một cái ý nghĩa nó rất là tâm linh."
+  ],
+  "hook_content": "Chuối bàn tay Phật.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review chuối bàn tay Phật, một loại chuối độc lạ có nguồn gốc từ Philippines. Người bán hàng chia sẻ quá trình từ khi mua chuối còn sống đến khi chuối chín hỏng, sau đó nếm thử và luộc chuối để ăn, đồng thời chia sẻ cảm nhận về hương vị.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hài hước"
+  ]
+}

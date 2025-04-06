@@ -1,0 +1,90 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn và chia sẻ kinh nghiệm",
+      "desc": "Giới thiệu món rau câu sợi giòn và chia sẻ kinh nghiệm làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về bí quyết làm rau câu không bị chảy nước."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Hướng dẫn sơ chế lá dứa và giới thiệu các nguyên liệu khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Học được cách giữ màu xanh đẹp của lá dứa."
+    },
+    {
+      "step": "Chuẩn bị hỗn hợp rau câu",
+      "desc": "Hướng dẫn trộn bột rau câu với nước và các nguyên liệu khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Hiểu rõ tỉ lệ nguyên liệu để rau câu giòn."
+    },
+    {
+      "step": "Nấu rau câu",
+      "desc": "Hướng dẫn nấu rau câu và lưu ý về lửa.",
+      "impact_level": "2",
+      "viewer_emotion": "Nắm được kỹ thuật nấu rau câu không bị tách lớp."
+    },
+    {
+      "step": "Đổ lớp rau câu cà phê",
+      "desc": "Hướng dẫn đổ lớp rau câu cà phê vào khuôn.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung được cách tạo hình rau câu."
+    },
+    {
+      "step": "Đổ lớp rau câu dừa và sợi giòn",
+      "desc": "Hướng dẫn nấu và đổ lớp rau câu dừa và sợi giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự kết hợp của các lớp rau câu."
+    },
+    {
+      "step": "Hoàn thành và thưởng thức",
+      "desc": "Cho rau câu vào tủ lạnh, cắt và thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng và muốn thử làm ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Hương chúc cả nhà sẽ thành công với món này.",
+    "Giờ thì Hương bái bai cả nhà mình nha."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "hấp dẫn",
+    "bắt mắt",
+    "đẹp",
+    "giòn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cách làm rau câu sợi giòn đơn giản, chỉ cần cả nhà làm theo cách của Hương, chắc chắn sẽ thành công.",
+    "Lá dứa mà sơ chế theo cách của Hương á, giữ được cái màu xanh rất là đẹp.",
+    "Làm theo cách của Hương á, rau câu của mình không bị tách lớp mà còn rất là đẹp luôn."
+  ],
+  "hook_content": "Cách làm rau câu sợi giòn đơn giản, chỉ cần cả nhà làm theo cách của Hương, chắc chắn sẽ thành công.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm rau câu sợi giòn đơn giản tại nhà, chia sẻ bí quyết để rau câu không bị tách lớp, có màu sắc đẹp và hương vị hấp dẫn. Hương sử dụng các nguyên liệu dễ tìm và hướng dẫn chi tiết từng bước.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

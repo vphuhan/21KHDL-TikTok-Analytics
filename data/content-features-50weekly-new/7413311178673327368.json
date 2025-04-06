@@ -1,0 +1,98 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán và độ tin cậy",
+      "desc": "Khẳng định chất lượng nem, giới thiệu về bản thân và độ kỹ tính.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng sản phẩm của quán."
+    },
+    {
+      "step": "Đặc điểm nổi bật của quán",
+      "desc": "Nhấn mạnh sự khác biệt trong nguyên liệu và món ăn đặc trưng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự khác biệt của quán."
+    },
+    {
+      "step": "Đánh giá menu và quy trình",
+      "desc": "Nhận xét về sự tâm huyết, chỉnh chu và sạch sẽ của quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng về sự chuyên nghiệp của quán."
+    },
+    {
+      "step": "Giới thiệu combo đặc biệt",
+      "desc": "Liệt kê các món trong combo và đặc biệt về nước chấm.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử ngay lập tức."
+    },
+    {
+      "step": "Trải nghiệm và đánh giá món ăn",
+      "desc": "Miêu tả chi tiết hương vị, cảm nhận khi ăn nem nướng.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm nhận được hương vị và độ ngon của món ăn."
+    },
+    {
+      "step": "Gợi ý lựa chọn khác",
+      "desc": "Đề xuất các món khác và giá cả hợp lý cho người đi ít.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự đa dạng và phù hợp với nhiều người."
+    },
+    {
+      "step": "Giới thiệu bánh miền Trung",
+      "desc": "Giới thiệu các loại bánh và cảm nhận về bánh bèo.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò và muốn thử các loại bánh đặc sản."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Nếu mà muốn đổi bữa ăn nem nướng thì mọi người tham khảo Nem Nướng Coco ha.",
+    "Bye bye."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "đậm đà",
+    "ngậy",
+    "giòn",
+    "dai dẻo",
+    "vừa chua vừa giòn",
+    "no căng hông",
+    "ấn tượng",
+    "chu đáo"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ai chứng minh được trong cây nem của mình có 1% bột hoặc 1 phần ngàn bột, mình vẫn cho 1 tỷ.",
+    "Một cuốn đầy đủ rau thơm, đồ chua, kẹp thêm mấy cái loại chả yêu thích rồi chấm đẫm vào sốt ta nói ngập răng đã lắm luôn.",
+    "Riêng cái bánh bèo được làm trực tiếp nóng hổi tại quán. Bột bánh thơm, không có bị bở, vừa hấp xong lấy ra liền ăn siêu ngon."
+  ],
+  "hook_content": "Ai chứng minh được trong cây nem của mình có 1% bột hoặc 1 phần ngàn bột, mình vẫn cho 1 tỷ.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quán nem nướng Nha Trang Coco với nhiều món ngon và đặc biệt là nem nướng được làm từ nguyên liệu chất lượng, không pha bột. Ngoài ra, quán còn có nhiều món bánh đặc sản miền Trung và không gian rộng rãi, sáng sủa.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

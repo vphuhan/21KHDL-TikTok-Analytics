@@ -1,0 +1,83 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về việc đi đón con và món ăn hôm nay.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chia sẻ về gia đình",
+      "desc": "Chia sẻ về tình trạng sức khỏe và công việc của gia đình.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Giới thiệu và sơ chế các nguyên liệu nấu ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Nấu cháo",
+      "desc": "Bắt đầu quá trình nấu cháo gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Hoàn thiện món ăn",
+      "desc": "Thêm hành và giới thiệu món cháo gà hoàn chỉnh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Ăn và cảm nhận",
+      "desc": "Cả gia đình cùng ăn và chia sẻ cảm nhận về món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấm áp"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Kết thúc bữa ăn và trò chuyện cùng gia đình.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "ngon ghê"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cái này là rau tiến vua, hồi nãy trước khi đi rước Tùng Hân á thì mình đã ngâm nó rồi. Nay là mình nấu cháo gà, gỏi rau tiến vua.",
+    "Thấy mặt ba anh Tùng Hân bữa nay tươi tắn hơn ha mọi người, cảm cúm vậy thôi mà xuống hết mấy kilo á.",
+    "Rau tiến vua á, dòm nó ngon lắm luôn á ăn thử đi."
+  ],
+  "hook_content": "ăn gì đó. À, cô. Đó đó mọi người thấy chưa, cứ nói em ăn hiếp ba anh Tùng Hân mà chính em mới là người bị quen nè.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video ghi lại quá trình nấu cháo gà rau tiến vua cho gia đình, chia sẻ về cuộc sống thường ngày và cảm nhận về món ăn. Nội dung tập trung vào việc nấu ăn và tương tác gia đình.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

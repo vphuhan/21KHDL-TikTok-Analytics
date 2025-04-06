@@ -1,0 +1,87 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giãi bày tâm sự",
+      "desc": "Chia sẻ về em bé đặc biệt và hành trình 3 năm đã qua.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm động và đồng cảm với những chia sẻ."
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Các con thèm mì tương đen nên mẹ quyết định vào bếp.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, giới thiệu món ăn sắp nấu."
+    },
+    {
+      "step": "Nấu sốt tương đen",
+      "desc": "Hướng dẫn các bước làm sốt tương đen chuẩn vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị và muốn học theo công thức."
+    },
+    {
+      "step": "Luộc mì",
+      "desc": "Chia sẻ bí quyết luộc mì tươi dai ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hay vì có thêm mẹo để luộc mì ngon hơn."
+    },
+    {
+      "step": "Trình bày và trộn mì",
+      "desc": "Trộn mì và mời mọi người cùng ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thấy đói bụng."
+    },
+    {
+      "step": "Cả nhà ăn mì",
+      "desc": "Cả nhà cùng ăn mì tương đen và trò chuyện.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy ấm cúng và vui vẻ."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Bây giờ thì mời mọi người ăn mì tương đen chung với cả nhà bọn mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "buồn",
+    "cố gắng",
+    "ngon",
+    "thèm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nếu như mà Su Hen của mình không bị ốm như thế này á thì ra được đi học cùng với tụi Hân rồi.",
+    "Vẫn là cái cách cũ, công thức cũ nấu mì tương đen không hề bị đắng mà còn bao ngon nữa.",
+    "Đen này nó đúng như cái tên của nó luôn á, không có thấy được topping ở bên trong nó có gì luôn á."
+  ],
+  "hook_content": "Khi nhà có một em bé đặc biệt thì bọn mình có buồn không?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ về cuộc sống gia đình có em bé đặc biệt và hướng dẫn nấu món mì tương đen tại nhà. Người mẹ đảm đang nấu món ăn yêu thích cho các con và chia sẻ những tâm tư tình cảm.",
+  "tone_of_voice": [
+    "Chân thành",
+    "Thân thiện"
+  ]
+}

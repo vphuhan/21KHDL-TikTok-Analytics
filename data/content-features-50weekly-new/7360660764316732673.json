@@ -1,0 +1,65 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Đặt vấn đề",
+      "desc": "Người quay phim hỏi chuyện một bạn nữ về vấn đề tình yêu.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về nội dung tiếp theo."
+    },
+    {
+      "step": "Giới thiệu quán ăn",
+      "desc": "Giới thiệu các món ăn vặt tại cổng trường THCS Trương Công Định.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng các món ăn."
+    },
+    {
+      "step": "Tương tác với học sinh",
+      "desc": "Hỏi han, trêu đùa các bạn học sinh về chiều cao.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Chào tạm biệt và chúc các em học sinh may mắn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "vui"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Bánh mì kẹp mì ạ.",
+    "Hay là nhìn nhau trong ánh mắt đã chạm nhau.",
+    "Tí bọn mày bị mắc lừa rồi bảo tao nhá."
+  ],
+  "hook_content": "Không có người yêu chưa? Dạ em có rồi.",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Đối thoại",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video quay cảnh một người đi ăn vặt ở cổng trường THCS Trương Công Định, giới thiệu các món ăn và tương tác với các em học sinh.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

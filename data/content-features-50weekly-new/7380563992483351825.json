@@ -1,0 +1,68 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu nhân vật",
+      "desc": "Giới thiệu về người thợ làm bánh và ước mơ của anh.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm động"
+    },
+    {
+      "step": "Chia sẻ khó khăn",
+      "desc": "Người thợ làm bánh chia sẻ về những khó khăn gặp phải.",
+      "impact_level": "3",
+      "viewer_emotion": "Thương cảm"
+    },
+    {
+      "step": "Nỗ lực vượt khó",
+      "desc": "Nhấn mạnh ý chí và khát khao của người thợ.",
+      "impact_level": "3",
+      "viewer_emotion": "Khâm phục"
+    },
+    {
+      "step": "Đánh giá bánh",
+      "desc": "Đánh giá bánh và cảm nhận về niềm vui của người thợ.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Kiến thức",
+    "Chuyên nghiệp"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "buồn",
+    "vui",
+    "hạnh phúc"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "chiếc bánh gato đặc biệt do một người thợ chưa từng được đi học",
+    "mình đã thấy được niềm vui cũng như là sự hạnh phúc trong ánh mắt của anh khi mình qua lễ bánh"
+  ],
+  "hook_content": "là chiếc bánh gato đặc biệt do một người thợ chưa từng được đi học và ước mơ để trở thành thợ làm bánh cũng là một câu chuyện rất buồn trong ký ức tuổi thơ của anh.",
+  "hook_type": [
+    "Kể chuyện",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện"
+  ],
+  "summarization": "Video kể về chiếc bánh gato đặc biệt của một người thợ làm bánh có hoàn cảnh khó khăn, đồng thời chia sẻ về nghị lực vượt khó và đam mê với nghề. Người review cảm nhận được niềm vui và hạnh phúc của người thợ khi làm bánh.",
+  "tone_of_voice": [
+    "Chân thành",
+    "Chân thành"
+  ]
+}

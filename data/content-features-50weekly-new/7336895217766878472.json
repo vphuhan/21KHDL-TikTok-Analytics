@@ -1,0 +1,92 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu địa điểm quán bánh tráng Dơm Vua ở Chùa Láng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về địa điểm ăn uống mới."
+    },
+    {
+      "step": "Thông tin buffet",
+      "desc": "Thông tin về buffet bánh tráng 69k với gần 20 món.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn với sự đa dạng món ăn."
+    },
+    {
+      "step": "Review món ăn",
+      "desc": "Đánh giá bánh tráng pizza phô mai và các loại sốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và muốn thử các món."
+    },
+    {
+      "step": "Ưu điểm quán",
+      "desc": "Nhấn mạnh ưu điểm không giới hạn thời gian, địa điểm tiện lợi.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy tiện lợi và thoải mái."
+    },
+    {
+      "step": "Nhắc về món cũ",
+      "desc": "Nhắc lại món bánh tráng cuộn 1m và bò đen nổi tiếng.",
+      "impact_level": "1",
+      "viewer_emotion": "Nhớ về các món ăn đã từng hot."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Đánh giá chất lượng bánh tráng và sốt me của quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng món ăn."
+    },
+    {
+      "step": "Thông tin khác",
+      "desc": "Thông tin về combo, giờ mở cửa, không gian quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Nắm bắt thông tin chi tiết về quán."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mọi người tham khảo thử xem sao."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thích",
+    "ngậy ngậy",
+    "béo"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "chỉ cần cầm 69k sẽ được thử hết các loại nướng cuộn trộn mà không giới hạn thời gian ăn, không giới hạn số lần gọi",
+    "mấy bát sốt me chua chua ngậy ngậy, mọi người chắc chắn phải gọi thử mệt năm vị này để chấm sốt nhá",
+    "Nếu mọi người không muốn phải chờ đợi lâu thì nên đi vào khung giờ vắng từ 1:00 đến 4:00 nha"
+  ],
+  "hook_content": "gửi đồ bà mình đấy ạ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quán Dơm Vua Bánh Tráng ở khu Chùa Láng, nổi tiếng với buffet bánh tráng 69k không giới hạn thời gian, nhiều món ăn hấp dẫn và không gian rộng rãi, phù hợp cho nhóm đông.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

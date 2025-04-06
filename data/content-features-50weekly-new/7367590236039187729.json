@@ -1,0 +1,82 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu bánh hot trend và sự khó khăn khi mua.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món bánh hot trend."
+    },
+    {
+      "step": "Miêu tả bánh",
+      "desc": "Quá trình làm bánh và nguyên liệu: phô mai, trứng muối.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng khi nghe miêu tả bánh."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Bánh không quá ngọt, không bị ngán và rất giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử ngay món bánh này."
+    },
+    {
+      "step": "Lưu ý khi mua",
+      "desc": "Bánh chưa chín hoàn toàn, cần chiên lại.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích cho người mua."
+    },
+    {
+      "step": "Thông tin giá cả",
+      "desc": "Giá bánh tiêu phô mai và bánh bao chiên.",
+      "impact_level": "1",
+      "viewer_emotion": "Nắm bắt được chi phí."
+    },
+    {
+      "step": "Địa chỉ quán",
+      "desc": "Hướng dẫn đường đi đến quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết được vị trí quán."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "xịn",
+    "thích ăn",
+    "giòn",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Em nói thật với chị chủ nhá. Cái bánh phô mai trứng chảy của chị cũng bình thường thôi. Chẳng qua cái mồm của em nó thích ăn em mới phải đi ba lần, lần nào ra cũng phải đợi rõ cay.",
+    "Tôi nói thật nhá. Tôi đến quay chị mới làm cái bánh bao chiên hai trứng chứ bình thường nha phải bán hết bánh phô mai chị mới chiên bánh bao.",
+    "Mua về mọi người chiên bằng nồi chiên không dầu sẽ ngon như ở quán."
+  ],
+  "hook_content": "chị ơi cái bánh của chị đang cực kỳ hot trên TikTok ấy.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review bánh tiêu phô mai trứng chảy đang hot trên TikTok, chia sẻ trải nghiệm đi mua bánh khó khăn và đánh giá hương vị, chất lượng sản phẩm, đồng thời cung cấp thông tin về giá cả và địa chỉ quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

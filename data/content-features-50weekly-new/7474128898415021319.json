@@ -1,0 +1,98 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu và order",
+      "desc": "Giới thiệu về đồ ăn Singapore và order năm món đồ ngọt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn được giới thiệu."
+    },
+    {
+      "step": "Gặp vấn đề giao hàng",
+      "desc": "Gặp vấn đề trong quá trình giao hàng và thỏa thuận phí ship.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm với người review."
+    },
+    {
+      "step": "Review nui xào",
+      "desc": "Thử món nui xào bò và đánh giá cao hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử ngay."
+    },
+    {
+      "step": "Đánh giá xôi xéo",
+      "desc": "Thử xôi xéo, nhận xét về độ dẻo và hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị truyền thống."
+    },
+    {
+      "step": "Review chè khoai môn",
+      "desc": "Thử chè khoai môn lá dứa và nêu cảm nhận.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn biết hương vị đặc biệt của món chè."
+    },
+    {
+      "step": "Đánh giá rau câu",
+      "desc": "Thử rau câu và đánh giá cao độ giòn, hương thơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm nhận sự tươi mát và tự nhiên."
+    },
+    {
+      "step": "Review bánh flan",
+      "desc": "Thử bánh flan và đánh giá độ béo, vừa vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm muốn món tráng miệng hấp dẫn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "mọi người ai ở Singapore có thể ăn ủng hộ chị Phượng",
+    "cảm ơn mọi người đã coi clip"
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Follow kênh"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "cay cay",
+    "thơm",
+    "vừa vị",
+    "dẻo",
+    "thích",
+    "ấn tượng",
+    "hợp vị"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Qua Singapore là phải ăn đồ ăn của chị Phượng chứ.",
+    "Ê thích quá, thật sự đây có thể gọi là một trong những cái món nui xào bò mà mình thích nhất từ hồi xưa đến giờ.",
+    "Tổng thể là đồ ăn của chị Phượng rất là hợp vị với em."
+  ],
+  "hook_content": "mạng đồ ăn của chị Phượng Singapore nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review đồ ăn của chị Phượng Singapore, tập trung vào các món ngọt như nui xào, xôi xéo, chè khoai môn, rau câu và bánh flan. Người review đánh giá cao hương vị và ủng hộ tinh thần của chị Phượng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

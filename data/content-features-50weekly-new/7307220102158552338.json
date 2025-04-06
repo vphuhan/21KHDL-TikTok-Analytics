@@ -1,0 +1,88 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu món ăn bánh cuốn nóng trong thời tiết lạnh giá.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Kể chuyện",
+      "desc": "Chia sẻ về thời tiết lạnh và kỷ niệm với thời tiết.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu máy xay",
+      "desc": "Giới thiệu máy xay sinh tố mới mua và công dụng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Xay cơm nguội và chuẩn bị các nguyên liệu làm bánh.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đổ bánh cuốn",
+      "desc": "Bắt đầu đổ bánh cuốn và chia sẻ kinh nghiệm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Hoàn thiện món ăn",
+      "desc": "Trình bày bánh cuốn và mời mọi người thưởng thức.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Cả nhà ăn",
+      "desc": "Cả nhà cùng ăn bánh cuốn và trò chuyện.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấm áp"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Rồi vậy thì mời mọi người ăn tối chung với cả nhà mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "hào hứng",
+    "lạnh",
+    "ấm áp"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đứng ở dưới cái khung cảnh này nấu ăn thì lãng mạn như trong phim luôn ha mọi người.",
+    "Bữa nay chơi lớn giấu ba Tùng Hân mua cái máy này nên là đừng có ai nói với ba Tùng Hân á nghe chàng.",
+    "Bánh cuốn sao ngon một người."
+  ],
+  "hook_content": "Bữa nay tiết lại rét đó mọi người. Mình đãi ba con Tùng Hân món bánh cuốn nóng Việt Nam nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình làm bánh cuốn nóng tại nhà trong thời tiết lạnh giá, chia sẻ về niềm vui nấu ăn và giới thiệu máy xay sinh tố mới mua. Cuối video, cả gia đình cùng thưởng thức bữa ăn ấm cúng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

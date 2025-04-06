@@ -1,0 +1,91 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu các món ăn định làm từ thịt bò và không khí Tết.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy háo hức vì sắp có món ngon."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Giới thiệu các sản phẩm đã mua sắm chuẩn bị cho ngày Tết.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    },
+    {
+      "step": "Ướp thịt bò",
+      "desc": "Chia sẻ bí quyết ướp thịt bò mềm và công thức pha nước chấm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với công thức được chia sẻ."
+    },
+    {
+      "step": "Chế biến",
+      "desc": "Xào thịt bò và trình bày món bò cuộn cải bắt mắt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy đói bụng và thèm ăn."
+    },
+    {
+      "step": "Hoàn thiện",
+      "desc": "Pha trà chanh và giới thiệu combo đồ ăn ngày Tết.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thích thú với sự chuẩn bị chu đáo."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Ăn thử bò cuộn cải và trêu mẹ vì ăn được mù tạt.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy vui vẻ và hài hước."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Xác nhận món ăn ngon và gợi ý mua đồ về làm Tết.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy muốn bắt tay vào làm thử."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người Tết là cũng mua đồ về làm đi thấy ổn áp lắm ấy."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "cuốn",
+    "hâm mộ",
+    "ổn áp"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nói chung bò dai hay mềm không quan trọng, quan trọng là mình bình an là được.",
+    "Đẹp mắt thế này đã đánh lừa được thị giác của quý vị chưa?",
+    "Cái món bò cuộn cải này trông nó cũng bình thường thôi mà ăn nó cũng cuốn ác."
+  ],
+  "hook_content": "Tết năm ngoái là thấy mẹ kho thịt bò hăng hái, kết cục là hết Tết rồi bố con mình vẫn gắp ra, gắp vô ăn cho cố, cổ động viên mẹ không là xách vali đi ra khỏi nhà hết.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ cách làm món bò cuộn cải và gợi ý các sản phẩm nên mua sắm cho dịp Tết. Đồng thời, video mang đến không khí vui vẻ, gần gũi khi nấu ăn tại nhà.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

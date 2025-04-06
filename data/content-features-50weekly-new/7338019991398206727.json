@@ -1,0 +1,91 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món pizza tự làm cho con và quá trình đi chợ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú khi thấy sự chuẩn bị chu đáo."
+    },
+    {
+      "step": "Ướp cánh gà",
+      "desc": "Ướp cánh gà nướng để ăn kèm pizza, không cay cho trẻ em.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách ướp gà đơn giản."
+    },
+    {
+      "step": "Chuẩn bị bột bánh",
+      "desc": "Trộn và ủ bột làm bánh pizza trong hai tiếng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, vì đây là công đoạn cơ bản."
+    },
+    {
+      "step": "Nướng cánh gà",
+      "desc": "Nướng cánh gà trong khi chờ bột bánh pizza.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ món gà nướng thơm ngon."
+    },
+    {
+      "step": "Cán và tạo hình bánh",
+      "desc": "Cán mỏng bột, tạo hình tròn cho bánh pizza.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với cách tạo hình bánh."
+    },
+    {
+      "step": "Thêm topping",
+      "desc": "Thêm sốt, hành, nấm, ớt chuông và xúc xích lên bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức vì nhiều topping hấp dẫn."
+    },
+    {
+      "step": "Nướng bánh và thưởng thức",
+      "desc": "Nướng bánh pizza và mời cả nhà cùng ăn tối.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy hạnh phúc khi cả gia đình quây quần."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thèm",
+    "mừng",
+    "tươi tắn",
+    "khỏe khoắn",
+    "khoái",
+    "giòn",
+    "rộp rộp",
+    "thèm ăn",
+    "khen mẹ nấu ăn ngon",
+    "hạnh phúc"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Có pizza mà không có cánh gà nướng thì nó sẽ bị thiếu thiếu, bởi vì mình bỏ công chút xíu làm cho nó đủ combo.",
+    "Nói chung là thích ăn cái gì mình cho cái đó vô mọi người.",
+    "Mình cắt đến đâu là nó giòn rộp rộp đến đó, còn phô mai thì kéo sởi luôn á."
+  ],
+  "hook_content": "Hàng từ Hơn nhà mình nó thèm pizza mà cái món này nó de ẹc chứ mình chứ có khó gì đâu.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm pizza và cánh gà nướng tại nhà để chiêu đãi gia đình, với các công đoạn từ chuẩn bị nguyên liệu, ướp gà, làm đế bánh, thêm topping và nướng. Người làm chia sẻ kinh nghiệm cá nhân để bánh ngon hơn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

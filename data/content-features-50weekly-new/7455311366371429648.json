@@ -1,0 +1,63 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Gọi món",
+      "desc": "Khách hàng gọi hai suất mì kim chi thập cẩm cấp độ 7.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ cay."
+    },
+    {
+      "step": "Hỏi thăm",
+      "desc": "Người bán hỏi khách hàng có muốn ăn cay hơn không.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị với gợi ý."
+    },
+    {
+      "step": "Thêm ớt",
+      "desc": "Người bán thêm ớt tự chế vào mì.",
+      "impact_level": "3",
+      "viewer_emotion": "Hồi hộp chờ đợi."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Khách hàng ăn và cảm thấy cay.",
+      "impact_level": "3",
+      "viewer_emotion": "Đồng cảm với vị cay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "cay"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Hôm nay em có muốn ăn cay hơn không? Để anh cho thêm một bát ớt anh chế riêng cho mày.",
+    "Cay quá đi.",
+    "Hôm nay mình muốn uống cay này."
+  ],
+  "hook_content": "anh ấy cho em hai suất mì kim chi thập cẩm cấp độ 7 nó về được không anh.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh khách hàng ăn mì kim chi thập cẩm cấp độ 7 và được người bán cho thêm ớt tự chế để tăng độ cay.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

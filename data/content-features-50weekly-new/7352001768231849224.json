@@ -1,0 +1,95 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu gà luộc và món tráng miệng bằng trái cây chua.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn và cách chế biến."
+    },
+    {
+      "step": "Hướng dẫn pha nước chấm",
+      "desc": "Hướng dẫn pha nước chấm gà với các nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với công thức nước chấm độc đáo."
+    },
+    {
+      "step": "Bắt đầu Mukbang",
+      "desc": "Bắt đầu ăn gà luộc chấm nước chấm tự pha.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy đói bụng và thèm ăn."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá hương vị gà và nước chấm, đặc biệt muối tôm.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với hương vị đặc trưng của muối tôm."
+    },
+    {
+      "step": "Ăn kèm và đánh giá",
+      "desc": "Ăn kèm hành và tiếp tục đánh giá hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự kết hợp hương vị."
+    },
+    {
+      "step": "Chuyển sang tráng miệng",
+      "desc": "Chuyển sang ăn xoài xanh chấm muối tôm.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy sảng khoái với món tráng miệng."
+    },
+    {
+      "step": "Kêu gọi mua hàng",
+      "desc": "Kêu gọi mua muối tôm và hợp tác với chị Ý.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thông tin hữu ích nếu quan tâm."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "nếu mà bạn muốn làm cộng tác viên để tăng thêm thu nhập á thì bạn có thể liên hệ với chị Ý thông qua thông tin trên sản phẩm ha.",
+    "Còn không thì bạn cũng có thể nhắn tin cho chị Như Ý qua nick của chị mà Vàng có đăng ở bên dưới nha."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm",
+    "Truy cập trang cá nhân"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngon xỉu",
+    "ngon cực kỳ",
+    "quá tuyệt vời",
+    "hạnh phúc ngập tràn",
+    "cay"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cắn một miếng nhào. Nhai một miếng nhào, nuốt một miếng nhào là chất lượng miếng đó luôn bạn.",
+    "Tuy là pha với rất là nhiều nguyên liệu đúng không, nhưng mà khi ăn vào mình vẫn cảm nhận được cái vị của muối tôm Như Ý luôn bạn.",
+    "Vàng ăn hạnh phúc ngập tràn luôn."
+  ],
+  "hook_content": "Chào các bạn, hôm nay Vàng sẽ mút băng con gà luộc này và tráng miệng bằng trái cây chua nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video mukbang gà luộc chấm nước sốt muối ớt đặc biệt do Tóc Vàng tự pha chế, sau đó tráng miệng bằng xoài chua chấm muối tôm Như Ý. Video cũng kêu gọi người xem mua sản phẩm và hợp tác bán hàng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

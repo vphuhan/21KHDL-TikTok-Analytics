@@ -1,0 +1,94 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu việc chuẩn bị đồ trước cho chuyến về Việt Nam.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đi siêu thị",
+      "desc": "Đi siêu thị mua đồ và than thở về việc siêu thị đông.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Mua chân gà rút xương và chuẩn bị các nguyên liệu làm sốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi đói bụng"
+    },
+    {
+      "step": "Làm sốt",
+      "desc": "Hướng dẫn làm sốt ướp chân gà với định lượng cụ thể.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Ướp và xào chân gà",
+      "desc": "Ướp chân gà với sốt và xào sơ qua trước khi nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Nướng chân gà",
+      "desc": "Ba nướng chân gà trên sân thượng, gợi nhớ kỷ niệm.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm cúng"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Cả nhà cùng ăn và đánh giá chân gà nướng sốt cay.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bạn nào mọi người bữa nào thử làm ăn đi nha."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "vui",
+    "khoái",
+    "ngon",
+    "mặn mặn",
+    "ngọt ngọt",
+    "cay cay",
+    "thơm",
+    "giòn sần sực",
+    "đã"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bạn nào mà thích ăn chân gà nướng mà nướng sả tế ngán quá rồi á thì mình thử làm cái sốt này nướng ăn thử đi cũng ngon lắm luôn á, có điều hơi cay nha.",
+    "Ăn cái miếng chân gà vô là nó giòn sần sực luôn á mọi người, trời bữa hổm mình có mua rau răm ăn chung là đúng bài luôn.",
+    "Miếng rau răm, miếng chân gà chấm vô muối tiêu ớt chanh một cái ta nói nó đã."
+  ],
+  "hook_content": "mọi người có đi đâu á thì sẽ chuẩn bị tầm trước bao lâu, chứ nhà mình á là lần Việt Nam này là chuẩn bị trước nửa tháng luôn á.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình chuẩn bị và làm món chân gà nướng sốt cay của một gia đình để ăn mừng chuyến về Việt Nam. Món ăn được đánh giá là ngon, đậm đà và rất hợp để nhâm nhi.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

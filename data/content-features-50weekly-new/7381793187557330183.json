@@ -1,0 +1,86 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bánh đá",
+      "desc": "Giới thiệu bánh đá Hà Giang và cách ăn bánh trước đây.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị về một loại bánh mới."
+    },
+    {
+      "step": "Nấu Tokbokki",
+      "desc": "Quyết định nấu tokbokki để bánh đá dễ ăn hơn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món tokbokki làm từ bánh đá."
+    },
+    {
+      "step": "Cắt bánh đá",
+      "desc": "Cắt bánh đá thành miếng nhỏ cho giống tokbokki.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Nấu và ăn thử",
+      "desc": "Nấu tokbokki và nhận xét về hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn biết hương vị món ăn ra sao."
+    },
+    {
+      "step": "Review của bạn bè",
+      "desc": "Bạn bè ăn thử và đưa ra nhận xét trái chiều.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về phản ứng của người khác."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Khuyến khích mọi người nấu tokbokki từ bánh đá.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hứng thú với món ăn mới."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mấy má mua về nấu thử ăn đi ngon phết."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "háo hức",
+    "cuốn",
+    "dễ ăn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mình dán lên lắk phô mai chấm tương ớt ăn cũng ngon, nhưng mà để tầm 30 phút sau là nhai mệt nghỉ luôn.",
+    "Màu sắc thì trông có vẻ bắt mắt nhưng mà thật ra nó cũng không có vị gì cả.",
+    "Ngồi chắn luôn cái máy quay của mình, đúng là vô duyên anh không phải diễn mà có duyên anh phải vào vai đấy."
+  ],
+  "hook_content": "Tao nói là mua được ba bịch bánh đá Hà Giang, tính là về review gắn link ăn hoa hồng bùng lầu, mà háo hức quá chưa kịp quay chụp gì là dán lắk phô mai ăn 70 đời rồi.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ trải nghiệm nấu tokbokki từ bánh đá Hà Giang, từ việc ăn thử ban đầu đến khi chế biến thành món tokbokki hấp dẫn. Cuối cùng, người làm video khuyến khích mọi người thử làm theo.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

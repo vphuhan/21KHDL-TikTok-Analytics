@@ -1,0 +1,96 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món hoành thánh tôm thịt, gợi ý làm khi ngán cơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn biết cách làm."
+    },
+    {
+      "step": "Giới thiệu bản thân",
+      "desc": "Tự giới thiệu là Bon, người nội trợ ở quận 8.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin cơ bản."
+    },
+    {
+      "step": "Chuẩn bị nước dùng",
+      "desc": "Hướng dẫn hầm xương với củ cải, hành tím, ngò rí, tiêu sọ.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến bí quyết nấu nước dùng."
+    },
+    {
+      "step": "Chuẩn bị tôm và tôm khô",
+      "desc": "Lột tôm tươi, ngâm tôm khô, chia sẻ được tặng tôm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với câu chuyện được tặng tôm."
+    },
+    {
+      "step": "Làm nhân hoành thánh",
+      "desc": "Trộn thịt xay với hành tím, gia vị, chia sẻ bí quyết người Hoa.",
+      "impact_level": "2",
+      "viewer_emotion": "Học được cách làm nhân hoành thánh."
+    },
+    {
+      "step": "Gói hoành thánh",
+      "desc": "Hướng dẫn gói hoành thánh, chia sẻ mua lá ở chợ.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy dễ làm theo."
+    },
+    {
+      "step": "Hoàn thiện và thưởng thức",
+      "desc": "Trụng hoành thánh, thêm topping, chan nước dùng và thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn ăn ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Nên có gì mấy chị lưu lại để bữa nào mình ngán cơm á thì mình đem ra làm ăn thử nghe.",
+    "Anh ơi, xuống ăn cơm nè."
+  ],
+  "cta_type": [
+    "Lưu video",
+    "Thử làm theo công thức",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "mừng",
+    "cảm ơn",
+    "tiếc",
+    "thơm",
+    "cay",
+    "ngon cực kỳ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bảo đảm á là dễ làm cực kỳ luôn nhưng mà ăn là hơi bị ngon luôn á.",
+    "Nói chung là nhìn vậy chứ nó dễ dữ lắm mấy chị ơi.",
+    "Mấy chị coi vậy nó dễ dữ lắm nha, không có khó đâu."
+  ],
+  "hook_content": "Đây á là cái cách làm hoành thánh đơn giản, nhanh gọn lẹ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách nấu hoành thánh tôm thịt đơn giản tại nhà, từ khâu chuẩn bị nguyên liệu, sơ chế, đến nấu nước dùng và gói hoành thánh. Người làm nội trợ chia sẻ các bí quyết để món ăn thêm ngon và hấp dẫn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

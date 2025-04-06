@@ -1,0 +1,71 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bánh bao",
+      "desc": "Giới thiệu bánh bao tí hon và giá cả, mua tại cổng chợ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hình dáng và hương vị."
+    },
+    {
+      "step": "Miêu tả chi tiết",
+      "desc": "Mô tả hình dáng, màu sắc, vỏ bánh và nhân bánh bao.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung về bánh bao rõ ràng hơn."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá hương vị bánh bao khi ăn nóng và chấm tương ớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và muốn thử."
+    },
+    {
+      "step": "Khuyến nghị",
+      "desc": "Khuyến nghị ăn nhiều bánh bao và địa chỉ quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn đến ăn thử ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Địa chỉ thì mình để ở đây, mọi người chưa được thử thì nhớ nốt lại nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "vừa miệng",
+    "cay cay đưa mồm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bánh bao tí hon giá chỉ 3k ngay gần cổng chợ Nghĩa Tân, không biết là mọi người đã được thử chưa nhỉ?",
+    "Nói thật chứ đang đói thì đánh bay 6 7 cái là chuyện nhỏ ấy chứ.",
+    "vỏ bánh dày, mềm xốp, nhưng mà lưu ý là mọi người phải ăn lúc còn đang nóng nha, chứ để nguội là hơi dai đấy."
+  ],
+  "hook_content": "Bánh bao tí hon! Bạn đã được thử chưa?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu và review bánh bao tí hon giá 3k gần chợ Nghĩa Tân, tập trung vào mô tả hình dáng, hương vị và trải nghiệm ăn bánh khi còn nóng và chấm cùng tương ớt.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

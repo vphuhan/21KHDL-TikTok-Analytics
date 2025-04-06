@@ -1,0 +1,90 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bánh",
+      "desc": "Giới thiệu bánh mây Sufl đang hot trend, có người bán đầu tiên ở SG.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món bánh mới lạ."
+    },
+    {
+      "step": "Nguồn gốc và quy trình",
+      "desc": "Chủ quán học công thức từ TQ, bánh tươi làm khi khách order.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự tỉ mỉ."
+    },
+    {
+      "step": "Địa điểm",
+      "desc": "Reviewer tìm được chỗ bán bánh mây Sufl hot trend ở Sài Gòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vì tìm được địa chỉ ăn uống."
+    },
+    {
+      "step": "Thời gian làm bánh",
+      "desc": "Mỗi mẻ bánh làm 8 phút, ngon nhất khi vừa nướng xong.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin tham khảo."
+    },
+    {
+      "step": "Miêu tả bánh",
+      "desc": "Bánh núng na núng nính, có nhiều vị và sốt kem chua béo.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn, muốn thử."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Giá 35k/hộp, ăn no, mềm mịn tan trong miệng, đáng thử.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn mua ngay."
+    },
+    {
+      "step": "Thông tin địa chỉ",
+      "desc": "Địa chỉ quán được để lại để mọi người đến thưởng thức.",
+      "impact_level": "2",
+      "viewer_emotion": "Biết ơn vì có địa chỉ cụ thể."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "cưng",
+    "ngon",
+    "mềm mịn",
+    "đáng để thử"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "bánh tươi, nó sẽ mềm bồng bềnh giống như là mây nên gọi là bánh mây",
+    "Cái bánh ăn vào mềm mịn đặt đặt nó tan ngay trong miệng luôn.",
+    "Cái trend này Tinh nghĩ rất là đáng để thử nha mọi người."
+  ],
+  "hook_content": "Đây là bánh mây Sufl anh ạ. Cái bánh này đang hot trend ấy.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu bánh mây Sufl đang hot trend và là món mới ở Sài Gòn, bánh mềm mịn như mây và có nhiều vị khác nhau. Reviewer đánh giá bánh ngon, đáng thử và cung cấp địa chỉ quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

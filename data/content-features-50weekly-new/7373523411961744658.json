@@ -1,0 +1,81 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món Lavashak và trải nghiệm ăn lần đầu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Thưởng thức và miêu tả",
+      "desc": "Ăn và miêu tả cảm giác kỳ lạ, vị chua ngọt.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ và thích thú."
+    },
+    {
+      "step": "Chia sẻ nguồn gốc",
+      "desc": "Tiết lộ tự làm món này do không tìm mua được.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên và ngưỡng mộ."
+    },
+    {
+      "step": "Tiếp tục ăn và cảm nhận",
+      "desc": "Nhấn mạnh vị ngon và không thể dừng lại.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử."
+    },
+    {
+      "step": "Kết thúc video",
+      "desc": "Cảm ơn người xem và hẹn gặp lại.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bạn cảm bạn cảm nhận về cái món này như thế nào á, comment ở bên dưới cho Vàng biết nữa nha."
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "chua chua ngọt ngọt",
+    "tuyệt vời",
+    "hấp thú",
+    "không thể dừng lại"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bạn ăn đang ăn cái nội tạng sống của con gì vậy đó bạn.",
+    "Cảm giác là như vậy nha bạn, nhưng mà ăn vào thì nó có vị chua chua ngọt ngọt.",
+    "Chua chua ngọt ngọt ăn ngon lắm bạn, không thể dừng lại luôn các bạn."
+  ],
+  "hook_content": "Chào các bạn. Hôm nay Vàng sẽ mút bằng Lava sắt nha.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang món Lavashak tự làm của Tóc Vàng, chia sẻ cảm nhận về hương vị chua ngọt độc đáo và mời người xem bình luận cảm nhận.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

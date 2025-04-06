@@ -1,0 +1,80 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu quán cháo vỉa hè Sài Gòn được nhiều người giới thiệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Gọi món",
+      "desc": "Gọi một phần cháo sườn đầy đủ topping, thêm chả.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Miêu tả quán",
+      "desc": "Quán vỉa hè đông khách, đến lúc 8:30 đã hết cháo.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Đánh giá cháo",
+      "desc": "Cháo nhừ, sườn mềm, trứng bắc thảo béo ngậy, thịt viên dai.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi đói"
+    },
+    {
+      "step": "Nhận xét",
+      "desc": "Cháo ngon, chỉ thiếu quẩy nhưng không quan trọng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Chúc quán đông khách và trở thành sân chơi của quận 11.",
+      "impact_level": "1",
+      "viewer_emotion": "Ấn tượng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "béo ngậy",
+    "thơm lừng",
+    "ngọt ngọt",
+    "dai dai"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Tôi rất là thích ở cái bên khu quận 11 này. Tại bên này có rất nhiều đồ ăn ngon mà cái món nào ăn cũng ngon í.",
+    "Cháo ở đây được nấu nhừ hết tất cả các hạt gạo. Gọi là nấu cháo theo kiểu style miền Bắc í.",
+    "Sườn được hầm nhừ mềm nên là cực kỳ dễ ăn. Mà trứng bắc thảo thì béo ngậy thơm lừng."
+  ],
+  "hook_content": "Chị ơi, nhà mình còn cháo không? Dạ còn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán cháo sườn vỉa hè ở quận 11, TP.HCM. Người review đánh giá cao chất lượng cháo, đặc biệt là sườn mềm và trứng bắc thảo béo ngậy, mặc dù thiếu quẩy nhưng vẫn rất ngon.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

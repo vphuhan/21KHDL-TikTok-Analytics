@@ -1,0 +1,89 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Liệt kê các món ăn vặt thay cơm: chân gà, cơm trộn, phô mai ngô, tteokbokki.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách kết hợp các món ăn."
+    },
+    {
+      "step": "Hướng dẫn nấu tteokbokki",
+      "desc": "Hướng dẫn nấu tteokbokki theo công thức riêng, nhấn mạnh sự ngon miệng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với công thức nấu ăn đơn giản."
+    },
+    {
+      "step": "Nấu ăn và nêm nếm",
+      "desc": "Thực hiện các bước nấu ăn: cho nước dùng, nấu cơm, cắt chả cá,...",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, theo dõi quá trình nấu ăn."
+    },
+    {
+      "step": "Pha chế sốt",
+      "desc": "Pha sốt ướp chân gà, gợi ý làm món chân gà xào cay/nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với công thức sốt đa năng."
+    },
+    {
+      "step": "Hoàn thiện các món",
+      "desc": "Hoàn thiện các món: thêm hành, phô mai, mè; bày ra đĩa.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi hình ảnh món ăn được bày biện."
+    },
+    {
+      "step": "Cảnh báo giảm cân",
+      "desc": "Nhắc nhở về việc tăng cân nếu ăn các món này.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy hơi lo lắng về cân nặng."
+    },
+    {
+      "step": "Mời ăn và đánh giá",
+      "desc": "Mời mọi người ăn và đưa ra các đánh giá về món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn ăn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Xong rồi đó giờ thì mời mọi người ăn tối chung với cả nhà mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "nóng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bạn nào mà thích ăn tteokbokki nhưng mà chưa biết nấu tteokbokki như thế nào thì bữa nay vô mình chỉ cho cái công thức này cũng ngon lắm luôn á.",
+    "Cái cách này là bà nội Tùng hơn chỉ mình nấu tteokbokki á, rồi mình nêm nếm lại cho nó hợp khẩu vị của mình là nó ngon à.",
+    "Chắc là bữa nào mình cũng phải thử làm cái sốt này ướp chân gà xong rồi mang đi nướng ăn mới được."
+  ],
+  "hook_content": "Hôm nay nhà mình thay cơm bằng một bữa ăn vặt có chân gà xào cay nè, cơm trộn rong biển, phô mai ngô rồi thêm một nồi tteokbokki siêu to chà bá nữa.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu bữa ăn vặt thay cơm gồm chân gà xào cay, cơm trộn rong biển, phô mai ngô và tteokbokki. Nội dung tập trung hướng dẫn nấu món tteokbokki và chia sẻ công thức sốt ướp chân gà.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

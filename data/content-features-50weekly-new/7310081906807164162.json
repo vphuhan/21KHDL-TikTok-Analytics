@@ -1,0 +1,71 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Gọi món",
+      "desc": "Người nói đến quán thịt quay nổi tiếng ở Hòe Nhai để mua.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Mua thịt quay, củ kiệu để hàn huyên cùng bạn bè.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Địa điểm quen thuộc",
+      "desc": "Giới thiệu quán nước mía và món đậu rán thường ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Văn hóa vỉa hè",
+      "desc": "Miêu tả về chim bồ câu và nhà vệ sinh công cộng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Kêu gọi ra Hòe Nhai ăn thịt quay, uống nước mía.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thèm",
+    "phấn khởi",
+    "ngon",
+    "hay ho"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Hôm nay thời tiết Hà Nội đẹp quá, tự nhiên tôi lại thèm ăn thịt quay.",
+    "Nói thật là cả nước mía ở quán này uống cũng chẳng ngon, nhưng mà kiểu thành văn hóa rồi.",
+    "Hà Nội buổi chiều văn nghệ chỉ phấn khởi thế thôi, ra Hòe Nhai làm mấy lạng thịt quay, xong rồi ra ngay hàng bún làm đôi cốc nước mía cộng với cả một đĩa đậu phụ."
+  ],
+  "hook_content": "cho em 200.000đ ạ. Cho em 200 hai lạng.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ trải nghiệm đi ăn thịt quay ở Hòe Nhai, Hà Nội, sau đó ghé quán nước mía quen thuộc để uống nước và ăn đậu rán. Người nói giới thiệu về văn hóa ẩm thực vỉa hè ở khu phố cổ.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

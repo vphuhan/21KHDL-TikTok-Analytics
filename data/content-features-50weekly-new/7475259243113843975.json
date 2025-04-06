@@ -1,0 +1,108 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu các món ăn đã order tại quán chị Phượng Singapore.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn được giới thiệu."
+    },
+    {
+      "step": "Đánh giá cơm sườn",
+      "desc": "Đánh giá chi tiết về cơm sườn sốt XO.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với đánh giá tỉ mỉ."
+    },
+    {
+      "step": "Đánh giá cà ri gà",
+      "desc": "Đánh giá hương vị cà ri cánh gà, so sánh với hương vị quen thuộc.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy ấm cúng và gần gũi."
+    },
+    {
+      "step": "Đánh giá mắm chân",
+      "desc": "Đánh giá mắm chân về độ thơm, béo, đậm đà và cách ăn kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với hương vị đặc trưng."
+    },
+    {
+      "step": "Đánh giá đồ uống",
+      "desc": "Đánh giá đồ uống rau má đậu xanh và chè bắp.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không quá đặc sắc."
+    },
+    {
+      "step": "Đánh giá chè thơm",
+      "desc": "Đánh giá chè thơm và thử thêm nước cốt dừa.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với hương vị truyền thống."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Đánh giá tổng quan và bày tỏ sự ngưỡng mộ với chị Phượng.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm phục nghị lực của chị Phượng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "mọi người có thể qua coi quán Cô Chung là bán tại quán còn chị Phượng hình như là take away thì phải thì nếu mọi người được thì mọi người hãy ủng hộ quán Cô Chung cũng rất là ngon đồ ăn trang trí rất là đẹp và giá thành với mình là không quá cao, nên là mọi người được thì ủng hộ tất cả những người Việt đang bán ở Singapore nha mọi người ơi"
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Chia sẻ",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "vừa vị",
+    "tươi",
+    "kích thích vị giác",
+    "béo",
+    "ngọt nhẹ",
+    "thanh mát",
+    "thoải mái",
+    "hoan hỉ",
+    "ngon",
+    "bình thường",
+    "nghị lực",
+    "giỏi",
+    "đảm đang",
+    "tuyệt vời"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trời ơi sao cái vị giống bà ngoại tôi nấu giữ vậy trời",
+    "mình khen chê hay gì á mình cũng thoải mái nữa mình không có áy náy lương tâm",
+    "ăn uống mình đừng có quá đặt kỳ vọng vào cái món ăn là được và nếu như mình nói cái từ ngon đồ ăn này ngon thì thật sự là nếu như mọi người khó ăn mà dữ lắm hoặc là mình không cùng khẩu vị thì ít nhất mọi người ăn đồ ăn của chị Phượng mọi người vẫn sẽ cảm giác là how ăn cũng được, ăn cũng bình thường không đến nỗi mình phải chê"
+  ],
+  "hook_content": "Trên mạng cơm sườn số XO của chị Phượng Singapore Ngoài đời cơm sườn đội chị Phượng Singapore đây mọi người ơi",
+  "hook_type": [
+    "So sánh",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm",
+    "So sánh"
+  ],
+  "summarization": "Video review các món ăn của chị Phượng Singapore, từ cơm sườn sốt XO đến cà ri gà, mắm chân và các loại đồ uống, với những đánh giá chân thực về hương vị và trải nghiệm. Đồng thời, bày tỏ sự ngưỡng mộ đối với nghị lực của chị Phượng khi kinh doanh ẩm thực tại Singapore.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

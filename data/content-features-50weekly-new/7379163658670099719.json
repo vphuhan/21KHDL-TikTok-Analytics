@@ -1,0 +1,87 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu hai cách làm trứng ngâm tương với nguyên liệu khác nhau",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự khác biệt giữa hai cách làm"
+    },
+    {
+      "step": "Luộc trứng lòng đào",
+      "desc": "Hướng dẫn cách luộc trứng lòng đào đúng chuẩn, thêm giấm",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến thời gian luộc trứng"
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Cắt hành tây, táo, hành lá, tỏi, ớt để làm nước tương",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Pha nước tương Nhật",
+      "desc": "Hướng dẫn pha nước tương Nhật theo công thức",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn biết tỉ lệ pha để làm theo"
+    },
+    {
+      "step": "Pha nước tương Việt Nam",
+      "desc": "Hướng dẫn pha nước tương Việt Nam theo công thức",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng"
+    },
+    {
+      "step": "Ngâm trứng",
+      "desc": "Hướng dẫn ngâm trứng đã luộc vào hỗn hợp nước tương",
+      "impact_level": "1",
+      "viewer_emotion": "Háo hức muốn thử"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Cho trứng vào tủ lạnh 5-6 tiếng hoặc qua đêm rồi thưởng thức",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy ngon miệng"
+    }
+  ],
+  "content_style": [
+    "Nhanh gọn",
+    "Đời thường"
+  ],
+  "cta_content": [
+    "mọi người có thể chọn một trong hai để làm thử nhé"
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái nào cũng ngon hết, cho nên là mọi người có thể chọn một trong hai để làm thử nhé.",
+    "Hôm nào lười chỉ cần lấy trong tủ lạnh ra ăn kèm với lại cơm nóng là số zách luôn.",
+    "Ngon nhất là qua đêm."
+  ],
+  "hook_content": "Đây là trứng ngâm tương và đây cũng là trứng ngâm tương, nhưng mà khác nhau là một cái là bằng nước tương Nhật và một cái là bằng nước tương Việt Nam.",
+  "hook_type": [
+    "So sánh",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "So sánh"
+  ],
+  "summarization": "Video hướng dẫn 2 cách làm trứng ngâm tương sử dụng nước tương Nhật và nước tương Việt Nam, nêu rõ nguyên liệu, công thức và thời gian ngâm để đạt được hương vị ngon nhất.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

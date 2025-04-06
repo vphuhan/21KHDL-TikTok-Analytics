@@ -1,0 +1,88 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu bản thân và món ăn chuẩn bị nấu.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Gói quà tết",
+      "desc": "Giới thiệu công việc gói quà tết và địa điểm mua.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Giới thiệu nguyên liệu và cách sơ chế chân gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Xào chân gà",
+      "desc": "Bắt đầu xào chân gà với các loại gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Nấu chân gà",
+      "desc": "Nấu chân gà đến khi mềm và thấm gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức"
+    },
+    {
+      "step": "Trình bày",
+      "desc": "Trình bày món ăn và trộn cơm với rong biển.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Cả nhà cùng ăn và đánh giá món chân gà.",
+      "impact_level": "3",
+      "viewer_emotion": "Vui vẻ"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Mọi người mà đi chợ Ô Môn chơi có muốn mua giỏ quà Tết á thì nhớ ghé hai vợ chồng mình nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "thèm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Chân gà này to, nấu không có bị nhỏ lại, nhìn thấy thèm quá trời luôn á.",
+    "Nói cái mùi nó thơm ngon đến nỗi mà bà ngoại ngủ đằng kia mà phải bật ngồi dậy luôn á.",
+    "Ớt bên Hàn cay. Người Việt ăn cái này ri cho nó thấm."
+  ],
+  "hook_content": "Bây giờ mọi người hỏi Suho đâu hả? Thì Suho đây nha mọi người.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình nấu món chân gà xào cay kiểu Hàn tại nhà và cùng gia đình thưởng thức. Bên cạnh đó, video còn chia sẻ về công việc gói quà Tết của hai vợ chồng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bánh phô mai sữa nướng mới xuất hiện ở Sài Gòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món mới."
+    },
+    {
+      "step": "Mô tả món ăn",
+      "desc": "Miêu tả cách chế biến và hương vị của bánh phô mai nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và muốn thử."
+    },
+    {
+      "step": "Đánh giá giá cả",
+      "desc": "Nhận xét về giá cả của các món ăn tại quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Quan tâm đến giá trị."
+    },
+    {
+      "step": "Giới thiệu các món khác",
+      "desc": "Giới thiệu thêm các món khác như phô mai bánh gạo, xúc xích phô mai.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn khám phá thêm."
+    },
+    {
+      "step": "Đề xuất đồ uống",
+      "desc": "Gợi ý trà thanh trà giả tây để giải khát.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy được gợi ý hữu ích."
+    },
+    {
+      "step": "Gợi ý món ăn kèm",
+      "desc": "Giới thiệu món mực chiên khổng lồ ăn kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với sự kết hợp."
+    },
+    {
+      "step": "Thông tin địa điểm",
+      "desc": "Cung cấp địa chỉ và thời gian bán của quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhớ địa chỉ quán."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thèm",
+    "thơm",
+    "ngọt",
+    "chua",
+    "giải khát"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cuối cùng thì cái món phô mai sữa nướng đã có mặt tại Sài Gòn rồi nè mọi người.",
+    "Đứng đây nhìn nướng thôi là thèm muốn ăn liền á mọi người, nó thơm xỉu luôn.",
+    "Mọi người nhìn vậy thôi chứ ăn một tới hai cây sẽ thấy vừa đủ nha, nhưng đảm bảo là bữa sau lại thèm tiếp cho coi."
+  ],
+  "hook_content": "Bánh phô mai sữa nướng, anh là người đầu tiên bán tại Sài Gòn nha mấy bạn.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu món bánh phô mai sữa nướng mới xuất hiện tại Sài Gòn, kèm theo các món ăn và đồ uống khác tại quán trà chanh giả tây nổi tiếng ở quận 5. Người bán mô tả hương vị, giá cả và địa chỉ quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

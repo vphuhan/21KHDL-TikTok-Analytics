@@ -1,0 +1,86 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Chào hỏi và giới thiệu",
+      "desc": "Bắt đầu bằng cuộc trò chuyện với một học sinh lớp sáu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về nội dung tiếp theo."
+    },
+    {
+      "step": "Thăm dò địa điểm ăn vặt",
+      "desc": "Hỏi học sinh về địa điểm ăn vặt yêu thích gần trường.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, cung cấp thông tin cơ bản."
+    },
+    {
+      "step": "Đến quán ăn và gọi món",
+      "desc": "Cùng học sinh đến quán ăn và gọi các món ăn vặt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị khi xem các món ăn được lựa chọn."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Hỏi cảm nhận của học sinh về món bánh mì muối ớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của món ăn."
+    },
+    {
+      "step": "Trò chuyện và tương tác",
+      "desc": "Tiếp tục trò chuyện về chiều cao và các vấn đề khác.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không liên quan đến ẩm thực."
+    },
+    {
+      "step": "Thanh toán và tổng kết",
+      "desc": "Thanh toán hóa đơn và nhắc nhở follow kênh.",
+      "impact_level": "2",
+      "viewer_emotion": "Hài hước với lời nhắc nhở follow kênh."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Về nhớ follow nhá.",
+    "Thế là không follow thì đến nó đòi tiền."
+  ],
+  "cta_type": [
+    "Follow kênh"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "béo",
+    "ngọt",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Rất thơm, rất béo, rất ngọt.",
+    "Thế là không follow thì đến nó đòi tiền."
+  ],
+  "hook_content": "Em lớp sáu ạ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video ghi lại trải nghiệm đi ăn vặt cùng một em học sinh lớp sáu tại một quán ăn vặt gần trường, đồng thời review nhanh các món ăn đã thử và kêu gọi người xem follow kênh.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

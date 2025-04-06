@@ -1,0 +1,89 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu tôm hùm",
+      "desc": "Giới thiệu về hai con tôm hùm mini mua ở chợ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự khác biệt giữa các loại tôm."
+    },
+    {
+      "step": "So sánh tôm",
+      "desc": "So sánh tôm mini với tôm hùm Alaska 6kg.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với kích thước khổng lồ của tôm Alaska."
+    },
+    {
+      "step": "Hấp tôm",
+      "desc": "Hấp tôm mini và chuẩn bị cho bữa ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, chờ đợi diễn biến tiếp theo."
+    },
+    {
+      "step": "Miêu tả tôm sau khi hấp",
+      "desc": "Miêu tả màu sắc và kinh nghiệm về tôm hùm to.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của tôm hùm to."
+    },
+    {
+      "step": "Chuẩn bị ăn tôm",
+      "desc": "Cưa càng tôm để dễ ăn, các em háo hức.",
+      "impact_level": "2",
+      "viewer_emotion": "Hài hước với cảnh cưa tôm."
+    },
+    {
+      "step": "Chia sẻ tôm",
+      "desc": "Chia sẻ tôm cho các em, nhấn mạnh sự công bằng.",
+      "impact_level": "1",
+      "viewer_emotion": "Ấn tượng với cách chia sẻ công bằng."
+    },
+    {
+      "step": "Kết luận và cảm ơn",
+      "desc": "Nói về mục đích quay video và cảm ơn nhà tài trợ.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy video gần gũi và chân thật."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mời cả nhà nha!"
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "độc",
+    "lạ",
+    "mắc cười",
+    "vui"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bữa nay làm con tôm hùm 6kg xả xui nha cả nhà",
+    "ăn tôm phải chạy đi mua cây cưa về cưa vậy nè cả nhà",
+    "Tấn chỉ được cắn hai phát để quay thôi đó, xong phải trao lại hai cái càng cho hai ẻm liền chứ làm sao mà ăn một mình được"
+  ],
+  "hook_content": "Hai cái đứa này, sáng cho nó đi chợ về mua được hai con tôm hùm mini đem vô khoe Tấn nè.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh ba anh em nhà Tấn ăn tôm hùm Alaska 6kg, từ khâu chuẩn bị đến khi thưởng thức. Anh chia sẻ trải nghiệm ăn tôm và cách chia sẻ cho các em.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

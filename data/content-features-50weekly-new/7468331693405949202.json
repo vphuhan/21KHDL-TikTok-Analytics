@@ -1,0 +1,76 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Tìm kiếm và trò chuyện",
+      "desc": "Tìm xe chè cốm và hỏi thăm thông tin về giá cả, thâm niên.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về xe chè và người bán."
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu các món chè và cách di chuyển của người bán.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị về các món chè truyền thống."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Đánh giá hương vị, thành phần và trải nghiệm ăn chè.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thèm thuồng và muốn thử."
+    },
+    {
+      "step": "Nhận xét chung",
+      "desc": "Nhận xét về hương vị truyền thống và gợi ý cách mua.",
+      "impact_level": "2",
+      "viewer_emotion": "Có thêm thông tin hữu ích để tìm mua."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Truyền thống",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người muốn ăn thì mọi người nên gọi trước là bà đang đứng ở đâu xong rồi đến mua cho nó tiện."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Chia sẻ"
+  ],
+  "emotion_keywords": [
+    "đáng đồng tiền bát gạo",
+    "mát",
+    "thơm",
+    "đặc",
+    "mềm",
+    "no"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "15.000đ cốc chè đầy ú ụ thấy cũng đáng đồng tiền bát gạo luôn.",
+    "Chè này đúng kiểu là phải có căn mới ăn được ấy mọi người ạ.",
+    "Đúng kiểu là chè truyền thống mọi người ạ, không hề có một cái topping mới lạ luôn nhá."
+  ],
+  "hook_content": "Đây rồi đây rồi thấy rồi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review xe chè cốm truyền thống với các món chè cốm, tào phớ thập cẩm và chè thập cẩm đồng giá 15.000đ. Người bán hàng rong di chuyển liên tục nên cần gọi trước để biết địa điểm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

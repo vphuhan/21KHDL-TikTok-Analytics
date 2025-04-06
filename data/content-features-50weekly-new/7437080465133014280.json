@@ -1,0 +1,76 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món tôm sốt trái thơm đang hot và dễ làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Chuẩn bị tôm",
+      "desc": "Sơ chế và tẩm ướp tôm với gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến công thức"
+    },
+    {
+      "step": "Pha sốt",
+      "desc": "Hướng dẫn pha sốt trái thơm (thực chất không có thơm).",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự thật"
+    },
+    {
+      "step": "Chiên tôm",
+      "desc": "Tẩm bột và chiên tôm đến khi vàng giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn, thèm ăn"
+    },
+    {
+      "step": "Hoàn thiện",
+      "desc": "Đảo tôm với sốt và trang trí bằng trái thơm.",
+      "impact_level": "3",
+      "viewer_emotion": "Kích thích vị giác"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người làm thử đi dễ mà ngon lắm."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "cay cay",
+    "thèm thèm",
+    "đã",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nhưng mà sau khi làm xong á thì mình mới phát hiện ra một sự thật là!",
+    "Và sự thật là trong cái sốt này không hề có miếng gì gọi là trái thơm luôn.",
+    "tốn 30.000 để mua cái trái thơm này decor không hề uổng tiền một xíu nào luôn."
+  ],
+  "hook_content": "Mình biết là cái món tôm sốt trái thơm này nó đang hot, làm thì dễ ăn thì cuốn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món tôm sốt trái thơm đang hot. Món ăn được làm theo công thức đơn giản, dễ làm tại nhà, nhưng sốt trái thơm thực chất không có trái thơm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

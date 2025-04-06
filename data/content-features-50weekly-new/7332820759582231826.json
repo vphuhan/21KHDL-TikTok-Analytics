@@ -1,0 +1,95 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu mở đầu",
+      "desc": "Giới thiệu về thời tiết và kế hoạch đi chơi của gia đình.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Ăn trưa tại quán",
+      "desc": "Chia sẻ trải nghiệm ăn uống tại quán ăn trên núi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Tham quan",
+      "desc": "Tham quan cung điện gần quán ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Mua sắm",
+      "desc": "Ghé siêu thị mua đồ ăn tối và đồ dùng cho con.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Chuẩn bị nấu ăn",
+      "desc": "Giới thiệu món ăn tối và các nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức"
+    },
+    {
+      "step": "Nấu ăn",
+      "desc": "Hướng dẫn nấu món đùi gà xào cay.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Mời mọi người ăn và nhận xét về món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn ăn"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "mời mọi người ăn chung với cả nhà mình nha"
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ấm",
+    "dễ chịu",
+    "ngon",
+    "vui vẻ",
+    "thích"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tính là hên xui á, ngon cũng ăn mà dở cũng ăn, mà hên quán này ngon thiệt.",
+    "Nhìn cái mâm ăn xong là biết độ ngon rồi, nhìn món nào món nấy cũng sạch trơn luôn.",
+    "Bên này cái gì cũng xào cay được hết trơn đó, mực xào cay, thịt xào cay, đùi gà xào cay."
+  ],
+  "hook_content": "Hôm nay trời vừa có nắng, vừa ấm nữa, mình sẽ dẫn cả nhà mình đi chơi một bữa nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video ghi lại một ngày đi chơi và nấu ăn của gia đình ở Hàn Quốc, từ việc đi ăn trưa ở một quán trên núi, tham quan cung điện, mua sắm ở siêu thị và cuối cùng là nấu món đùi gà xào cay cho bữa tối. Món ăn được đánh giá là ngon và hấp dẫn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

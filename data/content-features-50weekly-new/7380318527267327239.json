@@ -1,0 +1,69 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bánh xèo và lý do muốn làm món này.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Sử dụng khăn giấy lót thớt, thái thịt và tôm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Nấu bánh xèo",
+      "desc": "Thực hiện các bước làm bánh xèo bằng chảo inox.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Thưởng thức bánh xèo",
+      "desc": "Mời bạn bè ăn và nhận xét về món bánh xèo.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "phấn khởi",
+    "tiếc",
+    "thèm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mặc kệ người xem đánh giá thì mình cứ quy tắc ba giây nhặt lên mình nấu tiếp, sống là cứ phải đẳng cấp, sai đâu là mình lấp liếm ở đó.",
+    "Ai dán bánh xèo giòn thì giòn chứ mình chỉ thích ăn mềm như này thôi. Vì mình dán không giòn được nên là nói thế cho nó thuyết phục.",
+    "Trước nó sang ăn nó cũng khéo léo lắm, mang hoa quả các kiểu. Giờ sang ăn mang đúng chùm chìa khóa xe thôi."
+  ],
+  "hook_content": "Tính ra là chuyển sang đây nửa năm rồi mà chưa ăn lại một lần bánh xèo nào luôn.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình tự làm bánh xèo tại nhà của một TikToker. Cô chia sẻ kinh nghiệm, cách làm bánh và mời bạn bè đến thưởng thức.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

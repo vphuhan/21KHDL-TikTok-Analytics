@@ -1,0 +1,93 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu món salami nhân phô mai mua ở siêu thị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm mới."
+    },
+    {
+      "step": "Đánh giá vị phô mai",
+      "desc": "Thử nghiệm và đưa ra đánh giá khách quan về hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ đánh giá chân thật."
+    },
+    {
+      "step": "So sánh và chấm điểm",
+      "desc": "So sánh salami với món ăn khác, chấm điểm theo tiêu chí.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự so sánh hài hước."
+    },
+    {
+      "step": "Đánh giá vị húng tây",
+      "desc": "Tiếp tục thử nghiệm vị húng tây và đưa ra nhận xét.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    },
+    {
+      "step": "Đánh giá vị cà chua",
+      "desc": "Thử nghiệm vị cà chua và thể hiện sự thất vọng.",
+      "impact_level": "3",
+      "viewer_emotion": "Đồng cảm với sự thất vọng."
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Đưa ra lời khuyên nên ăn xúc xích thay vì salami.",
+      "impact_level": "2",
+      "viewer_emotion": "Gật gù với lời khuyên."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Kết luận về sản phẩm và chi phí đã bỏ ra.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thông tin hữu ích."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cho dù mình có ra sao thì mọi người cũng nhớ xem hết clip."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "dễ ăn",
+    "mặn",
+    "chua chua",
+    "khó ăn",
+    "không phù hợp"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đây là cái salami mà dễ ăn nhất mình từng ăn nhá, mình chỉ nói là từ dễ ăn thôi chứ không phải là cái salami này ngon mà mình thấy là dễ ăn nhất.",
+    "Nếu như mà chấm trên thang điểm của salami thì cái món này mình chấm cho chín điểm nhưng mà chấm trên thang điểm của một món ăn bình thường năm điểm.",
+    "Đây là da của mọi người cái lúc mà mùa đông không tắm này. Nứt nẻ khô héo."
+  ],
+  "hook_content": "Ư! oaa. Mọi người đều biết cái món salami đúng không?",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review ba loại salami khác nhau (phô mai, húng tây, cà chua) mua ở siêu thị. Người nói đưa ra đánh giá chủ quan về hương vị, so sánh với các món ăn khác và chấm điểm.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành",
+    "Khó chịu"
+  ]
+}

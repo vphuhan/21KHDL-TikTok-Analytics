@@ -1,0 +1,56 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sốt",
+      "desc": "Giới thiệu sốt cay té đái của nhà anh Lâm Vlog.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm"
+    },
+    {
+      "step": "Đánh giá sốt",
+      "desc": "Nhận xét sốt hợp với đồ chua và hải sản.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Kế hoạch thử nghiệm",
+      "desc": "Hứa hẹn thử sốt với hải sản trong tương lai.",
+      "impact_level": "1",
+      "viewer_emotion": "Mong đợi"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "cay",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Trời ta nói cái sốt này của nhà anh Lâm mà kết hợp với đồ chua hay là hải sản thì ba cháy còn bỏ chét luôn."
+  ],
+  "hook_content": "review cả thế giới. Sốt cay, té đái, anh Lâm, Vlog. À.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review sốt cay té đái của anh Lâm Vlog, người nói nhận xét sốt này hợp với đồ chua và hải sản, hứa hẹn sẽ thử với hải sản trong tương lai.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

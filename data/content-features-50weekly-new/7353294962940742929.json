@@ -1,0 +1,59 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu mì cay cấp độ 7 với nhiều topping hấp dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị món ăn."
+    },
+    {
+      "step": "Miêu tả topping",
+      "desc": "Liệt kê các loại topping của mì cay như cá hồi, mực,...",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá nhanh",
+      "desc": "Đánh giá nhanh về món ăn: \"Ngon đây đúng rồi\".",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn biết thêm chi tiết."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thơm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Hôm nay Hà sẽ múc banh mì cây cấp độ 7.",
+    "Ngon đây đúng rồi."
+  ],
+  "hook_content": "Hôm nay Hà sẽ múc banh mì cây cấp độ 7.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang mì cay cấp độ 7 với nhiều topping hấp dẫn như cá hồi, mực, xúc xích, bò kim châm và cá viên. Người ăn đánh giá món ăn là ngon.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

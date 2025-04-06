@@ -1,0 +1,91 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Mô tả thời tiết lạnh và ý định nấu mì tương đen.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Đi chợ",
+      "desc": "Chia sẻ về trải nghiệm đi chợ và giá cả thực phẩm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Nấu cơm",
+      "desc": "Nấu cơm bằng nồi mới và chia sẻ thói quen ăn cơm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Giới thiệu các nguyên liệu cần thiết cho món mì.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "Xào tương đen",
+      "desc": "Hướng dẫn cách xào tương đen để không bị chát.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Nấu sốt",
+      "desc": "Nấu sốt tương đen và thêm tinh bột khoai tây.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Hoàn thiện món ăn",
+      "desc": "Luộc mì, trộn sốt và mời mọi người cùng ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng khởi"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Giờ mời mọi người ăn chung với cả nhà mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "lạnh",
+    "tội nghiệp",
+    "thèm",
+    "mừng",
+    "ngon",
+    "mê"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "mỡ hành là rau mắc hơn thịt là có thiệt nha mọi người",
+    "Bởi vậy nấu ở nhà lúc nào nó cũng ngon hơn ở ngoài tiệm là vậy á",
+    "Cơm nào mà ngon bằng cơm nhà được"
+  ],
+  "hook_content": "Ngày sáng thức dậy á thì trời vừa mưa, vừa lạnh.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ về quá trình nấu món mì tương đen tại nhà trong một ngày mưa lạnh, từ việc đi chợ mua nguyên liệu đến khi hoàn thành món ăn và mời mọi người cùng thưởng thức. Người nấu chia sẻ các bí quyết để món ăn thêm ngon và đậm đà hương vị gia đình.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

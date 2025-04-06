@@ -1,0 +1,92 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món tuỷ bò sống và bày tỏ sự hồi hộp khi ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Nếm thử và miêu tả",
+      "desc": "Miêu tả mùi vị món ăn, so sánh với hôi lông và kem.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự so sánh"
+    },
+    {
+      "step": "Chia sẻ trải nghiệm",
+      "desc": "Chia sẻ cảm giác khi ăn, độ béo và gợi ý cách ăn khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích"
+    },
+    {
+      "step": "Miêu tả chi tiết hơn",
+      "desc": "Miêu tả kỹ hơn về vị và cảm giác khi nhai tuỷ bò.",
+      "impact_level": "2",
+      "viewer_emotion": "Tăng thêm sự tò mò"
+    },
+    {
+      "step": "Điều chỉnh cách ăn",
+      "desc": "Nhận ra ăn ít ngon hơn và chấm thêm dầu mè để khử mùi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với mẹo ăn"
+    },
+    {
+      "step": "Giải thích về cảm giác",
+      "desc": "Giải thích cảm giác 'nút' khi uống nước ga và hậu quả.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm và buồn cười"
+    },
+    {
+      "step": "Kế hoạch tương lai và kết thúc",
+      "desc": "Hứa hẹn thử tuỷ sống với sốt cay và cảm ơn người xem.",
+      "impact_level": "1",
+      "viewer_emotion": "Mong chờ video sau"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Cảm ơn bạn đã xem video của Tóc Vàng nha.",
+    "Hẹn gặp lại bạn vào video lần sau."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "hồi hộp",
+    "ngon",
+    "lạ lạ",
+    "béo",
+    "ngậy",
+    "thoải mái"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái này á, nó có cái vị... cái vị hôi hôi giống như là hôi lông vậy đó bạn.",
+    "Cái vị của nó giống như là vị kem vậy đó bạn.",
+    "Ăn mỗi lần ít ít như vậy á nó ngon."
+  ],
+  "hook_content": "Hai bạn, hôm nay Vàng sẽ ăn tuỷ bò sống nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại trải nghiệm lần đầu ăn tuỷ bò sống của Tóc Vàng, cô chia sẻ cảm xúc hồi hộp, miêu tả hương vị lạ, và đưa ra lời khuyên nên ăn từng chút một để cảm nhận rõ hơn. Cuối video, cô hứa hẹn sẽ thử món này với sốt cay trong tương lai.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

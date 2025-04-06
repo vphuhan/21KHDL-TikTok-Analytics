@@ -1,0 +1,79 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về cuộc sống gia đình và thời tiết hiện tại.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Giới thiệu các nguyên liệu tự làm và chuẩn bị món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Nấu món lòng xào dưa",
+      "desc": "Hướng dẫn cách nấu món lòng xào dưa đơn giản.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Nướng lòng",
+      "desc": "Hướng dẫn cách nướng lòng với bơ, tỏi và hành tây.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Mời ăn tối",
+      "desc": "Mời mọi người cùng ăn tối với gia đình.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp"
+    },
+    {
+      "step": "Phản hồi món ăn",
+      "desc": "Gia đình cùng nhau ăn và đưa ra nhận xét về món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Vui vẻ"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "vừa ăn",
+    "chua",
+    "ngon quá chừng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Bữa nay ngon rồi vừa ăn lắm luôn.",
+    "Mình sẽ cho bơ vô trong này để bơ tan chảy hết á, cái mình sẽ cho lòng vô, bắt đầu để lửa từ từ rồi mình nướng.",
+    "Ăn cái ớt nhiều ngon."
+  ],
+  "hook_content": "thế nào bà má ba khùng lo người ta ra đánh răng hết, đánh trên đánh dưới đánh tới cái mặt nhăn ấy là nhăn mà vẫn còn đánh, đen bạc chế độ giải cứu nha ai đó lại giải cứu Sô Hôn đi.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình nấu món lòng xào dưa và lòng nướng sa tế tại nhà, chia sẻ về cuộc sống gia đình và mời mọi người cùng ăn tối. Mọi người trong gia đình cùng nhau thưởng thức và đưa ra những nhận xét chân thật về món ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

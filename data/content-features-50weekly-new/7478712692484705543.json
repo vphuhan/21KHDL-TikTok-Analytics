@@ -1,0 +1,55 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món trứng lòng đào và mời mọi người cùng ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Miêu tả cảm quan",
+      "desc": "Miêu tả món trứng lòng đào bằng từ láy \"beo beo\".",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mời mọi người ăn trứng lòng đào với mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "khó",
+    "beo"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nó beo beo.",
+    "Nó beo lắm luôn ấy."
+  ],
+  "hook_content": "Trời ơi, bóc cái trứng này nó khó lắm luôn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video quay cận cảnh quá trình bóc và ăn trứng lòng đào, tập trung vào miêu tả cảm giác béo ngậy của món ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

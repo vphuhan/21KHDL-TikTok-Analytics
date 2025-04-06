@@ -1,0 +1,73 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu nguyên liệu",
+      "desc": "Liệt kê các nguyên liệu có trong set làm kẹo Nougat.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các thành phần."
+    },
+    {
+      "step": "Mô tả chi tiết",
+      "desc": "Miêu tả kỹ hơn về chất lượng và đặc điểm của từng nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự tỉ mỉ."
+    },
+    {
+      "step": "Nhấn mạnh sự khác biệt",
+      "desc": "Nêu bật điểm đặc biệt của set Nougat nhà Hà Cooking.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với sự độc đáo."
+    },
+    {
+      "step": "Giới thiệu thành phẩm",
+      "desc": "Giới thiệu set nguyên liệu kẹo Nougat hoàn thiện.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong muốn được tự tay làm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Bác nào mà thích Tết này tự làm kẹo thì quất liền nhá."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "béo",
+    "ngon",
+    "chua chua ngọt ngọt",
+    "xịn",
+    "chất lượng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Và đây mới là điều tạo nên sự đặc biệt của set Nougat thượng hạng nhà Hà Cooking nhá.",
+    "Bột sữa em sử dụng là bột sữa New Zealand các bác. Vừa thơm, vừa béo lại vừa ngon.",
+    "Bác nào mà thích Tết này tự làm kẹo thì quất liền nhá."
+  ],
+  "hook_content": "Em đang chuẩn bị nguyên liệu làm kẹo Tết cho các bác đây.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Liệt kê"
+  ],
+  "summarization": "Video giới thiệu set nguyên liệu làm kẹo Nougat của Hà Cooking, bao gồm marshmallow, xoài sấy dẻo, dâu tây sấy giòn, hạt bí xanh, nam việt quất, hạnh nhân và bột sữa New Zealand, kèm giấy nến, giấy gạo và túi đóng gói.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

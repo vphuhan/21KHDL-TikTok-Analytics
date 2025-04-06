@@ -1,0 +1,67 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu combo ưu đãi",
+      "desc": "Thông báo về giá ưu đãi đặc biệt của combo bánh tráng.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ và thích thú."
+    },
+    {
+      "step": "So sánh các loại bánh tráng",
+      "desc": "Phân tích sự khác biệt giữa bánh tráng siêu gạo và siêu mì.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò và muốn thử."
+    },
+    {
+      "step": "Trải nghiệm ăn bánh tráng",
+      "desc": "Miêu tả hương vị và cảm giác khi ăn bánh tráng phơi sương.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn ăn ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "comment bên dưới cho tôi biết với nha."
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "béo ngậy",
+    "đã dữ luôn",
+    "béo bùi",
+    "siêu cuốn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "79 cành mà được bảy món như này luôn hả?",
+    "Bà nào thích béo nữa thì chấm thêm cái muối béo chua dịu béo bùi là nhai hoài không dừng được vì nó siêu cuốn á."
+  ],
+  "hook_content": "Shop ơi, shop có để nhầm giá không vậy? 79 cành mà được bảy món như này luôn hả?",
+  "hook_type": [
+    "Gây tò mò",
+    "Khuyến mãi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review combo bánh tráng phơi sương với giá ưu đãi nhân dịp sinh nhật shop, so sánh bánh tráng siêu gạo và siêu mì, đồng thời miêu tả trải nghiệm ăn bánh tráng cuốn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

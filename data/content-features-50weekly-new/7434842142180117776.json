@@ -1,0 +1,83 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về bánh khảo bốn màu và gợi nhớ kỷ niệm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị."
+    },
+    {
+      "step": "Thử bánh màu xanh",
+      "desc": "Thử bánh khảo màu xanh và mô tả cảm nhận về vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung lắng nghe."
+    },
+    {
+      "step": "Thử bánh màu đỏ",
+      "desc": "Thử bánh khảo màu đỏ và so sánh với bánh trước.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Thử bánh màu vàng",
+      "desc": "Thử bánh khảo màu vàng và so sánh với các bánh trước.",
+      "impact_level": "1",
+      "viewer_emotion": "Không có gì đặc biệt."
+    },
+    {
+      "step": "Thử bánh màu tím",
+      "desc": "Thử bánh khảo màu tím và so sánh, nhận xét khác biệt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung hơn."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Nhấn mạnh bánh khảo trong dịp lễ Tết và khuyến khích thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bạn nào mà chưa được ăn ý, thì nhất định phải thử nhá."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "dính răng",
+    "bột bột"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Oản này được làm từ đường và gạo nếp, ăn bột bột và dính nha.",
+    "Cái oản này vị của nó không giống ba cái trước. mà vị của nó y hệt bánh khảo các bạn ạ.",
+    "Bạn nào mà chưa được ăn ý, thì nhất định phải thử nhá."
+  ],
+  "hook_content": "Múc bàng bốn màu của bánh khảo.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video mukbang bánh khảo bốn màu, mô tả hương vị và cảm nhận khi ăn từng loại, đồng thời gợi nhớ về món ăn truyền thống trong dịp lễ Tết và khuyến khích người xem thử.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

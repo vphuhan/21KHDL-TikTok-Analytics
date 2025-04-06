@@ -1,0 +1,69 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu gói măng Trung Quốc và bày tỏ sự chưa từng thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của món ăn."
+    },
+    {
+      "step": "Nếm thử",
+      "desc": "Ăn thử măng và cảm nhận vị cay nồng.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ và thích thú với vị cay."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét về hương vị đậm đà, ngon và cay của măng.",
+      "impact_level": "2",
+      "viewer_emotion": "Ghi nhận thông tin về món ăn."
+    },
+    {
+      "step": "Trải nghiệm",
+      "desc": "Chia sẻ trải nghiệm ăn măng và cần nhâm nhi.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với trải nghiệm của người nói."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "cay",
+    "ngon",
+    "đậm vị"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Không thể có một chút màu đỏ của ớt nào nhưng ăn rất là cay.",
+    "Hương vị thì đậm mùi của Trung Quốc luôn.",
+    "Ăn khá là ngon, tuy hơi cay một chút mình cần phải nhâm nhi nhâm nhi từng tí một."
+  ],
+  "hook_content": "gói măng Trung Quốc á. Có. Thực ra là mình chưa ăn cái măng này bao giờ.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video mukbang măng Trung Quốc, người nói chia sẻ trải nghiệm ăn lần đầu với vị cay nồng, hương vị đậm đà và cần nhâm nhi.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Ngạc nhiên",
+    "Thân thiện"
+  ]
+}

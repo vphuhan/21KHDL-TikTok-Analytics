@@ -1,0 +1,89 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu vấn đề",
+      "desc": "Chia sẻ về khó khăn khi làm sữa chua và quyết tâm làm thành công.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quá trình làm sữa chua."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê các nguyên liệu và dụng cụ cần thiết, nhấn mạnh sự chuẩn bị kỹ lưỡng.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy mọi thứ được chuẩn bị cẩn thận."
+    },
+    {
+      "step": "Thực hiện công thức",
+      "desc": "Hướng dẫn chi tiết các bước khuấy, ủ sữa chua, lưu ý nhiệt độ và thời gian.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy rõ các bước làm sữa chua."
+    },
+    {
+      "step": "Kiểm tra thành phẩm",
+      "desc": "Hồi hộp kiểm tra kết quả, lo lắng về việc sữa chua bị nhớt hay không.",
+      "impact_level": "3",
+      "viewer_emotion": "Cùng hồi hộp chờ đợi kết quả."
+    },
+    {
+      "step": "Đánh giá chất lượng",
+      "desc": "Nhận xét về độ đặc sánh, mịn màng của sữa chua, nhưng vẫn còn nghi ngờ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được thành phẩm có vẻ thành công."
+    },
+    {
+      "step": "Đóng gói sữa chua",
+      "desc": "Chia sẻ về khó khăn khi thắt túi sữa chua, quá trình luyện tập.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đồng cảm với sự vất vả."
+    },
+    {
+      "step": "Bảo quản và kết quả cuối cùng",
+      "desc": "Rút kinh nghiệm bảo quản, khoe thành phẩm mướt mịn, nhưng vẫn có sai sót.",
+      "impact_level": "3",
+      "viewer_emotion": "Vui mừng với kết quả nhưng có chút thất vọng."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "bồi hồi",
+    "hồi hộp",
+    "yên tâm",
+    "ghiền",
+    "cay"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mở nắp ra mà hồi hộp như kiểu biết điểm tốt nghiệp vậy đó.",
+    "Mà kể ra làm như này xong sữa chua bị tách nước hay là bị nhớt thì đời này coi như bỏ.",
+    "Để mà thành thạo sương sương như hôm nay là cũng phải mất 20 bịch nước rồi đấy."
+  ],
+  "hook_content": "Mùa hè đến rồi và kiếp nạn làm sữa chua bắt đầu.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ về quá trình làm sữa chua tại nhà, từ khâu chuẩn bị nguyên liệu, thực hiện công thức, đến đóng gói và bảo quản. Mặc dù gặp một số khó khăn và sai sót, nhưng cuối cùng người làm cũng có được thành phẩm sữa chua khá ưng ý.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

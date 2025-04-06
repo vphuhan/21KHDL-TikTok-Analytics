@@ -1,0 +1,95 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món chả cá bánh tráng và cách ăn kèm ngon miệng",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị món ăn"
+    },
+    {
+      "step": "Giới thiệu nguyên liệu",
+      "desc": "Giới thiệu nguyên liệu chính là chả cá thác lác và các gia vị",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Hướng dẫn xay nhỏ hành tỏi, cắt nhỏ hành lá và thì là",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Trộn và nêm gia vị",
+      "desc": "Hướng dẫn trộn chả cá với hành tỏi, hành lá, thì là và gia vị",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị"
+    },
+    {
+      "step": "Pha nước chấm",
+      "desc": "Hướng dẫn pha nước chấm chua ngọt với thì là",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị"
+    },
+    {
+      "step": "Tạo hình chả cá",
+      "desc": "Hướng dẫn phết chả cá lên bánh tráng và ép thành lớp mỏng",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Chiên chả cá",
+      "desc": "Hướng dẫn chiên chả cá ngập dầu đến khi vàng giòn",
+      "impact_level": "3",
+      "viewer_emotion": "Hấp dẫn"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Hãy cùng mình vào bếp làm ngay đi nào.",
+    "Cả nhà hãy thử làm ngay đi nào."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Follow kênh"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "tan chảy",
+    "giòn tan",
+    "ngọt",
+    "tươi mát",
+    "gây nghiện",
+    "hấp dẫn",
+    "thơm lừng",
+    "tuyệt vời"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Chả cá mà kết hợp với bánh tráng, ngon tan chảy luôn đó.",
+    "Lớp vỏ bánh dai mềm ôm tròn miếng chả cá giòn tan bên trong, vị ngọt tự nhiên của cá hòa quyện cùng rau củ tươi mát, tạo nên món ăn nhẹ nhàng mà gây nghiện lúc nào không hay nha.",
+    "Đây đúng là sự kết hợp hoàn hảo để cả nhà lai rai cuối tuần, hoặc làm bữa cơm gia đình thêm phần hấp dẫn."
+  ],
+  "hook_content": "Chả cá mà kết hợp với bánh tráng, ngon tan chảy luôn đó.",
+  "hook_type": [
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món chả cá chiên giòn tan bằng bánh tráng, với phần nhân mềm ngọt và nước chấm chua ngọt thơm lừng. Món ăn này thích hợp cho bữa cơm gia đình hoặc các dịp tụ họp bạn bè.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

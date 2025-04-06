@@ -1,0 +1,72 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sự kiện",
+      "desc": "Nhỏ em rủ đi ăn mừng sinh nhật và nhận quà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn và quà tặng."
+    },
+    {
+      "step": "Trải nghiệm món ăn",
+      "desc": "Thưởng thức mì Udon, tempura và trứng lòng đào.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng các món ăn."
+    },
+    {
+      "step": "Nhận quà",
+      "desc": "Quét mã trúng thưởng và nhận túi canvas.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy vui vì có quà kỷ niệm."
+    },
+    {
+      "step": "Ăn tiếp và nhận quà",
+      "desc": "Ngồi ăn tiếp để có cơ hội nhận thêm quà.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Tranh thủ vài bữa nữa ăn ké kỷ niệm sinh nhật tiếp để còn nhận quà nữa chứ."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "hấp dẫn",
+    "vui",
+    "thú vị",
+    "xịn sò"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đi ăn ké sinh nhật hên thì được ké luôn cái iPhone 16.",
+    "Đầu năm đầu tháng mình đi ăn ké sinh nhật vậy cũng vui ha.",
+    "Cuộc đời đi ăn ké quen rồi nên để coi có ké được cái iPhone 16 hay là sương sương cái xe điện không."
+  ],
+  "hook_content": "Nhân dịp kỷ niệm sinh nhật lần thứ nhất trong năm nay của mình. Tự nhiên nhỏ em kêu lên xe đi đi nhận iPhone 16 nè.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại trải nghiệm đi ăn mừng sinh nhật tại Marugame Udon và nhận quà kỷ niệm. Người này đã ăn nhiều món ngon và cảm thấy vui vẻ với chương trình tặng quà.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu mở đầu",
+      "desc": "Giới thiệu về việc khám phá ẩm thực tại chợ Tháp Đôi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về những món ăn được review."
+    },
+    {
+      "step": "Thưởng thức bánh canh",
+      "desc": "Ăn thử hai loại bánh canh bột gạo và bột mì.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú khi thấy món ăn hấp dẫn."
+    },
+    {
+      "step": "Thưởng thức bánh Huế",
+      "desc": "Ăn bánh Huế thập cẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của bánh Huế."
+    },
+    {
+      "step": "Thưởng thức bánh xèo",
+      "desc": "Ăn bánh xèo giá rẻ.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với giá cả phải chăng."
+    },
+    {
+      "step": "Thưởng thức ốc",
+      "desc": "Ăn ốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi mùi thơm của ốc."
+    },
+    {
+      "step": "Thưởng thức xiên nướng",
+      "desc": "Ăn xiên nướng ba rọi, chả và nem nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng với các loại xiên nướng."
+    },
+    {
+      "step": "Thưởng thức tráng miệng",
+      "desc": "Ăn kem flan.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn món tráng miệng ngon."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Tự ra ăn no bụng ở chợ Tháp Đôi Quy Nhơn nha mọi người"
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "rẻ",
+    "hên"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "100.000, ăn được gì ở chợ Tháp Đôi Quy Nhơn?",
+    "Đang ăn bánh xèo mà nghe cái mùi gì thơm ơi là thơm",
+    "Tự ra ăn no bụng ở chợ Tháp Đôi Quy Nhơn nha mọi người, nhưng mà vẫn còn dư 5.000."
+  ],
+  "hook_content": "100.000, ăn được gì ở chợ Tháp Đôi Quy Nhơn?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video review các món ăn ở chợ Tháp Đôi, Quy Nhơn với ngân sách 100.000 đồng, bao gồm bánh canh, bánh Huế, bánh xèo, ốc, xiên nướng và kem flan. Người quay chia sẻ trải nghiệm ăn uống no bụng và vẫn còn dư tiền.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu quán bánh canh cua đã review 2 năm trước.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá cua",
+      "desc": "Đánh giá độ tươi và chất lượng của càng cua.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Đánh giá nước súp",
+      "desc": "Nhận xét về vị nước súp, so sánh với nhà làm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá chả",
+      "desc": "Nhận xét về chả, đặc biệt là vị bột và mùi tiêu.",
+      "impact_level": "1",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "Đánh giá quýt",
+      "desc": "Đánh giá cao vị quýt, cho điểm 9/10.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Đánh giá tôm",
+      "desc": "Đánh giá tôm tươi, nhưng nước súp bị lạc.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Tổng kết",
+      "desc": "Tổng kết, khuyến khích tự trải nghiệm.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "đừng có tin nha tự tới ăn nha mọi người.",
+    "Bye bye giờ tôi đi tiếp đến cái điểm tiếp theo"
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "mặn",
+    "ngọt",
+    "lạc",
+    "muối muối",
+    "tươi",
+    "chắc thịt",
+    "dung hòa",
+    "thanh",
+    "nhạt nhạt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ăn vô thì nó bình thường à nó không có cảm giác bị tanh gì hết trơn á.",
+    "sống trong cuộc đời không có bao nhiêu mà hững hờ hết nếu như mình thật sự là mình thấy cái quán nó độc lạ mình cứ tới mình ăn giùm em một cái.",
+    "Cảm ơn mọi người đã coi clip của mình. Bye bye và đây cũng chỉ là cảm nhận cá nhân của mình thôi nha đừng có tin nha tự tới ăn nha mọi người."
+  ],
+  "hook_content": "mạng bánh canh cua 350000đ ngoài đời nha mọi người ơi bánh canh cua 350000đ sau gần gọi là 2 năm trước, 2 năm hôm nay mình review lại",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quán bánh canh cua 350k sau 2 năm. Nội dung tập trung đánh giá độ tươi của nguyên liệu, hương vị nước súp và các thành phần khác như chả, quýt, tôm; đồng thời khuyến khích người xem tự trải nghiệm để có cảm nhận riêng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

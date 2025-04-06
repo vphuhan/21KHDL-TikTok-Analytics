@@ -1,0 +1,65 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Tìm kiếm người nấu hộ",
+      "desc": "Hỏi nhiều người lạ để xem ai có thể chế biến đầu cá.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về kết quả."
+    },
+    {
+      "step": "Nhờ đầu bếp chuyên nghiệp",
+      "desc": "Tìm đến nhà hàng và nhờ đầu bếp chế biến đầu cá.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong đợi món ăn ngon."
+    },
+    {
+      "step": "Nếm thử món ăn",
+      "desc": "Nếm thử và đưa ra cảm nhận về món đầu cá chìa vôi.",
+      "impact_level": "3",
+      "viewer_emotion": "Buồn cười vì vị đắng."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Đánh giá hương vị cuối cùng của món ăn, cũng không tệ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tạm chấp nhận được."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "đắng",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cái đầu này dai thì thôi rồi luôn các bạn.",
+    "Má ơi, tôi ăn trúng cái gì của nó mà đắng vãi chưởng luôn.",
+    "Ăn cũng không tệ chút nào, cũng ngon đó."
+  ],
+  "hook_content": "Chị gái ơi, cá chìa vôi này có xiên nướng được không?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình một người mang đầu cá chìa vôi đi nhờ người khác nấu hộ. Sau nhiều lần bị từ chối, cuối cùng người này đã tìm được một nhà hàng đồng ý chế biến và đưa ra đánh giá về món ăn.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

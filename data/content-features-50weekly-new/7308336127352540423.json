@@ -1,0 +1,86 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ăn định làm: sashimi hào và hào chiên xù.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Sơ chế hàu",
+      "desc": "Chà rửa hàu và chia thành hai phần để chế biến.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chế biến hào chiên xù",
+      "desc": "Trộn hàu với bột mì, lăn trứng, lăn bột chiên xù.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Làm sashimi hào",
+      "desc": "Giới thiệu cách ăn sashimi hào với mù tạt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Nấu mì cay hào",
+      "desc": "Nấu mì Champong và thêm hàu vào.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu sản phẩm dưỡng da và giảm cân.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Ăn tối với ba món hào và đánh giá hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ này gần Tết rồi, mấy bạn mà đang muốn dưỡng da cho đẹp hoặc là uống collagen này, giảm cân mượt đồ cho gọn á thì nhớ liên lạc với mình nha.",
+    "Mình dùng gì bán đó mà mọi người ơi, cho nên là mọi người yên tâm nha."
+  ],
+  "cta_type": [
+    "Truy cập trang cá nhân",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái món này là một người khỏe hai người vui mà hai người khỏe là hai người cũng vui luôn."
+  ],
+  "hook_content": "Bữa nay mình thử làm cái món sashimi hào với lại là hào chiên xù.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu cách làm ba món từ hàu: sashimi hàu, hàu chiên xù và mì cay hàu. Người làm chia sẻ quá trình chế biến và mời mọi người cùng ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

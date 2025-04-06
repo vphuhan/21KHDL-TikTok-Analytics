@@ -1,0 +1,84 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bánh mì kẹp phô mai gà áp chảo.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê các nguyên liệu cần thiết và sơ chế.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, nắm bắt thông tin."
+    },
+    {
+      "step": "Nướng cà chua",
+      "desc": "Hướng dẫn nướng cà chua, hành tây, tỏi trong nồi chiên.",
+      "impact_level": "1",
+      "viewer_emotion": "Quan sát quy trình thực hiện."
+    },
+    {
+      "step": "Ướp và áp chảo gà",
+      "desc": "Ướp gà với gia vị và áp chảo đến khi chín xém.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú khi thấy gà được chế biến."
+    },
+    {
+      "step": "Làm súp cà chua",
+      "desc": "Xay nhuyễn cà chua nướng và nấu thành súp.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của súp."
+    },
+    {
+      "step": "Áp chảo bánh mì",
+      "desc": "Đè dẹp bánh mì và áp chảo với phô mai.",
+      "impact_level": "3",
+      "viewer_emotion": "Hấp dẫn bởi phô mai tan chảy."
+    },
+    {
+      "step": "Hoàn thiện và thưởng thức",
+      "desc": "Kẹp gà vào bánh mì, ăn kèm súp cà chua.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn thử ngay món ăn này."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thanh mát",
+    "dễ ăn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "bánh mì Việt Nam vẫn có thể đảm bảo món này ngon xuất sắc luôn",
+    "Súp này thì sẽ rất là thanh mát và dễ ăn",
+    "trước khi làm á thì mình không chắc chắn là món này sẽ hợp với lại bánh mì đâu nhưng mà mọi người cứ tin mình là cho phô mai vào bên trong"
+  ],
+  "hook_content": "Tin mình là mọi người không cần phải tìm mua vỏ bánh Taco cho món này nữa tại vì bánh mì Việt Nam vẫn có thể đảm bảo món này ngon xuất sắc luôn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món bánh mì kẹp phô mai gà áp chảo ăn kèm súp cà chua, sử dụng bánh mì Việt Nam thay vì vỏ bánh taco. Món ăn này có hương vị thanh mát, dễ ăn và rất hấp dẫn.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

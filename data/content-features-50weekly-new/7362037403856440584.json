@@ -1,0 +1,90 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu thử thách",
+      "desc": "Giới thiệu lại thử thách ăn súp cua 30 giây đã từng làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về thử thách mới của quán."
+    },
+    {
+      "step": "Thông báo chi nhánh mới",
+      "desc": "Thông báo quán mở thêm chi nhánh mới nhờ thử thách trước.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng về sự phát triển của quán."
+    },
+    {
+      "step": "Luật chơi mới",
+      "desc": "Thông báo luật chơi mới: ăn hết súp cua trong 30 giây nhận 1 triệu.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú với phần thưởng hấp dẫn."
+    },
+    {
+      "step": "Tự làm khó",
+      "desc": "Người nói tự làm khó mình, thử thách ăn súp cua trong 30 giây.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự hài hước của người nói."
+    },
+    {
+      "step": "Nhận xét về món ăn",
+      "desc": "Nhận xét về tương ớt muối và sa tế vẫn ngon như lần trước.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn đến quán để thử món ăn."
+    },
+    {
+      "step": "Kết quả thử thách",
+      "desc": "Người nói không thể ăn hết súp cua trong 30 giây.",
+      "impact_level": "2",
+      "viewer_emotion": "Thông cảm với người nói."
+    },
+    {
+      "step": "Kêu gọi trải nghiệm",
+      "desc": "Kêu gọi mọi người đến quán trải nghiệm thử thách.",
+      "impact_level": "2",
+      "viewer_emotion": "Có động lực đến quán để trải nghiệm."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "bạn nào có khả năng thì cứ tới đây trải nghiệm thử đi",
+    "mọi người ghé trải nghiệm thử nghe"
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "mê đắm đuối",
+    "xinh xắn",
+    "rộng rãi"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Thử thách thì vẫn còn nhưng thể lệ thì thay đổi rồi, mọi người ăn hết tô súp cua đặc biệt trong vòng 30 giây sẽ nhận được 1 triệu.",
+    "Nhưng mà nói gì nói lần thứ hai quay trở lại vẫn mê đắm đuối cái tương ớt muối với sa tế ở đây nghe.",
+    "Đây là cái giá phải trả cho mấy đứa cố chấp như tôi nè."
+  ],
+  "hook_content": "Nghĩ sao tôi súp cua này mà ăn trong vòng 30 giây.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review về thử thách ăn súp cua trong 30 giây tại quán súp cua Tôn Đức Thắng, đồng thời giới thiệu chi nhánh mới của quán và kêu gọi mọi người đến trải nghiệm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

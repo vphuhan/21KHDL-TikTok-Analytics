@@ -1,0 +1,89 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu hải sản",
+      "desc": "Review thùng hải sản gồm ốc mỡ và sò huyết mới mua.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các loại hải sản."
+    },
+    {
+      "step": "Sơ chế ốc mỡ",
+      "desc": "Làm sạch ốc mỡ bằng bàn chải mini.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự cẩn thận."
+    },
+    {
+      "step": "Luộc ốc",
+      "desc": "Luộc ốc mỡ với sả trong thời gian dài.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, chờ đợi kết quả."
+    },
+    {
+      "step": "Chuẩn bị nước chấm",
+      "desc": "Pha nước chấm muối tiêu ớt đơn giản.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy quen thuộc."
+    },
+    {
+      "step": "Thưởng thức ốc",
+      "desc": "Ăn và đánh giá hương vị ốc mỡ luộc.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn ăn thử."
+    },
+    {
+      "step": "Giới thiệu vòng trầm",
+      "desc": "Chia sẻ về chiếc vòng trầm phong thủy.",
+      "impact_level": "1",
+      "viewer_emotion": "Không liên quan lắm."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Nêu ý định chế biến ốc mỡ cháy tỏi.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức chờ đợi món mới."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ai mà có cần vòng trầm thì mọi người có thể nhắn cho chị Thanh Nhàn nha."
+  ],
+  "cta_type": [
+    "Truy cập trang cá nhân"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "béo",
+    "giòn",
+    "thích"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Lần đầu tiên được ăn cái loại ốc mỡ tươi ta nói nó ngon thiệt nha.",
+    "Ốc biển thì cái đuôi ăn được mà đúng không, nên là mình lụm hết nguyên con.",
+    "Ăn một lượt giống vậy thì cái độ giòn với cái độ béo của nó tăng thêm mấy lần."
+  ],
+  "hook_content": "Hôm nay thì mình có đặt một cái thùng hải sản ở trên mạng về.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review món ốc mỡ luộc và trải nghiệm ăn thử, đồng thời giới thiệu về chiếc vòng trầm phong thủy. Người làm video chia sẻ cảm nhận về độ tươi ngon của ốc và giới thiệu địa chỉ mua vòng trầm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

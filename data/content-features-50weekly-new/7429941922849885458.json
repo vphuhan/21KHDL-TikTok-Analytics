@@ -1,0 +1,105 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu bánh tráng Lương Bằng và giá tiền của sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm được giới thiệu."
+    },
+    {
+      "step": "Mở hộp",
+      "desc": "Mở hộp bánh tráng và nói về kinh phí eo hẹp của kênh.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin về sản phẩm và sự hài hước."
+    },
+    {
+      "step": "Đánh giá nguyên liệu",
+      "desc": "Đánh giá các thành phần như ruốc, hành phi, sốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm nhận về chất lượng và hương vị."
+    },
+    {
+      "step": "Cuốn và ăn thử",
+      "desc": "Cuốn bánh tráng và thử từng loại, đưa ra cảm nhận.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng khi xem quá trình ăn."
+    },
+    {
+      "step": "Chấm điểm",
+      "desc": "Chấm điểm set bánh tráng và từng nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá của người review."
+    },
+    {
+      "step": "Thử set khác",
+      "desc": "Thử set bánh tráng khác và so sánh hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Tò mò về sự khác biệt giữa các set."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Đánh giá chung và so sánh với trải nghiệm cũ.",
+      "impact_level": "2",
+      "viewer_emotion": "Biết thêm thông tin và ấn tượng."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người đã coi clip của mình, bye bye."
+  ],
+  "cta_type": [
+    "Truy cập trang cá nhân",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "ngọt",
+    "cuốn",
+    "cay",
+    "béo",
+    "vừa phải",
+    "dễ thương",
+    "vừa vặn",
+    "thích",
+    "ấn tượng",
+    "mềm",
+    "kẹo",
+    "cân bằng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ngọt nhưng mà có một cái hương vị gì đó rất là cuốn.",
+    "Một cái sự kết hợp thật ra rất dễ thương, rất vừa phải.",
+    "Set bên đây á nó sẽ hòa quyện hơn, mặn mặn, béo béo, chua chua, ngọt ngọt, cân bằng cảm xúc."
+  ],
+  "hook_content": "Trên mạng bánh tráng của chị Lương Bằng. Mắm siêu to luôn.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm",
+    "So sánh"
+  ],
+  "summarization": "Video review hai set bánh tráng của Lương Bằng, tập trung vào đánh giá chi tiết các thành phần, hương vị và so sánh giữa hai set. Người review đưa ra nhận xét chân thực, chấm điểm từng thành phần và set bánh tráng dựa trên trải nghiệm cá nhân.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

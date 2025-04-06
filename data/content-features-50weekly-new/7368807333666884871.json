@@ -1,0 +1,88 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Mẹ và con cùng nhau xếp hạng các loại trái cây yêu thích.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Xếp hạng dưa hấu",
+      "desc": "Xếp hạng dưa hấu ở vị trí số 5 vì ngọt, thanh mát.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Xếp hạng việt quất",
+      "desc": "Xếp hạng việt quất ở vị trí số 9 vì chưa ăn bao giờ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Xếp hạng thơm",
+      "desc": "Xếp hạng thơm ở vị trí số 4 vì ngon và trị sẩn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Xếp hạng chanh dây",
+      "desc": "Xếp hạng chanh dây ở vị trí số 8 vì chua.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Xếp hạng quả điều",
+      "desc": "Xếp hạng quả điều ở vị trí số 7 vì có nước.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Xếp hạng quả khác",
+      "desc": "Xếp hạng các quả còn lại, mận, mít, bơm, dâu.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngọt",
+    "thanh",
+    "mát",
+    "ngon",
+    "chua",
+    "dai",
+    "khó ăn",
+    "nhão"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Dưa hấu ngọt ngọt thanh thanh mát mát làm nước ép uống cũng được luôn.",
+    "Quả điều ăn cũng được, nước nhiễu nhiễu mà ăn rồi cái miệng l lớ lặc lạc.",
+    "Mận cầu dai cho vô số sáu. Mẹ thích ăn mận cầu mà. Nhưng mà hột nhiều quá khó ăn con ơi."
+  ],
+  "hook_content": "hôm nay mình tiếp tục xếp hạng trái cây yêu thích nha mẹ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Liệt kê"
+  ],
+  "summarization": "Video ghi lại cảnh hai mẹ con cùng nhau xếp hạng các loại trái cây yêu thích, đưa ra những nhận xét ngắn gọn về hương vị và cảm nhận cá nhân đối với từng loại quả.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

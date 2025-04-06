@@ -1,0 +1,79 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món mỳ xào bò cay, phù hợp cho những ngày bận rộn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê và sơ chế các nguyên liệu: hành tây, tỏi, ớt, cải, thịt bò.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, ghi nhớ nguyên liệu."
+    },
+    {
+      "step": "Ướp thịt bò",
+      "desc": "Hướng dẫn ướp thịt bò với một thìa cà phê muối.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, làm theo hướng dẫn."
+    },
+    {
+      "step": "Xào thịt bò",
+      "desc": "Xào thịt bò với hành tây đến khi chín tới.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn, thèm ăn."
+    },
+    {
+      "step": "Luộc mì",
+      "desc": "Luộc mì, tùy theo sở thích ăn dai hay mềm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, ghi nhớ thời gian luộc."
+    },
+    {
+      "step": "Phi thơm ớt tỏi và xào rau",
+      "desc": "Phi thơm ớt tỏi, thêm gia vị, cho cải vào xào.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị, kích thích vị giác."
+    },
+    {
+      "step": "Hoàn thiện món ăn",
+      "desc": "Cho mì, thịt bò, trứng (tùy chọn) vào xào chung.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức muốn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Bò cay là món mà mình sẽ làm vào những ngày muốn gộp ba món trong bữa ăn thành một, vừa có rau, vừa có tinh bột, vừa có đạm."
+  ],
+  "hook_content": "Bây giờ bò cay là món mà mình sẽ làm vào những ngày muốn gộp ba món trong bữa ăn thành một, vừa có rau, vừa có tinh bột, vừa có đạm.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm món mì xào bò cay đơn giản, nhanh gọn, phù hợp cho những ngày bận rộn. Món ăn kết hợp rau, tinh bột và đạm.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

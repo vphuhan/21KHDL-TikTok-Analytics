@@ -1,0 +1,92 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món hàu sữa luộc sả và hỏi mọi người thích ăn gì.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn được giới thiệu."
+    },
+    {
+      "step": "Chọn hàu",
+      "desc": "Hướng dẫn cách chọn hàu ngon dựa trên kinh nghiệm.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích với thông tin được chia sẻ."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Hái đọt keo để ăn kèm, tăng thêm vị ngọt cho món ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có nhiều cảm xúc."
+    },
+    {
+      "step": "Luộc hàu",
+      "desc": "Hướng dẫn cách luộc hàu nhanh chín và ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy đói bụng và muốn ăn thử."
+    },
+    {
+      "step": "Pha nước chấm",
+      "desc": "Giới thiệu và pha nước chấm đặc biệt từ mước đỏ và mù tạt.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng vì nước chấm hấp dẫn."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Trình bày món ăn và thưởng thức với nước chấm, biểu cảm ngon miệng.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy món ăn rất hấp dẫn và muốn thử ngay."
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng ăn và kết thúc video.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thân thiện và gần gũi."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "béo",
+    "ngon",
+    "béo ngậy",
+    "tuyệt đối",
+    "cay cay",
+    "dính",
+    "cay nồng",
+    "ngon bá cháy",
+    "ú nu",
+    "đã"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "siêu đơn giản mà ăn thì siêu béo ngậy tuyệt đối luôn",
+    "ăn gà hay hải sản gì nó cũng dính hết ráo",
+    "ai mà gu ăn cay nồng như tôi thì thử kết hợp mước đỏ này với mù tạc đi, ta nói nó nồng mà ngon bá cháy luôn"
+  ],
+  "hook_content": "Có mấy con hào sữa béo ngon như vầy thì mọi người khoái làm món gì ăn?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu món hàu sữa luộc sả ăn kèm đọt keo, hướng dẫn cách chọn hàu ngon và pha nước chấm đặc biệt. Người làm video trực tiếp thưởng thức và thể hiện sự ngon miệng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

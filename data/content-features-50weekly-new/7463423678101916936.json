@@ -1,0 +1,59 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món tré bó rơm và chuẩn bị thưởng thức.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Thưởng thức và đánh giá",
+      "desc": "Ăn thử tré và phát hiện tré bị mốc.",
+      "impact_level": "3",
+      "viewer_emotion": "Sốc và thất vọng"
+    },
+    {
+      "step": "Phản ứng tiêu cực",
+      "desc": "Thể hiện sự tiếc nuối về số tiền đã bỏ ra.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với người review"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "Ủa",
+    "U là trời"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ủa, như thế này là bị móc hay là nó thế này ta?",
+    "U là trời, móc trắng luôn.",
+    "40k của tôi."
+  ],
+  "hook_content": "review cả thế giới. Múc bàn, bó rơm.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review món tré bó rơm nhưng phát hiện bị mốc và bày tỏ sự thất vọng.",
+  "tone_of_voice": [
+    "Ngạc nhiên",
+    "Khó chịu"
+  ]
+}

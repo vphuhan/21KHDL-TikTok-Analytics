@@ -1,0 +1,93 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Khách du lịch, người Việt ở nước ngoài",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu vấn đề",
+      "desc": "Đề cập đến tình trạng nói thách giá ở Đà Lạt",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Khuyên nên mua hàng bên trong chợ để tránh bị lầm",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng"
+    },
+    {
+      "step": "Review sản phẩm",
+      "desc": "Giới thiệu các loại đặc sản và mời khách hàng ăn thử",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Cam kết bán hàng",
+      "desc": "Khẳng định bán đúng giá và tạo sự thoải mái cho khách",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng"
+    },
+    {
+      "step": "Chia sẻ bí quyết",
+      "desc": "Nói rõ về chất lượng sản phẩm và sự khác biệt",
+      "impact_level": "2",
+      "viewer_emotion": "Khám phá"
+    },
+    {
+      "step": "Tương tác với khách",
+      "desc": "Tạo sự gần gũi và khuyến khích khách hàng thoải mái",
+      "impact_level": "3",
+      "viewer_emotion": "Vui vẻ"
+    },
+    {
+      "step": "Hướng dẫn mua hàng",
+      "desc": "Chỉ dẫn vị trí quầy hàng và thông tin liên hệ",
+      "impact_level": "2",
+      "viewer_emotion": "Hài lòng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nên mấy bà mà có đi mua đặc sản Đà Lạt á thì tham khảo thử ở đây nha.",
+    "Mua xong rồi về ăn ngon xong rồi gọi điện lên, cô gửi về tận nơi."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Chia sẻ"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thoải mái",
+    "dễ thương",
+    "nhiệt tình",
+    "bất ngờ",
+    "an tâm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tới ăn cái không mua có bị la không cô? Không đâu con. Ở đây cô nhiều lắm, các bạn ăn thoải mái, thích thì mua mà không thích thôi à.",
+    "Ví dụ tụi con mua nhiều thì cô sẽ tặng cho con cái gì ăn thôi. Đúng giá, đúng chất lượng cho tụi con thôi.",
+    "Chờ ăn thử thoải mái, không mua cũng không có bị chửi, giá bán niêm yết, không có nói thách mà trả giá cũng không bớt nữa."
+  ],
+  "hook_content": "Đà Lạt kéo khách, nói thách giá, Đà Lạt bây giờ khác xưa rồi.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ về kinh nghiệm mua đặc sản Đà Lạt, khuyên nên mua ở chợ để tránh bị nói thách giá và giới thiệu một quầy hàng cụ thể, nơi khách hàng có thể ăn thử thoải mái trước khi mua.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

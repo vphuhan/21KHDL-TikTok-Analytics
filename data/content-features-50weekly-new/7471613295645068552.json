@@ -1,0 +1,81 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu hoàn cảnh",
+      "desc": "Tuyết rơi nhiều gây khó khăn khi di chuyển về nhà lúc 3 giờ sáng.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thông cảm với khó khăn của người làm video."
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Về đến nhà thấy mực trứng trước cửa, quyết định làm 4kg để ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thèm món mực trứng."
+    },
+    {
+      "step": "Gợi ý cách chế biến",
+      "desc": "Mực trứng có thể hấp, nấu canh chua, nấu hủ tiếu đều ngon.",
+      "impact_level": "1",
+      "viewer_emotion": "Có thêm ý tưởng chế biến mực trứng."
+    },
+    {
+      "step": "Giới thiệu sản phẩm khác",
+      "desc": "Giới thiệu hộp phòng chống đột quỵ của chính phủ Hàn Quốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm phòng chống đột quỵ."
+    },
+    {
+      "step": "Mời ăn mực trứng",
+      "desc": "Mời mọi người ăn mực trứng, miêu tả trứng đầy ắp.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng và muốn ăn ngay."
+    },
+    {
+      "step": "Nhấn mạnh ưu điểm",
+      "desc": "Mực đã luộc sẵn nên con nào cũng có trứng, cấp đông ăn dần.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy tiện lợi và hấp dẫn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Còn bây giờ thì mình sẽ mời mọi người ăn mực trứng chung với mình ha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "đầy ắp",
+    "chắc lọi"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ta nói con nào con nấy thì trứng cũng đầy ắp mà chắc lọi hết trơn á.",
+    "Mà cái món này được cái là mọi người cứ việc cấp đông đi rồi mỗi lần ăn thì cứ lấy ra ăn ít ít ăn hoài hoài được hoài vậy đó."
+  ],
+  "hook_content": "Mới khi mà tới mùa đông thì cái chỗ mình tuyết nó còn đỡ nghe, còn những vùng lân cận là tuyết nó cỡ này nè.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video chia sẻ về trải nghiệm vất vả khi di chuyển trong mùa đông để về nhà và thưởng thức món mực trứng. Người làm video cũng giới thiệu thêm về sản phẩm phòng chống đột quỵ và cách chế biến, bảo quản mực trứng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

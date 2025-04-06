@@ -1,0 +1,86 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về việc sau 2 tháng về quê mới được ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá sản phẩm",
+      "desc": "Nhận xét về màu sắc và hương vị của phô mai.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Nhấn mạnh đặc điểm",
+      "desc": "Nhấn mạnh đặc điểm của người trong hình minh họa.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Trải nghiệm vị giác",
+      "desc": "Miêu tả cảm giác ngấy, mặn, béo khi ăn phô mai.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Thể hiện sự yêu thích",
+      "desc": "Khẳng định đây là vị phô mai yêu thích nhất.",
+      "impact_level": "3",
+      "viewer_emotion": "Đồng tình"
+    },
+    {
+      "step": "Cảm xúc khi ăn",
+      "desc": "Miêu tả cảm giác thỏa mãn cơn thèm phô mai.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Tần suất ăn",
+      "desc": "Chia sẻ tần suất mua phô mai hàng tháng.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "ngấy",
+    "mặn",
+    "béo",
+    "thỏa mãn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ối giời ơi ngon quá!",
+    "ăn mà nó thỏa mãn cơn mê phô mai con bò cười của mình luôn",
+    "Mình cảm tưởng mình ăn hết một hộp mình cũng không hề bị ngán luôn"
+  ],
+  "hook_content": "Đúng 2 tháng về quê thì cuối cùng mình cũng đã được ăn phô mai con bò cười vị nguyên bản.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video ghi lại cảnh mukbang phô mai con bò cười vị nguyên bản, người ăn miêu tả cảm giác ngon, ngấy, béo và thỏa mãn cơn thèm, đồng thời chia sẻ tần suất mua phô mai hàng tháng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu bánh mì ngô và so sánh với nem ngô.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Đánh giá trực tiếp",
+      "desc": "Nhận xét về hương vị và thành phần của bánh mì.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với đánh giá chi tiết."
+    },
+    {
+      "step": "Địa điểm và lựa chọn",
+      "desc": "Thông tin về địa điểm mua bánh mì ngô.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, cung cấp thông tin."
+    },
+    {
+      "step": "Chi tiết về bánh",
+      "desc": "Miêu tả cách làm và thành phần của bánh mì ngô.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi sự đầy đặn của bánh."
+    },
+    {
+      "step": "Mẹo ăn ngon",
+      "desc": "Gợi ý cách ăn để cảm nhận rõ vị bánh mì ngô.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích với lời khuyên."
+    },
+    {
+      "step": "Thông tin bổ sung",
+      "desc": "Giới thiệu các loại bánh khác ở quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Không đặc biệt hứng thú."
+    },
+    {
+      "step": "Kêu gọi tương tác",
+      "desc": "Hỏi ý kiến người xem về quán bánh mì.",
+      "impact_level": "2",
+      "viewer_emotion": "Sẵn sàng chia sẻ trải nghiệm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ai ăn ở đây rồi cho mình cảm nhận với nhé."
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "thất vọng",
+    "đặc biệt",
+    "nhiều quá"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ăn chả cái vị gì, cái vị nước sốt nó bị nhiều quá, át hết mùi ngô đi",
+    "Cái này mà mọi người muốn ăn rõ vị nhất giảm bớt cái nước sốt đi.",
+    "bục cả bánh luôn đây này"
+  ],
+  "hook_content": "Đây là bánh mì ngô chứ không phải là nem ngô.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review bánh mì ngô tại một quán ở phố Hương Viên, Hà Nội. Người review chia sẻ trải nghiệm cá nhân về hương vị, thành phần và đưa ra lời khuyên để thưởng thức bánh ngon nhất.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Tìm kiếm và giới thiệu hàng bánh",
+      "desc": "Gian nan tìm hàng bánh bò lâu năm, giới thiệu các loại bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các loại bánh."
+    },
+    {
+      "step": "Thử bánh bò mật",
+      "desc": "Thử bánh bò mật, mô tả hương vị, so sánh với bánh bông lan.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng muốn ăn thử."
+    },
+    {
+      "step": "Thử bánh bò trắng",
+      "desc": "Thử bánh bò trắng, nhận xét vị chua, so sánh với bánh mật.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị khác biệt."
+    },
+    {
+      "step": "Thử bánh chín tầng mây",
+      "desc": "Thử bánh chín tầng mây, mô tả độ dẻo, so sánh với bánh da lợn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với kết cấu bánh."
+    },
+    {
+      "step": "Thử bánh vị cà phê",
+      "desc": "Thử bánh vị cà phê, nhận xét hương vị thoang thoảng, không ngọt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về vị cà phê."
+    },
+    {
+      "step": "Góp ý và thông tin địa điểm",
+      "desc": "Góp ý nên có nước cốt dừa, cung cấp thông tin địa điểm bán.",
+      "impact_level": "1",
+      "viewer_emotion": "Cung cấp thông tin hữu ích."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "ngọt",
+    "ngậy",
+    "dẻo",
+    "dính",
+    "hay hay",
+    "tiếc"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Bánh bò này không phải cứ thích ăn là mua được luôn đâu.",
+    "Khó gặp hơn cả giám đốc luôn ạ.",
+    "Mấy loại bánh này chấm uống nước cốt dừa sẽ ngon hơn."
+  ],
+  "hook_content": "rồi đây rồi thấy rồi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh",
+    "Đối thoại"
+  ],
+  "summarization": "Video review các loại bánh bò của một cô bán hàng rong lâu năm, từ bánh bò mật, bánh bò trắng đến bánh chín tầng mây và bánh vị cà phê, đồng thời chia sẻ cảm nhận về hương vị và kết cấu của từng loại. Người review cũng đưa ra gợi ý nên ăn kèm bánh với nước cốt dừa.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu hải sâm gai và chia sẻ đây là lần đầu ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị và hình dạng của món ăn."
+    },
+    {
+      "step": "Nguồn gốc và giá cả",
+      "desc": "Chia sẻ nơi mua hải sâm và giá cả, đảm bảo chất lượng.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích cho ai muốn thử."
+    },
+    {
+      "step": "Cách chế biến",
+      "desc": "Gợi ý các cách chế biến và cách làm món sốt cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với món hải sâm sốt siêu cay."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá hương vị hải sâm và sự kết hợp với sốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm nhận được vị ngon đặc biệt."
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng ăn và kết thúc video.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm giác thân thiện và gần gũi."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tui nghe!"
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "mắc cười",
+    "siêu bổ dưỡng",
+    "mềm như thạch",
+    "mê ăn cay",
+    "siêu cay",
+    "đậm đà",
+    "keo lì"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đây là con hải sâm, nghe nói ăn là siêu bổ dưỡng, nhưng đây cũng là lần đầu tiên tui cầm và ăn thử luôn!",
+    "Theo cảm nhận cá nhân của tui thì con hải sâm này ăn nó mềm tan như thạch vậy đó, còn về vị thì tui thấy hổng có vị gì, nên kết hợp với sốt nước mắm siêu cay đậm đà của tui là đúng bài luôn!",
+    "Tính ra dòm hình thù của nó lạ lạ nhưng mà ăn cũng keo lì lắm nha!"
+  ],
+  "hook_content": "Hello mọi người! Lại là tui Mặt Bự thích ăn đây! Dòm cái con sần sùi, ghê ghê như vầy, mọi người có biết con gì không?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu và review món hải sâm gai sốt mắm siêu cay, chia sẻ trải nghiệm lần đầu ăn và cảm nhận về hương vị. Người làm video cũng hướng dẫn cách làm sốt và mời mọi người cùng thưởng thức.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

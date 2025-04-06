@@ -1,0 +1,72 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ốc kiểu Hàn Quốc và giá tiền",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ốc kiểu Hàn"
+    },
+    {
+      "step": "Trộn và nếm thử",
+      "desc": "Trộn nước chấm và nếm thử món ốc",
+      "impact_level": "2",
+      "viewer_emotion": "Hóng chờ cảm nhận về hương vị"
+    },
+    {
+      "step": "So sánh ốc",
+      "desc": "So sánh ốc ở Hà Nội và Hồ Chí Minh",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy thông tin so sánh thú vị"
+    },
+    {
+      "step": "Nhận xét chung",
+      "desc": "Đánh giá ốc to, sạch, ngon nhưng cay",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thèm ăn ốc"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Tạm biệt và than cay",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm vì cay"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "cay",
+    "đã",
+    "tiếc",
+    "ok"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Giá thì hơi chát thôi nhưng mà người ta làm ốc cũng sạch",
+    "Ở Hồ Chí Minh mà ăn được vị ốc của Hà Nội á, nó cũng đã lắm",
+    "Trời ơi nhìn cái ốc nó to ăn nó đã"
+  ],
+  "hook_content": "Hôm nay chúng ta cùng nhau ăn ốc thôi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review món ốc kiểu Hàn Quốc tại Hồ Chí Minh, so sánh với ốc Hà Nội, đánh giá về hương vị, độ sạch và giá cả.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu mục đích so sánh xúc xích Việt Nam và Trung Quốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về kết quả so sánh."
+    },
+    {
+      "step": "Mua xúc xích",
+      "desc": "Mua xúc xích CP, Everyday của Việt Nam để so sánh.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, cung cấp thông tin."
+    },
+    {
+      "step": "Chiên và so sánh",
+      "desc": "Chiên xúc xích và so sánh độ giòn, màu sắc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy rõ sự khác biệt bên ngoài."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá hương vị xúc xích, so sánh độ ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn biết loại nào ngon hơn."
+    },
+    {
+      "step": "Nhận xét chi tiết",
+      "desc": "Nhận xét chi tiết về từng loại xúc xích.",
+      "impact_level": "2",
+      "viewer_emotion": "Hiểu rõ hơn về sản phẩm."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Đưa ra kết luận về việc lựa chọn xúc xích.",
+      "impact_level": "2",
+      "viewer_emotion": "Có thêm thông tin để lựa chọn."
+    },
+    {
+      "step": "Phản hồi bình luận",
+      "desc": "Đáp trả bình luận về độ giòn của xúc xích.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy được sự tương tác."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "cay cay",
+    "thơm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "xúc xích Trung Quốc ấy, nó chỉ được cái giòn thôi. Còn ăn không hề ngon nha.",
+    "ăn loại của Việt Nam thì ngon hơn nhiều. Vì nó nhiều thịt nó ít bột hơn",
+    "Mình nói thật không chiên lên là ăn không nổi luôn. Của Việt Nam mình ngon hơn nhiều chứ"
+  ],
+  "hook_content": "Thấy mọi người comment là xúc xích của Việt Nam chiên lên thì cái vỏ của nó cũng giòn như loại xúc xích của Trung Quốc.",
+  "hook_type": [
+    "Phản hồi bình luận",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "So sánh",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video so sánh xúc xích Việt Nam (CP, Everyday) và Trung Quốc sau khi chiên, tập trung vào độ giòn và hương vị. Kết luận xúc xích Việt Nam ngon hơn dù không giòn bằng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu salami mốc và mục đích làm mốc để tăng hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm độc đáo."
+    },
+    {
+      "step": "Đánh giá ngoại hình",
+      "desc": "Nhận xét về lớp mốc bên ngoài và mùi hương đặc trưng.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy hơi e dè."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Ăn thử salami mốc và mô tả hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung vào trải nghiệm hương vị."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Phân tích vị béo, mặn, ngọt, cay, chua và độ dai của salami.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với nhiều hương vị."
+    },
+    {
+      "step": "Nhận xét chung",
+      "desc": "Đánh giá về độ gây nghiện và tính phù hợp làm món nhắm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn và muốn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "béo",
+    "cuốn",
+    "muốn ăn tiếp"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cái salami mốc này mình thấy ăn nó cuốn phết mọi người ạ.",
+    "Khi ăn nó rất béo nhưng mà mình lại không có cảm giác ngán mấy.",
+    "Cái này mà mình nghĩ là làm mồi nhắm thì rất là phù hợp luôn."
+  ],
+  "hook_content": "thường thì đồ ăn mốc chúng ta sẽ bỏ đi, nhưng mà cái cây salami này thì người ta còn cố tình làm cho mốc để ăn nó ngon hơn.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review salami mốc, một loại thực phẩm đặc biệt được làm cho lên mốc để tăng hương vị. Người review chia sẻ trải nghiệm ăn thử và đánh giá các hương vị khác nhau của sản phẩm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

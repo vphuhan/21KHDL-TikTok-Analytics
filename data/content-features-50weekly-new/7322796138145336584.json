@@ -1,0 +1,58 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người ăn chay, ăn healthy"
+  ],
+  "body_analysis": [
+    {
+      "step": "Bữa sáng",
+      "desc": "Ăn gạo được làm phồng bằng lò vi sóng, review độ giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy lạ và có chút thú vị."
+    },
+    {
+      "step": "Bữa trưa",
+      "desc": "Ăn bột mì được làm phồng bằng lò vi sóng.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy món này có vẻ hơi khó ăn."
+    },
+    {
+      "step": "Bữa tối",
+      "desc": "Ăn một quả trứng để đủ lượng calo.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy bình thường."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "vừa",
+    "giòn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "cho gạo vào phát là gạo nó phồng lên to đùng như này, cả họ ăn vô tư",
+    "bột nó nở ghê quá, sau chỉ cho một nửa thôi",
+    "Bữa tối ăn một quả trứng là vừa lượng calo cần thiết rồi"
+  ],
+  "hook_content": "Nhật ký giảm cân ngày đầu tiên, bữa sáng thì mình chỉ cần ăn một chút gạo thôi, cho gạo vào lò vi sóng.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại nhật ký giảm cân ngày đầu tiên với các món ăn làm từ lò vi sóng như gạo và bột mì, và một quả trứng cho bữa tối.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

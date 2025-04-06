@@ -1,0 +1,74 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món chè lam đặc sản Thanh Hóa và chia sẻ đây là lần đầu ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Quan sát",
+      "desc": "Nhận xét về vẻ ngoài của chè lam, đặc biệt là lớp bột bên ngoài.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, tò mò về lớp bột."
+    },
+    {
+      "step": "Nếm thử",
+      "desc": "Ăn và mô tả cảm giác về độ dai và dẻo của chè lam.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với độ dẻo ngon."
+    },
+    {
+      "step": "So sánh",
+      "desc": "So sánh chè lam Thanh Hóa với chè lam ở Bình Định.",
+      "impact_level": "1",
+      "viewer_emotion": "Tự hỏi về sự khác biệt vùng miền."
+    },
+    {
+      "step": "Cảm nhận hương vị",
+      "desc": "Nhận xét về hương vị đặc biệt của chè lam, gợi nhớ bánh cáy.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với hương vị độc đáo."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "dẻo",
+    "thích thú"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ôi mình nhìn cái trẻ lam này nó nhiều bụi quá.",
+    "Mình cứ tưởng trẻ lam là đặc sản ở trong miền Nam cơ, ai ngờ trẻ lam cũng là đặc sản ở ngoài miền Bắc nữa.",
+    "ăn kiểu cảm giác có một chút hương vị của bánh cáy mọi người ạ."
+  ],
+  "hook_content": "bánh trẻ lam đặc sản Thanh Hóa ở Thanh Hóa.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video mukbang món chè lam đặc sản Thanh Hóa, người ăn chia sẻ cảm nhận về độ dẻo, hương vị và so sánh với các loại chè lam khác. Video tập trung vào trải nghiệm ăn uống và cảm xúc cá nhân.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

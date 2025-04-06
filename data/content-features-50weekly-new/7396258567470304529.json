@@ -1,0 +1,59 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu hàng quán",
+      "desc": "Giới thiệu hai hàng xiên bẩn, một đông khách, một vắng khách.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự khác biệt giữa hai quán."
+    },
+    {
+      "step": "Ưu đãi đặc biệt",
+      "desc": "Quán vắng khách có ưu đãi kem chanh miễn phí.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với ưu đãi hấp dẫn."
+    },
+    {
+      "step": "Giải thích tên gọi",
+      "desc": "Giải thích nguồn gốc tên gọi \"xiên bẩn\" do tái chế xiên.",
+      "impact_level": "2",
+      "viewer_emotion": "Bất ngờ về lý do đằng sau tên gọi."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thoải mái"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Hàng xiên bẩn chỉ 2000, lại còn free buffet kem chanh",
+    "Nhưng lại bị mất hết khách do sự hiểu nhầm này",
+    "Thế nó gọi là xiên bẩn có hộ cái gì đâu"
+  ],
+  "hook_content": "Hàng xiên bẩn chỉ 2000, lại còn free buffet kem chanh, nhưng lại bị mất hết khách do sự hiểu nhầm này.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Đối thoại"
+  ],
+  "summarization": "Video giới thiệu hai hàng xiên bẩn với giá rẻ và ưu đãi kem chanh miễn phí ở quán vắng khách, đồng thời giải thích về nguồn gốc tên gọi \"xiên bẩn\".",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

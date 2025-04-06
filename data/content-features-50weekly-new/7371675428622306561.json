@@ -1,0 +1,82 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu bằng cảnh báo",
+      "desc": "Nhắc nhở về sự cố ở quán bar và mục đích chia sẻ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về câu chuyện sắp kể."
+    },
+    {
+      "step": "Tái hiện sự kiện",
+      "desc": "Tổ chức sinh nhật ở quán bar nổi tiếng tại Hà Nội.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Diễn biến bất thường",
+      "desc": "Bạn bị mời rượu liên tục và cảm thấy buồn nôn.",
+      "impact_level": "2",
+      "viewer_emotion": "Lo lắng cho nhân vật trong câu chuyện."
+    },
+    {
+      "step": "Cao trào sự việc",
+      "desc": "Bartender dìu bạn vào nhà vệ sinh, mọi chuyện tồi tệ bắt đầu.",
+      "impact_level": "3",
+      "viewer_emotion": "Căng thẳng và muốn biết kết quả."
+    },
+    {
+      "step": "Giới thiệu quán ăn",
+      "desc": "Giới thiệu địa điểm bán xiên bẩn ở Triều Khúc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị, muốn đi ăn thử."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Drama",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người đón xem diễn biến câu chuyện ở phần tiếp theo nha."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "vui vẻ",
+    "ngà ngà",
+    "buồn nôn",
+    "tồi tệ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Thật ra là chuyện này cũng xảy ra được 1 2 năm rồi nhưng mình thật sự muốn lên clip này để cảnh tỉnh các bạn nữ.",
+    "Mọi chuyện tồi tệ thì bắt đầu từ đây.",
+    "Xiên ở đây chỉ từ 2000 thôi và có khá nhiều loại sốt lạ, mọi người có thể thử."
+  ],
+  "hook_content": "Đứa bạn mình đã suýt nữa bị một ba tender g giờ tờ giờ ở ngay trong quán ba.",
+  "hook_type": [
+    "Gây tò mò",
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Kể chuyện",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video kể về trải nghiệm suýt bị bartender làm hại của một cô gái tại quán bar và review quán xiên bẩn giá rẻ ở Triều Khúc. Video nhằm cảnh tỉnh các bạn nữ khi đi bar.",
+  "tone_of_voice": [
+    "Chân thành",
+    "Nghiêm túc"
+  ]
+}

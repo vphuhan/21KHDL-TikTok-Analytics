@@ -1,0 +1,78 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Gọi món và giới thiệu quán",
+      "desc": "Khách hàng gọi cơm bình dân, chủ quán giới thiệu bát siêu to.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú vì sự hài hước và nhiệt tình."
+    },
+    {
+      "step": "Giới thiệu địa điểm",
+      "desc": "Quán cơm bình dân ở Ngô Kim Tài, gần ký túc xá.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, cung cấp thông tin cơ bản."
+    },
+    {
+      "step": "Đánh giá tổng quan",
+      "desc": "Nhớ cơm mẹ nấu, đồ ăn hợp khẩu vị, đậm đà.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với nỗi nhớ nhà."
+    },
+    {
+      "step": "Đánh giá chi tiết món ăn",
+      "desc": "Đậu sốt thấm vị, thịt kho và trứng chưa đậm đà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món đậu sốt."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Quán ngon, chủ quán vui vẻ, nhiệt tình.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng tốt về quán."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người có thể đến trải nghiệm và dùng thử xem như thế nào nhá."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "dễ thương",
+    "vui vẻ",
+    "nhiệt tình",
+    "nhớ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Lần đầu tiên nhà chị bán cơm cái bát siêu to khổng lồ như này đấy.",
+    "Trong suốt cuộc đời tôi đã nấu hơn trăm cái nồi đậu sốt rồi nhưng mà không thể nào mà ra được cái kiểu như thế này.",
+    "Kết lại là ngon và mọi người ở quán thì rất là vui vẻ và nhiệt tình."
+  ],
+  "hook_content": "anh. Anh làm giúp em một suất cơm bình dân nhá.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quán cơm bình dân gần khu sinh viên, tập trung vào trải nghiệm cá nhân về hương vị món ăn và không khí quán. Đánh giá cao món đậu sốt và sự nhiệt tình của chủ quán.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

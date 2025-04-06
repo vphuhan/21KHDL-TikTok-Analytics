@@ -1,0 +1,87 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu hai món ăn sẽ thực hiện: mực nhồi thịt và canh rau ngót.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hai món ăn được giới thiệu."
+    },
+    {
+      "step": "Chuẩn bị sốt tương ớt",
+      "desc": "Sử dụng tương ớt Vifon để làm nước sốt đậm đà cho món mực.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với việc sử dụng tương ớt để tăng hương vị."
+    },
+    {
+      "step": "Nêm canh rau ngót",
+      "desc": "Nêm canh rau ngót bằng bột canh Vifon, gợi nhớ hương vị quen thuộc.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy gần gũi với món canh quen thuộc."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Miêu tả hương vị món mực nhồi thịt sốt tương ớt và canh rau ngót.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng và muốn thử ngay."
+    },
+    {
+      "step": "Bí quyết làm sốt",
+      "desc": "Chia sẻ bí quyết làm sốt sệt bằng bột bắp.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về bí quyết làm sốt."
+    },
+    {
+      "step": "Đánh giá gia vị",
+      "desc": "Đánh giá về chất lượng và hương vị của gia vị Vifon.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào thương hiệu gia vị lâu năm."
+    },
+    {
+      "step": "Tổng kết chi phí",
+      "desc": "Tổng kết chi phí nguyên liệu cho bữa ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Quan tâm đến chi phí hợp lý của bữa ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "hao cơm",
+    "thơm",
+    "cay nồng",
+    "đã",
+    "bao hợp",
+    "đậm đà"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "mực nhồi thịt sốt tương ớt",
+    "tôi bình dân bạn cũng thế",
+    "ăn với cơm bao hợp, bao bát cơm luôn"
+  ],
+  "hook_content": "Hôm nay thêm cho mọi người hai món một bữa mà mình nghĩ cũng sẽ rất là hao cơm này. Tôi bình dân bạn cũng thế.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ cách nấu hai món ăn hao cơm là mực nhồi thịt sốt tương ớt và canh rau ngót, sử dụng các sản phẩm gia vị Vifon. Người nấu chia sẻ bí quyết và tổng kết chi phí nguyên liệu cho bữa ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

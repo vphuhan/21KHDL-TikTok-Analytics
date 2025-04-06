@@ -1,0 +1,79 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món lẩu mực trứng nấu chao và lý do làm món này.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy tò mò về món lẩu mới."
+    },
+    {
+      "step": "Nguồn nguyên liệu",
+      "desc": "Chia sẻ địa điểm mua mực trứng tươi ngon, chất lượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Ghi nhớ địa chỉ mua mực trứng uy tín."
+    },
+    {
+      "step": "Nấu nước lẩu",
+      "desc": "Hướng dẫn các bước nấu nước lẩu chao, nêm nếm gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung được hương vị của nước lẩu."
+    },
+    {
+      "step": "Hoàn thiện món ăn",
+      "desc": "Cho mực trứng và khoai môn vào, hoàn thành món lẩu.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy hấp dẫn và thèm ăn."
+    },
+    {
+      "step": "Thưởng thức và đánh giá",
+      "desc": "Trải nghiệm món ăn và đưa ra cảm nhận về hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn thử ngay món lẩu mực trứng nấu chao."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ai rành thì comment cho tui biết nha.",
+    "Giờ thì mời mọi người ăn chung với tôi nhen."
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "hấp dẫn",
+    "thơm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "du lịch Vũng Tàu tại nhà bằng cái lẩu mực trứng nấu chao",
+    "mực xịn nấu lên nó không có bị teo một xíu nào luôn",
+    "nấu tại nhà mà cũng ăn ngon tiện cúc mèo luôn"
+  ],
+  "hook_content": "Mực trứng thì bữa giờ tôi đem đi hấp, nướng đồ có đủ rồi. Bữa nay cùng tôi đi du lịch Vũng Tàu tại nhà bằng cái lẩu mực trứng nấu chao nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu món lẩu mực trứng nấu chao và chia sẻ cách nấu món ăn này tại nhà. Người làm video đánh giá cao hương vị của món ăn và khuyến khích mọi người cùng thử.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

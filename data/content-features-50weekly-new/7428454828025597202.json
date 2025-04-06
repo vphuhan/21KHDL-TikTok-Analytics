@@ -1,0 +1,80 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người đi làm, dân văn phòng",
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu địa điểm",
+      "desc": "Giới thiệu tiệm massage spa mới phát hiện ở Bình Tân.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về địa điểm được giới thiệu."
+    },
+    {
+      "step": "Miêu tả trải nghiệm",
+      "desc": "Chia sẻ trải nghiệm massage và các dịch vụ đi kèm.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thư giãn và muốn trải nghiệm."
+    },
+    {
+      "step": "So sánh lợi ích",
+      "desc": "So sánh tình trạng trước và sau khi massage.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được lợi ích rõ rệt của việc massage."
+    },
+    {
+      "step": "Đề xuất cho đối tượng",
+      "desc": "Gợi ý địa điểm cho các cặp đôi ở khu vực lân cận.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích nếu ở gần khu vực đó."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z",
+    "Sáng tạo",
+    "Nhanh gọn",
+    "Truyền thống",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "ở cái khu Bình Tân, Tân Phú quận 6 á mà muốn chữa lành cột sống thì cứ thử nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "đã",
+    "khoái",
+    "khỏe",
+    "mỏi",
+    "yên giấc",
+    "ấm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "massage cặp đôi, chữa lành về mặt cột sống lẫn cuộc sống mà chỉ từ có 150 cành",
+    "Vào đây á như kiểu là vừa được chữa lành cột sống đã lắm á mấy bà ơi.",
+    "Vậy mà sau khi massage chân ở đây xong á, về á là ngủ yên giấc nằm chim ru luôn vậy mấy bà ơi."
+  ],
+  "hook_content": "Ở Sài Gòn để tìm một cái chỗ hẹn hò massage cặp đôi, chữa lành về mặt cột sống lẫn cuộc sống mà chỉ từ có 150 cành thì chắc mỗi chỗ này quá à.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu một địa điểm massage spa giá rẻ ở Bình Tân, phù hợp cho các cặp đôi muốn thư giãn và chữa lành cột sống. Người quay chia sẻ trải nghiệm cá nhân và đánh giá cao dịch vụ tại đây.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

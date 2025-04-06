@@ -1,0 +1,66 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Thử ớt",
+      "desc": "Người ăn thử ớt trước khi ăn mì để cảm nhận",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ cay của ớt"
+    },
+    {
+      "step": "Mời ăn mì",
+      "desc": "Mời mọi người cùng ăn mì ớt một cách thân thiện",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, lịch sự"
+    },
+    {
+      "step": "Cảm thán",
+      "desc": "Thể hiện cảm xúc khi ăn ớt quá cay",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy sự cay nồng"
+    },
+    {
+      "step": "Kêu gọi",
+      "desc": "Tiếp tục mời mọi người và thánh thần cùng chứng kiến",
+      "impact_level": "1",
+      "viewer_emotion": "Không đặc biệt"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "đã",
+    "cay"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Quá đã!",
+    "Quá cay luôn."
+  ],
+  "hook_content": "Thử ớt trước.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh một người ăn mì ớt và cảm nhận độ cay của ớt, đồng thời mời mọi người cùng ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

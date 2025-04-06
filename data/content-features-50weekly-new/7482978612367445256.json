@@ -1,0 +1,83 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Tìm được hàng bánh dân gian mua bánh được tặng trà sữa cốm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Liệt kê món",
+      "desc": "Quán bán nhiều loại bánh, chè, giá rẻ, chỉ từ 5-7k.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Ưu đãi",
+      "desc": "Mua bánh dân gian hóa đơn từ 69k tặng trà sữa cốm.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm"
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Trà sữa ngon, đậm vị, ít ngọt, thơm mùi cốm.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Nhấn mạnh",
+      "desc": "Bánh bao nhà làm ngon không thua kém hàng tên tuổi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Địa chỉ quán, khuyến khích ghé mua đảm bảo không thất vọng.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong muốn"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bạn nào mà gần bạn này thì có thể ghé mua thử nhá, đảm bảo không thất vọng đâu."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "rẻ",
+    "thích"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "mua bánh xong lại còn được tặng cả trà sữa cốm luôn",
+    "vào quán này thì đúng như kiểu thiên đường luôn ấy",
+    "bánh ăn ngon không thua kém mấy cái hàng tên tuổi đâu"
+  ],
+  "hook_content": "Mình mới tìm được một hàng bánh dân gian nhá ở ngay quận Hoàng Mai Thanh Xuân này mà mua bánh xong lại còn được tặng cả trà sữa cốm luôn.",
+  "hook_type": [
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu tiệm bánh dân gian ở Hoàng Mai, Thanh Xuân, nơi mua bánh được tặng trà sữa cốm. Quán có nhiều loại bánh, chè giá rẻ và bánh bao nhà làm ngon.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bánh oản",
+      "desc": "Giới thiệu về bánh oản tuổi thơ và gợi lại kỷ niệm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món bánh oản tuổi thơ."
+    },
+    {
+      "step": "So sánh kích thước",
+      "desc": "So sánh kích thước bánh oản ngày xưa và bây giờ.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    },
+    {
+      "step": "Đánh giá trải nghiệm",
+      "desc": "Đánh giá cảm giác khi ăn bánh oản, nhấn mạnh độ khô.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị về trải nghiệm ăn bánh."
+    },
+    {
+      "step": "Lời khuyên hài hước",
+      "desc": "Đưa ra lời khuyên hài hước về việc ăn bánh oản.",
+      "impact_level": "3",
+      "viewer_emotion": "Vui vẻ và thích thú."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "khô",
+    "nghẹn",
+    "mùi vị tuổi thơ"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đúng mùi vị tuổi thơ đây rồi.",
+    "Ai mà cảm giác làm cái gì dễ như ăn bến thì ăn cái này nha."
+  ],
+  "hook_content": "Review cả thế giới bến oản tuổi thơ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review bánh oản tuổi thơ, so sánh kích thước ngày xưa và bây giờ, đồng thời chia sẻ trải nghiệm ăn bánh với cảm nhận về độ khô và mùi vị tuổi thơ. Người nói đưa ra lời khuyên hài hước về việc ăn bánh.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán bún bò Huế O He, quán ăn nổi tiếng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán ăn được giới thiệu."
+    },
+    {
+      "step": "Khám phá món ăn",
+      "desc": "Khám phá món bún bò Huế không có huyết và mì quảng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thắc mắc về sự khác biệt của bún bò Huế."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá hương vị bún bò Huế kiểu Sài Gòn, tô xí quách.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đói bụng và thèm ăn."
+    },
+    {
+      "step": "Nhận xét chi tiết",
+      "desc": "Nhận xét chi tiết về sợi bún, giò gân và nước dùng.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến chất lượng món ăn."
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Lời khuyên về việc gọi món xí quách và độ no.",
+      "impact_level": "2",
+      "viewer_emotion": "Biết thêm thông tin hữu ích."
+    },
+    {
+      "step": "Giới thiệu lại quán",
+      "desc": "Giới thiệu lại quán bún bò Huế O He và đánh giá ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn đến ăn thử quán bún bò Huế."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "ngọt",
+    "hay",
+    "ngậy"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Bún bò Huế theo kiểu Sài Gòn quả thật là hay lắm nhé.",
+    "Xí quách thì rất là mềm dùng thìa tút gẩy một phát là ra được hết, mà xí quách có tủy nha, mút cái tủy ngon cực kỳ ngậy luôn."
+  ],
+  "hook_content": "mà mình bán hàng chưa ạ? Chưa. Chưa bán ạ? Con thấy được giới thiệu với bảo nhà mình ngon lắm.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán bún bò Huế O He theo phong cách Sài Gòn, tập trung vào hương vị đặc trưng, xí quách và trải nghiệm cá nhân của người quay. Quán có vị ngọt của xương, hương thơm của mắm ruốc, sợi bún to và giò gân mềm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu bánh tráng phơi sương và các thành phần trong set.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các thành phần."
+    },
+    {
+      "step": "Trộn và nếm thử",
+      "desc": "Trộn hành phi vào bánh tráng và bắt đầu nếm thử.",
+      "impact_level": "3",
+      "viewer_emotion": "Hấp dẫn, thèm thuồng."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Đánh giá hương vị, độ mềm dẻo của bánh tráng và sốt béo.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích."
+    },
+    {
+      "step": "Nhấn mạnh trải nghiệm",
+      "desc": "Nhấn mạnh cảm giác giòn, béo ngậy và vị cháy của hành phi.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử ngay."
+    },
+    {
+      "step": "Đề xuất sản phẩm",
+      "desc": "Giới thiệu sản phẩm cho những người thích bánh tráng phơi sương.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy thông tin hữu ích."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mời mọi người nha.",
+    "Và đối với các bạn nào mà thích ăn bánh tráng phơi sương ấy thì hy vọng cái clip này sẽ cung cấp cho bạn thêm một cái sản phẩm chất lượng để các bạn tham khảo."
+  ],
+  "cta_type": [
+    "Ăn cùng",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "cuốn",
+    "mềm",
+    "dẻo",
+    "thơm",
+    "béo ngậy",
+    "thích"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "bánh tráng siêu gạo này mình thấy ăn nó mềm và nó dẻo",
+    "ăn rất cuốn luôn mọi người ạ",
+    "Sau khi trộn hành phi vào đây thì ăn nó giòn giòn, béo ngậy và có một ít vị hơi cháy cháy của hành phi, ăn rất là thích."
+  ],
+  "hook_content": "Chào mọi người nha. Hôm nay thì mình sẽ ăn bánh tráng phơi sương.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review bánh tráng phơi sương siêu gạo với các thành phần đặc biệt như hành khố và sốt béo. Người nói đánh giá cao độ mềm dẻo của bánh tráng và hương vị thơm ngon, béo ngậy của sốt, đồng thời giới thiệu sản phẩm này cho những ai yêu thích bánh tráng phơi sương.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

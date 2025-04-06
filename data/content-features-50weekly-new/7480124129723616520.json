@@ -1,0 +1,81 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Liệt kê các món ăn sẽ thưởng thức trong video hôm nay.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn được giới thiệu."
+    },
+    {
+      "step": "Thưởng thức Tacos",
+      "desc": "Ăn và đánh giá hương vị của bánh Tacos.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng khi thấy bánh Tacos hấp dẫn."
+    },
+    {
+      "step": "Thưởng thức gà chiên",
+      "desc": "Ăn gà chiên xói mỡ và khoai tây chiên với sốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với gà chiên giòn rụm."
+    },
+    {
+      "step": "Thưởng thức há cảo",
+      "desc": "Ăn và đánh giá há cảo nhiều màu sắc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của các loại há cảo."
+    },
+    {
+      "step": "Thưởng thức bánh ngọt",
+      "desc": "Ăn bánh kem và bánh gì quấc chua ngọt.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi vị chua ngọt của bánh."
+    },
+    {
+      "step": "Thưởng thức trà sữa",
+      "desc": "Uống trà sữa và cảm nhận.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử ly trà sữa mát lạnh."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "béo",
+    "mằn mặn",
+    "đậm đà",
+    "chua chua ngọt ngọt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ăn nó mằn mặn mà đậm đà lắm nha cả nhà, rất là ngon luôn.",
+    "Mấy bữa nay ăn gà rán không về ăn gà chiên nha.",
+    "Ăn chua chua ngọt ngọt gì đỡ ngán ha."
+  ],
+  "hook_content": "Hôm nay ăn gì coi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình người này ăn bánh Tacos, gà chiên, há cảo, bánh ngọt và trà sữa. Người này vừa ăn vừa miêu tả hương vị của từng món.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

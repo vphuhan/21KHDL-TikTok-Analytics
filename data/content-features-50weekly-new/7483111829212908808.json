@@ -1,0 +1,92 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Nhiều người không biết dâu tằm có thể chế biến như thế này.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Sơ chế",
+      "desc": "Rửa sạch dâu tằm bằng nước muối và hấp trong 10 phút.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Pha chế",
+      "desc": "Khuấy tan đường phèn với nước sôi và chuẩn bị các nguyên liệu.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Ước nguyện",
+      "desc": "Chúc người xem vạn sự như ý và gặp nhiều may mắn.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp"
+    },
+    {
+      "step": "Lên men",
+      "desc": "Cho dâu tằm, kỷ tử, nước đường phèn và men rượu vào hũ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thành phẩm",
+      "desc": "Rượu dâu tằm thơm ngon, tốt cho người xem tivi, điện thoại.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Gợi ý",
+      "desc": "Hướng dẫn tìm mua men rượu và gợi ý các loại rượu khác.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Kiến thức",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ai không có men chuyên dụng để lên men thì nhấn vào ảnh đại diện của mình nha."
+  ],
+  "cta_type": [
+    "Truy cập trang cá nhân"
+  ],
+  "emotion_keywords": [
+    "thơm nồng",
+    "ngon",
+    "thích",
+    "vui vẻ",
+    "bình an",
+    "hạnh phúc"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nhiều người sống cả đời cũng không biết dâu tằm làm kiểu này lại hay đến thế.",
+    "Đây là một bài thuốc cổ truyền rất hay.",
+    "Ai có duyên xem được video này mình xin chúc bạn vạn sự như ý, mọi việc thuận lợi, bình an hạnh phúc, năm mới vui vẻ."
+  ],
+  "hook_content": "Nhiều người sống cả đời cũng không biết dâu tằm làm kiểu này lại hay đến thế, ngơ một chút là có ngay món ngon cả nhà đều thích.",
+  "hook_type": [
+    "Gây tò mò",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm rượu dâu tằm lên men tại nhà, bắt đầu bằng việc hấp dâu tằm, pha nước đường phèn, trộn các nguyên liệu và ủ men. Người làm còn gửi lời chúc tốt đẹp đến người xem.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

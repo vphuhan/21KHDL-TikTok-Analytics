@@ -1,0 +1,44 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Gà được đưa lên cận cảnh, tạo sự hấp dẫn cho người xem.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Người ăn thể hiện sự thích thú qua âm thanh và biểu cảm.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [],
+  "hook_content": "Ừm.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh một người ăn gà và thể hiện sự thích thú với món ăn này.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

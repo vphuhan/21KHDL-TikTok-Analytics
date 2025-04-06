@@ -1,0 +1,69 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món nghêu hấp thái thường được gọi khi đi nhậu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Hướng dẫn làm",
+      "desc": "Hướng dẫn công thức làm nghêu hấp thái ngon như ngoài quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Bắt đầu nấu",
+      "desc": "Bắt đầu quá trình nấu nghêu hấp thái từng bước một.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Nêm nếm",
+      "desc": "Nêm nếm gia vị theo định lượng đã chuẩn bị.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Hoàn thành",
+      "desc": "Cho nghêu vào và nấu đến khi mở miệng là hoàn thành.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ta nói cái giọng mà bơ bơ ha, ngồi húp tới nước nghêu hấp thái nó dính thì thôi luôn.",
+    "Đừng có nấu lâu quá nha, nấu lâu quá là nghêu nó teo lại còn chút xíu luôn á."
+  ],
+  "hook_content": "Mỗi lần đi nhậu, tới cái lúc mà TT á là y như rằng lần nào tôi cũng kêu một phần nghêu hấp thái.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm món nghêu hấp thái đơn giản tại nhà, ngon như ngoài quán nhậu. Người nói chia sẻ công thức và các bước thực hiện chi tiết để người xem có thể dễ dàng làm theo.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

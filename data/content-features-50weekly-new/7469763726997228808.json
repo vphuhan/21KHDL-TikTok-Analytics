@@ -1,0 +1,82 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món tủy bò nướng đang hot và giá thành.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Chế biến",
+      "desc": "Sử dụng sa tế để nướng tủy bò một cách nhanh chóng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Miêu tả hương vị",
+      "desc": "Miêu tả mùi thơm và độ béo ngậy của tủy bò.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi ngán"
+    },
+    {
+      "step": "Trải nghiệm thực tế",
+      "desc": "Nhận xét độ ngấy của tủy bò, ăn kèm sẽ ngon hơn.",
+      "impact_level": "3",
+      "viewer_emotion": "Đồng cảm"
+    },
+    {
+      "step": "Đề xuất giải pháp",
+      "desc": "Gợi ý ăn tủy bò kèm mì hoặc bún bò để đỡ ngấy.",
+      "impact_level": "2",
+      "viewer_emotion": "Gợi ý hay"
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Tóm tắt về độ bổ, đắt và không ngon vì quá ngấy.",
+      "impact_level": "2",
+      "viewer_emotion": "Thất vọng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Tôi thử giàu, bạn cũng thế."
+  ],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "béo",
+    "ngậy",
+    "nổi da gà",
+    "ngấy"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tôi thử giàu, bạn cũng thế.",
+    "thì cái này nó ngậy gấp chục lần nữa, nó ngậy mà ăn một phát là kiểu này luôn đấy.",
+    "ăn không những cái này thì ngấy lắm."
+  ],
+  "hook_content": "Mọi người ăn cái xương tủy bò ở đây ngon quá, thế nên là mình cũng phải thử phát mọi người.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review món tủy bò nướng đang hot, người nói thử ăn và nhận xét rằng món này béo ngậy, không ngon nếu ăn một mình mà nên ăn kèm với mì hoặc bún bò để đỡ ngấy.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

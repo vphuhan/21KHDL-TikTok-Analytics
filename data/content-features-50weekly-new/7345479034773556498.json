@@ -1,0 +1,83 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bánh xèo",
+      "desc": "Giới thiệu về bánh xèo khổng lồ ở Tây Ninh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Đánh giá chả bình thường, bánh xèo làm bằng máy xịt sơn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thắc mắc"
+    },
+    {
+      "step": "Miêu tả bánh xèo",
+      "desc": "Miêu tả bánh xèo to, nhiều topping, đủ cho 9-10 người ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên"
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Đánh giá vỏ bánh giòn, topping gồm tôm, mực, thịt bò.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Trải nghiệm ăn",
+      "desc": "Ăn bánh xèo cuốn bánh tráng, rau xanh, chấm nước mắm.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Kết thúc trải nghiệm",
+      "desc": "Ăn hết bánh xèo trong 1 tiếng và mời mọi người đến.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người có dịp xuống Tây Ninh thì ghé trải nghiệm thử nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ổn",
+    "ngon",
+    "vừa ăn",
+    "mặn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Lần đầu tiên Hân thấy người ta làm bánh xèo bằng máy xịt sơn cũng là lạ hay hay mà không biết ăn vô bụng có bị sao không ta?",
+    "Không phải vì to thôi đâu mà còn vì độ khủng của topping nữa.",
+    "Bánh xèo này mà cuốn bánh tráng thêm một miếng rau xanh rồi chấm nước mắm nữa thì ngon khỏi phải bàn luôn."
+  ],
+  "hook_content": "Bánh xèo khổng lồ ở Tây Ninh.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review bánh xèo khổng lồ ở Tây Ninh với lớp vỏ giòn tan và nhiều topping hấp dẫn như tôm, mực, thịt bò. Người xem được mời đến Tây Ninh để trải nghiệm món ăn này.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Phủ nhận việc cần người yêu và khẳng định cần xiên bẩn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự hài hước và đồng cảm."
+    },
+    {
+      "step": "Thừa nhận",
+      "desc": "Thừa nhận xiên bẩn không tốt nhưng vẫn ăn vì ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thú vị với sự mâu thuẫn."
+    },
+    {
+      "step": "So sánh",
+      "desc": "So sánh xiên bẩn với đồ tự làm để nhấn mạnh sự khác biệt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự khác biệt hương vị."
+    },
+    {
+      "step": "Giải thích",
+      "desc": "Giải thích lý do ăn xiên bẩn dù biết không tốt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, chấp nhận lý do."
+    },
+    {
+      "step": "Liên hệ",
+      "desc": "Liên hệ việc ăn xiên bẩn với việc yêu đương.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự liên tưởng hài hước."
+    },
+    {
+      "step": "Nhắc nhở",
+      "desc": "Nhắc nhở về sức khỏe khi ăn xiên bẩn.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy có chút lo lắng."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Kết thúc video bằng lời chào tạm biệt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thèm",
+    "ấm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Xin lỗi nhưng mà nó ngon cái kiểu bẩn ấy.",
+    "Red Flag tôi còn đâm thẳng mẹ đầu vào thì mấy cái xiên này đã là cái gì?",
+    "Ăn ngon nó còn ấm vào thân, chứ yêu đương được mấy hôm rồi các anh nhau ủng dỗ nhau thì thôi."
+  ],
+  "hook_content": "Đừng có để thời tiết đánh lừa là bạn cần có người yêu. Cái bạn cần ấy là xiên bẩn, xiên bẩn.",
+  "hook_type": [
+    "Gây tranh cãi",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review hài hước về món xiên bẩn quen thuộc, dù biết không tốt cho sức khỏe nhưng vẫn được yêu thích vì hương vị đặc trưng. Người nói liên hệ việc ăn xiên bẩn với việc yêu đương, tạo nên sự thú vị và đồng cảm.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành",
+    "Châm biếm"
+  ]
+}

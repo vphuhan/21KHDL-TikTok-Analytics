@@ -1,0 +1,87 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Người ăn vừa tập xong, cầm 2000 tệ đi ăn nhà hàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú khi thấy sự hào hứng của người ăn."
+    },
+    {
+      "step": "Chọn món",
+      "desc": "Người ăn được chọn tất cả các món trong menu.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ vì độ chịu chi của người ăn."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Người ăn liên tục ăn nhiều món khác nhau với tốc độ nhanh.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên trước khả năng ăn của người này."
+    },
+    {
+      "step": "Phản ứng",
+      "desc": "Đầu bếp và nhân viên nhà hàng ngạc nhiên về khả năng ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy buồn cười trước sự bất lực của nhà hàng."
+    },
+    {
+      "step": "Tiếp tục ăn",
+      "desc": "Người ăn vẫn tiếp tục ăn dù đã được cảnh báo sắp hết đồ ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn biết giới hạn của người này đến đâu."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Người ăn lo sợ bị nhà hàng đưa vào danh sách đen.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy hài hước với nỗi lo của người ăn."
+    },
+    {
+      "step": "Thông báo",
+      "desc": "Người ăn thông báo vẫn còn sáu múi và sẽ tiếp tục ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên vì người này vẫn còn muốn ăn tiếp."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "phê",
+    "tuyệt vời",
+    "thèm",
+    "mệt mỏi"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Hôm nay tôi mới vừa tập xong. Giờ thì cầm 2000 tệ đi đớp ổ Macaxe nhà anh em.",
+    "Anh đầu bếp sẵn sàng đi đi, không là xỉu đó.",
+    "Các bạn ơi chắc là sau hôm nay tôi sẽ vào blacklist của cái tiệm này, cấm vĩnh viễn rồi."
+  ],
+  "hook_content": "Hôm nay tôi mới vừa tập xong.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh một người ăn rất nhiều món tại một nhà hàng, khiến đầu bếp và nhân viên ngạc nhiên. Cuối video, người này lo sợ sẽ bị nhà hàng đưa vào danh sách đen.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Hài hước"
+  ]
+}

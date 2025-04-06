@@ -1,0 +1,99 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món cá trích ép trứng với ba vị khác nhau.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự khác biệt giữa các vị."
+    },
+    {
+      "step": "Thử vị gừng hồng",
+      "desc": "Thử và miêu tả hương vị của cá trích ép trứng gừng hồng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với hương vị mới lạ."
+    },
+    {
+      "step": "Thử vị tự nhiên",
+      "desc": "Thử và miêu tả hương vị tự nhiên của món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị cơ bản của món ăn."
+    },
+    {
+      "step": "Thử vị wasabi",
+      "desc": "Thử cá trích ép trứng vị wasabi cùng các loại gia vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ và thích thú với sự kết hợp."
+    },
+    {
+      "step": "So sánh các vị",
+      "desc": "Nhận xét về sự tương đồng và khác biệt giữa các vị.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy khó phân biệt rõ các hương vị."
+    },
+    {
+      "step": "Ăn kèm",
+      "desc": "Thử ăn kèm với gừng, rong nho và wasabi.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú với trải nghiệm ẩm thực mới."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Đánh giá món ăn và trải nghiệm cá nhân.",
+      "impact_level": "3",
+      "viewer_emotion": "Thỏa mãn và muốn thử món ăn."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cám ơn mọi người đến clip của mình, bye bye."
+  ],
+  "cta_type": [
+    "Lưu video",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngon quá",
+    "tươi",
+    "giòn",
+    "thương",
+    "cay cay",
+    "rát rát",
+    "thỏa thích khen"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ngon! Ngon quá!",
+    "Trời ơi! cái quán này ở đâu cũng có bán. Mình cũng chả biết mua ở đâu. Mình có khen bao nhiêu thì mình cũng sẽ không có nói làuy chế.",
+    "Lâu rồi mới ăn một cái món gì mà mình có thể gọi là thỏa thích khen."
+  ],
+  "hook_content": "Ngon! Ngon quá! Trên mạng cá trích ép trứng.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review món cá trích ép trứng với ba vị khác nhau: gừng hồng, tự nhiên và wasabi. Người nói thử và mô tả hương vị của từng loại, đồng thời đưa ra đánh giá chung về món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món hột vịt lộn sốt thái siêu cay và bày tỏ sự háo hức.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Rưới sốt",
+      "desc": "Rưới sốt lên hột vịt lộn và thể hiện sự cay nồng của món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Nếm thử",
+      "desc": "Nếm thử và cảm nhận vị cay, chua, béo của món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với hương vị."
+    },
+    {
+      "step": "Nhận xét",
+      "desc": "Nhận xét về độ ngon và độ cay của món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú."
+    },
+    {
+      "step": "Nghi ngờ",
+      "desc": "Tự hỏi liệu món ăn có bị ngán hay không và tìm kiếm sự đồng tình.",
+      "impact_level": "1",
+      "viewer_emotion": "Tự hỏi theo."
+    },
+    {
+      "step": "So sánh",
+      "desc": "Nhấn mạnh rằng chưa ai làm món này ở Việt Nam.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "siêu cay",
+    "cay",
+    "béo",
+    "chua chua cay cay",
+    "ngon",
+    "thích"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Hột vịt lộn thì nó béo còn cái sốt thái thì chua chua cay cay.",
+    "Lâu lắm mới được ăn cay dữ vậy, thích lộn luôn á.",
+    "Ở Việt Nam chưa có ai làm đó mọi người."
+  ],
+  "hook_content": "Ở Việt Nam chưa có ai làm đó mọi người.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang hột vịt lộn sốt thái siêu cay, người làm video thử làm theo một người Thái Lan và cảm thấy rất ngon, đặc biệt là vị cay. Cô cũng nhấn mạnh đây là món ăn chưa ai làm ở Việt Nam.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

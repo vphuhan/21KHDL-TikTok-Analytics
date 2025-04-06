@@ -1,0 +1,89 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu mâm cơm hai món cá hú tự nấu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú khi được giới thiệu món ăn."
+    },
+    {
+      "step": "Mua nguyên liệu",
+      "desc": "Chia sẻ về việc mua được cá hú tươi ngon ở chợ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn được nấu từ cá hú."
+    },
+    {
+      "step": "Sơ chế và chuẩn bị",
+      "desc": "Sơ chế cá hú để nấu hai món canh chua và kho tiêu.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có nhiều cảm xúc."
+    },
+    {
+      "step": "Nấu canh chua",
+      "desc": "Nấu canh chua cá hú với bông súng đũa.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi đói bụng và thèm ăn canh chua."
+    },
+    {
+      "step": "Kho cá",
+      "desc": "Kho cá hú tiêu với lửa riu riu cho thấm gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy ngon miệng và hấp dẫn."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Chia sẻ cách ăn cơm với canh chua và cá kho.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn được ăn thử ngay lập tức."
+    },
+    {
+      "step": "Lời mời",
+      "desc": "Mời mọi người cùng ăn cơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thân thiện và gần gũi."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi nghen."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thèm",
+    "bắt mắt",
+    "đậm đà",
+    "cay",
+    "hao cơm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cá hú mà làm hai món này là hao cơm tới gì chịu nổi ha mọi người.",
+    "Ăn cơm với canh chua là tôi lúc nào cũng có một chén muối ớt đâm cay sương sương mà xé lửa kế bên.",
+    "Nói chứ mỗi lần ăn cơm một món kho, một món canh đơn giản vậy là ăn sạch nồi cơm hồi nào không hay luôn."
+  ],
+  "hook_content": "Hello mọi người, lại là tui Mập Bựa thích nấu ăn đây.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ cách nấu mâm cơm hai món từ cá hú gồm canh chua và cá kho tiêu, từ khâu chọn nguyên liệu đến chế biến và thưởng thức. Người nấu chia sẻ những bí quyết để món ăn thêm ngon và hấp dẫn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

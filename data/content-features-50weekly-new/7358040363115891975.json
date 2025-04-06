@@ -1,0 +1,96 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món tào phớ trà sữa phô mai và khúc bạch.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hình thức và hương vị."
+    },
+    {
+      "step": "Phản ánh trải nghiệm mua hàng",
+      "desc": "Chia sẻ trải nghiệm mua hàng không như quảng cáo.",
+      "impact_level": "2",
+      "viewer_emotion": "Thất vọng vì sự không trung thực."
+    },
+    {
+      "step": "Đánh giá tào phớ",
+      "desc": "Đánh giá tào phớ không giống tào phớ, giống rau câu.",
+      "impact_level": "2",
+      "viewer_emotion": "Không hài lòng về chất lượng."
+    },
+    {
+      "step": "Đánh giá tổng quan",
+      "desc": "Nhận xét về sự kết hợp rời rạc của các thành phần.",
+      "impact_level": "2",
+      "viewer_emotion": "Không tìm thấy sự liên kết hương vị."
+    },
+    {
+      "step": "Đánh giá khúc bạch",
+      "desc": "Đánh giá khúc bạch nhạt nhẽo, không có vị.",
+      "impact_level": "1",
+      "viewer_emotion": "Thất vọng về hương vị."
+    },
+    {
+      "step": "Đúc kết trải nghiệm",
+      "desc": "Tóm tắt trải nghiệm: tào phớ không ra tào phớ, khúc bạch không ra khúc bạch.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình với nhận xét."
+    },
+    {
+      "step": "Chia sẻ quan điểm review",
+      "desc": "Nêu cao sự trung thực và tôn trọng người xem trong review.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy tin tưởng và tôn trọng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chuyên nghiệp",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "cảm ơn mọi người đã coi clip của mình, bye bye!"
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "béo",
+    "dẻo",
+    "dễ thương",
+    "mát",
+    "nhạt",
+    "không liên quan",
+    "kỳ cục"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tào phớ thì không ra vị tào phớ, khúc bạch mà không ra vị khúc bạch.",
+    "Hãy tôn trọng đồ ăn và hãy tôn trọng người xem clip.",
+    "bạn phải review làm sao cho người ta thấy được à cái đồ ăn như thế nào, thì khi bạn nhận Booking á, món ăn đưa lên cho bạn như thế nào thì người xem của bạn tới ăn người ta cũng phải nhận được y chang như vậy đó là sự bảo vệ quyền lợi của khách hàng."
+  ],
+  "hook_content": "Tào phớ thì không ra vị tào phớ, khúc bạch mà không ra vị khúc bạch, trên mạng tào phớ hoa anh đào và trà sữa phô mai, Ai đời, tào phớ hoa anh đào nha mọi người, còn trà sữa phô mai thì không có, lý do tại vì sao?",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món tào phớ trà sữa phô mai và khúc bạch mua tại một cửa hàng, trong đó người review chia sẻ trải nghiệm không mấy tích cực về hương vị và chất lượng của cả hai món, đồng thời nhấn mạnh tầm quan trọng của sự trung thực trong review.",
+  "tone_of_voice": [
+    "Chân thành",
+    "Thân thiện",
+    "Khó chịu"
+  ]
+}

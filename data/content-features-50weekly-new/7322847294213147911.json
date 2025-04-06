@@ -1,0 +1,75 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu hoàn cảnh",
+      "desc": "Mô tả lịch trình bận rộn và lý do ăn chân gà.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chuẩn bị chân gà",
+      "desc": "Rửa và sơ chế chân gà rút xương.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Luộc chân gà",
+      "desc": "Luộc chân gà với gừng và bột ngọt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Pha nước chấm",
+      "desc": "Làm chén muối ớt đơn giản.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Ăn và cảm nhận về món chân gà rút xương.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "đã",
+    "dính",
+    "khoái",
+    "mềm mềm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mấy chấm chân gà vô cái chén muối thôi mà hai dòng nước miếng nó tuôn trào.",
+    "Cái da chân gà thì nó hơi mềm mềm ăn trúng vô mấy cái cọng gân á tôi nói nó đã.",
+    "Cái món tôi nói nó đơn giản vậy đó chứ chấm vô cái chén muối ớt thì nó ngon còn thứ gì mà chịu nổi nữa."
+  ],
+  "hook_content": "Mấy bữa nay phải hớt sớm hơn mọi ngày chính vì là cái lý do này đây.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video ghi lại quá trình chuẩn bị và thưởng thức món chân gà rút xương chấm muối ớt tại nhà. Người nói chia sẻ trải nghiệm cá nhân về món ăn này, từ khâu sơ chế đến khi thưởng thức.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

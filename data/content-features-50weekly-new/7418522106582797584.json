@@ -1,0 +1,83 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu mở đầu",
+      "desc": "Giới thiệu về thời tiết Hàn Quốc và mong muốn đón em.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự quan tâm đến gia đình."
+    },
+    {
+      "step": "Khám phá vườn rau",
+      "desc": "Thăm vườn rau trên sân thượng, gợi nhớ kỷ niệm.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy gần gũi với thiên nhiên."
+    },
+    {
+      "step": "Lên kế hoạch",
+      "desc": "Lên kế hoạch cho bữa tiệc nướng trên sân thượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ một bữa ăn ấm cúng."
+    },
+    {
+      "step": "Nấu mì",
+      "desc": "Bắt đầu nấu mì cay hành thịt bò nướng.",
+      "impact_level": "3",
+      "viewer_emotion": "Tò mò về món ăn mới lạ."
+    },
+    {
+      "step": "Nướng thịt bò",
+      "desc": "Nướng thịt bò và chuẩn bị nước dùng mì.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi hương vị thịt nướng."
+    },
+    {
+      "step": "Thêm hành và kim chi",
+      "desc": "Thêm hành và kim chi tự làm vào mì.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng món mì cay."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Cả nhà cùng ăn và khen ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy ngon miệng và vui vẻ."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "vui",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mì cây hành thịt bò nướng, nghe lạ chưa, cái tên này là mình mới đặt cho nó.",
+    "Công nhận có nhiêu thịt bò đó mà mỡ nó ra một tô luôn.",
+    "Ăn mì cay là phải ăn với kim chi nha, mọi người nhìn cái kim chi này nó có ngon không?"
+  ],
+  "hook_content": "Tháng này Hàn Quốc đi ra đường là phải mặc áo ấm rồi nha mọi người.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video ghi lại cảnh gia đình làm món mì cay hành thịt bò nướng và cùng nhau thưởng thức. Người làm chia sẻ về thời tiết Hàn Quốc, vườn rau trên sân thượng và quá trình nấu ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

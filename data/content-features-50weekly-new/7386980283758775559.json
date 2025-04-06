@@ -1,0 +1,78 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu về việc ăn sushi băng chuyền và giá cả hợp lý.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về trải nghiệm ăn sushi mới lạ."
+    },
+    {
+      "step": "Trải nghiệm món ăn",
+      "desc": "Thử và đánh giá các loại sushi khác nhau trên băng chuyền.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng khi thấy những món ăn hấp dẫn."
+    },
+    {
+      "step": "Đánh giá chất lượng",
+      "desc": "Nhận xét về độ tươi ngon và sự kết hợp hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá của người review."
+    },
+    {
+      "step": "So sánh và lựa chọn",
+      "desc": "Cân nhắc giữa các món tráng miệng và món ăn khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Băn khoăn không biết nên chọn món nào."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Đánh giá chung về trải nghiệm và không gian quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn đến trải nghiệm thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thèm",
+    "hợp lý",
+    "đáng",
+    "hấp dẫn",
+    "chất lượng",
+    "mềm",
+    "thơm",
+    "béo",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "ăn miếng này là thấy đáng 27k một dĩa rồi đó",
+    "cá hồi béo mà ngập miệng luôn á",
+    "ăn nhiêu tính xiền bấy nhiêu. Dễ ăn dễ lựa mà ngon nữa đáng trải nghiệm lắm nha"
+  ],
+  "hook_content": "thèm sushi mà biết cái nơi của mình ăn cũng ít, nên chui vô đây ăn kiểu băng chuyền tính xiền từng dĩa ngay cũng hợp lý quá ha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán sushi băng chuyền, giới thiệu trải nghiệm ăn uống thú vị với nhiều món sushi đa dạng và tươi ngon. Người xem được khuyến khích đến trải nghiệm vì sự tiện lợi và chất lượng của quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Phản hồi bình luận",
+      "desc": "Đáp lại bình luận về việc ít thấy ăn cơm, quyết định nấu cơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú vì sự quan tâm đến khán giả."
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Liệt kê các món ăn: canh cua, cà pháo, thịt giang cháy cạnh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn được giới thiệu."
+    },
+    {
+      "step": "Nấu thịt giang",
+      "desc": "Mô tả cách làm thịt giang cháy cạnh với nhiều hành.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến công thức và cách chế biến."
+    },
+    {
+      "step": "Nấu canh cua",
+      "desc": "Chia sẻ kinh nghiệm làm cua và nêm nếm gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích với kinh nghiệm nấu cua."
+    },
+    {
+      "step": "Nhận xét về cua",
+      "desc": "Nhận định không bị dị ứng cua, khen ngon nhờ hạt nêm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào sản phẩm được giới thiệu."
+    },
+    {
+      "step": "Giới thiệu cà pháo",
+      "desc": "Nhấn mạnh cà pháo tự ngâm, chia sẻ kinh nghiệm ngâm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt ấn tượng."
+    },
+    {
+      "step": "Ăn và kết luận",
+      "desc": "Ăn cơm, khen canh cua và kêu gọi mọi người ăn cùng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và muốn thử món ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Thôi mọi người xem đến đây còn trần chờ gì nữa? Bới tô cơm, bới tô cơm.",
+    "Canh thì không thừa nhưng mà thịt giang cháy cạnh thì hơi ế mọi người vào giải quyết giùm nha. Người vài ba miếng cho hết đĩa chứ thấy nhục quá."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngọt thanh",
+    "mê",
+    "tự hào",
+    "thèm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái thịt giang cháy cạnh là mình thấy mình làm ăn ngon oải cả trứng.",
+    "Cơm nhà ba món đánh bay nồi cơm",
+    "Ta nói cái vị canh nó ngọt thanh, ngon mỉ cũng bàng."
+  ],
+  "hook_content": "Hôm qua đọc được cái comment chị kia bảo là ôi con bé này không thấy nó ăn cơm nhỉ? Mình lướt một loạt bộ sưu tập hàn the thời gian vừa qua thì đúng thật không có clip nào mình ăn cơm.",
+  "hook_type": [
+    "Phản hồi bình luận"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video nấu và ăn bữa cơm nhà gồm canh cua, cà pháo và thịt giang cháy cạnh. Người nấu chia sẻ công thức, kinh nghiệm và kêu gọi mọi người ăn cùng.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

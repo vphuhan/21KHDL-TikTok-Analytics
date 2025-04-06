@@ -1,0 +1,79 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Đặt câu hỏi về doanh thu của quán mì gà tần.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về doanh thu của quán."
+    },
+    {
+      "step": "Thông tin món ăn",
+      "desc": "Giới thiệu thành phần và giá cả của bát mì.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn vì giá cả phải chăng."
+    },
+    {
+      "step": "Đánh giá thành phần",
+      "desc": "Nhận xét về chất lượng và sự kết hợp của các thành phần.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thú vị với các đánh giá."
+    },
+    {
+      "step": "Đánh giá cá nhân",
+      "desc": "Chia sẻ sở thích cá nhân về trứng.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy bình thường vì là ý kiến cá nhân."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Đề xuất quán cho những ai thèm mì gà tần.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy được gợi ý hữu ích."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nói chung là giá rẻ nên ai lượn lờ hồ Tây hay thèm mì gà tần hoặc là thèm thứ gì đó nóng ấm vào mùa đông thì có thể thử quán này nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "rẻ",
+    "ấm bụng",
+    "hợp ý"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Một bát mì một đùi này 25 cành thêm một quả trứng năm cành nữa ăn vào mùa đông là ấm hết cả bụng.",
+    "Cái thứ bổ nhất trong bát mì này không phải là gà mà cũng không phải trứng lộn mà là rau ngải cứu này nè.",
+    "Nói chung là giá rẻ nên ai lượn lờ hồ Tây hay thèm mì gà tần hoặc là thèm thứ gì đó nóng ấm vào mùa đông thì có thể thử quán này nha."
+  ],
+  "hook_content": "Mọi người thử tính xem một bát mì gà tần 25 cành mà ngày bán được 800 đến 1.000 suất thì doanh thu tháng là bao nhiêu?",
+  "hook_type": [
+    "Gây tò mò",
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quán mì gà tần giá rẻ ở gần hồ Tây, Hà Nội, với giá 25k/bát đầy đủ topping. Người bán hàng ngày bán được 800-1000 bát.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

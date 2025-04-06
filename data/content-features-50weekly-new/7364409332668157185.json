@@ -1,0 +1,75 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu hàng bánh rán",
+      "desc": "Giới thiệu hai hàng bánh rán cùng địa chỉ và sự cạnh tranh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự cạnh tranh giữa hai hàng."
+    },
+    {
+      "step": "Phỏng vấn chủ quán",
+      "desc": "Trò chuyện với cô chủ để xác nhận thông tin về quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với sự thân thiện của cô chủ."
+    },
+    {
+      "step": "Đánh giá bánh rán",
+      "desc": "Nhận xét về vỏ bánh, độ ngọt, và nhân đậu xanh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và tò mò về hương vị."
+    },
+    {
+      "step": "So sánh hai loại bánh",
+      "desc": "Đưa ra sự yêu thích cá nhân với bánh rán mật.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử cả hai loại để so sánh."
+    },
+    {
+      "step": "Thông tin địa điểm",
+      "desc": "Nhấn mạnh vị trí của hàng bánh rán gốc.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhớ địa chỉ để ghé thăm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z",
+    "Drama",
+    "Sáng tạo"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thơm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cả ngày cô cứ cười suốt như này ấy là ngồi cạnh cái chảo nóng như này là cũng không mệt đâu đúng không? Mệt làm sao. Cứ khi đếm tiền là không thấy mệt nữa.",
+    "Ưu thế, hơn ngay cô nói chuyện là muốn mua cho cô rồi.",
+    "Mình thì chưa ăn bánh rán ở hàng nào cả nên là cũng không biết hàng nào ngon hơn nhưng mà nghe chị mình bảo thì cái hàng mà ở trong ấy mới là hàng gốc."
+  ],
+  "hook_content": "Đây đây này, ai nhà bánh rán em ơi!",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm",
+    "Đối thoại"
+  ],
+  "summarization": "Video review quán bánh rán ở Hàng Chiếu, Hà Nội, tập trung vào trải nghiệm cá nhân và so sánh giữa hai hàng bánh rán cạnh nhau, đồng thời phỏng vấn cô chủ quán để tìm hiểu thêm về nguồn gốc.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu chung",
+      "desc": "Giới thiệu quán trà sữa Hava khai trương chi nhánh ở Tân Phú.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán mới."
+    },
+    {
+      "step": "Ưu đãi khai trương",
+      "desc": "Thông tin về chương trình khuyến mãi mua 2 tặng 1 và mai viên.",
+      "impact_level": "3",
+      "viewer_emotion": "Háo hức vì khuyến mãi hấp dẫn."
+    },
+    {
+      "step": "Đồ uống nổi bật",
+      "desc": "Giới thiệu trà bán cầu là món bán chạy và các loại topping.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng."
+    },
+    {
+      "step": "Nguyên liệu tươi",
+      "desc": "Quán sử dụng trái cây ngâm tươi mỗi ngày.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng."
+    },
+    {
+      "step": "Đa dạng lựa chọn",
+      "desc": "Giới thiệu các loại trà sữa và topping phong phú.",
+      "impact_level": "2",
+      "viewer_emotion": "Choáng ngợp trước menu đa dạng."
+    },
+    {
+      "step": "Nhấn mạnh khuyến mãi",
+      "desc": "Nhắc lại chương trình khuyến mãi và địa chỉ quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Không muốn bỏ lỡ ưu đãi."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Các bạn ở Tân Phú mà đang thèm trà sữa trà trái cây thì ghé qua đây nha.",
+    "Địa chỉ của trà sữa Hava tính để đây nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "đã",
+    "thanh mát",
+    "ngon",
+    "tha hồ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "mai viên nhà chị nó bự không à, ăn rất là đã",
+    "khuyến mãi chấn động mua hai tặng một",
+    "tới đây là cả tuần không lo trùng món luôn, vì nó rất là đa dạng nhiều loại"
+  ],
+  "hook_content": "ngày tất cả các chi nhánh của chị bán từ 1000 đến 1500 ly.",
+  "hook_type": [
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video giới thiệu quán trà sữa Hava mới khai trương ở Tân Phú với chương trình khuyến mãi mua 2 tặng 1 và mai viên đồng giá, đồng thời giới thiệu các loại đồ uống, topping đa dạng và trái cây tươi ngon của quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

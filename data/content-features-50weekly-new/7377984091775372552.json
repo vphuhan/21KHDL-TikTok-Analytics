@@ -1,0 +1,91 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu công thức pha bột bánh xèo giòn, béo, vừa ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về công thức làm bánh xèo."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê các nguyên liệu: dừa, bột bánh xèo, bột chiên giòn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin cơ bản."
+    },
+    {
+      "step": "Hướng dẫn pha bột",
+      "desc": "Hướng dẫn chi tiết lượng bột, nước, gia vị để pha.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị, có thể áp dụng."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Ngâm củ hủ dừa, chuẩn bị rau sống, xào thịt và tép.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, các bước chuẩn bị quen thuộc."
+    },
+    {
+      "step": "Chiên bánh xèo",
+      "desc": "Sử dụng chảo chống dính, chiên và nêm nếm lại.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn, muốn xem thành phẩm."
+    },
+    {
+      "step": "Thưởng thức và mời",
+      "desc": "Mời mọi người cùng thưởng thức bánh xèo.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng, muốn ăn thử."
+    },
+    {
+      "step": "Lời kết",
+      "desc": "Nhắc ngày mùng 5 tháng 5 và tạm biệt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin bổ sung."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Mùng 5 tháng 5 tới rồi á cả nhà lưu ngay công thức rồi triển liền món này nha."
+  ],
+  "cta_type": [
+    "Lưu video",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "giòn",
+    "béo",
+    "vừa ăn",
+    "thơm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cách pha bột này khi chiên lên bánh xèo của mình rất là giòn, vị vừa ăn mà còn béo nữa nha.",
+    "Đặc biệt loại lá này á mình ăn nên thuốc nữa nha.",
+    "Tép bạc non nè, đem chiên bánh xèo á là quá hợp lý luôn."
+  ],
+  "hook_content": "Bữa nay Hưng chia sẻ công thức pha bột bánh xèo của Hưng á cho cả nhà mình cùng tham khảo nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách pha bột bánh xèo ngon, giòn, béo và chia sẻ công thức chi tiết. Người thực hiện cũng chia sẻ thêm về các nguyên liệu ăn kèm và cách chế biến để món bánh xèo thêm hấp dẫn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

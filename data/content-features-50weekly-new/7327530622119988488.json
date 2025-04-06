@@ -1,0 +1,76 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Mẹ giới thiệu món cơm chan tóp mỡ gợi nhớ kỷ niệm xưa.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn và câu chuyện."
+    },
+    {
+      "step": "Ký ức tuổi thơ",
+      "desc": "Mẹ kể về tuổi thơ khó khăn, thường ăn cơm với tóp mỡ.",
+      "impact_level": "3",
+      "viewer_emotion": "Xúc động và đồng cảm với tuổi thơ khó khăn."
+    },
+    {
+      "step": "So sánh hiện tại và quá khứ",
+      "desc": "Mẹ so sánh cuộc sống hiện tại sung sướng với quá khứ thiếu thốn.",
+      "impact_level": "2",
+      "viewer_emotion": "Trân trọng giá trị hiện tại."
+    },
+    {
+      "step": "Cách ăn tóp mỡ",
+      "desc": "Mô tả chi tiết cách ăn cơm chan tóp mỡ thời xưa.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung về món ăn và cảm nhận hương vị."
+    },
+    {
+      "step": "Chia sẻ kỷ niệm",
+      "desc": "Mẹ chia sẻ kỷ niệm ăn chung với chị em.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy ấm áp và gần gũi."
+    }
+  ],
+  "content_style": [
+    "Truyền thống",
+    "Đời thường",
+    "Kiến thức",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "sung sướng",
+    "ngon",
+    "quý"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "có món ăn sung sướng cỡ nào, đổi cho mẹ chén cơm này mẹ cũng không chịu.",
+    "cơm chan tóp mỡ vậy là quý lắm đó.",
+    "mấy chị em mà chia nhau ăn luôn á."
+  ],
+  "hook_content": "có món ăn sung sướng cỡ nào, đổi cho mẹ chén cơm này mẹ cũng không chịu.",
+  "hook_type": [
+    "Gây tò mò",
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện"
+  ],
+  "summarization": "Video kể về kỷ niệm tuổi thơ của mẹ với món cơm chan tóp mỡ, gợi nhớ về những ngày tháng khó khăn nhưng đầy tình thương gia đình. Món ăn đơn giản trở nên quý giá và ý nghĩa hơn bao giờ hết.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

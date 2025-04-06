@@ -1,0 +1,101 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ba rọi chiên lắc sả tắc, nhấn mạnh sự đơn giản.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách làm món ăn."
+    },
+    {
+      "step": "Giới thiệu bản thân",
+      "desc": "Tự giới thiệu là Bon, nội trợ ở quận 8, chia sẻ đi chợ ngày Tết.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy gần gũi, thân thiện."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Hướng dẫn chọn thịt ba chỉ, luộc sơ với gừng, giấm, muối.",
+      "impact_level": "2",
+      "viewer_emotion": "Chú ý các mẹo sơ chế thịt."
+    },
+    {
+      "step": "Xăm và ngâm da",
+      "desc": "Hướng dẫn xăm da kỹ, ngâm với giấm trong 30 phút.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến công đoạn làm giòn da."
+    },
+    {
+      "step": "Chuẩn bị sả tắc",
+      "desc": "Hướng dẫn cắt sả, tắc, lá chanh, và nhấn mạnh lá quế.",
+      "impact_level": "2",
+      "viewer_emotion": "Ghi nhớ các nguyên liệu tạo hương vị."
+    },
+    {
+      "step": "Chiên thịt",
+      "desc": "Sấy khô da, chiên phần da trước, thêm bột bắp chống bắn.",
+      "impact_level": "3",
+      "viewer_emotion": "Hấp dẫn bởi quá trình chiên giòn bì."
+    },
+    {
+      "step": "Trộn và nêm nếm",
+      "desc": "Trộn thịt với sả, tắc, lá quế, nêm gia vị vừa ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng khi trộn các nguyên liệu."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Có gì mấy chị lưu lại cái công thức này nha",
+    "Tết này làm thử nếu mà làm theo em á, ăn không có ngon kiếm em cái gì em cũng chịu hết trơn á."
+  ],
+  "cta_type": [
+    "Lưu video",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "giòn",
+    "mặn mặn",
+    "chua cay",
+    "tê tái",
+    "thèm",
+    "ngon",
+    "cay cay",
+    "thơm thơm",
+    "chua chua",
+    "mặn mặn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái miếng ba rọi á giòn ơi là giòn, mặn mặn, sả tắc ớt á thì chua cay tê tái luôn.",
+    "Không có ngon á bắt đền em nè.",
+    "Mấy bà thấy em chịu chơi ghê không?"
+  ],
+  "hook_content": "ba rọi đem đi chiên lên rồi lắc với sả tắc á cái công thức này nó làm đơn giản dữ lắm mà bảo đảm lai ra cái món này là nó hết đầu tiên luôn á.",
+  "hook_type": [
+    "Cho thấy kết quả trước",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn chi tiết cách làm món ba rọi chiên lắc sả tắc đơn giản tại nhà, từ khâu chọn nguyên liệu, sơ chế đến chiên và trộn gia vị, kèm theo những mẹo để món ăn thêm ngon miệng và hấp dẫn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

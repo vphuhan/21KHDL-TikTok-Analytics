@@ -1,0 +1,94 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu cơn thèm",
+      "desc": "Mô tả cơn thèm Doki bùng nổ, dù biết dễ ngán.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị vì sự quen thuộc với trải nghiệm ăn Doki."
+    },
+    {
+      "step": "Nêu vấn đề",
+      "desc": "Nhấn mạnh khó khăn khi pha sốt ở Doki.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với nỗi lo lắng khi pha sốt."
+    },
+    {
+      "step": "Chia sẻ công thức",
+      "desc": "Hướng dẫn chi tiết công thức pha sốt 'ngon bất bại'.",
+      "impact_level": "3",
+      "viewer_emotion": "Phấn khích vì có công thức mới để thử."
+    },
+    {
+      "step": "Lưu ý về khẩu vị",
+      "desc": "Gợi ý điều chỉnh độ cay phù hợp với sở thích.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự quan tâm đến người xem."
+    },
+    {
+      "step": "Thói quen ăn uống",
+      "desc": "Tiết lộ không bao giờ ăn topoki ở Doki.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về lý do không ăn topoki."
+    },
+    {
+      "step": "Mô tả trải nghiệm",
+      "desc": "Diễn tả sự hứng khởi ban đầu và cảm giác ngán sau đó.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với sự thay đổi cảm xúc khi ăn."
+    },
+    {
+      "step": "Kêu gọi chia sẻ",
+      "desc": "Hỏi công thức sốt yêu thích của người xem.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, cảm thấy muốn tương tác."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Chia sẻ cho tui với nha."
+  ],
+  "cta_type": [
+    "Chia sẻ công thức"
+  ],
+  "emotion_keywords": [
+    "thèm",
+    "ngán",
+    "mê",
+    "ngon",
+    "hí hửng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn mấy năm trời thì đây là một trong những công thức sốt mà tui mê nhất nè.",
+    "Công thức này ngon bất bại luôn với lại cũng biết là nhiều bà không ăn được cay giống tui.",
+    "Vô Doki mà chả bao giờ ăn topoki là có tui nha."
+  ],
+  "hook_content": "Cơn thèm Doki nổi rần rần trong người tui rồi đây, mặc dù biết vô ăn chừng 10 phút là ngán tận cổ nhưng mà ai rủ cũng đi.",
+  "hook_type": [
+    "Gây tò mò",
+    "Tạo sự đồng cảm"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ công thức pha sốt lẩu Doki ngon, không ngán, phù hợp với người không ăn được cay, đồng thời đề cập đến trải nghiệm ăn Doki dễ ngán và thói quen không ăn topoki.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

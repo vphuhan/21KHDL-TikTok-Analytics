@@ -1,0 +1,81 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người ăn chay, ăn healthy"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu về việc nấu đồ chay và những điều cần tránh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về những điều kiêng kỵ."
+    },
+    {
+      "step": "Không rửa nấm",
+      "desc": "Giải thích lý do không nên rửa nấm khi nấu đồ chay.",
+      "impact_level": "3",
+      "viewer_emotion": "Ngạc nhiên và đồng tình."
+    },
+    {
+      "step": "Gợi ý món súp chay",
+      "desc": "Chuyển từ món chiên, kho sang nấu súp để thanh tịnh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với gợi ý mới."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê và sơ chế các nguyên liệu nấu súp.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, theo dõi chuẩn bị."
+    },
+    {
+      "step": "Nấu súp",
+      "desc": "Hướng dẫn từng bước nấu súp chay.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến công thức."
+    },
+    {
+      "step": "Nêm nếm",
+      "desc": "Hướng dẫn nêm nếm gia vị và thêm nguyên liệu.",
+      "impact_level": "1",
+      "viewer_emotion": "Chú ý đến gia vị."
+    },
+    {
+      "step": "Hoàn thành",
+      "desc": "Trình bày món súp chay đã hoàn thành.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử món ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thanh tịnh"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nấm mà đem rửa thì còn gì là nấm nữa hả mấy bà.",
+    "Nấu đồ chay mà sao suốt ngày chiên với lại kho. Hôm nay tôi chỉ mấy bà nấu súp đi.",
+    "Chủ yếu mình mua nấm về là mình phải để cho thật là ráo, mình cắt gốc mình bỏ thôi chứ không được rửa."
+  ],
+  "hook_content": "một những điều kiêng kỵ khi mấy bà nấu đồ chay mà mấy bà không nên bỏ qua.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn nấu món súp hạt sen nấm chay, tập trung vào việc không nên rửa nấm khi nấu đồ chay và các bước nấu súp thanh đạm, dễ làm.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

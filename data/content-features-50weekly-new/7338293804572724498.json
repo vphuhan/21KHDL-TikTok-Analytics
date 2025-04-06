@@ -1,0 +1,81 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn độc lạ",
+      "desc": "Con giới thiệu với mẹ về món ăn độc lạ hôm nay.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn độc lạ."
+    },
+    {
+      "step": "Mẹ không thấy món ăn",
+      "desc": "Mẹ thắc mắc không thấy món ăn đâu.",
+      "impact_level": "1",
+      "viewer_emotion": "Bối rối vì không thấy món ăn."
+    },
+    {
+      "step": "Mẹ ăn thử muỗng",
+      "desc": "Con bảo mẹ ăn thử muỗng làm từ bột.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với ý tưởng muỗng ăn được."
+    },
+    {
+      "step": "Mẹ ăn thử đũa",
+      "desc": "Con bảo mẹ ăn thử đôi đũa.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên vì đũa cũng ăn được."
+    },
+    {
+      "step": "Mẹ ăn thử chén",
+      "desc": "Con bảo mẹ ăn thử chén.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về chén ăn được."
+    },
+    {
+      "step": "Nhận xét của mẹ",
+      "desc": "Mẹ nhận xét chén cứng và không có vị.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường với nhận xét này."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "độc lạ",
+    "cứng",
+    "mềm",
+    "lạt nhách"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Trời ơi cái này cái muỗng thiệt mà ta.",
+    "Sao nó giống cái đũa đũa tre mà.",
+    "Nói chung là ăn hết ba món này nè mẹ thấy nó không có mùi vị gì hết trơn con ơi nó lạt nhách hả."
+  ],
+  "hook_content": "lần đầu mẹ thử.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video ghi lại cảnh người con cho mẹ ăn thử chén, đũa, muỗng được làm từ bột ăn được. Mẹ ngạc nhiên và nhận xét đồ ăn không có vị.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

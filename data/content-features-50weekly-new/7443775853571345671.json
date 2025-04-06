@@ -1,0 +1,91 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món tôm càng xanh ba món sẽ làm cho gia đình.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về ba món tôm."
+    },
+    {
+      "step": "Sơ chế tôm sốt Thái",
+      "desc": "Lột vỏ, làm sạch tôm, ướp chanh và muối, để tủ lạnh.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, các bước chuẩn bị món ăn."
+    },
+    {
+      "step": "Làm sốt Thái",
+      "desc": "Xay hoặc băm các nguyên liệu, pha nước mắm, ớt bột.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy công thức sốt hấp dẫn."
+    },
+    {
+      "step": "Sơ chế tôm nướng phô mai",
+      "desc": "Nướng sơ tôm bằng nồi chiên không dầu.",
+      "impact_level": "1",
+      "viewer_emotion": "Các bước chuẩn bị món ăn."
+    },
+    {
+      "step": "Làm sốt phô mai",
+      "desc": "Trộn bơ và phô mai để làm sốt.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy đơn giản."
+    },
+    {
+      "step": "Nướng tôm phô mai",
+      "desc": "Cho phô mai lên tôm đã nướng sơ rồi nướng lại.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung món ăn hấp dẫn."
+    },
+    {
+      "step": "Hoàn thiện và giới thiệu",
+      "desc": "Trộn tôm đã ướp với sốt Thái và nướng mẻ tôm còn lại.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy món ăn hấp dẫn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Mọi người muốn mua hàng Hàn chuẩn cho gia đình mình á thì nhắn qua Minsu shop nha, còn bây giờ thì mời mọi người ăn cơm chung với cả nhà mình đây."
+  ],
+  "cta_type": [
+    "Truy cập trang cá nhân",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon lành cành đào",
+    "hấp dẫn",
+    "khoái"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nay là phải ăn tết đục nước luôn mới chịu ơi nha.",
+    "Trời ơi bày quá à. Gặp ngoại là trời vô nồi luộc hết.",
+    "Vậy là mình đã được cái chén sốt Thái ngon lành cành đào rồi đó."
+  ],
+  "hook_content": "Này, ba tụi hắn mới được đo nhà lại sau gần hai tuần vậy là hàng quay lại Việt Nam.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món tôm càng xanh ba món (sốt Thái, nướng phô mai, luộc) để ăn Tết tại Việt Nam. Người làm chia sẻ công thức và quá trình thực hiện từng món, đồng thời giới thiệu các sản phẩm hỗ trợ sức khỏe mua tại Minsu Shop.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

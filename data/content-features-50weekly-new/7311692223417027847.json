@@ -1,0 +1,80 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món mì trộn cay ăn khuya, sử dụng mì Koreno Jumbo.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Giới thiệu mì",
+      "desc": "Giới thiệu mì Koreno Jumbo: sợi mì nguyên chất, chiên ở nhiệt độ tối ưu.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Nấu mì trong 4 phút, chuẩn bị thêm bắp cải và xúc xích.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Pha nước sốt",
+      "desc": "Hướng dẫn cách làm nước sốt trộn mì cay với các gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Trộn mì",
+      "desc": "Chắt nước mì, thêm trứng và rong biển cho đủ chất.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Trộn đều và thưởng thức mì trộn cay, đánh giá hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "cay",
+    "chua chua ngọt ngọt",
+    "siêu cuốn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nếu mà làm mì cay hay là mì trộn, thì mì Jumbo Koreno chắc chắn là chân ái luôn.",
+    "Cái sốt này đỉnh vãi luôn nha.",
+    "Sợi mì thì nó dai. Sốt thì nó chua chua ngọt ngọt. Nói chung là siêu cuốn luôn."
+  ],
+  "hook_content": "Mình biết là giờ này cũng đã khuya rồi, nhưng mà có quá đáng lắm không khi bây giờ mình làm mì trộn mình ăn?",
+  "hook_type": [
+    "Gây tò mò",
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ cách làm mì trộn cay ăn khuya với mì Koreno Jumbo, hướng dẫn pha nước sốt và thêm các nguyên liệu khác. Người làm đánh giá món ăn rất ngon và cuốn hút.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

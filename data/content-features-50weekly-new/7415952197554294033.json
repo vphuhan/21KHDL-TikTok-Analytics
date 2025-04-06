@@ -1,0 +1,85 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người ăn chay, ăn healthy"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ăn chay chuẩn nhà hàng và nguyên liệu Knorr.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món chay chuẩn nhà hàng."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Cùng phụ bếp chuẩn bị nguyên liệu: nấm rơm và mướp.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, tập trung vào công đoạn chuẩn bị."
+    },
+    {
+      "step": "Nấu món đậu hũ xào sả",
+      "desc": "Nấu món đậu hũ xào sả, nêm nếm hạt nêm Knorr.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn, muốn thử món này."
+    },
+    {
+      "step": "Nấu canh và mướp xào",
+      "desc": "Nấu canh rong biển và mướp xào nấm hương.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy nhanh gọn, tiện lợi."
+    },
+    {
+      "step": "Hoàn thiện mâm cơm",
+      "desc": "Hoàn thiện mâm cơm chay và mời khách đến ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về phản ứng của khách."
+    },
+    {
+      "step": "Khách ăn và nhận xét",
+      "desc": "Khách ăn và nhận xét món ăn, đặc biệt là đậu hũ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy vui vẻ, hài hước."
+    },
+    {
+      "step": "Kết thúc bữa ăn",
+      "desc": "Kết thúc bữa ăn, khách ăn hết và ra về.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thấy no bụng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngọt thấm đậm đà",
+    "ăn ngon",
+    "hợp",
+    "tâm đắc",
+    "an nhàn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Món này nấu rất là đơn giản nhưng mà ăn với cơm hợp cực kỳ. Nếu mà không top 2 chắc là cũng top 1 món chay đánh bay nồi cơm đấy.",
+    "Giao diện thì có phần chưa đẹp mắt lắm nhưng mà ăn ngon là chấn động.",
+    "Hạt nêm này được làm từ nấm tươi Thái Nguyên ấy, nên nấu món chay siêu hợp, ngọt thấm đậm đà chuẩn nhà hàng chay Michelin."
+  ],
+  "hook_content": "Mọi người hỏi mình là sao dạo này không thấy mời thằng Hùng nó sang ăn.",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn nấu mâm cơm chay chuẩn nhà hàng với các món đậu hũ xào sả, canh rong biển và mướp xào nấm rơm, sử dụng hạt nêm Knorr nấm hương organic. Khách mời đánh giá cao món đậu hũ xào sả.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

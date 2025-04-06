@@ -1,0 +1,93 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người ăn chay, ăn healthy",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bún nước tương và sự tự tin khi nấu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn và cách làm."
+    },
+    {
+      "step": "Chia sẻ công thức",
+      "desc": "Bắt đầu chia sẻ cách pha nước tương đặc biệt của gia đình.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong đợi công thức pha nước tương ngon."
+    },
+    {
+      "step": "Kể chuyện mua đậu",
+      "desc": "Kể câu chuyện hài hước khi mua đậu hũ ở chợ.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy hài hước với tình huống mua đậu."
+    },
+    {
+      "step": "Bí quyết chiên đậu",
+      "desc": "Hướng dẫn chi tiết cách chiên đậu hũ giòn lâu.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến bí quyết chiên đậu giòn."
+    },
+    {
+      "step": "Pha nước chấm",
+      "desc": "Hướng dẫn cách pha nước chấm ngon và đậm đà.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong muốn làm theo công thức nước chấm."
+    },
+    {
+      "step": "Nấu bún nước tương",
+      "desc": "Hoàn thành món bún nước tương và thưởng thức.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thèm thuồng món ăn."
+    },
+    {
+      "step": "Lời mời ăn cơm",
+      "desc": "Kết thúc video bằng lời mời ăn cơm thân mật.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy gần gũi và ấm áp."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Nếu mà bữa nay chưa có biết làm cái gì á thì mấy bà làm thử cái món này nha."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "đã",
+    "giòn",
+    "thơm",
+    "không ngán"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái đậu hũ mà muốn ăn ngon á, em chỉ cho mấy bà lựa cái đậu hũ Bắc á, cái đậu của nó vừa mềm vừa béo, núng na núng nính ăn đã lắm.",
+    "Chiên đậu hũ mà muốn giòn, ngon mà để lâu á, để khoảng mấy tiếng nó vẫn còn giòn luôn á thì mấy chị làm theo cách của em nè.",
+    "Không có ai mà chỉ cho mấy bà moi hết ruột hết gan ra chỉ tận tình gì đâu nghe."
+  ],
+  "hook_content": "Một cái tô bún nước tương như vậy á em bán 25.000đ thì có mắc không mấy chị?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn cách nấu bún nước tương ngon và đơn giản tại nhà, từ cách chiên đậu hũ giòn lâu đến pha nước chấm đậm đà. Người làm chia sẻ những bí quyết và kinh nghiệm cá nhân để món ăn thêm phần hấp dẫn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hài hước"
+  ]
+}

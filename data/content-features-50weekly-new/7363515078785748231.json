@@ -1,0 +1,88 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu vấn đề",
+      "desc": "Trân châu thừa từ hôm trước, quyết định thử luộc lại.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về kết quả"
+    },
+    {
+      "step": "Tham khảo",
+      "desc": "Đã xem trên mạng có người luộc lại trân châu được.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thực hiện",
+      "desc": "Luộc trân châu 2-3 phút rồi cho vào thau đá lạnh.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến chi tiết"
+    },
+    {
+      "step": "Lý giải",
+      "desc": "Giải thích lý do luộc nhanh và cho vào đá lạnh.",
+      "impact_level": "1",
+      "viewer_emotion": "Hiểu rõ hơn về quy trình"
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Trân châu luộc lại vẫn dai, không bị nát.",
+      "impact_level": "3",
+      "viewer_emotion": "Vui vẻ, bất ngờ"
+    },
+    {
+      "step": "So sánh",
+      "desc": "Nhắc lại kinh nghiệm luộc trân châu bị bở trước đây.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Mừng vì không phải đổ trân châu, chia sẻ thói quen nấu nhiều.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "dai",
+    "không bị nát",
+    "bở",
+    "may quá",
+    "phí"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Luộc lại nó cũng vẫn dai mọi người ơi, nó không bị nát đâu, ăn nó như trân trâu mà lúc mình mới nấu xong ấy.",
+    "May quá giờ đỡ phải đổ trân trâu đi.",
+    "Bây giờ cứ luộc thừa thì cất đi ngày hôm sau luộc lại ăn tiếp."
+  ],
+  "hook_content": "Hôm qua nấu trân trâu mà còn thừa nhiều quá, đổ đi thì nó cũng phí ấy.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ kinh nghiệm luộc lại trân châu thừa từ hôm trước để không bị lãng phí. Sau khi luộc và làm lạnh, trân châu vẫn giữ được độ dai ngon như mới nấu.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

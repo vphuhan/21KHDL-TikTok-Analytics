@@ -1,0 +1,66 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Con giới thiệu nước ép tin cho mẹ uống thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về loại nước ép mới."
+    },
+    {
+      "step": "Mẹ thắc mắc",
+      "desc": "Mẹ ngạc nhiên về kích thước và đặt câu hỏi về sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy lạ về sản phẩm."
+    },
+    {
+      "step": "Mẹ nếm thử",
+      "desc": "Mẹ uống thử với đá và nhận xét về hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Hồi hộp chờ đợi đánh giá."
+    },
+    {
+      "step": "Đánh giá sản phẩm",
+      "desc": "Mẹ nhận xét nước ép ngon, phù hợp để giải khát.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn uống thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "đã"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Chai của mình sao thấy nó bình thường, còn chai này sao ốm mập quá.",
+    "Giờ mẹ ăn cục đá uống thử coi, chứ nó uống không vậy ngọt lắm.",
+    "Đi bán đồ, đi về trời nắng uống chai này nó nhiều nó đã."
+  ],
+  "hook_content": "Lần đầu mẹ thử. Mẹ uống thử nước ép tin này đi mẹ.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video ghi lại cảnh mẹ lần đầu uống thử một loại nước ép mới, ban đầu mẹ ngạc nhiên về kích thước chai, sau khi uống thử thì thấy ngon và phù hợp để giải khát.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

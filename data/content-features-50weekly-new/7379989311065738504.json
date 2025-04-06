@@ -1,0 +1,91 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu các món ăn trong bữa tiệc sinh nhật Su Hoen.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự chuẩn bị chu đáo."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê và sơ chế các nguyên liệu cho món bánh mì khoai tây.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Lên sân thượng hái rau",
+      "desc": "Hái rau trên sân thượng để ăn kèm món thịt nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với vườn rau nhỏ tại nhà."
+    },
+    {
+      "step": "Làm nhân bánh mì",
+      "desc": "Nghiền khoai tây và trộn với mayonnaise làm nhân bánh mì.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy công thức đơn giản, dễ làm."
+    },
+    {
+      "step": "Nướng bánh mì",
+      "desc": "Nướng bánh mì khoai tây trên chảo với lửa nhỏ.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi lo lắng vì bánh mì dễ bị khét."
+    },
+    {
+      "step": "Nấu mì ý",
+      "desc": "Lần đầu nấu mì ý, xào thịt hun khói và sốt cà chua.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng vì sự đảm đang của người nấu."
+    },
+    {
+      "step": "Trang trí tiệc",
+      "desc": "Bơm bóng bay và trang trí không gian sinh nhật.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy không khí ấm cúng, vui vẻ."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bây giờ thì mời mọi người cùng ăn sinh nhật Su Hoen với bọn mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ấm cúng",
+    "vui vẻ",
+    "hạnh phúc",
+    "bình an"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Hôm nay ai làm gì ăn đó, ba Tủ Hơn rửa rau thì tối nay ăn rau nha.",
+    "Như cái này là thịt heo ba chỉ hun khói, mình đảo chung với tỏi cho nó vàng rồi mình sẽ bỏ hành tây vô. Cái món mì ý này xong rồi mình mới thấy là nó còn dễ nấu hơn trăm bông nữa mọi người.",
+    "Đây là ông chú giao diện 50 nhưng mà hệ điều hành mới có 20 thôi rồi nha."
+  ],
+  "hook_content": "Để này mọi người ăn sinh nhật Su Hoen với nhà mình nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình chuẩn bị bữa tiệc sinh nhật ấm cúng tại nhà cho bé Su Hoen với các món ăn tự làm như bánh mì khoai tây nướng, mì ý và thịt bò nướng, cùng với không khí trang trí vui vẻ, hạnh phúc.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hài hước"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu sườn bò Úc sốt vang đỏ của Nam Vlog.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Miêu tả cảm quan",
+      "desc": "Miêu tả hình dáng và làm nóng sườn bò.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi đói bụng."
+    },
+    {
+      "step": "Nếm thử và đánh giá",
+      "desc": "Nếm và đánh giá độ mềm, vị ngọt, cay và mùi rượu vang.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Đánh giá lại độ mềm, không khô của thịt và hương vị Âu.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử."
+    },
+    {
+      "step": "Chia sẻ cảm xúc",
+      "desc": "Nhấn mạnh món ăn ngon và muốn chia sẻ cho gia đình.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "mềm",
+    "thơm",
+    "ngọt",
+    "cay",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Thịt bò bên trong rất là mềm và không hề bị khô nha.",
+    "Khi ăn thì mọi người sẽ cảm nhận rõ được cái mùi rượu vang nha, cái mùi rượu vang rất là rõ luôn.",
+    "Cái nước sốt này nó sẽ thiên về vị âu hơn là vị Á."
+  ],
+  "hook_content": "Chào mọi người nha. Video hôm nay mình sẽ trải nghiệm sườn bò vang đỏ của Nam Vlog.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món sườn bò Úc sốt vang đỏ của Nam Vlog, tập trung vào trải nghiệm cá nhân về độ mềm của thịt, hương vị đặc trưng và mùi rượu vang. Người nói đánh giá cao món ăn và muốn chia sẻ cho gia đình.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

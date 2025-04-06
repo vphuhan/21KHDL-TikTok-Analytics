@@ -1,0 +1,86 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Học được món thịt khìa nước dừa và cách ăn cơm trộn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Chọn nguyên liệu",
+      "desc": "Chọn thịt có nạc và mỡ xen kẽ, dăm đầu giòn.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích."
+    },
+    {
+      "step": "Ướp thịt",
+      "desc": "Ướp thịt với tỏi, hành tím, nước mắm, đường, tiêu, tương ớt.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhớ công thức."
+    },
+    {
+      "step": "Khìa thịt",
+      "desc": "Đảo thịt cho thơm, săn lại rồi cho nước dừa vào rim.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn, muốn thử."
+    },
+    {
+      "step": "Thành phẩm thịt khìa",
+      "desc": "Thịt sánh kẹo, thơm ngon, vừa nạc vừa mỡ không ngấy.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Cơm trộn sốt",
+      "desc": "Trộn cơm với nước sốt còn lại, tạo thành cơm chiên.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ, thú vị."
+    },
+    {
+      "step": "Bữa cơm hoàn chỉnh",
+      "desc": "Giới thiệu bữa cơm có thịt khìa, cơm chiên, đậu hũ, canh.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm cúng, ngon miệng."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "cay cay",
+    "thơm",
+    "béo",
+    "đậm đà",
+    "ăn cuốn",
+    "no căng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Hôm nay mình học được cái món thịt khìa nước dừa, ta nói ăn nó ngon.",
+    "Nước sốt á thì đậm đà, thơm cay, mà quan trọng là mình học được cách á bỏ cơm vô cái phần nước sốt còn lại luôn, khi mình đảo qua, đảo lại, bật bếp lên nữa.",
+    "Vậy là có ngay một cái phần cơm chiên mà mình không nghĩ á là ăn nó ngon như vậy đâu."
+  ],
+  "hook_content": "Hôm nay mình học được cái món thịt khìa nước dừa, ta nói ăn nó ngon.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn nấu món thịt khìa nước dừa và chia sẻ cách tận dụng nước sốt để làm cơm chiên. Người nấu đánh giá món ăn rất ngon, đậm đà và đưa ra gợi ý kết hợp các món ăn khác cho bữa cơm gia đình.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

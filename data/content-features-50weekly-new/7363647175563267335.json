@@ -1,0 +1,92 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món thịt nướng đọt mây và quá trình đi hái.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị khi thấy nguyên liệu đặc biệt."
+    },
+    {
+      "step": "Giới thiệu nguyên liệu",
+      "desc": "Giới thiệu về đọt mây mua ở siêu thị và thịt bò.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về nguyên liệu lần đầu thấy."
+    },
+    {
+      "step": "Sơ chế",
+      "desc": "Hướng dẫn rửa và tước sơ đọt mây, cắt thịt bò.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với sự tỉ mỉ."
+    },
+    {
+      "step": "Chế biến",
+      "desc": "Cuộn thịt bò với đọt mây và chuẩn bị nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn với cách chế biến đơn giản."
+    },
+    {
+      "step": "Nướng",
+      "desc": "Nướng thịt bò cuộn đọt mây trên chảo.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng khi thấy món ăn chín."
+    },
+    {
+      "step": "Pha sốt",
+      "desc": "Hướng dẫn pha sốt nước tương đơn giản.",
+      "impact_level": "2",
+      "viewer_emotion": "Ghi nhớ công thức nước sốt."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Mời mọi người ăn và cảm nhận hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn thử ngay món ăn này."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mời mọi người ăn cơm tối chung với cả nhà mình nha.",
+    "Bây giờ mời mọi người ăn cơm với cả nhà của mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "ừm",
+    "ngọt",
+    "tốt",
+    "mập mạp"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ở Việt Nam bây giờ mọi người thấy tôi không mà có áo này chắc đổ mồ hôi giùm ha.",
+    "Cái này mà luộc sơ chấm với tương ớt ăn thì cũng nhức cái nách luôn á mọi người.",
+    "Không biết ở chỗ mọi người có thơm chưa chứ ở chỗ mình là thơm đổ mồ hôi miệng luôn rồi á."
+  ],
+  "hook_content": "nhà mình đều su ăn cùng đi lên núi kiếm đợt mây về làm bữa tối không?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm món thịt nướng đọt mây, một món ăn đặc biệt với nguyên liệu là đọt mây. Người làm chia sẻ quá trình chuẩn bị, chế biến và mời mọi người cùng thưởng thức.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

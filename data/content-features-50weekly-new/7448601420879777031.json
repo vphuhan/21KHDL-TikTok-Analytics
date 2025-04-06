@@ -1,0 +1,77 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Chuyển sang chế độ 'lụy' bánh mì Sài Gòn và review quán",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các quán bánh mì được giới thiệu."
+    },
+    {
+      "step": "Review Bánh Mì Hoàng Lan",
+      "desc": "Mô tả các loại nhân và cảm nhận về hương vị bánh mì",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và muốn ăn thử."
+    },
+    {
+      "step": "Review Bánh Mì Nướng Ớt Đỏ",
+      "desc": "Mô tả quy trình làm và các loại nhân, đánh giá hương vị",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với sự đa dạng của nhân bánh mì."
+    },
+    {
+      "step": "Cảm nhận chung",
+      "desc": "Nhận xét về giá cả và độ đầy đặn của bánh mì",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với mức giá rẻ so với chất lượng."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "phát điên",
+    "ngất",
+    "dễ thương",
+    "thèm",
+    "ngon",
+    "béo ngậy",
+    "vừa phải",
+    "ấm nóng",
+    "bùi",
+    "ổn",
+    "ngon quá"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Hãy nhìn cái chậu bơ này mà xem, trời ơi, ôi tôi phát điên.",
+    "Không hiểu cô chú lời kiểu gì luôn.",
+    "Mình chưa thấy bánh mì nướng ở đâu mà rẻ như ở đây luôn á, có 20.000đ một hộp."
+  ],
+  "hook_content": "đã chính thức chuyển sang cái chế độ lụy bánh mì Sài Gòn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video ghi lại nhật ký 30 ngày ở Sài Gòn của một người yêu thích bánh mì, trong đó người này đã review hai quán bánh mì nổi tiếng là bánh mì Hoàng Lan và bánh mì nướng ớt đỏ. Video tập trung mô tả chi tiết các loại nhân, hương vị và giá cả của từng loại bánh mì.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

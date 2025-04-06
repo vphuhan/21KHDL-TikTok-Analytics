@@ -1,0 +1,79 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món chả rươi và nỗi sợ của nhiều người.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Miêu tả món ăn",
+      "desc": "Miêu tả nguyên liệu và cách chế biến món chả rươi.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi ghê sợ"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá hương vị đặc biệt của món chả rươi.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Địa điểm quán ăn",
+      "desc": "Thông tin địa điểm quán ăn và lời khuyên nên thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn đi ăn thử"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người qua trải nghiệm thử nhá."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "sợ",
+    "nghiện",
+    "tươi",
+    "giỏi",
+    "bùi",
+    "ngọt",
+    "thơm",
+    "ngon",
+    "tiếc",
+    "ghê"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Món này có thấy nhiều người bảo là sợ không ăn được cái món này nhỉ?",
+    "Bạn nào mà không ăn được món này thì thật sự là rất là tiếc.",
+    "Bà bán nhìn đơn giản lắm mà ngon thật sự luôn ấy."
+  ],
+  "hook_content": "Món này có thấy nhiều người bảo là sợ không ăn được cái món này nhỉ?",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu món chả rươi, một món ăn đặc sản nhưng gây nhiều tranh cãi vì vẻ ngoài của nó. Người bán hàng khuyến khích mọi người nên thử món ăn này vì hương vị thơm ngon đặc biệt.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

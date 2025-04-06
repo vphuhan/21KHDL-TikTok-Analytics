@@ -1,0 +1,78 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu dâu Hàn Quốc và giá thành.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét về hương vị nhạt nhẽo, xốp của dâu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thất vọng"
+    },
+    {
+      "step": "So sánh giá trị",
+      "desc": "So sánh với dâu Mộc Châu và đánh giá về giá.",
+      "impact_level": "2",
+      "viewer_emotion": "Không hài lòng"
+    },
+    {
+      "step": "Đánh giá loại nhỏ",
+      "desc": "Đánh giá thêm loại dâu nhỏ, vẫn nhạt và xốp.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Khẳng định sẽ không mua lại và chấm điểm thấp.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thất vọng",
+    "tệ",
+    "nhạt",
+    "xốp",
+    "khó chấp nhận"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "ăn cái dâu Hàn Quốc này xong mới thấy cái dâu Mộc Châu Việt Nam nó đỉnh cỡ nào, nó ngon cỡ nào",
+    "như đấm vào mồm",
+    "mình xin phép là chấm 0,5/10, 0,5 là gọi là nó có mùi dâu đấy"
+  ],
+  "hook_content": "ăn cái dâu Hàn Quốc này xong mới thấy cái dâu Mộc Châu Việt Nam nó đỉnh cỡ nào, nó ngon cỡ nào.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "So sánh"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review dâu Hàn Quốc, so sánh với dâu Mộc Châu và đánh giá chất lượng dâu Hàn rất tệ so với giá tiền.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Khó chịu"
+  ]
+}

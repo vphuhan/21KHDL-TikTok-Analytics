@@ -1,0 +1,53 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Gọi món",
+      "desc": "Người bán hàng giới thiệu các món ăn và giá cả.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Người bán bắt đầu trộn rau và ớt vào bún mắm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Giới thiệu địa điểm",
+      "desc": "Hướng dẫn đường đi và thời gian mở cửa quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Bún mắm ăn kèm với đậu phộng được luôn hả?",
+    "Muốn ăn vào quán thì cứ tới đường Nguyễn Bá Loan rồi cứ đi quanh quanh đây.",
+    "Muốn ăn cứ đi đường Nguyễn Bá Loan tầm 7:00 nghe."
+  ],
+  "hook_content": "Ờ con tô bún mắm của con.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu quán bún mắm và bánh xèo trên đường Nguyễn Bá Loan, với giá cả phải chăng và hương vị hấp dẫn. Người bán hàng thân thiện và nhiệt tình.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

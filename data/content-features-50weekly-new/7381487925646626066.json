@@ -1,0 +1,93 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu mở đầu",
+      "desc": "Ngọc và Ánh giới thiệu về buổi mukbang gà hấp cùng nhau.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với sự xuất hiện của hai người."
+    },
+    {
+      "step": "Thưởng thức gà hấp",
+      "desc": "Cả hai bắt đầu ăn gà hấp, chia sẻ cảm nhận về món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món gà hấp."
+    },
+    {
+      "step": "Chia sẻ về Tina",
+      "desc": "Ánh và Ngọc trò chuyện về một người bạn tên Tina.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có nhiều cảm xúc."
+    },
+    {
+      "step": "Tiếp tục ăn và trò chuyện",
+      "desc": "Họ tiếp tục ăn, đút nhau ăn và trò chuyện vui vẻ.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy vui vẻ, ấm cúng."
+    },
+    {
+      "step": "Kết thúc và giải thích",
+      "desc": "Kết thúc video, giải thích lý do không đeo bao tay.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thông cảm."
+    },
+    {
+      "step": "Hậu trường",
+      "desc": "Ánh bực bội vì Ngọc ăn thịt, yêu cầu dọn dẹp.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ, cảm thấy drama."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Drama",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Chào mọi người, chào mọi người.",
+    "Chào mọi người, chào mọi người."
+  ],
+  "cta_type": [
+    "Follow kênh",
+    "Thích video",
+    "Bình luận",
+    "Chia sẻ"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngon quá",
+    "thấy hạnh phúc",
+    "bực bội"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Hôm nay á là hai tụi mình á giống như a vợ chồng mấy cặp bên Hàn Quốc vậy á. Vậy hả? Thấy hạnh phúc á.",
+    "Với lại mà Bả Ngọc xé ra á đồ ăn đó bớt ngon đi 50% á.",
+    "Tại Ngọc Bả Ngọc ở dưới quê á Bả Ngọc là người miền Tây cho nên là ăn uống á thoải mái lắm."
+  ],
+  "hook_content": "Ngọc xin lỗi. Tại sao mà tao đút cho mày ăn mày vẫn ăn.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại",
+    "Kịch hóa"
+  ],
+  "summarization": "Video ghi lại cảnh mukbang gà hấp của Ánh và Ngọc, cả hai vừa ăn vừa trò chuyện vui vẻ. Đoạn cuối hé lộ hậu trường khi Ánh bực bội vì Ngọc ăn quá nhiều thịt.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành",
+    "Bốc phốt"
+  ]
+}

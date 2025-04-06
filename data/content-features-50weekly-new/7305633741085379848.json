@@ -1,0 +1,54 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu quả mắc sim đặc sản Tây Bắc.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Miêu tả hương vị",
+      "desc": "Miêu tả vị chua đặc trưng và cảm nhận khi ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "chua",
+    "phê"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Quả mắc sim này thì ăn cực kỳ chua luôn, nhưng mà vị chua nó lạ lắm.",
+    "Chấm với muối ớt nữa ta nói trời ơi nó ăn là té à mà thôi, phê lắm nha."
+  ],
+  "hook_content": "Review cả thế giới quả mắc sim đặc sản Tây Bắc.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quả mắc sim đặc sản Tây Bắc, miêu tả vị chua đặc trưng và cảm giác 'phê' khi ăn kèm muối ớt.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món nhậu không tuổi, mô tả hương vị và độ ngon",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê và hướng dẫn chuẩn bị các nguyên liệu cần thiết",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Hướng dẫn sơ chế trứng gà, trứng bắc thảo, sữa đậu nành",
+      "impact_level": "1",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "Hấp trứng",
+      "desc": "Hướng dẫn hấp hỗn hợp trứng và sữa đậu nành",
+      "impact_level": "1",
+      "viewer_emotion": "Hóng kết quả"
+    },
+    {
+      "step": "Cắt và chiên",
+      "desc": "Hướng dẫn cắt thành miếng vừa ăn và chiên giòn",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ"
+    },
+    {
+      "step": "Hoàn thiện",
+      "desc": "Thêm mỡ hành, chà bông để hoàn thành món ăn",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "béo",
+    "mềm",
+    "bùi",
+    "phê",
+    "mặn mặn",
+    "nóng hổi",
+    "giòn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mấy ông mấy bà thử cho cái phần sữa đậu nành vào cái phần trứng bắp thảo đi, rồi mấy ông mấy bà sẽ thấy.",
+    "Món này tui đặt tên cho nó là món nhậu không tuổi nha. Không có tuổi nào mà sánh bằng nó luôn.",
+    "Nhìn ra một cái nó nóng hổi, cái vỏ bên ngoài nó hơi giòn nhẹ nhẹ, bên trong nó béo, nó mềm rồi nó có thêm cái phần bùi bùi của cái phần trứng bắp thảo nữa."
+  ],
+  "hook_content": "Mấy ông mấy bà thử cho cái phần sữa đậu nành vào cái phần trứng bắp thảo đi, rồi mấy ông mấy bà sẽ thấy.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món nhậu \"không tuổi\" từ trứng bắc thảo và sữa đậu nành, chiên giòn và thêm mỡ hành, chà bông. Món ăn có vị béo, bùi, mặn mà và lớp vỏ giòn hấp dẫn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

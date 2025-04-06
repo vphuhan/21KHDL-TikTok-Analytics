@@ -1,0 +1,64 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu chủ đề",
+      "desc": "Giới thiệu về top 3 lâu đài kinh dị ở Sài Gòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các địa điểm được nhắc đến."
+    },
+    {
+      "step": "Xếp hạng và so sánh",
+      "desc": "So sánh độ kinh dị của các lâu đài, tập trung vào top 1.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú với sự so sánh hài hước."
+    },
+    {
+      "step": "Miêu tả chi tiết",
+      "desc": "Miêu tả các yếu tố kinh dị và bất ngờ trong lâu đài.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung được không khí rùng rợn."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "kinh dị",
+    "bất ngờ",
+    "hết hồn",
+    "ma quái"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Clip trước thì con đã review về 18 tầng địa ngục và lâu đài kinh dị. Clip này xin phép nhường hàng quen lại cho top 1 lâu đài phép thuật.",
+    "Mới em tầng địa ngục hả? Hết hồn bình tĩnh vậy á?",
+    "Hoa biển ngạn xanh, tương lai banh chành."
+  ],
+  "hook_content": "Xin phép hạng top 3 lâu đài kinh dị đình đám tại Sài Gòn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Liệt kê",
+    "So sánh"
+  ],
+  "summarization": "Video giới thiệu top 3 lâu đài kinh dị ở Sài Gòn, tập trung vào đánh giá và so sánh độ kinh dị, đặc biệt là lâu đài phép thuật ở Suối Tiên.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

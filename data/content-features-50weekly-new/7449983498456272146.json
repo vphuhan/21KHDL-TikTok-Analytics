@@ -1,0 +1,87 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu bằng câu chuyện",
+      "desc": "Kể về trải nghiệm của ông để gây tò mò về sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu các vị của chè lam: gấc, lá nếp, mật.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét về độ ngọt, dẻo và hương thơm của chè lam.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "So sánh các vị",
+      "desc": "So sánh và chọn ra vị yêu thích nhất.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Đưa ra so sánh hài hước về độ \"bá\" của chè lam.",
+      "impact_level": "3",
+      "viewer_emotion": "Hài hước"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ai có nhu cầu thì mọi người cứ tìm là Hồi ức 1997 nhá",
+    "Bạn nhân viên nào mà phải chuẩn bị đồ cho cuộc họp ở công ty mà có sếp sủng ấy, anh em chơi cái này cho mình, nó cứ phải gọi là đoàn kết anh em luôn."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Chia sẻ"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "mềm",
+    "thích",
+    "dâu",
+    "ngọt",
+    "dẻo",
+    "nhè nhẹ",
+    "chiu chiu"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái này mà không đúng là chè lam ấy thì dự trù là mình phải đi tầm bốn kiếp, chưa hết cái tội của cái này đâu.",
+    "Mọi người chỉ cần ăn hết ba cái bánh chè lam này thôi, nó phải bố của Mi Wing luôn.",
+    "Bạn nhân viên nào mà phải chuẩn bị đồ cho cuộc họp ở công ty mà có sếp sủng ấy, anh em chơi cái này cho mình, nó cứ phải gọi là đoàn kết anh em luôn."
+  ],
+  "hook_content": "Mình có một người ông, ngày xưa ông mình sang Trung Quốc xong là bị giam lỏng, không ai cứu.",
+  "hook_type": [
+    "Kể chuyện",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review chè lam Hồi ức 1997 với các vị gấc, lá nếp, mật, được người review đánh giá cao về hương vị và độ mềm dẻo, đặc biệt phù hợp cho các dịp đặc biệt hoặc làm quà biếu.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

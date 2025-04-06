@@ -1,0 +1,88 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Đi viếng ông nội",
+      "desc": "Gia đình đi viếng ông nội Tùng Hân vào ngày đầu năm.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm động trước tình cảm gia đình."
+    },
+    {
+      "step": "Ăn trưa",
+      "desc": "Gia đình ghé quán ăn món thịt xào kê gần đó.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món Ttokbokki nấu để ăn mừng năm mới.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với món ăn truyền thống."
+    },
+    {
+      "step": "Nấu Ttokbokki",
+      "desc": "Thực hiện các bước nấu món Ttokbokki Hàn Quốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức muốn thử làm theo."
+    },
+    {
+      "step": "Trình bày món ăn",
+      "desc": "Trình bày món Ttokbokki năm màu đã hoàn thành.",
+      "impact_level": "3",
+      "viewer_emotion": "Thấy hấp dẫn và bắt mắt."
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng ăn Ttokbokki.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường, lịch sự."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Bây giờ mời mọi người ăn Ttokbokki chung với cả nhà mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "dễ thương",
+    "đáng yêu",
+    "đau lòng",
+    "thơm",
+    "mềm",
+    "đẹp"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Việt Nam mình những ngày Tết thì không thể nào thiếu thịt kho hột vịt, cũng giống như Hàn Quốc không thể nào thiếu Ttokbokki.",
+    "Ở Hàn mà thấy Ttokbokki này là thấy thêm một tuổi mới nữa rồi đó mọi người.",
+    "Bữa nay mình mua được cái loại Tteok năm màu này quá là đẹp luôn"
+  ],
+  "hook_content": "Bữa nay là ngày đầu năm mới, bọn mình thức thiệt là sớm để đi viếng ông nội Tùng Hân.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video ghi lại ngày đầu năm mới của một gia đình với các hoạt động đi viếng ông nội và cùng nhau nấu món Ttokbokki để ăn mừng. Video tập trung vào quá trình nấu ăn và giới thiệu món Ttokbokki.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

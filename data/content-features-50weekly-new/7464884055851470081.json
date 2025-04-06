@@ -1,0 +1,67 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán bún chả Tiết Loan ở Hàng Cây",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán ăn"
+    },
+    {
+      "step": "Đánh giá thịt nướng",
+      "desc": "Miêu tả chi tiết về miếng thịt nướng và hương vị",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi đói bụng"
+    },
+    {
+      "step": "Đánh giá nước dùng",
+      "desc": "Nhận xét về nước dùng chua ngọt của quán",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Tổng kết",
+      "desc": "Đánh giá chung và gợi ý trải nghiệm",
+      "impact_level": "2",
+      "viewer_emotion": "Cân nhắc"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "vừa phải",
+    "ok",
+    "hài hòa"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cái miếng thịt nó đầy đủ cả nạc, cả mỡ nhá, được tẩm ướp rất là vừa phải mà nướng nó không bị cháy quá, ăn miếng nào là miếng đấy ok nha.",
+    "Nếu như mọi người muốn ăn bún chả một cách nó đều đều nó hài hòa thì mọi người có thể đến đây trải nghiệm và dùng thử xem như thế nào nhé."
+  ],
+  "hook_content": "Cho rồi người ta biết gọi người ta gọi ở đây đi ạ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán bún chả Tiết Loan ở Hàng Cây, tập trung vào đánh giá thịt nướng và nước dùng. Đưa ra lời khuyên khách quan cho người xem.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Trung lập"
+  ]
+}

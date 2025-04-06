@@ -1,0 +1,95 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu cuộc thi",
+      "desc": "Giới thiệu cuộc thi quán đỉnh team khói lửa của Coca-Cola Foodmark.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cuộc thi và giải thưởng."
+    },
+    {
+      "step": "Giới thiệu quán ăn",
+      "desc": "Giới thiệu quán Busan Korean Food chi nhánh Nguyễn Thị Học.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với không gian và menu đa dạng."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Đánh giá chi tiết các món ăn đã gọi như cơm chiên, topokki.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy đói bụng và muốn thử ngay."
+    },
+    {
+      "step": "Đề xuất đồ uống",
+      "desc": "Gợi ý Coca-Cola khi ăn đồ Hàn và nhấn mạnh tốc độ phục vụ.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình với lựa chọn đồ uống."
+    },
+    {
+      "step": "Đánh giá giá cả",
+      "desc": "Nhấn mạnh giá cả hợp lý so với chất lượng món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy an tâm về giá trị nhận được."
+    },
+    {
+      "step": "Kêu gọi bình chọn",
+      "desc": "Đưa ra lý do để bình chọn và kêu gọi tham gia cuộc thi.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn tham gia bình chọn để nhận ưu đãi."
+    },
+    {
+      "step": "Hướng dẫn bình chọn",
+      "desc": "Hướng dẫn các bước tham gia bình chọn cho quán yêu thích.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy dễ dàng để tham gia."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Các bạn ơi hãy nhanh tay tham gia bình chọn quán đỉnh team khói lửa trên Coca-Cola Foodmark để nhận ngay những ưu đãi hấp dẫn trên GrabFood nha.",
+    "Vot liền ngay cho Busan Korean Food để chiến thắng trong cuộc đua của team khói lửa, vot liền nè."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "béo",
+    "thích",
+    "ghiền",
+    "no nê",
+    "vui"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mà nói cái gì thì nói, chất lượng đồ ăn ngon thì chiến thắng nó mới vẻ vang chứ.",
+    "Cứ làm một cái ngụm Coca-Cola xong, ờ một cái thôi là tôi chén sạch nguyên một cái bàn này cho mà coi.",
+    "giá rẻ nhưng mà chất lượng món ăn thì khá là chất lượng"
+  ],
+  "hook_content": "Nghe đồn là có một cuộc đua mới đang diễn ra trong làng ẩm thực, mọi người đã biết chưa?",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video giới thiệu quán Busan Korean Food và kêu gọi mọi người tham gia bình chọn cho quán trong cuộc thi Foodmark của Coca-Cola để nhận ưu đãi trên GrabFood. Người nói đánh giá cao chất lượng món ăn, giá cả hợp lý và không gian quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

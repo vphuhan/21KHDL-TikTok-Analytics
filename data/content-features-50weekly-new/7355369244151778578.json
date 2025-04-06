@@ -1,0 +1,83 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người ăn chay, ăn healthy",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Khẳng định việc ăn chay và đáp trả những bình luận tiêu cực.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về phản ứng của người nói."
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món đậu hũ ki cuộn nấm kim châm chiên.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy món ăn có vẻ đơn giản."
+    },
+    {
+      "step": "Hướng dẫn sơ chế",
+      "desc": "Hướng dẫn cuộn nấm kim châm với đậu hũ ki.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, dễ hình dung."
+    },
+    {
+      "step": "Hướng dẫn chiên",
+      "desc": "Hướng dẫn chiên đậu hũ ki cuộn nấm kim châm.",
+      "impact_level": "2",
+      "viewer_emotion": "Lo lắng dầu sẽ bị văng."
+    },
+    {
+      "step": "Làm sốt",
+      "desc": "Hướng dẫn làm nước sốt để rưới lên món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn hơn."
+    },
+    {
+      "step": "Hoàn thiện",
+      "desc": "Trộn đậu hũ ki với sốt và thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn ăn thử ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ không thích tôi thì cũng phải like cho tôi đó nha."
+  ],
+  "cta_type": [
+    "Thích video"
+  ],
+  "emotion_keywords": [
+    "sáng tạo",
+    "lạ",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ăn chay chứ không phải đi tu",
+    "cái tâm mà ăn chay mà mày còn nghĩ tới thịt gà",
+    "cuộn nấm kim châm với lại đậu hủ ki lăng qua lăng lại cho tôi rồi bới cơm ăn ngon dữ lắm"
+  ],
+  "hook_content": "Xin nhắc lại một lần nữa ăn chay chứ không phải đi tu.",
+  "hook_type": [
+    "Gây tranh cãi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món đậu hũ ki cuộn nấm kim châm chiên chay một cách đơn giản và nhanh chóng, đồng thời đáp trả những bình luận tiêu cực về việc ăn chay.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước",
+    "Khó chịu"
+  ]
+}

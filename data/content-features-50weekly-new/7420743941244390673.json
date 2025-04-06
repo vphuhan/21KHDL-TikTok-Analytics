@@ -1,0 +1,86 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu siêu thị",
+      "desc": "Siêu thị giá rẻ, nhiều khách Tây vì giá chỉ bằng một nửa.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về địa điểm."
+    },
+    {
+      "step": "So sánh giá cả",
+      "desc": "So sánh giá rau củ, đùi gà, chân gà với chợ và siêu thị.",
+      "impact_level": "3",
+      "viewer_emotion": "Ngạc nhiên vì giá quá rẻ."
+    },
+    {
+      "step": "Đánh giá không gian",
+      "desc": "Miêu tả khách đông, nhân viên thu ngân làm việc mệt mỏi.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin khách quan."
+    },
+    {
+      "step": "Gợi ý món ăn",
+      "desc": "Gợi ý mì tôm ngao giá rẻ, xịn hơn ngoài quán nét.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích."
+    },
+    {
+      "step": "So sánh giá nước",
+      "desc": "So sánh giá Red Bull và nước ngọt với bên ngoài.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy có lợi nếu mua ở đây."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Siêu thị có nhiều mặt hàng giá tốt, nên đến xem trực tiếp.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn đến xem thử."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mọi người qua xem tận nơi nha"
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "giá ngã ngửa",
+    "thiên đường"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Rau củ quả chỉ 2 đến 3.000 một mớ.",
+    "Sinh viên cuối tháng hết tiền không biết ăn gì vào đây đúng là thiên đường.",
+    "thêm gói mì tôm 2.000 như này nữa thì sẽ tạo ra bát mì tôm ngao 10.000, xịn hơn ở ngoài quán nét."
+  ],
+  "hook_content": "Siêu thị duy nhất có rất nhiều khách Tây đến mua vì giá ở đây chỉ bằng một nửa so với ngoài thị trường.",
+  "hook_type": [
+    "Gây tò mò",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "So sánh"
+  ],
+  "summarization": "Video giới thiệu một siêu thị giá rẻ tại Hà Nội, nơi có nhiều mặt hàng giá tốt, đặc biệt phù hợp với sinh viên và những người muốn tiết kiệm chi phí. Video tập trung so sánh giá cả với các địa điểm khác và đưa ra gợi ý món ăn giá rẻ.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

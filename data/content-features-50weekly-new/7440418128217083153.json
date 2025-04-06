@@ -1,0 +1,100 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về các loại đồ thúi, chao thúi được tặng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món đồ thúi được giới thiệu."
+    },
+    {
+      "step": "Thử chao thúi",
+      "desc": "Thử thách ăn chao thúi và miêu tả mùi vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy ghê sợ và buồn cười."
+    },
+    {
+      "step": "Đánh giá sản phẩm khác",
+      "desc": "Đánh giá trà cỏ và matcha, kết hợp với chao thúi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị về sự kết hợp kỳ lạ."
+    },
+    {
+      "step": "Thử kết hợp",
+      "desc": "Thử ăn hột vịt thúi, đậu hũ thúi và chao thúi cùng lúc.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy kinh dị và buồn cười."
+    },
+    {
+      "step": "So sánh",
+      "desc": "So sánh độ thúi của các món và đánh giá chung.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ khác biệt giữa các món."
+    },
+    {
+      "step": "Giới thiệu matcha",
+      "desc": "Giới thiệu và đánh giá trà matcha và trà lài.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử các loại trà được giới thiệu."
+    },
+    {
+      "step": "Giải thích lý do",
+      "desc": "Giải thích lý do chọn địa điểm quay và kết thúc video.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thông cảm với người quay."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ai mà can đảm ăn hũ chao thúi này, em gửi cho anh.",
+    "Mọi có thể tới đậu hũ nhà họ La uống thử hai cái này."
+  ],
+  "cta_type": [
+    "Ăn cùng",
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "thúi",
+    "ghê",
+    "kinh khủng",
+    "ngon",
+    "thơm",
+    "béo",
+    "mặn mà",
+    "nhức đầu",
+    "ói"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trên vũ trụ không có cái món gì mà thúi như cái ồi ơi thúi quá mọi người ơi.",
+    "Nó vừa thúi mà nó vừa ìn mà nó vừa ợ được luôn.",
+    "Thúi kinh khủng, thúi đinh tai nhức óc thúi gọi là lệ sầu sầu thảm, thúi rồi tới đó gọi là như muôn vì tinh tú lấp lánh luôn."
+  ],
+  "hook_content": "Hôm nay nhà Tina cho anh tin.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review món chao thúi và các món thúi khác, đồng thời đánh giá trà matcha và trà lài tại quán đậu hũ nhà họ La. Người review thể hiện cảm xúc chân thật và hài hước khi trải nghiệm các món ăn.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Chân thành",
+    "Ngạc nhiên",
+    "Khó chịu"
+  ]
+}

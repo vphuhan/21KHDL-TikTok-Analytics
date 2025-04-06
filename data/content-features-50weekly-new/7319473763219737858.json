@@ -1,0 +1,73 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu thùng đá mini mới nhập về chi nhánh Trần Hưng Đạo.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm mới."
+    },
+    {
+      "step": "Mô tả chi tiết",
+      "desc": "Thùng đá giữ lạnh lâu, có ba màu xinh xắn, dung tích 1.5 lít.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy sản phẩm có vẻ tiện lợi."
+    },
+    {
+      "step": "Thông báo giá và combo",
+      "desc": "Bán combo kèm trà sữa trân châu hoàng kim giá 65 cành.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến giá cả và ưu đãi."
+    },
+    {
+      "step": "Chốt đơn",
+      "desc": "Có bán lẻ, mời ghé Quận Nhất để mua và thể hiện tình cảm.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy được mời gọi đến mua hàng."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ghé Quận Nhất để mua nha, mãi yêu."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "dễ thương",
+    "xinh",
+    "mãi yêu"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái thùng đá mini này á dễ thương quá nên tôi nhập về.",
+    "Tôi bán combo kèm trà sữa trân châu hoàng kim luôn á là 65 cành.",
+    "Mấy bà mua lẻ tôi vẫn bán luôn nha."
+  ],
+  "hook_content": "Ê mấy bà à, cái thùng đá mini này á dễ thương quá nên tôi nhập về chi nhánh Trần Hưng Đạo bán nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu thùng đá mini dễ thương được bán kèm combo trà sữa trân châu hoàng kim tại chi nhánh Trần Hưng Đạo, Quận 1. Thùng có ba màu xinh xắn, giữ lạnh lâu và có bán lẻ.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

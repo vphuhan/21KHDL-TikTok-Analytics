@@ -1,0 +1,87 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món xương hầm sốt táo kết hợp bánh bột chiên.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị độc đáo của món ăn."
+    },
+    {
+      "step": "Sơ chế xương",
+      "desc": "Hướng dẫn chọn và sơ chế xương lưng để loại bỏ mùi hôi.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy đây là một bước cần thiết."
+    },
+    {
+      "step": "Hầm xương",
+      "desc": "Hướng dẫn hầm xương với các loại gia vị cho mềm.",
+      "impact_level": "1",
+      "viewer_emotion": "Mong chờ xương mềm và thấm vị."
+    },
+    {
+      "step": "Làm bánh bột chiên",
+      "desc": "Hướng dẫn trộn bột, ủ men và tạo hình bánh bột.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hứng thú với công thức bánh."
+    },
+    {
+      "step": "Làm nước sốt",
+      "desc": "Hướng dẫn pha nước sốt với nhiều loại gia vị.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy công thức có vẻ phức tạp."
+    },
+    {
+      "step": "Hoàn thiện món ăn",
+      "desc": "Nấu sốt với xương hầm và thưởng thức.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng khi nhìn món ăn hoàn thành."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Cả gia đình cùng ăn và đánh giá món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với không khí gia đình vui vẻ."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "lạ miệng",
+    "mặn mặn",
+    "ngọt ngọt",
+    "cay cay",
+    "thèm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "vừa ngon vừa lạ miệng, ăn nó kiểu mặn mặn ngọt ngọt cay cay á mọi người",
+    "Mà nấu cái món này là nhà mình không ai ăn cơm luôn á, gặm xương thôi cũng no",
+    "ăn xong rồi là thấy nó ngon dính tới giờ luôn"
+  ],
+  "hook_content": "Bình thường mà nhà có mớ xương này thì mọi người sẽ mang đi làm món gì, hầm nấu canh hả?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món xương hầm sốt táo ăn kèm bánh bột chiên, bắt đầu bằng việc sơ chế xương, hầm xương mềm, sau đó làm bánh bột chiên và nước sốt táo đặc biệt, cuối cùng kết hợp tất cả lại và thưởng thức.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

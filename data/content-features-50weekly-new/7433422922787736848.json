@@ -1,0 +1,89 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán ăn",
+      "desc": "Giới thiệu quán bún chả que tre ở phố cổ Hà Nội.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn biết địa chỉ quán."
+    },
+    {
+      "step": "Gọi món",
+      "desc": "Gọi hai suất bún chả lẫn và nem rán.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Chia sẻ trải nghiệm",
+      "desc": "Quán tủ, sợ đông khách nên không muốn quay.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự chân thật."
+    },
+    {
+      "step": "Nhận xét về không gian",
+      "desc": "Vỉa hè, bàn hơi bẩn, mưa dễ ướt.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thông tin hữu ích."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Nước chấm nhẹ nhàng, chả cuốn lá sương sông.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng hương vị món ăn."
+    },
+    {
+      "step": "Nhấn mạnh điểm đặc biệt",
+      "desc": "Chả nướng trên bếp than, nem rán ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy rất hấp dẫn."
+    },
+    {
+      "step": "Tạm biệt chủ quán",
+      "desc": "Chúc quán đông khách, hẹn gặp lại.",
+      "impact_level": "1",
+      "viewer_emotion": "Ấn tượng với sự thân thiện."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giới thiệu toàn thể anh em bà con nhá. Đây là quán bún chả que tre, khá là ngon ở trên phố nhá."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "thèm",
+    "ngon",
+    "thơm",
+    "mê"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Phải quay cho nó kiểu khói lửa cho nó nhìn nó thèm đấy.",
+    "Cái quán bún chả này là một trong những cái quán hàng ỉm của tôi, tức là không bao giờ muốn quay. Vì quay xong thì sợ đông quá lúc mình tới ăn thì lại đợi lâu.",
+    "Nước mắm thì nhẹ nhàng, không phải là cái vị mà đậm đà quá đâu. Kiểu là nhẹ nhàng thoang thoảng mà vị rất là văn minh."
+  ],
+  "hook_content": "Cháu có hai người, cho cháu hai suất lẫn nhá.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán bún chả que tre ở phố cổ Hà Nội, tập trung vào hương vị đặc trưng của món ăn và không gian quán vỉa hè. Người quay chia sẻ đây là quán tủ và sợ đông khách nếu review.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ốc núi và chia sẻ lý do đến giờ mới thử.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về món ăn được giới thiệu."
+    },
+    {
+      "step": "Mô tả chi tiết",
+      "desc": "Mô tả giá cả, hình dáng và trải nghiệm ngâm ốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi ghê sợ vì ốc có nhiều nhớt."
+    },
+    {
+      "step": "Bí quyết chế biến",
+      "desc": "Chia sẻ bí quyết luộc ốc với sinh tố lúa mạch để hết nhớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích với mẹo luộc ốc."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Ăn ốc với muối ớt tiêu và mô tả hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng muốn ăn thử."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá hương vị đầu và đuôi ốc, độ dai, giòn, mùi vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tưởng tượng về hương vị của ốc."
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Khuyên mọi người nên thử món ốc núi.",
+      "impact_level": "1",
+      "viewer_emotion": "Cân nhắc việc tìm mua ốc núi."
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng ăn ốc.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy được mời tham gia bữa ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Bữa nào mọi người gặp thì mua về ăn thử nhen."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "dai",
+    "ngọt",
+    "giòn",
+    "thơm mùi thảo mộc",
+    "nhẵn nhẵn",
+    "béo béo",
+    "lạ miệng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tôi nghe nói con ốc này chỉ ăn toàn thảo dược nên là ăn rất tốt cho sức khỏe luôn.",
+    "Tôi là tôi ngâm ớt cũng 5 tiếng đồng hồ mà lúc chà nó không hết nhớt nổi luôn.",
+    "Cảm nhận của tôi cái phần đầu ốc dai, ngọt mà giòn lắm."
+  ],
+  "hook_content": "Hello mọi người, lại là tôi Mật Bợ thích nấu ăn đây. Nay mọi người cùng tôi ăn thử ốc núi nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món ốc núi luộc sả, chia sẻ trải nghiệm từ lúc mua, sơ chế đến khi thưởng thức. Kênh Mật Bợ thích nấu ăn cũng không quên chia sẻ bí quyết luộc ốc không bị nhớt và đánh giá hương vị đặc trưng của món ăn này.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

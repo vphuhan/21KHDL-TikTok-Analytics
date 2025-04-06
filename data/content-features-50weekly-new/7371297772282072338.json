@@ -1,0 +1,82 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu xe cá viên nhỏ, ít khách, bán lâu năm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán ăn vắng khách này."
+    },
+    {
+      "step": "Gọi món",
+      "desc": "Hỏi han chú bán về các loại cá viên, giá cả.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, nắm bắt thông tin."
+    },
+    {
+      "step": "Miêu tả món ăn",
+      "desc": "Miêu tả dầu chiên vàng, rau tươi ngon, có phô mai.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn hơn, muốn ăn thử."
+    },
+    {
+      "step": "Phỏng vấn chủ quán",
+      "desc": "Hỏi về thời gian bán, thời gian mở bán.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, tìm hiểu thêm thông tin."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Ăn thử và miêu tả vị sốt, độ ngậy, vị chiên mắm.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi thèm, muốn ăn thử cá viên chiên mắm."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Đánh giá vị ngon, cảm giác bỏ nhiều dầu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị đặc biệt."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mấy bạn có a ghé qua đây xe cá viên chiên của chú Phúc nè để ủng hộ chú nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "béo",
+    "thơm",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Xe cá viên vắng nhất, không có khách duy nhất cả con đường ăn vặt.",
+    "Nhiều khi mình cảm thấy là bỏ hơi nhiều dầu một chút, nhưng mà ăn cái vị của chiên mắm á không ngon bằng."
+  ],
+  "hook_content": "Không tất cả các xe cá viên chiên ở đây thì xe của chú này là nhỏ nhất và ít nhất.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video giới thiệu xe cá viên chiên của một chú lớn tuổi bán đã lâu năm nhưng vắng khách. Người quay đã phỏng vấn chú về các loại cá viên, giá cả và ăn thử món chiên mắm đặc biệt.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

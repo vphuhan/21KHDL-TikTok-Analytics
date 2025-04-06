@@ -1,0 +1,91 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món pate truyền thống và pate trứng muối tự làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách làm."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê và sơ chế các nguyên liệu như thịt, da heo, trứng muối.",
+      "impact_level": "1",
+      "viewer_emotion": "Cần chuẩn bị nguyên liệu."
+    },
+    {
+      "step": "Ướp thịt",
+      "desc": "Hướng dẫn cách ướp thịt với các loại gia vị đặc trưng.",
+      "impact_level": "2",
+      "viewer_emotion": "Ghi chú lại công thức ướp."
+    },
+    {
+      "step": "Dồn pate",
+      "desc": "Hướng dẫn cách dồn thịt đã ướp vào bong bóng heo.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hơi phức tạp."
+    },
+    {
+      "step": "Hấp pate",
+      "desc": "Hướng dẫn hấp pate và sơ pate trong quá trình hấp.",
+      "impact_level": "1",
+      "viewer_emotion": "Chờ đợi thành phẩm."
+    },
+    {
+      "step": "Thành phẩm",
+      "desc": "Giới thiệu pate sau khi hấp và bảo quản trong tủ lạnh.",
+      "impact_level": "3",
+      "viewer_emotion": "Thấy hấp dẫn và thèm ăn."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Mời mọi người cùng thưởng thức món bánh mì pate.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn làm thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Cuối tuần này mà chưa biết làm món gì á thì cả nhà triển thử món này nha.",
+    "Giờ thì Hưng mời cả nhà cùng thưởng thức món bánh mì pate này á với gia đình Hưng nha."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thành công",
+    "thơm",
+    "hấp dẫn",
+    "hồi hộp"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Công thức làm pate truyền thống và pate trứng muối, ngon bất bại luôn nha cả nhà.",
+    "Đây là lần đầu tiên Hưng làm á mà còn thành công. Thì Hưng tin cả nhà mình á ai cũng sẽ làm được.",
+    "Món này ở chỗ Hưng á còn được gọi là dồi muội, mỗi vùng có một cái tên gọi khác nhau hay sao á Hưng không biết nữa."
+  ],
+  "hook_content": "Công thức làm pate truyền thống và pate trứng muối, ngon bất bại luôn nha cả nhà.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn chi tiết cách làm pate truyền thống và pate trứng muối tại nhà, từ khâu chuẩn bị nguyên liệu, ướp thịt, dồn pate, hấp cho đến khi hoàn thành. Người làm chia sẻ kinh nghiệm cá nhân và khuyến khích mọi người thử làm theo.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

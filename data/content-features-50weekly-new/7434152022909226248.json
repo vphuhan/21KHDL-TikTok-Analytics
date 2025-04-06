@@ -1,0 +1,71 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán cơm Huệ béo ở Hồ Xuân Hương và các món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán ăn và các món ăn."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Đánh giá chi tiết các món ăn như thịt rán, dạ dày luộc...",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với các đánh giá chi tiết."
+    },
+    {
+      "step": "Nhận xét chung",
+      "desc": "Tổng kết lại trải nghiệm về đồ ăn và cô chủ quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy muốn ghé thăm quán."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mọi người có thể đến đây trải nghiệm và dùng thử xem như thế nào nhé."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "giòn rụm",
+    "mềm",
+    "ngon hết nước chấm",
+    "chuẩn bài",
+    "béo",
+    "sướng",
+    "thơm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái này thì ngon hơn mẹ tôi làm.",
+    "Dạ dày thì được luộc vừa tới, nó giòn sần sật xong chấm với cái mắm ớt cứ phải gọi là ngon hết nước chấm.",
+    "Thịt viên sốt cà chua cô làm to dã man, ăn nó sướng hết cả cái mồm."
+  ],
+  "hook_content": "ăn giúp cháu cơm và bát này đúng không?",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán cơm Huệ Béo ở Hồ Xuân Hương, Hà Nội, tập trung vào các món ăn đặc trưng như thịt rán, dạ dày luộc, và thịt viên sốt cà chua. Người đánh giáReviewer đánh giá cao hương vị và sự nhiệt tình của cô chủ quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

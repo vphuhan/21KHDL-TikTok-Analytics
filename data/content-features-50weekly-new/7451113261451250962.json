@@ -1,0 +1,92 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Hỏi hàng",
+      "desc": "Hỏi về loại bánh, số lượng và giá cả của bánh mì bơ sữa.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Mua hàng",
+      "desc": "Mua hết số bánh còn lại và yêu cầu chia ra để ăn tại chỗ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Thông tin bán hàng",
+      "desc": "Hỏi về thời gian bán và địa điểm bán bánh mì bơ sữa.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá bánh",
+      "desc": "Đánh giá bánh mì bơ sữa ngon, gợi nhớ hương vị xưa.",
+      "impact_level": "3",
+      "viewer_emotion": "Hào hứng"
+    },
+    {
+      "step": "Thông tin thêm",
+      "desc": "Hỏi về quãng đường di chuyển và thu nhập của người bán.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Hướng dẫn mua",
+      "desc": "Thông tin địa điểm và cách thức liên hệ để mua bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Truyền thống",
+    "Gen Z"
+  ],
+  "cta_content": [
+    "Ai mà muốn ăn í thì có thể gọi điện cho anh.",
+    "Nếu mà cuối tuần mà muốn ăn bánh í thì xin phải gọi điện cho anh ấy nhá."
+  ],
+  "cta_type": [
+    "Ăn cùng",
+    "Ghé thăm địa điểm",
+    "Follow kênh"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "dã man",
+    "giòn",
+    "mềm",
+    "kinh khủng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Thật sự là cái bánh mỳ bơ sữa ngày nó ngon kinh khủng luôn á.",
+    "Khi mà mua bánh í thì anh ấy sẽ nướng lại, ăn cái bánh nó sộc lên cái mùi bơ thơm dã man mà nó giòn í.",
+    "15 năm rồi em mới được ăn lại cái bánh này."
+  ],
+  "hook_content": "Anh bán bánh mỳ bơ sữa hả anh? Con mấy cái hả anh? Năm cái.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm",
+    "Đối thoại"
+  ],
+  "summarization": "Video review bánh mì bơ sữa của một người bán hàng rong, bánh được nướng lại nên rất thơm ngon và gợi nhớ hương vị tuổi thơ. Người bán hàng rong bán bánh ở khu vực Bách Khoa.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

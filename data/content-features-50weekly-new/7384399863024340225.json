@@ -1,0 +1,95 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Thấy món sườn cốt tokbokki lạ nên làm thử xem có ngon không.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Giới thiệu nguyên liệu",
+      "desc": "Giới thiệu các nguyên liệu làm món sườn cốt tokbokki.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thực hiện món ăn",
+      "desc": "Luộc sườn với muối, hành để làm món sườn cốt tokbokki.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Nhận xét món sườn cốt tokbokki là món xôi thịt, rất ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Gợi ý",
+      "desc": "Gợi ý có thể ăn sườn cốt tokbokki với cơm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Review nước súc miệng",
+      "desc": "Review nước súc miệng của Hàn Quốc, không cồn, thơm mát.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Tính toán chi phí",
+      "desc": "Tính toán chi phí làm món sườn cốt tokbokki là 160.000.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ăn xong nhớ xúc miệng cho nó thơm tho ha."
+  ],
+  "cta_type": [
+    "So sánh"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "béo béo",
+    "ngậy ngậy",
+    "thơm tho",
+    "thơm",
+    "dịu nhẹ",
+    "ngọt",
+    "lạ miệng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Thực sự là một cái món xôi thịt mọi người ạ. Rất ngon.",
+    "Cái món này ăn nó ngon, lạ miệng, nhưng mà làm hơi mệt mọi người ạ.",
+    "Tôi tò mò, bạn cũng thế."
+  ],
+  "hook_content": "thấy cái món sườn cốt Topo này lạ quá.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video review món sườn cốt tokbokki lạ miệng, hướng dẫn cách làm và chia sẻ trải nghiệm cá nhân về hương vị, đồng thời giới thiệu thêm nước súc miệng của Hàn Quốc.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

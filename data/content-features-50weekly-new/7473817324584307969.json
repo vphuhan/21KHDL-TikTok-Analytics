@@ -1,0 +1,92 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu bằng thử thách",
+      "desc": "Giới thiệu thử thách ăn hết tô bánh và hỏi ý kiến chú bán bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về khả năng hoàn thành thử thách."
+    },
+    {
+      "step": "Đánh giá khách quan",
+      "desc": "Nhấn mạnh kích thước thật của tô bánh khác với vẻ bề ngoài.",
+      "impact_level": "2",
+      "viewer_emotion": "Bất ngờ về kích thước thực tế của tô bánh."
+    },
+    {
+      "step": "Giới thiệu xe bánh",
+      "desc": "Mô tả xe bánh sạch sẽ, giá rẻ, và địa điểm bán hàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng về sự sạch sẽ và giá cả phải chăng."
+    },
+    {
+      "step": "Đánh giá chi tiết bánh",
+      "desc": "Miêu tả nhân bánh đầy đặn, vỏ bánh giòn, và tương xí muội ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử ngay lập tức."
+    },
+    {
+      "step": "Nguồn gốc bánh",
+      "desc": "Chia sẻ công thức gia truyền của vợ chú và số lượng bánh làm mỗi ngày.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm động trước câu chuyện gia đình."
+    },
+    {
+      "step": "Kêu gọi ủng hộ",
+      "desc": "Khuyến khích mọi người ghé mua bánh ủng hộ chú.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ủng hộ chú bán bánh."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Chào tạm biệt và giới thiệu tên kênh.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người có đi ngang thì ghé mua bánh ủng hộ chú với ngen."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "đầy ụ",
+    "giòn",
+    "ngọt",
+    "cay"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nhìn vậy chứ nó không phải vậy.",
+    "Bánh cái nào cái nấy cũng nhân đầy úụ, có nấm mèo, thịt băm, trứng cút.",
+    "Tương xí muội chú làm thì chú chú ngọt ngọt, cay cay nhẹ ăn chung với bánh không có bị ngát."
+  ],
+  "hook_content": "đâu, chắc con hỏi là nếu bây giờ được chọn mà một số mà chú thích thì chú sẽ chọn số mấy?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review xe bánh xếp nhỏ của chú Huỳnh trước cổng trường Nguyễn Đình Chiểu, với giá cả phải chăng và hương vị đặc biệt do vợ chú làm theo công thức gia truyền. Người quay phim thực hiện thử thách ăn hết tô bánh xếp.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

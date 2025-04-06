@@ -1,0 +1,95 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu cua hoàng đế và lý do đặc biệt để ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn đắt tiền."
+    },
+    {
+      "step": "Sơ chế",
+      "desc": "Mô tả cách sơ chế cua hoàng đế đơn giản tại nhà.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy hữu ích với thông tin sơ chế."
+    },
+    {
+      "step": "Hấp cua",
+      "desc": "Chia sẻ khó khăn khi hấp cua do nồi quá nhỏ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy đồng cảm với khó khăn gặp phải."
+    },
+    {
+      "step": "Thưởng thức phần chân",
+      "desc": "Bắt đầu thưởng thức và nhận xét về phần chân cua.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng khi thấy thịt cua."
+    },
+    {
+      "step": "Thưởng thức phần thân",
+      "desc": "Tiếp tục thưởng thức và đánh giá phần thân cua.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với phần thịt cua hấp dẫn."
+    },
+    {
+      "step": "Trộn cơm",
+      "desc": "Trộn cơm với nước cua và thịt để tăng hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy lạ với cách ăn độc đáo."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Đánh giá cuối cùng và lời chúc năm mới.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy vui vẻ và được truyền cảm hứng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Ăn xong cái này mọi người giữ lại cái vỏ giúp mình, để bữa sau mình nấu rau với lại nấu cháo, thỉnh thoảng ninh lấy nước.",
+    "Chúc cho ai xem được video này một năm mới thật thành công, thật rực rỡ, thật phát đạt, thật nhiều sức khỏe. Happy New Year."
+  ],
+  "cta_type": [
+    "Follow kênh",
+    "Chia sẻ",
+    "Lưu video"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngọt",
+    "tanh tách",
+    "cháy cháy",
+    "thèm thuồng",
+    "háo hức"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cua hoàng đế trong truyền thuyết ấy. Không tin là có một ngày mình được ăn món này.",
+    "Mình không biết mọi người nghĩ thế nào nhưng mà cá nhân mình thấy là đúng là tiền nào của nấy, thịt cua nè.",
+    "Hôm nay nhà không có gì, có mỗi tí cơm với lại tí thịt, ăn tạm chống đói qua ngày."
+  ],
+  "hook_content": "Cuối cùng thì mình cũng đã ăn cua hoàng đế rồi mọi người ạ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review trải nghiệm ăn cua hoàng đế nhân dịp đặc biệt, từ công đoạn sơ chế, hấp đến thưởng thức và đánh giá hương vị, đồng thời chia sẻ những cảm xúc chân thật khi lần đầu được ăn món ăn đắt tiền này. Cuối video là lời chúc năm mới gửi đến người xem.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

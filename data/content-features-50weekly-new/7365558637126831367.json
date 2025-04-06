@@ -1,0 +1,67 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu về việc review túi nhân phẩm và sự bất ngờ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về nội dung review."
+    },
+    {
+      "step": "Mở hộp đơn hàng 1",
+      "desc": "Nhận xét về túi giấy và các sản phẩm son mini.",
+      "impact_level": "2",
+      "viewer_emotion": "Thắc mắc về cách đóng gói."
+    },
+    {
+      "step": "Mở hộp đơn hàng 2",
+      "desc": "Đánh giá hũ dưỡng môi và son con thỏ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sản phẩm mới."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Nhận xét về trải nghiệm xui xẻo với các đơn hàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với trải nghiệm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "bất ngờ",
+    "kỳ lạ",
+    "xui"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Túi nhân phẩm vậy là vậy là suy nghĩ là có thể là nhân phẩm của mình yếu kém rồi đó.",
+    "Mua cái túi vậy bỏ son ra ngoài rồi bỏ cái túi riêng ra vậy nói chi trời.",
+    "Có điều hai cái đơn này của tôi tôi thấy nó xui cả na sáu mấy bà."
+  ],
+  "hook_content": "Review túi nhân phẩm của thư bán son phần hai và cái kết bất ngờ.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review túi nhân phẩm từ một shop bán son, người mua gặp phải tình huống đóng gói kỳ lạ và đánh giá các sản phẩm nhận được, cảm thấy không may mắn với các đơn hàng này.",
+  "tone_of_voice": [
+    "Ngạc nhiên",
+    "Hài hước",
+    "Khó chịu"
+  ]
+}

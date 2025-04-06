@@ -1,0 +1,81 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ốc bươu hấp muối sốt tiêu xanh tự làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy tò mò về món ăn mới."
+    },
+    {
+      "step": "Sơ chế ốc",
+      "desc": "Hướng dẫn cách làm sạch ốc bươu để loại bỏ nhớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích với mẹo làm sạch ốc."
+    },
+    {
+      "step": "Hấp ốc",
+      "desc": "Hướng dẫn cách hấp ốc với muối để giữ vị ngọt.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy đây là một bước đơn giản."
+    },
+    {
+      "step": "Pha nước chấm",
+      "desc": "Giới thiệu chén mắm xả ớt ăn kèm ốc hấp.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thèm ăn hơn."
+    },
+    {
+      "step": "Thưởng thức và đánh giá",
+      "desc": "Miêu tả hương vị thơm ngon của ốc và sốt tiêu xanh.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy rất hấp dẫn và muốn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Ốc bươu hấp muối sốt tiêu xanh mời mọi người nhen😍❤️"
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngọt",
+    "ngon",
+    "thơm",
+    "cay thơm",
+    "dai ngọt",
+    "thèm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ốc bu mà đem đi hấp muối là con ốc của mình nó ngọt, không có bị teo mà còn kết hợp với sốt tiêu xanh nữa là ngon bá cháy luôn",
+    "ốc nào con ốc nấy mập lúp mà mọng nước, nhìn đã ghê chưa",
+    "sốt tiêu xanh thì cay thơm, ăn cùng với ốc bu ú nu dai ngọt, chấm thêm miếng sả ớt nữa thì thứ gì chịu nổi"
+  ],
+  "hook_content": "Hello mọi người, lại là tôi Mật Bự thích nấu ăn đây.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video hướng dẫn cách làm món ốc bươu hấp muối sốt tiêu xanh, từ khâu sơ chế ốc đến khi hoàn thành món ăn hấp dẫn với hương vị thơm ngon.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

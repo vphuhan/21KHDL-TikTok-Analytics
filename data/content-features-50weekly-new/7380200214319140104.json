@@ -1,0 +1,78 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món sa tế ớt rim dễ làm, có thể dùng với nhiều món.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách làm."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Rửa sạch, luộc sơ ớt sừng và xay nhuyễn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, dễ thực hiện."
+    },
+    {
+      "step": "Rim ớt",
+      "desc": "Phi tỏi, cho ớt xay vào rim cùng gia vị đến khi sệt lại.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn."
+    },
+    {
+      "step": "Lưu ý khi nấu",
+      "desc": "Nhắc nhở ớt sẽ bắn khi rim, giới thiệu sản phẩm lau bếp.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy hữu ích."
+    },
+    {
+      "step": "Hoàn thành",
+      "desc": "Thêm ruốc khô và tỏi phi, rim thêm 5 phút.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn thử."
+    },
+    {
+      "step": "Thành phẩm",
+      "desc": "Giới thiệu thành phẩm và cách bảo quản.",
+      "impact_level": "3",
+      "viewer_emotion": "Thấy thèm thuồng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "tuyệt",
+    "ngon nhức nách"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đây là công thức làm sa tế ớt rim ngon bất bại, cực kỳ dính mà cũng dễ làm lắm nha.",
+    "Tôi lỡ quên đậy nắp thôi mà nó bắn văng tùm lum cỡ này nè.",
+    "Ta nói thành phẩm nó ngon nhức nách mấy bà ơi."
+  ],
+  "hook_content": "Đây là công thức làm sa tế ớt rim ngon bất bại, cực kỳ dính mà cũng dễ làm lắm nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn công thức làm sa tế ớt rim ngon và dễ làm, có thể dùng với nhiều món ăn khác nhau. Đồng thời, video cũng chia sẻ cách giữ cho căn bếp luôn sạch sẽ sau khi nấu ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

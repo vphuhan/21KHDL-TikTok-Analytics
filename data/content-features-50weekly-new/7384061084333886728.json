@@ -1,0 +1,95 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món tôm sống thái và lý do muốn làm món này.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn và nguyên liệu."
+    },
+    {
+      "step": "Hướng dẫn pha sốt",
+      "desc": "Hướng dẫn chi tiết cách pha nước sốt đậm đà cho món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích và muốn thử làm theo."
+    },
+    {
+      "step": "Sơ chế tôm",
+      "desc": "Đem tôm đi chiên trong khi đợi pha nước sốt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, tập trung vào công đoạn."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu và review cà phê của ca sĩ Nhật Kim Anh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị cà phê."
+    },
+    {
+      "step": "Trình bày món ăn",
+      "desc": "Trình bày món tôm hoàn thành và cảm nhận về món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn ăn ngay."
+    },
+    {
+      "step": "Thông tin thêm",
+      "desc": "Thông báo công thức này dành cho nửa ký tôm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin hữu ích."
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng ăn món tôm sống thái.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thân thiện và gần gũi."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "cay cay",
+    "ngon",
+    "đã",
+    "hấp dẫn",
+    "ngọt dai",
+    "đậm đà",
+    "nồng nồng",
+    "giòn béo",
+    "ngon sấm hồn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mọi người mà không ăn được mù tạc thì bỏ qua bước này cũng được nhen. Nhưng mà tôi thấy có bùa tạc vô là ăn lên một tầm cao mới luôn.",
+    "Ta nói thịt tôm thì ngọt dai, thấm đẫm nước sốt đậm đà mà nồng nồng của bùa tạc là ăn tới đâu đã cái nư tới đó.",
+    "Đầu tôm thì giòn béo, ăn cùng sốt thái cũng ngon sấm hồn luôn."
+  ],
+  "hook_content": "Hello mọi người, lại là tôi, Mập Bựa thích nấu ăn đây. Nay mọi người cùng tôi làm tôm sống thái ăn nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm món tôm sống thái với công thức sốt đặc biệt và chia sẻ trải nghiệm cá nhân khi thưởng thức món ăn này. Bên cạnh đó, người làm video còn giới thiệu thêm một loại cà phê tốt cho sức khỏe.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước",
+    "Hào hứng"
+  ]
+}

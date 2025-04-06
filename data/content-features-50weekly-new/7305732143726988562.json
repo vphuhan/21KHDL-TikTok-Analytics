@@ -1,0 +1,86 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Đi chợ",
+      "desc": "Đi chợ mua quýt, cá viên chiên, trả cá và các nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú khi thấy nhiều món ăn hấp dẫn."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Chuẩn bị kim chi chua, cá ngừ hộp và các loại rau.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Nấu canh kim chi",
+      "desc": "Nấu canh kim chi cá ngừ và chia sẻ bí quyết nấu ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy đói bụng và tò mò về món canh."
+    },
+    {
+      "step": "Chuẩn bị thịt nướng",
+      "desc": "Rửa rau và chuẩn bị ba chỉ bò để nướng ăn kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thèm thịt nướng."
+    },
+    {
+      "step": "Hoàn thành bữa ăn",
+      "desc": "Giới thiệu mâm cơm nhà đơn giản với hai món.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Ăn uống",
+      "desc": "Hai vợ chồng cùng ăn và trò chuyện về món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy ấm cúng và vui vẻ."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Cả hai vợ chồng khen ngon và thích thú với bữa ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn được ăn thử món ăn này."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thích",
+    "ngon xỉu"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nay mình có thịt nướng có rau nha mọi người. Trời ơi thịt không có nhiêu hết trơn á mà rau bạc ngàn luôn vậy.",
+    "Ngon cấp cứu?",
+    "Ngon xỉu ạ."
+  ],
+  "hook_content": "bữa nào mà suy nghĩ ăn cái gì thôi là cũng hết cả ngày luôn á mọi người.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình đi chợ mua nguyên liệu và nấu món canh kim chi cá ngừ ăn cùng thịt nướng tại nhà. Hai vợ chồng cùng ăn và trò chuyện vui vẻ.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

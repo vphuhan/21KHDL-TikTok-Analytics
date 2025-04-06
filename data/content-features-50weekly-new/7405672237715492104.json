@@ -1,0 +1,56 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Phản hồi ý kiến khán giả về việc dính cốm làm mất vị chả.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Thực hiện thử thách",
+      "desc": "Chấp nhận thử thách bịt mắt ăn để review công tâm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với thử thách."
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Em gái giới thiệu và chỉ ra món bơ cốm.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết thêm thông tin về món ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "công tâm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nói cái gì tôi cũng làm hết trơn á.",
+    "Chỉ cần mọi người đừng kêu tôi giềm bên này, giềm bên kia là được.",
+    "Cỡ nào tôi cũng hả vì à người bán và vì người ăn hết trơn á."
+  ],
+  "hook_content": "mắc công kêu là dính miếng cốm nên là mất đi vị chả lắm.",
+  "hook_type": [
+    "Phản hồi bình luận"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Anh chàng review món ăn theo yêu cầu của khán giả và chấp nhận thử thách bịt mắt để đảm bảo tính công tâm. Em gái anh giới thiệu món bơ cốm.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

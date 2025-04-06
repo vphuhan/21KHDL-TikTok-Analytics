@@ -1,0 +1,67 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu hoạt động đón con đi học võ và thông báo nấu lẩu.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp, gần gũi với hình ảnh gia đình."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Chia sẻ về việc lặt rau và nhớ lại kỷ niệm không vui.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, có chút lắng nghe tâm sự."
+    },
+    {
+      "step": "Nấu lẩu",
+      "desc": "Nấu lẩu hải sản và chia sẻ về sở thích nấu món Việt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng, tò mò về món lẩu."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Mời mọi người ăn lẩu và trò chuyện cùng gia đình.",
+      "impact_level": "3",
+      "viewer_emotion": "Vui vẻ, ấm cúng khi xem cảnh gia đình ăn uống."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thèm",
+    "vui",
+    "hạnh phúc",
+    "thương"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Bữa nay mình nấu cái nồi lẩu hải sản này mà phải chi ông trời ổng thêm một cơn mưa nữa ha là ta nói nó ngon gấp đôi luôn.",
+    "Không biết làm sao chứ mình thấy nấu mấy cái món Việt Nam nó còn đơn giản hơn món Hàn á mọi người.",
+    "Trời đất ơi cục vàng cục bạc người ta mà sợ là sợ làm sao trời, mốt không có được nói vậy nữa nha."
+  ],
+  "hook_content": "Bữa tới giờ cũng lâu rồi mình không có dẫn mọi người đi đón Tụi Hân ha, bữa nay mình dẫn mọi người đi đón Tụi Hân chung với mình nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video ghi lại cảnh mẹ đón con đi học võ về và nấu món lẩu hải sản cho bữa tối gia đình. Người mẹ chia sẻ những khoảnh khắc đời thường, tâm sự về con cái và niềm vui khi nấu ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

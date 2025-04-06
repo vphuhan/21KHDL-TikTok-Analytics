@@ -1,0 +1,81 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu các loại xiên tự chiên tại nhà và mời mọi người.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Thưởng thức phô mai que",
+      "desc": "Ăn phô mai que trước vì nó còn kéo sợi sau khi chiên.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Thưởng thức lạp xưởng",
+      "desc": "Ăn lạp xưởng hắc khẩu tự chiên bị co vỏ và chấm với ớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Thưởng thức xúc xích ngọt",
+      "desc": "Ăn xúc xích ngọt chấm kèm với ớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn thử"
+    },
+    {
+      "step": "Thưởng thức viên thả lẩu",
+      "desc": "Ăn viên thả lẩu sốt trứng muối, món khoái khẩu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Cảm ơn người xem và hẹn gặp lại ở các video sau.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người đã xem video của mình, hẹn mọi video sau.",
+    "Tạm biệt."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thích"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mình gọi cái này là xiên sạch đi, bởi vì cái này là hôm nay là mình tự chiên ở nhà.",
+    "Trong tất cả các cái vị viên thả lẩu thì mình ăn vị này nhất."
+  ],
+  "hook_content": "Xin chào mọi người. Hôm nay mình sẽ ăn xiên bẩn, mời mọi người ăn cùng mình nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang về các loại xiên tự chiên tại nhà, bao gồm lạp xưởng, xúc xích, viên thả lẩu,... Người nói mời mọi người ăn cùng và chia sẻ cảm nhận về từng món.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

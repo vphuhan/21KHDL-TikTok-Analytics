@@ -1,0 +1,84 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Khách du lịch, người Việt ở nước ngoài",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu mục đích",
+      "desc": "Giải đáp thắc mắc về vẻ đẹp trai gái Trung Quốc ngoài đời.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Nhận xét tổng quan",
+      "desc": "Số lượng trai đẹp ở Trung Quốc nhiều hơn gái đẹp.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Đặc điểm ngoại hình",
+      "desc": "Mắt nhỏ, mặt vuông chữ điền, chiều cao vượt trội, da trắng.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên"
+    },
+    {
+      "step": "Phong cách thời trang",
+      "desc": "Đa dạng, nhiều bạn trẻ có gu ăn mặc thời trang.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng"
+    },
+    {
+      "step": "Quan điểm cá nhân",
+      "desc": "Tiêu chuẩn vẻ đẹp của Trung Quốc chỉ nằm trong nước.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo",
+    "Chi tiết",
+    "Gen Z",
+    "Truyền thống"
+  ],
+  "cta_content": [
+    "Còn theo quan điểm của mọi người, ai đã từng đi du lịch bên Trung Quốc á thì thấy trai gái bên này sao?"
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Đặt câu hỏi"
+  ],
+  "emotion_keywords": [
+    "đẹp",
+    "thời trang",
+    "ấn tượng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Con gái ở đây thường hay trang điểm mắt làm sao mà hack cái mắt to hết cỡ, makeup, kẻ mắt, đeo lens, mở tròng mắt, vẽ bọng mắt các kiểu.",
+    "Trai đẹp mà đã trắng á là trắng muốt luôn, có nhiều người trắng như viết xóa vậy đó mọi người.",
+    "Phải gọi là kinh đô thời trang của Trung Quốc luôn đó."
+  ],
+  "hook_content": "Trai gái ở Trung Quốc có thật sự là đẹp như ở trên Douyin hay không?",
+  "hook_type": [
+    "Gây tò mò",
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm",
+    "So sánh"
+  ],
+  "summarization": "Video chia sẻ trải nghiệm du lịch Trung Quốc và nhận xét về vẻ đẹp của trai gái Trung Quốc so với hình ảnh trên Douyin, tập trung vào các đặc điểm ngoại hình và phong cách thời trang.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu bánh tráng muối béo và lý do nó hot.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ hot của bánh tráng."
+    },
+    {
+      "step": "Trải nghiệm sản phẩm",
+      "desc": "Mô tả hương vị và cảm nhận khi ăn bánh tráng.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn ăn thử ngay lập tức."
+    },
+    {
+      "step": "Đánh giá combo",
+      "desc": "Thông tin về giá cả và thành phần của combo bánh tráng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn vì combo có nhiều thành phần."
+    },
+    {
+      "step": "Hướng dẫn trộn",
+      "desc": "Hướng dẫn cách trộn và thưởng thức bánh tráng.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn làm theo hướng dẫn để ăn thử."
+    },
+    {
+      "step": "Kêu gọi mua hàng",
+      "desc": "Nhấn mạnh độ ngon và khuyến khích mua hàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thôi thúc mua để trải nghiệm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cho nên mọi người nhấn vô cái giỏ hàng màu vàng bên trái màn hình coi nay giá còn nhiêu nha."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "béo",
+    "mằn mặn",
+    "chua chua",
+    "vừa vị",
+    "ghiền",
+    "ngon",
+    "thơm thơm",
+    "dính"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái sốt nó béo béo, mằn mặn chua chua khá là vừa vị luôn.",
+    "Ngồi lai rai tôi đảm bảo bao dính.",
+    "Ai mà mê béo như hai mẹ con tôi là đảm bảo ghiền cái này nè."
+  ],
+  "hook_content": "Lần đầu cho mẹ ăn thử bánh tráng muối béo.",
+  "hook_type": [
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu và review bánh tráng muối béo, nhấn mạnh hương vị đặc trưng và độ gây nghiện của sản phẩm. Người bán khuyến khích người xem mua hàng thông qua link sản phẩm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

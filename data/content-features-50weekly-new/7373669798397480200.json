@@ -1,0 +1,72 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ếch òn lá me đang hot trên TikTok.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Tìm mua nguyên liệu",
+      "desc": "Chia sẻ khó khăn khi tìm mua ếch và lá me.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    },
+    {
+      "step": "Miêu tả món ăn",
+      "desc": "Miêu tả hình dáng của ếch và nguồn gốc món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hơi ghê."
+    },
+    {
+      "step": "Quyết định không ăn",
+      "desc": "Quyết định không ăn và đem ếch đi thả.",
+      "impact_level": "3",
+      "viewer_emotion": "Ngạc nhiên."
+    },
+    {
+      "step": "Suy nghĩ về lá me",
+      "desc": "Tự hỏi nên làm gì với lá me còn lại.",
+      "impact_level": "1",
+      "viewer_emotion": "Tự hỏi theo."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "cưng",
+    "ấy ấy",
+    "hiếm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Tôi tìm đi mua dữ lắm á mọi người.",
+    "Mua size tầm trung thì khoảng mười mấy con một ký.",
+    "Không hiểu sao bình thường mình ăn hải sản sống đâu có gì đâu, lấy mấy con này ra kêu ộp ộp á cái bắt đầu mình thấy ấy ấy sao."
+  ],
+  "hook_content": "khi mọi người. Mình sẽ ăn thử cái món ếch òn lá me này nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video về một người định ăn thử món ếch òn lá me đang hot trên TikTok, nhưng sau khi nhìn thấy hình dáng của ếch thì lại thấy ghê và quyết định đem thả đi, sau đó tự hỏi nên làm gì với lá me.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

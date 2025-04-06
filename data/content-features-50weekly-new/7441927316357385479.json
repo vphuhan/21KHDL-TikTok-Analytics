@@ -1,0 +1,84 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Nhắc lại video cũ bị chê, giới thiệu món mới tôm hùm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách làm món mới."
+    },
+    {
+      "step": "Giải thích",
+      "desc": "Giải thích lý do không tái sử dụng muối sau khi hấp.",
+      "impact_level": "1",
+      "viewer_emotion": "Đồng tình với quan điểm."
+    },
+    {
+      "step": "Giới thiệu nguyên liệu",
+      "desc": "Giới thiệu tôm hùm và muối ớt đỏ được tài trợ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với nguyên liệu."
+    },
+    {
+      "step": "Quá trình hấp",
+      "desc": "Mô tả quá trình hấp tôm với muối ớt đỏ.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú với cách chế biến."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Thưởng thức tôm hùm chấm muối ớt xanh, miêu tả hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn ăn thử."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu về muối ớt xanh và đỏ của Thích Muối.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cả nhà muốn mua á thì liên hệ bên Thích Muối nha."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "tươi",
+    "hấp dẫn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Con tôm nó tươi mà thịt nó sần sực luôn cả nhà, thơm lắm.",
+    "Hải sản mặc dù hấp với muối ớt đỏ nhưng tôi chấm với muối ớt xanh nha.",
+    "Với lại mình đầu tư cho món ăn độc đáo, hấp dẫn, ăn ngon thì cũng xứng đáng mà đúng không cả nhà?"
+  ],
+  "hook_content": "Hôm bữa tôi làm cua nâu hấp muối ớt đỏ, nhiều người chửi tôi á lãng phí muối quá, vì tiền cua còn thua tiền muối.",
+  "hook_type": [
+    "Phản hồi bình luận"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video giới thiệu cách làm tôm hùm hấp muối ớt đỏ, giải thích lý do không tái sử dụng muối và gợi ý sử dụng muối ớt xanh để chấm. Tác giả cũng giới thiệu sản phẩm muối ớt của Thích Muối.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

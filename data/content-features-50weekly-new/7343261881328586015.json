@@ -1,0 +1,70 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu món bò bía khổng lồ giá rẻ kèm nước dừa.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ lớn và giá cả."
+    },
+    {
+      "step": "Thông tin chi tiết",
+      "desc": "Giá các size, độ chắc chắn, thành phần và tùy chọn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích với thông tin được cung cấp."
+    },
+    {
+      "step": "Nhấn mạnh giá trị",
+      "desc": "Khẳng định sự độc đáo và giá hời của sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn vì giá trị tốt."
+    },
+    {
+      "step": "Kêu gọi hành động",
+      "desc": "Địa điểm và lời kêu gọi ủng hộ quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Có thiện cảm và muốn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Địa chỉ thì mình để ở đây, mọi người đi qua thì nhớ ghé vào ủng hộ anh nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "hời",
+    "độc lạ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "bỏ bía to khổng lồ như này mà giá chỉ có 15k, đã thế lại còn được tặng thêm cả nước dừa nữa",
+    "ăn ít ngọt thì nhớ là phải dặn anh đấy",
+    "cho dù có lùng tung khắp cả Hà Nội thì anh em cũng không tìm ra nơi nào bán bỏ bía độc lạ như ở đây"
+  ],
+  "hook_content": "Làm gì có chỗ nào mà bán một cái bỏ bía to khổng lồ như này mà giá chỉ có 15k, đã thế lại còn được tặng thêm cả nước dừa nữa.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu quán bán bò bía khổng lồ giá 15k ở Hồ Tây, còn được tặng kèm nước dừa. Người bán khẳng định đây là địa điểm có món bò bía độc đáo nhất Hà Nội.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

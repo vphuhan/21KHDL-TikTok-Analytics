@@ -1,0 +1,104 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn và giá",
+      "desc": "Giới thiệu các món ăn như gỏi, cá viên chiên, tóp mỡ và nước.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn được giới thiệu."
+    },
+    {
+      "step": "Thử món gỏi",
+      "desc": "Ăn và nhận xét về vị vỏ chanh làm mất cân bằng hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy tiếc nuối vì món ăn có điểm trừ."
+    },
+    {
+      "step": "Thử ba khía",
+      "desc": "Đánh giá cao ba khía vì vừa vị, không quá mặn và rất cuốn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng món ba khía được khen ngợi."
+    },
+    {
+      "step": "Thử nghệ sữa và trà tắc",
+      "desc": "Khen nghệ sữa thơm ngon, trà tắc có mùi kiwi dễ uống.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy các món có vẻ hấp dẫn."
+    },
+    {
+      "step": "Thử tắc đỏ và bò viên chiên",
+      "desc": "Tắc đỏ có vị siro thuốc ho, bò viên chiên hơi ngọt.",
+      "impact_level": "1",
+      "viewer_emotion": "Thất vọng nhẹ về các món này."
+    },
+    {
+      "step": "Thử chân gà và da heo",
+      "desc": "Chân gà giá rẻ, da heo giòn nhưng tổng thể hơi ngọt.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử chân gà vì giá rẻ và da heo giòn."
+    },
+    {
+      "step": "Nhận xét chung",
+      "desc": "Góp ý về giá cả, nước uống và cách chế biến gỏi.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đây là một review có tâm."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "nếu được thì mọi người có thể ủng hộ chị Thi Thi nha.",
+    "cũng như là ủng hộ Panda giúp cho Panda sẽ mau sớm có bồ và cũng như là có một trợ lý trường tồn vĩnh cửu theo thời gian."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Follow kênh",
+    "Chia sẻ"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "ngon",
+    "dễ ăn",
+    "vừa phải",
+    "cuốn",
+    "thích",
+    "hơi bị khó chịu",
+    "chát ngầm",
+    "ngọt nhiều",
+    "ngọt dễ chịu"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái ba khía của chị Thi Thy dễ mình thì nó chua chua cay cay ngọt ngọt mà cái vị ngọt nhiều mà cái ngọt rất dễ chịu nha.",
+    "Chị Thi Thy ơi, cái phần mà vỏ chanh vỏ tắc gì của chị á nó chát ngầm hết nguyên cái dĩa gỏi luôn. Như giống như là mình đang cắn một trái trái chanh mà trái chanh tươi á chị.",
+    "Bả thích ăn ngọt ngọt còn tui thì tui. Mặc dù tui miền Tây nhưng mà tui không có thích ăn ngọt lắm."
+  ],
+  "hook_content": "mới mở quán hả. Ví dụ mà không OK quá thì mình xin được phép bỏ qua. Mình thấy là bả quá tội nghiệp.",
+  "hook_type": [
+    "Gây tò mò",
+    "Tạo sự đồng cảm"
+  ],
+  "pacing": [
+    "Nhanh",
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán gỏi Ty Thy, tập trung vào đánh giá các món ăn như gỏi, ba khía, cá viên chiên, nước uống và chân gà. Người review đưa ra nhận xét chi tiết về hương vị, giá cả và góp ý để quán cải thiện.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hài hước"
+  ]
+}

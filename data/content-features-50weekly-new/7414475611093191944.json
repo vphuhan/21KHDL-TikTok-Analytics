@@ -1,0 +1,86 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu thử thách",
+      "desc": "Tự đặt ra thử thách đi chợ hải sản với 500 yên.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về thử thách."
+    },
+    {
+      "step": "Dạo quanh chợ",
+      "desc": "Đi dạo quanh chợ để tìm món ăn phù hợp với giá.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Chọn mua vẹm",
+      "desc": "Mua được một bọc vẹm với giá 500 yên.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị vì mua được món hời."
+    },
+    {
+      "step": "Mua thêm bắp tím",
+      "desc": "Mua thêm bắp tím giá 300 yên ở quầy rau.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về loại bắp mới."
+    },
+    {
+      "step": "Chế biến món ăn",
+      "desc": "Luộc vẹm và bắp tím để ăn thử.",
+      "impact_level": "1",
+      "viewer_emotion": "Chờ đợi hương vị."
+    },
+    {
+      "step": "Thưởng thức vẹm",
+      "desc": "Ăn vẹm luộc với muối tiêu và ớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Đánh giá bắp tím",
+      "desc": "Ăn và đánh giá hương vị của bắp tím.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú, muốn thử ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "giòn",
+    "ngọt",
+    "thơm",
+    "ngon",
+    "dính",
+    "tươi roi rói"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ở ngoài nó là màu tím nhưng bên trong cái ruột vẫn là màu vàng.",
+    "Ăn nó giòn mà nó ngọt hơn cái bắp vàng mà mình hay ăn rất là nhiều.",
+    "Cái độ ngọt với cái mùi thơm của nó rất là đặc trưng nên ăn cực kỳ là dính luôn."
+  ],
+  "hook_content": "này cuối tuần mưa gió rồi nên là cũng muốn làm khó mình đưa ra một cái thử thách.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại thử thách đi chợ hải sản với 500 yên, mua được vẹm và bắp tím. Sau đó, người này chế biến và đánh giá hương vị của bắp tím, nhận xét là giòn, ngọt và thơm ngon hơn bắp vàng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

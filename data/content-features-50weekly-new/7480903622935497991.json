@@ -1,0 +1,86 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món chả giò hải sản sốt Mayonnaise của Thái Lan.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới lạ."
+    },
+    {
+      "step": "Giới thiệu đồ bếp",
+      "desc": "Khoe đồ bếp đang giảm giá trên TikTok shop.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không quá ấn tượng."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Hướng dẫn chuẩn bị bắp và tôm để làm nhân.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích với hướng dẫn."
+    },
+    {
+      "step": "Xào nấu",
+      "desc": "Hướng dẫn trộn nhân và cuốn chả giò.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy rõ hơn về quy trình làm."
+    },
+    {
+      "step": "Chiên chả giò",
+      "desc": "Hướng dẫn chiên chả giò sao cho vàng giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ thành phẩm cuối cùng."
+    },
+    {
+      "step": "Nếm thử",
+      "desc": "Nếm thử và đánh giá món chả giò.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn ăn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Các bạn có đặt hàng trên TikTok shop thì tranh thủ nha.",
+    "Cho nên các bạn mà đang phân vân giá tiền á thì mình tranh thủ những cái dịp sale này mình chốt luôn cho nó rẻ."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm",
+    "Lưu video"
+  ],
+  "emotion_keywords": [
+    "thèm",
+    "ngon",
+    "đã",
+    "chất lượng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ở ngoài là bánh tráng á, nhưng mà có nhúng thêm một lớp bột chiên giòn nữa.",
+    "Ngon nhức nách luôn.",
+    "Ăn hai cục là thấy no lắm rồi đấy."
+  ],
+  "hook_content": "Các em này lướt TikTok cứ hay bị trúng cái món chả giò hải sản bên Thái Lan này nè.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm món chả giò hải sản sốt Mayonnaise theo phong cách Thái Lan, đồng thời giới thiệu các sản phẩm đồ bếp đang được giảm giá trên TikTok Shop. Người làm thử và đánh giá món ăn rất ngon và chất lượng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

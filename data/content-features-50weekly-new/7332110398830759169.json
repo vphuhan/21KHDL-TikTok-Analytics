@@ -1,0 +1,58 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu thử thách",
+      "desc": "Thông báo về thử thách ăn tiết canh trong 7 ngày.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Thử tiết canh hấp",
+      "desc": "Nếm thử món tiết canh hấp và nhận xét về hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi ghê"
+    },
+    {
+      "step": "Thử tiết canh củ dền",
+      "desc": "Thử nghiệm tiết canh củ dền và đưa ra đánh giá.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "tởm",
+    "không ngon",
+    "dở"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nó có cái mùi vị nó ghê lắm anh em.",
+    "Thật sự là cái món này chỉ dành cho những bạn nào mà không ăn được tiết canh thôi."
+  ],
+  "hook_content": "7 ngày ăn tiết canh nha anh em. Hôm nay là ngày đầu tiên.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình thử thách ăn tiết canh trong 7 ngày, bắt đầu bằng việc thử tiết canh hấp và tiết canh củ dền, sau đó đưa ra các nhận xét về hương vị.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

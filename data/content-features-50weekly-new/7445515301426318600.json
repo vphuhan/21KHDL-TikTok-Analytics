@@ -1,0 +1,95 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu trứng đà điểu Emu đến từ Úc, được luộc một tiếng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới lạ."
+    },
+    {
+      "step": "Uống trà tắc",
+      "desc": "Uống trà tắc để chuẩn bị thưởng thức trứng đà điểu.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Mô tả ban đầu",
+      "desc": "Nhận xét về vẻ ngoài của trứng, tưởng là cục đá.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị vì sự nhầm lẫn ban đầu."
+    },
+    {
+      "step": "Bóc vỏ trứng",
+      "desc": "Quá trình bóc vỏ trứng, nhận xét về màu sắc và độ cứng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cấu trúc bên trong."
+    },
+    {
+      "step": "Nêm gia vị",
+      "desc": "Nặn tắc vào muối tiêu để chấm trứng.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn, muốn ăn thử."
+    },
+    {
+      "step": "Thưởng thức trứng",
+      "desc": "Ăn và miêu tả hương vị, so sánh với thạch và bánh.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn trải nghiệm."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Đánh giá trứng ngon, đáng tiền, lạ miệng và giàu protein.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nếu mà bạn muốn bạn review một cái món ăn lạ lạ nào ở top top á thì cứ comment ở bên dưới cho bạn biết nha.",
+    "Yeah, bye bye bạn, hẹn gặp lại bạn vào video lần sau."
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "béo",
+    "đã",
+    "thơm",
+    "đặc biệt",
+    "trên cả tuyệt vời"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Wow, nó giống như thạch vậy đó bạn, chứ nó không có giống như cái lòng đỏ, lòng trắng trứng gà của mình nha.",
+    "Cảm giác giống như là vàng đang ăn bánh vậy đó bạn. Cảm giác ở bên ngoài này là là vỏ bánh bột bánh, còn ở bên trong là cái nhân các bạn.",
+    "Em trứng này bạn hơi mắc một tí nhưng mà rất đáng tiền nè. Ăn vừa ngon nè, vừa vào protein mà lạ miệng nữa bạn, đã lắm luôn bạn ơi."
+  ],
+  "hook_content": "tưởng cục đá luôn á bạn. Cục đá cũng ăn được nữa hay sao?",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video mukbang về trứng đà điểu Emu từ Úc, người quay vừa ăn vừa miêu tả hương vị và cảm nhận, so sánh với thạch và bánh, đồng thời đưa ra đánh giá là ngon, đáng tiền và lạ miệng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

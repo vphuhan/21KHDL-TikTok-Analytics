@@ -1,0 +1,66 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu hộp chuối đậu siêu to khổng lồ mang đi chia.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn được mang đi."
+    },
+    {
+      "step": "Mời mọi người ăn",
+      "desc": "Mời đồng nghiệp ăn chuối đậu, ốc và các món khác.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thấy được sự chia sẻ."
+    },
+    {
+      "step": "Nhận xét về món ăn",
+      "desc": "Đưa ra các nhận xét ngắn gọn về hương vị món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với những đánh giá tức thì."
+    },
+    {
+      "step": "Tiếp tục ăn và trò chuyện",
+      "desc": "Vừa ăn vừa trò chuyện, tương tác với đồng nghiệp.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy đời thường, gần gũi."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm ngon",
+    "thích",
+    "tuyệt vời"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cục chuối đậu siêu to khổng lồ thơm ngon thơm ngon.",
+    "Sao phải sao phải có râu chứ?",
+    "No, càng nhét m luôn."
+  ],
+  "hook_content": "thôi thôi thôi. Cục chuối đậu siêu to khổng lồ thơm ngon thơm ngon.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh một người mang chuối đậu đến văn phòng chia sẻ cho đồng nghiệp, mọi người cùng ăn và trò chuyện vui vẻ.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

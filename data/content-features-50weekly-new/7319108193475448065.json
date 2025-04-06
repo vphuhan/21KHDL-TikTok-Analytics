@@ -1,0 +1,88 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán và món ăn",
+      "desc": "Giới thiệu tiệm bánh của Việt Hương và các loại bánh",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về tiệm bánh của nghệ sĩ"
+    },
+    {
+      "step": "Đánh giá bánh bông lan tan chảy",
+      "desc": "Xé bánh, nhận xét độ tan chảy, hương vị, độ ngọt",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng, muốn ăn thử"
+    },
+    {
+      "step": "Đánh giá bánh bông lan trứng muối",
+      "desc": "Nhận xét vị giống tiramisu, độ ngọt, so sánh khẩu vị",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc sắc"
+    },
+    {
+      "step": "Đánh giá bánh xúc xích",
+      "desc": "Nhận xét hình dáng, hương vị tuổi thơ, độ mềm xốp",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với hình dáng dễ thương"
+    },
+    {
+      "step": "Đánh giá bánh rosson bơ tỏi",
+      "desc": "Nhận xét độ thơm tỏi, béo, mềm, dễ ăn",
+      "impact_level": "1",
+      "viewer_emotion": "Không đặc biệt, nhưng muốn thử"
+    },
+    {
+      "step": "Đánh giá bánh chà bông trà cay",
+      "desc": "Nhận xét lớp bơ, vị trà cay, độ mặn",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về vị trà cay"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người biết cái quán nào của anh chị nghệ sĩ nào thì mọi người giới thiệu cho mình nha mọi người."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "vừa",
+    "dễ thương",
+    "thơm",
+    "béo",
+    "mềm mềm",
+    "dễ ăn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trời ơi!Ưm, trời ơi!",
+    "Cái kem phô mai ngon quá vậy, một chút xíu sữa chua, phô mai, cái độ béo của sữa với phô mai rất là vừa phải, không bị quá ngọt.",
+    "Đây là cái hương vị bánh xúc xích tuổi thơ, mình nghĩ là mọi người đã biết được cái vị của cái bánh này rồi đúng không, nhưng mà nó làm theo cái phiên bản mới nhìn dễ thương hơn."
+  ],
+  "hook_content": "Trời ơi!Ưm, trời ơi!Ăn cùng nghệ sĩ Việt Hương nha mọi người ơi, đây là cái tiệm của cô Việt Hương tên là Sugertown hay gì đó mọi người.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review các loại bánh tại tiệm bánh của nghệ sĩ Việt Hương, bao gồm bánh bông lan tan chảy, bánh bông lan trứng muối, bánh xúc xích, bánh rosson bơ tỏi và bánh chà bông trà cay. Người review đưa ra đánh giá chi tiết về hương vị, độ ngọt và cảm nhận cá nhân về từng loại bánh.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

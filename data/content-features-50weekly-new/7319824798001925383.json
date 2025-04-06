@@ -1,0 +1,87 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Đi chợ",
+      "desc": "Lần đầu đi chợ không biết mua gì, quyết định mua chân gà.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thấy việc đi chợ là hoạt động thường ngày."
+    },
+    {
+      "step": "Sơ chế chân gà",
+      "desc": "Luộc sơ chân gà với rượu, rửa sạch và loại bỏ phần dơ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy an tâm vì chân gà được làm sạch kỹ."
+    },
+    {
+      "step": "Nấu chân gà cay",
+      "desc": "Cho chân gà vào chảo, thêm gia vị và nước lơ để nấu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn bởi màu sắc và mùi vị cay nồng."
+    },
+    {
+      "step": "Làm cơm vắt",
+      "desc": "Trộn cơm với rong biển và vắt thành nắm nhỏ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thấy món cơm vắt đơn giản."
+    },
+    {
+      "step": "Chuẩn bị trứng hấp",
+      "desc": "Trộn trứng với hành tây, cà rốt, hành baro và gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy món trứng hấp có vẻ bổ dưỡng."
+    },
+    {
+      "step": "Hoàn thành món ăn",
+      "desc": "Chân gà cạn nước, trứng hấp chín, bày ra mâm cơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy mâm cơm đơn giản nhưng ấm cúng."
+    },
+    {
+      "step": "Ăn tối",
+      "desc": "Mời mọi người ăn tối và nhận xét về món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thấy vui vẻ và ngon miệng khi cả nhà cùng ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "cay",
+    "ngọt",
+    "mặn",
+    "ngon",
+    "mềm",
+    "cay ngon",
+    "xinh xắn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mình thấy món này nếu như mà bạn nào thích ăn chân gà mềm á thì cũng là một gợi ý hay á, tại vì nó mềm dữ lắm luôn, bỏ vô là tan trong miệng à.",
+    "Cay cay, ngọt ngọt, mặn mặn.",
+    "Mỗi lần có cơm cháy là mình cũng vắt kiểu này nè, mà ăn ngon xỉu luôn."
+  ],
+  "hook_content": "Hôm nay lần đầu tiên đi chợ mà mình không biết ăn cái gì luôn.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video ghi lại quá trình nấu bữa tối đơn giản với ba món: chân gà cay, cơm vắt rong biển và trứng hấp. Người nấu chia sẻ công thức và mời mọi người cùng ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

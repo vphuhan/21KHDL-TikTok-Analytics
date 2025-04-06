@@ -1,0 +1,88 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu măng cay Tứ Xuyên mua trên TikTok Shop.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về sản phẩm."
+    },
+    {
+      "step": "Mô tả chi tiết",
+      "desc": "Mô tả số lượng, trạng thái, và lớp vỏ của măng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy lạ và muốn biết thêm."
+    },
+    {
+      "step": "Đánh giá mùi vị",
+      "desc": "Đánh giá mùi cay hăng của măng.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung được mùi vị."
+    },
+    {
+      "step": "Nếm thử và nhận xét",
+      "desc": "Nếm thử và nhận xét về vị mặn, chua, không quá cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị thực tế."
+    },
+    {
+      "step": "So sánh trải nghiệm",
+      "desc": "So sánh với đánh giá của người khác và tự đánh giá.",
+      "impact_level": "2",
+      "viewer_emotion": "Đánh giá tính chủ quan."
+    },
+    {
+      "step": "Nhấn mạnh nguồn gốc",
+      "desc": "Nhấn mạnh nguồn gốc nội địa Trung và khẩu vị đặc trưng.",
+      "impact_level": "1",
+      "viewer_emotion": "Hiểu rõ hơn về sản phẩm."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Kết luận không hợp khẩu vị và không quen ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết được trải nghiệm thực tế."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "cay",
+    "hăng",
+    "mặn",
+    "chua",
+    "không ngon",
+    "không hợp",
+    "không quen"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mùi nó khá là kiểu mùi cay ấy và hăng, mùi ớt rất là hăng.",
+    "Nói chung với mình thì cái này không hợp. Mình ăn không quen nha."
+  ],
+  "hook_content": "Tiếp tục với đặc sản vùng miền.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review măng cay Tứ Xuyên mua trên TikTok Shop, người review mô tả chi tiết sản phẩm, nếm thử và đưa ra đánh giá cá nhân là không hợp khẩu vị.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm và giá",
+      "desc": "Giới thiệu lạp xưởng nướng đá và xúc xích phô mai kèm giá.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về giá cả và sản phẩm."
+    },
+    {
+      "step": "Nhấn mạnh giá rẻ",
+      "desc": "Khẳng định giá lạp xưởng và xúc xích là rẻ nhất Đà Nẵng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn vì giá cả phải chăng."
+    },
+    {
+      "step": "Chia sẻ về doanh số",
+      "desc": "Thông tin về số lượng lạp xưởng và xúc xích bán được mỗi ngày.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về độ nổi tiếng của quán."
+    },
+    {
+      "step": "Mô tả quy trình nướng",
+      "desc": "Diễn tả quy trình nướng lạp xưởng và xúc xích để phục vụ khách.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và muốn thử ngay."
+    },
+    {
+      "step": "Mô tả sản phẩm",
+      "desc": "Mô tả chi tiết lạp xưởng vàng giòn và xúc xích phô mai tan chảy.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy vô cùng hấp dẫn và thèm ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "rẻ nhất",
+    "nóng hổi",
+    "vàng giòn",
+    "ngon nhất"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Lạp xưởng nướng đá chỉ 9k 1 cái rẻ nhất ở Đà Nẵng",
+    "Với vị trí mặt bằng của chị như thế này á là trung tâm của thành phố Đà Nẵng với giá 9.000đ thì rẻ nhất rồi đấy.",
+    "Một cây lạp xưởng chị nướng vàng đều như thế này rồi chị mới đem ra cho khách nè, vừa nóng hổi luôn mọi người ơi."
+  ],
+  "hook_content": "Lạp xưởng 9.000đ, hai xúc xích là 26.000đ, bốn cây là 36.000đ.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Khuyến mãi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu quán lạp xưởng nướng đá ở Đà Nẵng với giá rẻ, chỉ 9k một cây. Chủ quán nhấn mạnh về giá cả phải chăng và quy trình nướng để đảm bảo lạp xưởng luôn nóng hổi, vàng giòn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

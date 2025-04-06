@@ -1,0 +1,68 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món thịt rim dứa và nguyên liệu cần chuẩn bị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Hướng dẫn thái thịt và dứa theo sở thích cá nhân.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, dễ thực hiện."
+    },
+    {
+      "step": "Rang thịt",
+      "desc": "Hướng dẫn rang thịt với các mức độ chín khác nhau.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với mẹo rang thịt."
+    },
+    {
+      "step": "Xào dứa và thịt",
+      "desc": "Hướng dẫn xào dứa và thịt với gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi mùi thơm."
+    },
+    {
+      "step": "Hoàn thành",
+      "desc": "Thêm hành lá và hoàn thành món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn thử ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "chua chua ngọt ngọt",
+    "cuốn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Món này thì bất chấp các thể loại thịt nạc nha, nhưng mà ngon nhất thì các bác vẫn cứ dùng thịt nạc vai cho tôi.",
+    "Thịt xào kiểu này thơm mùi dứa, chua chua ngọt ngọt, ăn cực kỳ là cuốn luôn."
+  ],
+  "hook_content": "ăn thịt lợn chưa các bác? Chả làm sao được khi các bác thử món này của tôi cơ chứ.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm món thịt rim dứa chua ngọt đơn giản, dễ làm tại nhà. Người nói chia sẻ các mẹo chọn nguyên liệu và rang thịt để món ăn thêm ngon.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

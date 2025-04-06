@@ -1,0 +1,85 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bánh mì nướng phô mai và bày tỏ sự tò mò.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị món ăn."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê và đi mua nguyên liệu cần thiết để làm bánh.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, vì đây là bước chuẩn bị."
+    },
+    {
+      "step": "Thực hiện món ăn",
+      "desc": "Không có bước này, video đã bỏ qua quá trình làm."
+    ,
+      "impact_level": "1",
+      "viewer_emotion": "Hụt hẫng vì không được xem quá trình làm."
+    },
+    {
+      "step": "Nếm thử và đánh giá",
+      "desc": "Thưởng thức bánh mì và đưa ra cảm nhận về hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú khi nghe đánh giá tích cực."
+    },
+    {
+      "step": "Phân tích nguyên liệu",
+      "desc": "Kể tên các nguyên liệu, tính toán chi phí làm bánh.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, chỉ là thông tin thêm."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Nhấn mạnh bánh mì ngon, dễ làm và khuyến khích thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử làm theo."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cuối tuần rảnh thì nghịch thử nhé."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "béo",
+    "hấp dẫn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái lớp phô mai này đáng được điểm bát gạo nhở, nó thơm nó béo.",
+    "Cái món này nhìn hình thức nó đã kiểu hấp dẫn mắt rồi, ăn hương vị nó cũng ngon lắm mọi người ạ. Thật sự là rất ngon, mọi người ăn không ngừng luôn.",
+    "Tính ra là cái món này nó ngon phết lại còn dễ làm nữa anh em ạ."
+  ],
+  "hook_content": "Cái vít này nó làm cái bánh này ngon quá mọi người ơi, không biết là ăn nó như thế nào nhỉ?",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ cách làm bánh mì nướng phô mai, đánh giá hương vị thơm ngon và dễ làm tại nhà. Người làm video khuyến khích mọi người thử làm vào cuối tuần.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu chân gà xả ớt, trứng non và túi địch.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Thưởng thức chân gà",
+      "desc": "Ăn và cảm nhận hương vị của trứng non.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Giới thiệu cà phê",
+      "desc": "Giới thiệu và pha cà phê Dora của Nhật Kim Anh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Đánh giá cà phê",
+      "desc": "Nếm và nhận xét về hương vị cà phê.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Nhấn mạnh lợi ích",
+      "desc": "Nhấn mạnh cà phê ngon và tốt cho sức khỏe.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "đã",
+    "ngon",
+    "mềm",
+    "béo",
+    "tuyệt",
+    "ngọt nhẹ nhàng",
+    "mê",
+    "ngon",
+    "khỏe"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ăn liền hai hớp cho nó đã cái nư.",
+    "Trứng non ăn vừa mềm vừa béo, ngon quá à.",
+    "Cà phê vừa ngon vừa khỏe."
+  ],
+  "hook_content": "Nè làm mẻ, chân gà xả ớt, thái trứng non với túi địch.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình người nói trộn và ăn chân gà xả ớt, trứng non và uống cà phê. Người nói vừa ăn vừa thể hiện sự thích thú với món ăn và thức uống này.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

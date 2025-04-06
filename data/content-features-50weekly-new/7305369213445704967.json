@@ -1,0 +1,90 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Nghỉ làm, ngủ dậy muộn và đói bụng, tìm đồ ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn được lựa chọn."
+    },
+    {
+      "step": "Gọi món",
+      "desc": "Thấy gà mê mật Lotteria, đặt mua vì khuyến mãi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy có hứng thú với các ưu đãi."
+    },
+    {
+      "step": "Trình bày món ăn",
+      "desc": "Gà nóng, thơm, màu vàng óng ánh, bày ra mâm.",
+      "impact_level": "2",
+      "viewer_emotion": "Bắt đầu thèm thuồng món gà."
+    },
+    {
+      "step": "Nếm thử",
+      "desc": "Gà giòn, ngọt thanh, thơm, không cần chấm tương.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy rất hấp dẫn và muốn ăn thử."
+    },
+    {
+      "step": "Ăn kèm",
+      "desc": "Thử chấm tương thấy cay, nhưng ăn không ngon hơn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung vào trải nghiệm hương vị."
+    },
+    {
+      "step": "Thông tin thêm",
+      "desc": "Giới thiệu khuyến mãi đến 15/12 và app đặt hàng.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy thông tin hữu ích để tham khảo."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Ăn khoai tây lắc phô mai, khen ngon và khuyên thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử các món khác của Lotteria."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Tranh thủ thử đi hết khuyến mãi nha mọi người."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "đói",
+    "thơm",
+    "ngon",
+    "cay cay",
+    "siêu đỉnh"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nghe đâu đây là cái món mới bên Lotteria, mà đặc biệt hơn á mua cái set gà mê mật được upsize miễn phí khoai tây với lại Pepsi luôn.",
+    "Cái màu vàng óng ánh, cái sốt nó sệt sệt nè. Da gà thì rất là giòn luôn, phần trong thì siêu nóng nha. Ăn có vị ngọt thanh nè, cái mùi gà thì siêu thơm luôn á.",
+    "Nói gì nói chứ bên Lotteria những cái món mà lắc á là siêu đỉnh luôn nha."
+  ],
+  "hook_content": "Hêy, mọi người. Ta nói hổm rày bận quá trời, hôm nay được ngày ốp. Nên là mình cũng ngủ dậy hơi trễ tí xíu cũng tầm trưa rồi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review món gà mê mật mới của Lotteria, tập trung vào hương vị, độ giòn và khuyến mãi hấp dẫn, đồng thời thử ăn kèm với tương và khoai tây lắc phô mai.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

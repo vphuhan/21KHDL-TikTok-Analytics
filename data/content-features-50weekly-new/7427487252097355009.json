@@ -1,0 +1,85 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Nhắc lại kỷ niệm đi học, giới thiệu xúc xích chấm và lắc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Khám phá chương trình khuyến mãi",
+      "desc": "Giới thiệu chương trình khuyến mãi trúng xe máy, xe đạp.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Review xúc xích lắc",
+      "desc": "Giới thiệu các vị, mô tả mùi vị và cảm nhận khi ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Review xúc xích chấm",
+      "desc": "Giới thiệu xúc xích chấm kèm các loại topping.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử"
+    },
+    {
+      "step": "Cảm nhận chung",
+      "desc": "Nhấn mạnh sự yêu thích và kết thúc buổi review.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ"
+    },
+    {
+      "step": "Kêu gọi tham gia khuyến mãi",
+      "desc": "Nhắc lại thời gian khuyến mãi và thông báo trúng thưởng.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "giòn giòn",
+    "cuốn",
+    "thơm béo",
+    "vui miệng",
+    "giòn rụm",
+    "mê",
+    "nhà"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Xúc xích S2 ăn đó giờ mà nay còn có loại lắc xoáy này nữa chứ.",
+    "Chấm thêm lớp ngũ cốc nữa ăn nó cứ giòn giòn cuốn cuốn kiểu gì á, cộng thêm cái sốt mặn mặn ngọt ngọt béo béo nữa chứ.",
+    "Ăn là ít mà quyết tâm tranh thưởng mới ghê rồi nha."
+  ],
+  "hook_content": "mấy nhỏ em đi học là mình cũng nôn nao ngày xưa cắp sách đến trường, còn giờ thì mình ngồi đây lấy cấp mấy cây xúc xích của chị đẹp.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu và review các loại xúc xích lắc và xúc xích chấm của S2, đồng thời chia sẻ về chương trình khuyến mãi trúng thưởng xe máy và xe đạp. Người làm video thể hiện sự thích thú với các sản phẩm và khuyến khích người xem tham gia chương trình.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

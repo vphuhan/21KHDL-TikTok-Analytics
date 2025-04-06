@@ -1,0 +1,88 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu cửa hàng",
+      "desc": "Giới thiệu cửa hàng bán đồ rẻ nhất quận 6",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Liệt kê sản phẩm giá rẻ",
+      "desc": "Liệt kê các sản phẩm giá rẻ và so sánh giá",
+      "impact_level": "3",
+      "viewer_emotion": "Ngạc nhiên"
+    },
+    {
+      "step": "Ưu đãi và khuyến mãi",
+      "desc": "Thông tin về chương trình khuyến mãi của cửa hàng",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Đánh giá sản phẩm",
+      "desc": "Đánh giá nhanh về chất lượng và giá trị sản phẩm",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng"
+    },
+    {
+      "step": "Phỏng vấn khách hàng",
+      "desc": "Phỏng vấn nhanh khách hàng về trải nghiệm mua sắm",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Tổng kết và giới thiệu",
+      "desc": "Tổng kết và giới thiệu thêm về các mặt hàng",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Hóa đơn trình 300k tặng ngay một lốc soda của Chibico. Mọi người có thể được mua cộng dồn nha. Phần quà được cộng dồn, cho nên mua càng nhiều quà càng nhiều nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "rẻ",
+    "đẹp",
+    "xinh",
+    "thơm",
+    "hay"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "tới cái chỗ này nó bán đồ rẻ nhất quận 6 luôn á.",
+    "Trời ơi cái chai sữa tắm 1kg mà có 29 cành nè, này nè rất là to luôn. Cái này xài mấy tháng nha.",
+    "Ở đây đồ rất là rẻ nha mọi người."
+  ],
+  "hook_content": "tới cái chỗ này nó bán đồ rẻ nhất quận 6 luôn á.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Liệt kê",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu một cửa hàng ở quận 6 nổi tiếng với giá cả phải chăng, tập trung vào các mặt hàng tiêu dùng và gia dụng với nhiều ưu đãi hấp dẫn. Người bán hàng nhiệt tình giới thiệu sản phẩm và tương tác với khách hàng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

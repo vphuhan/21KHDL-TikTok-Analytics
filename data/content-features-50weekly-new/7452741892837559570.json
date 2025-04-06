@@ -1,0 +1,91 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán quen",
+      "desc": "Giới thiệu quán hoa quả quen thuộc mỗi khi đến Thái Nguyên.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán"
+    },
+    {
+      "step": "Gọi món",
+      "desc": "Gọi sắn nóng và đen nóng để ăn tại chỗ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Miêu tả món ăn",
+      "desc": "Miêu tả hương vị ngọt cay của hoa quả và sắn nóng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Nhấn mạnh đặc sản",
+      "desc": "Nhấn mạnh chè sắn nóng là đặc sản mùa đông.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Chia sẻ thói quen",
+      "desc": "Chia sẻ thói quen ăn chè sắn thường xuyên.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đề xuất lựa chọn",
+      "desc": "Gợi ý chè sắn thay cho bữa trưa hoặc xế chiều.",
+      "impact_level": "2",
+      "viewer_emotion": "Cân nhắc"
+    },
+    {
+      "step": "Địa điểm quán",
+      "desc": "Địa điểm quán sắn gần quán hoa quả Thái Nguyên.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mọi người mà đi ăn hoa quả Thái viên thì phải ghé ngay vào đây ạ"
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngọt",
+    "cay",
+    "ấm người"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mùa đông là cứ phải ăn hai cái món này nữa",
+    "Không ngọt ngọt cay cay mà ăn quật cực kỳ nhá",
+    "Lạnh lạnh ăn cái này nó ấm người lắm"
+  ],
+  "hook_content": "Con 30.000 hoa quả lẫn lộn với.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu quán chè sắn nóng gần quán hoa quả Thái Nguyên, món ăn vặt yêu thích vào mùa đông với hương vị ngọt cay, ấm bụng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Vivi giới thiệu món tủy bò dây um bí đỏ và mời ăn",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Mở hộp",
+      "desc": "Mở hộp món ăn, Vivi ngửi và khen thơm",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Ăn tủy bò",
+      "desc": "Vivi ăn tủy bò chấm và khen ngậy",
+      "impact_level": "3",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Ăn nước um",
+      "desc": "Vivi ăn nước um và khen ngon",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn thử"
+    },
+    {
+      "step": "Ăn bí đỏ",
+      "desc": "Vivi ăn bí đỏ và khen ngon",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Khuyên mọi người nên thử món này",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "ngậy",
+    "ngon",
+    "siêu ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ngậy tuyệt đối.",
+    "Nước của em nó siêu ngon luôn.",
+    "Bí đỏ siêu ngon luôn mọi người ơi."
+  ],
+  "hook_content": "Hello mọi người, hôm nay Vivi sẽ múc ban tủy bò dây um với lại bí đỏ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang món tủy bò dây um bí đỏ. Vivi ăn và liên tục khen món ăn rất thơm, ngậy và ngon, đặc biệt là phần nước um và bí đỏ.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

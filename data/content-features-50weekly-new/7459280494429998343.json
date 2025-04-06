@@ -1,0 +1,101 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu set quà",
+      "desc": "Giới thiệu set quà Tết của bé Minh Nhật và giá cả.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về nội dung bên trong set quà."
+    },
+    {
+      "step": "Mô tả hình thức",
+      "desc": "Mô tả chi tiết bao bì, cách trang trí và các vật phẩm đi kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với vẻ ngoài chỉnh chu và đẹp mắt."
+    },
+    {
+      "step": "Đánh giá các loại khô",
+      "desc": "Review chi tiết từng loại khô về hương vị, độ tươi ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn nếm thử các loại khô."
+    },
+    {
+      "step": "Nhấn mạnh số lượng",
+      "desc": "Nhấn mạnh số lượng và sự đầy đặn của các hũ khô.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hài lòng với sự đầy đặn của set quà."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Đánh giá về số lượng khô và khả năng đáp ứng nhu cầu.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình với nhận xét về số lượng và tính tiện dụng."
+    },
+    {
+      "step": "Review khô gà",
+      "desc": "Review độ tơi và hương vị đặc biệt của khô gà.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với hương vị đặc biệt và sự đa dạng."
+    },
+    {
+      "step": "Đưa ra câu hỏi",
+      "desc": "Hỏi người xem về giá cả của set quà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tự hỏi liệu giá cả có hợp lý hay không."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Giá 800.000 thì mấy bạn thấy mắc hay rẻ?"
+  ],
+  "cta_type": [
+    "So sánh",
+    "Đặt câu hỏi"
+  ],
+  "emotion_keywords": [
+    "đẹp",
+    "ngon",
+    "thơm",
+    "ngậy",
+    "béo",
+    "đậm đà",
+    "mặn nhẹ",
+    "dai dai",
+    "ngọt thịt",
+    "ngon điên"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cộng một set 10 món khô mà từ khô bò, khô heo, khô gà từ trên biển đến dưới rừng như vậy.",
+    "Tôi thích á quà Tết á mọi người là phải đầy ủ như vậy nè mọi người cho nó tràn trề ê hề á nên kiểu mình khui ra á mình rất là có thiện cảm nha.",
+    "Điểm đặc biệt mấy khô gà hành vi nè mọi người, nó ngon điên, ăn với bánh tráng là ngon điên luôn á."
+  ],
+  "hook_content": "review set quà Tết của bé Minh Nhật. Giá 800.000 thì liệu có đáng tiền?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video review set quà Tết của bé Minh Nhật với giá 800.000, tập trung vào đánh giá chi tiết các loại khô bên trong, từ hình thức đến hương vị, và đưa ra cảm nhận cá nhân về độ đáng giá của sản phẩm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu và so sánh",
+      "desc": "Giới thiệu làm bò bít tết 10 phút và 100 phút để so sánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự khác biệt giữa hai cách làm."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Chọn thịt lõi vai, cắt thành hai miếng dày bằng nhau.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường, chuẩn bị xem nấu ăn."
+    },
+    {
+      "step": "Ướp thịt (100 phút)",
+      "desc": "Ướp thịt với gia vị, hương thảo, xạ hương và chuẩn bị sous vide.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, chờ đợi các bước tiếp theo."
+    },
+    {
+      "step": "Ướp thịt (10 phút)",
+      "desc": "Ướp thịt với gia vị tương tự và dầu ô liu, massage đều.",
+      "impact_level": "1",
+      "viewer_emotion": "Không có gì đặc biệt, vẫn theo dõi."
+    },
+    {
+      "step": "Áp chảo (10 phút)",
+      "desc": "Áp chảo mỗi mặt 1 phút, thêm bơ, tỏi, hương thảo.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn hơn khi thịt bắt đầu chín."
+    },
+    {
+      "step": "Sous vide và áp chảo (100 phút)",
+      "desc": "Thịt sous vide 90 phút, sau đó áp chảo nhanh mỗi mặt 30 giây.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về kết quả của phương pháp này."
+    },
+    {
+      "step": "Đánh giá và so sánh",
+      "desc": "Cắt và so sánh độ chín, độ mọng nước, màu sắc và hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú khi thấy sự khác biệt rõ rệt."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cực kỳ đáng để thử luôn nha."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "mềm",
+    "mọng nước",
+    "ưng cái mắt ghê chưa",
+    "không còn gì để chê"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "bò bít tết mà làm trong 10 phút và 100 phút nó sẽ khác nhau như thế nào?",
+    "Dễ thấy miếng bít tết 100 phút mọng nước và màu đẹp hơn hẳn luôn.",
+    "Còn độ ngon á thì khỏi phải so sánh, 100 phút chắc chắn là ngon hơn rồi."
+  ],
+  "hook_content": "bò bít tết mà làm trong 10 phút và 100 phút nó sẽ khác nhau như thế nào?",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "So sánh",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video so sánh cách làm bò bít tết trong 10 phút và 100 phút, từ khâu chuẩn bị, ướp thịt đến chế biến bằng phương pháp áp chảo và sous vide, cuối cùng đánh giá sự khác biệt về độ chín, độ mọng nước và hương vị.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

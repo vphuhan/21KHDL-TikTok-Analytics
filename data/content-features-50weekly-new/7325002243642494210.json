@@ -1,0 +1,96 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu Hotto Cup phô mai và sự thèm muốn sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Khám phá sản phẩm mới",
+      "desc": "Phát hiện phiên bản Hotto Cup mới với nhân xúc xích.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Miêu tả hương vị, nhân bánh và trải nghiệm ăn uống.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "So sánh các loại",
+      "desc": "So sánh nhân phô mai ngô và xúc xích, đánh giá cao.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Kết hợp bất ngờ",
+      "desc": "Thử chấm bánh vào Tteokbokki, khen ngon và hợp.",
+      "impact_level": "3",
+      "viewer_emotion": "Ngạc nhiên"
+    },
+    {
+      "step": "Gợi ý địa điểm mua",
+      "desc": "Đề xuất các siêu thị và Shopee để mua sản phẩm.",
+      "impact_level": "1",
+      "viewer_emotion": "Tiện lợi"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Này hết thì mình ra siêu thị Aeon, Lotte, Mega hay đặt Shopee về cho nhanh cũng được."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "mệt mỏi",
+    "sáng rỡ",
+    "minh mẫn",
+    "đúng gu",
+    "khoái",
+    "thơm",
+    "ngon",
+    "bất ngờ",
+    "đã",
+    "hấp dẫn",
+    "béo béo ngọt ngọt",
+    "chất lượng",
+    "hợp lý",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mới kéo cái sợi phô mai này thôi là thấy con mắt sáng rỡ lên liền.",
+    "Vừa ăn mà thấy nhân nào cũng đúng gu mình rồi á.",
+    "Bình thường là đã mê Hotto Cup phô mai rồi. Nay còn có nhân xúc xích phô mai nữa, cắn vô một cái mà bất ngờ luôn á."
+  ],
+  "hook_content": "Sáng dậy mệt mỏi, cảm thấy thiếu thiếu cái gì đó.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review sản phẩm Hotto Cup với nhiều phiên bản nhân khác nhau, từ phô mai truyền thống đến phô mai xúc xích và phô mai ngô, đồng thời gợi ý cách kết hợp với Tteokbokki và địa điểm mua hàng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

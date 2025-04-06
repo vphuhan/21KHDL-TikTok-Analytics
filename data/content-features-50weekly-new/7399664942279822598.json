@@ -1,0 +1,87 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về chuyến đi Tây Ninh để ăn mì cay.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đến quán",
+      "desc": "Đến quán Anh Min và được chào đón nhiệt tình.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Gọi món",
+      "desc": "Tụi Hoan order mì cay ngay khi vừa đến.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Nhận xét mì cay ngon và giới thiệu các món khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Khám phá",
+      "desc": "Khám phá các loại bánh tráng và mua mang về.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Mời tham gia",
+      "desc": "Mời Anh Min tham gia Megalive và kết thúc chuyến đi.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người nhớ ngày 7 tháng 8 này trên Square.",
+    "Nhớ tham gia cùng mẹ con Tùng Hoan nha mọi người."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo",
+    "Follow kênh"
+  ],
+  "emotion_keywords": [
+    "mệt",
+    "ê",
+    "đói bụng",
+    "thèm",
+    "ngon",
+    "mừng",
+    "hấp dẫn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ta vừa bước xuống xe, mà ổng niềm nở chào đón tỉnh mệt luôn á.",
+    "Tụi Hoan nhà mình á xuống đây là nó ăn một lượt hai tô mì cay luôn á.",
+    "Vô đây thấy bánh tráng toàn là bánh tráng."
+  ],
+  "hook_content": "Đây là ngày đầu tiên Tụi Hoan nó được ở Sì phố luôn, nhưng mà chỉ được ở buổi sáng thôi.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại hành trình hai mẹ con Tùng Hoan đi Tây Ninh để ăn mì cay ở quán Anh Min, đồng thời mời Anh Min tham gia phiên live của mình. Quán có nhiều món ăn hấp dẫn, đặc biệt là bánh tráng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

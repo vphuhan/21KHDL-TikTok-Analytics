@@ -1,0 +1,55 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu hạt nêm Knorr và công dụng của nó trong nấu ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm"
+    },
+    {
+      "step": "Nêu đặc điểm nổi bật",
+      "desc": "Nhấn mạnh các ưu điểm của hạt nêm Knorr như vị ngọt tự nhiên.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng"
+    },
+    {
+      "step": "Khẳng định an toàn",
+      "desc": "Đảm bảo an toàn khi sử dụng hạt nêm trong nấu ăn hàng ngày.",
+      "impact_level": "2",
+      "viewer_emotion": "An tâm khi sử dụng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "yên tâm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Hạt nêm Knorr từ thịt thăn xương ống và tủy với công thức mới giúp cho nước sốt tròn vị đậm đà",
+    "Thêm vị ngọt tự nhiên từ xương tủy chuẩn Việt ghép hầm trong nhiều giờ",
+    "Công thức không có chất tạo màu tạo ngọt nhân tạo cho nên nấu ăn ở nhà nêm món gì cũng yên tâm"
+  ],
+  "hook_content": "Nghe nhạc riết thèm bánh mì pate nên phải làm liền 1 chảo ăn cho đã",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu về hạt nêm Knorr từ thịt thăn xương ống và tủy, nhấn mạnh vào công thức mới giúp nước sốt đậm đà và an toàn khi sử dụng.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

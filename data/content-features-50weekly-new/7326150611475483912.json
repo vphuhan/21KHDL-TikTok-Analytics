@@ -1,0 +1,86 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu nguyên liệu và món ăn gợi ý từ AI của Knorr.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới lạ."
+    },
+    {
+      "step": "Sơ chế gỏi",
+      "desc": "Hướng dẫn sơ chế đu đủ, cà rốt và luộc thịt, tôm.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy công phu, tỉ mỉ."
+    },
+    {
+      "step": "Pha nước mắm",
+      "desc": "Chia sẻ công thức pha nước mắm gỏi đặc biệt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với bí quyết gia truyền."
+    },
+    {
+      "step": "Trộn gỏi",
+      "desc": "Hướng dẫn trộn gỏi và trình bày ra đĩa.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức muốn thử ngay."
+    },
+    {
+      "step": "Nấu canh",
+      "desc": "Hướng dẫn nấu canh gà nước dừa.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với sự kết hợp độc đáo."
+    },
+    {
+      "step": "Nêm nếm",
+      "desc": "Nêm gia vị và hoàn thành món canh gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy ấm cúng, thân quen."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Thưởng thức và nhận xét về món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn nếm thử món ăn ngon."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thông minh",
+    "thơm",
+    "hài hòa",
+    "ngon",
+    "rộn rã",
+    "lụp bụp"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cầu vừa đủ sung ra đứa thứ ba bây giờ, cái này là cầu cho gia đình sung túc, đủ đầy.",
+    "Trái sung mà mình cắn vô cái nó nổ lụp bụp ra thì nó cũng rất là giống như pháo thiệt ha.",
+    "Tết này nhất định phải thưởng món này cho mọi người, rất ngon luôn."
+  ],
+  "hook_content": "Hôm nay ngày giỗ em mang đồ cúng vậy á? Em mua đồ về bày thử coi Tết này mình chưng gì? Thì vừa có sung vừa có đu đủ nè. Cầu vừa đủ sung.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn nấu món gỏi đu đủ sung và canh gà nấu nước dừa, sử dụng nước mắm Knorr và bột nêm Knorr. Món ăn được gợi ý từ AI của Knorr, phù hợp để làm trong dịp Tết.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

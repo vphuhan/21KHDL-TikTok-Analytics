@@ -1,0 +1,89 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món nuốt chấm mắm ruốc và lý do ăn lại.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chuẩn bị",
+      "desc": "Liệt kê các nguyên liệu ăn kèm món nuốt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Đề cập bình luận",
+      "desc": "Giải thích về tên gọi của món ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Tập trung vào món ăn."
+    },
+    {
+      "step": "Thử nghiệm và so sánh",
+      "desc": "Thử chấm và trộn mắm để so sánh hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị với sự so sánh."
+    },
+    {
+      "step": "Miêu tả cảm nhận",
+      "desc": "Miêu tả vị giác và cảm giác khi ăn nuốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung được hương vị."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Đưa ra lựa chọn giữa hai cách ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tự hỏi nên thử cách nào."
+    },
+    {
+      "step": "Nhận xét thêm",
+      "desc": "Nhận xét về màu sắc và kích cỡ của nuốt.",
+      "impact_level": "1",
+      "viewer_emotion": "Không có nhiều cảm xúc."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "là ngon đáng thử nha."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "cay",
+    "giòn",
+    "mát lạnh",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "nuốt thì giòn nè, ăn vào thì tan ngay giống như mình đang ăn thạch vậy đó.",
+    "Cảm giác là rất là mát lạnh, mát hết cả người luôn.",
+    "ngon đáng thử nha."
+  ],
+  "hook_content": "hây, mọi người phải là nuốt hay nuốc mọi người.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món nuốt chấm mắm ruốc, người nói thử nghiệm hai cách ăn là chấm và trộn mắm, sau đó mô tả hương vị và cảm giác khi ăn. Cuối cùng, người nói đưa ra đánh giá cá nhân và khuyến khích người xem thử món ăn.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

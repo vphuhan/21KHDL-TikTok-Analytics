@@ -1,0 +1,80 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Khai tiệc",
+      "desc": "Mở đầu bằng lời chúc mừng sinh nhật và giới thiệu bánh gato.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp, vui vẻ."
+    },
+    {
+      "step": "Trải nghiệm vị giác",
+      "desc": "Miêu tả chi tiết các thành phần và hương vị của bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò, thèm thuồng."
+    },
+    {
+      "step": "Tương tác hài hước",
+      "desc": "Tương tác dí dỏm về việc ăn bánh có thể gây 'ngáo'.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị, hài hước."
+    },
+    {
+      "step": "Quà cho sóc",
+      "desc": "Dì tặng bánh cho cháu và một phần cho thú cưng.",
+      "impact_level": "2",
+      "viewer_emotion": "Đáng yêu, cảm động."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Tiếp tục miêu tả hương vị, cảm nhận khi ăn bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng, muốn thử."
+    },
+    {
+      "step": "Lời khen ngợi",
+      "desc": "Cháu liên tục khen bánh ngon và bày tỏ sự thích thú.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ, đồng tình."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thích",
+    "ngọt ngào",
+    "béo béo",
+    "mát"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ăn cái bánh này nó cũng bị ngáo nhá.",
+    "Nó có cái vị ngọt ngào của sô cô la rồi béo béo này nhẹ này.",
+    "Cắn miếng cảm thấy nó khá là mát nha."
+  ],
+  "hook_content": "Wow. Happy birthday sau nhá. Bánh gato.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video ghi lại cảnh dì cháu mukbang bánh gato nhân dịp sinh nhật, tập trung vào việc miêu tả hương vị và chia sẻ cảm xúc khi ăn. Em bé tỏ ra rất thích thú và liên tục khen bánh ngon.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Tường Hoan đi học lại và người mẹ chuẩn bị nấu ăn tối.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin cơ bản về ngày mới."
+    },
+    {
+      "step": "Chia sẻ công việc",
+      "desc": "Ba Tường Hoan hỗ trợ công việc nhà và chăm sóc con cái.",
+      "impact_level": "1",
+      "viewer_emotion": "Ấm áp, cảm thấy gia đình hạnh phúc."
+    },
+    {
+      "step": "Quảng cáo sản phẩm",
+      "desc": "Giới thiệu và bán các sản phẩm sâm, mật ong.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, quảng cáo sản phẩm."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Rửa rau và chuẩn bị nguyên liệu cho món thịt nướng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, chuẩn bị nấu ăn."
+    },
+    {
+      "step": "Làm sốt chấm",
+      "desc": "Hướng dẫn làm sốt tương đậu để ăn thịt nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị, muốn thử làm theo."
+    },
+    {
+      "step": "Trộn hành",
+      "desc": "Trộn hành để ăn kèm với thịt nướng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thêm nguyên liệu."
+    },
+    {
+      "step": "Nướng thịt",
+      "desc": "Nướng thịt và ăn cùng gia đình, trò chuyện với con.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm cúng, muốn tham gia bữa ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời ăn cơm chung cả nhà mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngon quá trời",
+    "ăn phê",
+    "đã"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mới biết được cái công thức làm sốt tương đậu ăn thịt nướng ngon lắm mọi người.",
+    "Ăn phê. Ngon quá trời. Ngon quá trời.",
+    "Lúc mà ở Việt Nam á cũng thèm, cũng ăn thịt nướng á nhưng mà không có đầy đủ giống như ở bên Hàn. Nên là bộ mình về tới Hàn á là làm liền một bữa đầy đủ như thế này ăn cho nó đã nha."
+  ],
+  "hook_content": "Hôm nay là ngày đầu tiên Tường Hoan đi học lại, mà chưa gì hết là đã nước mắt ngắn, nước mắt dài rồi.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh mẹ chuẩn bị bữa tối thịt nướng Hàn Quốc cho gia đình sau ngày đầu tiên con đi học lại, đồng thời chia sẻ công thức làm sốt tương đậu ăn thịt nướng và quảng cáo các sản phẩm sâm, mật ong của gia đình.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

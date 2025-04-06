@@ -1,0 +1,94 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu vấn đề",
+      "desc": "Nhấn mạnh sự khó khăn khi bày tỏ cảm xúc với ba mẹ.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm"
+    },
+    {
+      "step": "Chia sẻ trải nghiệm cá nhân",
+      "desc": "Người nói kể về việc lớn tiếng với mẹ và cảm thấy hối lỗi.",
+      "impact_level": "2",
+      "viewer_emotion": "Xúc động"
+    },
+    {
+      "step": "Giới thiệu giải pháp",
+      "desc": "Sử dụng món ăn để bày tỏ tình cảm và xin lỗi.",
+      "impact_level": "3",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Hướng dẫn nấu ăn",
+      "desc": "Hướng dẫn làm món cơm bò lúc lắc và bơ dầm sữa.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Nấu ăn và bày trí",
+      "desc": "Quá trình nấu ăn và trang trí món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp"
+    },
+    {
+      "step": "Mời mẹ thưởng thức",
+      "desc": "Mời mẹ ăn và nhận xét về món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Vui vẻ"
+    },
+    {
+      "step": "Bày tỏ tình cảm",
+      "desc": "Gửi lời xin lỗi và cảm ơn mẹ.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm động"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Kiến thức",
+    "Sáng tạo",
+    "Chuyên nghiệp"
+  ],
+  "cta_content": [
+    "Mấy ông mấy bà nhớ tham gia cái mini game này của nhà hàng Ông Thọ nha.",
+    "Nấu món ngon biết nói để tặng người thương, quay clip kèm hashtag sẽ có cơ hội trúng những cái quà tặng rất là hấp dẫn."
+  ],
+  "cta_type": [
+    "Chia sẻ công thức",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngọt ngào",
+    "thơm béo",
+    "mọng nước",
+    "béo mịn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Con đường ngắn nhất dẫn đến trái tim là thông qua bao tử.",
+    "Nấu các món ngon chuột lỗi.",
+    "Nhờ ướp sữa Ông Thọ mà cái phần thịt của mình nó mọng nước không có bị khô ha."
+  ],
+  "hook_content": "mấy bà ta có câu con đường ngắn nhất dẫn đến trái tim là thông qua bao tử.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn",
+    "Kể chuyện"
+  ],
+  "summarization": "Video kể về việc một người con muốn xin lỗi mẹ bằng cách nấu hai món ăn ngon là cơm bò lúc lắc và bơ dầm sữa, sử dụng sữa Ông Thọ để tăng thêm hương vị và độ mềm cho món ăn, đồng thời tham gia minigame của nhãn hàng để có cơ hội trúng thưởng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

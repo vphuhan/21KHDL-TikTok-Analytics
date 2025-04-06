@@ -1,0 +1,92 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu ổi, xoài mua ở tiệm Việt Nam gần nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về giá cả."
+    },
+    {
+      "step": "Đánh giá trái cây",
+      "desc": "Nhận xét giá ổi đắt, trái cây bên Nhật không phải lúc nào cũng có.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Khoe đồ tiếp tế",
+      "desc": "Mừng rớt nước mắt vì được ba mẹ gửi đồ ăn sang.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú."
+    },
+    {
+      "step": "Giới thiệu món chấm",
+      "desc": "Giới thiệu nước chấm 'thần thánh' ăn với mọi món.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn."
+    },
+    {
+      "step": "Giới thiệu món luộc",
+      "desc": "Giới thiệu món giò trửng luộc và sự mong chờ món xoài non.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Giới thiệu tràng heo",
+      "desc": "Giới thiệu món tràng heo giòn ngon và cách ăn đặc biệt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò."
+    },
+    {
+      "step": "Kết luận món ăn",
+      "desc": "Nhấn mạnh vai trò nước chấm, khen ổi xá lị và xoài bao tử.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "choáng",
+    "mừng rớt nước mắt",
+    "nóng lòng",
+    "ngon",
+    "ngọt",
+    "giòn",
+    "cay",
+    "hợp"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mấy cái trái cây bên Nhật này thì tới mùa mới có chứ không phải lúc nào cũng ăn được đâu.",
+    "Mình chỉ đợi cái hũ nước chấm thần thánh này bữa giờ để gửi sang để chấm ăn trái cây.",
+    "Nghe nói món này ở Việt Nam cũng khó kiếm dữ lắm á."
+  ],
+  "hook_content": "Hôm nay giờ thì nghe nói tiệm Việt Nam gần nhà có ổi với xài để bữa nay tấp vô coi thử coi làm sao.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video chia sẻ trải nghiệm mua ổi và xoài tại Nhật, cùng với món tràng heo và nước chấm đặc biệt được gửi từ Việt Nam. Người nói bày tỏ sự yêu thích các món ăn quê hương và đánh giá cao hương vị của chúng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

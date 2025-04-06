@@ -1,0 +1,73 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu việc dẫn anh trai đi mua vàng và ăn uống.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Chuẩn bị",
+      "desc": "Giới thiệu và sử dụng mặt nạ dưỡng da nhanh chóng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Mua sắm",
+      "desc": "Mua vàng cho anh trai nhưng gặp trục trặc về kích cỡ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Ăn uống",
+      "desc": "Ăn thịt bò nướng và nấm mỡ tại quán.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Niềng răng",
+      "desc": "Thảo luận về việc niềng răng và kế hoạch khám răng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "ngọt",
+    "cay",
+    "sướng",
+    "khỏe ru"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nấm mở nó ngọt hơn thịt bò luôn.",
+    "Bò ngon cải này hết ngọt luôn rồi.",
+    "Vậy mà không dư nữa rồi thôi thu ổng luôn á."
+  ],
+  "hook_content": "Bữa giờ về lại hàng cũng lâu rồi mà bữa nay ông anh mình lãnh được lương. Nay mình sẽ dắt ổng đi mua vàng để dành Tết về cưới vợ nha.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại hành trình đi mua vàng cho anh trai và cùng nhau đi ăn thịt nướng. Người em chia sẻ về cuộc sống sinh hoạt thường ngày và các dự định cá nhân.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

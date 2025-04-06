@@ -1,0 +1,75 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu chai không khí Tết Đà Lạt và khoai mật sấy dẻo.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thưởng thức và đánh giá",
+      "desc": "Ăn khoai mật sấy dẻo và ngửi không khí từ chai.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Nhận xét về khoai",
+      "desc": "Đánh giá hương vị, độ dẻo và cảm nhận khi ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Nhận xét về không khí",
+      "desc": "Đánh giá mùi thơm của chai không khí Đà Lạt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Tổng kết",
+      "desc": "Đưa ra kết luận chung về sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "dẻo",
+    "ngọt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Khoai lang mà mình nhìn nó cứ như kiểu gân bò ấy, rất là đẹp.",
+    "Ăn nó giống như kiểu một miếng gân bò được nấu nhừ ấy, nó dẻo dẻo á, rất là hay.",
+    "Có vẻ như là người ta đã bôi một cái lớp sáp thơm hoặc là xịt nước hoa lên cái chỗ miệng chai này, nó có một cái mùi rất là thơm luôn."
+  ],
+  "hook_content": "Xin chào anh em trong hội những người chơi không khí nha. Hôm nay thì mình xin được phép giao lưu với anh em cái chai không khí Tết Đà Lạt.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu và đánh giá chai không khí Tết Đà Lạt và khoai mật sấy dẻo, tập trung vào trải nghiệm hương vị và mùi thơm của sản phẩm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

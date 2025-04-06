@@ -1,0 +1,89 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán A Búi Dimsum ở quận 11 mới mở.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thông tin hữu ích."
+    },
+    {
+      "step": "Review món thịt viên khổng lồ",
+      "desc": "Giới thiệu và đánh giá món thịt viên khổng lồ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Review Dimsum",
+      "desc": "Giới thiệu các món Dimsum làm thủ công tại quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm ăn dimsum."
+    },
+    {
+      "step": "Review Mì Xào Hải Sản",
+      "desc": "Giới thiệu món mì xào hải sản nên thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn thử mì xào."
+    },
+    {
+      "step": "Review Món Chiên và Sốt",
+      "desc": "Giới thiệu các món chiên kết hợp sốt chanh dây, phô mai.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn với món sốt."
+    },
+    {
+      "step": "Review Trà Sữa",
+      "desc": "Giới thiệu món trà sữa nên thử.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không quá đặc biệt."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "nếu các bạn đang tìm một quán điểm tâm ngon, giá cả hợp lý thì chắc chắn phải lưu lại quán này nha.",
+    "Bạn nào mà đang thèm mấy món này á thì nhớ lưu lại địa chỉ Tính để ở đây nha."
+  ],
+  "cta_type": [
+    "Lưu video",
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "dai ngon",
+    "đậm đà",
+    "hợp lý",
+    "mê",
+    "béo",
+    "ngon",
+    "thèm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trên cái con đường Công Chúa Ngọc Hân này, cái tiệm A Búi Dimsum này mới mở thôi nhưng mà lúc nào cũng đông khách hết.",
+    "Ăn ở đây khác hẳn với nhiều nơi. Vì ở đây Tính thấy nhân cũng khá là nhiều, giá cả là hợp lý.",
+    "Tính cực kỳ thích cái sốt chanh dây của quán của mọi người. Chấm với tôm hoặc tàu hũ ki tôm thịt, ăn hơi bị dính luôn nè."
+  ],
+  "hook_content": "đây là viên heo viên khổng lồ.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu quán A Búi Dimsum ở quận 11 với các món ăn đặc sắc như thịt viên khổng lồ, dimsum thủ công, mì xào hải sản và các món chiên kèm sốt, cùng với trà sữa.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

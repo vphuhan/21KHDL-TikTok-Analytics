@@ -1,0 +1,93 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Thông báo về sức khỏe có vấn đề và quyết định ăn thanh đạm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về vấn đề sức khỏe và món ăn."
+    },
+    {
+      "step": "Mua cá",
+      "desc": "Giới thiệu loại cá lạ mua ở siêu thị, nghi có trứng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự tò mò về món mới."
+    },
+    {
+      "step": "Chế biến",
+      "desc": "Mô tả quá trình hấp trứng cá với sả trong một tiếng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, chờ đợi kết quả."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Nếm thử trứng cá, mô tả vị mềm béo như tàu hũ non.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn thử ngay lập tức."
+    },
+    {
+      "step": "Nghi ngờ",
+      "desc": "Tự hỏi liệu đây có phải trứng cá hay không.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò và hoang mang."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Nhấn mạnh vị béo và cần ăn kèm muối tiêu.",
+      "impact_level": "2",
+      "viewer_emotion": "Ghi nhớ mẹo ăn ngon."
+    },
+    {
+      "step": "Hỏi thông tin",
+      "desc": "Hỏi khán giả về tên loại cá.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, muốn biết thêm thông tin."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Ai mà biết con cá này tên gì thì nói cho mình biết với nghe"
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "hơi hoảng hồn",
+    "tò mò",
+    "tươi roi rói",
+    "ngon",
+    "lạ lạ",
+    "thơm",
+    "mềm",
+    "béo",
+    "ngọt ngọt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ta nói suốt ngày cứ nạp vô không à chứ không bao giờ mà biết tống khứ ra hết",
+    "Ăn nó mà cứ mềm mềm béo béo như là tàu hũ non vậy đó, nó có một cái độ ngọt ngọt y như là cái vị sữa",
+    "Ý là mình không dám gắp mạnh bạo luôn đó mà nó bể ra tùm lum tùm lưa hết."
+  ],
+  "hook_content": "Hôm trước khám sức khoẻ ở trường á thì thầy có báo lại là sức khoẻ của mình có vấn đề.",
+  "hook_type": [
+    "Gây tò mò",
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ trải nghiệm ăn thử một loại cá lạ có trứng, sau khi người nói phát hiện vấn đề sức khỏe và muốn ăn thanh đạm hơn. Người nói mô tả chi tiết hương vị và kết cấu của món ăn, đồng thời hỏi khán giả về tên loại cá.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Trung lập"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu sô cô la ông già phiên bản toonies",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Ăn và cảm nhận",
+      "desc": "Ăn và so sánh hương vị với sô cô la ông già",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Đánh giá về độ xốp của sô cô la",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "wow",
+    "khá là"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Vị y hệt luôn",
+    "Có đậm mùi của ca cao nguyên chất",
+    "Khá là giống với sôcola ông già nhưng mà xốp hơn"
+  ],
+  "hook_content": "sôcola ông già, không phải đâu. Cái này giống sôcola ông già.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang sô cô la ông già phiên bản toonies, người ăn đánh giá hương vị giống sô cô la ông già nhưng xốp hơn và có vị ca cao nguyên chất đậm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Ngạc nhiên"
+  ]
+}

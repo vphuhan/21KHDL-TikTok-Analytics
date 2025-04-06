@@ -1,0 +1,83 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu chuyến đi chơi",
+      "desc": "Chia sẻ về chuyến đi chơi gia đình và kỷ niệm cũ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Ăn hamburger tạm",
+      "desc": "Gia đình ghé ăn hamburger vì không tìm được quán vắng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Về nhà nấu mì",
+      "desc": "Quyết định về nhà nấu mì ăn khuya vì đói và lạnh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm ăn"
+    },
+    {
+      "step": "Giới thiệu mì gói",
+      "desc": "Giới thiệu mì Shin Ramyun yêu thích và cách nấu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Nấu mì và topping",
+      "desc": "Nấu mì với bạch tuộc và hành lá, chuẩn bị ăn khuya.",
+      "impact_level": "3",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Mời ăn cùng",
+      "desc": "Mời mọi người ăn tối khuya cùng gia đình.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Giờ mọi người ăn tối chung với cả nhà mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "vui vẻ",
+    "hạnh phúc",
+    "khoái",
+    "mê",
+    "ngon",
+    "lạnh"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đến đây cái nhớ lại cái hồi mới qua ghê luôn á, mà thời gian đúng là trôi nhanh thật, chớp mắt một cái mình đã có ngay hai bé xinh xắn đáng yêu, và một gia đình nhỏ rất là hạnh phúc luôn.",
+    "Không biết mọi người ăn qua cái mì Shin Ramyun này chưa ha, mình ăn qua một lần là mình khoái, mê đến giờ luôn.",
+    "Giờ này quá giờ người ta cũng đóng cửa hết rồi, chứ không thôi mình đi mua hành mình bỏ vô thêm rồi đó."
+  ],
+  "hook_content": "Hôm nay mình chở Tùng Hân với Soo Hon đi chơi một bữa mà rảnh quá trời luôn.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video kể về một ngày đi chơi của gia đình, sau đó cả nhà về nấu mì gói ăn khuya. Chủ yếu tập trung vào quá trình nấu mì và chia sẻ cảm xúc khi ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

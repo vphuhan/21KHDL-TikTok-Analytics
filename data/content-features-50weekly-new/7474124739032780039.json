@@ -1,0 +1,95 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Khẳng định chất lượng, sẵn sàng đền nếu không giống quảng cáo.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng quán."
+    },
+    {
+      "step": "Độ tin cậy",
+      "desc": "Nhấn mạnh quán có cân để đảm bảo định lượng cho khách.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với sự minh bạch."
+    },
+    {
+      "step": "Giá cả",
+      "desc": "So sánh giá bún bò sườn chìa và các loại khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy giá cả hợp lý."
+    },
+    {
+      "step": "Đánh giá bếp",
+      "desc": "Mô tả bếp mở, sạch sẽ để khách hàng an tâm.",
+      "impact_level": "2",
+      "viewer_emotion": "Yên tâm về vệ sinh."
+    },
+    {
+      "step": "Bún bò trộn",
+      "desc": "Giới thiệu bún bò trộn đặc biệt với nhiều topping.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng món ăn."
+    },
+    {
+      "step": "Khẳng định chất lượng",
+      "desc": "Nhấn mạnh đồ ăn được cân đúng định lượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy tin tưởng."
+    },
+    {
+      "step": "Địa điểm mới",
+      "desc": "Thông báo quán chuyển địa điểm, không gian rộng rãi hơn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn ghé thăm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "nhất định phải ăn cho tôi là một cái tô bún bò trộn.",
+    "Mấy bà tới đây ăn bún bò mà nhớ kêu thêm luôn cái ly cà phê gì mà hạnh nhân á, tôi thấy uống cái ly đó ngon dữ lắm á nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "mềm",
+    "đậm đà",
+    "mê",
+    "đỉnh cao",
+    "rẻ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "mấy bạn tới đây mà kêu tô bún bò mà không giống như ở trên hình mà tôi quay là tôi tới đây tôi đền cho mấy ông mấy bà nguyên cái tô đó luôn.",
+    "Trời ơi cái sườn chìa nó to nó nặng dữ lắm mà thịt nhiều lắm mấy ông mấy bà ơi.",
+    "Ai ăn đậm là thêm một cái tí mắm ruốc người ta đã xào sẵn nhưng mà nhớ thêm vô đi, nó sẽ đậm đà và ngon lắm."
+  ],
+  "hook_content": "mấy bạn tới đây mà kêu tô bún bò mà không giống như ở trên hình mà tôi quay là tôi tới đây tôi đền cho mấy ông mấy bà nguyên cái tô đó luôn.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu quán bún bò cậu Hai với nhiều loại bún bò khác nhau như bún bò sườn chìa, bún bò trộn. Người quay phim đánh giá cao chất lượng, giá cả và không gian quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

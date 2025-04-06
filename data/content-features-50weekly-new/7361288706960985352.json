@@ -1,0 +1,92 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món tokbokki khoai lang giúp giải cứu khoai lang.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới lạ."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Hấp khoai lang, tán nhuyễn, trộn với bột năng và nước.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, dễ hiểu."
+    },
+    {
+      "step": "Tạo hình tokbokki",
+      "desc": "Nặn bột thành hình tokbokki dài hoặc cắt nhỏ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với cách tạo hình đơn giản."
+    },
+    {
+      "step": "Luộc tokbokki",
+      "desc": "Luộc tokbokki đến khi nổi lên và ngâm nước lạnh.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thao tác quen thuộc."
+    },
+    {
+      "step": "Pha nước sốt",
+      "desc": "Pha nước sốt tokbokki với tương ớt, bột, đường, xì dầu.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, công thức dễ làm."
+    },
+    {
+      "step": "Hoàn thành",
+      "desc": "Đun tokbokki với sốt, thêm topping tùy thích.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn, muốn thử ngay."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Miêu tả hương vị, độ dai và cảm xúc khi ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn ăn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "sướng",
+    "dai",
+    "thơm",
+    "cay",
+    "cay xè",
+    "ngon cực",
+    "nỗi sợ",
+    "áp lực"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cắn được cái miếng Topokki nó to nó dài như thế này ăn nó sướng hết cái miệng ý.",
+    "Miếng Topokki thì dai, nó dai như là Topokki làm từ bột gạo ấy, và lại còn thơm mùi khoai lang nữa cơ.",
+    "Ăn khoai lang bây giờ trở thành nỗi sợ với áp lực chứ."
+  ],
+  "hook_content": "Nhờ có cái món Topokki làm từ khoai lang siêu to siêu dài này mà mình đã giải cứu được cho mẹ mình thêm hai cân khoai lang nữa đấy.",
+  "hook_type": [
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm tokbokki từ khoai lang để giải cứu khoai lang thừa, chia sẻ công thức và cảm nhận về món ăn.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

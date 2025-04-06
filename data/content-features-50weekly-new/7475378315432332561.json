@@ -1,0 +1,79 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu các món ngâm tương và trải nghiệm ăn tối.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Nhận xét về độ ngon và giá cả của các món.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với đánh giá chân thật."
+    },
+    {
+      "step": "Miêu tả chi tiết",
+      "desc": "Mô tả hương vị, thành phần và cách ăn kèm.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm ăn."
+    },
+    {
+      "step": "Đánh giá ưu nhược điểm",
+      "desc": "Nêu bật ưu điểm và nhược điểm của món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cân nhắc trước khi thử."
+    },
+    {
+      "step": "Miêu tả chi tiết hơn",
+      "desc": "Miêu tả độ tươi ngon và cách chế biến tôm.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng về độ tươi ngon."
+    },
+    {
+      "step": "Đánh giá số lượng",
+      "desc": "Đánh giá về số lượng và gợi ý cách ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Biết được khẩu phần phù hợp."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "cay nhẹ",
+    "béo",
+    "giòn giòn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mấy món này thì ngon thiệt mà mỗi lần mà ăn á trời ơi nó đau ví nhẹ lắm luôn á.",
+    "Nói cá hồi nó béo gì đâu luôn mọi người.",
+    "Con tôm mình nó bóng lưỡng luôn á mọi người, ăn vào thì nó giòn giòn."
+  ],
+  "hook_content": "Hêy mọi người, ta nói dính chưởng với lại cái món ngâm tương này rồi, là mỗi ngày ăn một tiệm khác nhau nè.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang về các món ngâm tương như trứng, tôm và cá hồi, được người nói đánh giá cao về hương vị nhưng cũng chỉ ra một số nhược điểm như giá cả và độ lạnh của món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

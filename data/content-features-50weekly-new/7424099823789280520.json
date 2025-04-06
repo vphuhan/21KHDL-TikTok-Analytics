@@ -1,0 +1,79 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Chào hỏi và giới thiệu",
+      "desc": "Chào chủ quán, giới thiệu mục đích đến quán xôi chị Thảo.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với cách tiếp cận tự nhiên."
+    },
+    {
+      "step": "Order món",
+      "desc": "Order xôi xéo thịt kho và yêu cầu làm đầy bát.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ đầy của bát xôi."
+    },
+    {
+      "step": "Trải nghiệm và đánh giá",
+      "desc": "Đánh giá các thành phần của xôi và hương vị tổng thể.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đói bụng và muốn thử."
+    },
+    {
+      "step": "Tương tác với chủ quán",
+      "desc": "Hỏi giá và trò chuyện với chủ quán và người quen.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với sự hài hước."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Cảm ơn và chúc chủ quán may mắn.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy vui vẻ."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "dẻo",
+    "thơm",
+    "béo ngậy",
+    "bùi",
+    "đậm đà",
+    "sướng",
+    "ưng",
+    "kinh khủng",
+    "vãi đỉnh"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đấy nhưng mà làm giúp em đến khi nào đầy cái bát này thì thôi nhá.",
+    "Chả thì bản rất là to nên là ăn cảm giác nó rất là sướng cái mồm.",
+    "Ăn sóng nói gió vãi đỉnh, vãi đỉnh, vãi đỉnh luôn."
+  ],
+  "hook_content": "Em chào chị ạ. Chị có phải là chị Thảo bán xôi vợ của anh Dương gió tai không chị?",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quán xôi chị Thảo nổi tiếng, tập trung vào trải nghiệm ăn xôi xéo đầy đặn với nhiều topping hấp dẫn và tương tác hài hước với chủ quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

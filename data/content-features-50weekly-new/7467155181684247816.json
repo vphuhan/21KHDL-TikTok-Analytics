@@ -1,0 +1,75 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Cháu đói bụng và muốn ăn một món khác bánh chưng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thèm ăn cùng."
+    },
+    {
+      "step": "Thỏa thuận bí mật",
+      "desc": "Dì đồng ý nấu mì cay nhưng không cho mẹ biết.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thú vị với sự lén lút."
+    },
+    {
+      "step": "Thêm topping",
+      "desc": "Tìm thêm xúc xích và phô mai để tăng thêm hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ món mì cay hấp dẫn."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Cả hai người cùng nhau ăn mì cay một cách ngon lành.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng và muốn ăn ngay."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Nhận xét món mì cay rất ngon và vừa miệng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá và muốn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "đói",
+    "ngán",
+    "thích",
+    "tuyệt",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mấy hôm nay Tết ăn bánh chưng ngán quá rồi dì ơi!",
+    "Cắt được ăn mì cay thích quá dì nhỉ, chuẩn luôn."
+  ],
+  "hook_content": "Dì ơi cháu đói rồi quá!",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Đối thoại",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh dì cháu cùng nhau ăn mì cay tại nhà. Hai dì cháu thỏa thuận bí mật không cho mẹ biết và cùng nhau thưởng thức món ăn một cách ngon lành.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

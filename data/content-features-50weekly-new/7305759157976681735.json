@@ -1,0 +1,90 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Than vãn về tài chính",
+      "desc": "Than thở về việc chi tiêu nhiều, phải ăn mì gói qua ngày.",
+      "impact_level": "2",
+      "viewer_emotion": "Thông cảm"
+    },
+    {
+      "step": "Giới thiệu nguyên liệu",
+      "desc": "Giới thiệu con tôm to mua để ăn kèm mì tôm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Chuẩn bị",
+      "desc": "Hấp tôm và chuẩn bị mì gói, gia vị.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Trình bày thành phẩm",
+      "desc": "Giới thiệu tô mì tôm với tôm hấp.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Ăn mì",
+      "desc": "Ăn mì gói và nhận xét về hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm bụng"
+    },
+    {
+      "step": "Ăn tôm",
+      "desc": "Ăn tôm và miêu tả độ tươi ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Khao khát"
+    },
+    {
+      "step": "Đúc kết",
+      "desc": "Rút ra kinh nghiệm ăn tôm.",
+      "impact_level": "1",
+      "viewer_emotion": "Hài hước"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "béo",
+    "ngọt",
+    "chua cay",
+    "ấm người",
+    "thèm",
+    "đói bụng",
+    "rung tay rung giò",
+    "chán"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đồ đông lạnh vậy đó chứ nó ngọt ngay à, ngọt tới từng cái ngoe luôn.",
+    "Ta nói nó chắc mà nó ngọt kinh khủng khiếp.",
+    "Hình như là những con tôm to thì nó mới có gạch giống vậy."
+  ],
+  "hook_content": "Nếu mình chỉ đi làm mà không cần nuôi mấy ông thầy bà cô trong trường thì chắc mình thành đại gia mất tiêu rồi.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ về trải nghiệm ăn mì tôm với tôm hấp cỡ lớn do cuối tháng eo hẹp. Người nói vừa ăn vừa miêu tả hương vị và cảm xúc một cách chân thực.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bún bò và chả quế trong ngày tuyết rơi.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, giới thiệu món ăn đơn giản."
+    },
+    {
+      "step": "Cảm nhận về thời tiết",
+      "desc": "Miêu tả thời tiết lạnh và trải nghiệm của gia đình.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị khi chia sẻ về thời tiết đặc biệt."
+    },
+    {
+      "step": "Chuẩn bị chả quế",
+      "desc": "Hướng dẫn sơ bộ cách làm chả quế từ thịt xay.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị với công đoạn chuẩn bị chả quế."
+    },
+    {
+      "step": "Hấp chả quế",
+      "desc": "Mô tả công đoạn hấp chả và thay thế lá chuối.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, công đoạn hấp chả đơn giản."
+    },
+    {
+      "step": "Nấu bún bò",
+      "desc": "Giới thiệu các nguyên liệu nấu bún bò đơn giản.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, nấu bún bò khá nhanh chóng."
+    },
+    {
+      "step": "Hoàn thiện và cắt chả",
+      "desc": "Cắt chả quế và thêm vào bún bò đã nấu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị khi thấy thành phẩm chả quế."
+    },
+    {
+      "step": "Thưởng thức và mời",
+      "desc": "Cả nhà cùng ăn bún bò và mời mọi người cùng ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp, cảm giác gia đình quây quần."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "mời mọi người ăn tối chung với cả nhà mình nha"
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "dai",
+    "dễ thương",
+    "đẹp trai",
+    "tình cảm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trời lạnh muốn run luôn mà ba anh em nó rủ nhau đi mua kem về ăn.",
+    "Nhà làm được có khác, miếng chả nào miếng chả nấy chất lượng quá trời luôn."
+  ],
+  "hook_content": "nay cả nhà mình ăn bún bò mà nghe cái ngày tiết ghê siêu nhiều luôn á mọi người.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh gia đình cùng nhau ăn bún bò trong ngày tuyết rơi, đồng thời chia sẻ cách làm chả quế đơn giản tại nhà. Người làm video mời mọi người cùng ăn tối chung với gia đình.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Nhận xét về chất lượng và giá cả cạnh tranh của kính cường lực.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về chất lượng sản phẩm."
+    },
+    {
+      "step": "Trải nghiệm thực tế",
+      "desc": "Hướng dẫn các bước dán kính cường lực và đánh giá.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích và dễ thực hiện theo."
+    },
+    {
+      "step": "Đánh giá sau khi dán",
+      "desc": "Nhận xét về độ mịn, khả năng hút bọt khí và so sánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng hơn về sản phẩm."
+    },
+    {
+      "step": "Kêu gọi mua hàng",
+      "desc": "Cung cấp link mua hàng và thông tin về số lượng bán.",
+      "impact_level": "1",
+      "viewer_emotion": "Cân nhắc mua sản phẩm."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Ok, và mình sẽ để link shop bán ở giỏ hàng để cho mọi người tiện tham khảo."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "rất là tốt",
+    "cạnh tranh",
+    "ghê gớm",
+    "trơn",
+    "mịn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đây là cái cách mà giúp mình tiết kiệm vài chục nghìn trong vòng vài phút.",
+    "Thả xuống cái là nó hút hết bọt khí ra luôn mọi người ạ.",
+    "Mặc dù mình dán bị lệch rồi nhưng mà nó không có một tí bọt khí nào."
+  ],
+  "hook_content": "Đây là cái cách mà giúp mình tiết kiệm vài chục nghìn trong vòng vài phút.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn cách tự dán kính cường lực để tiết kiệm chi phí, đồng thời review chất lượng của một loại kính cường lực giá rẻ được nhập trực tiếp từ nhà máy. Người bán cung cấp link mua hàng và cho biết sản phẩm đã bán được hơn 10.000 chiếc.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

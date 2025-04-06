@@ -1,0 +1,90 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Út giới thiệu món chem chép hấp sả và mắm thái.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, giới thiệu món ăn đơn giản."
+    },
+    {
+      "step": "Ăn thử và miêu tả",
+      "desc": "Út ăn thử chem chép chấm mắm thái và mô tả vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị khi nghe miêu tả hương vị."
+    },
+    {
+      "step": "Kết hợp với rau",
+      "desc": "Út cuốn chem chép với xà lách, dưa leo và ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự kết hợp này."
+    },
+    {
+      "step": "Nhấn mạnh mắm thái",
+      "desc": "Út khen mắm thái và cách ăn kèm ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử loại mắm này."
+    },
+    {
+      "step": "Gói và ăn",
+      "desc": "Út gói chem chép lại và tiếp tục ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy ngon miệng hơn khi gói."
+    },
+    {
+      "step": "Hỏi ý kiến",
+      "desc": "Út hỏi người xem đã thử ăn như vậy chưa.",
+      "impact_level": "1",
+      "viewer_emotion": "Tương tác với người xem."
+    },
+    {
+      "step": "Nhấn mạnh mắm thái (lần 2)",
+      "desc": "Út nhắc lại tầm quan trọng của mắm thái.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm món ăn này."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nếu mà chưa thì thử nghe."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "đã",
+    "tâm đắc",
+    "ổn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Út thấy gói ăn ngon hơn, ăn ngon hơn á.",
+    "Cái chai mắm thái này Út tâm đắc lắm luôn á mọi người.",
+    "Ăn kèm với xà lách và dưa leo khá là ngon luôn á mọi người."
+  ],
+  "hook_content": "Mời mọi người ăn cùng Út nhen.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang món chem chép hấp sả chấm mắm thái của Út Phụng Kim, tập trung vào trải nghiệm ăn uống và đánh giá hương vị món ăn. Út cuốn chem chép với rau và khen ngon, đặc biệt nhấn mạnh vào chai mắm thái yêu thích.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

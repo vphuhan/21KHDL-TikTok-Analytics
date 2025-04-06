@@ -1,0 +1,70 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ếch chiên giòn và ếch nấu lá me.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị món ăn."
+    },
+    {
+      "step": "Ăn và miêu tả",
+      "desc": "Thưởng thức món ăn kèm nước mắm và miêu tả hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn ăn thử."
+    },
+    {
+      "step": "Nhấn mạnh về trứng",
+      "desc": "Tập trung vào phần trứng của ếch và hương vị lá me.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với phần trứng."
+    },
+    {
+      "step": "So sánh các con ếch",
+      "desc": "So sánh hương vị và đặc điểm của các con ếch khác nhau.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Nêu cảm nhận về món ếch nấu tỏi ớt xả.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn biết công thức món ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Trứng không.",
+    "Lá me này á ai muốn chua chua nhiều á thì mình bớp lá me ra nha.",
+    "Con nhỏ cái xương nó mềm hơn."
+  ],
+  "hook_content": "Mời mọi người ăn con ếch òn, chỗ em gọi là ảnh ương nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang món ếch chiên giòn và ếch nấu lá me, tập trung vào hương vị đặc trưng và phần trứng của ếch.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

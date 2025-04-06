@@ -1,0 +1,92 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món chả Phượng và ý nghĩa của món ăn ngày Tết.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự chuẩn bị kỹ lưỡng cho món ăn."
+    },
+    {
+      "step": "Liệt kê nguyên liệu",
+      "desc": "Liệt kê các nguyên liệu cần thiết để làm món chả Phượng.",
+      "impact_level": "1",
+      "viewer_emotion": "Nắm bắt được các nguyên liệu cần thiết."
+    },
+    {
+      "step": "Trộn nhân chả",
+      "desc": "Hướng dẫn trộn các nguyên liệu làm nhân chả, nhấn mạnh Sữa Ông Thọ.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến bí quyết làm món ăn ngon."
+    },
+    {
+      "step": "Tráng trứng và cuốn chả",
+      "desc": "Tráng trứng mỏng, thêm rong biển và cuốn chả một cách tỉ mỉ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự khéo léo và tỉ mỉ của người nấu."
+    },
+    {
+      "step": "Hấp chả",
+      "desc": "Cho chả vào hấp trong 20 phút, chuẩn bị tỉa hình phượng.",
+      "impact_level": "1",
+      "viewer_emotion": "Hồi hộp chờ đợi món ăn hoàn thành."
+    },
+    {
+      "step": "Tỉa hình phượng",
+      "desc": "Tỉa hình phượng và chia sẻ về nguồn gốc món ăn cung đình.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự sáng tạo và câu chuyện món ăn."
+    },
+    {
+      "step": "Hoàn thiện và thưởng thức",
+      "desc": "Cắt chả, trình bày hình phượng và thưởng thức món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy món ăn hấp dẫn và muốn thử."
+    }
+  ],
+  "content_style": [
+    "Truyền thống",
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Mời cả nhà nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "đậm đà",
+    "dai",
+    "dẻo",
+    "hên xui",
+    "bỡ ngỡ",
+    "hoan hỉ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tết là dịp mọi người xum vầy với gia đình nên các món ăn ngày Tết như một sợi dây gắn kết cả nhà vậy.",
+    "Chả Phượng là món ăn từng đứng đầu trong Tứ đại Bát Trân dâng lên vua ngày xưa, là món ăn thuộc hàng cao sang quý hiếm.",
+    "Vì khi thêm sữa Ông Thọ vào thì thành phần nhân chả được ướp sẽ có vị đậm đà, thấm đều gia vị hơn nên khi ăn á sẽ có độ dai, dẻo hơn, đảm bảo ăn rất ngon."
+  ],
+  "hook_content": "Bữa trước làm mấy món cúng Tết được cả nhà khen quá trời nên hôm nay Tuấn lại làm thêm một món Tết nữa nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món chả Phượng truyền thống, món ăn cung đình xưa thường xuất hiện trong mâm cỗ Tết. Tuấn chia sẻ công thức chi tiết và cách tỉa hình phượng đẹp mắt.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

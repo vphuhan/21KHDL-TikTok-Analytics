@@ -1,0 +1,46 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Nui xào bò, hỏi người xem có muốn order hay không",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Nhạc nền",
+      "desc": "Sử dụng nhạc nền có lời với giai điệu buồn",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [],
+  "has_cta": "false",
+  "highlight_phrases": [],
+  "hook_content": "Nay có Nui xào bò, ai order khong để mình làm 1 thể",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video giới thiệu món nui xào bò và hỏi người xem có muốn order để làm không, sử dụng nhạc nền buồn.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

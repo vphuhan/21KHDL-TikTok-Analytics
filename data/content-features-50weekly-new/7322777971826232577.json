@@ -1,0 +1,101 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món cuốn",
+      "desc": "Chị đẹp hứa cho ăn món cuốn cả ngày, bắt đầu với chả giò.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món cuốn tiếp theo."
+    },
+    {
+      "step": "Thưởng thức chả giò",
+      "desc": "Ăn và cảm nhận chả giò tự cuốn và mua sẵn High Fresh.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng hương vị chả giò."
+    },
+    {
+      "step": "So sánh chả giò",
+      "desc": "So sánh chả giò tự cuốn và chả giò High Fresh Chin-Su.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến sự tiện lợi của sản phẩm."
+    },
+    {
+      "step": "Gợi ý cách ăn",
+      "desc": "Gợi ý ăn chả giò với rau, bánh hỏi và nước mắm chua ngọt.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử ngay cách ăn này."
+    },
+    {
+      "step": "Đánh giá sản phẩm",
+      "desc": "Nhấn mạnh sự đầy đặn của nhân và hương vị thơm ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Tin tưởng vào chất lượng sản phẩm."
+    },
+    {
+      "step": "Kết hợp món ăn",
+      "desc": "Kết hợp chả giò với rau, bánh hỏi và nước mắm.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy món ăn thật hấp dẫn."
+    },
+    {
+      "step": "Kết thúc và review",
+      "desc": "Ăn gỏi cuốn vì sợ chưa đã thèm, kết thúc một ngày.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về những món ăn tiếp theo."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "cuốn",
+    "thơm",
+    "cay cay",
+    "bao dính",
+    "tươi",
+    "giòn rụm",
+    "đã",
+    "tươi",
+    "ngọt ngọt",
+    "cay cay",
+    "dính",
+    "thơm",
+    "khác biệt",
+    "giòn rụm",
+    "ưng",
+    "xuất sắc",
+    "đã thèm",
+    "no"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Này chị đẹp mới cuốn hay sao mà cái nhân tươi mà nhiều dữ vậy ta?",
+    "Chứ bình thường sáng ngồi tự cuốn chả giò thì chắc chiều mới có ăn.",
+    "Nói chứ chả giò mà đi chấm nước mắm chua chua ngọt ngọt cay cay là hơi bị dính luôn á."
+  ],
+  "hook_content": "Qua chị đẹp nói nay sẽ cho mình ăn nguyên một ngày toàn là món cuốn, nên mình lượn là xuống bếp thấy đang chiên mấy cuốn chả giò thơm gì hết sợ.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video kể về trải nghiệm ăn món cuốn nguyên ngày, tập trung vào review chả giò High Fresh Chin-Su và so sánh với chả giò tự cuốn, gợi ý cách ăn kèm và kết thúc bằng việc thưởng thức gỏi cuốn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

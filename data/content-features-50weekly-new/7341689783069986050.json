@@ -1,0 +1,92 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu chung",
+      "desc": "Manjo có sốt lẩu thái mới, ăn không thấy ngán, trà sữa topping.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thích thú với sự đa dạng của món ăn."
+    },
+    {
+      "step": "Thực tế trải nghiệm",
+      "desc": "Hứa giảm cân để đi ăn lẩu tok, ăn đồ chiên nhiều hơn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đồng cảm với việc khó cưỡng lại đồ ăn."
+    },
+    {
+      "step": "Đánh giá quầy line",
+      "desc": "Quầy line nhiều món như gà rán, bánh bao, khoai chiên, kim bắp.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn với sự phong phú của các món ăn."
+    },
+    {
+      "step": "Ưu đãi",
+      "desc": "Manjo có chương trình đi bốn tính tiền ba, giá rẻ.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy rất vui vì có ưu đãi hấp dẫn."
+    },
+    {
+      "step": "Review sốt thái",
+      "desc": "Sốt lẩu thái mới, vị chua thơm lá chanh, ăn cuốn.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng và muốn thử ngay."
+    },
+    {
+      "step": "Lưu ý",
+      "desc": "Sốt đậm đà, cho ít bánh gạo để nước lẩu không sệt.",
+      "impact_level": "2",
+      "viewer_emotion": "Biết thêm thông tin hữu ích khi ăn lẩu."
+    },
+    {
+      "step": "Trà sữa topping",
+      "desc": "Quầy nước có trà sữa, sáu loại topping.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thích thú với sự đa dạng của topping."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nhanh nhanh rủ hội bạn thân qua thử sốt lẩu mới ngay và luôn đi nhá."
+  ],
+  "cta_type": [
+    "Ăn cùng",
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "cuốn",
+    "thèm",
+    "mê"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Thì hứa là việc của mồm, còn thèm quá thì vẫn phải cho mồm nó ăn thôi.",
+    "Bạn nào mà thích ăn cay thì thêm ít sốt cay nữa là tuyệt cả là vời luôn.",
+    "10 điểm về chỗ không cần phải review."
+  ],
+  "hook_content": "Ui, Manjo mới có cả sốt lẩu thái luôn mọi người ơi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu và review buffet lẩu tok Manjo với sốt lẩu thái mới, nhiều món ăn kèm và trà sữa topping đa dạng. Kêu gọi rủ bạn bè đến ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Làm bánh mì nướng muối ớt và hỏi ý kiến người yêu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về phản ứng của người yêu."
+    },
+    {
+      "step": "Tưởng tượng",
+      "desc": "Mô tả những lời khen 'có cánh' mong muốn nhận được.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú với sự hài hước."
+    },
+    {
+      "step": "Giải thích",
+      "desc": "Lý giải lý do yêu người yêu, dù người yêu bình thường.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với tình yêu chân thành."
+    },
+    {
+      "step": "Tiết lộ",
+      "desc": "Nói về việc được chuyển khoản để khen người yêu.",
+      "impact_level": "2",
+      "viewer_emotion": "Bất ngờ và hài hước."
+    },
+    {
+      "step": "Bài học",
+      "desc": "Đưa ra cách nhận biết người yêu mình thật lòng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với mẹo nhỏ."
+    },
+    {
+      "step": "Than thở",
+      "desc": "Phàn nàn vì người yêu không nhường trứng cút.",
+      "impact_level": "3",
+      "viewer_emotion": "Buồn cười và đồng cảm."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Hát vu vơ và kết thúc video.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Drama",
+    "Sáng tạo"
+  ],
+  "cta_content": [
+    "Thôi xem nốt nha.",
+    "Bye bye mọi người."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "nhạy cảm",
+    "vô tư",
+    "đắng",
+    "xinh đẹp",
+    "nấu ăn ngon",
+    "nổi da gà",
+    "ốc rựng tóc gáy",
+    "tim đập nhanh",
+    "lịm đi",
+    "hoang dại",
+    "thịnh nộ",
+    "cuồng phong",
+    "tốt bụng",
+    "lành tính",
+    "vô hại",
+    "thương",
+    "yêu nhiều",
+    "hoài ngóng trông",
+    "tim tan nát",
+    "trái tim đau"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Chắc lúc đó mình sẽ nổi da gà nổi ốc rựng tóc gáy tim đập nhanh và lịm đi vì lượng đường trong máu tăng quá mức bình thường.",
+    "Nói chứ để biết một người có thương mình hay không thì mọi người chỉ cần mua cho mình một bịch bánh tráng một trứng cút. Người ta mà nhường mình quả trứng cút đấy có nghĩa là yêu rồi.",
+    "Anh Nguyên thì ăn sạch sau rồi nói là người ta quên bỏ. Nói dối làm tim tan nát, nói dối làm trái tim đau."
+  ],
+  "hook_content": "Hôm nay mình lại làm bánh mì nướng muối ớt mình mới hỏi anh Nguyên là anh thấy lần này em làm có ngon hơn mấy lần trước không?",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện",
+    "Đối thoại"
+  ],
+  "summarization": "Video chia sẻ về trải nghiệm làm bánh mì nướng muối ớt và hỏi ý kiến người yêu, kèm theo những tình huống hài hước và những suy nghĩ về tình yêu. Cô gái than thở về việc người yêu không nhường trứng cút và kết thúc video bằng lời chào.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

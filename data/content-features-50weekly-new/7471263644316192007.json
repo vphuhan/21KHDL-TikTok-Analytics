@@ -1,0 +1,91 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về việc gói bánh để chuẩn bị cho đám giỗ mẹ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, giới thiệu mục đích của video."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Phơi lá và chia thành hai phần để gói bánh tét và bánh ít.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin cơ bản về chuẩn bị."
+    },
+    {
+      "step": "Gói bánh tét",
+      "desc": "Gói 7kg bánh tét nhân đậu mỡ và chuối cho ngày giỗ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị khi thấy quy trình gói bánh."
+    },
+    {
+      "step": "Luộc bánh tét",
+      "desc": "Bà ngoại luộc bánh tét trong 4-5 tiếng đồng hồ.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm nhận sự kỳ công của việc nấu bánh."
+    },
+    {
+      "step": "Gói bánh ít",
+      "desc": "Lần đầu gói bánh ít, thấy dễ và hấp nhanh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị khi lần đầu làm bánh ít."
+    },
+    {
+      "step": "Nướng gà",
+      "desc": "Ướp gà nướng và nhớ lại các bình luận về việc ăn gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi buồn cười khi nhắc về việc ăn gà."
+    },
+    {
+      "step": "Hấp bánh ít và ăn cơm",
+      "desc": "Hấp bánh ít, nướng gà, kho cá lóc và ăn cơm.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy đói bụng và thèm ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Truyền thống"
+  ],
+  "cta_content": [
+    "Nhất là mấy bạn nào mà đang tập tành về dáng sau Tết á, cứ cân nhắc bổ sung thêm hỗ trợ là ok lắm á."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "mắc cười",
+    "ngán",
+    "đói bụng",
+    "nóng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Giống như năm nay nè. Tớ nói mới ăn Tết chưa thấy Tết gì ở đâu mà hết Tết rồi.",
+    "Công nhận á là gói thử xong rồi mới thấy là dễ lắm mọi người, dễ xúc á.",
+    "Đạo gà mà làm sao mà ngán gà được."
+  ],
+  "hook_content": "nay nhà mình gói bánh để chuẩn bị đám giỗ lần thứ chín của mẹ mình. đó mà nhanh thiệt luôn á.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video ghi lại quá trình chuẩn bị đồ ăn cho đám giỗ mẹ, bao gồm gói bánh tét, bánh ít, nướng gà và các món khác. Người làm video chia sẻ những cảm xúc và kỷ niệm trong quá trình chuẩn bị.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước",
+    "Chân thành"
+  ]
+}

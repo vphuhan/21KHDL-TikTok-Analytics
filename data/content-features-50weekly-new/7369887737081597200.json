@@ -1,0 +1,79 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu địa điểm",
+      "desc": "Giới thiệu quán xiên bẩn mới nổi và món kem chanh tặng kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về địa điểm ăn uống mới."
+    },
+    {
+      "step": "Đánh giá vệ sinh",
+      "desc": "Nhấn mạnh độ an toàn vệ sinh của quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Tin tưởng vào độ an toàn vệ sinh."
+    },
+    {
+      "step": "Miêu tả món ăn",
+      "desc": "Giới thiệu các loại xiên và nước chấm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng với món ăn hấp dẫn."
+    },
+    {
+      "step": "Trải nghiệm thực tế",
+      "desc": "Chia sẻ trải nghiệm ăn uống và chi phí.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến trải nghiệm và chi phí."
+    },
+    {
+      "step": "So sánh hương vị",
+      "desc": "So sánh kem chanh ở đây với kem Mixue.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự khác biệt hương vị."
+    },
+    {
+      "step": "Gợi ý quán khác",
+      "desc": "Đưa ra một lựa chọn khác để người xem tham khảo.",
+      "impact_level": "1",
+      "viewer_emotion": "Phân vân giữa hai lựa chọn."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "ăn bẩn núi trúc rồi là lỗi thời rồi, vì ăn xiên bẩn ở đây còn được tặng cả kem chanh cơ.",
+    "Tất cả các xiên ở đây đều đồng giá 2.500 và đều có hướng dẫn sử dụng và nguồn gốc xuất xứ.",
+    "Hương vị thì sẽ giống với kem chanh ở cổng trường ngày xưa đi học, còn ngon thì không thể nào bằng kem Mixue được vì Mixue tận 10.000 một cái cơ mà."
+  ],
+  "hook_content": "ăn bẩn núi trúc rồi là lỗi thời rồi, vì ăn xiên bẩn ở đây còn được tặng cả kem chanh cơ.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video giới thiệu quán xiên bẩn mới nổi ở núi trúc với món kem chanh tặng kèm, đồng thời so sánh hương vị với các thương hiệu khác. Người xem được cung cấp thông tin về giá cả, chất lượng và trải nghiệm ăn uống tại quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bối cảnh",
+      "desc": "Chia sẻ về trải nghiệm thi cử và địa điểm mua sắm gần nhà.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Mua gừng",
+      "desc": "Giới thiệu về việc mua gừng giá rẻ tại siêu thị Nhật Bản.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Chuẩn bị món ăn",
+      "desc": "Luộc gừng và giới thiệu trò chơi Ninja Cat.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thưởng thức gừng",
+      "desc": "Mời mọi người ăn gừng luộc và mô tả hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Nhận xét về gừng",
+      "desc": "Chia sẻ về sự nhầm lẫn ban đầu và tên gọi của củ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ấm",
+    "ngon",
+    "bùi",
+    "đã",
+    "nóng hổi"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mùa đông lạnh lẽo vậy mà có một mâm gừng luộc là ấm cả người luôn.",
+    "Ăn mà lúc cái củ gừng nó còn nóng hổi vậy nè thì nó mới ngon. Kiểu như là nóng hổi vừa thổi vừa ăn.",
+    "Có ai ở Nhật mà tưởng củ này củ gừng mà mua lộn về giống như mình không."
+  ],
+  "hook_content": "Cái trường mình mỗi lần mà tới thi á là phải đổi sang một cái lớp khác.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video chia sẻ về trải nghiệm ăn gừng luộc để giữ ấm trong mùa đông ở Nhật Bản, bao gồm cả việc mua gừng giá rẻ tại siêu thị và sự nhầm lẫn về loại củ.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

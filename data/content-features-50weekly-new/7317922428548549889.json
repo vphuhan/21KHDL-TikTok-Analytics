@@ -1,0 +1,60 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu gói súp lơ sấy và so sánh với bim bim.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của súp lơ sấy."
+    },
+    {
+      "step": "Trải nghiệm sản phẩm",
+      "desc": "Nếm thử và mô tả hương vị, độ giòn của súp lơ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với trải nghiệm ăn uống."
+    },
+    {
+      "step": "Đánh giá và kết luận",
+      "desc": "Đánh giá về giá cả và khả năng mua lại sản phẩm.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy giá hơi cao."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm ngon",
+    "cuốn",
+    "giòn tan"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ăn nó không giống súp lơ mọi người ạ.",
+    "Cái mùi và cái vị của nó ăn gần giống như kiểu mình đang ăn bim bim ấy.",
+    "Nó thơm ngon nó cuốn hơn bim bim."
+  ],
+  "hook_content": "Nó có mùi như là bim bim ấy mọi người ạ.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review súp lơ sấy, so sánh hương vị với bim bim và đánh giá về độ ngon, độ giòn. Người review nhận xét sản phẩm thơm ngon, cuốn hút nhưng giá hơi cao nên có thể không mua lại.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu buffet hải sản",
+      "desc": "Giới thiệu địa điểm buffet hải sản ở Vũng Tàu và các món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy địa điểm ăn uống hấp dẫn."
+    },
+    {
+      "step": "Đánh giá ban đầu",
+      "desc": "Nhận xét về sự đa dạng món ăn và không gian quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy quán ăn có vẻ chất lượng."
+    },
+    {
+      "step": "Trải nghiệm ẩm thực",
+      "desc": "Review chi tiết các món hải sản, cách chế biến và hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng các món ăn."
+    },
+    {
+      "step": "Đánh giá các món khác",
+      "desc": "Thử và đánh giá các món thịt nướng và lẩu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy có nhiều sự lựa chọn."
+    },
+    {
+      "step": "Kết luận và địa điểm",
+      "desc": "Nhấn mạnh chi phí hợp lý và vị trí dễ tìm của quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn đến ăn thử."
+    },
+    {
+      "step": "Tráng miệng",
+      "desc": "Gợi ý món kem dừa tráng miệng sau khi ăn hải sản.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy gợi ý phù hợp."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thèm",
+    "ngon",
+    "vừa giòn",
+    "vừa ngọt",
+    "đỉnh",
+    "sướng",
+    "ngọt nước",
+    "vừa mềm",
+    "vừa giòn",
+    "bùi bùi",
+    "béo béo",
+    "thơm",
+    "chua chua",
+    "ngọt ngọt",
+    "hợp tình hợp lý",
+    "đã"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Tôm tươi nhảy tách tách tách tách vậy đó mà nướng lên ăn nó ngọt nước cực kỳ.",
+    "Chua cay mặn ngọt cỡ này mà ăn với hải sản là chỉ có rụng rời tay chân thôi.",
+    "Bò cuộn nấm kim châm mà ăn với lại muối ớt đỏ cũng bén mồi ghê nơi."
+  ],
+  "hook_content": "thèm hải sản dữ chưa? 1 2 đời xuống Vũng Tàu là phải dẫn đi ăn buffet hải sản.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu và review buffet hải sản ở Vũng Tàu, tập trung vào sự đa dạng, chất lượng món ăn, giá cả hợp lý và không gian quán. Người quay phim chia sẻ trải nghiệm cá nhân và gợi ý các món nên thử.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

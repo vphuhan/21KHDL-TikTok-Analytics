@@ -1,0 +1,88 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu hoàn cảnh",
+      "desc": "Trời mưa khiến muốn nấu ăn nhanh gọn tại nhà.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Tìm nguyên liệu",
+      "desc": "Đi siêu thị tìm mỡ heo, nguyên liệu đặc biệt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Cách chế biến",
+      "desc": "Mỡ heo đem luộc, cách ăn đỡ ngán.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Trình bày món ăn",
+      "desc": "Mỡ luộc có hình dáng như bánh đúc.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Ăn mỡ luộc chấm chẳm chéo, mời mọi người.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Hướng dẫn ăn",
+      "desc": "Bắt đầu ăn từ miếng mỏng đến miếng dày.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "Nhấn mạnh trải nghiệm",
+      "desc": "Mỡ tan chảy, đặc biệt được phái nữ ưa chuộng.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mời mọi người ăn cùng với mình ha"
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "đỡ dầu mỡ",
+    "đỡ ngán",
+    "không bị hôi",
+    "béo hiền từ",
+    "tan chảy"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nhà mình thì quanh năm suốt tháng chỉ ăn mấy cái món luộc không à, chứ không có ăn mấy món xào gì nhiều hết.",
+    "Luộc xong rồi vớt ra nhìn y chang á là nguyên một cái mâm bánh đúc luôn vậy á ha.",
+    "Kiểu như là nó béo hiền từ mà tan chảy vô trong miệng thì làm sao mà ai không thích cho được chứ."
+  ],
+  "hook_content": "Mỗi khi mà trời tuyết rơi, hà, tuyết rơi luôn đi ha, chứ cộng thêm mưa nữa giống vậy khó chịu dữ lắm.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ về món mỡ luộc ăn kèm chẳm chéo, món ăn được yêu thích đặc biệt vào những ngày trời mưa. Người làm video hướng dẫn cách ăn và nhấn mạnh trải nghiệm hương vị béo ngậy, tan chảy của món ăn.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

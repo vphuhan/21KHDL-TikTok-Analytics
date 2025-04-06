@@ -1,0 +1,84 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món bánh",
+      "desc": "Giới thiệu món bánh bông lan làm bằng nồi cơm điện dễ làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị vì món bánh quen thuộc được làm mới."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Hướng dẫn chuẩn bị và trộn các nguyên liệu lòng đỏ trứng.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường vì đây là bước cơ bản."
+    },
+    {
+      "step": "Đánh bông lòng trắng",
+      "desc": "Hướng dẫn đánh bông lòng trắng trứng với nước cốt chanh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với mẹo đánh trứng bông hơn."
+    },
+    {
+      "step": "Trộn hỗn hợp",
+      "desc": "Trộn đều hai hỗn hợp lòng đỏ và lòng trắng trứng.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường vì thao tác này khá quen thuộc."
+    },
+    {
+      "step": "Nướng bánh bằng nồi",
+      "desc": "Đổ hỗn hợp vào nồi cơm điện Blue Stone và nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị vì có thể làm bánh bằng nồi cơm điện."
+    },
+    {
+      "step": "Thành phẩm",
+      "desc": "Bánh chín và giới thiệu độ mịn, ngon của bánh.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy phấn khích khi thấy bánh thành công."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Ai mà chưa có nồi cơm điện ưng ý để làm bánh á thì có thể tham khảo của Blue Stone giống mình nha."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "mềm xốp",
+    "thích",
+    "dễ",
+    "ngon",
+    "mịn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bánh bông đều, ẩm thơm mềm xốp.",
+    "Tết này làm bánh bông lan chiêu đãi cho cả gia đình vừa dễ, vừa healthy mà lại rất là ngon nữa."
+  ],
+  "hook_content": "nào mà vẫn chưa làm được bánh bông lan bằng nồi cơm điện á thì hôm nay cùng làm với mình nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm bánh bông lan bằng nồi cơm điện một cách dễ dàng, phù hợp để chiêu đãi gia đình trong dịp Tết. Công thức sử dụng nồi cơm điện Blue Stone và được thực hiện chi tiết, dễ làm theo.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

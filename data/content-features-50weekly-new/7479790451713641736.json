@@ -1,0 +1,83 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Đi chợ",
+      "desc": "Giới thiệu các món ăn vặt hấp dẫn tại chợ địa phương.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với các món ăn vặt."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Sơ chế nguyên liệu và chia sẻ về công việc của ba.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    },
+    {
+      "step": "Nấu canh",
+      "desc": "Bắt đầu nấu canh trứng cá với các gia vị đặc trưng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với công thức nấu canh."
+    },
+    {
+      "step": "Thêm nguyên liệu",
+      "desc": "Thêm tôm, hành tây, hành baro và ớt vào canh.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú với sự phong phú của món canh."
+    },
+    {
+      "step": "Hoàn thiện món ăn",
+      "desc": "Thêm cải cúc và nêm nếm lại gia vị cho vừa ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hấp dẫn bởi món canh."
+    },
+    {
+      "step": "Dọn cơm",
+      "desc": "Dọn cơm tối và cả nhà cùng nhau thưởng thức món canh.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy ấm cúng và hạnh phúc."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Em bé ăn ngon miệng và khen món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Vui vẻ và thích thú."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "ngon quá"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Trời lạnh mà ăn cái nồi canh này là giống như bên Việt Nam mình trời mưa mà ăn lẩu vậy á mọi người.",
+    "Nay ngoài trứng, mình vơi nó thêm cho cái nồi canh hai con tôm nữa. Nhận bỏ hai ẻm vô cái nhìn cái nồi canh khác liền.",
+    "Mua cho con hai cái, ăn hết nè, ăn hết rồi. Trời ơi ngon quá."
+  ],
+  "hook_content": "Nay dắt mọi người đi chợ với nhà mình nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình đi chợ và nấu món canh trứng cá của một gia đình. Người mẹ chia sẻ công thức nấu ăn và những khoảnh khắc ấm cúng bên gia đình.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

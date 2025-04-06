@@ -1,0 +1,70 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu việc ăn không hết mì và quyết định đóng gói lại.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thực hiện",
+      "desc": "Chia sẻ về việc mì ngấm gia vị khi sấy khô sẽ ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Hoàn thành",
+      "desc": "Thông báo đã đóng gói xong mì nước và mì khô.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Nhấn mạnh mì ngấm gia vị sấy khô ăn ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Thông báo",
+      "desc": "Thông báo về món mới sắp ra mắt.",
+      "impact_level": "2",
+      "viewer_emotion": "Hóng chờ"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "ổn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nó ngấm gia vị rồi xong rồi mình sấy khô ăn nó ngon phết mọi người ạ.",
+    "Có một cái nữa khi mà cái vắt mì này nó ngấm gia vị xong bắt đầu mình sấy khô lại ấy, ăn nó ngon cực kỳ mọi người ạ.",
+    "Tôi lại có tiếp một cái món mới để chuẩn bị lên vít cho mọi người nữa rồi đấy."
+  ],
+  "hook_content": "không hết mọi người ạ. Thôi bây giờ mình đóng gói nó lại cho nó đỡ phí nhé.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình người nói đóng gói tô mì ăn dở để đỡ phí, đồng thời chia sẻ kinh nghiệm mì ngấm gia vị đem sấy khô sẽ rất ngon và hé lộ về một món ăn mới sắp ra mắt.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

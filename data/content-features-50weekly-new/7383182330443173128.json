@@ -1,0 +1,57 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu kẹo sáp Doraemon và hình thức review cả thế giới",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm"
+    },
+    {
+      "step": "Đánh giá cảm quan",
+      "desc": "Miêu tả độ giòn bên ngoài và nhân dâu tằm bên trong",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự kết hợp"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhấn mạnh vị chua ngọt của nhân dâu tằm và đánh giá ngon",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn nếm thử ngay"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "chua chua ngọt ngọt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Kẹo sáp này bên ngoài cực giòn, bên trong có nhân dâu tằm ăn chua chua ngọt ngọt, khá là ngon luôn."
+  ],
+  "hook_content": "Review cả thế giới, kẹo sáp Doraemon.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review kẹo sáp Doraemon với lớp vỏ giòn và nhân dâu tằm chua ngọt, được đánh giá là ngon.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

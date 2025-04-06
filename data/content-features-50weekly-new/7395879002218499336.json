@@ -1,0 +1,80 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Người bán giới thiệu món bánh taco Senbay có nguồn gốc từ Nhật.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Nhấn mạnh độ khó",
+      "desc": "Khẳng định sự kỳ công trong quá trình làm bánh và lựa chọn nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Miêu tả chi tiết",
+      "desc": "Miêu tả hương vị và thành phần của bánh taco Senbay.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Thông tin giá cả",
+      "desc": "Thông báo giá bánh taco Senbay và nước lựu.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thông tin địa điểm",
+      "desc": "Cung cấp địa chỉ và giờ bán của quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Tới ăn bánh đi nha, nhớ nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "cuốn",
+    "thích",
+    "ngọt",
+    "đậm đà",
+    "bùi"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "bánh này đơn giản ăn mà cuốn lắm",
+    "hình dạng nó giống như bánh tráng nhưng ăn vào thì nó sẽ bùi và nó dày hơn",
+    "Khi ép cùng với bánh nó sẽ ngọt, ăn rất là đậm đà và rất là cuốn ạ"
+  ],
+  "hook_content": "Chắc chắn luôn, em là người đầu tiên bán bánh taco Senbay này tại Việt Nam.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu về món bánh taco Senbay độc đáo từ Nhật Bản, được bán bởi người đầu tiên tại Việt Nam, nhấn mạnh vào hương vị đặc biệt và quá trình làm bánh công phu. Quán nằm tại đường Cao Thắng, quận 10.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

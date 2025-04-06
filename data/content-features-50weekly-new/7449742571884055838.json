@@ -1,0 +1,90 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu tôm tít siêu to và nhắc lại độ mập của tôm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ ngon của tôm"
+    },
+    {
+      "step": "Đánh giá cảm quan",
+      "desc": "Miêu tả huyết tôm không bị chảy ra ngoài khi hấp.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng về chất lượng tôm"
+    },
+    {
+      "step": "Thưởng thức và đánh giá",
+      "desc": "Thưởng thức tôm, miêu tả vị ngon, ngọt, béo của tôm.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn ăn thử"
+    },
+    {
+      "step": "Nhấn mạnh chất lượng",
+      "desc": "Khẳng định tôm ngon, đáng đồng tiền và no bụng.",
+      "impact_level": "3",
+      "viewer_emotion": "Tin tưởng vào chất lượng tôm"
+    },
+    {
+      "step": "Tò mò về chi tiết lạ",
+      "desc": "Thắc mắc về vết đen trong mang tôm, cho rằng là máu.",
+      "impact_level": "1",
+      "viewer_emotion": "Hơi lo lắng về chất lượng"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Khẳng định đây là con tôm ngon nhất từng ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Hoàn toàn tin tưởng vào độ ngon"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Okay, cảm ơn cả nhà theo dõi video của Thành.",
+    "Hẹn gặp bạn ở video tiếp theo nha."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "siêu bự",
+    "ngọt",
+    "dai dai",
+    "bột bột",
+    "béo béo",
+    "đã",
+    "đáng đồng tiền bát gạo",
+    "ngon nhất"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Con này là cái con mà mập nhất thành từng đồ ăn luôn á mọi người.",
+    "Bởi vậy mua trúng con tôm ngon á, ăn một con thôi là mọi người ứ hự rồi đó, không ăn nổi con thứ hai đâu.",
+    "Con tôm tích này là con mà ngon nhất là từ đó giờ thành ăn luôn á."
+  ],
+  "hook_content": "Cái con này là cái con mà mập nhất thành từng đồ ăn luôn á mọi người.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang tôm tít, người nói giới thiệu con tôm to, mập và đánh giá cao chất lượng, hương vị của nó, đặc biệt nhấn mạnh đây là con tôm ngon nhất từng ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

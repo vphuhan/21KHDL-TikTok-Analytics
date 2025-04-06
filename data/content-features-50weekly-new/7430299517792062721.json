@@ -1,0 +1,94 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu chung",
+      "desc": "Giới thiệu buffet hải sản xứng đáng đồng tiền, giá cả và độ đông khách",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ hấp dẫn của quán buffet"
+    },
+    {
+      "step": "Miêu tả không gian",
+      "desc": "Miêu tả không gian quán, sự choáng ngợp với hải sản tươi sống",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng của hải sản"
+    },
+    {
+      "step": "Đánh giá các quầy",
+      "desc": "Điểm qua các quầy hải sản chế biến sẵn, nướng, sashimi, tráng miệng",
+      "impact_level": "2",
+      "viewer_emotion": "Mong muốn được trải nghiệm các món ăn"
+    },
+    {
+      "step": "Nhấn mạnh ưu điểm",
+      "desc": "Khẳng định đồ ăn được refill liên tục và chương trình tặng tôm",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng về sự chu đáo của nhà hàng"
+    },
+    {
+      "step": "Đánh giá chất lượng",
+      "desc": "Đánh giá chất lượng hải sản tươi ngon, xứng đáng với giá tiền",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn đến ăn ngay"
+    },
+    {
+      "step": "Nhận xét chung",
+      "desc": "Nhận xét về không gian, chất lượng phục vụ và sự hài lòng",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá của người review"
+    },
+    {
+      "step": "Thông tin thêm",
+      "desc": "Thông báo khai trương chi nhánh mới và gợi ý địa điểm ăn hải sản",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhớ địa điểm để ghé thăm khi có dịp"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nên nếu mà bữa nay chưa có biết hẹn hò ăn uống ở đâu mà đã đời á thì mấy bà tham khảo thử ở đây nghen.",
+    "Nên nếu mà có đi biển Nha Trang mà không có biết ăn hải sản ở đâu tươi ngon rẻ thì tham khảo thử ở đây nghen."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Chia sẻ"
+  ],
+  "emotion_keywords": [
+    "xứng đáng",
+    "tươi sống",
+    "chất lượng",
+    "thèm",
+    "ngon",
+    "đã đời",
+    "khoái"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Vô đây ăn rồi á thì mới hiểu làm sao mà ở chỗ này nó đông tới cỡ vậy luôn á mấy bà.",
+    "Cứ tưởng á là mình đang ở một cái chợ hải sản nào đâu không luôn á.",
+    "Nói thiệt chứ bỏ gần 500.000đ vô đây ăn buffet mà ta nói ăn hai con cua, hai con ghẹ với mấy con tôm thôi là cũng lấy lại vốn rồi đó mấy bà."
+  ],
+  "hook_content": "Cho tới thời điểm hiện tại á thì đây có thể là buffet xứng đáng đồng tiền bát gạo nhất mà tôi từng ăn luôn á.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review buffet hải sản Poseidon, đánh giá cao chất lượng và độ tươi sống của hải sản, không gian rộng rãi và sự phục vụ nhiệt tình. Người nói gợi ý đây là một địa điểm ăn uống đáng thử.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

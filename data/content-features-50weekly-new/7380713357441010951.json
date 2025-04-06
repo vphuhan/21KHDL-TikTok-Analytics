@@ -1,0 +1,72 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu hộp Pocky giá 480k và lý do mua.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự đặc biệt của sản phẩm đắt tiền."
+    },
+    {
+      "step": "Mở hộp và miêu tả",
+      "desc": "Miêu tả số lượng và tình trạng của các gói bánh.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, tập trung vào chi tiết sản phẩm."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá hương vị Pocky, so sánh với loại thông thường.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với những đánh giá chi tiết về hương vị."
+    },
+    {
+      "step": "Nhấn mạnh giá cả",
+      "desc": "Nhấn mạnh về giá cả đắt đỏ và trải nghiệm.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy sản phẩm này không phù hợp để mua thường xuyên."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "béo",
+    "thơm",
+    "dịu nhẹ",
+    "béo ngậy",
+    "chất lượng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Chưa bao giờ mình ăn cái que Pocky nào mà nó ngon như cái que Pocky này luôn ấy.",
+    "Mình thấy nó béo ngậy, thơm như kiểu là sữa bò tươi vừa mới vắt ra ấy.",
+    "Nói chung là cái hộp Pocky này ăn chất lượng thật, nhưng mà giá 480.000 một hộp này thì thật sự là mình cũng chỉ dám mua về để làm video và ăn thử một lần cho biết thôi."
+  ],
+  "hook_content": "hộp bánh que Pocky này mình mua giá của nó là 480.000 mọi người ạ.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm",
+    "So sánh"
+  ],
+  "summarization": "Video review hộp bánh Pocky giá 480k, tập trung vào đánh giá hương vị (bánh quy giòn, matcha béo ngậy) và trải nghiệm ăn thử. Người nói thấy ngon, chất lượng nhưng giá quá cao để mua thường xuyên.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

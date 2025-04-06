@@ -1,0 +1,77 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sầu riêng",
+      "desc": "Nhận sầu riêng từ người quen, nhưng có vẻ bị mốc.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thử bóc sầu riêng",
+      "desc": "Huy Thành giúp Quang bóc sầu riêng, bàn luận cách bóc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Nhận xét ban đầu",
+      "desc": "Sầu riêng không có múi, nghi ngờ về chất lượng.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Nếm thử",
+      "desc": "Sầu riêng bị chua, Huy Thành nhăn mặt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tiếc nuối"
+    },
+    {
+      "step": "Thông báo kết thúc",
+      "desc": "Hẹn gặp lại ở clip khác với sầu riêng ngon hơn.",
+      "impact_level": "1",
+      "viewer_emotion": "Hụt hẫng"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "đau",
+    "sợ",
+    "xấu",
+    "chua",
+    "hỏng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Không sợ vào chim à? Ê, vào chim thì sao trời?",
+    "Sầu riêng sao không có múi vậy?",
+    "Hư rồi. Ơ, biết rồi cái miệng nó bị chua."
+  ],
+  "hook_content": "Mình đã nhận được quả sầu riêng này từ một người chị Tiktoker đến từ Đắk Lắk, nhưng mà khi mình nhận về thì nó đang hơi bị mốc một chút nha.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video ghi lại cảnh Quang Đen và Huy Thành mukbang sầu riêng được tặng, tuy nhiên quả sầu riêng bị hỏng nên cả hai đã hẹn khán giả ở một video khác. Video có nhiều đoạn hội thoại hài hước, gần gũi.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu cua ngâm tương, trứng ngâm tương ăn kèm kim chi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Miêu tả chi tiết",
+      "desc": "Miêu tả cua gạch béo, nhiều gạch, trộn cơm ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn ăn thử."
+    },
+    {
+      "step": "Giải thích hương vị",
+      "desc": "Giải thích vị béo, thơm của tương, không tanh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá."
+    },
+    {
+      "step": "Đánh giá cảm quan",
+      "desc": "Đánh giá gạch béo bùi, thịt dẻo, vỏ mềm.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung rõ hơn về món ăn."
+    },
+    {
+      "step": "Nhấn mạnh hương vị",
+      "desc": "Nhấn mạnh mù tạt thơm nồng, ăn kèm mè, kim chi, rong biển.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy hấp dẫn hơn."
+    },
+    {
+      "step": "Giải đáp thắc mắc",
+      "desc": "Giải thích cua ngâm tương là cua sống ngâm tương Hàn Quốc.",
+      "impact_level": "1",
+      "viewer_emotion": "Hiểu rõ hơn về món ăn."
+    },
+    {
+      "step": "Chia sẻ trải nghiệm",
+      "desc": "Chia sẻ thích ăn cua ngâm tương mua hơn tự làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với người nói."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "béo",
+    "thơm",
+    "ngon",
+    "bùi",
+    "thích"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Món này mọi người cho cơm vào mọi người trộn lại với gạch cua, trộn đều lên ăn trời ơi nó ngon dữ lắm luôn á, nó béo béo, nó thơm thơm.",
+    "Về cảm nhận của mình đối với cái món cua ngâm tương này là phần trong gạch rất là nhiều, đặc biệt là có thêm cái gạch đỏ này nè. Ăn vào sẽ có vị béo béo, bùi bùi.",
+    "Được cái là cái chỗ mà Kim ăn á không có ngâm cay. Nhưng mà được cái là có cho thêm cái bột mù tạt á. Muốn thơm nồng thì mình rắc thêm cái bột mù tạt nó vô."
+  ],
+  "hook_content": "Chào mọi người chuyên mục Múp ban đêm khuya của tôi nữa nè.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang về món cua ngâm tương ăn kèm cơm và kim chi, người nói chia sẻ cảm nhận về hương vị béo, thơm ngon của món ăn và giải đáp thắc mắc về cách chế biến.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

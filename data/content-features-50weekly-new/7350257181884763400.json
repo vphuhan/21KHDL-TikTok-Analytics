@@ -1,0 +1,87 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món kim chi nước làm để tủ lạnh ăn dần.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị vì món ăn có vẻ lạ."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê các nguyên liệu cần thiết để làm kim chi.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, cần chuẩn bị nhiều nguyên liệu."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Hướng dẫn sơ chế các nguyên liệu như cải, củ cải.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với cách sơ chế nhanh."
+    },
+    {
+      "step": "Ngâm và rửa nguyên liệu",
+      "desc": "Hướng dẫn ngâm cải với muối và rửa lại với nước.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, các bước cơ bản."
+    },
+    {
+      "step": "Pha nước kim chi",
+      "desc": "Hướng dẫn pha nước kim chi với các nguyên liệu xay.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với công thức pha nước kim chi."
+    },
+    {
+      "step": "Trộn kim chi",
+      "desc": "Trộn cải đã ngâm với hỗn hợp nước kim chi đã pha.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị khi trộn các nguyên liệu."
+    },
+    {
+      "step": "Nấu mì ăn kèm",
+      "desc": "Nấu mì ăn kèm với kim chi tự làm và chia sẻ.",
+      "impact_level": "3",
+      "viewer_emotion": "Thấy ngon miệng và thèm ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Mọi người tiện tay á thì vô báo cáo cái ID gia đình hải sản này nè rồi đặt đổi tên mình nữa chứ, ủa là trời.",
+    "Cho nên á là mọi người phải hết sức tỉnh táo và cảnh giác, còn bây giờ thì mời mọi người ăn mì chung với cả nhà mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng",
+    "Chia sẻ"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngon lành"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Có cái kim chi này rồi bữa nào mà không có thời gian nấu ăn á, lấy bún ra luộc ăn với cái kim chi này thôi cũng ngon lắm luôn.",
+    "Vậy thôi đó mọi người, trộn lên rồi mình để ngoài một đêm, sáng mai đút vô tủ lạnh để ăn từ từ là ngon lành luôn."
+  ],
+  "hook_content": "Bữa nay mình sẽ làm một thùng kim chi này cho ba tụi hơn để dành ăn trong lúc mình không có ở nhà nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm kim chi nước đơn giản tại nhà để ăn kèm với bún hoặc mì. Người làm chia sẻ công thức và các bước thực hiện chi tiết, đồng thời nấu mì ăn cùng kim chi vừa làm.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

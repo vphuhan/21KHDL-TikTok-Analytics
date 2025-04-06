@@ -1,0 +1,75 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu địa điểm",
+      "desc": "Giới thiệu ba địa điểm nổi tiếng xuất hiện trong bộ phim Mai.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các địa điểm."
+    },
+    {
+      "step": "Địa điểm 1: Chung cư An Bình",
+      "desc": "Địa điểm nơi ở của Mai, lưu ý về việc giữ trật tự.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, cung cấp thông tin hữu ích."
+    },
+    {
+      "step": "Địa điểm 2: Tiệm bún gạo",
+      "desc": "Tiệm bún gạo nơi Mai và Sâu gặp gỡ, đánh giá hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị, muốn thử món ăn."
+    },
+    {
+      "step": "Địa điểm 3: Tiệm massage",
+      "desc": "Tiệm massage nơi Mai làm việc, gợi ý gặp nhân viên tên Mai.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò, muốn khám phá."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Câu hỏi về cảm xúc sau khi xem phim, tạo sự tương tác.",
+      "impact_level": "1",
+      "viewer_emotion": "Tự hỏi, suy ngẫm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "hot rần rần",
+    "ăn ổn thôi",
+    "không quá đặc sắc"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mấy bạn nào mà vẫn còn đang si phim á, ghé thì lưu lại địa chỉ liền nha.",
+    "Cái đặc sắc nhất đó chính là do quán mở khuya tới tận 2:00 lận.",
+    "Ai mà muốn gặp Mai thì thử vô order nhân viên tên Mai coi coi có Mai thiệt ở đó không nha."
+  ],
+  "hook_content": "Đây là ba địa điểm nổi tiếng trong phim Mai hot rần rần mấy bữa nay.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Liệt kê",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu ba địa điểm nổi tiếng trong phim Mai, bao gồm chung cư An Bình, tiệm bún gạo trên đường Trần Phú và tiệm massage trên đường Hồ Xuân Hương, kèm theo đánh giá và thông tin chi tiết về mỗi địa điểm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu cảnh tuyết rơi và mong muốn trùm mền ngủ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với khung cảnh tuyết rơi."
+    },
+    {
+      "step": "Chia sẻ về thời tiết",
+      "desc": "Than thở về việc di chuyển khó khăn trong thời tiết tuyết.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm với khó khăn của người nói."
+    },
+    {
+      "step": "Đi siêu thị",
+      "desc": "Kể về việc đi siêu thị mua đồ ăn vì chợ ít người bán.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    },
+    {
+      "step": "Chuẩn bị nướng",
+      "desc": "Giới thiệu các nguyên liệu đã mua để chuẩn bị cho món nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức chờ đợi món nướng."
+    },
+    {
+      "step": "Ưu điểm món nướng",
+      "desc": "Nhấn mạnh sự tiện lợi và nhanh chóng của việc ăn thịt nướng.",
+      "impact_level": "1",
+      "viewer_emotion": "Đồng tình với sự tiện lợi."
+    },
+    {
+      "step": "Kết nối gia đình",
+      "desc": "Cho Sơ Hân ra chơi cùng và giới thiệu về sở thích ăn uống.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp và gần gũi."
+    },
+    {
+      "step": "Lời mời",
+      "desc": "Mời mọi người cùng ăn tối với gia đình.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy được chào đón."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Ăn tối thôi, mời mọi người ăn tối chung với cả nhà mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thích"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nhà mình bữa nào mà tuyết rơi nhiều quá là ít có đi ra ngoài lắm, đi bằng gì nó cũng nguy hiểm, trơn trượt á mọi người.",
+    "Bữa nay ăn thịt nướng chắc chắn là sẽ ngon, cho nên là hồi nãy đi chợ mình có mua rau với mua thịt, thêm một ít lòng bò nữa thì tối nay là quất cần câu luôn.",
+    "Bữa nào mà ăn thịt nướng là khỏe lắm, không có cần chuẩn bị gì cầu kỳ hết trơn á, rửa xong mấy rau này là xong rồi đó."
+  ],
+  "hook_content": "về mình không thấy Sơ Hân đâu luôn á, quay xuống đây thì thấy được cái cảnh này.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh gia đình chuẩn bị và thưởng thức món thịt nướng trong ngày tuyết rơi cuối năm. Người làm video chia sẻ về khó khăn khi di chuyển trong thời tiết xấu và niềm vui khi cả nhà cùng nhau ăn tối.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ăn vặt Trung Quốc: mochi nhân đậu tương.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Miêu tả cảm quan",
+      "desc": "Miêu tả hình dáng bên ngoài của mochi như trái chôm chôm.",
+      "impact_level": "1",
+      "viewer_emotion": "Hình dung về hình dáng mochi."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá độ ngon, dai và cảm giác nhai đã miệng của mochi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "đã"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ngon mới đạn, nó kiểu tẻo tẻo săn chắc ấy, nhai rất là đã."
+  ],
+  "hook_content": "m m m m.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang món mochi nhân đậu tương của Trung Quốc, tập trung miêu tả hình dáng và cảm giác ngon miệng khi ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

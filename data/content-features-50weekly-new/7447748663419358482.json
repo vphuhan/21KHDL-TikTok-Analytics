@@ -1,0 +1,60 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu bơ chấm socola và cà phê Laura ăn kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Trải nghiệm",
+      "desc": "Miêu tả cảm giác ngậy của bơ và vị ngon của cà phê.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Nhấn mạnh",
+      "desc": "Nhấn mạnh sự kết hợp hoàn hảo và lợi ích của sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngậy",
+    "béo",
+    "ngon",
+    "đã"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ngoài trời thì đang mưa mà ăn bơ chấm sôcôla nữa là quá là ngậy luôn.",
+    "Bơ chấm sôcôla này thì cứ chấm thật nhiều sôcôla, ăn nó béo ngậy ngon lắm.",
+    "Uống thêm một tí cà phê nữa là quá đã."
+  ],
+  "hook_content": "review cả thế giới bơ chấm sôcôla.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review món bơ chấm socola ăn kèm cà phê Laura. Người nói miêu tả cảm giác béo ngậy và ngon miệng khi kết hợp hai món này.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

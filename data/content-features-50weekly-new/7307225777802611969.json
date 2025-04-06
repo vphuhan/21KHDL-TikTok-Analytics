@@ -1,0 +1,75 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món mới",
+      "desc": "Giới thiệu các món mới của Dookki, nhấn mạnh sự lạ và quen.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị các món mới"
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Đánh giá chi tiết các món mới, đặc biệt là cơm bọc lá kim.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và muốn thử ngay"
+    },
+    {
+      "step": "Thử thách ăn hot-chen",
+      "desc": "Thử các món hot chen để ăn không bị ngán.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với cách ăn sáng tạo"
+    },
+    {
+      "step": "Giới thiệu địa điểm",
+      "desc": "Thông tin về địa điểm ăn uống.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết thêm một địa điểm ăn uống"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "dẻo dai",
+    "mềm mềm",
+    "nhẹ nhàng",
+    "thanh đạm",
+    "bùng vị",
+    "nồng cháy",
+    "giòn giòn",
+    "dai dai",
+    "siêu ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ôi giời ơi, câu trả lời chắc chắn là có ai mà không thích sự thay đổi của Duy đâu nhở.",
+    "Nó kiểu dẻo dẻo mềm mềm nhẹ nhàng thanh đạm. Còn nếu như muốn bùng vị và nồng cháy hơn thì các bạn chấm cùng với cả tương ớt.",
+    "Để giải ngấy giữa hiệp mà cũng là một món hot chen đó chính là mì lạnh."
+  ],
+  "hook_content": "Đô ki là ban như thế này là mình không chấp nhận được mọi người ạ, mình đổ hết.",
+  "hook_type": [
+    "Gây tranh cãi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video review các món mới tại Dookki với nhiều món ăn kèm hấp dẫn, đặc biệt là cơm bọc lá kim và các món hot chen giúp ăn không bị ngán. Địa điểm ăn uống được giới thiệu là cơ sở Central phố Lê Văn Lương.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

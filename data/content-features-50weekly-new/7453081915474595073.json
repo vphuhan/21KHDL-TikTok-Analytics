@@ -1,0 +1,95 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món thịt đông quen thuộc và chia sẻ đây là lần đầu làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách làm món ăn này."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê các nguyên liệu cần thiết để làm món thịt đông.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, cần thiết để làm theo."
+    },
+    {
+      "step": "Sơ chế và nêm gia vị",
+      "desc": "Hướng dẫn sơ chế nguyên liệu và nêm gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với các bước làm chi tiết."
+    },
+    {
+      "step": "Xào và nấu thịt",
+      "desc": "Hướng dẫn xào thịt cho săn và nấu với lửa nhỏ.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ món ăn hoàn thành."
+    },
+    {
+      "step": "Thêm nấm và hoàn thành",
+      "desc": "Thêm nấm mèo, nấm đông cô và nhắc xuống.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn với nguyên liệu thêm vào."
+    },
+    {
+      "step": "Đổ khuôn và làm đông",
+      "desc": "Hướng dẫn đổ khuôn và để tủ lạnh cho thịt đông lại.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về kết quả cuối cùng."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu sữa Nutri Nano Curcumin và công dụng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin sản phẩm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Còn ai mà muốn mua sữa Nutri Nano Curcumin thì qua bên chị Hoàng Tĩnh An nha.",
+    "Vừa chính hãng mà có nhiều ưu đãi dữ lắm."
+  ],
+  "cta_type": [
+    "Truy cập trang cá nhân",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "dính",
+    "cay cay",
+    "mát mát lạnh lạnh",
+    "giòn sần sệt",
+    "núng na núng nính"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ăn thì nó dính quá chừng nè",
+    "thịt đông thì núng na núng nính, da giòn sần sệt mình bỏ vô tủ lạnh nên ăn nó mát mát lạnh lạnh y như thạch vậy đó",
+    "Chấm thêm miếng muối tiêu ớt cay cay nữa men ơi, hơi bị dính đó nha"
+  ],
+  "hook_content": "Thịt đông món ăn quen thuộc ngày Tết ở ngoài Bắc, tôi trong Nam lần đầu tiên làm thử, tưởng khó dữ lắm, ai ngờ siêu dễ làm mà ăn thì nó dính quá chừng nè.",
+  "hook_type": [
+    "Cho thấy kết quả trước",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn cách làm món thịt đông đơn giản tại nhà và chia sẻ trải nghiệm lần đầu làm món ăn này. Đồng thời, video cũng giới thiệu sản phẩm sữa Nutri Nano Curcumin hỗ trợ tiêu hóa.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán ăn vặt",
+      "desc": "Giới thiệu quán ăn vặt tuổi thơ với nhiều món hấp dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn vặt tuổi thơ."
+    },
+    {
+      "step": "Gọi món",
+      "desc": "Khách hàng gọi nhiều món ăn vặt khác nhau để thưởng thức.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng các món ăn được gọi."
+    },
+    {
+      "step": "Thưởng thức và trò chuyện",
+      "desc": "Khách hàng vừa ăn vừa trò chuyện, gợi nhớ kỷ niệm.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy gần gũi, thân thiện."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Khách hàng mua thêm đồ ăn và cảm ơn chủ quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có cảm xúc đặc biệt."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thèm",
+    "vui vẻ",
+    "hồi tưởng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "ăn vặt tuổi thơ",
+    "là伤感来调剂",
+    "真情融化成音符"
+  ],
+  "hook_content": "轻轻敲清脆的心灵",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện"
+  ],
+  "summarization": "Video ghi lại trải nghiệm đi ăn vặt tại một quán ăn có nhiều món gợi nhớ tuổi thơ, với không khí thân thiện và ấm cúng. Người xem được gợi nhớ về những kỷ niệm đẹp qua các món ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

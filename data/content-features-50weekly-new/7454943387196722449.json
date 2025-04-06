@@ -1,0 +1,101 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu bạch tuộc siêu to khổng lồ và sự ngạc nhiên khi mua.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về kích thước của bạch tuộc."
+    },
+    {
+      "step": "Chia sẻ giá cả",
+      "desc": "Thông tin về giá cả hợp lý của bạch tuộc.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy giá cả phải chăng."
+    },
+    {
+      "step": "Mô tả quá trình sơ chế",
+      "desc": "Cách sơ chế bạch tuộc nhanh gọn sau khi mua.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết được cách làm sạch bạch tuộc."
+    },
+    {
+      "step": "Công thức ướp",
+      "desc": "Chia sẻ công thức ướp đồ nướng đơn giản.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử công thức ướp này."
+    },
+    {
+      "step": "Giới thiệu nước chấm",
+      "desc": "Giới thiệu muối ớt đỏ của Thái Châu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của muối ớt."
+    },
+    {
+      "step": "Trải nghiệm món ăn",
+      "desc": "Mô tả hương vị bạch tuộc nướng và nước chấm.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn ăn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Còn ai mà muốn mua nước chấm, sốt Thái và sốt chấm trái cây thì kiếm anh hai tôi Thái Châu 0808 nghe.",
+    "Giờ thì mời mọi người ăn chung với tôi nha."
+  ],
+  "cta_type": [
+    "Ăn cùng",
+    "Truy cập trang cá nhân"
+  ],
+  "emotion_keywords": [
+    "bự chảng",
+    "tươi",
+    "siêu to khổng lồ",
+    "rẻ",
+    "gọn",
+    "bao dính",
+    "ngon",
+    "chất lượng",
+    "béo ngon",
+    "đậm đà",
+    "chua cay mặn ngọt",
+    "tiện lợi",
+    "siêu giòn ngọt",
+    "vừa vị",
+    "đậm đà",
+    "thơm nồng",
+    "ngập miệng",
+    "đã"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bữa nay đi chợ tính mua cá về kho ăn mà cần tem tự kiếm tới.",
+    "Mấy con bạch tuộc bự cỡ dày là tôi tưởng giá sẽ cao, nhưng mà thiệt ra cũng rẻ có 160 cành một ký hà.",
+    "Bạch tuộc nướng thì siêu giòn ngọt, áo đều sốt vừa vị, quẹt vô miếng muối ớt đỏ đậm đà thơm nồng mùi lá chanh. Mèn ơi ta nói nó ngập miệng mà đã gì đâu luôn."
+  ],
+  "hook_content": "Hồi đó giờ mọi người có ăn con bạch tuộc nào mà bự chảng thần như vậy chưa?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu món bạch tuộc nướng siêu to khổng lồ và chia sẻ công thức ướp đơn giản, kèm theo review muối ớt đỏ chấm hải sản. Người làm video bày tỏ sự thích thú với món ăn và khuyến khích người xem mua nước chấm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

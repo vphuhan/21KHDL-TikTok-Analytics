@@ -1,0 +1,86 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ốc bươu nhồi thịt và sự liên tưởng đến Đà Lạt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách làm món ốc bươu nhồi thịt."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Hướng dẫn sơ chế ốc bươu, rửa sạch và luộc.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, vì đây là bước chuẩn bị thông thường."
+    },
+    {
+      "step": "Trộn nhân",
+      "desc": "Trộn thịt ốc băm với thịt xay, mộc nhĩ và các gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với các nguyên liệu được trộn chung."
+    },
+    {
+      "step": "Nhồi thịt",
+      "desc": "Nhồi nhân vào vỏ ốc và chia sẻ khó khăn khi làm sạch vỏ.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với sự vất vả khi làm sạch vỏ ốc."
+    },
+    {
+      "step": "Hấp ốc",
+      "desc": "Hấp ốc trong 45 phút và giới thiệu nồi hấp mới.",
+      "impact_level": "1",
+      "viewer_emotion": "Mong chờ món ốc chín."
+    },
+    {
+      "step": "Làm nước chấm",
+      "desc": "Hướng dẫn làm nước mắm gừng, yếu tố quan trọng của món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến công thức nước chấm."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Thưởng thức ốc và gợi ý ăn kèm lá tía tô.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng món ốc nóng hổi."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Thôi, bây giờ mời cả nhà cùng ăn với anh em Tuấn nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngon nhức nhói"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Từ nay á nhắc tới ốc bu nhồi thịt là phải nhớ tới Huynh Anh Tuấn nha.",
+    "Món này ngon hay không phụ thuộc hết vào chén nước chấm nha.",
+    "Đặc biệt, độ ngon nhân đôi khi ăn vào lúc trời mưa hay thời tiết lạnh lạnh."
+  ],
+  "hook_content": "Nhìn thấy ốc bu thì cả nhà nghĩ tới món gì?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn nấu món ốc bươu nhồi thịt, từ sơ chế nguyên liệu, trộn nhân, nhồi thịt, hấp ốc đến làm nước chấm gừng. Món ăn ngon hơn khi ăn vào trời mưa hoặc thời tiết lạnh.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

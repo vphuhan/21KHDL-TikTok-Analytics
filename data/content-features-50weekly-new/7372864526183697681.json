@@ -1,0 +1,82 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán và món ăn",
+      "desc": "Giới thiệu quán ăn vặt hot trend Zhen Han và các món mới.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán và các món ăn mới."
+    },
+    {
+      "step": "Mô tả khoai tây chiên",
+      "desc": "Mô tả quy trình làm khoai tây chiên và các loại sốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự độc đáo của món khoai tây."
+    },
+    {
+      "step": "Đánh giá hot dog",
+      "desc": "Đánh giá hương vị và thành phần của hot dog gà ngô phô mai.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với sự hấp dẫn của hot dog."
+    },
+    {
+      "step": "Review đồ uống",
+      "desc": "Nhận xét về các loại đồ uống và topping hoa quả tươi.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử các loại trà trái cây thanh mát."
+    },
+    {
+      "step": "Kết luận và địa chỉ",
+      "desc": "Đề xuất quán cho người muốn đu trend và địa chỉ quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Ghi nhớ địa chỉ để ghé thăm quán."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ai mà muốn đu trend đồ ăn gì thì cứ tới đây là có hết."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "giòn rụm",
+    "siêu dài",
+    "thanh mát",
+    "tuyệt vời"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trời ơi, cái quán này suốt ngày ra trend mới thôi mọi người ạ.",
+    "Nhiều loại sốt như vậy nhưng mà cái nào nó cũng kiểu hòa quyện với nhau ấy.",
+    "Chua chua ngọt ngọt uống giải nhiệt mùa hè quá là tuyệt vời."
+  ],
+  "hook_content": "Anh ơi, sao khoai nhà anh dài thế?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán ăn vặt Zhen Han với các món hot trend như khoai tây cầu vồng, hot dog gà ngô phô mai và các loại trà hoa quả tươi mát. Người xem được khuyến khích đến quán để trải nghiệm các món ăn theo trend.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

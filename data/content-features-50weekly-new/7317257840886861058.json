@@ -1,0 +1,78 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món lạp xưởng tươi nướng đá và rủ mọi người ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Ăn và miêu tả",
+      "desc": "Ăn lạp xưởng chấm ớt bột, miêu tả hương vị tươi ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Nhấn mạnh vị ngon, vừa ăn của lạp xưởng và khuyên nên thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng"
+    },
+    {
+      "step": "So sánh",
+      "desc": "Thử chấm với tương ớt và so sánh với chấm ớt bột.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Cảm ơn người xem và hẹn gặp lại ở các video sau.",
+      "impact_level": "1",
+      "viewer_emotion": "Vui vẻ"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người đã xem hết video của mình.",
+    "Hẹn mọi người những video sau."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "tươi",
+    "thơm",
+    "vừa ăn",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "lạp sưởng nó tươi, không phải nó mặn ấy",
+    "Nó rất là kiểu thơm và tươi ấy, chỉ có mùi kiểu thơm mùi lạp xưởng không thôi",
+    "Ngon mọi người ạ, nên thử"
+  ],
+  "hook_content": "Xin chào mọi người. Hôm nay mình sẽ ăn lạp xưởng tươi nướng trên đá sỏi, mọi người ăn cùng mình nhá.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang món lạp xưởng tươi nướng đá, người nói vừa ăn vừa miêu tả hương vị tươi ngon, thơm và vừa ăn, đồng thời khuyến khích mọi người nên thử.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

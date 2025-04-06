@@ -1,0 +1,92 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món trứng thúi nướng Thái Lan và sự yêu thích của người làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chia sẻ cảm hứng",
+      "desc": "Chia sẻ về việc thấy người khác làm và quyết định thử nghiệm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Hướng dẫn chuẩn bị",
+      "desc": "Hướng dẫn các bước chuẩn bị trứng và vỏ gelatin.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị."
+    },
+    {
+      "step": "Hướng dẫn chế biến",
+      "desc": "Hướng dẫn cách hấp trứng và lưu ý quan trọng.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi lo lắng nếu làm sai."
+    },
+    {
+      "step": "Chia sẻ cảm nhận",
+      "desc": "Chia sẻ về mùi vị và trải nghiệm sau khi hấp xong.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Miêu tả hương vị béo, vừa vị và thúi đặc trưng.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người ăn cùng và khen ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn thử ngay."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ai mà mê trứng thúi thì phải thử liền món này nha, bao đỉnh luôn."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "thúi",
+    "béo",
+    "ngon",
+    "đỉnh",
+    "dính"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Món nào mà liên quan tới trứng thúi thì làm sao tôi bỏ qua được.",
+    "Khúc đập với quậy trứng thì nó thúi chấn động, mà tới khúc hấp xong là không có nghe cái mùi gì luôn.",
+    "Tính ra món này thấy độc lạ vậy chứ, ăn cũng hơi bị dính luôn đó."
+  ],
+  "hook_content": "Thấy cái trứng nướng Thái Lan, chả thần vàng ươm như vầy, mọi người có nhìn ra được là tôi làm từ trứng thúi không?",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm món trứng thúi nướng Thái Lan, bắt đầu bằng cách giới thiệu món ăn và chia sẻ cảm hứng làm món này, sau đó hướng dẫn chi tiết các bước chuẩn bị và chế biến, cuối cùng là đánh giá hương vị và mời mọi người cùng thưởng thức.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

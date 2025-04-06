@@ -1,0 +1,72 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ăn đặc sản địa phương mà Hà Nội không có.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn độc lạ."
+    },
+    {
+      "step": "Miêu tả cảm quan",
+      "desc": "Miêu tả mùi vị đặc trưng của món ăn, gây cảm giác mạnh.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với mùi vị đặc biệt."
+    },
+    {
+      "step": "Giới thiệu nguyên liệu",
+      "desc": "Giới thiệu các nguyên liệu chính: rau cải, ngồng cải cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Biết thêm về thành phần món ăn."
+    },
+    {
+      "step": "Cách thưởng thức",
+      "desc": "Hướng dẫn cách ăn kèm với đậu sị và nước chấm.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung về hương vị hoàn chỉnh."
+    },
+    {
+      "step": "Cảm nhận",
+      "desc": "Thể hiện sự thích thú và thỏa mãn khi ăn món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử."
+    }
+  ],
+  "content_style": [
+    "Truyền thống",
+    "Đời thường",
+    "Gen Z"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "sướng",
+    "cay"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "món đẳng cấp đỉnh nóc kịch trần bay phấp phới",
+    "chỉ cần ngửi thôi là đã ngửi được một cái mùi, nó rất là mùi rồi",
+    "nước chấm thần thánh"
+  ],
+  "hook_content": "Ở trên quê tôi có một cái món nữa mà ở dưới Hà Nội không bao giờ có.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu món ngồng cải cay đặc sản vùng quê mà Hà Nội không có, món ăn này có mùi vị đặc trưng, cay nồng và thường được ăn kèm với đậu sị và nước chấm đặc biệt.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

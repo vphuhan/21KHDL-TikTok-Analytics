@@ -1,0 +1,83 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món gà rang bơ tỏi đơn giản, dễ làm tại nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hứng thú với món ăn đơn giản."
+    },
+    {
+      "step": "Gợi ý sự tiện lợi",
+      "desc": "Nhấn mạnh sự hữu ích của món ăn cho người bận rộn.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với sự bận rộn, thấy món ăn phù hợp."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Hướng dẫn sơ chế gà và tỏi, các nguyên liệu chính.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin cơ bản, không quá đặc biệt."
+    },
+    {
+      "step": "Ướp gia vị",
+      "desc": "Hướng dẫn ướp gia vị theo công thức trên màn hình.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về công thức, muốn thử làm theo."
+    },
+    {
+      "step": "Áp chảo gà",
+      "desc": "Hướng dẫn áp chảo gà cho chín sơ.",
+      "impact_level": "1",
+      "viewer_emotion": "Hình dung được quy trình nấu nướng."
+    },
+    {
+      "step": "Rang bơ tỏi",
+      "desc": "Cho bơ và tỏi vào rang đến khi thơm.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy hấp dẫn bởi mùi thơm của bơ tỏi."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "mọi người nhớ lưu lại và làm thử nha"
+  ],
+  "cta_type": [
+    "Lưu video",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "bắt cơm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "gà rang bơ tỏi cực kỳ đơn giản nhưng mà lại vô cùng bắt cơm luôn",
+    "món này ngon nhất vẫn là đùi gà lóc xương",
+    "Đảo qua đảo lại ở lửa nhỏ cho tới khi nào mà bơ và tỏi thơm lừng lên là xong rồi."
+  ],
+  "hook_content": "Bữa cơm một món ngày hôm nay sẽ có gà rang bơ tỏi cực kỳ đơn giản nhưng mà lại vô cùng bắt cơm luôn.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm món gà rang bơ tỏi đơn giản, nhanh chóng và bắt cơm, phù hợp cho người bận rộn. Các bước thực hiện bao gồm sơ chế, ướp gia vị, áp chảo và rang bơ tỏi.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

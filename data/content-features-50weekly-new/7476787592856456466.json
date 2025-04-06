@@ -1,0 +1,86 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu các món bánh ngọt và trà sữa để ăn thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn được chọn."
+    },
+    {
+      "step": "Thử sô cô la",
+      "desc": "Ăn thử sô cô la và đưa ra đánh giá ban đầu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú khi thấy món ăn được thưởng thức."
+    },
+    {
+      "step": "Thử pizza",
+      "desc": "Ăn thử pizza và cảm nhận hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của pizza."
+    },
+    {
+      "step": "Thử phô mai",
+      "desc": "Ăn thử phô mai và ngạc nhiên về vị đắng.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ với vị đắng của phô mai."
+    },
+    {
+      "step": "Thử bánh lăn và bánh bông lan",
+      "desc": "Ăn thử bánh lăn và bánh bông lan, đánh giá ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy ngon miệng khi thấy bánh được khen."
+    },
+    {
+      "step": "Thử bánh doughnut",
+      "desc": "Ăn thử bánh doughnut và đánh giá ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng của các loại bánh."
+    },
+    {
+      "step": "Thử kem",
+      "desc": "Ăn kem và nhận xét kem bị chảy.",
+      "impact_level": "1",
+      "viewer_emotion": "Hụt hẫng vì kem không còn ngon."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "ngọt",
+    "đắng",
+    "wow"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Trời ơi cái gì mà nhiều dữ vậy trời tám món.",
+    "Ưm ừm. Trời ơi ngọt.",
+    "Wow. Đắng nha ơi."
+  ],
+  "hook_content": "Đây.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Phản hồi bình luận"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video ghi lại quá trình ăn và review nhiều loại bánh ngọt khác nhau như sô cô la, pizza, phô mai, bánh lăn, bánh bông lan, bánh doughnut, kem và trà sữa, đồng thời đưa ra cảm nhận về hương vị của từng loại.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

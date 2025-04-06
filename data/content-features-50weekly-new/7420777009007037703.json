@@ -1,0 +1,81 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Mời gọi những ai thích bánh flan vào xem và giới thiệu bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món bánh flan."
+    },
+    {
+      "step": "Miêu tả chi tiết",
+      "desc": "Nhấn mạnh kích cỡ lớn và địa điểm bán món bánh flan mới.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng về kích thước và tính mới lạ."
+    },
+    {
+      "step": "Đánh giá chất lượng",
+      "desc": "Ca ngợi độ mềm mịn, béo thơm của bánh flan.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và muốn thử."
+    },
+    {
+      "step": "Giới thiệu topping",
+      "desc": "Nêu bật sự kết hợp của trân châu đen và trân châu dừa.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn bởi sự kết hợp topping."
+    },
+    {
+      "step": "Kêu gọi trải nghiệm",
+      "desc": "Khuyến khích người xem đến thử và khẳng định chất lượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Có động lực muốn đến và trải nghiệm."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mấy bà nhớ ghé tui thử nghe"
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "béo",
+    "thơm",
+    "dai dai",
+    "đã đã",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trời ơi là trời ta nói cái bánh lăng gì mà nó bự chà bá vậy trời.",
+    "Ta nói cái bánh lăng nó mềm mịn siêu béo siêu thơm luôn á mấy bà.",
+    "Trong combo là có trân châu đen với trân châu dừa ăn cùng luôn dai dai đã đã"
+  ],
+  "hook_content": "Ê mấy bà ai đậu bánh lăng thì bơi vô đây với tui nghe.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu và review món bánh flan khổng lồ mới xuất hiện tại một chi nhánh ở quận 11, với lời khen về độ mềm mịn, béo thơm và sự kết hợp cùng trân châu đen, trân châu dừa.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

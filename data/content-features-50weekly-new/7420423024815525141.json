@@ -1,0 +1,79 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn và nguyên liệu",
+      "desc": "Mẹ và con đi mua nguyên liệu làm hotdog tokbokki tại nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự chuẩn bị của hai mẹ con."
+    },
+    {
+      "step": "Chuẩn bị bột",
+      "desc": "Trộn bột mì, bột gạo, muối, đường, men, trứng và ủ bột.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách làm bột."
+    },
+    {
+      "step": "Nấu tokbokki",
+      "desc": "Nấu tokbokki với nước dùng, ớt bột, tương ớt và gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi nồi tokbokki."
+    },
+    {
+      "step": "Quấn xúc xích với bột",
+      "desc": "Quấn xúc xích đã chiên qua lớp bột và lăn qua bột chiên xù.",
+      "impact_level": "3",
+      "viewer_emotion": "Thấy thú vị với cách làm hotdog."
+    },
+    {
+      "step": "Chiên hotdog",
+      "desc": "Chiên hotdog trong chảo dầu nhỏ lửa đến khi vàng đều.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy đói bụng khi xem chiên hotdog."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Cả nhà cùng nhau ăn hotdog tokbokki và trò chuyện.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấm áp với không khí gia đình."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "cay"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ở nhà mình làm một cây là ảnh ăn sạch trơn luôn",
+    "làm bốn cây này không tính thời gian ủ bột chưa tới 30 phút nữa",
+    "Nhìn hot top như thế này cũng y chang ngoài tiệm chứ bộ á"
+  ],
+  "hook_content": "Dạo này tụi hân nhà mình nó hết bệnh rồi, mà anh la là anh thèm hớt tóc kêu nha, hớt đớt hớt đom gì á vậy là hai mẹ con mình bắt xe buýt đi siêu thị.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món hotdog tokbokki tại nhà một cách đơn giản và nhanh chóng, phù hợp cho cả gia đình cùng thưởng thức. Món ăn được làm từ các nguyên liệu dễ kiếm và cách chế biến không quá phức tạp.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

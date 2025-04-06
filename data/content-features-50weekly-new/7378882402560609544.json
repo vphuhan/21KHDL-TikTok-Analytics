@@ -1,0 +1,85 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu về việc thử hai màu còn lại của cá trích ép trứng.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về sự khác biệt giữa các màu."
+    },
+    {
+      "step": "Ăn thử màu xanh",
+      "desc": "Thử ăn miếng cá trích ép trứng màu xanh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú khi được mời ăn cùng."
+    },
+    {
+      "step": "Ăn thử màu đỏ",
+      "desc": "Thử ăn miếng cá trích ép trứng màu đỏ.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ sự khác biệt về hương vị."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét về hương vị của cá trích ép trứng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung lắng nghe đánh giá chi tiết."
+    },
+    {
+      "step": "Miêu tả chi tiết",
+      "desc": "Miêu tả vị chua của dứa, vị ngọt của cá và trứng.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung hương vị của món ăn."
+    },
+    {
+      "step": "Đánh giá trứng cá",
+      "desc": "Nhấn mạnh độ giòn của trứng cá, so sánh với rong nho.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với độ giòn đặc biệt của trứng cá."
+    },
+    {
+      "step": "Đề cập giá cả",
+      "desc": "Đề cập đến giá thành của cá trích ép trứng.",
+      "impact_level": "1",
+      "viewer_emotion": "Quan tâm đến yếu tố giá cả."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "giòn",
+    "thích"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nó có vị chua như quả dứa chưa chín kỹ ấy và có một chút vị ngọt của cá và trứng.",
+    "Đặc biệt nhất là cái trứng cá ấy ăn nó rất là giòn luôn. Nó giòn như kiểu rong nho nhưng mà nó lại nhỏ hơn rong nho và nó cũng còn giòn hơn ấy, ăn rất là thích luôn."
+  ],
+  "hook_content": "mời mọi người ăn cá trích ép trứng nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review cá trích ép trứng với hai màu sắc khác nhau, tập trung vào hương vị và trải nghiệm ăn. Người nói đánh giá cao độ giòn của trứng cá, so sánh nó với rong nho, đồng thời đề cập đến giá thành của sản phẩm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

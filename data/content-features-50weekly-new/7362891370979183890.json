@@ -1,0 +1,81 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Chia sẻ về việc mua trứng cá tuyết từ Nhật Bản.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn đặc biệt."
+    },
+    {
+      "step": "Chuẩn bị và chế biến",
+      "desc": "Mô tả quá trình bảo quản và hấp trứng cá tuyết.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường về quá trình chuẩn bị."
+    },
+    {
+      "step": "Giới thiệu nồi hấp",
+      "desc": "Quảng cáo nồi hấp Viba và tính năng tiện lợi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích nếu cần mua nồi hấp."
+    },
+    {
+      "step": "Trải nghiệm món ăn",
+      "desc": "Mời ba mẹ ăn thử và chia sẻ cảm nhận.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy ấm cúng khi cả gia đình cùng ăn."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhấn mạnh hương vị ngon và giá trị dinh dưỡng.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng món trứng cá tuyết."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Dịp lễ 30 tháng 4 với 1 tháng 5 sắp tới thì mình nghĩ nhà nào cũng phải cần có một cái máy hấp Viba giống vậy."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thôi thúc",
+    "hú hồn hú vía",
+    "tò mò",
+    "ngại",
+    "khen ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đem về thì để tủ đông tầm cả tuần này kia thì mới đem ra hấp.",
+    "Ta nói cầm lên được trên cái máy bay rồi thì cũng phải hú hồn hú vía mấy phen.",
+    "Ăn có mấy món hấp đơn giản vậy thôi đó mà nó ngon quá trời."
+  ],
+  "hook_content": "có một chuyện hồi bữa giờ mình chưa dám kể cho mọi người nghe, chuyện là cách mấy hôm trước khi về nước thì mình có mua một cặp trứng cá tuyết.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video kể về trải nghiệm mua và chế biến trứng cá tuyết từ Nhật Bản, đồng thời giới thiệu nồi hấp Viba và chia sẻ cảm nhận của gia đình về món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

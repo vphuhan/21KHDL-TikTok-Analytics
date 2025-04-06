@@ -1,0 +1,91 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bún quậy Long An biến tấu từ bún quậy Phú Quốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị vì sự biến tấu độc đáo."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê các nguyên liệu tươi sống như tôm, chả cá, mực.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, chỉ là thông tin."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Hướng dẫn sơ chế tôm, chả cá, đặc biệt là công đoạn giã tôm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với cách làm thủ công."
+    },
+    {
+      "step": "Pha nước chấm",
+      "desc": "Hướng dẫn pha nước chấm đặc biệt với muối ớt đỏ Thích Muối.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng và tò mò muốn thử ngay."
+    },
+    {
+      "step": "Nấu nước lèo",
+      "desc": "Hầm xương và xào đầu tôm, vỏ tôm cho nước lèo thêm đậm đà.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn và công phu."
+    },
+    {
+      "step": "Tâm sự",
+      "desc": "Chia sẻ về những bình luận tiêu cực và cách đối diện với chúng.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm và khâm phục sự tích cực."
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng thưởng thức món bún quậy đặc biệt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và muốn ăn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mời cả nhà ăn cùng Tuấn món bún quậy Phú Quốc nhưng sản xuất tại Long An nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "thèm",
+    "thoải mái",
+    "vui",
+    "tích cực"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Người ta có bún quậy Phú Quốc, còn Tuấn có bún quậy Long An nha.",
+    "Món này ăn tiền là ở chén nước chấm.",
+    "Tuấn sống tích cực lắm nên Tuấn sẽ không quá nặng lòng về những câu nói này."
+  ],
+  "hook_content": "Người ta có bún quậy Phú Quốc, còn Tuấn có bún quậy Long An nha.",
+  "hook_type": [
+    "So sánh"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Tuấn giới thiệu món bún quậy Long An tự làm, biến tấu từ công thức Phú Quốc, đồng thời chia sẻ quan điểm sống tích cực trước những bình luận tiêu cực. Video tập trung vào quá trình chuẩn bị nguyên liệu, pha chế nước chấm đặc biệt và nấu nước lèo, xen kẽ những tâm sự cá nhân.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Trang trọng"
+  ]
+}

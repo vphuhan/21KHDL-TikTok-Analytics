@@ -1,0 +1,73 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bánh tráng cuộn mỡ hành đang hot.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Hướng dẫn làm nước sốt",
+      "desc": "Hướng dẫn pha chế nước sốt bánh tráng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy công thức đơn giản, dễ làm."
+    },
+    {
+      "step": "Hướng dẫn làm mỡ hành",
+      "desc": "Hướng dẫn làm mỡ hành.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn."
+    },
+    {
+      "step": "Hướng dẫn cuộn bánh tráng",
+      "desc": "Hướng dẫn cách cuộn bánh tráng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy dễ thực hiện."
+    },
+    {
+      "step": "Thưởng thức và đánh giá",
+      "desc": "Đánh giá món bánh tráng.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn thử."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Các bác hiểu cái món bánh tráng cuộn mỡ hành này có gì ngon mà hot thế các bác nhở?",
+    "Mà hot là phải làm luôn, làm ngay nha.",
+    "Món này nếu mà các bác ăn vặt, uống trà sữa rất là ngon luôn."
+  ],
+  "hook_content": "Các bác hiểu cái món bánh tráng cuộn mỡ hành này có gì ngon mà hot thế các bác nhở?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món bánh tráng cuộn mỡ hành đang hot, từ cách pha nước sốt, làm mỡ hành đến cách cuộn bánh tráng, phù hợp để ăn vặt với trà sữa.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

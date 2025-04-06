@@ -1,0 +1,76 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu địa điểm và hoàn cảnh",
+      "desc": "Giới thiệu đang ở McDonald's trên tàu cao tốc và than vãn tàu nghiêng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Cùng người thân thưởng thức gà rán và khoai tây chiên McDonald's.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Nhận xét về số lượng sốt ít và miếng gà có vị cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Ưu đãi",
+      "desc": "Chia sẻ giá tiền của suất ăn và so sánh giá cả.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Kết thúc video bằng việc ăn khoai tây chiên và tạm biệt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bye bye."
+  ],
+  "cta_type": [],
+  "emotion_keywords": [
+    "tức",
+    "khó chịu",
+    "tuyệt vời",
+    "ngon",
+    "cay"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Sao nó nghiêng ngửa vậy bây?",
+    "Miếng đầu tiên đã cắn vào xương rồi, tuyệt vời.",
+    "200.000 cho hai miếng gà, một Coca, một phần khoai tây. Lại đắt tây rẻ ta."
+  ],
+  "hook_content": "McDonald’s trên tàu cao tốc. Sao nó nghiêng ngửa vậy bây? Sao cái tàu nó nghiêng thế?",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại trải nghiệm ăn McDonald's trên tàu cao tốc, tập trung vào việc đánh giá món ăn và chia sẻ cảm xúc cá nhân về trải nghiệm này.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu nguyên liệu",
+      "desc": "Khoai lang tím được sơ chế và chuẩn bị cho công đoạn tiếp theo.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Sơ chế và trộn bột",
+      "desc": "Nghiền khoai, trộn với bột và mè đen để tạo hình bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Chiên bánh",
+      "desc": "Chiên bánh với lửa nhỏ đến khi chín vàng và nổi lên.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Bánh khoai lang mè đen giòn tan, thơm ngon đã hoàn thành.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Mời bạn cùng lưu lại và trổ tài nhé."
+  ],
+  "cta_type": [
+    "Lưu video",
+    "Thử làm theo công thức",
+    "Chia sẻ công thức"
+  ],
+  "emotion_keywords": [
+    "thơm ngon",
+    "mềm dẻo",
+    "mềm mại",
+    "thơm ngọt",
+    "giòn tan"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Vỏ giòn, ruột mềm dẻo, mềm mại, thơm ngọt.",
+    "Bánh khoai lang mè đen làm theo cách này to, tròn, giòn tan và thơm ngon.",
+    "Người lớn hay trẻ em cũng đều thích."
+  ],
+  "hook_content": "Sau này nếu bạn mua khoai lang về, hãy làm thử theo cách của mình, vỏ giòn, ruột mềm dẻo, mềm mại, thơm ngọt.",
+  "hook_type": [
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm bánh khoai lang mè đen với vỏ giòn, ruột mềm dẻo, thơm ngon, phù hợp cho cả người lớn và trẻ em.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

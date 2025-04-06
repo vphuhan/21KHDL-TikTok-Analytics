@@ -1,0 +1,84 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món lẩu Thái cá bớp và gợi ý món ăn khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món lẩu Thái cá bớp."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Mô tả việc mua cá tươi và các loại rau lẩu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự tươi ngon của nguyên liệu."
+    },
+    {
+      "step": "Nấu nước lẩu",
+      "desc": "Hướng dẫn nấu nước lẩu với gói gia vị Barona.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với sự tiện lợi của gói gia vị."
+    },
+    {
+      "step": "Hoàn thiện lẩu",
+      "desc": "Thả cá và rau vào lẩu, chuẩn bị thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng và muốn ăn ngay."
+    },
+    {
+      "step": "Thưởng thức và đánh giá",
+      "desc": "Miêu tả hương vị và cảm nhận khi ăn lẩu.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm nhận được vị ngon và sự hấp dẫn của món ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi nghe."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "nhức nách",
+    "hợp lý",
+    "tươi",
+    "xịn sò",
+    "ấm người",
+    "siêu tươi",
+    "béo ngon",
+    "vừa vị",
+    "sần sật"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tôi là tôi làm liền một cái lẩu thái cá bớp nhang, vừa nhanh gọn mà ăn phải gọi là nhức nách luôn.",
+    "Nấu lẩu này thì siêu đơn giản, chỉ với ba bước là xong.",
+    "Lẩu cá bớp thì chua cay vừa vị, thịt cá thì siêu siêu tươi, béo ngon."
+  ],
+  "hook_content": "có con cá bớp ngon, mọi người thường làm món gì ăn.",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn nấu món lẩu Thái cá bớp đơn giản, nhanh gọn với gói gia vị lẩu Thái Barona, đồng thời chia sẻ cảm nhận về hương vị tươi ngon, hấp dẫn của món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

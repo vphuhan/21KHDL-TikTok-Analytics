@@ -1,0 +1,80 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu chung",
+      "desc": "Giới thiệu nhà hàng có view đẹp và giá cả phải chăng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về địa điểm."
+    },
+    {
+      "step": "Thông tin chi tiết về nhà hàng",
+      "desc": "Địa điểm, không gian và menu mới của nhà hàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị về các set ăn."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Thử và đánh giá các món ăn đặc biệt trong set.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm ăn."
+    },
+    {
+      "step": "Ưu đãi và khuyến mãi",
+      "desc": "Hướng dẫn mẹo để được ăn với giá hời hơn.",
+      "impact_level": "3",
+      "viewer_emotion": "Háo hức muốn thử."
+    },
+    {
+      "step": "Hướng dẫn thu thập tem",
+      "desc": "Cách thu thập tem để đổi các ưu đãi khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn tìm hiểu thêm."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người cũng tranh thủ lên Thiên Cư trưa ngắm cảnh và thu thập cho đủ số tem nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "siêu ngon",
+    "hời",
+    "đáng thử"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "250 cành thôi là đã bao gồm một set bảy món",
+    "ăn ba set nhưng mà chỉ tính tiền có hai set thôi là tính ra còn rẻ hơn 250 cành nữa",
+    "Trời chấm mì với lại cái sốt này mình thấy nó siêu ngon luôn á mọi người."
+  ],
+  "hook_content": "250 cành, chính xác là chỉ cần 250 cành thôi là mọi người đã có thể ăn trưa với một cái view triệu đô như vậy.",
+  "hook_type": [
+    "Gây tò mò",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu nhà hàng Thiên Cư ở Landmark 81 với menu ăn trưa giá 250 cành có view đẹp và các set ăn mang đậm nét Nhật Bản. Video cũng hướng dẫn cách để được ăn với giá ưu đãi và thu thập tem đổi quà.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

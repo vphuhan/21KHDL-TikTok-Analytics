@@ -1,0 +1,83 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu vấn đề",
+      "desc": "Nêu vấn đề thường gặp khi làm trứng gà nướng và hứa hẹn giải pháp.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê nguyên liệu đơn giản và hướng dẫn sơ chế vỏ trứng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Nêm gia vị",
+      "desc": "Hướng dẫn nêm gia vị vừa phải và lưu ý thời điểm cho tiêu.",
+      "impact_level": "2",
+      "viewer_emotion": "Chú ý"
+    },
+    {
+      "step": "Đổ trứng vào vỏ",
+      "desc": "Nhấn mạnh chỉ đổ lưng vỏ trứng để tránh bị trào khi hấp.",
+      "impact_level": "2",
+      "viewer_emotion": "Cẩn trọng"
+    },
+    {
+      "step": "Mẹo hấp trứng",
+      "desc": "Hướng dẫn chi tiết cách hấp trứng để không bị phì.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Tóm tắt và khuyến khích",
+      "desc": "Khẳng định thành công và khuyến khích thử món trứng gà nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Giá để mua nguyên liệu làm món này rẻ lắm mà ngon nữa, bạn thử nha."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "thành công",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nếu bạn đã từng làm trứng gà nướng mà bị sình, phì hay là trào ra ngoài hãy coi video này nha.",
+    "Bạn nhớ là khi nước sôi lên mình mới cho trứng vào và bật lửa thiệt là nhỏ thôi.",
+    "Chỉ cần nắm được cái mẹo nhỏ này thôi thì mình tin là món trứng gà nướng của bạn từ bây giờ nó sẽ thành công."
+  ],
+  "hook_content": "Nếu bạn đã từng làm trứng gà nướng mà bị sình, phì hay là trào ra ngoài hãy coi video này nha.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm trứng gà nướng không bị phình, trào bằng các mẹo nhỏ khi hấp trứng, từ việc để lửa nhỏ đến mở nắp thường xuyên để thoát nhiệt. Video khuyến khích người xem thử làm theo vì nguyên liệu rẻ và dễ làm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

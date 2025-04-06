@@ -1,0 +1,90 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu bí quyết chiên cốt lết ngon như ngoài hàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về bí quyết được chia sẻ."
+    },
+    {
+      "step": "Sơ chế thịt",
+      "desc": "Dùng búa hoặc chày dần thịt để khi chiên không bị dai.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, một bước chuẩn bị cần thiết."
+    },
+    {
+      "step": "Ướp thịt",
+      "desc": "Hướng dẫn ướp thịt với các gia vị, nhấn mạnh dùng nước tương.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự khác biệt trong công thức."
+    },
+    {
+      "step": "Chiên thịt",
+      "desc": "Chiên thịt với ít dầu, chỉ chiên vàng sơ hai mặt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thao tác chiên rán cơ bản."
+    },
+    {
+      "step": "Làm nước sốt",
+      "desc": "Phi thơm hành tím, thêm nước tương, đường và đun sôi.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi màu sắc và mùi thơm."
+    },
+    {
+      "step": "Áo sốt",
+      "desc": "Cho thịt vào chảo sốt, áo đều hai mặt trong 2 phút.",
+      "impact_level": "3",
+      "viewer_emotion": "Mong chờ thành phẩm cuối cùng."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Món này chỉ cần ăn với cơm nguội là đủ ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy món ăn đơn giản, dễ làm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Bữa nào mà chưa có biết ăn gì thì mấy bà tham khảo thử món này nghe, bảo đảm không ngon không lấy tiền luôn."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "mềm",
+    "thơm",
+    "đậm đà",
+    "ngon",
+    "thơm nhức mũi"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mấy bà chiên thịt cốt lết theo cái cách này đi, bảo đảm cái miếng thịt nó mềm, thơm mà ăn đậm đà ngon nhất trước giờ tôi từng ăn luôn á.",
+    "Ướp nước tương á thì cái miếng thịt nó mềm, còn mấy bà mà ướp nước mắm á thì cái thịt nó cứng lắm.",
+    "Cái món này là chỉ cần ăn với cơm nguội thôi, chứ không có cần cầu kỳ gì hết trơn á."
+  ],
+  "hook_content": "Đây là cái bí quyết chiên thịt cốt lết trong nghề mà không phải ai cũng chỉ cho mấy bà đâu nha.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ bí quyết chiên thịt cốt lết mềm, thơm và đậm đà như ngoài hàng, bằng cách hướng dẫn chi tiết từ khâu sơ chế, ướp thịt đến chiên và làm nước sốt áo.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

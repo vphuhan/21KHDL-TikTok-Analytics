@@ -1,0 +1,84 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Gọi món",
+      "desc": "Khách hàng gọi phở tái lăn, trứng trần và trò chuyện với chủ quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự tương tác giữa khách và chủ quán."
+    },
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán phở bò Nam Định quen thuộc từ năm 2011.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán phở lâu năm."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Nhận xét về hương vị nước dùng, thịt tái lăn và quẩy giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đói bụng và thèm phở."
+    },
+    {
+      "step": "Tương tác với mèo",
+      "desc": "Người ăn cho mèo ăn thịt bò và ngạc nhiên vì mèo ăn được cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với hành động tương tác với động vật."
+    },
+    {
+      "step": "Miêu tả không gian",
+      "desc": "Miêu tả không gian quán phở và sự thoải mái khi ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Không có nhiều cảm xúc đặc biệt."
+    },
+    {
+      "step": "Lời khen",
+      "desc": "Khẳng định phở tái lăn ngon và giới thiệu cho mọi người.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng của quán."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Giới thiệu toàn thể anh em bà con nhá."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm phưng phức",
+    "vừa vị",
+    "ngon",
+    "buồn cười"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Hít thử một hơi nước dùng đầu tiên cảm thấy mùi tỏi và hương bò nó thơm phưng phức.",
+    "Tôi ăn tới gần cuối bát phở mà vẫn còn rất nhiều thịt đây này.",
+    "Đây là một quán phở bò của anh em Nam Định ở thủ đô, quán này mở trên 20 năm rồi gọi là phở làng cũng được. Ăn khá ngon."
+  ],
+  "hook_content": "- Đã có tái lăn chưa chú ơi?",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu quán phở bò Nam Định lâu năm ở Hà Nội, đặc biệt nổi tiếng với món tái lăn. Người quay chia sẻ trải nghiệm ăn tại quán, từ hương vị nước dùng đến thịt bò và không gian quán.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

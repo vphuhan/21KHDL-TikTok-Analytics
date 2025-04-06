@@ -1,0 +1,85 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán mì trộn hot trên TikTok, giá cả phải chăng",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ nổi tiếng của quán"
+    },
+    {
+      "step": "Miêu tả hoạt động quán",
+      "desc": "Quán đông khách, làm liên tục, chủ quán phải nhờ người phụ",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự bận rộn của quán"
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Mì trộn thập cẩm giá rẻ, topping hợp vị, nem lụi ngon",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy món ăn hấp dẫn"
+    },
+    {
+      "step": "Thông tin thêm về menu",
+      "desc": "Giới thiệu các món khác và giá cả, khoai tây lốc phô mai",
+      "impact_level": "1",
+      "viewer_emotion": "Biết thêm về các lựa chọn khác"
+    },
+    {
+      "step": "Thông báo về ship",
+      "desc": "Quán không nhận ship vì không có lãi, khuyến khích đến mua",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích cho người muốn mua"
+    },
+    {
+      "step": "Hướng dẫn đường đi",
+      "desc": "Hướng dẫn đường đến quán, địa chỉ cụ thể, dễ tìm",
+      "impact_level": "1",
+      "viewer_emotion": "Dễ dàng tìm đến quán"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Thôi thì mọi người nghỉ chiêu hoặc là đi chơi tối về hoan hỉ qua quán mua cũng được."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "béo"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái sốt trộn nó rất là bình thường thôi nhưng mà ăn cứ được sao nó lại ngon lắm ý.",
+    "Em vẫn thích nhất là cái nem lụi mà gọi thêm này, thơm béo.",
+    "Làm suất mì trộn ta nói ngon mà no luôn cái bụng"
+  ],
+  "hook_content": "Xuất rẻ nhất ở đây là bao tiền hả chị?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quán mì trộn hot trên TikTok, giới thiệu các món ăn hấp dẫn với giá cả phải chăng, đặc biệt là mì trộn thập cẩm và nem lụi. Quán không nhận ship, khuyến khích khách đến mua trực tiếp.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

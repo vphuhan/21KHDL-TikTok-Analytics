@@ -1,0 +1,96 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Mập Bự giới thiệu món cơm cháy kho quẹt, gợi lại ký ức.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về công thức"
+    },
+    {
+      "step": "Thắng tóp mỡ",
+      "desc": "Hướng dẫn cách thắng tóp mỡ giòn, không bị văng dầu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích"
+    },
+    {
+      "step": "Làm nước khô quẹt",
+      "desc": "Hướng dẫn làm nước khô quẹt sánh dẻo, bóng bẩy, hấp dẫn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Làm cơm cháy",
+      "desc": "Hướng dẫn chiên cơm cháy giòn rụm, vàng đều.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức muốn thử"
+    },
+    {
+      "step": "Luộc rau",
+      "desc": "Gợi ý các loại rau luộc ăn kèm, đặc biệt là đậu rồng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Trình bày và nhận xét",
+      "desc": "Nhấn mạnh sự hấp dẫn và hương vị của món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng thưởng thức món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn cùng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi nghe."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ghiền",
+    "hấp dẫn",
+    "uy tín",
+    "bắt mắt",
+    "đậm đà",
+    "giòn rụm",
+    "ngập ngụi",
+    "vị"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn khô quẹt nhiều rồi mà bữa nay tôi mới phát hiện được cái công thức khô quẹt sánh dẻo óng ánh, ăn một cái là ghiền luôn nè.",
+    "Đặc biệt dòm cái chảo khô quẹt phun top pin keo sạch của tôi có ai cầm lòng không đặng chưa ta?",
+    "Cơm cháy thì giòn rụm, quẹt thêm miếng khô quẹt ngập ngụi tum khô với top mỡ đậm đà."
+  ],
+  "hook_content": "Hello hello, lại là tôi Mập Bự thích ăn đây.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn cách làm cơm cháy kho quẹt đơn giản tại nhà, từ cách thắng tóp mỡ giòn tan đến công thức pha nước kho quẹt sánh dẻo đậm đà, ăn kèm rau luộc thanh mát, tạo nên món ăn dân dã hấp dẫn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

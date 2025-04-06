@@ -1,0 +1,87 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu set bánh tráng sốt chấm muối béo của Tiger Food.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm mới."
+    },
+    {
+      "step": "Mô tả thành phần",
+      "desc": "Liệt kê và mô tả chi tiết các thành phần trong set bánh tráng.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn biết rõ hơn về thành phần."
+    },
+    {
+      "step": "Đánh giá sốt muối beo",
+      "desc": "Đánh giá hương vị, độ mặn và độ đậm đà của sốt muối beo.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung về hương vị của sốt."
+    },
+    {
+      "step": "Gợi ý cách ăn",
+      "desc": "Gợi ý cách ăn bánh tráng với các thành phần khác nhau.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy cách ăn này thú vị."
+    },
+    {
+      "step": "So sánh 2 loại sốt",
+      "desc": "So sánh sốt muối béo và sốt trứng muối về độ đặc, vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Phân vân lựa chọn loại sốt."
+    },
+    {
+      "step": "Đánh giá sốt trứng muối",
+      "desc": "Đánh giá sốt trứng muối thơm, béo ngậy, không mặn.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm ăn."
+    },
+    {
+      "step": "Kết hợp và cảm nhận",
+      "desc": "Ăn kèm tóp mỡ và sốt chấm, cảm nhận độ ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy hấp dẫn, muốn thử ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "béo",
+    "thơm",
+    "ngon",
+    "ngậy",
+    "vừa vị",
+    "đậm đà"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Bánh tráng phơ sườn muối béo được Hoa hậu Nguyễn Thúc Thùy Tiên ăn, liệu có làm mưa làm gió lại thêm một lần nữa không?",
+    "Đỉnh cao là cái sốt trứng muối này mới ngon đó mấy bà ơi.",
+    "Tôi nói là lấy một miếng tóp mỡ quệt lên cái sốt chấm nha mọi người nó ngon nha mấy bà nó ngậy nó thơm cực kỳ."
+  ],
+  "hook_content": "Bánh tráng phơ sườn muối béo được Hoa hậu Nguyễn Thúc Thùy Tiên ăn, liệu có làm mưa làm gió lại thêm một lần nữa không?",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review set bánh tráng sốt chấm muối béo của Tiger Food, tập trung vào đánh giá các thành phần như hành phi, tóp mỡ, mắm tỏi, muối beo và đặc biệt là sốt trứng muối. Người review chia sẻ trải nghiệm ăn thử và gợi ý cách kết hợp để có hương vị ngon nhất.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu hoàn cảnh",
+      "desc": "Chuyển nhà mới và vòng xoáy mua đồ decor không lối thoát.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, có lẽ nhiều người cũng gặp tình huống này."
+    },
+    {
+      "step": "Khui đồ trang trí",
+      "desc": "Gối, cây thông và đồ trang trí Noel mua trên Hàng Mã.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thích thú vì đồ xinh xắn."
+    },
+    {
+      "step": "Giới thiệu máy hút bụi",
+      "desc": "Máy hút bụi Dyson Micro, nhẹ nhất của hãng.",
+      "impact_level": "2",
+      "viewer_emotion": "Bắt đầu thấy sản phẩm có vẻ xịn xò."
+    },
+    {
+      "step": "Đánh giá ưu điểm",
+      "desc": "Nhẹ, đầu hút thông minh, lọc bụi tốt, thiết kế tiện lợi.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn mua ngay vì quá nhiều ưu điểm."
+    },
+    {
+      "step": "Gợi ý đối tượng",
+      "desc": "Phù hợp dùng cho gia đình, làm quà tân gia.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy gợi ý hợp lý, có thể mua tặng người thân."
+    },
+    {
+      "step": "Hứa hẹn video sau",
+      "desc": "Còn nhiều đồ chưa khui, hẹn ở video sau.",
+      "impact_level": "1",
+      "viewer_emotion": "Hơi hụt hẫng vì chưa xem hết."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mua để cho nhà dùng hay là mua làm quà tặng tân gia, tặng cho bạn gái, vợ hay là các bà các mẹ đều hợp luôn đó"
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "cute",
+    "dịu",
+    "thích",
+    "thông minh",
+    "tiện lợi"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "mỗi lần chuyển nhà là cô ấy lại la vào một cái vòng xoáy tiêu tiền, mua đồ decor nhà không lối thoát luôn",
+    "mình rất rất thích cái đầu hút Slim Fluffy này tại vì nó có khả năng phát hiện bụi vô hình trên sàn cứng",
+    "Vì cái việc xuống tiền mua chiếc máy này đúng là một sự thể hiện rất rõ của việc yêu thương bản thân của cô ấy."
+  ],
+  "hook_content": "Mình đã chuyển sang nhà mới và đây là hình ảnh quen thuộc của mình mấy tuần nay.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu về quá trình chuyển nhà và mua sắm đồ dùng, đặc biệt là chiếc máy hút bụi Dyson Micro. Người dùng chia sẻ trải nghiệm sử dụng và đánh giá cao các tính năng của sản phẩm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

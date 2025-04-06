@@ -1,0 +1,71 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu loạt bánh",
+      "desc": "Liệt kê các loại bánh dân gian hấp dẫn có trong xe đẩy.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các loại bánh."
+    },
+    {
+      "step": "Miêu tả bánh",
+      "desc": "Nhấn mạnh độ ngon và hương vị đặc trưng của bánh.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn ăn thử."
+    },
+    {
+      "step": "Giới thiệu các loại bánh khác",
+      "desc": "Tiếp tục giới thiệu thêm nhiều loại bánh khác nhau.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng."
+    },
+    {
+      "step": "Thông tin thêm",
+      "desc": "Đề cập đến set bánh bò rễ tre có thể mua.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không quá đặc biệt."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mấy bà có thể mua nguyên set bánh bò rễ tre này nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "Ngon",
+    "thơm",
+    "béo"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nhìn thôi đã muốn chảy nước miếng rồi.",
+    "Nó sền sệt quánh quánh dai dai sừ sừ thêm cái vị thơm béo của nước dừa.",
+    "Để ăn rất là thơm nha."
+  ],
+  "hook_content": "Anh đánh sơn san rồi tôi nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video giới thiệu và ăn thử nhiều loại bánh dân gian khác nhau từ một xe đẩy, tập trung vào miêu tả hương vị và cảm giác ngon miệng khi ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

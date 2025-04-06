@@ -1,0 +1,85 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu địa điểm quán chim quay Cát Dài nổi tiếng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ nổi tiếng của quán."
+    },
+    {
+      "step": "Miêu tả món ăn",
+      "desc": "Miêu tả chi tiết về hương vị và cách chế biến chim cút.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và muốn thử ngay."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá hương vị, độ tươi ngon và trải nghiệm cá nhân.",
+      "impact_level": "3",
+      "viewer_emotion": "Thực sự muốn trải nghiệm hương vị."
+    },
+    {
+      "step": "So sánh các loại",
+      "desc": "So sánh giữa chim cút to và nhỏ về độ chắc thịt.",
+      "impact_level": "2",
+      "viewer_emotion": "Có thêm thông tin để lựa chọn."
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Gợi ý cách ăn ngon và thời điểm ăn thích hợp.",
+      "impact_level": "2",
+      "viewer_emotion": "Gợi ý hữu ích cho trải nghiệm."
+    },
+    {
+      "step": "Tổng kết",
+      "desc": "Tổng kết lại trải nghiệm và đưa ra đánh giá chung.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy tin tưởng vào đánh giá."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người có thể ghé qua trải nghiệm và dùng thử xem như thế nào nhá."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "vừa miệng",
+    "ngọt",
+    "đưa miệng",
+    "giòn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn nó ngon nha, mà được tẩm ướp rất là vừa miệng nhá, không cần chấm mà đã thấy vị nó rất là ngon rồi.",
+    "Mặn mặn, ngọt ngọt, ăn rất là đưa miệng.",
+    "Khi ăn cả xương thì nhai nó cứ giòn rùm rộp luôn."
+  ],
+  "hook_content": "bao nhiêu con đây? bao nhiêu bao nhiêu một con đây? Nhỏ là 12.000, to là 30.000. Cho em năm con nhỏ, năm con to nhá.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quán chim quay ở Cát Dài, Hà Nội, với các đánh giá chi tiết về hương vị, giá cả và trải nghiệm ăn uống tại quán. Người nói đặc biệt nhấn mạnh về hương vị thơm ngon và sự vừa miệng của món chim quay.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

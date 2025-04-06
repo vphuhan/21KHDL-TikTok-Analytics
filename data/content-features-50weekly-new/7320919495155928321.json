@@ -1,0 +1,93 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món tôm sấy dẻo tự làm tại nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chia sẻ trải nghiệm mua tôm",
+      "desc": "Kể về trải nghiệm mua tôm và nghi ngờ bị mua đắt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Than thở về việc lột tôm",
+      "desc": "Than phiền về việc lột vỏ tôm quá khó khăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với khó khăn."
+    },
+    {
+      "step": "Sơ chế tôm",
+      "desc": "Hướng dẫn làm sạch và sơ chế tôm trước khi ướp.",
+      "impact_level": "2",
+      "viewer_emotion": "Học hỏi được cách sơ chế."
+    },
+    {
+      "step": "Hướng dẫn ướp tôm",
+      "desc": "Hướng dẫn chi tiết cách ướp tôm với các gia vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú với công thức."
+    },
+    {
+      "step": "Sấy tôm",
+      "desc": "Hướng dẫn sấy tôm bằng nồi chiên không dầu.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến cách sấy tôm."
+    },
+    {
+      "step": "Thành phẩm và đánh giá",
+      "desc": "Giới thiệu thành phẩm tôm sấy dẻo và nếm thử.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng món ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Tết này mấy bà làm thử nghen."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "mặn mặn cay cay",
+    "thơm",
+    "thơm phức",
+    "dẻo mọng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "bán mắc mắc vậy dễ thương cũng được",
+    "ở nhà có cái nồi chiên không dầu là tiện lắm, muốn nấu cái gì cũng được hết trơn á mà không có dầu mỡ nữa",
+    "Cái món này mà mấy bà làm lai rai hay là đãi khách là hết bài luôn á"
+  ],
+  "hook_content": "Tết này mấy bà làm thử cái tôm sấy dẻo này ăn thử đi, mặn mặn cay cay.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn cách làm tôm sấy dẻo tại nhà bằng nồi chiên không dầu, chia sẻ các bước sơ chế, ướp gia vị và sấy tôm đơn giản, phù hợp để làm món ăn vặt ngày Tết.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước",
+    "Chân thành"
+  ]
+}

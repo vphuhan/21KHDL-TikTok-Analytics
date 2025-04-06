@@ -1,0 +1,87 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu thịt hổ khổng lồ và thịt hổ thường, thực chất là bánh bò.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm được giới thiệu."
+    },
+    {
+      "step": "Thông tin chi tiết",
+      "desc": "Giá cả, số lượng, quà tặng kèm theo khi mua combo.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin cụ thể, không quá đặc sắc."
+    },
+    {
+      "step": "So sánh sản phẩm",
+      "desc": "So sánh thịt hổ Trung Quốc với sản phẩm tương tự ở Việt Nam.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị về sự khác biệt giữa hai loại."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhấn mạnh hương vị ngon và gợi ý nên thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn biết hương vị thực tế ra sao."
+    },
+    {
+      "step": "So sánh kích cỡ",
+      "desc": "So sánh miếng thịt hổ bố và thịt hổ con, thể hiện sự hài hước.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi buồn cười và dễ hình dung."
+    },
+    {
+      "step": "Mong muốn cá nhân",
+      "desc": "Ước giá mà gói thịt hổ to bằng gói thịt bò.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Kêu gọi mua hàng",
+      "desc": "Hướng dẫn mua hàng và khẳng định giá rẻ, ngon, nhiều.",
+      "impact_level": "2",
+      "viewer_emotion": "Cân nhắc mua nếu tò mò về sản phẩm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người muốn mua có thể mua ở góc trái màn hình nha mọi người."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nói là thịt hổ, chứ thực ra đây là bánh bò miếng vừng.",
+    "Cảm giác như đây là miếng thịt hổ bố còn đây là miếng thịt hổ con vậy mọi người ạ.",
+    "Giá mà cái gói thịt hổ này to bằng cái gói thịt bò kia thì tốt biết mấy."
+  ],
+  "hook_content": "Đây là thịt hổ khổng lồ, còn đây là thịt hổ thường.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu và review sản phẩm \"thịt hổ\" thực chất là bánh bò miếng vừng của Trung Quốc, so sánh với sản phẩm Việt Nam và đưa ra đánh giá về hương vị, giá cả.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

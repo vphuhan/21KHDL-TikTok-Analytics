@@ -1,0 +1,89 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu mục đích",
+      "desc": "Đi ăn nhà hàng Nhật được khen nhiều và giới thiệu ưu đãi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về nhà hàng và ưu đãi."
+    },
+    {
+      "step": "Hướng dẫn nhận ưu đãi",
+      "desc": "Hướng dẫn chi tiết cách đặt bàn và nhận ưu đãi Mastercard.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích vì được hướng dẫn cụ thể."
+    },
+    {
+      "step": "Trải nghiệm món ăn",
+      "desc": "Giới thiệu và đánh giá món cá răng nướng Miso được tặng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn và muốn thử."
+    },
+    {
+      "step": "So sánh nguyên liệu",
+      "desc": "So sánh cá răng với cá tuyết và bào ngư đen với bào ngư vàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị về sự khác biệt nguyên liệu."
+    },
+    {
+      "step": "Mở rộng thông tin",
+      "desc": "Liệt kê các nhà hàng và quốc gia áp dụng ưu đãi Mastercard.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết thêm nhiều địa điểm áp dụng."
+    },
+    {
+      "step": "Kêu gọi sử dụng ưu đãi",
+      "desc": "Nhắc nhở sử dụng thẻ Mastercard để nhận ưu đãi.",
+      "impact_level": "1",
+      "viewer_emotion": "Nhớ áp dụng ưu đãi khi đi ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sang trọng",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người có đi ăn các nhà hàng dining ở Hà Nội, Sài Gòn và các nước châu Á khác thì đừng quên dùng thẻ Mastercard để nhận ưu đãi nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "đặc biệt",
+    "thấm gia vị",
+    "khá lạ",
+    "khác biệt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "cách đi ăn nhà hàng sang trọng ở Hà Nội, Đà Nẵng và Thành phố Hồ Chí Minh mà còn được tặng món chính free nữa nha",
+    "thay vì dùng cá tuyết như nhiều nhà hàng thì Masư chọn cá răng to và ngon hơn cá tuyết, với tỷ lệ dinh dưỡng cũng cao hơn cá tuyết nữa",
+    "không dùng bào ngư vàng Việt Nam mà Masư sẽ dùng bào ngư đen chỉ xuất hiện ở những vùng biển trung tính như là Nhật Bản. Công nhận là ăn thấy khác biệt thật á."
+  ],
+  "hook_content": "Đi ăn thử nhà hàng Nhật được khen ngợi rất nhiều ở Hà Nội xem có ngon thật không nào? Và trong video này mình sẽ chỉ cho mọi người cách đi ăn nhà hàng sang trọng ở Hà Nội, Đà Nẵng và Thành phố Hồ Chí Minh mà còn được tặng món chính free nữa nha.",
+  "hook_type": [
+    "Gây tò mò",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn",
+    "So sánh"
+  ],
+  "summarization": "Video giới thiệu trải nghiệm ăn tại nhà hàng Nhật ở Hà Nội và hướng dẫn cách nhận món chính miễn phí khi thanh toán bằng thẻ Mastercard. Video cũng so sánh nguyên liệu và liệt kê các nhà hàng khác có chương trình ưu đãi tương tự.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu địa điểm",
+      "desc": "Reviewer đến Muji mới khai trương và bày tỏ sự yêu thích.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cửa hàng mới."
+    },
+    {
+      "step": "Khám phá sản phẩm",
+      "desc": "Tham quan khu vực đồ ăn, chọn lựa và giới thiệu các món.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy nhiều món hấp dẫn."
+    },
+    {
+      "step": "Thử nghiệm món ăn",
+      "desc": "Ăn thử mì gói, kẹo dâu và nước thạch, đánh giá hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về đánh giá thật."
+    },
+    {
+      "step": "Đánh giá cà ri",
+      "desc": "Hâm nóng và ăn cà ri gà bơ, chia sẻ cảm nhận chi tiết.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng món cà ri."
+    },
+    {
+      "step": "Tổng kết",
+      "desc": "Nhấn mạnh sự khác biệt khẩu vị và đưa ra lời khuyên.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình với quan điểm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thích",
+    "ngon",
+    "ngọt ngào",
+    "hào hứng",
+    "béo",
+    "ngậy"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đúng ngu mà nhẫn nào cũng muốn mua á.",
+    "Bên ngoài xốp mềm còn bên trong có nhân dẻo dẻo vậy nè.",
+    "Đúng là cái gì cũng có lần đầu sao mà nó lạ."
+  ],
+  "hook_content": "Giờ từ bữa tới giờ thì cuối cùng ngày này cũng tới.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video ghi lại trải nghiệm của một bạn nữ khi đi Muji ngày khai trương, mua và review các món ăn vặt như mì gói, kẹo, nước thạch và cà ri gà bơ. Bạn ấy chia sẻ cảm nhận cá nhân về hương vị và đánh giá sản phẩm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

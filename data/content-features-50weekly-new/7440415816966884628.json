@@ -1,0 +1,93 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món trứng ngâm tương và cách làm đơn giản, thành công.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về công thức làm món trứng ngâm tương."
+    },
+    {
+      "step": "Chia sẻ sở thích cá nhân",
+      "desc": "Chia sẻ về sở thích ăn trứng chín tới thay vì lòng đào.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường với thông tin này."
+    },
+    {
+      "step": "Hướng dẫn luộc trứng",
+      "desc": "Hướng dẫn thời gian luộc trứng gà và trứng cút để đạt độ chín mong muốn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích với thông tin về thời gian luộc trứng."
+    },
+    {
+      "step": "Chia sẻ kinh nghiệm",
+      "desc": "Kể về việc thường xuyên ăn trứng ngâm tương thời sinh viên.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường, không có nhiều ấn tượng."
+    },
+    {
+      "step": "Mẹo sơ chế nguyên liệu",
+      "desc": "Chia sẻ mẹo ngâm hành tây, tỏi, hành tím với nước đá để giảm hăng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị và hữu ích với mẹo này."
+    },
+    {
+      "step": "Hướng dẫn pha nước ngâm",
+      "desc": "Hướng dẫn cách pha nước ngâm và lưu ý về thời gian bảo quản.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích với thông tin về cách pha nước ngâm."
+    },
+    {
+      "step": "Thành phẩm và cảm nhận",
+      "desc": "Giới thiệu thành phẩm trứng ngâm tương sau 1 ngày và cảm nhận.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng khi nhìn thấy thành phẩm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nên có gì bữa nào mấy bà làm thử ngen, ngon lắm."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "ngon",
+    "mặn mặn",
+    "ngọt ngọt",
+    "cay cay",
+    "bắt cơm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ngâm tương mà làm cái kiểu này á nói thiệt với mấy chị là nấu nồi cơm không đủ mà ăn luôn á.",
+    "Trứng gà trứng vịt á có 2 3.000 một cái thôi, nó rẻ vậy á mà còn có nhiều người trả giá nữa mấy bà.",
+    "Lúc mới mở ra là cái mùi nó rất là thơm luôn, cái nước tương nó thấm vô cái trứng nè, trời ơi nhìn cái màu nó đẹp ghê không?"
+  ],
+  "hook_content": "Ngâm tương mà làm cái kiểu này á nói thiệt với mấy chị là nấu nồi cơm không đủ mà ăn luôn á.",
+  "hook_type": [
+    "Gây tò mò",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn cách làm trứng ngâm tương đơn giản tại nhà, chia sẻ các mẹo để trứng không bị tanh và bảo quản được lâu hơn. Người làm video cũng chia sẻ trải nghiệm cá nhân và cảm nhận về món ăn này.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

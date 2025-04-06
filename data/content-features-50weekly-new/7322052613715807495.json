@@ -1,0 +1,86 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu về việc mua đùi lợn muối Iberico giá 30 triệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn đắt tiền."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Mô tả chi tiết về đùi lợn, cân nặng và dụng cụ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự chuẩn bị kỹ lưỡng."
+    },
+    {
+      "step": "Thao tác cắt",
+      "desc": "Thực hiện cắt đùi lợn muối và giới thiệu cách ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú với cách ăn đặc biệt."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Nếm thử và mô tả hương vị của đùi lợn muối.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Nhận xét về hương vị và độ ngon của món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá."
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Đưa ra lời khuyên về địa điểm mua uy tín.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhớ thông tin."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Tổng kết và chia sẻ về cách bảo quản.",
+      "impact_level": "1",
+      "viewer_emotion": "Nắm bắt thông tin hữu ích."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "ngậy",
+    "béo",
+    "chua chua",
+    "mặn mặn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "30 triệu. Tôi đã chi đến 30 triệu chỉ để mua một cái đùi lợn.",
+    "phải thái mỏng ăn mới ngon nha. Đúng, càng càng mỏng ăn càng ngon. Còn nếu như mà dày thì nó sẽ có một cái độ hơi hắc một tí. Thái dày nó dai.",
+    "có vẻ như đắt tiền thì nó vẫn có có rít có rát nhở. Nói chung là người giàu cũng có người giàu rít người giàu rát."
+  ],
+  "hook_content": "30 triệu. Tôi đã chi đến 30 triệu chỉ để mua một cái đùi lợn, điêu!",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review đùi lợn muối Iberico trị giá 30 triệu, từ cách sơ chế, thưởng thức đến đánh giá hương vị và chia sẻ kinh nghiệm mua sản phẩm chất lượng.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món thịt đông tự làm tại nhà thay vì mua.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới lạ."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê và sơ chế các nguyên liệu cần thiết.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy công thức có vẻ phức tạp."
+    },
+    {
+      "step": "Luộc và làm sạch thịt",
+      "desc": "Hướng dẫn luộc sơ và rửa sạch thịt để khử mùi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào sự tỉ mỉ của người nấu."
+    },
+    {
+      "step": "Sơ chế nguyên liệu khác",
+      "desc": "Ngâm và cắt nhỏ nấm mèo, nấm hương.",
+      "impact_level": "1",
+      "viewer_emotion": "Không có gì đặc biệt ở bước này."
+    },
+    {
+      "step": "Nêm nếm và ướp thịt",
+      "desc": "Trộn đều thịt với gia vị và ướp cho ngấm.",
+      "impact_level": "2",
+      "viewer_emotion": "Bắt đầu thấy hấp dẫn hơn."
+    },
+    {
+      "step": "Xào và nấu thịt",
+      "desc": "Xào săn thịt rồi đổ nước vào nấu liu riu.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ món ăn hoàn thành."
+    },
+    {
+      "step": "Hoàn thành và thưởng thức",
+      "desc": "Đổ thịt vào khuôn, làm lạnh và thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Có gì á mấy chị lưu lại cái công thức này để mình làm mình ăn Tết nha.",
+    "Tết này mà không có muốn tốn tiền mua giò thủ á thì mấy chị làm thử cái cách này đi, em thấy ngon dễ á. Nên có gì mấy chị tham khảo thử nhen."
+  ],
+  "cta_type": [
+    "Lưu video",
+    "Chia sẻ công thức",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "dễ sợ",
+    "thơm",
+    "hấp dẫn",
+    "mềm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Em thấy cũng dễ làm nha mà ăn ngon dễ sợ luôn á, còn để lâu được nữa.",
+    "Chưa biết cái món này ăn ngon hay không á mà mới tới khúc này là em nhìn thấy nó rất là hấp dẫn rồi đó.",
+    "Tết này mà không có muốn tốn tiền mua giò thủ á thì mấy chị làm thử cái cách này đi, em thấy ngon dễ á."
+  ],
+  "hook_content": "Tết này á khỏi tốn tiền mua giò thủ ăn nữa mấy chị ơi mà mình chuyển qua mình làm cái thịt đông kiểu này nè.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm món thịt đông tại nhà thay thế cho giò thủ ngày Tết, với nguyên liệu dễ kiếm và cách làm chi tiết, dễ thực hiện. Món ăn hứa hẹn thơm ngon, hấp dẫn và tiết kiệm chi phí.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món trứng gà giữa nước hiếm, phải dặn trước nửa tháng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Đánh giá ban đầu",
+      "desc": "Nhận xét về hình thức trứng, vỏ mỏng, dễ bể.",
+      "impact_level": "1",
+      "viewer_emotion": "Quan sát, nhận xét."
+    },
+    {
+      "step": "Mở hộp đồ ăn",
+      "desc": "Giới thiệu dịch vụ vận chuyển từ Việt Nam sang.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin dịch vụ hữu ích."
+    },
+    {
+      "step": "Luộc trứng",
+      "desc": "Chia sẻ kinh nghiệm luộc trứng giữa nước, nước luộc bị đục.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung vào quá trình nấu."
+    },
+    {
+      "step": "Trải nghiệm món ăn",
+      "desc": "Nhận xét về độ lỏng, mịn của trứng gà giữa nước.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn thử."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Hướng dẫn cách ăn trứng giữa nước ngon nhất khi còn nóng.",
+      "impact_level": "2",
+      "viewer_emotion": "Học hỏi kinh nghiệm ăn."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "So sánh với hột vịt lộn, nhấn mạnh độ gây nghiện của món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với cảm nhận."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thèm",
+    "ngon",
+    "béo",
+    "mịn màng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "ăn cái hột vịt giữa này cả chục trứng chưa có thấy xi nhê gì hết trơn",
+    "nó mịn màng y chang như là một cái tàu hũ non vậy đó",
+    "vừa ngon mà nó vừa béo mà không có từ nào mà diễn tả được"
+  ],
+  "hook_content": "Hôm nay thì mình sẽ ăn một cái loại trứng mà bữa giờ ở Việt Nam gần gần luôn nghe.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn",
+    "So sánh"
+  ],
+  "summarization": "Video review món trứng gà giữa nước hiếm có, chia sẻ trải nghiệm ăn và so sánh với các món trứng khác. Đồng thời giới thiệu dịch vụ vận chuyển hàng hóa từ Việt Nam.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

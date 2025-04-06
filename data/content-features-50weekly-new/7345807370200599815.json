@@ -1,0 +1,83 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Mô tả cuộc sống bận rộn khi chăm sóc con nhỏ ở nhà.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm"
+    },
+    {
+      "step": "Nỗi thèm ăn",
+      "desc": "Kể về việc con thèm phở Việt Nam và sự bất tiện khi nấu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Chuẩn bị nấu ăn",
+      "desc": "Bắt đầu nấu cháo cho con và chuẩn bị món gà hầm cho bữa tối.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Ướp gà",
+      "desc": "Ướp gà với hành tây, hành baro, tiêu, tỏi và gừng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chia sẻ kỷ niệm",
+      "desc": "Nhớ lại kỷ niệm lần đầu tiên video nấu ăn lên xu hướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Làm nước chấm",
+      "desc": "Pha nước chấm chua ngọt mặn mà với wasabi và ớt bột.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Hoàn thành món ăn",
+      "desc": "Hầm gà và cho hẹ vào, mời mọi người cùng ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thèm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Con ăn xong phán câu là mình xanh dờn luôn, ở ngoài nấu ăn ngon thiệt mẹ ha.",
+    "Vậy là từ trước tới giờ mình nấu ăn không có ngon hả ta."
+  ],
+  "hook_content": "về ở nhà của mình mà trong hai đứa này thì nó sẽ như thế nào ha sẽ đuối nha mọi người, thấy vậy chứ đuối lắm luôn á. Sáng tới chiều nợ lo cho hai đứa nó thôi là cũng hết làm ăn gì luôn.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình nấu món gà hầm hẹ đơn giản tại nhà của một bà mẹ bỉm sữa. Món ăn này được cả gia đình yêu thích và thường xuyên nấu.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

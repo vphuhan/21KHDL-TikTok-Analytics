@@ -1,0 +1,95 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu chợ hải sản",
+      "desc": "Ít đi chợ hải sản, giới thiệu các loại hải sản lạ.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về các loại hải sản."
+    },
+    {
+      "step": "Miêu tả sò điệp",
+      "desc": "Sò điệp đen hiếm, giá cả phải chăng, số lượng lớn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy giá cả hấp dẫn."
+    },
+    {
+      "step": "Phát hiện bất ngờ",
+      "desc": "Phát hiện rêu và sinh vật lạ bám trên sò điệp.",
+      "impact_level": "3",
+      "viewer_emotion": "Ghê sợ và hoang mang."
+    },
+    {
+      "step": "Xử lý sò điệp",
+      "desc": "Quyết định hấp sò điệp kỹ lưỡng để đảm bảo an toàn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy an tâm hơn."
+    },
+    {
+      "step": "Thưởng thức sò điệp",
+      "desc": "Đánh giá độ tươi ngon của sò điệp với muối tiêu.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng hương vị."
+    },
+    {
+      "step": "Ăn thử sinh vật lạ",
+      "desc": "Tò mò ăn thử sinh vật lạ, so sánh với hàu sữa.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị."
+    },
+    {
+      "step": "Kêu gọi giải đáp",
+      "desc": "Hỏi khán giả về tên của sinh vật lạ.",
+      "impact_level": "1",
+      "viewer_emotion": "Muốn biết thêm thông tin."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "ai mà hay ở biển thì nói cho mình biết con đó là gì với nha."
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Đặt câu hỏi"
+  ],
+  "emotion_keywords": [
+    "lạ",
+    "sợ",
+    "hoang mang",
+    "tiếc",
+    "ngọt",
+    "ngon",
+    "buồn miệng",
+    "y chang"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ai mà có thêm cái hội chứng sợ lỗ gặp xong cái cảnh này chắc sợ tím tái hết.",
+    "Ăn con nào là xứng đáng con đó.",
+    "Cái vị của nó thì hơi ngọt ngọt giống như là đang ăn hào sữa vậy đó, mà kiểu nó cũng hơi mềm mềm y chang như là đang ăn tàu hũ non"
+  ],
+  "hook_content": "Dạo gần đây thì mình ít đi cái chợ hải sản này lắm, một tuần thì chắc ra đây được có một lần thôi à, mà mỗi lần ra đây thì mình đều thấy có mấy cái loại hải sản lạ lạ nha.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review sò điệp mua ở chợ hải sản Nhật Bản, người này đã chia sẻ trải nghiệm bất ngờ khi phát hiện ra các sinh vật lạ bám trên vỏ sò và quyết định ăn thử. Cuối cùng, người này hỏi khán giả về tên của loài sinh vật đó.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Ngạc nhiên",
+    "Hài hước"
+  ]
+}

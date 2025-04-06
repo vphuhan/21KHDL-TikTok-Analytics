@@ -1,0 +1,100 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán gà rán yêu thích vì ngon và rẻ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán gà rán được nhắc đến."
+    },
+    {
+      "step": "Đặc điểm nổi bật",
+      "desc": "Nhấn mạnh sốt đậm đà, đa dạng loại sốt, quán đông khách.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng của các loại sốt."
+    },
+    {
+      "step": "Gợi ý món",
+      "desc": "Gợi ý sốt cay và sốt kem, phù hợp người thích béo.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử ngay các loại sốt được gợi ý."
+    },
+    {
+      "step": "Giá cả",
+      "desc": "Giá cả hợp lý, gà miếng to, nhiều size lựa chọn.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với giá cả phải chăng."
+    },
+    {
+      "step": "Mô tả món ăn",
+      "desc": "Mô tả gà giòn rụm, thấm sốt, bánh gạo lắc phô mai.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng các món ăn được miêu tả."
+    },
+    {
+      "step": "Đồ uống",
+      "desc": "Giới thiệu trà tắc giá rẻ.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy trà tắc cũng hấp dẫn."
+    },
+    {
+      "step": "Thông tin quán",
+      "desc": "Thời gian mở cửa, lời kêu gọi đến quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ghé thăm quán ngay."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Fan gà rán thì qua đây ăn liền."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "mê",
+    "ngon",
+    "rẻ",
+    "siêu ngon",
+    "đậm đà",
+    "mê",
+    "ngon",
+    "béo",
+    "xỉu lên xỉu xuống",
+    "ngon dữ dằn",
+    "rẻ hết hồn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "thèm gà rán thì chắc tôi sẽ ăn quán này mãi mãi nếu không tìm được quán gà nào rẻ hơn quá.",
+    "Má ơi bà nào mà mê béo là xỉu lên xỉu xuống đó.",
+    "Nhìn cái menu giá rẻ hết hồn luôn."
+  ],
+  "hook_content": "thèm gà rán thì chắc tôi sẽ ăn quán này mãi mãi nếu không tìm được quán gà nào rẻ hơn quá.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu quán gà rán Good Chicken ở chung cư Ấn Quang với nhiều loại sốt đậm đà, giá cả hợp lý và không gian thoải mái. Người nói đặc biệt gợi ý sốt cay và sốt kem, đồng thời ấn tượng với menu giá rẻ của quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

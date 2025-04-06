@@ -1,0 +1,94 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu lý do làm lẩu hải sản: ăn mừng việc về nước.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Giới thiệu các nguyên liệu có trong món lẩu hải sản.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Nấu lẩu",
+      "desc": "Bắt đầu quá trình nấu lẩu hải sản với các nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Nêm nếm",
+      "desc": "Nêm nếm gia vị cho món lẩu thêm đậm đà hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Mời mọi người cùng ăn lẩu và cảm nhận hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Cảm nhận",
+      "desc": "Đưa ra cảm nhận cá nhân về món lẩu hải sản.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình"
+    },
+    {
+      "step": "Review sản phẩm",
+      "desc": "Giới thiệu và review hạt nêm nấm Shiitake của Chinsu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bây giờ thì mình sẽ mời mọi người ăn lẩu chung với mình ha.",
+    "Nên mọi người cứ dùng thử đi, tại vì nấu món gì thì nó cũng ngon hết trơn á."
+  ],
+  "cta_type": [
+    "Ăn cùng",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ấm cúng",
+    "ngọt thanh",
+    "ngon",
+    "thơm ngon",
+    "cuốn",
+    "tiện"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Để ăn mừng trong cái thời tiết lạnh giá này thì hôm nay mình sẽ làm một cái lẩu hải sản.",
+    "Ta nói trời thì đang lạnh lạnh mà ngồi ăn một cái nồi lẩu hải sản này thì còn gì bằng nữa.",
+    "Đúng là cái loại này thì ăn tiện thiệt, mỗi lần ăn thì đâu có cần lột vỏ hay là cái gì đâu mà lại ngon nữa chứ."
+  ],
+  "hook_content": "Tính ra thì 2 năm nay thì mình đều ăn Tết ở Nhật hết rồi, nên nhất định kỳ này thì mình phải về nhà ăn Tết cho nó ấm cúng.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ về việc nấu lẩu hải sản tại nhà để ăn mừng việc được về nước ăn Tết, đồng thời giới thiệu hạt nêm nấm Shiitake và tảo Combo của Chinsu.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

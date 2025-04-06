@@ -1,0 +1,82 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu các loại cháo phổ biến ở Việt Nam và mời mọi người.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các loại cháo."
+    },
+    {
+      "step": "Thưởng thức cháo ếch",
+      "desc": "Ăn và nhận xét hương vị cháo ếch Singapore.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng hương vị."
+    },
+    {
+      "step": "Thưởng thức cháo sườn",
+      "desc": "Ăn và nhận xét hương vị cháo sườn cùng quẩy.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn cháo sườn."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Uống thử và giới thiệu cà phê của ca sĩ Nhật Kim Anh.",
+      "impact_level": "1",
+      "viewer_emotion": "Tập trung vào cà phê."
+    },
+    {
+      "step": "Thưởng thức cháo lòng",
+      "desc": "Ăn và nhận xét hương vị cháo lòng.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn với cháo lòng."
+    },
+    {
+      "step": "Nhấn mạnh ưu điểm",
+      "desc": "Nhấn mạnh thành phần và lợi ích của cà phê.",
+      "impact_level": "1",
+      "viewer_emotion": "Tập trung vào lợi ích."
+    },
+    {
+      "step": "Thưởng thức cháo hào",
+      "desc": "Ăn và nhận xét hương vị cháo hào.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cháo hào."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cháo sườn là phải có thêm miếng quẩy nữa mọi người ạ.",
+    "Ăn nhiều hào cái này tối về chết.",
+    "Đồ ăn ngon thì không thể thiếu một ly Lau Ra cà phê của ca sĩ Nhật Kim Anh."
+  ],
+  "hook_content": "Một bàn bốn loại cháo phổ biến ở Việt Nam. Mời cả nhà ăn cơm.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video mukbang giới thiệu và thưởng thức bốn loại cháo phổ biến ở Việt Nam (cháo ếch, cháo sườn, cháo lòng, cháo hào), đồng thời review nhanh sản phẩm cà phê.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

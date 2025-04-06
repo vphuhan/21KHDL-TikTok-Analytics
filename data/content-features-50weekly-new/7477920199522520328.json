@@ -1,0 +1,73 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu mục đích đến quán ốc gây tranh cãi để kiểm chứng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về trải nghiệm của người review."
+    },
+    {
+      "step": "Đánh giá không gian",
+      "desc": "Nhận xét về cơ sở vật chất, vệ sinh và sự đón tiếp.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy đây là những đánh giá khách quan."
+    },
+    {
+      "step": "Gọi món",
+      "desc": "Gọi combo 269k và bất ngờ được tặng thêm món.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với ưu đãi bất ngờ."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Đánh giá hương vị từng món trong combo.",
+      "impact_level": "2",
+      "viewer_emotion": "Hóng chờ review chi tiết các món ăn."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Nhận xét về độ tươi, ngon, vừa miệng của từng món.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích vì có nhiều thông tin."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "tệ hại",
+    "bực",
+    "nhiệt tình",
+    "thích"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Tôi thích điều này, và điều tôi quan tâm nhất là đồ ăn ở đây có thực sự ngon không, hãy cùng tôi thưởng thức nha.",
+    "269k được tận bảy món",
+    "Ốc to, dai giòn, nước chấm đậm đà"
+  ],
+  "hook_content": "sẽ đến cơ sở được đánh giá thấp nhất của họ để xem nó có thực sự tệ hại đến vậy không.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quán ốc Dung Mama cơ sở Đặng Văn Ngữ, kiểm chứng đánh giá trái chiều của khách hàng về chất lượng đồ ăn và dịch vụ. Người review đã order combo 269k và đánh giá chi tiết từng món.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

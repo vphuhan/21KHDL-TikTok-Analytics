@@ -1,0 +1,61 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Đặt hàng và nhận xét",
+      "desc": "Người bán review gọi món không cay nhưng lại có ớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ cay của món ăn."
+    },
+    {
+      "step": "Phản ứng với món ăn",
+      "desc": "Người bán ngạc nhiên vì ổ mì có nguyên quả ớt tươi.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy bất ngờ và hài hước."
+    },
+    {
+      "step": "Quyết định ăn",
+      "desc": "Người bán chấp nhận ăn dù có ớt và gặm bánh mì.",
+      "impact_level": "2",
+      "viewer_emotion": "Thông cảm với tình huống của người bán."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngạc nhiên",
+    "bất ngờ"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mình nói với cô bán hàng là cho mình một ổ không cay, về thì thấy thế này đây.",
+    "Trời đất không biết cô có nghe nhầm không nhưng mà bỏ nguyên quả cả ớt tươi luôn, trời ạ.",
+    "Thôi thì gặm ăn chứ biết làm sao bây giờ."
+  ],
+  "hook_content": "review cả thế giới, ổ mì order không cay.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review một ổ mì được order không cay, nhưng khi nhận lại có nguyên quả ớt tươi. Người bán hàng ngạc nhiên nhưng vẫn quyết định ăn.",
+  "tone_of_voice": [
+    "Ngạc nhiên",
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

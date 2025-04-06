@@ -1,0 +1,70 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Món nước dễ làm, vị ngon, sử dụng nguyên liệu đơn giản.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ ngon và dễ làm."
+    },
+    {
+      "step": "Hướng dẫn làm",
+      "desc": "Giã nát bánh Oreo trong bịch, cho sữa tươi không đường.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy cách làm đơn giản, nhanh chóng."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Ban đầu sợ không hợp, nhưng thực tế rất ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ vì sự kết hợp độc đáo."
+    },
+    {
+      "step": "Cam kết",
+      "desc": "Nếu không ngon sẽ không đăng video.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng món ăn."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "siêu ngon",
+    "kỳ",
+    "hợp"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đây là món nước duy nhất mà mình dám tự tin nó sẽ không có món nào dễ hơn món này nữa đâu, mà vị nó lại siêu ngon nha.",
+    "Mới đầu mình nghĩ nó sẽ kỳ, tại vì vị bánh quy mà, mình sợ nó tan vào với nước á, nó không có hợp, nhưng mà không đâu. Nó tan, nó mềm ra, nó ngon lắm luôn.",
+    "Nếu như mà không ngon mình sẽ không đăng video đâu, hứa luôn á."
+  ],
+  "hook_content": "Đây là món nước duy nhất mà mình dám tự tin nó sẽ không có món nào dễ hơn món này nữa đâu, mà vị nó lại siêu ngon nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video giới thiệu món nước Oreo dễ làm, chỉ cần bánh Oreo và sữa tươi không đường. Người làm chia sẻ trải nghiệm cá nhân và khẳng định món này rất ngon.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

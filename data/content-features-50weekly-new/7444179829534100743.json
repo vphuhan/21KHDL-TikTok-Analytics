@@ -1,0 +1,75 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu ô mai",
+      "desc": "Chia sẻ ô mai cho đồng nghiệp trong phòng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị khi thấy sự chia sẻ."
+    },
+    {
+      "step": "Đánh giá vị giác",
+      "desc": "Nếm thử và mô tả vị chua của ô mai.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị."
+    },
+    {
+      "step": "Mời ăn cùng",
+      "desc": "Mời đồng nghiệp ăn và hỏi cảm nhận.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thân thiện."
+    },
+    {
+      "step": "Thảo luận về hương vị",
+      "desc": "Trao đổi về các vị khác nhau của ô mai.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Nhận xét về giá cả và chất lượng ô mai.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn biết thêm thông tin."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "chua",
+    "ngọt",
+    "ngon",
+    "hay",
+    "sợ nóng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Chua chua, ngọt ngọt, hay phết nhỉ.",
+    "Ngon, ăn luôn cả hạt luôn.",
+    "Mày ăn đúng ô mai này sẽ chua."
+  ],
+  "hook_content": "Khi bạn mang ô mai chia cho cả phòng.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video ghi lại cảnh chia sẻ ô mai cho đồng nghiệp trong văn phòng và cùng nhau đánh giá hương vị của nó. Mọi người cùng nhau trò chuyện, trao đổi cảm nhận về vị chua, ngọt và độ ngon của ô mai.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

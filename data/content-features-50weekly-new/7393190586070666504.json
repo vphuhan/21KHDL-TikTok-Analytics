@@ -1,0 +1,85 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người ăn chay, ăn healthy"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món đậu hũ chiên và clip nấu đồ chay khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn sắp được giới thiệu."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê nguyên liệu cần thiết và giá thành.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích về nguyên liệu."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Hướng dẫn sơ chế đậu hũ và nấm rơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Chú ý theo dõi các bước thực hiện."
+    },
+    {
+      "step": "Chiên đậu hũ",
+      "desc": "Chiên đậu hũ hai lần với nước đá để đạt độ giòn.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ với kỹ thuật chiên đậu hũ độc đáo."
+    },
+    {
+      "step": "Xào nấm rơm",
+      "desc": "Phi thơm các nguyên liệu, sau đó xào nấm rơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung được mùi vị thơm ngon."
+    },
+    {
+      "step": "Pha nước sốt",
+      "desc": "Đổ nước sốt đã pha vào chảo nấm rơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ hương vị của món ăn."
+    },
+    {
+      "step": "Hoàn thành món ăn",
+      "desc": "Đảo đều đậu hũ và nước sốt, thêm ngò cho thơm.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm ăn và muốn thử ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "vừa béo",
+    "mềm mọng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "ăn cái cục đậu hũ nó vừa béo mà bên trong nó vừa mềm mọng và rất là ngon",
+    "chiên cái lần này xong á là bên trong á nó sẽ xốp",
+    "làm lạnh ngay tức thì. Đậu hũ á sau khi làm lạnh ngay tức thì nó sẽ săn lại"
+  ],
+  "hook_content": "ngày mà tôi biết cái cách chiên đậu hũ với lại đá nó ngon như vậy là không bao giờ tôi chiên đậu hũ theo cách thông thường nữa mấy ông mấy bà ơi.",
+  "hook_type": [
+    "Gây tò mò",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn chi tiết cách làm đậu hũ chiên chay với công thức đặc biệt chiên qua nước đá giúp đậu hũ giòn bên ngoài, mềm bên trong. Món ăn này phù hợp cho bữa cơm chay gia đình.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

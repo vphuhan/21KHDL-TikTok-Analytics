@@ -1,0 +1,96 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu thương hiệu donut Jản Donut và các loại bánh.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá Breakfast Donut",
+      "desc": "Đánh giá hương vị và chất lượng bánh Breakfast Donut.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Đánh giá Nutella Cheese",
+      "desc": "Đánh giá bánh Nutella Cheese, nhận xét về kem và dâu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Đánh giá Matcha Shop",
+      "desc": "Nhận xét về sự kết hợp matcha và dâu, chất lượng matcha.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá A Grey Brownie",
+      "desc": "Đánh giá cao vị trà Earl Grey và brownie socola.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Đánh giá các loại khác",
+      "desc": "Đánh giá nhanh các vị còn lại, nhận xét ưu nhược điểm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Tổng kết",
+      "desc": "Tổng kết về Jản Donut và lời chúc năm mới.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "like, follow và comment để xem tôi tiếp tục phí tiền cho bạn trong năm mới nhé"
+  ],
+  "cta_type": [
+    "Follow kênh",
+    "Thích video",
+    "Bình luận",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ổn",
+    "hay",
+    "vui mồm",
+    "thơm",
+    "thanh mát",
+    "giòn giòn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "hương vị bánh này nó rất là đơn giản, không có gì cầu kỳ phức tạp cả",
+    "cảm giác như kiểu hai người ngồi hai góc ấy",
+    "tổng quan lại thì cũng là một cái hãng bánh ổn thôi, chứ tôi cũng không nghĩ là hãng nào hơn hãng nào"
+  ],
+  "hook_content": "Xếp hạng tất cả các loại donut của Jản Donut chốt sổ năm nhâm dần, chúng ta cùng tới với thương hiệu donut tiếp theo, đấy chính là Jản Donut, đây cũng là một trong những thương hiệu donut được khá nhiều các bạn trẻ Hà Nội biết đến.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Liệt kê",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review và xếp hạng các loại donut của Jản Donut, từ đó đưa ra đánh giá khách quan về chất lượng và hương vị của từng loại bánh, đồng thời tổng kết về thương hiệu này.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

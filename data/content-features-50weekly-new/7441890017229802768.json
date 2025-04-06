@@ -1,0 +1,91 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Đề cập đến sự nổi tiếng của món thịt kho cô Tư trên mạng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn đang được review."
+    },
+    {
+      "step": "Đánh giá ban đầu",
+      "desc": "So sánh số lượng thịt, trứng với review trước đó.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với sự khác biệt."
+    },
+    {
+      "step": "Thử và nhận xét",
+      "desc": "Ăn và đưa ra nhận xét về mùi vị, độ khô của thịt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung vào cảm nhận hương vị."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Nhận xét về trứng, nước dùng, và giò heo.",
+      "impact_level": "2",
+      "viewer_emotion": "Chú ý đến các chi tiết của món ăn."
+    },
+    {
+      "step": "Tổng kết",
+      "desc": "Đánh giá cuối cùng và so sánh với trải nghiệm khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình hoặc không đồng tình."
+    },
+    {
+      "step": "Bàn về review",
+      "desc": "Đưa ra ý kiến về việc review sản phẩm, quán ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Suy ngẫm về ý kiến."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người đã coi clip của mình.",
+    "Bye bye."
+  ],
+  "cta_type": [
+    "Thích video",
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "mặn",
+    "thơm",
+    "béo",
+    "cay",
+    "ngọt",
+    "vừa phải",
+    "thúi",
+    "hôi"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Em nói thiệt nha cái mùi măng thúi quá.",
+    "Ăn thịt dép đếp á.",
+    "Mọi người nhìn cách mà mình nhai là mọi người biết cái thịt khô hay là không khô à."
+  ],
+  "hook_content": "Trên mạng á thịt kho cô tư thì mấy bà thấy có xứng đáng không?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review món thịt kho cô Tư nổi tiếng trên mạng, so sánh với các review trước đó về số lượng và chất lượng, đồng thời đưa ra đánh giá cá nhân về hương vị, độ tươi ngon và giá cả.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

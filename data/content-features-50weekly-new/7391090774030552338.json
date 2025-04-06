@@ -1,0 +1,79 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người đi làm, dân văn phòng",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu và lựa chọn nguyên liệu",
+      "desc": "Người bán giới thiệu cua hoàng đế và quyết định mua hai con.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về giá cả và chất lượng cua."
+    },
+    {
+      "step": "Chế biến cua",
+      "desc": "Cua được đem đi hấp và chia sẻ về cách chế biến đơn giản.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy đơn giản, dễ làm theo."
+    },
+    {
+      "step": "Giới thiệu sản phẩm hỗ trợ",
+      "desc": "Giới thiệu và khui hộp thiên sâm núi chính phủ từ Hàn Quốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về công dụng của sản phẩm."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Bắt đầu thưởng thức cua hấp và đánh giá hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng và muốn ăn thử."
+    },
+    {
+      "step": "Đánh giá và chia sẻ trải nghiệm",
+      "desc": "Đánh giá chi tiết về chất lượng thịt cua và gạch.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy có thêm thông tin về món ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Ai mà đi làm mệt quá sức muốn phục hồi thì cứ việc tìm thiên sâm núi chính phủ của Hàn Quốc này nha."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngọt thịt",
+    "béo dã man",
+    "thơm",
+    "dễ uống",
+    "yếu yếu"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Xem kênh của mình thì mọi người sẽ không có tò mò là hôm nay sẽ nấu về cái món gì đâu, tại vì đa số là chỉ có luộc với hấp thôi.",
+    "Ăn hai con này xong thì tối nay làm sao mà ngủ nghê được.",
+    "Cái mai của nó gạch quá trời luôn nhưng mà ăn béo dã man luôn nha."
+  ],
+  "hook_content": "Bữa nay thì trong người mình cảm thấy hơi yếu yếu nên thành ra phải đi chợ kiếm cái gì ngon ngon về tẩm bổ.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video chia sẻ trải nghiệm mua và thưởng thức cua hoàng đế hấp, kết hợp giới thiệu sản phẩm thiên sâm núi chính phủ. Người bán đánh giá hương vị của cua và chia sẻ cảm xúc khi ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

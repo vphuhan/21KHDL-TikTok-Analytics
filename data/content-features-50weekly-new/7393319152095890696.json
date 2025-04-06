@@ -1,0 +1,68 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ức mỡ cá dứa chiên, nhấn mạnh độ khó ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn kỳ lạ."
+    },
+    {
+      "step": "Trải nghiệm ăn thử",
+      "desc": "Ăn thử với cơm và sốt me, mô tả hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với trải nghiệm thực tế."
+    },
+    {
+      "step": "Đánh giá và lưu ý",
+      "desc": "Nhấn mạnh độ ngán, mùi tanh và tính kén người ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cân nhắc xem có nên thử hay không."
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Khuyên nên mua ít để thử trước khi mua nhiều.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhận lời khuyên hữu ích."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "khó ăn",
+    "mặn",
+    "ngán",
+    "kinh",
+    "tùy khẩu vị"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nếu như ai mà không ăn được mỡ thì vui lòng là skip qua cái video này luôn.",
+    "Khi mọi người cắn vào nó sẽ ứa cái mỡ ra.",
+    "Ở nhà ai sợ mùi thì cái món này sẽ không dành cho những người kiểu đấy, tại vì món này chiên lên rất mùi, mùi mỡ, tanh của cá."
+  ],
+  "hook_content": "nếu như ai mà không ăn được mỡ thì vui lòng là skip qua cái video này luôn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món ức mỡ cá dứa chiên, một món ăn đặc sản kén người ăn. Người nói chia sẻ trải nghiệm ăn thử và đưa ra lời khuyên cho những ai muốn thử.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

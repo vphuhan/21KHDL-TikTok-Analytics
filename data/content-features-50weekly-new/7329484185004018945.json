@@ -1,0 +1,87 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món chả giò hải sản đổi vị ngày Tết.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Hướng dẫn sơ chế và bảo quản tôm, mực, táo.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "Trộn nhân",
+      "desc": "Trộn các nguyên liệu đã sơ chế với sốt và gia vị.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Cuốn chả giò",
+      "desc": "Hướng dẫn cuốn chả giò và bảo quản nếu làm nhiều.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Chuẩn bị bột chiên",
+      "desc": "Xay và trộn bột chiên xù, bột chiên giòn với trứng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chiên chả giò",
+      "desc": "Nhúng chả giò qua trứng và bột, sau đó chiên giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức"
+    },
+    {
+      "step": "Mẹo xử lý dầu thừa",
+      "desc": "Hướng dẫn tái sử dụng dầu thừa sau khi chiên.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "mọi người nhớ thử nhé"
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "béo",
+    "ngon",
+    "ngán",
+    "vui miệng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Thêm táo vào đây thì sẽ giúp cho món ăn đỡ ngán, mà ăn cũng vui miệng nữa.",
+    "Món này ngon nhưng mà ăn nhiều thì sẽ bị ngán cho nên là một lần làm thì mọi người làm nhiều ra cho cả nhà cùng ăn nha.",
+    "Khi nào mà cái phần bột mì nó nổi lên như thế này thì mọi người có thể vớt ra, thêm hành tím và gừng vào để khử mùi, lọc qua rây là mọi người có thể sử dụng thêm một lần nữa."
+  ],
+  "hook_content": "Đây là chả giò hải sản để đổi vị ngày Tết, mọi người nhớ thử nhé.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn chi tiết cách làm chả giò hải sản đổi vị ngày Tết, bao gồm sơ chế nguyên liệu, trộn nhân, cuốn chả giò và chiên giòn, cùng mẹo tái sử dụng dầu thừa. Món ăn này có vị thơm béo, giúp mọi người đổi khẩu vị.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

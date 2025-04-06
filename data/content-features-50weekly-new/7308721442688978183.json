@@ -1,0 +1,88 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món lòng nướng và bún bò đãi bạn đến nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Nấu bún bò",
+      "desc": "Tranh thủ nấu nồi bún bò với các nguyên liệu chuẩn bị.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Kể chuyện gia đình",
+      "desc": "Chia sẻ về bạn bè và các con chơi với nhau.",
+      "impact_level": "1",
+      "viewer_emotion": "Ấm áp"
+    },
+    {
+      "step": "Ăn bún bò",
+      "desc": "Mọi người ăn bún bò và khen ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Đi siêu thị",
+      "desc": "Đi siêu thị mua lòng và đồ dùng cho con.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Nướng lòng",
+      "desc": "Nướng lòng và thịt để ăn tối.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người ăn tối cùng gia đình.",
+      "impact_level": "1",
+      "viewer_emotion": "Gần gũi"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "mời mn ăn chung với mình nha",
+    "Giờ thì mời mọi người ăn tối chung với hai vợ chồng mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thèm",
+    "vui"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "món bún bò ngon nhất cái nách luôn.",
+    "Vô đây được cái đứa nào đứa nấy mê tít con mắt luôn.",
+    "Ăn vậy cũng ngon mà không cần chấm á."
+  ],
+  "hook_content": "Nay nhà mình lại ăn lòng nướng và câu chuyện đãi bạn tới chơi nhà món bún bò ngon nhất cái nách luôn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện"
+  ],
+  "summarization": "Video ghi lại cảnh gia đình nấu bún bò đãi bạn, sau đó đi mua lòng về nướng ăn cùng nhau. Video mang đến cảm giác ấm cúng, thân thiện.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

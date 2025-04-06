@@ -1,0 +1,82 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu chương trình khuyến mãi",
+      "desc": "Giới thiệu chương trình mua trà sữa trúng son Dior và quà tặng.",
+      "impact_level": "3",
+      "viewer_emotion": "Háo hức, bất ngờ"
+    },
+    {
+      "step": "Giải thích chi tiết về ưu đãi",
+      "desc": "Thông tin chi tiết về việc mua bao nhiêu cốc được bấy nhiêu quà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò, thích thú"
+    },
+    {
+      "step": "Trải nghiệm bốc thăm",
+      "desc": "Thực tế bốc thăm và trúng thưởng son Dior và Capybara.",
+      "impact_level": "3",
+      "viewer_emotion": "Phấn khích, vui sướng"
+    },
+    {
+      "step": "Đánh giá đồ uống",
+      "desc": "Nhận xét về trà ái trà và trà xoài sữa phô mai.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn thử"
+    },
+    {
+      "step": "Thông tin về thời gian và địa điểm",
+      "desc": "Thông báo thời gian khuyến mãi và địa chỉ các cơ sở.",
+      "impact_level": "1",
+      "viewer_emotion": "Quan tâm nếu ở gần"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nhớ tranh thủ qua bốc quà đi tại vì nó quá rẻ luôn ý."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "đỉnh",
+    "lãi",
+    "thơm",
+    "ngon",
+    "đáng yêu"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mua trà sữa trúng son Dior.",
+    "Chưa bao giờ đi uống trà sữa mà lãi như này luôn.",
+    "Nhớ tranh thủ qua bốc quà đi tại vì nó quá rẻ luôn ý."
+  ],
+  "hook_content": "này. Mua trà sữa trúng son Dior.",
+  "hook_type": [
+    "Gây tò mò",
+    "Khuyến mãi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review chương trình khuyến mãi của một thương hiệu trà sữa, mua trà sữa được bốc thăm trúng thưởng các phần quà hấp dẫn như son Dior. Người quay trực tiếp trải nghiệm và đánh giá đồ uống của quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu gói đồ ăn vặt giá gần 120k order 10 ngày.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn vặt đắt tiền."
+    },
+    {
+      "step": "Mở hộp và miêu tả",
+      "desc": "Mô tả chi tiết hình dáng bên ngoài của món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với sự kết hợp tôm và trứng cút."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét về mùi vị, độ dai của tôm và trứng.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hơi thất vọng về chất lượng."
+    },
+    {
+      "step": "Đánh giá chung và so sánh",
+      "desc": "Kết luận về giá cả và khả năng tự làm tại nhà.",
+      "impact_level": "1",
+      "viewer_emotion": "Đồng tình với việc tự làm sẽ kinh tế hơn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "bở",
+    "mặn",
+    "ngọt",
+    "cay",
+    "ok",
+    "bất ngờ"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Bên trong nó đây mọi người ạ, một con tôm quắp vào một cái quả trứng cút.",
+    "29.200đ cho một cái con tôm kẹp quả trứng cút như thế này thì quả là một cái giá đầy bất ngờ.",
+    "Cái này mình nghĩ là mua tôm về tự làm được ấy."
+  ],
+  "hook_content": "Đây là cái gói đồ ăn vặt trị giá gần 120.000, và mình phải đợi khoảng 10 ngày để order nó về.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review gói đồ ăn vặt Trung Quốc gồm tôm và trứng cút với giá gần 120k, người review đánh giá mùi vị ổn nhưng tôm bị bở và cho rằng giá quá cao, có thể tự làm tại nhà.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

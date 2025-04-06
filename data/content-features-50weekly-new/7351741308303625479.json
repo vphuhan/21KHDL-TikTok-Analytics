@@ -1,0 +1,86 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu món lẩu cá đuối và việc đi cắt tóc cho con.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Mua rau muống, chuẩn bị gừng, hành tím, cà chua.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin cơ bản, không gây hứng thú."
+    },
+    {
+      "step": "Sơ chế cá",
+      "desc": "Cắt, rửa cá với rượu để khử mùi tanh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự cẩn thận trong khâu chuẩn bị."
+    },
+    {
+      "step": "Ướp cá",
+      "desc": "Ướp cá với gia vị như hạt nêm, gừng, hành, tỏi, ớt.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin cơ bản, dễ hiểu."
+    },
+    {
+      "step": "Nấu nước lẩu",
+      "desc": "Cháy tỏi, gừng, hành, khớm, cà chua, thêm sốt lẩu.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn, muốn thử ngay."
+    },
+    {
+      "step": "Khử tanh",
+      "desc": "Cháy tỏi, sả, gừng để khử mùi tanh của cá.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự kỳ công."
+    },
+    {
+      "step": "Hoàn thiện và thưởng thức",
+      "desc": "Cho cá vào nước lẩu, nhúng rau và ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn ăn cùng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "cay",
+    "tanh",
+    "bất an"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Tính ra là mất 200 cành đó mọi người, mà nhìn y chang như úp cái tô lên đầu để hớt vậy.",
+    "Lần đầu tiên mình nấu cái món này mà bất an ghê vậy không biết ba tụi nó ăn được hay không chứ mình là chắc chắn không ăn rồi đó.",
+    "tới cái khúc này mà mình vẫn chưa thấy nó hết tanh đó nha, lần đầu tiên nấu cái con cá này mà mình tẫn tới già luôn."
+  ],
+  "hook_content": "mình sẽ dặn tủ lạnh thêm một bữa nữa để về Việt Nam nha. bữa giờ cũng bận mình chưa có hớt tóc được cho tụi hơn nữa.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình nấu món lẩu cá đuối tại nhà, từ khâu chuẩn bị nguyên liệu, sơ chế cá, nấu nước lẩu đến khi hoàn thành và cả gia đình cùng thưởng thức. Người nấu chia sẻ những lo lắng về mùi tanh của cá và cảm xúc bất an khi lần đầu nấu món này.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hài hước"
+  ]
+}

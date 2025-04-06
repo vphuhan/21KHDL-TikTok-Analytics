@@ -1,0 +1,91 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Nêu bật sự hấp dẫn của món xúc xích xào ngô.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn biết cách làm."
+    },
+    {
+      "step": "Cảnh báo hài hước",
+      "desc": "Nhấn mạnh món ăn gây nghiện, khuyến cáo không nên làm.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú vì sự hài hước."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Giới thiệu nguyên liệu và cách sơ chế.",
+      "impact_level": "1",
+      "viewer_emotion": "Chú ý theo dõi."
+    },
+    {
+      "step": "Hướng dẫn pha sốt",
+      "desc": "Liệt kê các nguyên liệu và tỉ lệ để pha sốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Ghi nhớ công thức."
+    },
+    {
+      "step": "Bắt đầu xào nấu",
+      "desc": "Hướng dẫn các bước xào ngô và xúc xích với sốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Học hỏi thao tác nấu nướng."
+    },
+    {
+      "step": "Hoàn thiện món ăn",
+      "desc": "Thêm hành lá và hoàn thành món xúc xích xào ngô.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đói bụng."
+    },
+    {
+      "step": "Lời khuyên hài hước",
+      "desc": "Nhắc lại lời cảnh báo, tăng tính giải trí.",
+      "impact_level": "3",
+      "viewer_emotion": "Vui vẻ, thích thú."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "các bác nhất định đừng làm nha.",
+    "Làm xong ăn nghiện là không tìm thấy tôi ở đâu mà bắt đền đâu ấy."
+  ],
+  "cta_type": [
+    "Chia sẻ công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thích",
+    "nghiện",
+    "nhiệt tình"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ăn mắc công nghiện rồi nghe nào cũng phải đi mua ngô về làm nó mệt ra",
+    "Đấy làm đơn giản thế này thôi, các bác nhất định đừng làm nha. Làm xong ăn nghiện là không tìm thấy tôi ở đâu mà bắt đền đâu ấy."
+  ],
+  "hook_content": "sao mà thêm mấy miếng xúc xích thì ngon thôi rồi.",
+  "hook_type": [
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm món xúc xích xào ngô đơn giản, dễ làm tại nhà. Người làm video còn hài hước khuyến cáo người xem không nên làm vì món này rất dễ gây nghiện.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Khẳng định việc từ chối sản phẩm không hợp khẩu vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về những sản phẩm bị từ chối."
+    },
+    {
+      "step": "Giải thích",
+      "desc": "Giải thích về video có yếu tố quảng cáo trước đây.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thông tin được giải thích rõ ràng."
+    },
+    {
+      "step": "Cam kết",
+      "desc": "Cam kết chỉ đăng sản phẩm đã dùng thử và thấy chất lượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng hơn vào các sản phẩm được giới thiệu."
+    },
+    {
+      "step": "Thừa nhận",
+      "desc": "Thừa nhận việc không thể làm hài lòng tất cả mọi người.",
+      "impact_level": "1",
+      "viewer_emotion": "Đồng tình với quan điểm đưa ra."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Cảm ơn người xem đã ủng hộ kênh.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy được trân trọng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chuyên nghiệp",
+    "Chuyên nghiệp",
+    "Chuyên nghiệp"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "hợp khẩu vị",
+    "ok",
+    "ngon",
+    "uy tín",
+    "tốt",
+    "chất lượng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mình mất 3 năm để xây một kênh, một cái nhân hiệu như vậy thì mình đâu thể nào mà làm những cái việc mà ảnh hưởng đến uy tín của kênh được, ảnh hưởng đến khán giả của mình được.",
+    "Làm thì mình nghĩ là nó phải uy tín thì mới đi đường dài được.",
+    "Một cái sản phẩm có ok đi nữa 100 người dùng thì cũng sẽ có vài người không hợp, vài người chê."
+  ],
+  "hook_content": "thằng giờ chuyên khen và quảng cáo. Nói thật với mọi người là những cái sản phẩm mình ăn thử mà nó không hợp khẩu vị ấy, mình cũng từ chối rất là nhiều luôn.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Gây tranh cãi"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giải thích về định hướng kênh là chỉ review các sản phẩm đã dùng thử và thấy chất lượng, đồng thời thừa nhận không thể làm hài lòng tất cả mọi người và cảm ơn người xem đã ủng hộ.",
+  "tone_of_voice": [
+    "Chân thành",
+    "Nghiêm túc"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về ngày 2/9 và ý định review các món bánh.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Nhấn mạnh",
+      "desc": "Nhấn mạnh Denty là quán lắng nghe khách hàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Review sữa chua dâu",
+      "desc": "Review sữa chua dâu tây muối hồng và đánh giá 1 sao.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Review cà phê muối",
+      "desc": "Review cà phê muối, nhận xét giống bạc xỉu, chấm 1 sao.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Review tiramisu",
+      "desc": "Review bánh Tiramisu, nhận xét giống bánh kem sinh nhật.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Review matcha latte",
+      "desc": "Review matcha latte sữa gấu, nhận xét về độ khó uống.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Kết luận về hòa bình và gửi lời chào tạm biệt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "đẹp",
+    "dễ thương",
+    "ý nghĩa",
+    "vui vẻ",
+    "ổn áp",
+    "thơm",
+    "đậm đà"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Chỉ có Denty là một trong những quán mà rất là lắng nghe ý kiến khách hàng. Và không bao giờ trả treo với khách hàng, không bao giờ mà đôi co với khách hàng, cũng không bao giờ phốt khách hàng thì chỉ có Denty mà thôi.",
+    "Thật sự là món tên là cà phê muối mà không cảm nhận một miếng muối nào hết trơn, thì ra là cà phê sữa nha. Bỏ chữ muối giùm em nha.",
+    "Càng ăn càng uống vô em lại nghĩ nó là Denty chứ không ai hết."
+  ],
+  "hook_content": "Trên mạng.Vì Tổ quốc xã hội chủ nghĩa, vì lý tưởng của Bác Hồ vĩ đại, sẵn sàng.Ngoài đời đây nha mọi người ơi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review các món bánh và đồ uống có hình lá cờ Tổ quốc nhân ngày 2/9 tại một quán ăn, với nhiều đánh giá trái chiều và liên tưởng đến quán Denty. Người review thể hiện sự trân trọng hòa bình và vui vẻ với cuộc sống hiện tại.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

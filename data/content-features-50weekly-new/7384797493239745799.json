@@ -1,0 +1,91 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về việc gia đình đi ngân hàng và chuẩn bị về Việt Nam",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chia sẻ kế hoạch",
+      "desc": "Nói về kế hoạch về Việt Nam chơi và làm việc trong hơn một tháng",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Nấu ăn",
+      "desc": "Giới thiệu món gà xào tương ớt sẽ nấu cho cả nhà",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Chia sẻ về việc mua gà và chuẩn bị các nguyên liệu khác",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chia sẻ nỗi lo",
+      "desc": "Nói về visa và những khó khăn khi xin visa cho con",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm"
+    },
+    {
+      "step": "Nấu món ăn",
+      "desc": "Thêm phô mai sợi và phô mai miếng vào món gà xào tương ớt",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Cả nhà ăn cơm và nhận xét về món gà xào tương ớt",
+      "impact_level": "3",
+      "viewer_emotion": "Vui vẻ"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mọi người ăn cơm chung với cả nhà mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "hấp dẫn",
+    "mặn mặn",
+    "ngọt ngọt",
+    "cay cay",
+    "sợ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Về ăn cái gì chúng cho ngán rồi mới qua nha.",
+    "Gà giống ttokbokki quá ta.",
+    "Sao bỏ ttok vô cái tự nhiên thấy nó giống ttokbokki luôn rồi."
+  ],
+  "hook_content": "Hai hai vợ chồng mình dắt theo Suho đi ngân hàng để rút tiền, chuẩn bị về Việt Nam nha.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video ghi lại cảnh gia đình chuẩn bị về Việt Nam và cùng nhau nấu món gà xào tương ớt. Người mẹ chia sẻ về những khó khăn khi xin visa cho con và niềm vui khi cả nhà được ăn món ăn ngon.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

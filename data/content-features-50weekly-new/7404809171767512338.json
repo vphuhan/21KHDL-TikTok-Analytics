@@ -1,0 +1,92 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về việc ăn sáng bằng hủ tiếu và địa điểm quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán hủ tiếu."
+    },
+    {
+      "step": "Miêu tả quán",
+      "desc": "Giá cả, không gian quán và sự đông đúc của khách.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự hấp dẫn của quán."
+    },
+    {
+      "step": "Đồ uống",
+      "desc": "Giới thiệu đồ uống đã gọi và chất lượng của chúng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Quầy topping",
+      "desc": "Miêu tả quầy topping sạch sẽ, đa dạng và nguyên liệu tươi.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng và thèm thuồng."
+    },
+    {
+      "step": "Gia vị",
+      "desc": "Giới thiệu các loại gia vị và sốt chấm đặc biệt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Đánh giá về sợi hủ tiếu, topping và nước lèo.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử ngay lập tức."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Cách ăn hủ tiếu khô và cảm nhận về sườn sụn.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thỏa mãn và ngon miệng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Hẹn mọi người ở những video sau nhen, tớ là Hân nè, bye bye!"
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "đã thèm",
+    "giòn giòn",
+    "chua chua",
+    "ngọt ngọt",
+    "đậm đà",
+    "dính cứng ngắt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "không ngon thì cứ tìm tui, chịu cái gì tui cũng chịu hết á",
+    "ăn kèm với hủ tiếu khô là đúng chuẩn bài luôn",
+    "cắn một cái ta nói nó đã gì đâu luôn á"
+  ],
+  "hook_content": "Có nhiều bạn thắc mắc mỗi lần thử thách Hân ăn nhiều như vậy thì khẩu phần ăn hằng ngày của Hân sẽ như thế nào? Thì sương sương mỗi buổi sáng Hân ăn cỡ ba tô hủ tiếu.",
+  "hook_type": [
+    "Phản hồi bình luận"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu quán hủ tiếu Nam Vang Cô Út, nơi Hân thường ăn sáng. Hân đánh giá cao topping tươi ngon, nước lèo đậm đà và đặc biệt là sườn sụn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

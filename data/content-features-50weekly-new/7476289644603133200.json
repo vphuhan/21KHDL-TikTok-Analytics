@@ -1,0 +1,95 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Mô tả món nem lá lốt giòn tan, mềm mại, thơm ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê và sơ chế các nguyên liệu cần thiết.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Ướp thịt",
+      "desc": "Trộn thịt xay với lá lốt và gia vị, ướp 30 phút.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Làm sốt mắm nêm",
+      "desc": "Phi thơm hành tỏi, xào khóm, thêm mắm nêm và gia vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Cuốn nem",
+      "desc": "Trải bánh tráng, phết nhân, gấp mép và cuốn nem.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Chiên nem",
+      "desc": "Chiên nem ngập dầu đến khi vàng đều và giòn.",
+      "impact_level": "3",
+      "viewer_emotion": "Hào hứng"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Bày trí và thưởng thức nem lá lốt với bún, rau sống.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Đừng quên nhấn đăng ký kênh để cập nhật thêm nhiều món ăn ngon và bí quyết nấu ăn cực đỉnh nha."
+  ],
+  "cta_type": [
+    "Follow kênh",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "giòn tan",
+    "mềm mại",
+    "thơm lừng",
+    "ngon miệng",
+    "thích thú",
+    "đậm đà",
+    "ngọt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nêm lá lốt mà làm theo cách này thì không chỉ giòn tan bên ngoài mà bên trong còn mềm ngọt thơm lừng khiến ai ăn cũng mê mẫn cho mà xem.",
+    "Lớp vỏ giòn tan bên ngoài nghe rộp rộp đầy thích thú, phần nhân bên trong thì mềm mại đậm đà với vị ngọt từ thịt, hương thơm nồng nàn của lá lốt hòa quyện cùng chút cay nhẹ từ tiêu, khi chấm với nước sốt mắm nêm chua ngọt thơm phức, mỗi miếng nêm lại càng ngon miệng hơn, khiến bạn ăn một miếng lại muốn ăn thêm miếng nữa nè.",
+    "Đây chính là chân ái cho những bữa cơm gia đình hay các buổi tụ họp bạn bè."
+  ],
+  "hook_content": "Nêm lá lốt mà làm theo cách này thì không chỉ giòn tan bên ngoài mà bên trong còn mềm ngọt thơm lừng khiến ai ăn cũng mê mẫn cho mà xem.",
+  "hook_type": [
+    "Cho thấy kết quả trước",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn chi tiết cách làm món nem lá lốt giòn tan bên ngoài, mềm mại bên trong, từ khâu chuẩn bị nguyên liệu, ướp thịt, làm sốt mắm nêm, cuốn nem đến chiên và thưởng thức. Món ăn này rất phù hợp cho bữa cơm gia đình hoặc các buổi tụ họp bạn bè.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

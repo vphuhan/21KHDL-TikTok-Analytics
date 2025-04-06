@@ -1,0 +1,85 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu các loại cơm",
+      "desc": "Liệt kê tên các loại cơm phổ biến ở Việt Nam.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn được giới thiệu."
+    },
+    {
+      "step": "Thưởng thức cơm tấm",
+      "desc": "Ăn và cảm nhận hương vị cơm tấm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món cơm tấm."
+    },
+    {
+      "step": "Giới thiệu cà phê",
+      "desc": "Quảng cáo cà phê Laura của Nhật Kim Anh.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, có cảm giác quảng cáo."
+    },
+    {
+      "step": "Thưởng thức cơm lam",
+      "desc": "Ăn và khen cơm lam dẻo.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ dẻo của cơm."
+    },
+    {
+      "step": "Thưởng thức cơm niêu",
+      "desc": "Ăn và cảm nhận hương vị cơm niêu.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử cơm niêu."
+    },
+    {
+      "step": "Tiếp tục quảng cáo cà phê",
+      "desc": "Nhấn mạnh sự hợp gu và lợi ích của cà phê.",
+      "impact_level": "1",
+      "viewer_emotion": "Không mấy hứng thú."
+    },
+    {
+      "step": "Thưởng thức cơm cháy",
+      "desc": "Ăn và khen cơm cháy.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm ăn cơm cháy."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "dẻo",
+    "hợp gu"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Sau bữa nay có khi lên mấy cân",
+    "Vừa ngon, vừa khỏe như thế này, bảo sao nhiều người uống",
+    "Uống nhiều loại rồi nhưng mà vẫn thấy Laura cà phê rất là hợp gu"
+  ],
+  "hook_content": "Bật bạn năm loại cơm phổ biến ở Việt Nam.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Giật tít"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Liệt kê",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang nhanh gọn giới thiệu và ăn thử năm loại cơm phổ biến ở Việt Nam, xen kẽ quảng cáo cà phê Laura của ca sĩ Nhật Kim Anh.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

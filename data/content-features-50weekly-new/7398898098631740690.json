@@ -1,0 +1,91 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu cua",
+      "desc": "Giới thiệu cua Cà Mau mới mua, đóng gói cẩn thận và gọn gàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về chất lượng cua."
+    },
+    {
+      "step": "Ướp lạnh cua",
+      "desc": "Ướp cua với nước đá để giữ độ tươi ngon, lo lắng không đủ lạnh.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Chuẩn bị bếp củi",
+      "desc": "Nấu cua bằng bếp củi truyền thống, gợi nhớ kỷ niệm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với bếp củi."
+    },
+    {
+      "step": "Luộc cua",
+      "desc": "Luộc cua trong một tiếng, lo lắng về việc cua có chín đều.",
+      "impact_level": "1",
+      "viewer_emotion": "Hơi lo lắng liệu cua có ngon không."
+    },
+    {
+      "step": "Thưởng thức cua",
+      "desc": "Thưởng thức cua chấm muối tiêu cay, khen thịt chắc và ngọt.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn ăn cua ngay lập tức."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu tinh dầu thông đỏ và đông trùng hạ thảo.",
+      "impact_level": "1",
+      "viewer_emotion": "Không mấy hứng thú với sản phẩm."
+    },
+    {
+      "step": "Đánh giá cua",
+      "desc": "Khoe cua gạch béo ngậy, thịt chắc, cả nhà ăn ngon miệng.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thỏa mãn khi thấy đồ ăn ngon."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "nôn nóng",
+    "đã mắt",
+    "khoái",
+    "cay",
+    "chất lượng",
+    "béo",
+    "ngất ngay",
+    "chắc thịt",
+    "ngon miệng",
+    "mừng",
+    "ngọt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cua mà họ sắp theo ngay hàng thẳng lối nhìn đã mắt ghê luôn á.",
+    "Ta nói không phải nói nha chứ nó béo long trời lở đất luôn vậy đó.",
+    "Ta nói nó vừa ngọt mà cái thịt của nó chắc khủng khiếp luôn."
+  ],
+  "hook_content": "Ê mấy bữa nay thì hầu như ngày nào ông trời cũng mưa hết trơn á mọi người.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ về việc mua cua Cà Mau về ăn tại nhà, từ khâu chuẩn bị, chế biến đến thưởng thức. Đồng thời, video cũng giới thiệu thêm về tinh dầu thông đỏ và đông trùng hạ thảo.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

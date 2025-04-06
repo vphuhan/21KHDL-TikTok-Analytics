@@ -1,0 +1,88 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán bánh mì",
+      "desc": "Giới thiệu về quán bánh mì nướng củi lâu đời ở Sài Gòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị truyền thống."
+    },
+    {
+      "step": "Kêu gọi vote FoodMap",
+      "desc": "Kêu gọi mọi người tham gia vote cho quán trên Coca Cola FoodMap.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, mang tính kêu gọi."
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu các món bánh mì đặc trưng và món bò kho.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng khi nghe mô tả."
+    },
+    {
+      "step": "Trải nghiệm và đánh giá",
+      "desc": "Trải nghiệm ăn bánh mì bò kho và đưa ra đánh giá tích cực.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy hấp dẫn và muốn thử."
+    },
+    {
+      "step": "Giới thiệu các loại bánh",
+      "desc": "Giới thiệu các loại bánh mì khác và sự yêu thích của khách nước ngoài.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Đánh giá chung về không gian quán và chất lượng phục vụ.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với sự chỉnh chu."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Có gì á mấy bà hợp sức cùng với tôi lên Coca Cola Food Map để vote ngay cho cái bánh mì Bremealu này nè, dẫn đầu team bánh mì luôn nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "ngon",
+    "hấp dẫn",
+    "mềm",
+    "béo",
+    "giòn",
+    "thích"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ở Sài Gòn á mà giờ kiếm một cái chỗ bán bánh mì mà nướng bằng bếp củi là không có dễ đâu nha.",
+    "Mới ăn cái món đầu thôi là tôi đã muốn vote liền cho quán rồi.",
+    "Ăn một miếng bánh mì xong á, làm thêm một cái ngụm Coca Cola nữa thì tôi nói không có gì bằng luôn á."
+  ],
+  "hook_content": "Ở Sài Gòn á mà giờ kiếm một cái chỗ bán bánh mì mà nướng bằng bếp củi là không có dễ đâu nha.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu quán bánh mì Bremealu ở Sài Gòn, nổi tiếng với bánh mì nướng củi và các món ăn đặc trưng như bánh mì bò kho, đồng thời kêu gọi người xem tham gia vote cho quán trên Coca Cola FoodMap. Chủ kênh đánh giá cao hương vị và chất lượng của quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

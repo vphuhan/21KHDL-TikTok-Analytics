@@ -1,0 +1,95 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu địa điểm",
+      "desc": "Giới thiệu khu chợ ở Nhật giống khu của người Ấn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Nhận xét về ớt",
+      "desc": "Nhận xét ớt có vẻ cay, nghi là ớt cay nhất thế giới.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món trứng gà lộn luộc ăn kèm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thử thách độ cay",
+      "desc": "Thử ăn ớt sau khi để tủ lạnh, làm muối ớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Ăn và đánh giá",
+      "desc": "Ăn trứng gà lộn chấm muối ớt và đánh giá độ cay.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ"
+    },
+    {
+      "step": "Ăn ớt nguyên trái",
+      "desc": "Ăn ớt nguyên trái và cảm nhận độ cay tăng dần.",
+      "impact_level": "3",
+      "viewer_emotion": "Sợ hãi"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Chia sẻ trải nghiệm cay quá mức và không muốn ăn lại.",
+      "impact_level": "3",
+      "viewer_emotion": "Đồng cảm"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người có ai biết cách nào để làm giảm cay nhanh hơn không?"
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Đặt câu hỏi"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "béo",
+    "ngọt",
+    "cay đắng",
+    "cay",
+    "kinh khủng khiếp",
+    "ngứa da đầu",
+    "quá sức tưởng tượng",
+    "tởn tới già"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn uống mà tưởng đâu là trời đày không đó.",
+    "Ăn chuyến này xong là coi như tởn tới già luôn, ông nội tôi cũng không dám ăn lần thứ hai nữa."
+  ],
+  "hook_content": "Hôm nay thì mình sẽ đi một cái khu chợ ở Nhật mà mấy cái tiệm trong đây là giống như là của người Ấn vậy đó.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại trải nghiệm ăn trứng gà lộn chấm muối ớt làm từ loại ớt được cho là cay nhất thế giới của một bạn ở Nhật, bạn đã bị cay đến mức phải thốt lên là 'tởn tới già'.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Ngạc nhiên"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món hào hấp mì gói và địa điểm ăn uống gần nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới lạ."
+    },
+    {
+      "step": "Mua sắm nguyên liệu",
+      "desc": "Đi siêu thị mua hào cấp đông và chia sẻ giá cả.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, cung cấp thông tin giá cả."
+    },
+    {
+      "step": "Chuẩn bị và chế biến",
+      "desc": "Hấp hào nhưng không chín nên chuyển sang luộc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thắc mắc về cách chế biến."
+    },
+    {
+      "step": "Giới thiệu vòng tay",
+      "desc": "Nhân tiện khoe vòng tay phong thủy được bạn bè khen.",
+      "impact_level": "1",
+      "viewer_emotion": "Không liên quan, quảng cáo sản phẩm khác."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Ăn hào luộc chấm chẩm chéo với mì gói.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và tò mò về hương vị."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Nhận xét hào béo và hợp ăn với mì gói.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử món ăn này."
+    },
+    {
+      "step": "Xin gợi ý",
+      "desc": "Hỏi khán giả cách chế biến hào ngon và địa chỉ mua vòng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, kêu gọi tương tác."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Có gì chỉ cho mình biết với.",
+    "Ai biết cái này làm được món gì ngon thì có gì chỉ cho mình biết với ha."
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Chia sẻ công thức",
+    "Đặt câu hỏi"
+  ],
+  "emotion_keywords": [
+    "đẹp",
+    "may mắn",
+    "béo",
+    "cay",
+    "ngon",
+    "kinh khủng khiếp"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Hào này được cái là khi luộc xong rồi á thì nó không có bị teo nha mọi người.",
+    "Ta nói nó béo đến nỗi mà phải kết hợp ăn chung với mì gói để giảm bớt cái độ béo của nó lại.",
+    "Trời lạnh lạnh vậy mà có món hào hấp mà ăn chung với mì gói nữa thì còn cái gì bằng."
+  ],
+  "hook_content": "Dạo này có mấy hôm mà rảnh rảnh á thì mình cũng đi xung quanh gần nhà mình coi có cái đền nào đẹp hay là không.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ trải nghiệm ăn món hào hấp mì gói tự làm tại nhà, kết hợp review vòng tay phong thủy. Người làm video cũng hỏi ý kiến khán giả về cách chế biến hào ngon.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

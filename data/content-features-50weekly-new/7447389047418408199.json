@@ -1,0 +1,81 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu và thử thách",
+      "desc": "Giới thiệu thử thách phân biệt các loại nước suối khác nhau.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về khả năng phân biệt của mẹ."
+    },
+    {
+      "step": "Đánh giá nước suối thông thường",
+      "desc": "Mẹ thử và nhận xét các loại nước suối quen thuộc, giá rẻ.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Thử nước suối 'Jennie Blackpink'",
+      "desc": "Mẹ thử loại nước đắt tiền được quảng cáo là Jennie uống.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên về giá, nhưng thất vọng về vị."
+    },
+    {
+      "step": "Thử nước La Vie",
+      "desc": "Mẹ chuyển sang thử nước La Vie và đưa ra so sánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với nhận xét của mẹ về La Vie."
+    },
+    {
+      "step": "Thử nước 'giá chục ngàn'",
+      "desc": "Mẹ thử loại nước đắt nhất và bày tỏ sự kinh ngạc.",
+      "impact_level": "3",
+      "viewer_emotion": "Shock vì giá quá cao, không đáng."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Mẹ chọn ra loại nước yêu thích và đưa ra đánh giá chung.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng ý với lựa chọn của mẹ."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "mát",
+    "lợt lợt",
+    "bình thường",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Chai này á là Jenny Blackpink uống đó mẹ.",
+    "39.000đ mà mẹ uống hơn 2 lít nước nữa. Hổng lẽ mẹ uống một ngày hơn 200.000đ tiền nước.",
+    "Mẹ thích chai này nè, mẹ uống nó mát mát mà thơm thơm."
+  ],
+  "hook_content": "Mẹ ơi, hôm nay mình sẽ mứt banh nước suối nha mẹ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video ghi lại cảnh hai mẹ con thử và so sánh các loại nước suối khác nhau về hương vị và giá cả. Mẹ đưa ra những nhận xét chân thật và hài hước về từng loại.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

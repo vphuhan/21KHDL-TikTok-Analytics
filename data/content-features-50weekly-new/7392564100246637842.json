@@ -1,0 +1,79 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu về sản phẩm mì cay và chương trình tặng nồi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về chương trình khuyến mãi."
+    },
+    {
+      "step": "Đánh giá sản phẩm",
+      "desc": "Nhấn mạnh về chất lượng của gói súp mì cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng sản phẩm."
+    },
+    {
+      "step": "Gợi ý sử dụng",
+      "desc": "Đề xuất mua mì cay cho người không có thời gian.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích với gợi ý này."
+    },
+    {
+      "step": "Hướng dẫn nêm nếm",
+      "desc": "Hướng dẫn cách nêm nếm độ cay phù hợp.",
+      "impact_level": "2",
+      "viewer_emotion": "Biết cách điều chỉnh độ cay."
+    },
+    {
+      "step": "Khẳng định chất lượng",
+      "desc": "Khẳng định mì phù hợp với mọi người.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy yên tâm khi sử dụng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ai mà muốn tham khảo á thì mọi người bấm vào góc trái màn hình bên clip mình nha."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "xịn sò",
+    "đỉnh"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tính tiền luôn cái nồi trong đây rồi chứ tặng nồi cái gì nữa?",
+    "Khi mà mọi người mua combo 10 gói á, mình sẽ được tặng cái nồi nè.",
+    "Cái gói súp này nè, nó rất là đỉnh luôn á."
+  ],
+  "hook_content": "tính tiền luôn cái nồi trong đây rồi chứ tặng nồi cái gì nữa?",
+  "hook_type": [
+    "Gây tò mò",
+    "Khuyến mãi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review mì cay kèm chương trình khuyến mãi tặng nồi khi mua combo 10 gói, đồng thời hướng dẫn cách nêm nếm độ cay phù hợp và khẳng định chất lượng sản phẩm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

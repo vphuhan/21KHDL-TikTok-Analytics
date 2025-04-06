@@ -1,0 +1,103 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu combo dẻo dai và nước uống nhập khẩu Hàn Quốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm."
+    },
+    {
+      "step": "Khám phá combo",
+      "desc": "Mở hộp combo, giới thiệu các món ăn vặt nội địa Trung.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Ăn và miêu tả hương vị của từng món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm giác thèm ăn."
+    },
+    {
+      "step": "So sánh",
+      "desc": "So sánh hương vị hiện tại với ký ức tuổi học sinh.",
+      "impact_level": "2",
+      "viewer_emotion": "Hoài niệm về tuổi thơ."
+    },
+    {
+      "step": "Kiểm tra sản phẩm",
+      "desc": "Đánh giá độ an toàn và nguồn gốc sản phẩm.",
+      "impact_level": "1",
+      "viewer_emotion": "Tin tưởng vào sản phẩm."
+    },
+    {
+      "step": "Ăn kẹo xoài",
+      "desc": "Ăn và miêu tả hương vị kẹo xoài tráng miệng.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn thử."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Giới thiệu nơi mua và lời cảm ơn.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết thêm thông tin hữu ích."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nếu mà bạn thích ăn loại nào á thì có thể tham khảo TikTok Shop của Vàng nha.",
+    "Cảm ơn bạn đã xem video của Tóc Vàng."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "ngon",
+    "dai dai",
+    "đậm đà",
+    "cay the the",
+    "tuyệt vời",
+    "dễ ăn",
+    "dễ nghiện",
+    "hấp dẫn",
+    "ngọt ngọt",
+    "đã",
+    "thơm đậm vị",
+    "an tâm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn vào thấy dai dai nè bạn. bạn thấy đậm đà cái đầu lưỡi của bạn á, nó có vị cay the the á bạn.",
+    "Bạn nhìn mâm đồ ăn này á bạn. Vàng nhớ thời học sinh quá à. Ở trước cổng trường cũng hay bán mấy cái đồ ăn như vậy á bạn.",
+    "Mình vừa mới ăn kẹo dẻo dai cay cay xong, bây giờ mình chuyển qua ăn kẹo ngọt ngọt chắc nó đã lắm á bạn."
+  ],
+  "hook_content": "Hai bạn, hôm nay Vàng sẽ múc bánh combo dẻo dai nè nha các bạn ơi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video mukbang combo đồ ăn vặt nội địa Trung của Tóc Vàng, tập trung vào trải nghiệm hương vị và so sánh với ký ức tuổi học sinh, đồng thời giới thiệu nơi mua sản phẩm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

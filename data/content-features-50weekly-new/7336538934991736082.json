@@ -1,0 +1,84 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu trải nghiệm",
+      "desc": "Lần đầu hái dâu tây tại vườn ở Nhật Bản, khác biệt siêu thị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về trải nghiệm hái dâu tại vườn."
+    },
+    {
+      "step": "Thông tin về địa điểm",
+      "desc": "Cách di chuyển, giá cả, quy định và đánh giá vườn dâu.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích khi có thông tin chi tiết."
+    },
+    {
+      "step": "Thưởng thức dâu tây",
+      "desc": "Cách ăn dâu tây, so sánh với các loại khác và cảm xúc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và muốn thử dâu tây tươi."
+    },
+    {
+      "step": "Chuẩn bị món ăn kèm",
+      "desc": "Giới thiệu các món ăn kèm như gà ủ muối và gỏi.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú với các món ăn kèm hấp dẫn."
+    },
+    {
+      "step": "Sử dụng sản phẩm hỗ trợ",
+      "desc": "Giới thiệu sản phẩm hỗ trợ tiêu hóa khi ăn nhiều.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường, không quá đặc biệt."
+    },
+    {
+      "step": "Đánh giá món gà ủ muối",
+      "desc": "Miêu tả hương vị và độ dai của gà ủ muối.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị đặc trưng của gà ủ muối."
+    },
+    {
+      "step": "Kết luận và cảm xúc",
+      "desc": "Cảm nhận về món gỏi gà và sự ngon miệng.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử ngay món gỏi gà."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngọt",
+    "thèm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ăn sao á mà chỉ bỏ vô bao tử thôi chứ đừng có bỏ túi, bỏ bọc mang về là ok",
+    "Ăn thịt gà mà ta nói tưởng đâu đang chơi kéo co không đó, muốn văng cái hàm tiền đạo ra ngoài",
+    "Sao kỳ này hên ghê ông bà độ hay gì mà trộn gỏi vừa ăn dữ không biết nữa"
+  ],
+  "hook_content": "Trước giờ thì mình ăn dâu ở trong siêu thị nhiều rồi, còn mà đi ăn vọng dâu tại vườn thì mới là lần đầu.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video chia sẻ trải nghiệm lần đầu đi hái dâu tây tại vườn ở Nhật Bản, từ di chuyển, giá cả đến cách thưởng thức. Sau đó, video giới thiệu thêm món gà ủ muối ăn kèm với gỏi bắp cải cà rốt.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

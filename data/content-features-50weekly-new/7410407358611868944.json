@@ -1,0 +1,94 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món chân gà xào cay gợi nhớ kỷ niệm ở Việt Nam.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn và cảm xúc của người nấu."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê và sơ chế các nguyên liệu chính: chân gà, gia vị.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, chuẩn bị làm theo công thức."
+    },
+    {
+      "step": "Luộc chân gà",
+      "desc": "Luộc chân gà với bột cà ri để khử mùi và tạo hương.",
+      "impact_level": "1",
+      "viewer_emotion": "Tập trung theo dõi các bước thực hiện."
+    },
+    {
+      "step": "Pha sốt",
+      "desc": "Pha sốt xào cay với các gia vị: nước tương, gừng, tỏi, ớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với công thức pha chế đặc biệt."
+    },
+    {
+      "step": "Chia sẻ về chồng",
+      "desc": "Kể về sự ủng hộ của mọi người dành cho chồng.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy vui lây với niềm vui của gia đình."
+    },
+    {
+      "step": "Làm cơm trộn",
+      "desc": "Trộn cơm với rong biển và mayonnaise.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị cơm trộn đặc biệt."
+    },
+    {
+      "step": "Trình bày và thưởng thức",
+      "desc": "Trình bày món ăn và cả gia đình cùng thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấm áp, cảm nhận được không khí gia đình."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thèm",
+    "mặn mặn",
+    "ngọt ngọt",
+    "cay cay",
+    "ăn nhất cái nách",
+    "mê",
+    "ngon",
+    "vừa ăn",
+    "vui"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Chân gà xào cay kiểu hàng, mặn mặn, ngọt ngọt, cay cay, ăn nhất cái nách luôn.",
+    "Việt Nam mình để ý mới thấy là cái chân gà ở Việt Nam mình sao nó ú vậy, còn cái chân gà ở hàng nó ốm lắm luôn á.",
+    "Để ăn chung với cái món chân gà bữa nay á thì mình sẽ làm thêm cơm trộn rong biển. Mà bữa nay nó sẽ hơi khác hơn chút là mình sẽ trộn với mayonnaise nha."
+  ],
+  "hook_content": "là cái món mà hồi bữa về Việt Nam chơi là mình cứ nhớ tới là thèm nè mọi người.",
+  "hook_type": [
+    "Gây tò mò",
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm món chân gà xào cay kiểu Hàn Quốc và cơm trộn rong biển mayonnaise, chia sẻ về kỷ niệm ở Việt Nam và niềm vui gia đình khi cùng thưởng thức món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

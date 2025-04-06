@@ -1,0 +1,82 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu nguyên liệu",
+      "desc": "Giới thiệu về việc mua sắm trái cây và hải sản ở chợ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Nhận xét ban đầu",
+      "desc": "Nhận xét về hình dáng và số lượng của 'ghẹ sò điệp'.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Quá trình sơ chế",
+      "desc": "Mô tả chi tiết quá trình rửa 'ghẹ sò điệp' và xử lý độ nhớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Chế biến món ăn",
+      "desc": "Luộc 'ghẹ sò điệp' với sả và quan sát sự thay đổi.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Nêu cảm nhận hương vị khi ăn kèm muối tiêu ớt.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Đánh giá món ăn và gợi ý cách chế biến khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Tưởng tượng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "khoái",
+    "ngộ ghê",
+    "giòn",
+    "dai",
+    "sần sật",
+    "dính",
+    "ngon xuất sắc"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ăn cái món này thì không thể nào thiếu được cái chén muối tiêu có bốn cái trái ớt.",
+    "Mình cũng không biết diễn tả là ăn cái này nó giống với cái gì nhất ta, mà mình cảm giác giống như là đang ăn chân gà rút xương mà dai giòn sần sật vậy đó.",
+    "Cái món này thì mình ăn hơi bị dính nha mà mình nghĩ cái món này đem đi làm gỏi thì nó cũng bá cháy dữ lắm đó."
+  ],
+  "hook_content": "cứ hễ hôm nào đi chợ là trước tiên ghé cái quầy trái cây trước, do là mình không có ăn rau nên là bắt buộc phải có trái cây thay thế mỗi ngày.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video chia sẻ trải nghiệm lần đầu ăn 'rìa sò điệp', mô tả quá trình mua, sơ chế, luộc và thưởng thức món ăn kèm muối tiêu ớt, đồng thời so sánh hương vị với chân gà rút xương và gợi ý làm gỏi.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

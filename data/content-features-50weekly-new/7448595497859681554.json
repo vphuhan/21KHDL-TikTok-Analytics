@@ -1,0 +1,61 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Vivi giới thiệu món trứng gà chảy và mời mọi người cùng ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Trình bày cận cảnh",
+      "desc": "Cho thấy cận cảnh trứng gà chảy, tạo sự hấp dẫn thị giác.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Vivi ăn và đánh giá món trứng gà chảy là ngon và siêu ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "siêu ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Rung rinh luôn đó mọi người.",
+    "Ngon.",
+    "Siêu ngon luôn."
+  ],
+  "hook_content": "Hello mọi người, hôm nay Vivi sẽ ăn trứng gà chảy.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Vivi mukbang trứng gà chảy, mời mọi người cùng ăn và đánh giá món ăn là ngon, siêu ngon.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

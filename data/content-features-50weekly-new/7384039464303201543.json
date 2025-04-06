@@ -1,0 +1,82 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu tình huống",
+      "desc": "Than thở về việc học bù và khối lượng bài tập lớn.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm"
+    },
+    {
+      "step": "Mua sắm nguyên liệu",
+      "desc": "Ghé siêu thị mua bắp đầu mùa và tôm đỏ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Quyết định ăn tôm đỏ hấp sả thay vì cơm tối.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Chuẩn bị và chế biến",
+      "desc": "Hấp tôm với sả trong một tiếng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thưởng thức và đánh giá",
+      "desc": "Ăn tôm hấp với muối tiêu ớt và chia sẻ cảm nhận.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Nhấn mạnh độ ngon, ngọt và chắc thịt của tôm.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử"
+    },
+    {
+      "step": "Đề xuất",
+      "desc": "Gợi ý các món ăn khác phù hợp với tôm đỏ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "ngọt",
+    "chắc thịt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "thịt nó rất là chắc mà ngọt dữ lắm",
+    "ăn vô nó cứ sần sậm",
+    "ngon đến nỗi mà không thể nào dừng lại được"
+  ],
+  "hook_content": "không biết trường học của mọi người sao nghe chứ trường mình đang học mà mỗi lần nghỉ là bắt buộc phải đi học bù.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ trải nghiệm ăn tôm đỏ hấp sả tại Nhật Bản, từ việc mua nguyên liệu đến chế biến và thưởng thức. Người nói đánh giá cao hương vị tươi ngon và độ chắc thịt của tôm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

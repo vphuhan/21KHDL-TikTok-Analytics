@@ -1,0 +1,92 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Nấu bánh bèo theo yêu cầu của mẹ và chia sẻ kỷ niệm.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp, gần gũi với những chia sẻ đời thường."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Kể về việc dậy sớm đi chợ mua nguyên liệu làm bánh.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm với sự vất vả của người nấu."
+    },
+    {
+      "step": "Thực hiện các công đoạn",
+      "desc": "Tự làm các công đoạn từ xào nhân đến nặn bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với quá trình làm bánh tỉ mỉ."
+    },
+    {
+      "step": "Huy động người làm",
+      "desc": "Nhờ người thân nặn bánh, tạo không khí gia đình.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ với không khí gia đình ấm cúng."
+    },
+    {
+      "step": "Quảng cáo sản phẩm",
+      "desc": "Tự tin quảng cáo dầu gạo lứt nhưng mẹ lại né tránh.",
+      "impact_level": "2",
+      "viewer_emotion": "Hài hước với tình huống mẹ con trái ngược."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Cả nhà cùng ăn bánh bèo và khen ngon, vui vẻ.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấm lòng với bữa ăn gia đình hạnh phúc."
+    },
+    {
+      "step": "Kết thúc video",
+      "desc": "Nhấn mạnh niềm vui giản dị và tình cảm gia đình.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm động trước tình cảm gia đình."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z",
+    "Truyền thống",
+    "Sáng tạo"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "hân hoan",
+    "háo hức",
+    "vui",
+    "ấm áp",
+    "ngộ nghĩnh",
+    "dễ thương"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mình nấu ăn thì phong độ nó cũng nhất thời lắm nhưng mà đẳng cấp thì cũng không có nên là khiêm tốn e dè.",
+    "Người tự tin duy nhất trong bữa ăn ngày hôm nay chỉ có là mẹ mình thôi bởi vì mẹ mình không làm gì hết.",
+    "Đúng là con hát mẹ khen hay."
+  ],
+  "hook_content": "Làm kênh TikTok là nấu cả trăm món nhưng mà về nhà lúc nào mẹ cũng chỉ order làm bánh bèo.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn",
+    "Kể chuyện"
+  ],
+  "summarization": "Video chia sẻ về việc nấu bánh bèo tại nhà theo yêu cầu của mẹ, từ khâu chuẩn bị nguyên liệu đến khi cả nhà cùng thưởng thức. Tác giả kể lại những kỷ niệm vui vẻ và ấm áp bên gia đình trong quá trình nấu ăn.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

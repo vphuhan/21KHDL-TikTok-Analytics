@@ -1,0 +1,84 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bánh",
+      "desc": "Giới thiệu bánh kem mứt bưởi hồng D350F giá 1,5 triệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về bánh đắt tiền."
+    },
+    {
+      "step": "Mô tả chi tiết",
+      "desc": "Mô tả bánh kem trái cây ít ngọt với lớp mousse mềm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng, muốn ăn thử."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá hương vị tươi mát, béo ngậy, không ngọt gắt.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng hơn."
+    },
+    {
+      "step": "Cảm nhận cá nhân",
+      "desc": "Nhấn mạnh lớp mousse mịn màng và vị đắng nhẹ của bưởi.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng về chất lượng bánh."
+    },
+    {
+      "step": "Thông tin giá cả",
+      "desc": "Thông tin về giá cả và kích cỡ bánh khác nhau.",
+      "impact_level": "1",
+      "viewer_emotion": "Cân nhắc về giá trị sản phẩm."
+    },
+    {
+      "step": "Gợi ý dịp tặng",
+      "desc": "Gợi ý mua bánh làm quà tặng vào các dịp lễ.",
+      "impact_level": "1",
+      "viewer_emotion": "Lưu ý để mua quà."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Nên có gì mấy bà tham khảo thử nghe."
+  ],
+  "cta_type": [
+    "Chia sẻ"
+  ],
+  "emotion_keywords": [
+    "thèm",
+    "ngon",
+    "béo",
+    "đã",
+    "sướng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nhiều vị lắm nhưng mà cái bánh màu hồng này là cái bánh kem mứt bưởi hồng nè. Nhìn đẹp mê luôn mà không dám ăn luôn á.",
+    "Kiểu bánh kem mà có vị trái cây vô á ăn không có một chút xíu gì là ngấy luôn á.",
+    "Múc một cái muỗng bự á ăn ta nói nó sướng cái miệng gì đâu á."
+  ],
+  "hook_content": "Nghe nói á là phải có tiền á thì mới ăn được cái bánh này.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review bánh kem mứt bưởi hồng D350F đắt tiền, tập trung vào hương vị tươi mát, lớp mousse mịn màng và trải nghiệm ăn ngon miệng. Người nói gợi ý đây là món quà phù hợp cho các dịp lễ.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

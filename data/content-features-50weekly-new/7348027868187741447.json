@@ -1,0 +1,88 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Mô tả món phô mai chiên bơ sữa ông Thọ gây tăng cân.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Thao tác làm món ăn",
+      "desc": "Chiên phô mai với bơ, thêm sữa ông Thọ và bột ca cao.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét vị chính từ sữa ông Thọ và bột ca cao.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú."
+    },
+    {
+      "step": "So sánh với món khác",
+      "desc": "Liên tưởng đến bánh hu tốc, phô mai không quá béo.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Thay đổi quan điểm",
+      "desc": "Ban đầu nghĩ không ngon nhưng ăn lại thấy được.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên."
+    },
+    {
+      "step": "Cảm nhận độ ngấy",
+      "desc": "Khen xong ăn một cái thấy ngấy.",
+      "impact_level": "2",
+      "viewer_emotion": "Hụt hẫng."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Không thấy hot, chấm 6.5-7 điểm.",
+      "impact_level": "1",
+      "viewer_emotion": "Thất vọng."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngấy",
+    "béo",
+    "ngậy",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "món bố của các loại ngấy",
+    "gần như mọi người rắc cái sữa ông Thọ với bột ca cao lên cái bánh gì cũng nó cũng sẽ ngon ấy",
+    "ăn một cái xong ngấy"
+  ],
+  "hook_content": "ăn cái món này xong chắc chắn là phải lên cỡ 20 cân, bản chất nó là phô mai, lại còn phải đem chiên với bơ, xong tí nữa ăn kèm với sữa ông Thọ.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm",
+    "Đối thoại"
+  ],
+  "summarization": "Video review món phô mai chiên bơ ăn kèm sữa ông Thọ và bột ca cao, ban đầu thấy ngon nhưng ăn nhiều lại ngấy. Người review đánh giá món này không đáng hot và chỉ chấm 6.5-7 điểm.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

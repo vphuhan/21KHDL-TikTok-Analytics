@@ -1,0 +1,85 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quà tặng đầu năm",
+      "desc": "Giới thiệu về việc được tặng quà và trải nghiệm trứng cá tầm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món trứng cá tầm đắt đỏ."
+    },
+    {
+      "step": "Than thở hết Tết",
+      "desc": "Bày tỏ sự nuối tiếc khi Tết đã qua và mong muốn quay lại.",
+      "impact_level": "1",
+      "viewer_emotion": "Đồng cảm với tâm trạng luyến tiếc Tết."
+    },
+    {
+      "step": "Gặp gỡ bạn bè",
+      "desc": "Kể về cuộc hẹn với bạn bè và những khó khăn trong giao tiếp.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường với câu chuyện."
+    },
+    {
+      "step": "Chọn món ăn",
+      "desc": "Phân vân giữa các lựa chọn món ăn và quyết định cuối cùng.",
+      "impact_level": "1",
+      "viewer_emotion": "Không đặc biệt ấn tượng."
+    },
+    {
+      "step": "Di chuyển và gặp gỡ",
+      "desc": "Mô tả hành trình di chuyển và gặp gỡ người thân của bạn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với đoạn đường tối."
+    },
+    {
+      "step": "Trải nghiệm ăn ốc",
+      "desc": "Kể về trải nghiệm ăn ốc cùng người Hàn và gia đình.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với cách ăn ốc của người Hàn."
+    },
+    {
+      "step": "Thưởng thức trứng cá tầm",
+      "desc": "Hướng dẫn cách ăn trứng cá tầm và cảm nhận hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Tò mò và muốn thử món trứng cá tầm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "vui",
+    "háo hức",
+    "sợ sợ",
+    "ok",
+    "cũng cúng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cái khúc chuẩn bị Tết bao giờ cũng là vui háo hức nhất.",
+    "Khi người Hàn ăn ốc, cụ thể ở đây là anh Hun, nếu mọi người xung quanh cứ bảo là a mút đầu không được à, thế mút ấy đi.",
+    "Trứng cá Hàn Quốc nhưng mà cái thìa này là hàng thủ công mỹ nghệ Việt Nam."
+  ],
+  "hook_content": "Em xin. Ngày xuân đầu năm mới gặp chị Kem Anh Hun được tặng quá trời quà luôn. Và đây cũng là lần đầu tiên mình được ăn trứng cá tầm muối đắt đỏ.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại một ngày đi ăn uống của tác giả cùng bạn bè và người thân, bao gồm trải nghiệm ăn trứng cá tầm và ốc. Tác giả chia sẻ những cảm xúc và kỷ niệm trong ngày.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món thịt kho 'thần hủy diệt Beerus' và địa điểm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về tên gọi của món ăn."
+    },
+    {
+      "step": "Đánh giá ban đầu",
+      "desc": "Nhận xét món thịt kho ngon nhưng hơi ngán.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình vì món kho thường gây ngán."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu cà phê Laura của Nhật Kim Anh để giải ngán.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú khi biết có cà phê giải ngán."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Mô tả thành phần và hương vị của cà phê Laura.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn uống thử vì có vẻ ngon và tốt."
+    },
+    {
+      "step": "Đề xuất kết hợp",
+      "desc": "Gợi ý ăn thịt kho kèm chanh và muối ớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích với gợi ý này."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "đã",
+    "béo béo",
+    "ngọt ngọt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Thịt kho thành hủy diệt virus",
+    "Cà phê này thì có thành phần từ nấm linh chi và đông trùng hạ thảo rất tốt cho sức khỏe.",
+    "Màu tím rất là thủy chung"
+  ],
+  "hook_content": "Review cả thế giới thịt kho thành hủy diệt virus.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món thịt kho 'thành hủy diệt' và giới thiệu cà phê Laura để giải ngán, gợi ý ăn kèm chanh và muối ớt.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

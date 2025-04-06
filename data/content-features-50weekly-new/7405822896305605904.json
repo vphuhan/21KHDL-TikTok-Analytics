@@ -1,0 +1,95 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Gọi món",
+      "desc": "Người nói gọi hai loại phở và nhấn mạnh các thành phần.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Giới thiệu quán phở",
+      "desc": "Giới thiệu quán phở lâu đời, có tiếng và đạt giải thưởng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Chia sẻ về cơm nguội",
+      "desc": "Giải thích về việc ăn phở với cơm nguội thời bao cấp.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Miêu tả phở sốt vang",
+      "desc": "Miêu tả chi tiết bát phở sốt vang gầu giòn hấp dẫn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Trải nghiệm ăn phở",
+      "desc": "Miêu tả cảm giác khi ăn trứng trần, quẩy, sốt vang, gầu bò.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Ăn kèm cơm nguội",
+      "desc": "Kết thúc bằng việc ăn phở kèm cơm nguội theo phong cách Hà Nội.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Tạm biệt và giới thiệu",
+      "desc": "Tạm biệt chủ quán và giới thiệu quán phở cho mọi người.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Chúc quán nhà mình luôn đông khách và trở thành một sân chơi giới trẻ thủ đô nhá.",
+    "Giới thiệu toàn thể anh em bà con nhá đây là phở nhớ một quán phở cực kỳ ngon luôn."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "sảng khoái",
+    "ngậy",
+    "nhẹ nhàng",
+    "tràn trề",
+    "mềm",
+    "giòn",
+    "tanh tách",
+    "mịn màng",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Gầu thì giòn tanh tách nhảy như tôm.",
+    "Sốt vang bò được hầm kỹ ăn nó mịn màng luôn.",
+    "Đúng là cái kiểu đi ăn của Hà Nội đây rồi."
+  ],
+  "hook_content": "Chị ơi! Nhà mình có gầu giòn không chị? Có em ạ. Chị có sốt vang chưa? Có sốt vang rồi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán phở Nhớ ở Hà Nội, nổi tiếng với món phở sốt vang gầu giòn và cách ăn kèm cơm nguội độc đáo. Người nói miêu tả chi tiết hương vị món ăn và chia sẻ trải nghiệm ẩm thực thú vị.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

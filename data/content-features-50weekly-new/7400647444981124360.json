@@ -1,0 +1,92 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán Thái mới mở, chuẩn vị, do người Thái nấu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán ăn mới và người nấu."
+    },
+    {
+      "step": "Địa điểm và không gian",
+      "desc": "Thông tin địa chỉ quán, không gian thiết kế giống quán ở Thái.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với không gian quán đậm chất Thái."
+    },
+    {
+      "step": "Món ăn đặc sắc",
+      "desc": "Giới thiệu lẩu Mama Tomyum, gỏi xăm tầm, miến xào tôm.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng các món ăn hấp dẫn."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Nhận xét hương vị, độ tươi ngon của từng món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy tin tưởng vào chất lượng món ăn."
+    },
+    {
+      "step": "Món ăn no bụng và tráng miệng",
+      "desc": "Giới thiệu cơm xào lá hương nhu, xôi xoài.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với sự đa dạng của thực đơn."
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Đảm bảo đồ ăn ngon, giá cả hợp lý, nên thử lẩu Mama.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn đến quán để trải nghiệm."
+    },
+    {
+      "step": "Thông tin địa chỉ",
+      "desc": "Nhắc lại địa chỉ quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhớ địa chỉ để ghé thăm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nhớ là tới quán phải ăn lẩu Mama Thái nha, ngon lắm luôn á."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "chuẩn vị",
+    "đỉnh của chóp",
+    "thơm",
+    "đậm đà",
+    "cuốn",
+    "tươi"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Như thế nào là chuẩn vị Thái? Thì phải là người Thái nấu chứ sao nữa.",
+    "Đồ ăn thì siêu ngon giá cả cũng hợp lý nữa.",
+    "Đặc biệt quán này có món mì Mama của Thái, đỉnh của chóp mà mọi người nhớ ăn thử đó nha."
+  ],
+  "hook_content": "Quán này mới mở. Mẹ chị chỉ cho chị biết.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu quán ăn Thái mới mở ở Tân Phú với các món ăn đặc trưng do người Thái nấu, đặc biệt là lẩu Mama Tomyum. Người quay đánh giá cao hương vị và không gian quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

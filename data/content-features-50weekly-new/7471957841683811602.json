@@ -1,0 +1,64 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ăn tôm chiên bách hoa và hát vu vơ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú vì sự vui vẻ, thoải mái."
+    },
+    {
+      "step": "Tự đánh giá",
+      "desc": "Tự nhận xét bản thân nghiêm túc và bối rối trước người yêu.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thú vị và đồng cảm."
+    },
+    {
+      "step": "Thể hiện tình cảm",
+      "desc": "Gửi tặng bài hát cho người yêu và khoảnh khắc vui vẻ.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm động và ngưỡng mộ tình cảm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "vui",
+    "thích",
+    "yêu thương",
+    "ngon",
+    "mượt",
+    "vân vương",
+    "cười"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Bình thường anh ăn ngon rất mượt, sao hôm nay lại sớ như thế?",
+    "Vì khi anh đang đứng trước mặt người yêu thương về vân vương.",
+    "Anh vẫn sai vẫn quên vẫn vấp phát như thường."
+  ],
+  "hook_content": "Trong một ai như anh biết gió thu nhạt em thích.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh một chàng trai hát tặng người yêu khi ăn món tôm chiên bách hoa. Anh chàng tự nhận mình bối rối khi đứng trước người yêu và gửi tặng bài hát.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

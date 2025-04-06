@@ -1,0 +1,47 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Liệt kê các món ăn và giá tiền tương ứng một cách nhanh chóng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn"
+    },
+    {
+      "step": "Tổng kết",
+      "desc": "Thông báo tổng thiệt hại của bữa ăn là 955.000 đồng.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên về giá tiền"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [],
+  "has_cta": "false",
+  "highlight_phrases": [],
+  "hook_content": "955.000 ăn được gì?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Liệt kê"
+  ],
+  "summarization": "Video mukbang giới thiệu các món ăn tại một nhà hàng mì Nhật Bản và tổng chi phí là 955.000 đồng.",
+  "tone_of_voice": [
+    "Trung lập"
+  ]
+}

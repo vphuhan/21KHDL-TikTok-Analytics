@@ -1,0 +1,69 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu bánh kích thước lớn và so sánh với các loại khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với kích thước lớn của bánh."
+    },
+    {
+      "step": "Miêu tả hình thức",
+      "desc": "Miêu tả hình thức bánh to như mền và so sánh với bao gạo.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên về kích thước của bánh."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá vị dưa leo, độ giòn và cảm giác mát lạnh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị dưa leo của bánh."
+    },
+    {
+      "step": "Gợi ý sử dụng",
+      "desc": "Gợi ý ăn cùng bạn bè và cách bảo quản khi không ăn hết.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy hữu ích với gợi ý bảo quản."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm thơm",
+    "mát mát",
+    "lạnh lạnh",
+    "đã"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Bịch bánh gì mà nó bự chà bá luôn các con ơi",
+    "Trời ơi nó bự bằng tấm bao gạo 25 ký luôn á.",
+    "Mẹ đã bự rồi mà nó bự hơn mẹ luôn con ơi."
+  ],
+  "hook_content": "Mẹ ơi! Bánh quá trời luôn con ơi nè.",
+  "hook_type": [
+    "Gây tò mò",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu và review một loại bánh snack vị dưa leo có kích thước lớn, được so sánh với bao gạo 25kg. Người mẹ thử ăn và mô tả hương vị dưa leo thơm mát, đồng thời đưa ra gợi ý bảo quản.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

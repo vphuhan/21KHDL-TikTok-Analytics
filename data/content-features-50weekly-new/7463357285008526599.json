@@ -1,0 +1,65 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu set quà",
+      "desc": "Giới thiệu set quà Tết Vinfast và đối tượng được tặng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về nội dung bên trong."
+    },
+    {
+      "step": "Mở bao lì xì",
+      "desc": "Mở bao lì xì có chữ ký và tiền bên trong.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với số tiền may mắn."
+    },
+    {
+      "step": "Mở hộp quà",
+      "desc": "Mở hộp quà gỗ có khắc hình và chai rượu.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với sự sang trọng."
+    },
+    {
+      "step": "Tổng kết",
+      "desc": "Tóm tắt nội dung set quà Tết Vinfast.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thông tin đầy đủ."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "đẹp",
+    "hay",
+    "sang"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đỉnh cao là cái bao lì xì là nược niêm phong bốn góc như vậy luôn nha mọi người ơi, là rất là khó mở luôn.",
+    "Số tiền trong phong bao lì xì này là 888.000 đồng.",
+    "Cả các hình trên cái hộp gỗ này là đều được khắc lên hết á mọi người ơi, nên mình sờ lên nó có cái vân vân vân luôn, hay nha mấy bà ơi."
+  ],
+  "hook_content": "Review set quà Tết của bác Phạm Nhật Vượng.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review set quà Tết của Phạm Nhật Vượng dành cho khách hàng mua xe Vinfast, bao gồm bao lì xì có chữ ký, tiền và chai rượu vang đựng trong hộp gỗ sang trọng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

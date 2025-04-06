@@ -1,0 +1,59 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu mục đích",
+      "desc": "Giới thiệu mục đích mua sắm tại cửa hàng tiện lợi với 1 triệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về những món đồ sẽ được mua."
+    },
+    {
+      "step": "Liệt kê sản phẩm",
+      "desc": "Liệt kê các sản phẩm đã mua cùng giá tiền chi tiết.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với các món đồ được lựa chọn."
+    },
+    {
+      "step": "Tính tổng tiền",
+      "desc": "Tính tổng số tiền đã chi và so sánh với ngân sách ban đầu.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thông tin được cung cấp đầy đủ."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "hết tiền",
+    "lỗ"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "1 triệu mua được gì?",
+    "Tổng thiệt hại 1.087.000, lỗ 87.000"
+  ],
+  "hook_content": "1 triệu mua được gì?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Liệt kê"
+  ],
+  "summarization": "Video liệt kê các món ăn vặt mua được tại cửa hàng tiện lợi với ngân sách 1 triệu đồng, sau khi mua hết 1.087.000 và bị lỗ 87.000.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

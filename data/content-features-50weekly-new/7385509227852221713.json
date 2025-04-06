@@ -1,0 +1,87 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món kim chi nước tự làm và bạch tuộc xào",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị món ăn"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Hướng dẫn sơ chế và ngâm nguyên liệu làm kim chi",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, cần thông tin chi tiết hơn"
+    },
+    {
+      "step": "Chia sẻ về cuộc sống",
+      "desc": "Chia sẻ về công việc của người thân và cuộc sống",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm với hoàn cảnh"
+    },
+    {
+      "step": "Nấu ăn và chuẩn bị",
+      "desc": "Rửa nguyên liệu và chuẩn bị cho công đoạn tiếp theo",
+      "impact_level": "1",
+      "viewer_emotion": "Mong chờ công đoạn chính"
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu và quảng cáo sản phẩm thiên sâm núi",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về công dụng"
+    },
+    {
+      "step": "Ăn uống",
+      "desc": "Mời mọi người ăn cơm và thưởng thức món ăn",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Chế biến kim chi",
+      "desc": "Hướng dẫn xay và trộn nguyên liệu làm kim chi",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy công phu và hấp dẫn"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Còn thiên xâm núi chính phủ hồi nãy bạn nào quan tâm á thì có thể nhắn qua Phủ Bò An cung xạ hương giùm mình nha."
+  ],
+  "cta_type": [
+    "Truy cập trang cá nhân"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngon lắm á"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Gặp mùa hè nóng nực nữa, có cái thùng kim chi này thì còn gì bằng.",
+    "Nói đơn giản vậy thôi đó, nhưng mà mình làm xong bỏ tủ lạnh ăn vừa mát vừa ngon."
+  ],
+  "hook_content": "Đây mình có làm cái thùng kim chi nước này nè, để coi ăn nó có ngon không nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm kim chi nước và bạch tuộc xào, đồng thời chia sẻ về cuộc sống thường ngày và giới thiệu sản phẩm thiên sâm núi. Người làm video thực hiện các công đoạn nấu ăn một cách tỉ mỉ và chân thật.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

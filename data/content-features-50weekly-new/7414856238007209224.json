@@ -1,0 +1,85 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu mẹ không thích nấu ăn nhưng từng nấu 100 suất ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên về sự thay đổi của mẹ."
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Nấu bún bò khi nhà tụ họp và giới thiệu sữa trái cây.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy món bún bò hấp dẫn, thèm ăn."
+    },
+    {
+      "step": "Chia sẻ thói quen ăn uống",
+      "desc": "Kể về thói quen ăn uống thất thường và tủ lạnh trống.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường, không đặc biệt."
+    },
+    {
+      "step": "Phát hiện sữa",
+      "desc": "Tìm thấy sữa Nutribus và nhớ lại kỷ niệm về nó.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với sự thay đổi bao bì."
+    },
+    {
+      "step": "Uống và cảm nhận",
+      "desc": "Uống sữa và cảm nhận hương vị, tỉnh táo hơn.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn uống thử sữa."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Nhận ra sự yêu thích sữa và dự định mua trữ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thích thú với sự thay đổi."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "hấp dẫn",
+    "mát lạnh",
+    "sảng khoái",
+    "thơm",
+    "béo",
+    "chua chua",
+    "ngọt ngọt",
+    "tỉnh liền"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Kiểu này đúng là nghề chọn người chứ người không có chọn nghề được.",
+    "Bảo đảm chỉ có nhà nào có búp măng non mới hiểu được cái cảnh này thôi.",
+    "Đang cái thứ đang đơ đơ đói đói mà uống vô cái loại sữa kết hợp với nước trái cây vậy nè. Nghe nó thơm mà cái vị béo chua chua ngọt ngọt nữa, uống vô một phát là tỉnh liền luôn á."
+  ],
+  "hook_content": "Có một sự thật là mẹ mình không thích nấu ăn. Vậy mà nha, có một khoảng thời gian suốt mấy năm trời mẹ mình nướng bếp chính để nấu ra gần 100 suất ăn mỗi ngày đó.",
+  "hook_type": [
+    "Kể chuyện",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện"
+  ],
+  "summarization": "Video kể về việc mẹ không thích nấu ăn nhưng lại nấu bún bò rất ngon cho cả nhà, đồng thời giới thiệu loại sữa trái cây yêu thích giúp tỉnh táo sau khi đói.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

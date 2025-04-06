@@ -1,0 +1,84 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món trứng gà ta hồng đào tan chảy, gợi nhớ kỷ niệm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn và cách thực hiện."
+    },
+    {
+      "step": "Chia sẻ lý do",
+      "desc": "Không biết làm món gì ngon và nhanh nên chọn luộc trứng.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm với sự lựa chọn đơn giản."
+    },
+    {
+      "step": "Hướng dẫn luộc trứng",
+      "desc": "Nhấn mạnh sự quan trọng của việc canh thời gian luộc trứng.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích với lời khuyên này."
+    },
+    {
+      "step": "Miêu tả hương vị",
+      "desc": "Trứng tan chảy béo ngậy, ngon nhất khi ăn với muối ớt.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn ăn thử ngay lập tức."
+    },
+    {
+      "step": "Thực hiện lột trứng",
+      "desc": "Trình diễn lột trứng tan chảy, kích thích vị giác.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với độ tan chảy của trứng."
+    },
+    {
+      "step": "Thưởng thức trứng",
+      "desc": "Ăn một cách ngon lành và mời mọi người cùng ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy muốn tham gia vào bữa ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn trứng với tôi nghe."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "béo",
+    "cay",
+    "tê tái tâm hồn",
+    "đã"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "luộc kiểu này trứng của mình tan chảy húp một cái là béo tới óc o luôn",
+    "ăn cùng với muối ớt đâm cay xương xương mà tê tái tâm hồn",
+    "lột được nguyên cái trứng ăn gọn ơ, ngon mà béo ghê luôn á trời"
+  ],
+  "hook_content": "Hello mọi người, lại là tôi Mặc bận tí nấu ăn đây.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ cách luộc trứng gà ta hồng đào tan chảy đơn giản, ăn kèm muối ớt cay. Người làm video miêu tả hương vị béo ngậy, ngon miệng và mời mọi người cùng thưởng thức.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về ngày kỷ niệm và món ăn ốc nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp"
+    },
+    {
+      "step": "Chuẩn bị ốc",
+      "desc": "Chia sẻ về số lượng ốc và quá trình rửa ốc.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Sơ chế ốc",
+      "desc": "Ướp ốc với sả để nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Trộn sốt",
+      "desc": "Trộn ốc đã chín với sốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Nướng ốc",
+      "desc": "Nướng ốc trên bếp than.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Mời mọi người cùng ăn ốc nướng.",
+      "impact_level": "3",
+      "viewer_emotion": "Háo hức"
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Nhận xét về hương vị món ăn",
+      "impact_level": "3",
+      "viewer_emotion": "Tò mò"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "bây giờ mọi người ăn chung với hai chồng mình nha"
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "ngon",
+    "vui",
+    "lãng mạn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "cự lộn mà cho đến khi nào ba Tùng Hân khóc thì mình mới nín nha",
+    "thấy mẹ Sơ hơn trong cái khó mà ló cái khôn ra chưa?",
+    "Bữa nay thấy ba Tùng Hân về trễ là mình nghi nghi rồi mà không biết dạo này bị gì mà lãng mạn lắm mọi người nha."
+  ],
+  "hook_content": "Bữa nay là ngày kỷ niệm ngày cưới của bọn mình á, chút xíu nữa là bị cấm lạnh với ba Tùng Hân à.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video kỷ niệm ngày cưới bằng món ốc nướng, chia sẻ về quá trình chuẩn bị, chế biến món ăn, đồng thời thể hiện tình cảm gia đình.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món cháo hột vịt lộn & sò huyết phù hợp thời tiết.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê và sơ chế các nguyên liệu cần thiết để nấu cháo.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, nắm bắt thông tin."
+    },
+    {
+      "step": "Chia sẻ bí quyết",
+      "desc": "Giải thích lý do luộc hột vịt lộn trước khi nấu lẩu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị với mẹo nhỏ."
+    },
+    {
+      "step": "Nấu cháo",
+      "desc": "Thực hiện các bước nấu cháo và chia sẻ cách nêm nếm.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú với quá trình nấu."
+    },
+    {
+      "step": "Tâm sự cá nhân",
+      "desc": "Chia sẻ về thời tiết và thói quen nấu ăn nhiều.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy gần gũi."
+    },
+    {
+      "step": "Thưởng thức và quảng cáo",
+      "desc": "Múc cháo ra tô và giới thiệu sản phẩm muối tiêu.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn nếm thử món ăn."
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Đánh giá món ăn và mời mọi người cùng thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cả nhà muốn mua thì liên hệ bên Thích Muối nha.",
+    "Xin mời mọi người nha."
+  ],
+  "cta_type": [
+    "Ăn cùng",
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm cay",
+    "ngọt",
+    "ấm cúng",
+    "hấp dẫn",
+    "đã",
+    "thèm thuồng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Thời tiết nó ẩm ương làm cho mình á cũng làm biếng ngang luôn đó cả nhà.",
+    "Nấu nhiều là để quay lên cho nó hấp dẫn thôi, chứ nấu ít quá không đã, với lại có ai giống tôi không, nhiều khi bị đói con mắt, làm cái gì cũng sợ thiếu nên làm ê hề vậy đó.",
+    "Còn nồi cháo này bữa nay á muốn chê cũng khó lắm, tại nó ngon quá đó cả nhà ơi."
+  ],
+  "hook_content": "Cuối năm mà trời mưa gió quá, thời tiết này nấu một nồi cháo hột vịt lộn xào huyết ăn thì ngon bất bại luôn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn nấu món cháo hột vịt lộn & sò huyết phù hợp cho thời tiết mưa gió, chia sẻ bí quyết và mời mọi người cùng thưởng thức. Đồng thời, video cũng giới thiệu sản phẩm muối tiêu của Thích Muối.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

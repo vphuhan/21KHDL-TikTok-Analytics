@@ -1,0 +1,89 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu lý do mua đồ ăn và món tôm đại dương.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Mua sắm",
+      "desc": "Chọn mua kẹo và tôm đại dương tại siêu thị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Chuẩn bị",
+      "desc": "Sắp xếp bánh kẹo và chuẩn bị hấp tôm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu dịch vụ",
+      "desc": "Giới thiệu dịch vụ vận chuyển Kiến Express.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Ăn và đánh giá tôm đại dương.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người có ai vận chuyển gì thì qua Kiến Express nha, bao tận tình luôn."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Chia sẻ"
+  ],
+  "emotion_keywords": [
+    "chua",
+    "hay hay",
+    "ngọt hịt",
+    "béo",
+    "khoái",
+    "ngon",
+    "to hú hồn",
+    "béo giả man",
+    "chắc thịt",
+    "mềm",
+    "ngọt",
+    "cuốn",
+    "tận tình"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn tôm to mà ngon vậy thì làm sao mà thiếu được cái chén muối tiêu có bốn cái trái ớt.",
+    "Cái con này thì gạch trên lưng của nó đầy cứng người luôn, gạch màu cam đàng hoàng luôn nha chứ này mà không phải gạch thì là cái gì nữa.",
+    "Còn cái thịt tôm này thì cắn một phát lên tới cái núu răng."
+  ],
+  "hook_content": "do chuẩn bị về nước nên hôm nay mình sẽ mua một số bánh kẹo để gửi về nhà.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video ghi lại cảnh người bán chuẩn bị về nước nên mua bánh kẹo và tôm đại dương để gửi về. Anh review món tôm to và giới thiệu dịch vụ vận chuyển Kiến Express.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

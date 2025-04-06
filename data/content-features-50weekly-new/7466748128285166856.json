@@ -1,0 +1,96 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người ăn chay, ăn healthy"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món nấm bào ngư xào cay và cách làm ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Sơ chế nấm",
+      "desc": "Rửa sạch, hấp nấm bào ngư trong 15 phút.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Xé sợi và ép nấm",
+      "desc": "Xé nấm thành sợi nhỏ và ép ráo nước.",
+      "impact_level": "1",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "Chiên nấm",
+      "desc": "Chiên nấm bào ngư đến khi vàng xém cạnh.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức"
+    },
+    {
+      "step": "Xào gia vị",
+      "desc": "Phi tỏi, ớt, hoa tiêu rồi cho nấm vào xào.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Nêm nếm",
+      "desc": "Nêm gia vị, thêm thì là, mè trắng, hành lá, rau mùi.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Hoàn thành món nấm bào ngư xào cay thơm ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn ăn ngay"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Các bà nhớ thả tim và lưu lại nha",
+    "Học được rồi thì các bà hãy thả tim và lưu lại làm thử nhé. Cuối cùng đừng quên cho tôi một tim và một theo dõi nha"
+  ],
+  "cta_type": [
+    "Thích video",
+    "Lưu video",
+    "Thử làm theo công thức",
+    "Follow kênh"
+  ],
+  "emotion_keywords": [
+    "thơm ngon",
+    "ngấm vị",
+    "bổ dưỡng",
+    "ngọt",
+    "đậm đà",
+    "dai"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "cho nấm bào ngư lên nồi hấp, hấp xong ra, liền có thể khiến người lớn và trẻ nhỏ, đều tranh nhau ăn.",
+    "Nấm bào ngư vừa hấp xong, sẽ ngon hơn trần qua nước sôi, chất xơ và dinh dưỡng của nó đều không dễ bị mất đi.",
+    "Nếu các bà biết cách làm thì thật sự còn ngon hơn cả thịt."
+  ],
+  "hook_content": "Mọi người không ngờ được, cho nấm bào ngư lên nồi hấp, hấp xong ra, liền có thể khiến người lớn và trẻ nhỏ, đều tranh nhau ăn.",
+  "hook_type": [
+    "Gây tò mò",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm món nấm bào ngư xào cay ngon và bổ dưỡng, với các bước chi tiết từ sơ chế đến xào nấu, nhấn mạnh hương vị thơm ngon đậm đà hơn cả thịt.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

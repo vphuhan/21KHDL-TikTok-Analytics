@@ -1,0 +1,81 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu bản thân và món bún mắm sắp ăn",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Khoe móng",
+      "desc": "Khoe bộ móng mới sơn nhưng không quá ấn tượng",
+      "impact_level": "1",
+      "viewer_emotion": "Không liên quan"
+    },
+    {
+      "step": "Ăn bún mắm",
+      "desc": "Chia sẻ trải nghiệm lần đầu ăn bún mắm ở miền Nam",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Đánh giá giá cả",
+      "desc": "Nhận xét về giá bún mắm cao hơn kỳ vọng",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm"
+    },
+    {
+      "step": "Giới thiệu đồ uống",
+      "desc": "Giới thiệu nước sữa chua uống kèm",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Cảm nhận",
+      "desc": "Nhấn mạnh độ ngon và no của món ăn",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Chào tạm biệt",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Tôi vào trong miền Nam cũng khá là lâu rồi, chưa ăn bún mắm bao giờ",
+    "Ngon quá, căm muốn nhịn mà mỡ sẽ bỏ thôi",
+    "Riêng việc ăn rau với cả topping thôi là cũng đủ no rồi"
+  ],
+  "hook_content": "Cốc cốc cốc, ngày hôm nay tôi ăn bún mắm, nhưng mà trước tiên tôi khoe móng mới.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại trải nghiệm lần đầu ăn bún mắm của một người ở miền Nam, kèm theo đánh giá về giá cả và hương vị. Người này cũng khoe móng mới và giới thiệu đồ uống kèm theo.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

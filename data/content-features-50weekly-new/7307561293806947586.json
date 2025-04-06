@@ -1,0 +1,96 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Phát hiện món mực xào cà sốt thịt và thèm ăn mực",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Ăn thử món mực xào",
+      "desc": "Ăn hai chén cơm với mực xào nhưng vẫn chưa đã thèm",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Ăn món khác",
+      "desc": "Chuyển sang ăn vặt cay, xào răng mực với bắp",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Giới thiệu sản phẩm mới",
+      "desc": "Em mua mực bento và bánh que cay về ăn cùng",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Review mực bento",
+      "desc": "Giới thiệu các vị, cách ăn và cảm nhận về sản phẩm",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng khởi"
+    },
+    {
+      "step": "Review bánh que cay",
+      "desc": "Giới thiệu các vị, độ cay và cảm nhận về sản phẩm",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Tổng kết",
+      "desc": "Nhấn mạnh sự hợp lý khi mua sản phẩm dịp Tết",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "dễ sợ",
+    "thèm",
+    "cay cay",
+    "đậm đà",
+    "thơm ghê",
+    "hấp dẫn",
+    "ngon",
+    "giòn",
+    "cuốn",
+    "giòn rụm",
+    "ngọt ngọt",
+    "đã",
+    "hợp lý",
+    "bắt mắt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ủa mà khoan nghe nói cái mực bento này mà nhúng vô ly nước có ga này là hơi bị ngon á.",
+    "Tết mà muốn đổi khẩu vị qua sản phẩm thái thì phải mua vài túi này về cho cả nhà ăn.",
+    "Quan trọng là nó ngon thiệt nha, còn có nhiêu đây nữa thôi."
+  ],
+  "hook_content": "Mới bước chân xuống bếp mà nghe cái mùi thơm dễ sợ.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review các món ăn vặt, đặc biệt là mực Bento và bánh que cay Thái Lan, phù hợp để nhâm nhi hoặc biếu tặng dịp Tết. Người nói chia sẻ trải nghiệm ăn thử và đánh giá hương vị của từng loại.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

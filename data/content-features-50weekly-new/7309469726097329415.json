@@ -1,0 +1,93 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu mở đầu",
+      "desc": "Giới thiệu về trải nghiệm Omakase đắt đỏ và sự chuẩn bị kỹ lưỡng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về trải nghiệm sang trọng."
+    },
+    {
+      "step": "Khai vị và các tầng vị",
+      "desc": "Trình bày các món khai vị đa dạng, từ tươi mát đến béo ngậy.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng của món ăn."
+    },
+    {
+      "step": "Món lạnh đặc biệt",
+      "desc": "Giới thiệu các món lạnh sử dụng nguyên liệu cao cấp theo mùa.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với nguyên liệu tươi ngon."
+    },
+    {
+      "step": "Món nóng làm ấm bụng",
+      "desc": "Trình bày món trứng hấp gan ngỗng để cân bằng khẩu vị.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy món này không quá đặc sắc."
+    },
+    {
+      "step": "Tẩy vị và món chính",
+      "desc": "Kem chanh tẩy vị, sau đó giới thiệu cá ngừ vây xanh.",
+      "impact_level": "3",
+      "viewer_emotion": "Mong chờ món chính hấp dẫn."
+    },
+    {
+      "step": "Các món biểu tượng",
+      "desc": "Uni và cơm rang cua tuyết là các món ăn không thể thiếu.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng các món cao cấp."
+    },
+    {
+      "step": "Món kết thúc",
+      "desc": "Bò Wagyu A4 và các món tráng miệng độc đáo.",
+      "impact_level": "3",
+      "viewer_emotion": "Hài lòng và thích thú với sự sáng tạo."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Và đó là trải nghiệm của mình, còn mọi người thì thấy sao?"
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "ấn tượng",
+    "tươi",
+    "ngọt",
+    "béo",
+    "ngậy",
+    "thơm",
+    "ngon",
+    "thích thú"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đây là một bữa ăn Omakase phải bỏ ra 13 triệu cho hai người để được thưởng thức những món ăn với những nguyên liệu đắt đỏ ít thấy, với cách chế biến gây ấn tượng có sự cầu kỳ phức tạp nữa.",
+    "Tuy là mình không thích cái việc tổ yến bị chiên giòn nhưng mà tổng thể thì vẫn ok, rất là nhiều cấu trúc cho một miếng cắn.",
+    "Hóa ra cảm giác ăn trong bụi vàng là như thế này đây."
+  ],
+  "hook_content": "Đây là một bữa ăn Omakase phải bỏ ra 13 triệu cho hai người để được thưởng thức những món ăn với những nguyên liệu đắt đỏ ít thấy, với cách chế biến gây ấn tượng có sự cầu kỳ phức tạp nữa.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review trải nghiệm Omakase tại Zuzu Omakase, một nhà hàng nổi tiếng từ Thái Lan, với set ăn 6.5 triệu/người. Người xem được khám phá các món ăn độc đáo, nguyên liệu cao cấp và cách chế biến cầu kỳ, từ khai vị đến tráng miệng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Vivi giới thiệu món ăn hôm nay là trứng gà lộn chấm mắm Thái",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Ăn và cảm nhận",
+      "desc": "Vivi ăn và thể hiện sự ngon miệng với món trứng gà lộn",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Vivi đánh giá món ăn rất ngon và khuyên mọi người nên thử",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "các bạn nên thử nha"
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "siêu ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Rất là ngon luôn mọi người.",
+    "Siêu ngon!",
+    "Ngon lắm luôn, các bạn nên thử nha."
+  ],
+  "hook_content": "Hello mọi người, hôm nay Vivi sẽ ăn gà lộn chấm mắm Thái.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh Vivi ăn trứng gà lộn chấm mắm Thái, thể hiện sự ngon miệng và khuyến khích mọi người cùng thử.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

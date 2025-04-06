@@ -1,0 +1,63 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Đề cập đến Lộc Ánh Thu và sự nổi tiếng của cô.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về nhân vật được nhắc đến."
+    },
+    {
+      "step": "Chia sẻ lý do",
+      "desc": "Vì Hà Nội sắp hết lạnh nên tranh thủ ăn tokbokki.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không quá đặc biệt."
+    },
+    {
+      "step": "Ăn thử",
+      "desc": "Ăn và thể hiện cảm xúc khi ăn tokbokki.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy món ăn có vẻ hấp dẫn."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Nếu mà các bạn chưa xem kênh của bạn này thì thử vào xem đi nhá."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo",
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "nóng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Miền Nam có Lê Tuấn Khang thì miền Bắc có Lộc Ánh Thu nha.",
+    "Xây dựng hình ảnh nhân vật chính mắt mát như mùa thu Hà Nội. Nhưng mà lại vô cùng cute đáng yêu.",
+    "nói là Hà Nội sắp hết không khí lạnh rồi, cho nên là phải làm một chảo topoki để ăn tranh thủ tranh thủ."
+  ],
+  "hook_content": "lạnh quá.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review về món tokbokki do người nói tự làm để ăn tranh thủ những ngày cuối lạnh ở Hà Nội. Người nói cũng giới thiệu một TikToker khác tên Lộc Ánh Thu.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

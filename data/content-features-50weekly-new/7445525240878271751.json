@@ -1,0 +1,86 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu bánh tráng Diva Cát Thy và giá cả các loại.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm."
+    },
+    {
+      "step": "Review phá lấu",
+      "desc": "Thử và đánh giá món phá lấu, tập trung vào hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng, muốn thử."
+    },
+    {
+      "step": "Review bánh tráng trộn",
+      "desc": "Trộn và đánh giá bánh tráng trộn, nhận xét về topping.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú với cách trộn."
+    },
+    {
+      "step": "Review chân gà",
+      "desc": "Thưởng thức và đánh giá món chân gà, đặc biệt là nước chấm.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng, muốn ăn ngay."
+    },
+    {
+      "step": "Tổng kết và cảm ơn",
+      "desc": "Đánh giá chung, chúc Diva Cát Thy buôn may bán đắt.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy vui vẻ."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nếu như trong tất cả những clip này thì mọi người đừng tin khẩu vị của mình nha.",
+    "Và mọi người hãy tự tới tự cảm nhận nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Chia sẻ"
+  ],
+  "emotion_keywords": [
+    "béo",
+    "đậm đà",
+    "vừa phải",
+    "sạch sẽ",
+    "thơm",
+    "ngon mắt",
+    "thơm quá",
+    "thèm",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái vị béo của nước cốt dừa rất là đậm đà.",
+    "Mọi thứ nó vô đây á, mọi người sẽ cảm giác là một cái sự rất là thơm trong miệng của mọi người. Và rất là dễ chịu luôn.",
+    "Cái chân gà giòn điên. Ngon quá vậy."
+  ],
+  "hook_content": "Trên mạng bánh tráng Diva Cát Thy! Ngoài đời bánh tráng Diva Cát Thy nha mọi người ơi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review bánh tráng của Diva Cát Thy, bao gồm phá lấu, bánh tráng trộn và chân gà, tập trung vào hương vị và cảm nhận cá nhân. Người review đánh giá cao sự thơm ngon và đậm đà của các món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

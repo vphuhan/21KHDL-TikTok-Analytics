@@ -1,0 +1,71 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ghẹ sốt me được gia đình yêu thích, đặc biệt mẹ chồng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn được cả gia đình yêu thích."
+    },
+    {
+      "step": "Chia sẻ lý do nấu lại",
+      "desc": "Nhắc lại video cũ bị flop và chia sẻ mong muốn video này thành công.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm với người nấu và mong video thành công."
+    },
+    {
+      "step": "Sơ chế ghẹ",
+      "desc": "Hướng dẫn sơ chế ghẹ bằng cách hấp và cắt bỏ phần mang.",
+      "impact_level": "2",
+      "viewer_emotion": "Chú ý các bước sơ chế để đảm bảo món ăn ngon."
+    },
+    {
+      "step": "Công thức sốt",
+      "desc": "Chia sẻ công thức pha sốt và khuyến khích chia sẻ công thức khác.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú và mong muốn thử công thức sốt."
+    },
+    {
+      "step": "Mời ăn tối",
+      "desc": "Mời mọi người cùng ăn tối với gia đình.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy gần gũi và ấm cúng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thích"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mẹ chồng mình thích đến cái mức mà bảo mình nấu cho nhà hàng xóm để tặng luôn ý.",
+    "Công thức pha sốt ngon hút lỗ của mình.",
+    "Hoặc là còn công thức nào ngon hơn thì chỉ cho mình nhá, đừng có mà giấu nha."
+  ],
+  "hook_content": "Đây là cái món mà gia đình mình order mình nhiều nhất luôn mọi người ạ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ cách nấu món ghẹ sốt me được gia đình yêu thích, đặc biệt là mẹ chồng, đồng thời khuyến khích người xem chia sẻ công thức riêng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

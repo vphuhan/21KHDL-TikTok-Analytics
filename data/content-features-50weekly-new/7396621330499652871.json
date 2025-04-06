@@ -1,0 +1,90 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu chuyến đi",
+      "desc": "Nhỏ em rủ đi ăn sáng ở Vũng Tàu, mất 2 tiếng rưỡi.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Phát hiện quán ăn",
+      "desc": "Tình cờ thấy quán ruột có vị trí sát biển.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Giới thiệu buffet hải sản",
+      "desc": "Quán có buffet hải sản nướng lẩu giá 229k/người.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Trải nghiệm món ăn",
+      "desc": "Review các món ăn như sò điệp, tôm nướng, nậm heo, hàu.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Buffet hải sản tươi sống giá rẻ, rất đông khách.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Ăn món chính",
+      "desc": "Ăn cua, ghẹ luộc và lẩu thái.",
+      "impact_level": "3",
+      "viewer_emotion": "Háo hức"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Chi nhánh mới gần biển, rộng rãi, mát mẻ.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn đến thử"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon lành",
+    "ngọt",
+    "dai",
+    "chắc",
+    "mãi đỉnh",
+    "dai thơm mọng nước",
+    "đã con mắt",
+    "chất lượng",
+    "ngon rẻ"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đi sớm đồ ăn tràn ngập vậy mới khoái nè.",
+    "Sốt phô mai của buffet TT này là mãi đỉnh nha.",
+    "Ăn buffet hải sản tươi sống mà có hai trăm mấy ca si một người hỏi sao lúc nào cũng đông."
+  ],
+  "hook_content": "Đây là câu chuyện nhỏ em rủ đi ăn sáng gần lắm, cụ thể là 2 tiếng rưỡi.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quán buffet hải sản ở Vũng Tàu với nhiều món ăn tươi ngon như tôm, cua, ghẹ, hàu, sò điệp. Quán có không gian rộng rãi, thoáng mát và giá cả phải chăng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

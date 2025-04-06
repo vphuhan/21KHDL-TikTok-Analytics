@@ -1,0 +1,72 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Đặt câu hỏi về việc đóng cửa hàng loạt của các quán ăn",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Đánh giá Diva Kathy",
+      "desc": "Nhận xét về đồ ăn, giá cả và sự thay đổi hình thức kinh doanh",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình"
+    },
+    {
+      "step": "Đánh giá Tyti",
+      "desc": "Nhận xét về gỏi Thái, chất lượng món ăn và thông báo đóng cửa",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Đánh giá Verdes Vũ Thu Phương",
+      "desc": "Nhận xét về cá viên chiên và thông báo đóng cửa",
+      "impact_level": "2",
+      "viewer_emotion": "Tiếc nuối"
+    },
+    {
+      "step": "Tổng kết",
+      "desc": "Mong muốn quán Tyti không đóng cửa sau Tết",
+      "impact_level": "2",
+      "viewer_emotion": "Mong đợi"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thông cảm",
+    "hợp khẩu vị",
+    "tiếc"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Vì sao bộ tứ ẩm thực đình đám dần kéo nhau đóng cửa hàng loạt?",
+    "Sài Gòn mà thiếu những cái quán của những anh chị này chắc cũng buồn lắm nhở.",
+    "Ta nói đến những cái quán như thế này á hả là Big C vui vẻ vui vẻ toàn là anh chị em trong cộng đồng không à vui lắm."
+  ],
+  "hook_content": "Vì sao bộ tứ ẩm thực đình đám dần kéo nhau đóng cửa hàng loạt? Có thật sự là do suy thoái kinh tế khó khăn hay là do chất lượng đồ ăn đang đi xuống và không còn hút khách như xưa?",
+  "hook_type": [
+    "Gây tò mò",
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video đánh giá lý do đóng cửa của các quán ăn nổi tiếng ở Sài Gòn như Diva Kathy, Tyti, Verdes Vũ Thu Phương và đưa ra cảm nhận cá nhân về chất lượng món ăn, giá cả và không gian của từng quán.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

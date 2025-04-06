@@ -1,0 +1,98 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món nem chua và công thức gia truyền của gia đình.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Chia sẻ công thức",
+      "desc": "Quyết định chia sẻ công thức nem chua vì mẹ đã nghỉ bán.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Nhấn mạnh độ ngon",
+      "desc": "Nhấn mạnh nem giòn tan và dễ làm theo công thức.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Kỷ niệm",
+      "desc": "Nhớ lại kỷ niệm thèm nem chua khi ở nước ngoài.",
+      "impact_level": "1",
+      "viewer_emotion": "Đồng cảm"
+    },
+    {
+      "step": "Khen ngợi",
+      "desc": "Nhà chồng khen ngon và hướng dẫn tạo hình nem.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ"
+    },
+    {
+      "step": "Mời ăn tối",
+      "desc": "Mời mọi người ăn tối và giới thiệu viên sủi hỗ trợ dáng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Kêu gọi làm đẹp",
+      "desc": "Kêu gọi làm đẹp để diện đồ xinh vào dịp Tết.",
+      "impact_level": "2",
+      "viewer_emotion": "Có động lực"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "mấy ní, mẹ tui mở bán lại là tui ẩn vid",
+    "mọi người nhớ lưu cái công thức này lại nhá"
+  ],
+  "cta_type": [
+    "Lưu video",
+    "Chia sẻ công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "giòn tan",
+    "thèm dã man",
+    "khen tấm tắc",
+    "quá là hợp"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "đây là cái công thức làm nem chua ngon bất bại của nhà mình",
+    "cứ chặt chặt vào một chút khi nào tổ tiên vào rừng thì dừng nha",
+    "Ngày trước ở Việt Nam nhà có bán nên là chẳng thấy thèm lắm mà sang đây trời ơi nó thèm dã man"
+  ],
+  "hook_content": "Ừm, đây là cái công thức làm nem chua ngon bất bại của nhà mình, ngày trước mẹ mình dùng để kinh doanh ấy.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ công thức làm nem chua gia truyền ngon bất bại, kèm theo trải nghiệm cá nhân và bí quyết làm đẹp đón Tết. Người làm video khuyến khích mọi người lưu lại công thức và tranh thủ làm đẹp để có dáng xinh diện Tết.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

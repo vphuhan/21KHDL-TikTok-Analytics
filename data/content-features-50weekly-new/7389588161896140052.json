@@ -1,0 +1,77 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu các loại ớt chưng và gia vị trộn cơm Trung Quốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các sản phẩm mới."
+    },
+    {
+      "step": "Mô tả sản phẩm",
+      "desc": "Miêu tả chi tiết về hình dáng, màu sắc, và thành phần của từng lọ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng."
+    },
+    {
+      "step": "Nếm thử sản phẩm",
+      "desc": "Nếm thử và mô tả hương vị của ớt chưng và sa tế.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú muốn thử."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "So sánh và đánh giá hương vị của hai loại sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng ý với đánh giá."
+    },
+    {
+      "step": "Thông tin mua hàng",
+      "desc": "Thông báo về link mua hàng cho những ai quan tâm.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết thêm thông tin hữu ích."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nếu mà mọi người chưa mua thì mình có thể để link bên dưới nhá."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "mặn",
+    "cay",
+    "đậm đà"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đây có thể là cái lần đầu tiên mà mình được ăn cơm với cả ớt.",
+    "Ớt kia nó chỉ có mặn thôi, cái sa tế này vị nó có một cái gì đó nó khá là đậm đà."
+  ],
+  "hook_content": "Đây có thể là cái lần đầu tiên mà mình được ăn cơm với cả ớt.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review các loại ớt chưng và gia vị ăn cơm của Trung Quốc, tập trung vào trải nghiệm ăn thử và đánh giá hương vị của từng loại.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán và mục đích",
+      "desc": "Giới thiệu quán trà sữa nhiều content và mục đích review.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán và review."
+    },
+    {
+      "step": "Đánh giá trà sữa khoai môn",
+      "desc": "Uống và đánh giá trà sữa khoai môn taro miêu mochi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị và muốn thử."
+    },
+    {
+      "step": "Đánh giá các loại đồ uống khác",
+      "desc": "Tiếp tục thử và đánh giá các loại đồ uống khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị."
+    },
+    {
+      "step": "So sánh và đánh giá chung",
+      "desc": "So sánh, đánh giá chung về các loại đồ uống đã thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Nhận ra đồ uống yêu thích."
+    },
+    {
+      "step": "Nhấn mạnh việc không QC",
+      "desc": "Nhấn mạnh việc kênh không nhận QC để đảm bảo tính khách quan.",
+      "impact_level": "1",
+      "viewer_emotion": "Tin tưởng hơn vào review."
+    },
+    {
+      "step": "Đánh giá trà dưa hấu",
+      "desc": "Thử và đánh giá trà dưa hấu trân châu giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy tò mò và thích thú."
+    },
+    {
+      "step": "Đề xuất đồ uống",
+      "desc": "Đề xuất đồ uống nên thử và tạm biệt người xem.",
+      "impact_level": "2",
+      "viewer_emotion": "Biết thêm lựa chọn."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người đã coi clip của mình.",
+    "Bye bye và hẹn gặp lại."
+  ],
+  "cta_type": [
+    "Chia sẻ công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "lạ miệng",
+    "béo",
+    "ngọt",
+    "đắng ngét",
+    "chát",
+    "ngọt",
+    "thanh",
+    "dở",
+    "thơm",
+    "chữa lành",
+    "ổn định",
+    "dễ thương"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Một cái kênh mà không nhận QC thì nó chỉ thế này thôi.",
+    "Thấy chưa, thấy chưa? Đó nó dẻo như vậy nè.",
+    "Cái trà bên đây nó đậm. Ê, cái vị bên đây giống trà túi thơm á."
+  ],
+  "hook_content": "một cái kênh mà không nhận QC thì nó chỉ thế này thôi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review nhiều loại đồ uống tại một quán trà sữa, tập trung vào hương vị và trải nghiệm cá nhân, đồng thời nhấn mạnh tính khách quan do không nhận quảng cáo.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu các nguyên liệu, gia vị để ăn mì.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các loại gia vị."
+    },
+    {
+      "step": "Thử mì",
+      "desc": "Nếm thử mì với các loại gia vị khác nhau.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú khi xem phản ứng."
+    },
+    {
+      "step": "So sánh",
+      "desc": "So sánh độ cay và hương vị của hai loại sốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự khác biệt."
+    },
+    {
+      "step": "Nhận xét",
+      "desc": "Đánh giá độ ngon và cay của món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử món ăn."
+    },
+    {
+      "step": "Bóc mẽ",
+      "desc": "Phát hiện ra các nguyên liệu đều là của người kia.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ và buồn cười."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "cay",
+    "thơm",
+    "thích cay",
+    "cay bừng vị giác"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Sao toàn mì thế này. Nhưng mà mì nhập, mì đắt mới mì ngon đấy anh ạ.",
+    "Trời đất ơi, tự nhiên cái tôi tỉnh lại liền luôn.",
+    "Quá bu đắc xam gian. Cay bừng vị giác."
+  ],
+  "hook_content": "mời các bạn nhá. Uống lắm.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video ghi lại cảnh hai người cùng nhau ăn mì cay với nhiều loại gia vị và nước chấm khác nhau. Họ cùng nhau thử và so sánh độ cay, hương vị của từng loại, đồng thời trêu chọc nhau về việc ai là người góp công nhiều hơn.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

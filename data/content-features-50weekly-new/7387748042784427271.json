@@ -1,0 +1,83 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món cơm chiên cây điệp và sự tò mò về nó.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Đánh giá phần ăn",
+      "desc": "Nhận xét về các thành phần trong hộp cơm chiên thập cẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "So sánh hai phần",
+      "desc": "So sánh số lượng và thành phần giữa hai phần cơm thập cẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên"
+    },
+    {
+      "step": "Nếm thử và đánh giá",
+      "desc": "Ăn thử cơm và các thành phần, đưa ra đánh giá chi tiết.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "Nhận xét tổng quan",
+      "desc": "Đánh giá chung về phần ăn, giá cả và trải nghiệm mua.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Tôi tò mò, bạn cũng thế."
+  ],
+  "cta_type": [
+    "So sánh"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "ngon",
+    "hơi khô",
+    "hụt hẫng",
+    "ok"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bạn bè mà mua hai phần cơm bên này về có khéo là xích mích tình cảm anh em luôn.",
+    "Cơm chiên thơm mùi tỏi nhưng mà hơi khô.",
+    "Tôi thì tôi không có cái tiêu chuẩn kép đâu, kiểu như là tiền ít mà đòi nhiều, nhiếc này nọ hoặc là ngon nghiếc thế nào, mình thì không kiểu đấy."
+  ],
+  "hook_content": "ăn thử cơm chiên cái điểm đi anh.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review quán cơm chiên cây điệp, đánh giá về chất lượng, số lượng và giá cả của phần cơm thập cẩm. Người review chia sẻ trải nghiệm thực tế và so sánh với những review khác trên mạng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Trung lập"
+  ]
+}

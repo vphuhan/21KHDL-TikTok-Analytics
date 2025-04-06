@@ -1,0 +1,100 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bản thân và trang phục",
+      "desc": "Chia sẻ về lỗi mặc vest và chọn cà vạt phù hợp.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với chia sẻ cá nhân."
+    },
+    {
+      "step": "Chia sẻ về quy tắc mặc vest",
+      "desc": "Bàn về việc cài nút áo vest và sự thay đổi nhận thức.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thông tin hữu ích."
+    },
+    {
+      "step": "Cơn đói và giải pháp",
+      "desc": "Kể về việc đói bụng và tìm thấy đồ ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy gần gũi và đồng cảm."
+    },
+    {
+      "step": "Đi chợ mua sắm",
+      "desc": "Quyết định đi chợ và mô tả sự đông đúc.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    },
+    {
+      "step": "Chọn mua hồng và dâu tây",
+      "desc": "Giới thiệu về hồng khô, dâu tây và giá cả.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thèm thuồng và quan tâm."
+    },
+    {
+      "step": "Thử dâu tây với sữa",
+      "desc": "Đánh giá hương vị dâu tây khi ăn cùng sữa.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy tò mò muốn thử."
+    },
+    {
+      "step": "Đánh giá hồng khô",
+      "desc": "Miêu tả hương vị và cảm nhận về hồng khô.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy rất hấp dẫn."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "phân vân",
+    "đói",
+    "thoải mái",
+    "khoái",
+    "giảm",
+    "đỏ",
+    "chín đều",
+    "ngọt",
+    "ngon",
+    "dẻo",
+    "ngon khủng khiếp",
+    "đã"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ngồi từ sáng tới chiều ở trên trường ta nói đói muốn le lưỡi.",
+    "Hồng khô mà xé ra nhìn bên trong giống như là khoai lang vậy đó. Nó dẻo mà nó ngọt ăn ngon khủng khiếp.",
+    "Cắn cái nào cái đó là ngập lên tới cái nú răng luôn, mà dâu này là dâu ngọt chứ nó không có chua nghe."
+  ],
+  "hook_content": "Đây là một trong những lần mà mình đã mặc vest sai cách, cái lần đầu tiên tốt nghiệp ở trường Tiến thì đâu có biết đâu.",
+  "hook_type": [
+    "Kể chuyện",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video chia sẻ về trải nghiệm mua sắm và thưởng thức dâu tây, hồng khô tại Nhật Bản, kèm theo những chia sẻ hài hước về việc mặc vest. Người nói đánh giá cao hương vị của cả hai loại quả và đưa ra những so sánh thú vị.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

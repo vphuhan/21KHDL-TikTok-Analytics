@@ -1,0 +1,66 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu thử thách",
+      "desc": "Giới thiệu về thử thách mặc cả ở chợ nhà xanh theo yêu cầu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về kết quả của thử thách."
+    },
+    {
+      "step": "Mặc cả quần áo",
+      "desc": "Thực hiện mặc cả khi mua quần áo nhưng không thành công.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường vì không có gì đặc biệt."
+    },
+    {
+      "step": "Mặc cả dép",
+      "desc": "Mặc cả khi mua dép nhưng bị từ chối bớt giá.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hơi hài hước vì sự thẳng thắn của người bán."
+    },
+    {
+      "step": "Mặc cả ô",
+      "desc": "Thực hiện mặc cả khi mua ô và thành công.",
+      "impact_level": "3",
+      "viewer_emotion": "Vui vẻ vì cuối cùng cũng mặc cả được."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "hồi hộp"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Thử mặc cả chợ nhà xanh xem có bị ăn không anh?",
+    "Chợ nhà xanh thì mình biết rồi, nhưng mà ăn thì chưa bao giờ mình nghe thấy cả.",
+    "Ối 50.000đ rồi còn mặc cả nữa."
+  ],
+  "hook_content": "Giảm em 30 được không anh? À, ôi 50.000đ rồi còn mặc cả nữa. Nhưng mà bớt em tí đi.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kịch hóa"
+  ],
+  "summarization": "Video ghi lại thử thách mặc cả ở chợ nhà xanh của một bạn trẻ. Bạn ấy đã thử mặc cả mua quần áo, dép và ô, cuối cùng thành công với chiếc ô.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Liệt kê các món ăn sẽ thưởng thức trong video hôm nay.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thưởng thức dưa hấu",
+      "desc": "Ăn và nhận xét về dưa hấu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Thưởng thức bún riêu",
+      "desc": "Nêm nếm gia vị và ăn bún riêu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Ăn khoai tây chiên",
+      "desc": "Thưởng thức khoai tây chiên với sốt.",
+      "impact_level": "3",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Uống trà sữa",
+      "desc": "Uống trà sữa để giải khát.",
+      "impact_level": "2",
+      "viewer_emotion": "Sảng khoái"
+    },
+    {
+      "step": "Ăn cá viên chiên",
+      "desc": "Thưởng thức cá viên chiên với sốt.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "ngọt",
+    "thích"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Trời khoai tây chiên ăn ngon ghê luôn á",
+    "Ngon quá"
+  ],
+  "hook_content": "Đây đây, ăn dưa hấu, bún, khoai tây chiên, trà sữa, cá viên chiên đây.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình người nói ăn năm món khác nhau gồm dưa hấu, bún riêu, khoai tây chiên, trà sữa và cá viên chiên, đồng thời đưa ra các nhận xét về hương vị.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

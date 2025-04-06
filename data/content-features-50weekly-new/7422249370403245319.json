@@ -1,0 +1,81 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu kẹo mạch nha mua trên TopTop, gợi nhớ tuổi thơ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm được mua trên TopTop."
+    },
+    {
+      "step": "Mô tả hình thức",
+      "desc": "Mô tả hũ kẹo lớn hơn tưởng tượng, có kèm que.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, nắm bắt thông tin về sản phẩm."
+    },
+    {
+      "step": "Trải nghiệm",
+      "desc": "Trải nghiệm quấn kẹo, so sánh với thổi bong bóng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với trải nghiệm quấn kẹo."
+    },
+    {
+      "step": "Thử nghiệm",
+      "desc": "Thử cho kẹo vào đá lạnh nhưng không cứng lại.",
+      "impact_level": "1",
+      "viewer_emotion": "Không chắc chắn về kết quả thử nghiệm."
+    },
+    {
+      "step": "Đánh giá vị",
+      "desc": "Đánh giá vị bạc hà, không quá ngọt, dẻo dai.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy muốn thử vì được khen ngon."
+    },
+    {
+      "step": "Nhận xét chung",
+      "desc": "Nhận xét ăn vui miệng nhưng nhanh chảy.",
+      "impact_level": "1",
+      "viewer_emotion": "Lưu ý về nhược điểm của sản phẩm."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngọt",
+    "ngon",
+    "vui",
+    "buồn miệng",
+    "ok la"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ê cái này là đúng chất tuổi thơ luôn á, quấn quấn quấn quấn lại rất là đã luôn nha.",
+    "Ê nhưng mà kiểu nó dẻo dẻo nha mọi người vị bạc hà nha ăn ngon nha không quá ngọt nhưng mà kiểu là kẹo thì nó phải ngọt rồi mà nó không bị ngọt gắt mấy bà ơi.",
+    "Ăn cái này cũng vui nó buồn miệng ngồi nhâm nhâm nhâm nhâm nhi cái này được nha ok la nha"
+  ],
+  "hook_content": "Kẹo mạch nha mua trên TopTop.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review kẹo mạch nha mua trên TopTop, gợi nhớ tuổi thơ với trải nghiệm quấn kẹo và vị bạc hà the mát, tuy nhiên sản phẩm nhanh chảy.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

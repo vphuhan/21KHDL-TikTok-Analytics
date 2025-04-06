@@ -1,0 +1,77 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu bằng thắc mắc",
+      "desc": "Người bán hàng giới thiệu món tacos pháp và giải thích sự khác biệt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Tìm hiểu nguồn gốc",
+      "desc": "Người bán hàng giải thích nguồn gốc của bánh burrito và tacos pháp.",
+      "impact_level": "1",
+      "viewer_emotion": "Ngạc nhiên về sự khác biệt văn hóa."
+    },
+    {
+      "step": "Miêu tả chi tiết",
+      "desc": "Miêu tả hình dáng, thành phần và giá cả của bánh tacos pháp.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng, muốn thử."
+    },
+    {
+      "step": "Đánh giá trải nghiệm",
+      "desc": "Đánh giá chất lượng món ăn và gợi ý các món khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá."
+    },
+    {
+      "step": "Giới thiệu địa điểm",
+      "desc": "Giới thiệu không gian quán ăn và cảm nhận.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với không gian."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "hấp dẫn",
+    "chất lượng",
+    "tuyệt",
+    "hết sảy"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Tacos ngon nhứt Hà Nội (trong lòng tui)",
+    "thế giới đúng là kỳ lạ thật đấy, hai cái loại bánh nó cứ na ná nhau thế, thế nhưng mà nó lại bắt nguồn từ hai nơi hoàn toàn khác nhau",
+    "có tầng hai view nhìn xuống phố phường ngồi ăn bánh thì tuyệt quá hết sảy con bà bảy"
+  ],
+  "hook_content": "- em hỏi sao em gọi bánh Taco mà chị lại mang bánh burrito lên thế này? Ơ không em đây là bánh tacos pháp em ạ.",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu và đánh giá món tacos pháp tại một quán ăn ở Hà Nội, tập trung vào hương vị, chất lượng và không gian quán. Người bán hàng chia sẻ trải nghiệm cá nhân và so sánh tacos pháp với burrito.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

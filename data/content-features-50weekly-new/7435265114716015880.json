@@ -1,0 +1,78 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Tự hỏi tại sao bây giờ mới làm món này, bày tỏ sự tiếc nuối.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Chia sẻ bí quyết",
+      "desc": "Hướng dẫn cách nặn thịt dễ dàng, nhấn mạnh việc ướp thịt.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích"
+    },
+    {
+      "step": "Thực hiện",
+      "desc": "Mô tả quá trình nặn thịt, rán và cách xử lý lỗi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị"
+    },
+    {
+      "step": "Hoàn thiện",
+      "desc": "Hướng dẫn đảo cà chua, nêm nếm gia vị theo khẩu vị.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Nhấn mạnh món ăn ngon, trẻ con thích, hương vị hài hòa.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử làm"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z",
+    "Nhanh gọn",
+    "Sáng tạo"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "uổng",
+    "dễ",
+    "bùi bùi",
+    "thích"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Tại sao cái món nó ngon thế này mà bây giờ tôi mới làm nhở?",
+    "Muốn xấu thì khó chứ muốn đẹp thì lại quá là đơn giản luôn.",
+    "Cuộc sống mà giật dẹo quá thì táng hẳn ba thìa đường vào."
+  ],
+  "hook_content": "Tại sao cái món nó ngon thế này mà bây giờ tôi mới làm nhở? Trời ơi uổng quá uổng các bác ạ.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm món thịt bọc trứng sốt cà chua, chia sẻ bí quyết để nặn thịt dễ dàng và cách nêm nếm gia vị. Món ăn này được đánh giá là ngon và rất được trẻ con yêu thích.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

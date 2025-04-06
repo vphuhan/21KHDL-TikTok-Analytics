@@ -1,0 +1,91 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu làm ba món hến để chiêu đãi gia đình.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn từ hến."
+    },
+    {
+      "step": "Mua nguyên liệu",
+      "desc": "Lần đầu mua hến biển ở Hàn Quốc, mua tận 3kg.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự mới lạ."
+    },
+    {
+      "step": "Sơ chế hến",
+      "desc": "Luộc hến và chia làm ba phần để chế biến.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, chờ đợi các bước tiếp theo."
+    },
+    {
+      "step": "Làm bánh xèo hến",
+      "desc": "Chế biến bánh xèo Hàn Quốc với hến thay vì bánh xèo Việt Nam.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị bánh xèo Hàn Quốc."
+    },
+    {
+      "step": "Trộn hến",
+      "desc": "Trộn hến với dưa leo và sốt chua ngọt.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi món trộn chua ngọt."
+    },
+    {
+      "step": "Chiên bánh xèo",
+      "desc": "Ba chiên bánh xèo, mẹ bày món hến trộn ra đĩa.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với không khí gia đình."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Cả nhà ăn tối với ba món hến.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấm áp, muốn tham gia bữa ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mời mọi người ăn cơm chung với cả nhà của mình nha"
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thích",
+    "vui vẻ",
+    "háo hức"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nghe đâu hến này là hến biển chứ không phải là hến sông nha mọi người.",
+    "Công nhận nha, bữa nay mình pha thêm ít bột gạo nữa nó giòn nó ngon hơn.",
+    "Trời ơi, cái này trộn cơm ăn là cũng nhức nách lắm luôn á."
+  ],
+  "hook_content": "Mình sẽ trổ tài cho ba tụi Hân thử hến ba món luôn nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình nấu ba món ăn từ hến của một người phụ nữ Việt Nam đang sinh sống ở Hàn Quốc để chiêu đãi gia đình. Các món ăn bao gồm bánh xèo Hàn Quốc với hến, hến trộn chua ngọt và canh hến.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món kem xôi và bày tỏ sự nghi ngờ về hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự kết hợp kỳ lạ."
+    },
+    {
+      "step": "Đánh giá ban đầu",
+      "desc": "Nhận xét về giá cả và hồi tưởng kỷ niệm về món kem ốc quế.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường, hơi tiếc nuối."
+    },
+    {
+      "step": "Nếm thử",
+      "desc": "Thưởng thức món kem xôi và mô tả hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú và ngạc nhiên vì ngon."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Nhấn mạnh hương vị đặc biệt và sự kết hợp hoàn hảo của món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và muốn thử."
+    },
+    {
+      "step": "Cảnh báo",
+      "desc": "Khuyến khích thử nhưng không chịu trách nhiệm nếu đau bụng.",
+      "impact_level": "1",
+      "viewer_emotion": "Hơi lo lắng nhưng vẫn muốn thử."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "dẻo",
+    "bùi",
+    "thơm",
+    "ngọt",
+    "mát",
+    "tuyệt phẩm",
+    "ngậy"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ăn nó kiểu nhấp, nó dẻo dẻo, bùi bùi trong mồm xong tự nhiên có vị ngọt của kem vào ấy, xong nó mát, tuyệt phẩm.",
+    "Như kiểu gọi là xôi dâu luôn đấy.",
+    "Ngon nha. Anh em có thể thử giống mình còn đau bụng hay không thì tôi không biết."
+  ],
+  "hook_content": "Kem xôi đây anh. Kem xôi. Ôi giời.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món kem xôi lạ mắt, người nói ban đầu nghi ngờ về sự kết hợp giữa xôi nóng và kem lạnh, nhưng sau khi ăn thử đã bất ngờ vì hương vị ngon và độc đáo. Cuối video khuyến khích người xem tự trải nghiệm.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

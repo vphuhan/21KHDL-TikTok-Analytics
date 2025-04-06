@@ -1,0 +1,88 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu vấn đề",
+      "desc": "Nêu lên thực trạng giỏ quà Tết kém chất lượng, giá cao.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về giải pháp."
+    },
+    {
+      "step": "Đề xuất giải pháp",
+      "desc": "Quyết định tự làm giỏ quà Tết để đảm bảo chất lượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với ý tưởng tự làm."
+    },
+    {
+      "step": "Địa điểm mua sắm",
+      "desc": "Gợi ý các địa điểm mua đồ trang trí, bánh kẹo chất lượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Ghi nhớ thông tin hữu ích."
+    },
+    {
+      "step": "Lựa chọn sản phẩm",
+      "desc": "Chọn các món đồ cùng tông màu để giỏ quà đẹp mắt.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với sự tỉ mỉ."
+    },
+    {
+      "step": "Vận chuyển",
+      "desc": "Sử dụng GrabBike để vận chuyển đồ tiện lợi mùa Tết.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy được sự tiện lợi."
+    },
+    {
+      "step": "Trang trí giỏ quà",
+      "desc": "Hướng dẫn cách sắp xếp bố cục giỏ quà đẹp mắt.",
+      "impact_level": "3",
+      "viewer_emotion": "Mong muốn làm theo."
+    },
+    {
+      "step": "Tổng kết và đánh giá",
+      "desc": "Giỏ quà chất lượng, giá cả hợp lý, khuyến khích tự làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "chất lượng",
+    "tiện",
+    "thảnh thơi",
+    "đẹp",
+    "siêu nặng",
+    "rảnh"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Giỏ ở ngoài một đằng nhưng mà ruột bên trong một nẻo, toàn bánh ký không.",
+    "Chọn các món đồ cùng màu với nhau.",
+    "To cho vào trước nhỏ cho vào sau và to ở dưới nhỏ ở trên thì dù mọi người có vụng về đến mấy giỏ quà cũng sẽ đẹp."
+  ],
+  "hook_content": "cởi giờ tranh cãi mấy cái giỏ quà Tết 3500. Giỏ ở ngoài một đằng nhưng mà ruột bên trong một nẻo, toàn bánh ký không.",
+  "hook_type": [
+    "Gây tranh cãi",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ kinh nghiệm tự làm giỏ quà Tết chất lượng, tránh mua phải hàng kém chất lượng. Người làm video hướng dẫn cách chọn đồ, sắp xếp giỏ quà và gợi ý địa điểm mua sắm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

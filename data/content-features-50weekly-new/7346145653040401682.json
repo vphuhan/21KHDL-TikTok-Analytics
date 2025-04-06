@@ -1,0 +1,87 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu bằng lời đề nghị",
+      "desc": "Khách hàng hỏi mua một xô trà sữa lớn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với ý tưởng xô trà sữa."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Nhân viên giới thiệu các loại xô trà sữa và giá.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các loại trà sữa xô."
+    },
+    {
+      "step": "Đánh giá topping",
+      "desc": "Khách hàng thử và nhận xét về trân châu khổng lồ.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử các loại topping."
+    },
+    {
+      "step": "Nhận xét chung",
+      "desc": "Đánh giá về độ ngọt, vị sữa và các loại topping khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Có thêm thông tin để lựa chọn."
+    },
+    {
+      "step": "Đề cập đến không gian",
+      "desc": "Nhấn mạnh không gian quán nhỏ, chủ yếu bán mang đi.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết thêm về đặc điểm của quán."
+    },
+    {
+      "step": "Kết luận và giới thiệu",
+      "desc": "Giới thiệu tên quán và khuyến khích mọi người thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Cân nhắc ghé thăm quán."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Và đây là Funny Monkey, mọi người tham khảo thử xem sao."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "mát",
+    "ngậy",
+    "béo",
+    "mềm",
+    "mát"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Chắc uống cả ngày cũng không hết.",
+    "Mình thích thạch ngọc rồng đen hình dã man. Nó là kiểu thạch sương sáo mìm mìm, núm nính mát mát.",
+    "Mình mang xô này về nhà mà mấy đứa nhỏ mê tít."
+  ],
+  "hook_content": "Anh ơi, cho em đẩy một xô trà sữa này với ạ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu quán Funny Monkey với món trà sữa xô độc đáo, kèm các loại topping hấp dẫn. Người xem được cung cấp thông tin về giá cả, hương vị và không gian quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

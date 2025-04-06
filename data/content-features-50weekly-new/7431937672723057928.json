@@ -1,0 +1,77 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Gọi thêm đồ ăn và giới thiệu quán bánh mì",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Kể chuyện",
+      "desc": "Chia sẻ trải nghiệm tìm đến quán bánh mì Quang Béo",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Nhận xét về thịt nướng, bánh mì và các thành phần",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Hỏi giờ bán",
+      "desc": "Hỏi chủ quán về thời gian mở và đóng cửa",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Tổng kết và khuyến khích mọi người đến trải nghiệm",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Tổng kết lại thì cũng rất là okla, mọi người có thể đến trải nghiệm và dùng thử nhé."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "sướng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Thịt nướng ở đây thì nó sẽ không bị cháy hay là bị khét. Ăn nó mềm và không bị khô nha.",
+    "Bánh mì giòn vỏ mềm nhân được quét thêm cái sốt ướp thịt nó tăng cái độ đậm đà.",
+    "Thêm hương thơm của rau mùi và cái sự thanh thanh của dưa chuột tôi ăn nó sướng."
+  ],
+  "hook_content": "Chị ơi cho em thêm năm xiên nữa nhá. Chị ơi, cho em thêm hai cái bánh mì, mỗi cái ba xiên nữa nhá. Chị ơi em 10 xiên nữa chị ơi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán bánh mì thịt nướng Quang Béo ở Thiên Lư, với chia sẻ trải nghiệm tìm quán và đánh giá chi tiết về chất lượng thịt nướng, bánh mì và các thành phần đi kèm. Video khuyến khích mọi người đến trải nghiệm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

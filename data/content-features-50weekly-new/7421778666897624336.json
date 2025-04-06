@@ -1,0 +1,87 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Gọi món",
+      "desc": "Người nói gọi hai bát phở tái sốt vang và các món ăn kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món phở được gọi."
+    },
+    {
+      "step": "Cảm nhận ban đầu",
+      "desc": "Miêu tả không gian quán phở và thời tiết buổi sáng Hà Nội.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với khung cảnh."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Nhận xét về độ đầy đặn và màu sắc hấp dẫn của bát phở.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi đói bụng."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Đánh giá hương vị nước dùng, thịt sốt vang và trứng trần.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung lắng nghe."
+    },
+    {
+      "step": "Nhận xét về phục vụ",
+      "desc": "Nhận xét về thái độ phục vụ của cô chủ quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng tốt."
+    },
+    {
+      "step": "Đánh giá tổng quan",
+      "desc": "Đánh giá quán phở là một địa điểm đáng để thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Ghi nhớ địa chỉ."
+    },
+    {
+      "step": "Giới thiệu địa điểm",
+      "desc": "Giới thiệu quán Phở Biên ở Hai Bà Trưng.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về địa điểm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "nếu như mà anh em bà con cũng là fan của phở bò thì nốt lại để tới ăn thử nhá."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "thích",
+    "ngon",
+    "vui tính"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Buổi sáng trời thu Hà Nội đi lên phố chơi thích cực.",
+    "Thời tiết thì lạnh se se, nắng thì chiếu nhẹ nhàng. Cái thời tiết này mà không đi ăn phở bò thì quả là lãng phí luôn.",
+    "Thịt sốt vang thì ăn khá là đậm đà, ghém thêm miếng ớt chấm nước mắm nữa thì chuẩn bài."
+  ],
+  "hook_content": "Không có tái lăn đúng không ạ? Có sốt vang không ạ? Cho cháu hai bát tái sốt vang nhá.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quán phở bò Biên ở Hai Bà Trưng, Hà Nội, tập trung vào trải nghiệm cá nhân, đánh giá hương vị món ăn, không gian quán và thái độ phục vụ.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

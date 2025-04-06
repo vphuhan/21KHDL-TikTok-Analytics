@@ -1,0 +1,77 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Gọi món",
+      "desc": "Khách hàng gọi món phở bò thập cẩm và chia sẻ yêu cầu.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu vị trí, đặc điểm nổi bật và thời gian bán của quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị vì quán mở cả ngày lẫn đêm."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Đánh giá hương vị nước lèo, các thành phần và cách ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị phở dung hòa Bắc Nam."
+    },
+    {
+      "step": "Nhận xét chi tiết",
+      "desc": "Nhận xét về thịt bò, quẩy và các tiện ích của quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú vì có khăn giấy khô tiện lợi."
+    },
+    {
+      "step": "Tổng kết",
+      "desc": "Đánh giá chung về quán và gợi ý đối tượng phù hợp.",
+      "impact_level": "2",
+      "viewer_emotion": "Gợi ý hữu ích cho người xem."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thích",
+    "vui",
+    "ngọt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Tôi sẽ tạm gọi cái quán phở này là phở không ngủ, bởi vì ở đây là bán cả ngày lẫn đêm.",
+    "Vị nước lèo phở ở đây thì là nó dung hòa giữa phở Bắc và phở Nam.",
+    "Thêm một điểm rất là vui là bởi vì ở đây có khăn giấy khô. Chứ nói thật ra nhiều lúc lau khăn ướt bất tiện cực kỳ luôn."
+  ],
+  "hook_content": "ơi. Cho anh một tô phở bò thập cẩm với cả một chén huyết hột gà nhá. Tô phở của anh thì nhiều hành nhá.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quán phở Phát, một quán phở mở cả ngày lẫn đêm với hương vị dung hòa giữa phở Bắc và Nam. Người quay đánh giá cao nước lèo đậm đà, thịt bò nạm và sự tiện lợi của khăn giấy khô.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Cô giáo đi mua xiên bẩn cho học sinh lúc 8 giờ tối.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Bối cảnh",
+      "desc": "Cô và trò đang tập luyện cho cuộc thi tài năng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chăm sóc học sinh",
+      "desc": "Cô giáo tẩm bổ cho học sinh vì sợ đói khát.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp"
+    },
+    {
+      "step": "Động lực",
+      "desc": "Được vào Sài Gòn miễn phí nếu vào chung kết.",
+      "impact_level": "3",
+      "viewer_emotion": "Háo hức"
+    },
+    {
+      "step": "Thực tế",
+      "desc": "Học sinh ăn vụn xiên bẩn vì quá thèm thuồng.",
+      "impact_level": "2",
+      "viewer_emotion": "Buồn cười"
+    },
+    {
+      "step": "Lời hứa",
+      "desc": "Cô hứa khao một nồi xiên bẩn nếu vào chung kết.",
+      "impact_level": "3",
+      "viewer_emotion": "Phấn khích"
+    },
+    {
+      "step": "Lời cảnh báo",
+      "desc": "Nếu không vào được Sài Gòn thì đừng mơ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường"
+  ],
+  "cta_content": [
+    "cứ hứa vào được chung kết toàn quốc đi, đi Sài Gòn đi cô tự tay cô khao chúng mày hẳn một nồi xiên bẩn."
+  ],
+  "cta_type": [
+    "Thích video",
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "thích",
+    "háo hức",
+    "vui",
+    "thèm thuồng",
+    "tiếc"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Lúc tập thì phải tập hết mình, còn lúc ăn là phải ăn hết hồn.",
+    "Ăn cho no ăn cho phát ngấy thì thôi là sau không dám ăn xiên bẩn nữa."
+  ],
+  "hook_content": "Chắc là trần đời có một, chỉ có cô giáo này. Mới giữa 8:00 tối rồi vẫn còn đang đứng xếp hàng để mua xiên bẩn cho học sinh ăn đây.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện"
+  ],
+  "summarization": "Video ghi lại cảnh cô giáo mua xiên bẩn cho học sinh ăn khuya vì đang luyện tập cho cuộc thi tài năng. Cô hứa sẽ khao một nồi xiên bẩn nếu cả đội vào được chung kết toàn quốc ở Sài Gòn.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

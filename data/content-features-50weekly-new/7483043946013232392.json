@@ -1,0 +1,94 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu mở đầu",
+      "desc": "Giới thiệu chủ đề của video: các món ăn dưới 25k ở Sài Gòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về những địa điểm được giới thiệu."
+    },
+    {
+      "step": "Bò bía 2k ở quận 11",
+      "desc": "Giới thiệu quán bò bía rẻ nhất với giá chỉ 2k một cuốn.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên vì giá quá rẻ."
+    },
+    {
+      "step": "Hotdog Nguyễn Thần Hiến",
+      "desc": "Review quán hotdog ở quận 4, giá rẻ và nhân đầy đặn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đầy đặn và hương vị của hotdog."
+    },
+    {
+      "step": "Bánh tráng cuốn mỡ hành",
+      "desc": "Giới thiệu món bánh tráng cuốn mỡ hành trong hẻm nhỏ.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với sự hấp dẫn của món ăn vặt này."
+    },
+    {
+      "step": "Bánh bò thốt nốt chợ Phạm Thế Hiển",
+      "desc": "Review xe bánh bò thốt nốt nổi tiếng ở quận 8.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử bánh bò thốt nốt với nhiều loại nhân."
+    },
+    {
+      "step": "Ổi luộc chân cầu Kênh Tẻ",
+      "desc": "Giới thiệu xe ổi luộc độc đáo của chị Nhi.",
+      "impact_level": "3",
+      "viewer_emotion": "Tò mò và muốn thử món ổi luộc đặc biệt."
+    },
+    {
+      "step": "Lời kết",
+      "desc": "Hứa hẹn về clip tiếp theo với nhiều quán ăn khác.",
+      "impact_level": "1",
+      "viewer_emotion": "Mong chờ những địa điểm ăn uống tiếp theo."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Còn nhiều quán nữa mọi người đợi tôi lên clip tiếp theo nha."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "rẻ",
+    "nhiều",
+    "thơm",
+    "cuốn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "bò bía 2k nằm ở quận 11",
+    "hot dog không những rẻ mà còn ngon nữa",
+    "Độc quyền vẫn là cái phần ổi luộc của chị tôi chưa tìm được một cái chỗ thứ hai bán cái món này như chị hết"
+  ],
+  "hook_content": "Sài Gòn ăn gì ở đâu dưới 25k? Cùng xem hết clip của tôi nha.",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Liệt kê",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu các quán ăn giá rẻ dưới 25k ở Sài Gòn, bao gồm bò bía 2k, hotdog Nguyễn Thần Hiến, bánh tráng cuốn mỡ hành, bánh bò thốt nốt và ổi luộc.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

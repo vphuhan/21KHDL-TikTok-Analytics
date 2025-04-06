@@ -1,0 +1,70 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giả làm đồ vật",
+      "desc": "Giả vờ làm cái bàn để nghe lén bí mật sản phẩm mới.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hành động kỳ lạ."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Tiết lộ về sản phẩm chân gà mới ra mắt vào mùng 10/10.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị về sản phẩm mới."
+    },
+    {
+      "step": "Yêu cầu giữ bí mật",
+      "desc": "Nhấn mạnh việc giữ bí mật về sản phẩm, đặc biệt với Hải đăng.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hồi hộp, mong chờ."
+    },
+    {
+      "step": "Thể hiện sự tức giận",
+      "desc": "Phản ứng khi phát hiện không được thông báo về sản phẩm mới.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ, cảm thấy có chút hài hước."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Drama",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "bí mật",
+    "bảo mật"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Bây giờ mình sẽ giả vờ làm cái bàn để xem giấu cái gì mình.",
+    "Cái chân gà lần này nha, nhất định là bác phải giữ bí mật, nó không có gtin đâu.",
+    "Bạn là gì tao cũng không biết bạn là gì."
+  ],
+  "hook_content": "thấy bảo là bà Tuyết nhiều bí mật lắm.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Kịch hóa",
+    "Đối thoại"
+  ],
+  "summarization": "Video hé lộ về một sản phẩm chân gà mới của bà Tuyết và yêu cầu giữ bí mật thông tin này. Người nói giả vờ làm cái bàn để nghe lén, sau đó tức giận khi phát hiện ra mình không được thông báo về sản phẩm mới.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Bí ẩn",
+    "Ngạc nhiên",
+    "Khó chịu"
+  ]
+}

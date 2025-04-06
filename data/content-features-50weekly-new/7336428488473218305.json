@@ -1,0 +1,89 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Chia sẻ về bình luận gây sốc và triết lý sống",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò, thích thú với cách nói chuyện"
+    },
+    {
+      "step": "Giới thiệu chuyến đi",
+      "desc": "Giới thiệu về chuyến đi chơi ở Dallas cùng bạn",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có nhiều thông tin"
+    },
+    {
+      "step": "Ghé quán Thái",
+      "desc": "Tình cờ ghé quán Thái vì đói và review nhanh",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi đói bụng theo, tò mò về món ăn"
+    },
+    {
+      "step": "Thử kem",
+      "desc": "Ăn thử kem và miêu tả hương vị đặc biệt",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm kem, tò mò về vị kem lạ"
+    },
+    {
+      "step": "Lựa chọn hoạt động",
+      "desc": "Chọn đi xem tranh vì gần và phù hợp",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Chia sẻ sở thích nghệ thuật và lý do đăng clip Tết",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thông tin hơi thừa"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "sung sướng",
+    "hoàn hảo",
+    "béo",
+    "thơm",
+    "đã",
+    "thích",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Trời ơi ăn vô một miếng nó ngon mà sung sướng cõi lòng luôn đó.",
+    "Vị chua, vị ngọt, vị cay thật sự hoàn hảo, nó khớp tới từng mạch khẩu vị ở trong người mình luôn.",
+    "Đi mua đồ ăn mà được ăn thử trước khi ăn thiệt, nó uy tín như bài toán 0 + 1 = 0 á."
+  ],
+  "hook_content": "có một bình luận mà mình cảm thấy sốc nhất khi đăng tải mấy cái clip đi du lịch Mỹ nè, khiến cho mình cảm thấy bị hoài nghi về nhân sinh luôn á.",
+  "hook_type": [
+    "Phản hồi bình luận",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện"
+  ],
+  "summarization": "Video chia sẻ về trải nghiệm ăn món Thái và đi chơi ở Dallas của một bạn nữ. Bạn ấy đã thử Pad Thái và kem ở một quán gần đó, đồng thời chia sẻ về sở thích đi xem tranh.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

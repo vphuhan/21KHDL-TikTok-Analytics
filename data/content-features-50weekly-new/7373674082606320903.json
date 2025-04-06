@@ -1,0 +1,90 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về trải nghiệm ăn hải sản tươi sống trên tàu ngoài biển.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về trải nghiệm ăn uống độc đáo."
+    },
+    {
+      "step": "Di chuyển ra biển",
+      "desc": "Đi tàu ra chỗ đánh bắt hải sản, mất khoảng 2 tiếng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, chờ đợi điều thú vị."
+    },
+    {
+      "step": "Bắt hải sản",
+      "desc": "Bắt đầu dỡ lồng để bắt hải sản như cá, mực.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú khi thấy hải sản tươi sống."
+    },
+    {
+      "step": "Khám phá tàu",
+      "desc": "Tham quan các lồng khác trên tàu, tìm kiếm mực nang.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò, hồi hộp chờ đợi."
+    },
+    {
+      "step": "Thu hoạch",
+      "desc": "Bắt được mực và các loại hải sản khác.",
+      "impact_level": "3",
+      "viewer_emotion": "Vui mừng, phấn khích khi thấy thành quả."
+    },
+    {
+      "step": "Di chuyển đến khu vực khác",
+      "desc": "Di chuyển đến khu vực khác để tìm thêm hải sản.",
+      "impact_level": "1",
+      "viewer_emotion": "Mong đợi thêm điều bất ngờ."
+    },
+    {
+      "step": "Thưởng thức hải sản",
+      "desc": "Thưởng thức ốc Sasimi và cầu gai tươi sống trên tàu.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng và muốn trải nghiệm thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "hẹn mọi người ở clip tiếp theo nha"
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "háo hức",
+    "sợ",
+    "ghén",
+    "ham",
+    "ngán",
+    "ngọt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "kiểu cảm giác dở cái lồng lên mà thấy được con mực nó đã gì đâu á",
+    "Ta nói vừa mới kéo cái lồng lên thôi là mực nó bắn tung tóe hết trơn.",
+    "Lần đầu tiên mà mình được ăn ốc Sasimi nên nó cũng hơi gán gán xíu, nhưng mà tới khi mình nhai kỹ thì sẽ cảm nhận được cái độ ngọt của nó."
+  ],
+  "hook_content": "Hôm nay thì mình sẽ dắt mọi người ăn hải sản tươi sống tại Tàu ở ngoài biển luôn nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại trải nghiệm bắt và ăn hải sản tươi sống trực tiếp trên tàu ngoài biển. Người làm video đã cùng những người khác thu hoạch nhiều loại hải sản và thưởng thức chúng ngay trên tàu.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món chân sứa sốt thái và mời mọi người cùng ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhấn mạnh độ giòn của chân sứa và vị ngon của nước sốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "giòn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Chân sứa giòn các bạn nhá.",
+    "Chấm với lại cái nước sốt của mình thì ngon lắm luôn."
+  ],
+  "hook_content": "Mời các bạn ăn chân sứa sốt thái nhá.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang ngắn gọn giới thiệu và ăn món chân sứa sốt thái, tập trung vào độ giòn của chân sứa và vị ngon của nước sốt.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

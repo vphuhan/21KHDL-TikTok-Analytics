@@ -1,0 +1,86 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giải thích sự nhầm lẫn giữa xì dầu và nước tương.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Hỏi về sở thích mì trộn gà xé và giới thiệu công thức.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Nguyên liệu",
+      "desc": "Giới thiệu mì tươi và cách lựa chọn gà không xương.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Tóp mỡ",
+      "desc": "Nhấn mạnh vai trò của tóp mỡ và cách làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Sơ chế gà",
+      "desc": "Hướng dẫn cách luộc và xé gà.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu mì",
+      "desc": "Giới thiệu mì tươi công nghệ Nhật Bản.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm"
+    },
+    {
+      "step": "Nước sốt",
+      "desc": "Giới thiệu xì dầu và công thức nước sốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong đợi"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Công thức tôi cũng đã share rồi bây giờ mấy bà nhớ lưu lại thôi nè."
+  ],
+  "cta_type": [
+    "Lưu video",
+    "Chia sẻ công thức"
+  ],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tôi mới biết có nhiều bà ở đây không phân biệt được xì dầu với lại nước tương.",
+    "Hồn của cái món mì trộn này ngoài cái cọng mì ngon ra thì mấy bà phải có tóp mỡ với lại nước sốt ngon ha.",
+    "Trời ơi cái cọng mì này nó dai mà nó bé mà rất là ngon luôn nha và đặc biệt cọng mì này cọng mì tươi không trứng."
+  ],
+  "hook_content": "tôi mới biết có nhiều bà ở đây không phân biệt được xì dầu với lại nước tương.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món mì khô gà xé xốt xì dầu, chia sẻ bí quyết chọn nguyên liệu ngon và công thức nước sốt đặc biệt. Người làm video nhấn mạnh tầm quan trọng của cọng mì và tóp mỡ.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

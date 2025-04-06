@@ -1,0 +1,84 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người đi làm, dân văn phòng",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu thử thách",
+      "desc": "Giới thiệu về thử thách nấu 100 món cơm cho chồng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn tiếp theo."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Vét tủ lạnh tìm nguyên liệu còn sót lại từ Tết.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thấy quen thuộc."
+    },
+    {
+      "step": "Làm trứng cút sốt thịt bằm",
+      "desc": "Hướng dẫn làm món trứng cút sốt thịt bằm đơn giản, nhanh chóng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với mẹo bóc trứng cút."
+    },
+    {
+      "step": "Làm chả lụa kho",
+      "desc": "Hướng dẫn làm món chả lụa kho với ba loại gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn với món ăn quen thuộc được biến tấu."
+    },
+    {
+      "step": "Kết thúc và tự đánh giá",
+      "desc": "Hoàn thành tập 1 và tự chấm điểm cho bản thân.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy vui vẻ, hài hước."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "bổ",
+    "rẻ",
+    "yêu",
+    "ngán",
+    "ngon",
+    "uy tín",
+    "đơn giản",
+    "mặn mặn",
+    "ngọt ngọt",
+    "cay cay",
+    "cuốn",
+    "hao cơm",
+    "xứng đáng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Phải vét tủ lạnh ra coi có cái gì mà còn từ hồi Tết đến giờ là phải nấu ăn trước chứ không là bỏ đi uổng.",
+    "Hãy nói thật đi, trong tủ lạnh nhà bạn vẫn còn chả lụa từ hồi Tết đến giờ đúng không?",
+    "Nếu mà bạn đã quá ngán cái món mà cắt chả ra rồi chấm như bình thường á thì bạn kho thử đi. Nó ngon hơn tỷ tỷ lần luôn á."
+  ],
+  "hook_content": "Thử thách 100 ngày nấu cơm cho chồng mang đi làm mà không có món gì trùng lại món nào cả.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại tập 1 của thử thách 100 ngày nấu cơm cho chồng, với hai món trứng cút sốt thịt bằm và chả lụa kho được thực hiện nhanh chóng, đơn giản từ nguyên liệu còn sót lại trong tủ lạnh.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

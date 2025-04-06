@@ -1,0 +1,95 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán và món ăn",
+      "desc": "Quán lẩu Xí Quách giá rẻ ở Quận 6, chỉ 100k/nồi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về giá cả và chất lượng."
+    },
+    {
+      "step": "Miêu tả chi tiết về lẩu",
+      "desc": "Nồi lẩu đầy đặn với nhiều topping hấp dẫn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn ăn thử."
+    },
+    {
+      "step": "Đánh giá nước lẩu và topping",
+      "desc": "Nước lẩu Thái cay, ngọt, chua, topping đa dạng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng của món ăn."
+    },
+    {
+      "step": "Nhấn mạnh các món nhúng đặc biệt",
+      "desc": "Bò viên ngũ sắc, lòng bò, xí quách bò ngon và đáng thử.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn thử các món nhúng độc đáo."
+    },
+    {
+      "step": "Cảm nhận về sự kết hợp hương vị",
+      "desc": "Bò kết hợp lẩu Thái ngon, loại bỏ mùi hôi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào trải nghiệm ẩm thực."
+    },
+    {
+      "step": "Khuyến khích ghé thăm quán",
+      "desc": "Quán đông khách, giá rẻ, ngon, nên ghé thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn đến quán để trải nghiệm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "nếu ông nào mà chưa biết chỗ này lưu lại liền đi nha, mai chiều mình ra làm nồi lẩu với tui nè.",
+    "Bye bye."
+  ],
+  "cta_type": [
+    "Lưu video",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "cay",
+    "ngọt",
+    "chua",
+    "mê mẩn",
+    "thích",
+    "béo ngậy",
+    "ngon",
+    "hợp",
+    "không ngại ngùng",
+    "vừa rẻ",
+    "vừa ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "thật không ngờ 100.000 mình có được nồi lẩu chất lượng như thế này luôn.",
+    "vị lẩu Thái sim xanh ăn nó cay dữ dằn luôn, nhưng mà ăn rất là xứng đáng mọi người.",
+    "Bò kết hợp với cái vị lẩu Thái sim xanh ăn hợp đến vậy luôn á mọi người."
+  ],
+  "hook_content": "ở Quận Sáu chỉ cần 100.000 là mình có được nồi lẩu Xí quách đầy ú ụ như này.",
+  "hook_type": [
+    "Cho thấy kết quả trước",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quán lẩu Xí Quách ở Quận 6 với giá chỉ 100k/nồi, đầy ú ụ topping. Nổi bật với nước lẩu Thái cay, ngọt, chua và các món nhúng như bò viên ngũ sắc, lòng bò, xí quách bò.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

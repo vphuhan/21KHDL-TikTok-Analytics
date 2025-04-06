@@ -1,0 +1,87 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu giỏ quà",
+      "desc": "Giới thiệu giỏ quà Tết ở siêu thị Emart với giá 499.000.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các sản phẩm bên trong."
+    },
+    {
+      "step": "Đánh giá phô mai",
+      "desc": "Nhận xét về phô mai Con Bò Cười là món ăn bất hủ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với món ăn quen thuộc."
+    },
+    {
+      "step": "Đánh giá nước ép đào",
+      "desc": "Nước ép đào có ga, ngon như kombucha, giá 170.000.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn thử hương vị."
+    },
+    {
+      "step": "Đánh giá ngũ cốc",
+      "desc": "Ngũ cốc đại tài 52.000 như đồ ăn vặt.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường với món này."
+    },
+    {
+      "step": "Đánh giá bánh Slay",
+      "desc": "Bánh Slay giá 34.000, nửa giỏ quà hết 293.000.",
+      "impact_level": "1",
+      "viewer_emotion": "Không có cảm xúc đặc biệt."
+    },
+    {
+      "step": "Đánh giá Kitkat",
+      "desc": "Kitkat 56.000, set quà toàn đồ xịn, không bị bớt xén.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng về chất lượng."
+    },
+    {
+      "step": "Đánh giá trà Lipton",
+      "desc": "Trà Lipton 12 gói 41.000, unbox quà Tết là thú vui.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với niềm vui unbox."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "béo",
+    "thơm",
+    "ok la",
+    "hợp lý",
+    "lời"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Phải nói là phô mai con bò cười là một cái gì đó bất hủ trong lòng tôi nha mọi người ơi.",
+    "Tao nói cái này mà chấm với lại cà phê sữa nữa thì còn gì bằng nữa mọi người ơi.",
+    "Ê đây là lần đầu tiên trong chuỗi series quà Tết của tôi mà tôi thấy lời nha."
+  ],
+  "hook_content": "Check giá giỏ quà Tết của siêu thị Emart 499.000.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Liệt kê",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video check giá giỏ quà Tết ở siêu thị Emart, review các sản phẩm bên trong và so sánh với giá gốc để xem có lợi không. Người nói đánh giá cao chất lượng sản phẩm và cảm thấy đây là lần đầu tiên mua quà Tết có lời.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

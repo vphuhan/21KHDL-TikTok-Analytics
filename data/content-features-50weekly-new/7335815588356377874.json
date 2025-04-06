@@ -1,0 +1,93 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán mì vằn thắn nổi tiếng 22 năm ở phố cổ",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ nổi tiếng của quán."
+    },
+    {
+      "step": "Mô tả món ăn",
+      "desc": "Miêu tả chi tiết các thành phần và cách chế biến món ăn",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi sự tươi ngon của topping."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá hương vị đặc trưng của mì và nước dùng",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử ngay lập tức."
+    },
+    {
+      "step": "Giới thiệu món khác",
+      "desc": "Giới thiệu thêm sủi cảo thịt và bánh bột lọc",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng của menu."
+    },
+    {
+      "step": "Đánh giá đồ uống",
+      "desc": "Đánh giá cao đồ uống khế và atiso",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không quá đặc biệt."
+    },
+    {
+      "step": "Thông tin chi tiết",
+      "desc": "Cung cấp menu và địa chỉ quán",
+      "impact_level": "2",
+      "viewer_emotion": "Tiện lợi cho việc tìm kiếm và ghé thăm."
+    },
+    {
+      "step": "Kêu gọi tương tác",
+      "desc": "Hỏi ý kiến khán giả về quán",
+      "impact_level": "1",
+      "viewer_emotion": "Muốn chia sẻ trải nghiệm của mình."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Các bác ăn ở đây rồi thì thấy sao về quán này?"
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "đậm đà",
+    "ngọt",
+    "đầy đặn",
+    "mềm",
+    "sánh sệt",
+    "thơm",
+    "giòn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mì Vằn Thắn nổi tiếng 22 năm của cô chú gốc người Hoa, với món sốt trộn đẫm thịt ngon bất bại.",
+    "Nước dùng đậm đà ngọt từ vỏ tôm Ninh và xương ống.",
+    "Chỉ 45 cành thôi mà đầy đặn từ tôm, thịt, sủi cảo mà tôm to đó nha, cùng với thịt xá xíu."
+  ],
+  "hook_content": "Mì Vằn Thắn nổi tiếng 22 năm của cô chú gốc người Hoa, với món sốt trộn đẫm thịt ngon bất bại.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu quán mì vằn thắn nổi tiếng ở phố cổ, tập trung vào món mì trộn sốt thịt đặc trưng, các loại topping tươi ngon và sủi cảo nhà làm, đồng thời gợi ý thêm các món ăn và đồ uống khác tại quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

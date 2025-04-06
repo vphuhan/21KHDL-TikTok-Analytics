@@ -1,0 +1,82 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món cánh ngỗng Nga hun khói và giá tiền.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Bối rối về thông tin",
+      "desc": "Băn khoăn về thông tin sản phẩm bị sai lệch.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Bắt đầu ăn và miêu tả mùi vị của cánh ngỗng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Đánh giá chất lượng",
+      "desc": "Đánh giá về độ nhão của thịt so với gà ta.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "Nhận xét hương vị",
+      "desc": "Nhận xét về vị mặn và ngọt của thịt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Đưa ra kết luận cuối cùng về món ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "tanh",
+    "khó chịu",
+    "giòn",
+    "dai",
+    "không thích thú",
+    "không hợp"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "mùi của cái cánh Nga này nó có mùi hun khói. Và một chút xíu mùi tanh.",
+    "Thịt của nó thì mình thấy ăn hơi nhão so với cánh gà ta.",
+    "ăn cánh gà ta nó giòn, nó dai quen rồi ấy. Ăn cái này mình cảm thấy nó không thích thú, nó không có hợp."
+  ],
+  "hook_content": "Chào mọi người nha. Hôm nay thì mình sẽ ăn thử cánh ngỗng Nga hun khói.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món cánh ngỗng Nga hun khói, tập trung vào miêu tả mùi vị, so sánh với cánh gà ta và đưa ra đánh giá chủ quan về trải nghiệm ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

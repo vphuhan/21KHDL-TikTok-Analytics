@@ -1,0 +1,84 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món kim chi củ cải cắt miếng ăn với canh lòng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê và mua các nguyên liệu cần thiết để làm kim chi.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Sơ chế củ cải",
+      "desc": "Gọt vỏ và cắt củ cải thành miếng vuông nhỏ, ngâm với muối.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Luộc thịt và chuẩn bị gia vị",
+      "desc": "Luộc thịt để nấu canh lòng và chuẩn bị gia vị cho kim chi.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Nấu canh lòng",
+      "desc": "Nấu canh lòng Hàn Quốc với nước hầm xương và các nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm ăn."
+    },
+    {
+      "step": "Trộn kim chi",
+      "desc": "Trộn củ cải đã ráo nước với gia vị đã chuẩn bị.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Mời mọi người ăn cơm chung và giới thiệu cách ăn kim chi.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn ăn cùng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thích",
+    "hao cơm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cứ mỗi lần mà mua nhiều như vậy là mình nhờ ở đó giao về nhà giùm mình luôn.",
+    "Kim chi mà hồi nãy mình làm á mà ăn chung với cái canh này là ta nói hao cơm nha.",
+    "Tự nhiên lạnh lạnh này có món nào nước nước nóng nóng là bao ngon á."
+  ],
+  "hook_content": "bữa xin trong người, mình làm kim chi củ cải cắt miếng, cái này để dành ăn chung với canh là ngon lắm á.",
+  "hook_type": [
+    "Cho thấy kết quả trước",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm kim chi củ cải cắt miếng ăn kèm với canh lòng Hàn Quốc. Người làm chia sẻ kinh nghiệm và quá trình chuẩn bị nguyên liệu, sơ chế, nấu nướng một cách chi tiết và tỉ mỉ.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

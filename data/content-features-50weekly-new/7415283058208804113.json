@@ -1,0 +1,91 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Thèm ăn đêm, bất ngờ thấy tôm hùm ngoài ban công.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự bất ngờ."
+    },
+    {
+      "step": "Chuẩn bị tôm hùm",
+      "desc": "Giới thiệu tôm hùm tươi sống, hấp xả đơn giản.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi đói bụng."
+    },
+    {
+      "step": "Làm nước chấm",
+      "desc": "Pha nước chấm muối ớt đỏ với các nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị."
+    },
+    {
+      "step": "Thưởng thức tôm",
+      "desc": "Ăn tôm hùm hấp, nhận xét về độ ngon, ngọt.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Nhận xét về thịt tôm, gạch tôm và sốt chấm.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến chất lượng."
+    },
+    {
+      "step": "Gợi ý khác",
+      "desc": "Gợi ý làm tôm hùm sốt trứng muối, chia sẻ kinh nghiệm.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử làm theo."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Ăn gần hết tôm và đánh giá chung về món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thỏa mãn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thèm",
+    "bất ngờ",
+    "tươi sống",
+    "ngon",
+    "đã",
+    "ngọt",
+    "dai dai",
+    "béo ngậy",
+    "mê"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Tôm này không được cái gì được cái ngon á mọi người.",
+    "Ăn vào mình cảm nhận là từng cái sớ thịt của tôm á trời ơi nó đã lắm mọi người.",
+    "Tôm hùm này mọi người làm cái sốt trứng muối ăn nó cũng ngon dữ lắm."
+  ],
+  "hook_content": "Khi mọi người. Nói giữa đêm thèm thèm không biết ăn cái gì.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video mukbang về tôm hùm bông hấp xả ăn kèm muối ớt đỏ. Người ăn chia sẻ cảm nhận về độ tươi ngon, hương vị và gợi ý cách chế biến khác.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

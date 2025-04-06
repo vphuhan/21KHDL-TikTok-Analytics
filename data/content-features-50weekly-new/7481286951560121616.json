@@ -1,0 +1,86 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán phở",
+      "desc": "Giới thiệu vị trí, thời gian mở cửa và độ nổi tiếng của quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về địa điểm ăn uống."
+    },
+    {
+      "step": "Đánh giá món phở",
+      "desc": "Nhận xét về các loại topping, độ tươi ngon và hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn được ăn thử."
+    },
+    {
+      "step": "Trải nghiệm ăn phở",
+      "desc": "Miêu tả chi tiết cảm nhận về các thành phần của món phở.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung được hương vị món ăn."
+    },
+    {
+      "step": "Nhận xét đặc biệt",
+      "desc": "Đánh giá về nước dùng và so sánh với hương vị phở xưa.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với điểm khác biệt."
+    },
+    {
+      "step": "Tổng kết và khuyến nghị",
+      "desc": "Tóm tắt trải nghiệm và khuyến khích mọi người nên thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng và muốn trải nghiệm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "mọi người có thể ghé qua trải nghiệm và dùng thử xem như thế nào nhá"
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "sướng cái miệng",
+    "ấn tượng",
+    "béo",
+    "dai giòn sần sật",
+    "giòn sần sật",
+    "mềm",
+    "lạ miệng",
+    "mềm",
+    "ngọt thanh",
+    "béo ngậy",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nếu mà phải nói là nếu như ăn được hết một cái bát này là sức thanh niên thì sức thanh niên chắc chắn là cũng phải ăn được thì mới ăn được hết.",
+    "Cái miếng gầu này ăn nó có độ béo vừa phải, dai giòn sần sật.",
+    "Nghe nói đây là vị phở cổ ngày xưa, vị thì ngọt thanh và có chút béo ngậy."
+  ],
+  "hook_content": "ế nhà mình quán món gì đấy anh?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán phở Luân ở Hà Nội, tập trung vào phở bò với nhiều loại topping. Người nói đánh giá cao hương vị và chất lượng của phở, đặc biệt là nước dùng ngọt thanh và thịt bò tươi ngon.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

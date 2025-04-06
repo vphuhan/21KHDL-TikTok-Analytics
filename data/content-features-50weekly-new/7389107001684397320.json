@@ -1,0 +1,94 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Tự hỏi vì sao quán hủ tiếu ngon ở VN không có Michelin.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quan điểm của người nói."
+    },
+    {
+      "step": "So sánh",
+      "desc": "So sánh hủ tiếu Thái và Việt, đề xuất các loại hủ tiếu ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự so sánh."
+    },
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Tìm được quán hủ tiếu Nam Vang, bò viên ngon trong hẻm.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ địa điểm review."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Đánh giá độ sạch sẽ, nguyên liệu tươi ngon, giá cả hợp lý.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng."
+    },
+    {
+      "step": "Mô tả món ăn",
+      "desc": "Miêu tả chi tiết cách làm, các loại topping của hủ tiếu.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng."
+    },
+    {
+      "step": "Nhấn mạnh điểm đặc biệt",
+      "desc": "Sốt độc quyền, cọng hủ tiếu dai, sườn nóng mềm ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với đặc điểm của món ăn."
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Gợi ý nên ăn thêm bò viên, cung cấp địa chỉ quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Biết thêm thông tin hữu ích."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "nhớ lưu lại cái quán này nha"
+  ],
+  "cta_type": [
+    "Lưu video",
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "rẻ",
+    "đậm đà",
+    "ngọt ngọt thanh thanh",
+    "thơm phức",
+    "ngon dữ lắm",
+    "phê"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ở Việt Nam có một cái đặc điểm nha mấy cái quán ngon thường nằm trong hẻm, vậy thì nó mới tạo nên cái đặc sắc",
+    "Cắn tới đâu nó phê tới đó nha mà miếng thịt nó thơm phức ví hà luôn á mấy ông mấy bà",
+    "Nào mà ăn hủ tiếu mà thích cái sự dai là nhớ phải lưu lại cái quán này nha, hủ tiếu bên đây dùng một cái loại gì đó rất dai"
+  ],
+  "hook_content": "đang tự hỏi không biết tại sao trong cái Michelin 2024 á không hề có cập nhật một quán hủ tiếu nào.",
+  "hook_type": [
+    "Gây tò mò",
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán hủ tiếu Nam Vang ngon nằm trong hẻm, với giá cả phải chăng và nguyên liệu tươi ngon. Người nói so sánh hủ tiếu Việt Nam với hủ tiếu Thái Lan và đánh giá cao hương vị đặc trưng của quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

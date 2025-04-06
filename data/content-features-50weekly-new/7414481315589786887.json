@@ -1,0 +1,92 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu bằng sự lo lắng",
+      "desc": "Nhấn mạnh sự lo lắng về mẹ và mong muốn làm điều tốt nhất.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấu hiểu"
+    },
+    {
+      "step": "Giới thiệu giải pháp",
+      "desc": "Dẫn mẹ đi ăn và gặp bạn để giải tỏa tâm lý.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Chia sẻ vấn đề tế nhị",
+      "desc": "Mẹ chia sẻ vấn đề viêm nhiễm phụ khoa.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm"
+    },
+    {
+      "step": "Review sản phẩm",
+      "desc": "Giới thiệu và review viên uống Lavima, nhấn mạnh công dụng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng"
+    },
+    {
+      "step": "Hướng dẫn sử dụng",
+      "desc": "Hướng dẫn cách sử dụng và đối tượng sử dụng Lavima.",
+      "impact_level": "2",
+      "viewer_emotion": "Ghi nhớ"
+    },
+    {
+      "step": "Nhấn mạnh hiệu quả",
+      "desc": "Khẳng định hiệu quả sản phẩm và sự tiện lợi khi mua.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong đợi"
+    },
+    {
+      "step": "Kết thúc bằng sự quan tâm",
+      "desc": "Thể hiện sự quan tâm và mong muốn mẹ vui vẻ.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấm áp"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Kêu cứ uống hết cứ ra mấy nhà thuốc lớn như Long Châu là có à."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "khó chịu",
+    "ngứa ngáy",
+    "ổn",
+    "vui vẻ",
+    "thoải mái"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Chỉ cần viêm nhiễm chút xíu thôi à là ngứa ngáy khó chịu vô cùng, vừa nói nhất câu là nhỏ bạn nó hiểu vấn đề liền luôn.",
+    "Tự vì mẹ cứ ấp a ấp úng không chịu nói thôi chứ mình biết là mình đưa cho mẹ dùng liền rồi.",
+    "Vừa nghe mẹ báo uống ổn một cái là mình lấy đi mua thêm vài hộp liền, chỉ cần mẹ vui vẻ thoải mái lại là mừng rồi."
+  ],
+  "hook_content": "Để ý bữa giờ mà hỏi hoài chưa được không biết là đúng hay sai mà mình cứ cảm thấy mẹ mình đang khó chịu làm sao á, hỏi mấy lần rồi đều trả lời không có gì.",
+  "hook_type": [
+    "Gây tò mò",
+    "Tạo sự đồng cảm"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện"
+  ],
+  "summarization": "Video kể về việc người con nhận thấy mẹ có dấu hiệu khó chịu và tìm cách giúp mẹ giải tỏa bằng cách đưa đi ăn, đi chơi với bạn. Sau đó phát hiện mẹ bị viêm nhiễm phụ khoa và giới thiệu viên uống Lavima để cải thiện tình trạng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

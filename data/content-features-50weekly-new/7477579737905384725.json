@@ -1,0 +1,104 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu món bánh flan từng sợ làm do thất bại nhiều lần.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự thay đổi tích cực."
+    },
+    {
+      "step": "Công thức caramel",
+      "desc": "Hướng dẫn làm caramel không bị cứng, bóng và trong.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung lắng nghe công thức."
+    },
+    {
+      "step": "Đổ caramel vào khuôn",
+      "desc": "Nhấn mạnh sự bình tĩnh khi đổ caramel vào khuôn.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thư giãn."
+    },
+    {
+      "step": "Thắc mắc về màu caramel",
+      "desc": "Hỏi ý kiến về màu của caramel để tăng tương tác.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò muốn đưa ra ý kiến cá nhân."
+    },
+    {
+      "step": "Chuẩn bị phần bánh",
+      "desc": "Hướng dẫn làm phần bánh flan, nhắc về tên gọi ở Hải Phòng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với thông tin vùng miền."
+    },
+    {
+      "step": "Nấu sữa và trộn trứng",
+      "desc": "Hướng dẫn nấu sữa, trộn trứng, nhấn mạnh khuấy một chiều.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung làm theo hướng dẫn."
+    },
+    {
+      "step": "Hấp bánh và thành phẩm",
+      "desc": "Lưu ý khi hấp bánh, khoe thành phẩm mịn màng.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy phấn khích với kết quả."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "nào các bác cũng làm thử theo công thức này xem sao nhé.",
+    "Còn giờ thì bye bye."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "sợ",
+    "tiếc",
+    "sướng",
+    "bình tĩnh",
+    "thoải mái",
+    "hoang mang",
+    "thú vị",
+    "khó chịu",
+    "ngứa mắt",
+    "hoàn hảo",
+    "mướt mịn",
+    "quen thuộc",
+    "béo ngậy",
+    "ngăm đắng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "lắc một phát, thế là ra ngay một cái bánh mình đã từng rất rất sợ",
+    "Vận dụng nội công thâm hậu để tạo ra những chiếc bánh flan hoàn hảo nhất.",
+    "Tui làm lần đầu còn rón rén chứ thật ra chỉ cần lắc một cái thật dứt khoát cái bánh flan nó sẽ rơi xuống, không cần dùng dao luôn."
+  ],
+  "hook_content": "lắc một phát, thế là ra ngay một cái bánh mình đã từng rất rất sợ.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ công thức làm bánh flan thành công sau nhiều lần thất bại, hướng dẫn chi tiết từ làm caramel đến hấp bánh, kèm các mẹo để bánh không bị dỗ và đạt độ mịn hoàn hảo. Video cũng lồng ghép những chia sẻ cá nhân và tương tác với người xem.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

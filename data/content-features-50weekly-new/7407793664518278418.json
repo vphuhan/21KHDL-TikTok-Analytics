@@ -1,0 +1,68 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu cá trích ép trứng với màu sắc sặc sỡ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Trải nghiệm sản phẩm tặng kèm",
+      "desc": "Giới thiệu và trải nghiệm thử sản phẩm Laura cà phê.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá hương vị cá trích ép trứng.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Nhận xét chung",
+      "desc": "Đưa ra nhận xét chung về món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "giòn",
+    "thèm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cái trứng cá của nó giòn kinh khủng khiếp.",
+    "Ăn được một miếng thì coi như tí nữa là phải muốn ăn thêm miếng nữa đó."
+  ],
+  "hook_content": "hôm nay nhà mình mới đem về ba bốn cái thao chà bá lửa, đang không biết là dự định nuôi cái gì trong cái thao này.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món cá trích ép trứng với nhiều màu sắc bắt mắt, người nói đánh giá cao độ giòn của trứng cá và hương vị tươi ngon của món ăn, đồng thời giới thiệu sản phẩm Laura cà phê.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

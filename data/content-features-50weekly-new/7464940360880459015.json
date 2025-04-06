@@ -1,0 +1,82 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người ăn chay, ăn healthy"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu bản thân và các món chay sẽ nấu trong video",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món chay sắp được giới thiệu."
+    },
+    {
+      "step": "Sơ chế sườn chay",
+      "desc": "Ngâm mềm, vắt ráo sườn chay, khía ca rô và chiên",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Nấm rơm kho tiêu",
+      "desc": "Khía nấm, xào tỏi và nấm, thêm nước sốt kho riu riu",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn và muốn thử làm theo."
+    },
+    {
+      "step": "Nấu canh chua",
+      "desc": "Phi thơm, thêm nước cốt me, nêm gia vị đậm đà",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy món canh chua hấp dẫn và thèm thuồng."
+    },
+    {
+      "step": "Sườn rim sả ớt",
+      "desc": "Xào sả ớt, thêm nước sốt, rim sườn đã chiên",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy món sườn rim hấp dẫn và bắt mắt."
+    },
+    {
+      "step": "Đậu hũ sốt me",
+      "desc": "Xào tỏi, thêm nước cốt me, lăn đậu hũ",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy món đậu hũ sốt me đơn giản và dễ làm."
+    },
+    {
+      "step": "Hoàn thành",
+      "desc": "Hoàn thành các món chay và sẵn sàng để cúng",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy hài lòng và có thêm gợi ý món chay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "dễ thương",
+    "thơm",
+    "giòn rộm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Em Khải ăn chay chứ em Khải không có đi tu.",
+    "Mình nêm ngọt cho ra ngọt, chua cho ra chua, mặn cho ra mặn."
+  ],
+  "hook_content": "Em Khải khẳng định lại một lần nữa nha. Em Khải ăn chay chứ em Khải không có đi tu.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn nấu 4 món chay đơn giản, dễ làm tại nhà gồm nấm rơm kho tiêu, canh chua, sườn rim sả ớt và đậu hũ sốt me, phù hợp cho ngày mùng 1 hoặc những người ăn chay.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

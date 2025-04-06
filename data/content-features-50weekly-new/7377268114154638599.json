@@ -1,0 +1,99 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu món tré trộn Kiều Quách và cô Thúng đang hot.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Mở hộp",
+      "desc": "Mở hộp và so sánh nhanh hai phần tré trộn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú quan sát"
+    },
+    {
+      "step": "Nếm thử Kiều Quách",
+      "desc": "Nếm thử và đánh giá các thành phần của tré Kiều Quách.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn biết hương vị"
+    },
+    {
+      "step": "Nếm thử Cô Thúng",
+      "desc": "Nếm thử và đánh giá các thành phần của tré Cô Thúng.",
+      "impact_level": "2",
+      "viewer_emotion": "So sánh hương vị"
+    },
+    {
+      "step": "So sánh chi tiết",
+      "desc": "So sánh chi tiết các thành phần và hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung lắng nghe"
+    },
+    {
+      "step": "Đánh giá tổng quan",
+      "desc": "Đánh giá tổng quan và chấm điểm từng loại tré trộn.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình hoặc phản đối"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Khuyến khích tự trải nghiệm và cảm nhận hương vị.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người đã coi clip của mình, tất cả những bình luận của mình những cái gì mình review thì đừng có tin tự ăn tự cảm nhận nha mọi người."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "vừa ăn",
+    "ngon",
+    "tươi",
+    "béo",
+    "bùi",
+    "cay",
+    "ngọt",
+    "bon mồm",
+    "ngon quá",
+    "tuyệt vời"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ăn tré là phải ăn cái chỗ này đó kiểu gì vậy thì mình không có chấp nhận đó",
+    "cảm giác bên đây 85 là rất là vừa giá luôn, cảm giác là cái nguyên liệu bên đây nó chất lượng nha mọi người",
+    "tất cả những bình luận của mình những cái gì mình review thì đừng có tin tự ăn tự cảm nhận nha mọi người"
+  ],
+  "hook_content": "đặt hai lần là hai lần đó là kêu là ok rồi chị thấy để đơn cho em xong rồi không giao. Hàng gì không có clip là vậy đó. Trên mạng tré trộn Kiều Quách và tré trộn cô thúng nha mọi người.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review món tré trộn Kiều Quách và cô Thúng đang hot trên mạng, so sánh chi tiết về thành phần, hương vị và giá cả của hai loại tré này, đồng thời đưa ra đánh giá cá nhân và khuyến khích người xem tự trải nghiệm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

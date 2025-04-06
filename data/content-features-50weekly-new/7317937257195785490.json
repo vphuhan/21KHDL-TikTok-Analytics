@@ -1,0 +1,92 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Chào mừng đến với kênh và giới thiệu món ăn hôm nay.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn được giới thiệu."
+    },
+    {
+      "step": "Quảng cáo sản phẩm",
+      "desc": "Giới thiệu và quảng cáo sản phẩm hỗ trợ tiêu hóa.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, như quảng cáo sản phẩm."
+    },
+    {
+      "step": "Thưởng thức bào ngư",
+      "desc": "Bắt đầu ăn bào ngư và miêu tả cảm nhận về độ giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với phần ăn giòn rụm."
+    },
+    {
+      "step": "Thưởng thức sò điệp",
+      "desc": "Ăn sò điệp và cảm nhận độ béo, no của món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thèm ăn sò điệp béo ngậy."
+    },
+    {
+      "step": "Thưởng thức bạch tuộc và nấm",
+      "desc": "Ăn bạch tuộc, nấm kim châm và cảm nhận độ cay.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy kích thích vị giác."
+    },
+    {
+      "step": "Thưởng thức ghẹ",
+      "desc": "Ăn ghẹ và cảm nhận vị cay của sốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn, muốn thử ghẹ sốt cay."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Tổng kết bữa ăn và hẹn gặp lại ở video sau.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường"
+  ],
+  "cta_content": [
+    "có gì bạn comment ở bên dưới để góp ý cho Vàng nha",
+    "Cảm ơn bạn đã xem video của Tóc Vàng. Hẹn gặp lại bạn vào video lần sau. Bye bye!"
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "cay",
+    "ngon",
+    "giòn",
+    "béo",
+    "thích",
+    "tuyệt vời"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bào ngư giòn lắm luôn các bạn.",
+    "Em sò điệp này mập ú ù ủa luôn đó bạn.",
+    "Cay quá trời luôn á bạn."
+  ],
+  "hook_content": "Chào bạn! Chào mừng bạn đã đến với kênh Tóc Vàng Hoa và mình là Tóc Vàng.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang hải sản sốt cay của Tóc Vàng Hoa với nhiều loại hải sản như tôm hùm, bào ngư, ghẹ, sò điệp, bạch tuộc. Cô vừa ăn vừa giới thiệu sản phẩm hỗ trợ tiêu hóa và không quên tương tác với người xem.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

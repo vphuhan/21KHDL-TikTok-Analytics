@@ -1,0 +1,87 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Nấu món gà nấu rau củ Hàn Quốc, giống cà ri Việt Nam.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn Hàn Quốc tại nhà."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Cắt rau củ bằng dụng cụ đặc biệt, luộc sơ đùi gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với dụng cụ cắt rau củ tiện lợi."
+    },
+    {
+      "step": "Nấu và nêm gia vị",
+      "desc": "Nấu gà với rau củ, nêm gia vị đậm đà, quen thuộc.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi hương vị món ăn."
+    },
+    {
+      "step": "Hoàn thiện món ăn",
+      "desc": "Thêm hành tây, hành baro, so sánh với cà ri Việt.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung hương vị thơm ngon của món ăn."
+    },
+    {
+      "step": "Chuẩn bị bữa ăn",
+      "desc": "Nướng thịt riêng cho con vì đang bị ho.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy sự chu đáo của người mẹ."
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người ăn cơm cùng gia đình.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy ấm cúng."
+    },
+    {
+      "step": "Nhận xét món ăn",
+      "desc": "Khen món ăn ngon và được mọi người yêu thích.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú với biểu cảm khi ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mời mọi người ăn cơm chung với hai vợ chồng mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "Ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái này mà nấu béo béo thêm chút nữa thì nó giống cà ri Việt Nam của mình.",
+    "giờ mà cho nước cốt dừa vô nữa thì nó sẽ béo béo mặn mặn ngọt ngọt cay cay, chỉ có điều là thiếu cái mùi cà ri nữa thôi là nó sẽ giống cái cà ri Việt Nam mình đó mọi người.",
+    "Ai ăn cái món này á thì trúng tủ chồng mình luôn rồi."
+  ],
+  "hook_content": "Bữa nay chồng mình ở nhà, sáng thức dậy thì thấy được cái cảnh này nè, ngồi đó vậy chứ ba cha con im ru à, mới vừa vô đánh răng rửa mặt một cái là mỗi người một nơi rồi, giờ thì đến lượt mình.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ cách nấu món gà nấu rau củ kiểu Hàn tại nhà một cách đơn giản, dễ làm. Món ăn này có hương vị tương tự cà ri Việt Nam, phù hợp khẩu vị gia đình.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

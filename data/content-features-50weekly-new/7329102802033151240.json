@@ -1,0 +1,76 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Quên đón con, giới thiệu món hủ tiếu nấu cho bữa tối.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Nước dùng và thịt đã được chuẩn bị từ hôm trước.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Mua thêm đồ ăn kèm",
+      "desc": "Mua thêm tteokbokki và phi tỏi để thêm hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Nấu món ăn",
+      "desc": "Nấu hủ tiếu nước cho chồng, nấu mì cho con.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp"
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Mời mọi người cùng ăn hủ tiếu với gia đình.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Vậy thì mời mọi người ăn chung với cả nhà mình."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "dễ chịu",
+    "ngủ ngon",
+    "hấp dẫn",
+    "ngọt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đợi mình lâu vậy đó mà cũng dễ chịu lắm, không có khóc la gì hết trơn á.",
+    "Nước dùng này á thì mình nấu toàn là bằng xương ống, hầm từ hôm qua năm đến sáu tiếng cho nên là nước nó ngọt lắm.",
+    "Bữa nay mình nấu cái món này thì chắc ba tụi Hân phải ăn hai tô mới đủ."
+  ],
+  "hook_content": "Bữa nay mình quên luôn giờ đón Tùng Hân, sư phụ gọi tới thì mới nhớ là mình ba chân bốn cẳng chạy xuống.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video ghi lại cảnh mẹ bỉm sữa nấu món hủ tiếu Nam Vang cho gia đình vào bữa tối, chia sẻ về quá trình chuẩn bị nguyên liệu và những tình huống đời thường khi chăm sóc con cái. Món ăn được nấu bằng tình yêu thương dành cho gia đình.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

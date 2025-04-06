@@ -1,0 +1,97 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Tùng Cao giới thiệu về việc unbox Playbox và sự bất ngờ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về nội dung bên trong hộp."
+    },
+    {
+      "step": "Mở hộp và thất vọng",
+      "desc": "Mở các hộp riêng biệt, không giống như video đã xem.",
+      "impact_level": "3",
+      "viewer_emotion": "Thất vọng và ngạc nhiên."
+    },
+    {
+      "step": "Chọn nhân vật",
+      "desc": "Chọn một nhân vật yêu thích và bóc thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức xem kết quả."
+    },
+    {
+      "step": "Bóc nhân vật",
+      "desc": "Mở nhân vật và nhận ra nó không như mong đợi.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy hụt hẫng."
+    },
+    {
+      "step": "Nhận xét và so sánh",
+      "desc": "Nhận xét về sản phẩm, so sánh với trải nghiệm khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với sự thất vọng."
+    },
+    {
+      "step": "Kiểm tra chi tiết",
+      "desc": "Xem xét kỹ các chi tiết của nhân vật, phát hiện lỗi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung vào các chi tiết nhỏ."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Kết thúc bằng sự thất vọng và cảm xúc lẫn lộn.",
+      "impact_level": "3",
+      "viewer_emotion": "Chia sẻ sự thất vọng."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Drama"
+  ],
+  "cta_content": [
+    "Mấy người mua hộp giúp em nha."
+  ],
+  "cta_type": [
+    "Thích video",
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "sợ",
+    "kỳ cục",
+    "không vui",
+    "dễ thương",
+    "vui",
+    "đẹp",
+    "thất vọng",
+    "bất công"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Em mua Playbox và nó ship cho em cái hộp riêng và cái con nhân vật riêng.",
+    "Mình ăn gian chắc cùng hết rồi, đời công nhân bất công.",
+    "Ây da cái gì vậy?"
+  ],
+  "hook_content": "Em mua Playbox và nó ship cho em cái hộp riêng và cái con nhân vật riêng. giống như clip mà họ được vậy á. vui giỡn không p ơi.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện"
+  ],
+  "summarization": "Video ghi lại quá trình Tùng Cao mở hộp Playbox, nhưng trải nghiệm không giống như mong đợi, gây thất vọng. Anh so sánh với những video khác và bày tỏ sự bất công.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Ngạc nhiên",
+    "Khó chịu"
+  ]
+}

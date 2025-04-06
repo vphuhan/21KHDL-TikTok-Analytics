@@ -1,0 +1,73 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu bánh bò và lời kêu đi chợ mua đồ ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn khác."
+    },
+    {
+      "step": "Khám phá đồ ăn",
+      "desc": "Liệt kê các món ăn còn lại và đồ ăn vặt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng các món ăn."
+    },
+    {
+      "step": "Ăn thử",
+      "desc": "Ăn thử khô bò, mứt thập cẩm, bánh hành, hạt điều.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn được ăn thử cùng."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Ăn no và chuẩn bị đi chợ, hỏi về con rể.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy vui vẻ, thú vị."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Chị Đẹp thấy giao diện này mà đi chợ Tết thì có mang con rể về được không?"
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Đặt câu hỏi"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "béo",
+    "dễ thương",
+    "chất lượng",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tao nói nguyên miếng này ngồi nhai qua Tết cũng chưa hết luôn á.",
+    "Chị Đẹp thấy giao diện này mà đi chợ Tết thì có mang con rể về được không?"
+  ],
+  "hook_content": "kể cho các bạn nghe sáng đi lanh quanh tìm được dĩa bánh bò chấm nước cốt dừa.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video kể về việc đi mua bánh bò và được nhờ đi chợ mua đồ ăn. Sau đó, bạn ấy review các món ăn vặt còn lại trong nhà trước khi đi chợ.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

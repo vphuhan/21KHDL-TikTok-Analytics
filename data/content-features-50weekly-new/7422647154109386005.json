@@ -1,0 +1,81 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món Phật nhảy tường và sự tò mò của khán giả.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn phức tạp."
+    },
+    {
+      "step": "Lưu ý trước khi làm",
+      "desc": "Nhấn mạnh sự phức tạp và yêu cầu kiên nhẫn khi thực hiện.",
+      "impact_level": "1",
+      "viewer_emotion": "Cần chuẩn bị tâm lý kỹ càng."
+    },
+    {
+      "step": "Liệt kê nguyên liệu",
+      "desc": "Giới thiệu các nguyên liệu chính và các phiên bản khác nhau.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên vì nguyên liệu cao cấp."
+    },
+    {
+      "step": "Sơ chế bào ngư",
+      "desc": "Hướng dẫn rửa sạch, ngâm bào ngư trong 24 tiếng và thay nước.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy được sự tỉ mỉ của công đoạn."
+    },
+    {
+      "step": "Sơ chế vi cá, phá cáo",
+      "desc": "Hướng dẫn hấp, ngâm nước đá và để tủ lạnh qua đêm.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy công phu và tốn thời gian."
+    },
+    {
+      "step": "Sơ chế hải sâm",
+      "desc": "Hướng dẫn nấu sôi, để nguội, và ngâm tủ lạnh qua đêm.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy được sự kỳ công trong sơ chế."
+    },
+    {
+      "step": "Thay nước bào ngư",
+      "desc": "Nhắc nhở thay nước cho bào ngư mỗi 8 tiếng.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy choáng ngợp trước quy trình."
+    }
+  ],
+  "content_style": [
+    "Chi tiết",
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "tò mò",
+    "kiên nhẫn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cho nên bạn nào không đủ kiên nhẫn á thì có thể bỏ qua nhé.",
+    "Tới đây là mình cũng thấy hơi quằn quằn rồi đúng không?",
+    "Món được yêu cầu nhiều nhất trong 2 năm làm TikTok."
+  ],
+  "hook_content": "Có vẻ cũng nhiều bạn tò mò về cái món Phật nhảy tường.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn sơ chế nguyên liệu cho món Phật nhảy tường, nhấn mạnh sự phức tạp và kỳ công trong quá trình chuẩn bị. Video chia sẻ các bước sơ chế bào ngư, vi cá, hải sâm và phá cáo, cùng với các lưu ý về thời gian ngâm và thay nước.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

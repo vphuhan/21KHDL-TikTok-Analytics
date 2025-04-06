@@ -1,0 +1,89 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn và sốt",
+      "desc": "Giới thiệu món tai heo sốt thái và chai sốt thái pha sẵn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn và sản phẩm."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Hướng dẫn chuẩn bị các nguyên liệu cần thiết.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy dễ thực hiện."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Hướng dẫn sơ chế các nguyên liệu như sả, tắc, cóc, xoài.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự tỉ mỉ."
+    },
+    {
+      "step": "Luộc và làm giòn tai heo",
+      "desc": "Hướng dẫn luộc tai heo và ngâm nước đá để làm giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ thành phẩm giòn ngon."
+    },
+    {
+      "step": "Cắt và trộn tai heo",
+      "desc": "Hướng dẫn cắt tai heo và trộn với sốt thái.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món ăn."
+    },
+    {
+      "step": "Giới thiệu sốt thái",
+      "desc": "Giới thiệu thêm về công dụng của chai sốt thái.",
+      "impact_level": "1",
+      "viewer_emotion": "Quan tâm đến sản phẩm."
+    },
+    {
+      "step": "Thưởng thức và mời",
+      "desc": "Thưởng thức món ăn và mời mọi người cùng ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn được ăn thử ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cả nhà có dùng sốt thái á thì cứ nhắn Hường nha."
+  ],
+  "cta_type": [
+    "Truy cập trang cá nhân",
+    "Đặt câu hỏi"
+  ],
+  "emotion_keywords": [
+    "thơm ngon",
+    "đậm vị",
+    "bắt",
+    "an tâm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Chưa bao giờ Hường thấy làm món tai heo sốt thái đơn giản dễ làm như bữa nay luôn đó cả nhà.",
+    "Từ ngày mà có chai nước sốt này rồi á thì không có món sốt thái nào á làm khó được Hường.",
+    "Chỉ cần vài thao tác thôi á là mình có ngay món tai heo sốt thái thơm ngon đậm vị để thưởng thức rồi."
+  ],
+  "hook_content": "Chưa bao giờ Hường thấy làm món tai heo sốt thái đơn giản dễ làm như bữa nay luôn đó cả nhà.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm món tai heo sốt thái đơn giản và nhanh chóng với chai sốt thái pha sẵn, giúp người xem dễ dàng thực hiện món ăn tại nhà. Người làm cũng giới thiệu thêm về công dụng của chai sốt thái và mời mọi người cùng thưởng thức.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

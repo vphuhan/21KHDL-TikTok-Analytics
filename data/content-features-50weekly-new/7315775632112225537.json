@@ -1,0 +1,65 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu cách ăn",
+      "desc": "Người nói giới thiệu cách ăn bim bim mới xem được.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Thực hiện",
+      "desc": "Sử dụng giấy ăn khô để ăn bim bim.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Nhận xét",
+      "desc": "Nhận thấy trang phục không phù hợp phong cách sang trọng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Kết thúc video bằng cách thay đổi trang phục cho phù hợp.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "sang trọng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "ăn bim bim kiểu quý's tộc",
+    "cách ăn bim bim rất là đỉnh luôn",
+    "phong cách ăn bim bim sang trọng"
+  ],
+  "hook_content": "mọi người ơi, hôm nay mình vừa xem được một cách ăn bim bim rất là đỉnh luôn. Bây giờ mình sẽ cho mọi người xem.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kịch hóa"
+  ],
+  "summarization": "Video chia sẻ cách ăn bim bim \"sang chảnh\" bằng giấy ăn và nhận xét trang phục không phù hợp, sau đó thay đổi trang phục.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

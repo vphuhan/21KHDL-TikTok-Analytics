@@ -1,0 +1,72 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu cơm ăn kèm cà pháo, đu đủ ngâm mắm cá cơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Nhấn mạnh hương vị",
+      "desc": "Nhấn mạnh cà pháo trộn kiểu miền Nam đỡ mặn hơn miền Trung.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Đánh giá món ăn ngon, không chê được.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Cách ăn",
+      "desc": "Gợi ý mua sẵn và trộn hoặc thêm tỏi, ớt, chanh đường.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Nhấn mạnh bảo quản",
+      "desc": "Nhấn mạnh đồ đã trộn có thể bảo quản hơn 10 ngày.",
+      "impact_level": "1",
+      "viewer_emotion": "Ổn định"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "tuyệt vời"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nay Oanh ăn cơm với lại cà pháo, đu đủ ngâm với mắm cá cơm mọi người.",
+    "Miền Nam nó đỡ mặn hơn miền Trung á mọi người.",
+    "Mua về trộn là ăn luôn mọi người."
+  ],
+  "hook_content": "Ngon quá.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang ăn cơm với cà pháo, đu đủ ngâm mắm cá cơm trộn kiểu miền Nam, được đánh giá là ngon và dễ ăn. Người nói còn chia sẻ cách trộn và bảo quản món ăn này.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

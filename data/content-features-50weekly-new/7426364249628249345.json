@@ -1,0 +1,97 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ốc bươu luộc sả và cách chế biến đơn giản.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Chia sẻ việc đi chợ mua ốc bươu đen vì quá thèm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chế biến",
+      "desc": "Hướng dẫn cách luộc ốc với sả và các gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Pha nước chấm",
+      "desc": "Giới thiệu cách ăn ốc với muối ớt đâm siêu cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Uống cà phê",
+      "desc": "Quảng cáo cà phê sức khỏe của ca sĩ Nhật Kim Anh.",
+      "impact_level": "1",
+      "viewer_emotion": "Tạm chấp nhận"
+    },
+    {
+      "step": "Trải nghiệm món ăn",
+      "desc": "Miêu tả cảm giác khi ăn ốc luộc sả chấm muối ớt.",
+      "impact_level": "3",
+      "viewer_emotion": "Ghen tị"
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng ăn ốc luộc sả.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi nghe."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "mê",
+    "ngon đắm đuối",
+    "thèm",
+    "thơm",
+    "mắt thèm",
+    "tê tái tâm hồn",
+    "ngon",
+    "nhức nhói",
+    "đã"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ốc bu luộc sả đơn giản mà ngon đắm đuối nhen.",
+    "thịt ốc thì u nu, quậy vô chén muối ớt đâm cay sương sương mà tê tái tâm hồn của tôi nữa, ta nói nó ngon gì đâu.",
+    "lể con nào con nấy cũng ra hết cái đuôi mà nhìn mắt thèm ghê chưa?"
+  ],
+  "hook_content": "Hello mọi người, lại là tôi Mập Bự thích ăn ăn đây. Nhìn tôi lể mấy con ốc bu ra hết cái đuôi như vậy, mọi người có thấy mê không?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu món ốc bươu đen luộc sả, cách chế biến đơn giản và trải nghiệm ăn món này với muối ớt cay. Bên cạnh đó, người này cũng uống cà phê sức khỏe của ca sĩ Nhật Kim Anh.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

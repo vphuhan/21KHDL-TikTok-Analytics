@@ -1,0 +1,88 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Gọi món",
+      "desc": "Liệt kê các món đã gọi, nhấn mạnh yêu cầu đặc biệt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn."
+    },
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Chia sẻ trải nghiệm cá nhân, so sánh với các quán khác.",
+      "impact_level": "3",
+      "viewer_emotion": "Tin tưởng vào đánh giá."
+    },
+    {
+      "step": "Miêu tả món ăn",
+      "desc": "Tập trung vào hương vị, cách chế biến đặc biệt.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn ăn thử."
+    },
+    {
+      "step": "Thông tin quán",
+      "desc": "Chia sẻ thông tin về thời gian bán, độ nổi tiếng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy quán này có vẻ lâu đời."
+    },
+    {
+      "step": "Giá cả",
+      "desc": "Đề cập đến giá cả các món, đánh giá là bình dân.",
+      "impact_level": "2",
+      "viewer_emotion": "Giá cả hợp lý."
+    },
+    {
+      "step": "Gợi ý món",
+      "desc": "Gợi ý các món nên thử khi đến quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Gợi ý hữu ích."
+    },
+    {
+      "step": "Địa điểm",
+      "desc": "Khuyến khích đến quán, cung cấp địa chỉ.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn đến quán trải nghiệm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Anh em tham khảo thử địa chỉ tôi để trên bình xem sao nhá."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "cay cay",
+    "quên sầu",
+    "bõ công đi xa"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn đúng lần đầu tiên xong thì Thụy Khuê với cả mấy hàng trên phố cổ ấy, thức chỉ còn là dĩ vãng cục tình thôi anh em ạ.",
+    "Chỉ đơn giản mỗi sườn tươi tẩm ướp theo kiểu Lạng Sơn, nướng xém xém thôi mà nó ngon vãi cả đái ra đấy.",
+    "Quán đi ở tận Hà Đông nhưng mà bõ công đi xa lắm."
+  ],
+  "hook_content": "ơi, vẫn như mọi khi nhá. Cho anh một sườn này, 10 chân năm cánh, thêm cả nem nướng, hẹ với cả bánh mì Lạng Sơn nữa.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quán sườn nướng ở Hà Đông, tập trung vào hương vị đặc biệt của sườn và các món ăn kèm, đồng thời chia sẻ trải nghiệm cá nhân và thông tin về quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

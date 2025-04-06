@@ -1,0 +1,82 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu hoàn cảnh",
+      "desc": "Than vãn về lịch trình bận rộn và mong muốn tìm đồ ăn nhanh.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chọn nguyên liệu",
+      "desc": "Quyết định mua bạch tuộc nguyên con và đồ ăn vặt dự trữ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Chế biến món ăn",
+      "desc": "Hấp sơ bạch tuộc, nấu mì gói và pha cà phê.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Thưởng thức mì bạch tuộc",
+      "desc": "Trải nghiệm ăn mì gói với bạch tuộc và cà phê.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấm lòng"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét về độ giòn của bạch tuộc và vị ngon của cà phê.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Kết thúc bữa ăn",
+      "desc": "Ăn hết mì, uống cà phê và cảm thấy no bụng.",
+      "impact_level": "2",
+      "viewer_emotion": "Hài lòng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "yếu yếu",
+    "làm biếng",
+    "ấm",
+    "thơm",
+    "đã",
+    "giòn",
+    "cuốn",
+    "no bụng",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Tối tối mà có tô mì gói với ly cà phê là ấm bụng luôn.",
+    "Trời lạnh lạnh này mà có tô mì gói chua cay húp cái nước cái rột, bạch tuộc thì chấm vô cái chén muối ớt có bốn cái trái ớt, cái bạch tuộc này thì cực kỳ giòn luôn.",
+    "Mì thì húp nước sạch sẽ cạn tào ráo máng, ăn xong rồi uống thêm ly cà phê nữa là no bụng ngủ ngon luôn."
+  ],
+  "hook_content": "Ta nói tháng này gì đâu mà thi cử nó dồn vô một cột 3 ngày thì đi học ôn thi cho tuần sau.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh một người tranh thủ nấu mì gói bạch tuộc và thưởng thức cùng cà phê trong một ngày bận rộn. Người này vừa ăn vừa chia sẻ cảm nhận về hương vị và độ tiện lợi của món ăn.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Thèm ăn hotdog phô mai kéo sợi, lục tủ tìm nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và đồng cảm với người review."
+    },
+    {
+      "step": "Chiên hotdog",
+      "desc": "Chiên hotdog trong nồi chiên không dầu và chuẩn bị nước chấm.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đói bụng và muốn ăn ngay."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Ăn các loại hotdog, corndog khác nhau với topping.",
+      "impact_level": "3",
+      "viewer_emotion": "Vô cùng thèm thuồng, xem rất cuốn hút."
+    },
+    {
+      "step": "Kéo sợi phô mai",
+      "desc": "Kéo sợi phô mai dài và ăn một cách thích thú.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy kích thích vị giác, rất hấp dẫn."
+    },
+    {
+      "step": "Muốn mua xe hotdog",
+      "desc": "Muốn mua nguyên xe hotdog về để ăn cho đã thèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hài hước và đồng tình với sự thèm ăn."
+    },
+    {
+      "step": "Ăn thử món khác",
+      "desc": "Ăn thử chả giò cốm xanh và các loại hotdog khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của các món ăn khác."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Giới thiệu về cách bảo quản và sự tiện lợi của sản phẩm.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy hữu ích và muốn mua sản phẩm."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Chiều nay phải chạy đi nịnh diệt tiếp mới được.",
+    "Nên mình phải nán lại đàm đạo đôi chuyện. Chuyện là lấy cho em một hai ba bốn năm cây ăn ở đây cả nhà."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "thèm",
+    "đã",
+    "ngon",
+    "béo",
+    "giòn rụm",
+    "chu đáo",
+    "ưng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Miếng phô mai mà kéo được từ Tân Phú tới Bình Thạnh luôn.",
+    "Kéo từ nhà mình tới chỗ bán Tasty Chicken luôn cũng được á.",
+    "Ở nhà đang thèm mà có ăn luôn tại nhà cái nó đã."
+  ],
+  "hook_content": "nói tự nhiên coi lại mấy clip ăn hot dog phô mai kéo sợi cái nó thèm dễ sợ.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video thể hiện sự yêu thích của người làm nội dung với các loại hotdog, corndog phô mai tại một quán ăn. Video tập trung vào trải nghiệm ăn uống tại chỗ và sự thỏa mãn khi được ăn món mình thèm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

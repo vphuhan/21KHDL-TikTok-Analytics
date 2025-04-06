@@ -1,0 +1,85 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Chủ quán chia sẻ lý do mở quán bánh miền Tây ở Sài Gòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị quê nhà."
+    },
+    {
+      "step": "Miêu tả sản phẩm",
+      "desc": "Nhấn mạnh sự tươi ngon và nguyên chất của nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng sản phẩm."
+    },
+    {
+      "step": "Kể chuyện kinh doanh",
+      "desc": "Quán đã hoạt động 3 năm, có khách quen và khách sỉ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin thêm về quán."
+    },
+    {
+      "step": "Phản hồi của khách",
+      "desc": "Khách hàng yêu thích hương vị bánh bò và các món miền Tây.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và muốn thử."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Liệt kê các loại bánh và cách làm đặc biệt (lá cẩm).",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng."
+    },
+    {
+      "step": "Thay đổi địa điểm",
+      "desc": "Chuyển vào hẻm để tạo không gian tự chọn cho khách.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích về địa điểm mới."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "giới thiệu rồi mai mốt chị dời vô đây để cho mọi người biết cái đường chị ở trong đây nhiều hơn"
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "thích",
+    "mê",
+    "ngon",
+    "nhớ hương vị"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nước cốt dừa á là chị làm mà làm 100% là nước cốt dừa tươi nguyên chất hết luôn, không có pha bột béo.",
+    "khách sỉ ở các tỉnh cũng nhiều, ở Sài Gòn mình cũng nhiều, với lại khách lẻ thì cũng được khá khá tại vì do là giống như là mình bán ngon á cái người này giới thiệu cho người kia.",
+    "Mấy bé thì cứ vô đây là mấy bé cứ đòi là chị ơi em thích ăn bánh bò của chị em."
+  ],
+  "hook_content": "Thấy chị lại quyết định mở mấy cái bánh kiểu miền Tây này ở Sài Gòn á?",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện",
+    "Liệt kê"
+  ],
+  "summarization": "Video giới thiệu quán bánh miền Tây ở Sài Gòn, nơi chủ quán tự làm các loại bánh đặc sản với nguyên liệu tươi ngon, chuẩn vị quê hương. Quán đã hoạt động được 3 năm và được nhiều khách hàng yêu thích, đặc biệt là món bánh bò.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

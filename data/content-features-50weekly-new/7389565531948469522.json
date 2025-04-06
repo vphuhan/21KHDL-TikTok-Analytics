@@ -1,0 +1,95 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu khách mời",
+      "desc": "Tùng Yuki đến kiểm tra tay nghề nấu ăn của Tuấn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú khi có người nổi tiếng xuất hiện."
+    },
+    {
+      "step": "Phân công công việc",
+      "desc": "Tuấn giao Tùng Yuki chiên khoai môn và đuôi bò.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thao tác nấu ăn đơn giản."
+    },
+    {
+      "step": "Pha chế nước sốt",
+      "desc": "Tuấn pha nước sốt lẩu với các nguyên liệu đặc trưng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị nước sốt."
+    },
+    {
+      "step": "Chiên khoai môn ăn kèm",
+      "desc": "Tuấn chiên khoai môn để ăn kèm và chấm tương ớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn với món ăn vặt quen thuộc."
+    },
+    {
+      "step": "Hoàn thiện lẩu",
+      "desc": "Tuấn cho các nguyên liệu vào nồi lẩu và thêm nước sốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng khi thấy nồi lẩu hoàn thiện."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Tùng Yuki ăn thử khoai môn chiên và khen ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với biểu cảm chân thật."
+    },
+    {
+      "step": "Đánh giá món lẩu",
+      "desc": "Cả hai cùng ăn lẩu và Tùng Yuki khen ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn được thưởng thức món lẩu."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Xin mời cả nhà nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "tuyệt vời",
+    "ngon",
+    "cay cay",
+    "ngọt ngọt",
+    "thơm",
+    "khoái",
+    "thèm",
+    "đã",
+    "mềm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tứ xứ Long An thì làm sao á ảnh về được với đặc sản Gò Đen hả anh Tùng?",
+    "Bữa nay mà tắt máy quay một cái là anh Tùng á hết thấy đường về với em luôn nha.",
+    "Cuối cùng thì hôm nay lão Phật gia cũng đã chịu ngồi ăn lẩu đuôi bò với Vua Bảo Đại rồi."
+  ],
+  "hook_content": "Trời ơi giờ á thấy ông Tùng trên phim ảnh không à. Bây giờ thấy ổng nấu bếp, người ta đồn ổng ổng mướn người nấu thôi nên bữa nay quyết tâm á Tùng Vu Kỳ xuống đây coi thử có phải không?",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video ghi lại quá trình diễn viên Huỳnh Anh Tuấn nấu món lẩu đuôi bò chiêu đãi diễn viên Tùng Yuki để chứng minh không hề có chuyện thuê người nấu. Cả hai cùng nhau thực hiện các công đoạn và thưởng thức món ăn, tạo không khí vui vẻ, thân thiện.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

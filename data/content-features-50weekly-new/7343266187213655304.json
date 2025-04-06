@@ -1,0 +1,68 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Nhân vật vào vai nhân viên phục vụ và giới thiệu nhà hàng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Order món",
+      "desc": "Khách hàng order món ăn, nhân viên lặp lại theo.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Xác nhận order",
+      "desc": "Nhân viên xác nhận lại order và cảm ơn khách hàng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Nhân vật nhắc lại tên nhà hàng và tạm biệt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Kiến thức",
+    "Sáng tạo",
+    "Nhanh gọn",
+    "Kiến thức"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "cười",
+    "cười cứng người"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nhân dịp 8/3 thì nhà hàng Binboon là vị mé.",
+    "Mẹ mẹ nói là mì ý hả?",
+    "Con óc chó."
+  ],
+  "hook_content": "Chi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Kịch hóa",
+    "Đối thoại"
+  ],
+  "summarization": "Video ngắn ghi lại cảnh một người đóng vai nhân viên phục vụ tại một nhà hàng tên Binboon, giới thiệu về nhà hàng và tương tác với khách order món ăn.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

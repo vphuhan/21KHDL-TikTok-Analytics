@@ -1,0 +1,81 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu nguyên liệu",
+      "desc": "Giới thiệu đậu nành và chia sẻ về việc làm tàu hủ ky tại nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách làm tàu hủ ky."
+    },
+    {
+      "step": "Sơ chế đậu nành",
+      "desc": "Ngâm, rạch vỏ, rửa sạch đậu nành đã ngâm từ hôm qua.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, quá trình chuẩn bị nguyên liệu."
+    },
+    {
+      "step": "Xay và nấu đậu",
+      "desc": "Xay đậu nành với nước, nấu lửa nhỏ và hớt bọt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị khi thấy quá trình làm tàu hủ ky."
+    },
+    {
+      "step": "Thu hoạch tàu hủ ky",
+      "desc": "Canh và lấy miếng tàu hủ ky đầu tiên đem đi phơi.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức với thành phẩm."
+    },
+    {
+      "step": "Thành phẩm tàu hủ ky",
+      "desc": "Giới thiệu thành quả và chia sẻ về thời gian làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Khâm phục sự kiên nhẫn."
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Nấu canh mala thang (lẩu Tứ Xuyên) với tàu hủ ky tự làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món canh mới."
+    },
+    {
+      "step": "Nấu và thưởng thức",
+      "desc": "Cho các nguyên liệu vào và mời mọi người cùng ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "vừa ăn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Thấy vậy chứ làm mấy miếng tàu hủ ky này làm mình nó lâu ơi là lâu luôn á mọi người.",
+    "Nó giống như là cái vị lẩu Tứ Xuyên Trung Quốc vậy đó.",
+    "Chỉ cần dùng cái sốt này thôi là mình không có cần nêm nếm gia vị gì nữa hết trơn á, tại vì nó vừa ăn rồi mọi người."
+  ],
+  "hook_content": "Giờ thì lạnh mà hai ba con nó dắt nhau đi mua kem ăn. Lấy cái cây thông này xuống cắt để sang năm mình chơi tiếp.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm tàu hủ ky tại nhà từ đậu nành và sử dụng tàu hủ ky này để nấu món canh mala thang (lẩu Tứ Xuyên). Video tập trung vào quá trình làm tàu hủ ky và nấu món ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

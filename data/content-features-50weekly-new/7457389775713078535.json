@@ -1,0 +1,76 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Tóc Vàng giới thiệu món ăn là mực trứng sốt cay Hàn Quốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy tò mò về món ăn."
+    },
+    {
+      "step": "Uống nước",
+      "desc": "Uống combucha trước khi ăn để làm sạch miệng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Ăn thử nấm kim châm",
+      "desc": "Ăn nấm kim châm với sốt cay và nhận xét.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với cách ăn."
+    },
+    {
+      "step": "Ăn thử mực trứng",
+      "desc": "Ăn mực trứng và mô tả cảm giác béo ngậy.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Tạm biệt và hẹn gặp lại trong video sau.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn bạn đã xem video của Tóc Vàng nha.",
+    "Hẹn gặp lại bạn vào video lần sau."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "cay",
+    "béo"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bên trong trứng rất béo nè bạn ơi.",
+    "Bạn phải ăn mực trứng rồi thì bạn mới hiểu cảm giác của Vàng bây giờ được á."
+  ],
+  "hook_content": "Oa, bóc cục bạn ơi. Chào hai bạn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang Tóc Vàng ăn mực trứng sốt cay Hàn Quốc, chia sẻ cảm nhận về độ cay và vị béo của món ăn. Video có тем chào và tạm biệt người xem.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

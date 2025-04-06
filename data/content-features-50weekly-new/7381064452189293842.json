@@ -1,0 +1,86 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán Skuntii và sự nổi tiếng về giá rẻ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về mức giá"
+    },
+    {
+      "step": "Liệt kê menu và giá",
+      "desc": "Liệt kê các loại đồ uống và giá cả tại quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng vì giá rẻ"
+    },
+    {
+      "step": "Địa điểm và quy trình",
+      "desc": "Miêu tả chi nhánh mới, sự bận rộn của nhân viên.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự nổi tiếng"
+    },
+    {
+      "step": "Đánh giá đồ uống",
+      "desc": "Đánh giá trà sữa, trà trái cây và nước ép.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn thử"
+    },
+    {
+      "step": "Nhấn mạnh topping",
+      "desc": "Nhấn mạnh sự hấp dẫn của topping trân châu.",
+      "impact_level": "3",
+      "viewer_emotion": "Hấp dẫn với team trân châu"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Khẳng định sự phù hợp của quán ở Tân Phú.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình với nhận xét"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người nhớ địa chỉ của Skuntii Tính để ở đây nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "rẻ",
+    "chất lượng",
+    "thèm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "quán này bán đồ uống ngon, rẻ mà chất lượng nữa",
+    "trà trái cây thì khỏi phải nói rồi, ngon dữ lắm luôn á, đặc biệt Tính mê trà mãng cầu nha, 10 điểm luôn nha",
+    "Bạn nào mà team mê trân châu thì quất liền một cái ly này nha"
+  ],
+  "hook_content": "rồi, tới bây giờ vẫn chưa biết người đứng sau cái tiệm Skuntii này là ai, mà sao nó bán rẻ dữ vậy trời.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu và đánh giá quán Skuntii ở Tân Phú, nổi tiếng với đồ uống ngon, rẻ và chất lượng. Người quay review các loại đồ uống như trà sữa, trà trái cây, nước ép và đặc biệt nhấn mạnh món trà mãng cầu.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

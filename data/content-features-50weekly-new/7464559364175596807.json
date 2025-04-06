@@ -1,0 +1,79 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về việc gói bánh chưng mini nhân thịt tràn bờ đê.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Chia sẻ quá trình chuẩn bị nguyên liệu, đặc biệt là nước cốt lá giềng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Gói bánh",
+      "desc": "Mô tả công đoạn gói bánh, các loại bánh và kích cỡ khác nhau.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Không khí gia đình",
+      "desc": "Chia sẻ về không khí gia đình trong quá trình gói bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp"
+    },
+    {
+      "step": "Trông bánh",
+      "desc": "Miêu tả việc trông bánh chưng vào đêm khuya và những hoạt động khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Buồn cười"
+    },
+    {
+      "step": "Thành phẩm",
+      "desc": "Giới thiệu thành phẩm bánh chưng và chuẩn bị review.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "vui",
+    "háo hức"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Thịt tràn bờ đê, đã thế lại còn là bánh chưng gấc nữa chứ.",
+    "Năm ngoái chê bánh nhạt à, năm nay cứ thế tống đầy muối vào.",
+    "Bây giờ thì có thể nhìn trông hơi vô tri, nhưng mà 50 năm nữa nhìn cái này lại nó lại thành kỷ niệm đấy."
+  ],
+  "hook_content": "Mặc kệ mọi người gói bánh chưng bình thường, mình gói bánh chưng mini.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video ghi lại quá trình gói bánh chưng của một gia đình trẻ, từ khâu chuẩn bị nguyên liệu đến khi hoàn thành mẻ bánh. Video thể hiện không khí gia đình ấm cúng và cách làm bánh sáng tạo.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

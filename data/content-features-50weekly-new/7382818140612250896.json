@@ -1,0 +1,87 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Nhận lời bán hàng",
+      "desc": "Người bán hàng nhờ bán giúp, người review đồng ý giúp đỡ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Làm chủ quán bất đắc dĩ",
+      "desc": "Bắt đầu rao bán tàu phớ và giới thiệu sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Buồn cười"
+    },
+    {
+      "step": "Bán hàng",
+      "desc": "Múc tàu phớ, thêm topping và bán cho khách.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Gặp khó khăn",
+      "desc": "Gặp khó khăn khi thái thạch dừa vì không đều.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chủ quán về",
+      "desc": "Chủ quán về, người review kể lại thành tích bán hàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ"
+    },
+    {
+      "step": "Được thưởng",
+      "desc": "Được chủ quán thưởng một cốc tàu phớ miễn phí.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Review lại chất lượng tàu phớ và địa chỉ quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "đã",
+    "mệt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Tàu phớ của con top 1 ở Hà Nội đấy.",
+    "Cảm giác như kiểu tôi là thần tài. Gọi phát thôi là có khách luôn.",
+    "Chưa bao giờ tôi đi ăn tàu phớ mà phải làm cả cho chủ quán ấy. Làm thay luôn chủ quán."
+  ],
+  "hook_content": "Mỗi giờ cô phải đi ship này, ai bán hàng?",
+  "hook_type": [
+    "Kể chuyện",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện"
+  ],
+  "summarization": "Video ghi lại trải nghiệm bán tàu phớ hộ chủ quán của một bạn reviewer. Sau khi bán được một vài cốc, bạn được chủ quán thưởng một cốc tàu phớ miễn phí và review nhanh về hương vị và địa chỉ quán.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

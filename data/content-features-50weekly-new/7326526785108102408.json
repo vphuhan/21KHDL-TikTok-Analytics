@@ -1,0 +1,82 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Hương giới thiệu món lẩu hải sản bự chà bá sẽ nấu hôm nay.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món lẩu."
+    },
+    {
+      "step": "Liệt kê nguyên liệu",
+      "desc": "Liệt kê các nguyên liệu chính cho món lẩu hải sản.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin cơ bản."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Đi chợ mua nguyên liệu và sơ chế cùng mọi người.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy sự chuẩn bị chu đáo."
+    },
+    {
+      "step": "Nấu nước lẩu",
+      "desc": "Hướng dẫn cách nấu nước lẩu với xương ống và các gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Học hỏi được cách nấu nước lẩu ngon."
+    },
+    {
+      "step": "Sử dụng sốt nấu lẩu",
+      "desc": "Giới thiệu và sử dụng sốt nấu lẩu hải sản của O Food.",
+      "impact_level": "2",
+      "viewer_emotion": "Tìm hiểu về sản phẩm tiện lợi."
+    },
+    {
+      "step": "Hoàn thành và mời thưởng thức",
+      "desc": "Nồi lẩu hoàn thành và mời mọi người cùng thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn ăn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Hương mời cả nhà á cùng thưởng thức món này á với gia đình Hương nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngọt",
+    "hấp dẫn",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bữa nay Hương chia lớn, nấu nguyên nồi lẩu hải sản á, bự chà bá luôn nè cả nhà.",
+    "Hương thấy dùng mấy sốt này nè, nấu rất là nhanh mà còn ngon chuẩn vị nữa.",
+    "Hương thấy mấy chị em nội trợ nào mà không biết nấu lẩu như Hương á thì mình cứ thủ sẵn á vài gói lẩu này ở trong nhà đi nha."
+  ],
+  "hook_content": "Bữa nay Hương chia lớn, nấu nguyên nồi lẩu hải sản á, bự chà bá luôn nè cả nhà.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn nấu món lẩu hải sản đơn giản tại nhà với sự trợ giúp của sốt nấu lẩu O Food, phù hợp cho những người bận rộn muốn có món lẩu ngon nhanh chóng. Hương chia sẻ các bước chuẩn bị và nấu nướng một cách chi tiết và thân thiện.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

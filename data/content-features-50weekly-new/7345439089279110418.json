@@ -1,0 +1,87 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu về quê nhà",
+      "desc": "Giới thiệu về những thay đổi ở quê nhà sau 2 năm xa cách.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Thu hoạch nguyên liệu",
+      "desc": "Thu hoạch bắp chuối tại vườn nhà để chuẩn bị nấu ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đi chợ quê",
+      "desc": "Đi chợ mua đặc sản địa phương và ăn sáng phở.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Chuẩn bị nấu cháo gà",
+      "desc": "Chuẩn bị các nguyên liệu và bắt đầu quá trình nấu cháo gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức"
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Sơ chế bắp chuối và thịt gà để làm gỏi.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Trình bày và thưởng thức",
+      "desc": "Trình bày món ăn và thưởng thức cùng gia đình.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấm áp"
+    },
+    {
+      "step": "Kết thúc và suy ngẫm",
+      "desc": "Suy nghĩ về món ăn tiếp theo và cảm nhận về bữa ăn gia đình.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong đợi"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thích",
+    "ngọt",
+    "ngon",
+    "thơm",
+    "ấm cúng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Về nhà là được ba mẹ cưng lắm nhưng mà không biết được mấy bữa đây.",
+    "Về Việt Nam mình, ngồi ăn sáng uống cà phê nhìn xe cộ qua lại cái cảm giác đó thích dữ lắm.",
+    "Cháo nóng mà ăn chung với gỏi bắp chuối chua chua nữa ngon dữ lắm."
+  ],
+  "hook_content": "Ngày đầu tiên ở Việt Nam thì mới tờ mờ sáng thôi là ba mẹ đã dắt xuống đất để tham quan.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video ghi lại ngày đầu tiên về thăm nhà ở Việt Nam của một người sau thời gian dài ở nước ngoài, với các hoạt động như tham quan vườn, thu hoạch bắp chuối, đi chợ và nấu món cháo gà bắp chuối ấm cúng cùng gia đình. Người này bày tỏ niềm hạnh phúc khi được trở về và thưởng thức những món ăn quê hương.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

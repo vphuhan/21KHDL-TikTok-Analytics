@@ -1,0 +1,69 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Em chồng hồi hộp về nhà chờ món mới, lần này là chân gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Chia sẻ công thức",
+      "desc": "Nêu đây là công thức đơn giản và tâm đắc nhất của mình.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Hướng dẫn trộn và bảo quản",
+      "desc": "Trộn chân gà với sốt, cất tủ lạnh 4-5 tiếng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Lời chúc",
+      "desc": "Chúc mọi người thành công ngay từ lần đầu tiên.",
+      "impact_level": "1",
+      "viewer_emotion": "Ấm áp"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người cùng tham khảo và góp ý cho mình nha."
+  ],
+  "cta_type": [
+    "Chia sẻ công thức",
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "hồi hộp",
+    "háo hức",
+    "nghiền"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Em chồng mình nó bảo mỗi lần về nhà là cảm thấy hồi hộp háo hức lắm.",
+    "Đây là công thức mà mình cảm thấy đơn giản và tâm đắc nhất."
+  ],
+  "hook_content": "Em chồng mình nó bảo mỗi lần về nhà là cảm thấy hồi hộp háo hức lắm.Kiểu lần này về không biết được chị cho ăn món gì.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ công thức làm chân gà sả tắc Thái đơn giản, dễ làm tại nhà, được em chồng yêu thích. Người làm video chia sẻ đây là công thức tâm đắc nhất của mình và khuyến khích mọi người làm theo.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

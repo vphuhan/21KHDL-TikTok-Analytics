@@ -1,0 +1,87 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu hai loại táo đỏ kẹp nhân của Takla và Quang Linh Vlog",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự khác biệt giữa hai loại."
+    },
+    {
+      "step": "Đánh giá bao bì",
+      "desc": "So sánh và đánh giá bao bì của hai sản phẩm về độ chắc chắn",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin cơ bản."
+    },
+    {
+      "step": "Đánh giá nhân",
+      "desc": "Mô tả màu sắc và mùi vị đặc trưng của nhân táo đỏ",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú, kích thích vị giác."
+    },
+    {
+      "step": "Thử sản phẩm",
+      "desc": "Thử và đánh giá hương vị của từng loại táo đỏ kẹp nhân",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung lắng nghe đánh giá khách quan."
+    },
+    {
+      "step": "Nướng sản phẩm",
+      "desc": "Nướng hai loại táo đỏ và quan sát sự thay đổi sau khi nướng",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về kết quả sau khi nướng."
+    },
+    {
+      "step": "Đánh giá sau nướng",
+      "desc": "Đánh giá hương vị sau khi nướng và so sánh với ban đầu",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức muốn thử ngay."
+    },
+    {
+      "step": "Đưa ra kết luận",
+      "desc": "Đưa ra so sánh và gợi ý lựa chọn theo sở thích cá nhân",
+      "impact_level": "1",
+      "viewer_emotion": "Đã có thêm thông tin để lựa chọn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "béo",
+    "ngọt",
+    "đặc trưng",
+    "ngọt đậm",
+    "vừa phải"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Kéo sợi luôn nè",
+    "Vị ngọt của sữa bò tuổi thơ",
+    "Mọi người, cho vào nồi chiên không dầu á, nướng lên nó nó còn thơm hơn ăn bình thường nữa á."
+  ],
+  "hook_content": "của Quang Linh Vlog nè. Và bên lợn hơn bên này là của Takla nè. Thấy gì? Kéo sợ luôn nè.",
+  "hook_type": [
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "So sánh",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review hai loại táo đỏ kẹp nhân của Takla và Quang Linh Vlog, so sánh về bao bì, nhân và hương vị trước và sau khi nướng, đưa ra gợi ý lựa chọn theo sở thích cá nhân.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Đi chợ",
+      "desc": "Giới thiệu chợ địa phương và mua các nguyên liệu tươi ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Làm sạch ốc móng tay và sơ chế các loại hải sản.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu nồi hấp",
+      "desc": "Giới thiệu và khoe nồi lẩu hấp ba tầng đa năng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Hấp hải sản",
+      "desc": "Sắp xếp hải sản và rau củ vào nồi hấp.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Nấu cháo",
+      "desc": "Nấu cháo ở tầng dưới cùng của nồi hấp.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp"
+    },
+    {
+      "step": "Hoàn thiện món ăn",
+      "desc": "Thêm hành ngò và thưởng thức món cháo hải sản.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Nếm thử và chia sẻ cảm nhận về món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Hạnh phúc"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "đã",
+    "ngọt",
+    "bắt mắt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ốc móng tay thì con nào con nấy mập hù lù mà bữa nay chỉ có 50 cành à.",
+    "Tính ra là mất không có bao nhiêu thời gian luôn mà có một cái bữa cháo ngon lành.",
+    "Mấy cái nước nghêu á nó chảy xuống nồi cháo nên là cái nồi cháo nó đậm vị dữ lắm."
+  ],
+  "hook_content": "Bữa nay quyết định dậy sớm nấu một bữa thiệt ngon cho gia đình.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn nấu món lẩu cháo hấp hải sản nhanh gọn tại nhà bằng nồi hấp đa năng, bắt đầu từ việc đi chợ mua nguyên liệu đến sơ chế và thưởng thức món ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Nhấn mạnh bánh đồng xu không ngon bằng Huutoc phô mai ngô, xúc xích.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm được so sánh."
+    },
+    {
+      "step": "So sánh bánh",
+      "desc": "So sánh kích cỡ bánh mới và cũ, thành phần topping.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thông tin hữu ích."
+    },
+    {
+      "step": "Hướng dẫn chế biến",
+      "desc": "Gợi ý cách chế biến bánh bằng nồi chiên không dầu hoặc rán.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích với gợi ý nấu ăn."
+    },
+    {
+      "step": "Nhận biết sản phẩm",
+      "desc": "Lưu ý cách phân biệt hàng chuẩn và hàng nhái.",
+      "impact_level": "2",
+      "viewer_emotion": "Biết thêm thông tin để lựa chọn sản phẩm."
+    },
+    {
+      "step": "Trải nghiệm sản phẩm",
+      "desc": "Rán bánh và chia sẻ cảm nhận về hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng khi thấy bánh được rán."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "So sánh hương vị bánh mới với bánh cũ.",
+      "impact_level": "2",
+      "viewer_emotion": "Có thêm thông tin để lựa chọn hương vị."
+    },
+    {
+      "step": "Thông tin sản phẩm",
+      "desc": "Thông tin về thành phần, độ giòn và địa điểm mua.",
+      "impact_level": "1",
+      "viewer_emotion": "Nắm bắt thông tin chi tiết về sản phẩm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cái bánh này ở trong một số siêu thị lớn là có rồi nhá."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngậy",
+    "béo",
+    "thơm",
+    "đậm",
+    "đãy đà",
+    "giòn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nói thật chứ ai mà từng ăn cái bánh này rồi thì dăm ba cái bánh đồng xu đúng là không có tuổi luôn.",
+    "Huutoc nó có cái loại phô mai ngô với lại phô mai xúc xích này thì thôi, bánh đồng xu chấm hết cục tình luôn.",
+    "Nếu hỏi mình thích cái nào thì mình sẽ thích cái xúc xích hơn, kiểu cái ngô nhá."
+  ],
+  "hook_content": "Nói thật chứ ai mà từng ăn cái bánh này rồi thì dăm ba cái bánh đồng xu đúng là không có tuổi luôn.",
+  "hook_type": [
+    "So sánh"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review bánh Hotteok phô mai ngô và xúc xích của Pulmuone, so sánh với bánh đồng xu và loại bánh Hotteok cũ, đồng thời đưa ra đánh giá về hương vị, thành phần và cách chế biến.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

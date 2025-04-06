@@ -1,0 +1,91 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về việc đi ăn cùng người lạ ở THCS Hoàng Diệu.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về nội dung tiếp theo."
+    },
+    {
+      "step": "Gặp gỡ",
+      "desc": "Gặp gỡ và trò chuyện với các em học sinh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự hồn nhiên của các em."
+    },
+    {
+      "step": "Ăn uống",
+      "desc": "Các em học sinh giới thiệu các món ăn vặt yêu thích.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy vui vẻ, thích thú."
+    },
+    {
+      "step": "Tương tác",
+      "desc": "Hỏi về chuyện tình cảm và trêu đùa các em học sinh.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy hài hước, thú vị."
+    },
+    {
+      "step": "Kết nối",
+      "desc": "Xin follow TikTok và được các em giới thiệu về thầy.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về thầy giáo được nhắc đến."
+    },
+    {
+      "step": "Trêu thầy",
+      "desc": "Các em học sinh 'rao bán' thầy cho chị xinh gái.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy hài hước, phấn khích."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Tiếp tục trêu đùa và kết thúc video.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ, thoải mái."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Các bạn ơi món này rất là ngon, các bạn cứ ra quán mua xong rồi các bạn thưởng thức một lần cho mình ha.",
+    "Mở máy ra follow đi."
+  ],
+  "cta_type": [
+    "Ăn cùng",
+    "Follow kênh"
+  ],
+  "emotion_keywords": [
+    "xinh đẹp",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Thế chị lấy thầy em không?",
+    "Thầy Cả ơi! Đây nhá gái xinh đang chờ thầy ở đây thầy nhá.",
+    "Máy không nổi có về."
+  ],
+  "hook_content": "Không review!",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video ghi lại cảnh ăn uống, trò chuyện vui vẻ của một chị gái và các em học sinh THCS Hoàng Diệu. Các em giới thiệu món ăn yêu thích và 'rao bán' thầy giáo.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

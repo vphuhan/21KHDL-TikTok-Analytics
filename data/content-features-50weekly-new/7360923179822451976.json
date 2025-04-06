@@ -1,0 +1,78 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu cốc xay sinh tố mới mua, có thể xay được.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về tính năng của sản phẩm."
+    },
+    {
+      "step": "Mô tả thiết kế",
+      "desc": "Thiết kế nhỏ gọn, tiện lợi mang đi, miệng cốc hơi bé.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin mang tính chất mô tả."
+    },
+    {
+      "step": "Tính năng đặc biệt",
+      "desc": "Xay xong không bị chảy, có thể bỏ vào túi mang đi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy tiện lợi và hữu ích."
+    },
+    {
+      "step": "Thông tin sạc",
+      "desc": "Sử dụng sạc không dây kiểu Apple Watch.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin thêm về sản phẩm."
+    },
+    {
+      "step": "Kêu gọi mua hàng",
+      "desc": "Để sản phẩm ở TikTok Shop trên trang cá nhân.",
+      "impact_level": "1",
+      "viewer_emotion": "Không có cảm xúc đặc biệt."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mình cứ để con này ở bên TikTok Shop, ở trong trang cá nhân của mình"
+  ],
+  "cta_type": [
+    "Truy cập trang cá nhân",
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "khoái"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Một cái cốc nhưng mà xay được.",
+    "Xay xong nhá, dốc như này, đấy, nó cũng không chảy ra, xong bây giờ mình đi đâu đúng không? Mình bỏ vào túi, thế là xong.",
+    "Cái này nó kiêm cái chai luôn, thoải mái, nó không đổ được."
+  ],
+  "hook_content": "Wah, ngon thế. Ui. Giờ nó toàn đồ mới rồi.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu một loại cốc xay sinh tố mini, không dây, tiện lợi mang đi làm, đi học. Người bán khuyến khích người xem mua sản phẩm trên trang cá nhân.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

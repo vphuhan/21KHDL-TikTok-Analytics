@@ -1,0 +1,76 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Chào hỏi và giới thiệu",
+      "desc": "Chào bà chủ quán, hỏi về giờ bán và hứa quay lại.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, lịch sự."
+    },
+    {
+      "step": "Gọi món và trò chuyện",
+      "desc": "Gọi cơm đầy đủ, hỏi về canh và mối quan hệ của hai bà.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp, thân thiện."
+    },
+    {
+      "step": "Đánh giá trải nghiệm",
+      "desc": "Nhận xét về quán ăn, món ăn và cảm xúc khi ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú, đồng cảm."
+    },
+    {
+      "step": "Chúc sức khỏe và kêu gọi",
+      "desc": "Chúc hai bà mạnh khỏe và kêu gọi ủng hộ quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ, tích cực."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Đấy đến đây ăn ủng hộ đi các bạn ơi."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "vui vẻ",
+    "ngon miệng",
+    "thân thương",
+    "phấn khởi",
+    "vừa miệng",
+    "ngon",
+    "hợp lý"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn cơm tấm ở đây tôi có một cảm giác rất là thân thương kiểu gia đình nhá.",
+    "Hai bà thì tóc bạc trắng hết cả rồi mà tay chân thì luôn thoăn thoắt để chuẩn bị thức ăn cho khách mà hai bà thì lúc nào cũng rất là cười phấn khởi, kiểu ăn cơm ở đây là chưa cần ăn thôi là đã cảm thấy vui rồi ấy.",
+    "Giới thiệu với anh em bà con nhá, tên là quán cơm của bà Ba và bà Tư rất là ngon và hợp lý."
+  ],
+  "hook_content": "Cô ba mới bán cơm hả bà?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quán cơm tấm bình dân của hai bà Ba và Tư, gây ấn tượng bởi sự thân thiện, gần gũi và hương vị cơm tấm vừa miệng. Chủ quán hi vọng quán sẽ trở thành địa điểm yêu thích của giới trẻ.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

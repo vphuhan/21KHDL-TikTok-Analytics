@@ -1,0 +1,88 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu vấn đề",
+      "desc": "Nhấn mạnh việc phải chờ đợi lâu tại quán, nên mua về.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về giải pháp."
+    },
+    {
+      "step": "Miêu tả sản phẩm",
+      "desc": "Liệt kê các thành phần trong suất ăn mua về.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi đói bụng."
+    },
+    {
+      "step": "Trải nghiệm",
+      "desc": "Bắt đầu nướng và ăn thử các loại thịt khác nhau.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá chi tiết về độ mềm, vị đậm đà của thịt.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn ăn thử ngay lập tức."
+    },
+    {
+      "step": "Kết hợp",
+      "desc": "Kết hợp thịt với rau và kim chi để tăng hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy ngon miệng hơn."
+    },
+    {
+      "step": "So sánh",
+      "desc": "So sánh má đào với thịt bò và đưa ra nhận xét.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về má đào."
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Khuyên nên mua về để đỡ mất công chờ đợi.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Thử đi."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "ngon",
+    "mềm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái kéo này nó rất là cùn đấy nhá mà cắt bò phát một đây này.",
+    "Ê cái này mình không nhận quảng cáo đâu, nhưng mà nó ngon thật đấy.",
+    "Nầm mà A choén ăn xong chắc chắn bị đau bụng luôn, bởi vì nó chưa chín."
+  ],
+  "hook_content": "tại đang hơn 20 bàn đang đợi. Anh chị chờ chắc phải tầm trên 40 phút đấy ạ.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món thịt nướng mua về từ quán A choén, tập trung vào trải nghiệm ăn tại nhà, hương vị và độ tiện lợi so với việc ăn tại quán. Người nói đánh giá cao chất lượng thịt và khuyên nên mua về để tránh phải chờ đợi.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Than thở về thời tiết",
+      "desc": "Chia sẻ khó khăn khi sống ở nơi thời tiết khắc nghiệt.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm"
+    },
+    {
+      "step": "Giới thiệu nguyên liệu",
+      "desc": "Giới thiệu sò huyết mua ở tiệm Việt Nam gần nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Chuẩn bị sò huyết",
+      "desc": "Mô tả công đoạn chà rửa sò huyết mất nhiều thời gian.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chế biến món ăn",
+      "desc": "Thực hiện món sò huyết cháy tỏi và chia sẻ kinh nghiệm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Ăn sò huyết cháy tỏi với muối tiêu và rau răm.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Nhận xét về hương vị và độ tươi ngon của sò huyết.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "sung sướng",
+    "nản",
+    "thèm",
+    "ngon",
+    "đã",
+    "siêu cay",
+    "chất lượng",
+    "thơm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ăn được cái con này thì cũng không phải dễ đâu nghe.",
+    "Chấm con sò huyết vô cái chén muối tiêu mà mồ hôi lưỡi nó tuôn trào, làm cái món này tuy đơn giản nhưng mà ăn nó ngon thiệt, nên chuyến này ăn ba tô cơm luôn thì nó mới đã.",
+    "Không phải nói chứ lấy nước đó mà chan chung với cơm là ăn hết cái nồi cơm."
+  ],
+  "hook_content": "mọi người thì chỉ thấy mấy cái cảnh ăn uống sung sướng của mình thôi, còn mấy cái lúc mà dầm mưa dãi nắng gì nè thì mình đâu có cho ai thấy.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ về cuộc sống ở Nhật Bản, đặc biệt là trải nghiệm làm món sò huyết cháy tỏi. Tác giả vừa chia sẻ quá trình làm vừa thưởng thức món ăn một cách ngon lành.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

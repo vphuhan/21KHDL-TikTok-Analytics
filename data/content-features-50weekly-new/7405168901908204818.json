@@ -1,0 +1,67 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu khô cá dứa có hai loại, bàn tay và ướt mỡ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự khác biệt giữa hai loại."
+    },
+    {
+      "step": "Đánh giá sản phẩm",
+      "desc": "Đánh giá loại bàn tay ngon, giòn, không ngán, nhiều thịt.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng muốn ăn thử ngay lập tức."
+    },
+    {
+      "step": "Giới thiệu đồ uống",
+      "desc": "Giới thiệu trà hoa cúc đường phèn được tặng kèm, có tác dụng.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy khá thú vị về món đồ uống này."
+    },
+    {
+      "step": "Giới thiệu các sản phẩm khác",
+      "desc": "Giới thiệu nước mắm thơm, nước mắm hương vẫn thơm rong biển.",
+      "impact_level": "1",
+      "viewer_emotion": "Không mấy ấn tượng với thông tin này."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "giòn",
+    "thơm",
+    "không ngán"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Bạn nào không thích ăn mỡ á, mua cái loại bàn tay giống anh ăn.",
+    "Nó vừa thịt, vừa thịt, vừa xương, giòn ngon lắm.",
+    "Uống cái này để trẻ hoá da cũng ngon."
+  ],
+  "hook_content": "Có khứa dứa mọi người ơi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang khô cá dứa, người nói giới thiệu hai loại khô cá dứa và đánh giá loại bàn tay ngon, giòn, không ngán, sau đó giới thiệu thêm trà hoa cúc và các loại nước mắm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu bánh mì bơ sữa tự làm và cách làm đơn giản.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách làm món bánh mì."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Cắt nhỏ bánh mì để chuẩn bị cho công đoạn tiếp theo.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, chuẩn bị cho công đoạn nấu ăn."
+    },
+    {
+      "step": "Làm bơ sữa",
+      "desc": "Hướng dẫn từng bước làm bơ sữa để ngâm bánh mì.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với công thức làm bơ sữa."
+    },
+    {
+      "step": "Ngâm bánh mì",
+      "desc": "Ngâm bánh mì vào hỗn hợp bơ sữa để bánh ngấm đều.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, chờ đợi bánh ngấm gia vị."
+    },
+    {
+      "step": "Nướng bánh",
+      "desc": "Nướng bánh mì bằng nồi chiên không dầu trong 5 phút.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức chờ bánh chín."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Mời mọi người ăn và đánh giá hương vị bánh mì.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử ngay."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Nhấn mạnh bánh mì ngon và tạm biệt người xem.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hài lòng với món ăn."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bái bai mấy bạn."
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "thơm ngon",
+    "nồng nàn",
+    "thơm phức",
+    "ngon",
+    "giòn",
+    "đậm đà",
+    "ngon hết xảy"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bơ sữa thì nồng nàn, vỏ bánh mì giòn, bơ sữa thấm đậm.",
+    "Ngon hả?",
+    "Ăn ở ngoài hàng dễ gì được vậy."
+  ],
+  "hook_content": "ở ngoài tiệm á, người ta bán ăn không có đã mấy bạn. Cái mùi bơ sữa nó không có nồng nàn thơm phức.",
+  "hook_type": [
+    "So sánh"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn cách làm bánh mì bơ sữa đơn giản tại nhà bằng nồi chiên không dầu, từ khâu chuẩn bị nguyên liệu đến khi hoàn thành món ăn hấp dẫn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

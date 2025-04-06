@@ -1,0 +1,92 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu vấn đề",
+      "desc": "Không hài lòng với tiệm hớt tóc, muốn chồng đẹp trai hơn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Khen ngợi tiệm tóc",
+      "desc": "Tiệm tóc rẻ, đẹp, nhân viên nhiệt tình, khách hàng thường xuyên.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng"
+    },
+    {
+      "step": "Trải nghiệm dịch vụ",
+      "desc": "Chọn combo cắt, uốn, gội, nhuộm, cạo mặt, ráy tai.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Đánh giá chất lượng",
+      "desc": "Tay nghề chuẩn, nhẹ nhàng, uốn xịn, nhuộm không rát.",
+      "impact_level": "2",
+      "viewer_emotion": "Hài lòng"
+    },
+    {
+      "step": "So sánh trải nghiệm",
+      "desc": "Gội đầu, massage mặt, đắp mặt nạ như phái nữ.",
+      "impact_level": "3",
+      "viewer_emotion": "Ghen tị"
+    },
+    {
+      "step": "Kết quả",
+      "desc": "Chồng đẹp trai hơn, vợ thấy sự thay đổi rõ rệt.",
+      "impact_level": "3",
+      "viewer_emotion": "Ngạc nhiên"
+    },
+    {
+      "step": "Thông tin địa điểm",
+      "desc": "Địa chỉ Khang Barber Shop ở Bình Tân.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Lưu lại rồi ghé tuốt tần tật nhan sắc lại ngay nào."
+  ],
+  "cta_type": [
+    "Lưu video",
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "thất vọng",
+    "mê",
+    "yên tâm",
+    "xịn sò",
+    "ghen tị",
+    "thay đổi lớn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ở đây á thì rẻ, cắt tóc thì đẹp, nhân viên thì nhiệt tình.",
+    "Tay nghề của mấy ní ở đây chuẩn lắm, làm nhẹ nhàng nên là yên tâm giao cái vẻ đẹp nam vương này cho họ liền.",
+    "Dù tôi không được đẹp như Hiếu thứ hai so với kỳ vọng ban đầu mà vợ tôi đặt ra nhưng mà thôi trông cũng rất gì và này nọ đó."
+  ],
+  "hook_content": "Tôi á là tôi thiệt sự khuyên mấy bạn nam ở khu vực Bình Tân cẩn thận với cái tiệm hớt tóc này.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review Khang Barber Shop ở Bình Tân, nơi vợ đưa chồng đi làm tóc để cải thiện nhan sắc. Chủ kênh chia sẻ trải nghiệm thực tế, đánh giá cao dịch vụ và tay nghề của tiệm.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán nhậu núp hẻm ở Phú Nhuận với đồ ăn ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về địa điểm ăn uống mới."
+    },
+    {
+      "step": "Đề xuất món",
+      "desc": "Gợi ý các món nên thử như cá tê tượng chiên xù, vịt nấu chao.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú với các món ăn được gợi ý."
+    },
+    {
+      "step": "Miêu tả món ăn",
+      "desc": "Miêu tả chi tiết hương vị, độ tươi ngon của từng món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng và muốn thử ngay."
+    },
+    {
+      "step": "Gợi ý thêm",
+      "desc": "Gợi ý thêm các món khác như ếch chiên nước mắm, gỏi tai heo.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong muốn khám phá thêm nhiều món khác."
+    },
+    {
+      "step": "Thông tin quán",
+      "desc": "Nhấn mạnh quán có menu đa dạng và không gian rộng rãi.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết thêm thông tin hữu ích về quán."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bạn nào mà đang thèm hai món này thì qua đây ăn thử nha.",
+    "Bạn nào đang tìm một quán nhậu lai rai họp mặt bạn bè thì đến đây nha, rất là ok luôn á mọi người."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "siêu ngon",
+    "chất lượng",
+    "thèm",
+    "mê",
+    "ngon không gì bạn",
+    "siêu dính",
+    "đậm đà",
+    "thơm",
+    "mềm ngon",
+    "ngon lắm luôn á",
+    "bao hợp",
+    "ngon thấm lắm nha"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đúng là ở Sài Gòn mình quán mà núp hẻm là auto ngon nha cả nhà.",
+    "Cá tê tượng chiên xù, ta nói lâu lâu ăn cá chấm với nước mắm kẹo nó ngon không gì bạn.",
+    "Thịt vịt nấu mềm ngon, ăn là muốn ăn hoài á mọi người ngon lắm luôn á."
+  ],
+  "hook_content": "ta tự chiên xù. Lúc mà bếp chiên lên á thì cái độ giòn của nó rất là giòn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video review quán nhậu Chợ Xưa núp hẻm ở Phú Nhuận với menu hơn 200 món, đặc biệt giới thiệu món cá tê tượng chiên xù và vịt nấu chao. Người review gợi ý đây là địa điểm lý tưởng để lai rai, họp mặt bạn bè.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

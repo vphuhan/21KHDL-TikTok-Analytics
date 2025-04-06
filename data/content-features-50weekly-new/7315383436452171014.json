@@ -1,0 +1,91 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món hải sản hấp cay kiểu Hàn và bánh mì khoai tây phô mai.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Anh trai và chồng phụ giúp chuẩn bị nguyên liệu và gia vị.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Hướng dẫn nấu ăn",
+      "desc": "Hướng dẫn chi tiết cách làm sốt và nhào bột bánh mì.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Chia sẻ cảm xúc",
+      "desc": "Chia sẻ về việc ít nhắc đến con vì sợ bị câu view.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm"
+    },
+    {
+      "step": "Hoàn thiện món ăn",
+      "desc": "Nướng bánh mì và hấp hải sản đến khi chín.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức"
+    },
+    {
+      "step": "Trình bày món ăn",
+      "desc": "Trình bày và cắt bánh mì, khoe độ giòn rụm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Mời mọi người cùng ăn và cảm nhận hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn ăn ngay"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Mời mọi người ăn cơm chung với cả nhà mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngon quá",
+    "ngon tuyệt vời",
+    "dữ dằn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mình cắt cái bánh tới đâu là nghe nó giòn rụpp rụpp đến đó.",
+    "Tuyệt. Dữ dằn vậy sao?",
+    "Hải sản hấp cay cấp độ 7 kiểu hàn"
+  ],
+  "hook_content": "Bữa nay ông anh mình còn hỏi chơi cho ổng thử cái món hải sản hấp cay này của Hàn mới được.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình nấu món hải sản hấp cay kiểu Hàn và bánh mì khoai tây phô mai tại nhà, với sự giúp đỡ của người thân. Video tập trung vào hướng dẫn chi tiết cách nấu và chia sẻ những khoảnh khắc đời thường của gia đình.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

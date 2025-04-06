@@ -1,0 +1,87 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu socola tươi của chị Hằng Du Mục và mời mọi người ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm"
+    },
+    {
+      "step": "Trình bày sản phẩm",
+      "desc": "Mô tả cách đóng gói và trạng thái của socola khi nhận hàng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá sản phẩm",
+      "desc": "Đánh giá chất lượng và hương vị socola, dù bị chảy.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Đề xuất giải pháp",
+      "desc": "Mong muốn cải thiện phương pháp vận chuyển để tránh chảy.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm"
+    },
+    {
+      "step": "Ăn thử sản phẩm",
+      "desc": "Ăn thử socola và mô tả hương vị chi tiết hơn.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi thất vọng"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Kết thúc video vì socola bị chảy, hẹn gặp lại.",
+      "impact_level": "1",
+      "viewer_emotion": "Tiếc nuối"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo",
+    "Gen Z"
+  ],
+  "cta_content": [
+    "mời mọi người ăn cùng mình nhé",
+    "Cảm ơn mọi người đã xem video của mình. Hẹn mọi người video sau. Tạm biệt."
+  ],
+  "cta_type": [
+    "Ăn cùng",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "đáng tiếc",
+    "vừa phải",
+    "thơm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Vị sô cô la thì ngon nhưng mà nó chảy hết sạch luôn.",
+    "Sô cô la ngon mọi người ạ. Chỉ đáng tiếc là nó bị chảy mất rồi.",
+    "Nó không quá ngọt, nó cũng không quá đắng, nó rất là kiểu vừa phải ấy."
+  ],
+  "hook_content": "Xin chào mọi người, hôm nay mình sẽ ăn thử socola tươi của chị hàng du mục, mời mọi người ăn cùng mình nhé.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review socola tươi của chị Hằng Du Mục, tuy nhiên sản phẩm bị chảy do vận chuyển. Mặc dù vậy, người review vẫn đánh giá cao hương vị của socola và mong muốn cải thiện phương pháp vận chuyển.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

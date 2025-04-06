@@ -1,0 +1,72 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Thấy người khác ăn bột nếp cuốn thú vị nên muốn ăn thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Thử ăn lần 1",
+      "desc": "Ăn thử bột nếp sống nhưng không ăn được.",
+      "impact_level": "2",
+      "viewer_emotion": "Thất vọng"
+    },
+    {
+      "step": "Nghiên cứu cách ăn",
+      "desc": "Xem lại cách ăn của người khác để tìm ra cách ăn đúng.",
+      "impact_level": "1",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "Thử ăn lần 2",
+      "desc": "Ăn một miếng nhỏ và tạo ra âm thanh thành công.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Dặn dò",
+      "desc": "Không được thở bằng mồm và nói chuyện khi ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z"
+  ],
+  "cta_content": [
+    "không nên làm theo nha mọi người, bye bye mọi người."
+  ],
+  "cta_type": [],
+  "emotion_keywords": [
+    "dị",
+    "không thể ăn nổi"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mình không biết cái bột chị ấy ăn là cái bột gì nên là mình sẽ mua cái bột nếp này về để ăn tai vì mình nghĩ bột nếp có thể ăn sống được chứ mấy cái bột kia ăn sống chắc chớt luôn á.",
+    "Mình vừa mới phải đônô một cái kiểu mình không thể ăn nổi cái này luôn ấy.",
+    "Mình kiểu mình kẹt cái đi kẹt lại trong mồm mình."
+  ],
+  "hook_content": "Ui nhìn cái chị này múc băng bột quấn phết nhờ, vừa quấn vừa dị.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình một người thử ăn mukbang bột nếp giống như một tiktoker khác. Ban đầu, người này đã gặp khó khăn khi ăn nhưng sau đó đã tìm ra cách ăn đúng và tạo ra âm thanh thành công.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

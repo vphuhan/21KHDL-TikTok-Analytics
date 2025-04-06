@@ -1,0 +1,85 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ăn sẽ nấu: thịt xào cay và canh đậu hũ non.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chia sẻ về cuộc sống",
+      "desc": "Chia sẻ về thời tiết, cuộc sống ở Hàn Quốc vào mùa đông.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Đi chợ",
+      "desc": "Dẫn người xem đi chợ, giới thiệu các nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với không khí chợ."
+    },
+    {
+      "step": "Chuẩn bị nấu ăn",
+      "desc": "Bắt đầu sơ chế và ướp thịt để chuẩn bị nấu ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Nấu canh",
+      "desc": "Nấu món canh đậu hũ non hải sản, hướng dẫn các bước.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến công thức nấu canh."
+    },
+    {
+      "step": "Xào thịt",
+      "desc": "Xào thịt cay, hướng dẫn cách làm sốt và xào thịt.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ món thịt xào cay."
+    },
+    {
+      "step": "Hoàn thiện và ăn tối",
+      "desc": "Mời mọi người ăn cơm tối cùng gia đình.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy ấm cúng và muốn ăn cùng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngọt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Hôm nay mình sẽ nấu bữa cơm thường ngày ở Hàn, có món thịt xào cay và canh đậu hũ non nha.",
+    "Dâu đầu mùa, ngon, ngọt mà có điều giá hơi chát.",
+    "Bạn nào mà không ăn cay được á thì mình cũng có thể xào với nước tương để mốt mình lên cái cá xào với nước tương cho mọi người tham khảo nha."
+  ],
+  "hook_content": "Wah! Siêu phẩm quá, ngon ghê ta.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình nấu bữa cơm nhà đơn giản với món thịt xào cay và canh đậu hũ non của một người đang sinh sống tại Hàn Quốc. Video cũng chia sẻ về cuộc sống, thời tiết và các nguyên liệu đặc trưng mùa đông ở Hàn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán ăn vặt",
+      "desc": "Người bán hàng mời khách tự chọn đồ ăn vặt tuổi thơ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú khi thấy các món ăn vặt quen thuộc."
+    },
+    {
+      "step": "Khách hàng mua bánh",
+      "desc": "Khách hàng muốn mua bánh nhưng không đủ tiền.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy tiếc nuối cho nhân vật."
+    },
+    {
+      "step": "Nhận lòng tốt",
+      "desc": "Người bán tặng bánh cho khách hàng.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm động trước sự tốt bụng."
+    },
+    {
+      "step": "Xin tiền ăn vặt",
+      "desc": "Khách hàng xin tiền để mua đồ ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy bình thường, không đặc biệt."
+    },
+    {
+      "step": "Mua đồ ăn vặt",
+      "desc": "Khách hàng mua các loại đồ ăn vặt khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn được chọn."
+    },
+    {
+      "step": "Xin thêm nước",
+      "desc": "Khách hàng xin thêm nước từ người bán.",
+      "impact_level": "1",
+      "viewer_emotion": "Không có cảm xúc gì đặc biệt."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "快乐"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "我学在快乐",
+    "老板娘要一毛钱辣椒，一把小螃蟹",
+    "我只剩五毛了, 可我两样都想吃"
+  ],
+  "hook_content": "没你站在这里了.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Kịch hóa",
+    "Đối thoại"
+  ],
+  "summarization": "Video ghi lại cảnh mua bán đồ ăn vặt tại một quán nhỏ, với các tình huống thường thấy như xin tiền mua đồ ăn, mua thiếu tiền, xin thêm nước.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

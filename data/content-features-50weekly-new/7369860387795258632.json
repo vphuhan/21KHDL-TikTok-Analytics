@@ -1,0 +1,91 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu về sự khác biệt khẩu phần ăn giữa Việt - Trung",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự khác biệt văn hóa ẩm thực"
+    },
+    {
+      "step": "So sánh",
+      "desc": "So sánh khẩu phần ăn lớn ở Trung Quốc và vóc dáng người",
+      "impact_level": "2",
+      "viewer_emotion": "Thắc mắc về bí quyết giữ dáng"
+    },
+    {
+      "step": "Giải thích",
+      "desc": "Lý giải về thói quen ăn uống và xu hướng ngoại hình",
+      "impact_level": "2",
+      "viewer_emotion": "Hiểu rõ hơn về văn hóa ẩm thực"
+    },
+    {
+      "step": "Miêu tả",
+      "desc": "Miêu tả độ lớn của các món ăn ở Trung Quốc",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với sự hào phóng trong ẩm thực"
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Đánh giá khả năng ăn hết khẩu phần ăn của người Việt",
+      "impact_level": "2",
+      "viewer_emotion": "Tự hỏi về khả năng ăn uống của bản thân"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Chia sẻ kinh nghiệm cá nhân và gợi ý về cân nặng",
+      "impact_level": "2",
+      "viewer_emotion": "Nhận ra ảnh hưởng của ẩm thực đến cân nặng"
+    },
+    {
+      "step": "Thông báo",
+      "desc": "Thông báo về nội dung video tiếp theo",
+      "impact_level": "1",
+      "viewer_emotion": "Mong chờ thông tin chi tiết hơn"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người đón xem tập sau nha."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "bất ngờ",
+    "hên"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "cái phần đồ ăn một người nó gấp đôi gấp ba lần ở Việt Nam",
+    "tụi con gái bên này nó phái cái gu mà thần tiên tỷ tỷ mà người ốm ốm ấy",
+    "Một tô ở đây ăn có khi là phải từ hai người ăn mới hết nha."
+  ],
+  "hook_content": "đi nghe người ta nói là một người Trung Quốc ăn bằng hai người Việt, không biết có thật không mà nhìn nè, cái phần đồ ăn một người nó gấp đôi gấp ba lần ở Việt Nam, mà vẫn không hiểu là tại sao con gái bên này lại giữ dáng hay như vậy, vẫn mình hạc xương mai.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video so sánh khẩu phần ăn của người Trung Quốc và Việt Nam, đồng thời giải thích về thói quen ăn uống và xu hướng giữ dáng của con gái Trung Quốc. Người nói chia sẻ trải nghiệm cá nhân khi ăn ở Trung Quốc và gợi ý về việc cân bằng chế độ ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

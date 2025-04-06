@@ -1,0 +1,80 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ăn kèm mắm tắc được tặng và trà hoa cúc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn và quà tặng."
+    },
+    {
+      "step": "Thưởng thức mắm tắc",
+      "desc": "Ăn và diễn tả cảm nhận về mắm tắc chua chua đã miệng.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử ngay."
+    },
+    {
+      "step": "Thông tin chương trình",
+      "desc": "Thông báo về chương trình tặng kèm trà hoa cúc và mắm tắc.",
+      "impact_level": "1",
+      "viewer_emotion": "Quan tâm đến ưu đãi."
+    },
+    {
+      "step": "Giới thiệu khô",
+      "desc": "Nhấn mạnh khô không hôi, khô rữa ba nắng, chiên giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng sản phẩm."
+    },
+    {
+      "step": "Hướng dẫn chiên khô",
+      "desc": "Hướng dẫn chiên khô với lửa nhỏ đến khi vàng giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Học hỏi được mẹo chiên khô ngon."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Khẳng định lại món ăn quá ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn được ăn thử ngay lập tức."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "chua chua",
+    "đã ghê",
+    "giòn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mắm tắc là mình được tặng thêm đó mọi người.",
+    "Nó chua chua ăn đã ghê á.",
+    "Quá ngon."
+  ],
+  "hook_content": "Tắm với mắm tắc sốp cho.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video mukbang giới thiệu món ăn kèm mắm tắc được tặng và trà hoa cúc đường phèn. Người dùng trải nghiệm và đánh giá món ăn, đồng thời chia sẻ thông tin về chương trình khuyến mãi và cách chiên khô.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

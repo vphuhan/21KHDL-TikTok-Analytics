@@ -1,0 +1,93 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn và bản thân",
+      "desc": "Giới thiệu món cà pháo ngâm và chia sẻ về sở thích nấu ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về công thức."
+    },
+    {
+      "step": "Chọn cà pháo",
+      "desc": "Hướng dẫn cách chọn cà pháo non và già khi mua.",
+      "impact_level": "2",
+      "viewer_emotion": "Học được mẹo hữu ích."
+    },
+    {
+      "step": "Sơ chế cà pháo",
+      "desc": "Hướng dẫn rửa, cắt và ngâm cà pháo trong nước muối chanh.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhớ các bước."
+    },
+    {
+      "step": "Nấu nước ngâm",
+      "desc": "Hướng dẫn nấu nước ngâm cà với các tỉ lệ gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Lưu lại tỉ lệ gia vị."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Băm nhỏ gừng, tỏi, ớt để trộn vào nước ngâm.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết thêm mẹo nhỏ giúp món ăn thơm hơn."
+    },
+    {
+      "step": "Ngâm cà pháo",
+      "desc": "Trộn cà pháo với nước ngâm và cho vào hũ.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức muốn thử."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Giới thiệu thành phẩm sau 2 ngày và 1 tháng ngâm.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng món ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Có gì mấy chị lưu lại cái cách này làm ăn thử nha.",
+    "Có gì mấy chị tham khảo thử nghen."
+  ],
+  "cta_type": [
+    "Lưu video",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "giòn",
+    "đậm đà",
+    "ngon",
+    "thơm",
+    "chua chua ngọt ngọt",
+    "thèm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đây á là cái công thức ngâm cà pháo trắng giòn đậm đà ngon nhất mà đó giờ em từng ăn luôn á mấy chị ơi.",
+    "Nếu mà không có ngon á bắt đền em nè.",
+    "Mỗi lần mà ăn cơm á, lấy ra khoảng múc một giá bỏ vô tô cơm thôi. Trời ơi em nói là nhức cái nách luôn nha."
+  ],
+  "hook_content": "Đây á là cái công thức ngâm cà pháo trắng giòn đậm đà ngon nhất mà đó giờ em từng ăn luôn á mấy chị ơi.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn chi tiết cách ngâm cà pháo trắng giòn đậm đà tại nhà, từ khâu chọn nguyên liệu, sơ chế, nấu nước ngâm đến khi thưởng thức thành phẩm. Người hướng dẫn chia sẻ kinh nghiệm cá nhân và các mẹo để món ăn thêm ngon.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

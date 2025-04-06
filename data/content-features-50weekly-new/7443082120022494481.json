@@ -1,0 +1,93 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán và sản phẩm",
+      "desc": "Giới thiệu quán nước bình dân, giá rẻ và đa dạng sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán và các loại đồ uống."
+    },
+    {
+      "step": "Review nước trái cây",
+      "desc": "Đánh giá hương vị, độ ngọt và thành phần của ly nước.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự tươi mát và hương vị trái cây."
+    },
+    {
+      "step": "Review trà mãng cầu",
+      "desc": "Nhận xét về độ sệt, lượng mãng cầu và giá cả.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với lượng topping và giá trị của sản phẩm."
+    },
+    {
+      "step": "Review cam chanh dây",
+      "desc": "Đánh giá hương vị cam chanh dây đậm đà và mùi thơm.",
+      "impact_level": "3",
+      "viewer_emotion": "Kích thích vị giác và muốn thử ngay."
+    },
+    {
+      "step": "Review yogurt",
+      "desc": "Nhận xét độ ngọt và đề xuất nên bỏ đá.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường và lưu ý về độ ngọt."
+    },
+    {
+      "step": "Review trà táo bạc hà",
+      "desc": "So sánh với sở thích của người khác và đánh giá hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị và gợi nhớ kỷ niệm."
+    },
+    {
+      "step": "Review Matcha Latte và khoai môn",
+      "desc": "Đánh giá các loại đồ uống khác nhau và so sánh hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng và hương vị tuổi thơ."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "ngon",
+    "vừa vặn",
+    "thích",
+    "dễ thương",
+    "đáng yêu",
+    "ngọt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ê uống vô tôi uống nước thị không á?",
+    "Cái cam nó thơm nhức nách luôn.",
+    "Uống vô đưa về tuổi thơ."
+  ],
+  "hook_content": "Không, trên mạng, ngoài đời mọi người nhìn giùm em đi. Đoán đi quán này tên gì? Đoán đi quán nước tên gì, mọi người đoán giùm em một cái.",
+  "hook_type": [
+    "Gây tò mò",
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh",
+    "Liệt kê"
+  ],
+  "summarization": "Video review tiệm nước Lúc Anh Lúc Ánh, tập trung vào đánh giá các loại đồ uống như nước trái cây, trà mãng cầu, cam chanh dây, matcha latte và các loại khoai môn, đồng thời nhận xét về hương vị, thành phần và giá cả.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

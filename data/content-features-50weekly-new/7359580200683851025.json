@@ -1,0 +1,71 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu cốc mì ly giá 72k và lý do mua.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về lý do giá cao."
+    },
+    {
+      "step": "Đánh giá bên ngoài",
+      "desc": "Mô tả mì bên trong, mùi thơm hải sản khô.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn, muốn xem tiếp."
+    },
+    {
+      "step": "Thất vọng ban đầu",
+      "desc": "Không có mặt mèo như quảng cáo, phải tự vẽ.",
+      "impact_level": "2",
+      "viewer_emotion": "Hụt hẫng, thấy hài hước."
+    },
+    {
+      "step": "Nếm thử",
+      "desc": "Ăn thử mì và tôm, đánh giá mùi vị thanh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung vào trải nghiệm ăn."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Thất vọng vì không có mặt mèo, chất lượng mì ổn.",
+      "impact_level": "2",
+      "viewer_emotion": "Có cái nhìn tổng quan hơn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thất vọng",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Thật ra ban đầu mình mua cái mì này vì mình tưởng nó có cái mặt mèo như ở trong hình ảnh quảng cáo.",
+    "Mình vẽ hơi xấu nhưng mà thôi không sao cả.",
+    "Cái sợi mì thì nó dẹt và ăn thì nó thanh như kiểu mì không chiên ấy."
+  ],
+  "hook_content": "Cái hộp mì ly này mình mua với giá 72k.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review cốc mì ly giá 72k, tập trung vào trải nghiệm thất vọng ban đầu vì không có mặt mèo như quảng cáo, nhưng chất lượng mì và topping khá ổn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

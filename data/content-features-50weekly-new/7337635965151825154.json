@@ -1,0 +1,88 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Món ba chỉ lắc xả tắc dễ làm, phù hợp sau Tết.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Sơ chế",
+      "desc": "Luộc thịt với gừng sả, xăm bì, sát chanh và muối.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, các bước chuẩn bị quen thuộc."
+    },
+    {
+      "step": "Chiên thịt",
+      "desc": "Chiên thịt với mẹo bột mì để không bị bắn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với mẹo chiên thịt."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Thái sả, quất bỏ hạt, lá chanh.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, dễ thực hiện."
+    },
+    {
+      "step": "Trộn và ướp",
+      "desc": "Trộn thịt với sả, quất, ớt và gia vị, ướp 10 phút.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn, mong chờ hương vị."
+    },
+    {
+      "step": "Trình bày",
+      "desc": "Xếp thịt ra đĩa, thêm lá chanh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng khi nhìn thành phẩm."
+    },
+    {
+      "step": "Lời mời",
+      "desc": "Món nhậu hấp dẫn, mời mọi người cùng ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mời các bác ăn cùng với nhà tôi nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "thích",
+    "thơm",
+    "giòn",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Món ba chỉ lắc xả tắc này nhà tôi ai cũng thích mà làm cũng rất là đơn giản.",
+    "Có một mẹo nhỏ là khi dầu nóng thì các bác cho một ít bột mì vào rán sẽ không bị bắn đâu.",
+    "Các bác nghe tiếng này thì đoán là bì có giòn không?"
+  ],
+  "hook_content": "Tiếp tục lại là những mâm cơm nhà giải ngắn sau Tết của nhà tôi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món ba chỉ lắc sả tắc đơn giản tại nhà, phù hợp để giải ngán sau Tết. Các bước thực hiện nhanh gọn, dễ làm theo.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

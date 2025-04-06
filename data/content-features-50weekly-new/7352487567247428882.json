@@ -1,0 +1,84 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món súp cua tuyết hải sản và kế hoạch ăn món Hàn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, giới thiệu món ăn sắp nấu."
+    },
+    {
+      "step": "Đi chợ cùng gia đình",
+      "desc": "Đi chợ cùng các con, mua bánh và hải sản cho món súp.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị khi thấy cảnh gia đình đi chợ."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Rửa hải sản và cua tuyết, chuẩn bị các nguyên liệu khác.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, quá trình chuẩn bị nguyên liệu."
+    },
+    {
+      "step": "Nấu nước dùng",
+      "desc": "Nấu nước dùng với viên gia vị và các loại rau củ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, quá trình nấu nước dùng."
+    },
+    {
+      "step": "Pha sốt",
+      "desc": "Pha nước sốt với tương ớt, tương đậu và các gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị với công thức pha sốt đơn giản."
+    },
+    {
+      "step": "Hoàn thành món ăn",
+      "desc": "Cho hải sản, rau vào nồi và hoàn thành món súp cua.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị khi thấy món ăn hoàn thành."
+    },
+    {
+      "step": "Cả nhà cùng ăn",
+      "desc": "Mời mọi người cùng ăn và thưởng thức món súp cua.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấm áp khi thấy cả gia đình cùng ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "vui vẻ"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Hải sản mà ở bên Việt Nam á thì thường thường mình chỉ có hấp lên ăn thôi, còn cái món canh hải sản này của Hàn ăn cũng ngon quá chừng luôn.",
+    "Ngon lắm luôn.",
+    "Bỗng nhiên con lại thấy vui vẻ hẳn lên, có phải không?"
+  ],
+  "hook_content": "Mai mình ăn món Hàn bữa nữa rồi mai mình ăn món Việt Nam nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình nấu món súp cua tuyết hải sản kiểu Hàn Quốc cho bữa tối gia đình. Người nấu chia sẻ các bước chuẩn bị nguyên liệu, nấu nướng và cùng gia đình thưởng thức món ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Than thở về việc ngâm tỏi bị xanh và muốn giải quyết.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về lý do tỏi bị xanh."
+    },
+    {
+      "step": "Kêu gọi bạn bè",
+      "desc": "Mời bạn bè đến ăn để giải cứu hũ tỏi ngâm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hài hước vì cách giải quyết vấn đề."
+    },
+    {
+      "step": "Than vãn",
+      "desc": "Kể về việc bạn đến muộn và tự nhủ sẽ nghỉ chơi.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Nấu cháo canh",
+      "desc": "Chia sẻ về việc thích nấu ăn dù tốn thời gian.",
+      "impact_level": "2",
+      "viewer_emotion": "Khâm phục sự kiên nhẫn khi nấu ăn."
+    },
+    {
+      "step": "Giới thiệu trợ lý",
+      "desc": "Giới thiệu trợ lý kiêm phụ bếp và crush cấp ba.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị về mối quan hệ của họ."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Tự đánh giá món cháo canh của mình.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử món cháo canh này."
+    },
+    {
+      "step": "Nhận xét về bạn",
+      "desc": "Nhận xét về thói quen ăn uống của bạn và kết thúc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy vui vẻ và đồng cảm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "cay",
+    "mất thẩm mỹ",
+    "ngon",
+    "thích nấu ăn",
+    "sâu sắc",
+    "tỉ mỉ",
+    "cần mẫn",
+    "tử tế",
+    "chân thành"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đạt đủ KPI hết hũ giấm tỏi là mình sẽ nghỉ chơi.",
+    "Món này chỉ dành cho những ai thảnh thơi thôi.",
+    "Cháo canh hôm nay trăng tấm làm thì để khiêm tốn mà nói là chỉ thua ngoài quán cái bảng hiệu thôi."
+  ],
+  "hook_content": "Nghĩ thì cũng cay nha, ngâm tỏi mấy lần rồi mà lúc thì nó trắng, lúc nó xanh trông mất thẩm mỹ thiệt chứ.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video kể về trải nghiệm ngâm tỏi bị xanh của cô gái và quá trình nấu cháo canh Nghệ An để mời bạn bè ăn cùng, đồng thời chia sẻ về những kỷ niệm thời cấp ba. Cô cũng tự đánh giá món ăn của mình và nhận xét về thói quen ăn uống của bạn.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Nhấn mạnh việc bánh mì khoai tây không còn hot, không ai xếp hàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về lý do không còn ai xếp hàng."
+    },
+    {
+      "step": "Tham quan",
+      "desc": "Giới thiệu các loại bánh có tại tiệm bánh Ya.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng của các loại bánh."
+    },
+    {
+      "step": "Chọn bánh",
+      "desc": "Cân nhắc lựa chọn các loại bánh, chú ý giá cả.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường, hơi lăn tăn về giá."
+    },
+    {
+      "step": "Thanh toán",
+      "desc": "Thanh toán hóa đơn, hơi bất ngờ vì giá cao.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hơi tiếc tiền nhưng vẫn hào hứng."
+    },
+    {
+      "step": "Địa điểm",
+      "desc": "Giới thiệu khu vực ăn uống tại tiệm.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết thêm thông tin hữu ích."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Ăn và đánh giá từng loại bánh đã mua.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức xem review chi tiết."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Chấm điểm và đưa ra nhận xét về các loại bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến đánh giá cuối cùng."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "ngon",
+    "ngậy",
+    "mịn",
+    "mềm",
+    "hơi khó ăn",
+    "bình thường",
+    "chua chua",
+    "mặn mặn",
+    "đau ví"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "coi như bánh mì khoai tây bây giờ là lỗi trend",
+    "cảm giác như bây giờ khoai tây nó ở trên đầu của tôi",
+    "bánh xong rồi bên trong là có bánh flan nhìn nó núng na núng nính nha mọi người thấy nó đẹp không?"
+  ],
+  "hook_content": "coi như bánh mì khoai tây bây giờ là lỗi trend, coi như là khoai trend luôn rồi tại vì bây giờ sao?",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review tiệm bánh Ya, tập trung vào các loại bánh ngọt và bánh mì khoai tây nổi tiếng một thời, đồng thời đánh giá hương vị và giá cả của từng loại bánh.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

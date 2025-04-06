@@ -1,0 +1,73 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về việc chấm điểm quán Chu Linh của em Quang Linh.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá món cơm",
+      "desc": "Nhận xét về cơm lúa tôm cỏ mây: khô, rau mắc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Đánh giá món cá",
+      "desc": "Đánh giá cá kho tiêu: ngon nhưng giá hơi cao.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Đánh giá món khác",
+      "desc": "Nhận xét các món còn lại: cà muối, bánh chuối, chè.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Nhấn mạnh các món này rẻ nhất và hẹn gặp lại.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Hẹn mọi người chấm điểm video tiếp theo nha."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "vừa ăn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trời ơi bự lạnh nổi da gà nha.",
+    "C gạo là được rồi đó, nhưng mà mắc quá."
+  ],
+  "hook_content": "Chấm điểm quán Chu Linh của em Quang Linh Vlog.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video chấm điểm các món ăn tại quán Chu Linh của em Quang Linh Vlog, bao gồm cơm, rau, cá kho tiêu, cà muối, bánh chuối và chè, với các nhận xét về hương vị và giá cả.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

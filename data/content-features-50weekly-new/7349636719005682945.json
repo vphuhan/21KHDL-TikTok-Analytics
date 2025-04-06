@@ -1,0 +1,67 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món cà pháo mắm tôm và mời mọi người cùng ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Ăn và cảm nhận",
+      "desc": "Ăn cà pháo mắm tôm và bày tỏ cảm xúc ngon miệng.",
+      "impact_level": "3",
+      "viewer_emotion": "Phấn khích"
+    },
+    {
+      "step": "Kêu gọi tương tác",
+      "desc": "Hỏi khán giả muốn ăn món gì và tạm biệt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người muốn Bảo ăn thêm món gì thì bình luận cho Bảo biết với nha."
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "Ngon",
+    "Chạy nước miếng",
+    "Ngon mà xỉu á",
+    "Xỉu đau luôn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ngon quá má ơi.",
+    "Ngon mà xỉu á xỉu đau luôn.",
+    "Chạy nước miếng chưa?"
+  ],
+  "hook_content": "Ngon quá má ơi. Nay Bảo ăn gì? Mời mọi người ăn, gà pháo mắm tôm. Chạy nước miếng chưa?",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang cà pháo mắm tôm, người ăn mời mọi người cùng ăn và thể hiện sự ngon miệng, sau đó kêu gọi bình luận món ăn yêu thích.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

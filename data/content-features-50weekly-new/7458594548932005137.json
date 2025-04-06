@@ -1,0 +1,73 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Mời mọi người cùng ăn hột vịt lộn",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Trải nghiệm món ăn",
+      "desc": "Người ăn bắt đầu ăn hột vịt lộn và cảm nhận hương vị",
+      "impact_level": "3",
+      "viewer_emotion": "Tập trung theo dõi"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét về độ ngon, độ cay, độ nóng của món ăn",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Đặt câu hỏi tương tác",
+      "desc": "Hỏi người xem đã ăn bao nhiêu trứng hột vịt lộn",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Kết thúc video",
+      "desc": "Cảm ơn người xem đã theo dõi video",
+      "impact_level": "1",
+      "viewer_emotion": "Lịch sự"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người đã xem hết video của em nha."
+  ],
+  "cta_type": [
+    "Chia sẻ công thức"
+  ],
+  "emotion_keywords": [
+    "Ngon",
+    "vừa cay vừa nóng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ngon quá",
+    "vừa cay vừa nóng"
+  ],
+  "hook_content": "Mời mọi người ăn hột vịt lộn với em nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang ghi lại quá trình người ăn ăn hột vịt lộn, vừa ăn vừa trò chuyện và tương tác với người xem.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

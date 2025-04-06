@@ -1,0 +1,73 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món xiên bẩn và sự tranh cãi về tên gọi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn và tên gọi."
+    },
+    {
+      "step": "Giải thích tên gọi",
+      "desc": "Giải thích về tên gọi \"xiên bẩn\" và sự thông cảm.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thông tin hữu ích."
+    },
+    {
+      "step": "Kỷ niệm sinh viên",
+      "desc": "Chia sẻ kỷ niệm về món xiên bẩn thời sinh viên.",
+      "impact_level": "2",
+      "viewer_emotion": "Nhớ lại kỷ niệm tương tự."
+    },
+    {
+      "step": "Đánh giá địa điểm",
+      "desc": "Đánh giá các hàng xiên bẩn ở cổng trường HLU.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử các hàng xiên bẩn này."
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Nhấn mạnh về việc hạn chế ăn vì không healthy.",
+      "impact_level": "1",
+      "viewer_emotion": "Lưu ý về sức khỏe."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "bonding"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "tại nó ngon chứ sao",
+    "cũng giống mấy cái đứa thấy red flag mà cứ đâm đầu đấy",
+    "ngon thì ngon thật đấy, nhưng mà hạn chế ăn thôi nhá, vì nó không healthy tí nào cả"
+  ],
+  "hook_content": "Chắc đây là món ăn có cái tên gây tranh cãi giang cư mận nhất nhì top top. Đấy là xiên bẩn.",
+  "hook_type": [
+    "Gây tranh cãi"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món xiên bẩn gây tranh cãi về tên gọi, chia sẻ kỷ niệm thời sinh viên và đánh giá các hàng quán ở cổng trường HLU, đồng thời đưa ra lời khuyên về việc hạn chế ăn vì không tốt cho sức khỏe.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

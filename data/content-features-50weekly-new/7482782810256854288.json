@@ -1,0 +1,100 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu mở đầu",
+      "desc": "Giới thiệu về series khám phá ẩm thực tại chợ Cát Bi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về những món ăn được review."
+    },
+    {
+      "step": "Review nem thính",
+      "desc": "Đánh giá hương vị, thành phần và trải nghiệm khi ăn nem thính.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món nem thính."
+    },
+    {
+      "step": "Review sứa đỏ",
+      "desc": "Lần đầu thử sứa đỏ và chia sẻ cảm nhận về món ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về hương vị của sứa đỏ."
+    },
+    {
+      "step": "Review phở cuốn",
+      "desc": "Đánh giá phở cuốn và so sánh với các quán khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự khác biệt của phở cuốn."
+    },
+    {
+      "step": "Tráng miệng hoa quả rầm",
+      "desc": "Thưởng thức và miêu tả hương vị của hoa quả rầm.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy tươi mát và giải khát."
+    },
+    {
+      "step": "Thưởng thức chè thập cẩm",
+      "desc": "Đánh giá hương vị và các loại topping của chè thập cẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi sự đa dạng của chè thập cẩm."
+    },
+    {
+      "step": "Tổng kết và chi phí",
+      "desc": "Tổng kết trải nghiệm và thông báo chi phí các món ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Quan tâm đến giá cả và địa điểm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người nhớ follow mình để cùng khám phá hết các quán trong chợ Cát Bi này nha."
+  ],
+  "cta_type": [
+    "Follow kênh",
+    "Xem video tiếp theo",
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "hấp dẫn",
+    "thơm bùi",
+    "ngọt ngọt",
+    "béo thơm",
+    "mát lạnh",
+    "nhẹ bụng",
+    "đầy đủ vị",
+    "giòn",
+    "sần sật",
+    "chua chua",
+    "ngọt ngọt",
+    "cay cay"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "nem cuốn cùng lá sung, bánh tráng với một ít rau sống rồi chấm cùng cái mắm chua chua ngọt ngọt cay cay nó cứ phải gọi là ngon hết nước chừng",
+    "ăn nó có vị ngọt ngọt của hoa quả thêm cái độ béo thơm của sữa, mát lạnh của đá ăn vào cảm giác nó nhẹ bụng hơn hẳn",
+    "Đúng kiểu chè thập cẩm ăn nó đầy đủ vị béo, ngọt, thơm, ngon nha."
+  ],
+  "hook_content": "chị ạ. Em xuất em thính nhá. Vâng. Em thêm một ít sứa đỏ. Đây là chợ Cát Bi ở Hải Phòng.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review các món ăn tại chợ Cát Bi, Hải Phòng, bao gồm nem thính, sứa đỏ, phở cuốn, hoa quả rầm và chè thập cẩm. Người làm video chia sẻ cảm nhận về hương vị và giá cả của từng món, đồng thời kêu gọi người xem theo dõi để khám phá thêm nhiều quán ăn khác.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

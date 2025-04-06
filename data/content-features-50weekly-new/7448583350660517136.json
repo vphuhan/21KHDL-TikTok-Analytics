@@ -1,0 +1,86 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món gà xào lá é và sự chuẩn bị kỳ công.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Hồi tưởng khó khăn",
+      "desc": "Chia sẻ về những khó khăn khi mới bắt đầu nấu ăn trên TikTok mùa dịch.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Vượt khó thành công",
+      "desc": "Vượt qua khó khăn, được khen ngợi và cảm thấy thành công.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Kết nối nhãn hàng",
+      "desc": "Liên hệ với nhãn hàng Number One và chiến dịch bền đam mê.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Quảng cáo sản phẩm",
+      "desc": "Quảng cáo Number One giúp tỉnh táo khi quay video vất vả.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Mời tham khảo",
+      "desc": "Khen món ăn ngon và mời mọi người tham khảo.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Kiến thức"
+  ],
+  "cta_content": [
+    "Tết này mà mỗi bạn mua một chai Number One á là bạn đã trực tiếp đóng góp vào quỹ bền đam mê 5 tỷ để tiếp năng lượng cho các ước mơ luôn á.",
+    "Có gì mấy chị tham khảo thử nghe."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thành công",
+    "vui",
+    "mừng",
+    "mệt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Thời điểm đó là khó khăn lắm luôn á mấy chị ơi.",
+    "Mới khởi đầu mà trầy trật đủ kiểu à, mà không biết làm sao mà em đi tiếp tới tận bây giờ luôn á.",
+    "Khi nào mà mệt mệt không có năng lượng á lấy ra uống một phát là tỉnh liền luôn á."
+  ],
+  "hook_content": "để có một cái video nấu ăn chỉnh chu cho mấy chị coi giống như bữa nay á là em cũng phải trầy da tróc vẩy lắm á nha.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video kể về quá trình nấu món gà xào lá é, chia sẻ những khó khăn ban đầu khi làm video nấu ăn trên TikTok và quảng cáo sản phẩm Number One giúp tăng năng lượng. Cuối cùng, người nấu khuyến khích người xem tham khảo món ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu pate miền Tây và cách ăn kèm với muối tiêu chanh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của món pate."
+    },
+    {
+      "step": "Thưởng thức và đánh giá",
+      "desc": "Ăn thử pate và so sánh hương vị với lần trước.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú khi thấy biểu cảm ngon miệng."
+    },
+    {
+      "step": "So sánh hương vị",
+      "desc": "So sánh pate với giò răm bông và trứng muối.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích khi có so sánh để hình dung."
+    },
+    {
+      "step": "Lời cảm ơn",
+      "desc": "Cảm ơn người xem và hẹn gặp lại ở video sau.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có cảm xúc đặc biệt."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người xem video của mình, hẹn ở video sau, tạm biệt."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "đã",
+    "bùi",
+    "ngậy"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ngon hơn chấm muối tiêu chanh ăn ngon hơn thật mọi người ạ.",
+    "Chính xác là nó giống giò răm bông.",
+    "Kiểu có thêm trứng muối nó bùi bùi ngậy ngậy ấy."
+  ],
+  "hook_content": "Hôm nay mình lại có ba tê miền Tây mọi người ạ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video này là một buổi mukbang pate miền Tây, người nói chia sẻ trải nghiệm ăn pate với muối tiêu chanh và so sánh hương vị với giò răm bông và trứng muối.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

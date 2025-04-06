@@ -1,0 +1,87 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mô tả thời tiết",
+      "desc": "Thời tiết thay đổi thất thường khiến việc đi chợ trở nên khó khăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Mua 2kg tôm tươi ngon và lên kế hoạch chế biến 3 món.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Sơ chế tôm",
+      "desc": "Lột vỏ, bỏ chỉ lưng tôm và tái bằng nước cốt chanh.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Làm sốt",
+      "desc": "Xay các loại gia vị và pha chế nước sốt đặc biệt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Trộn tôm với sốt",
+      "desc": "Trộn đều tôm đã sơ chế với nước sốt vừa pha.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Trình bày món ăn",
+      "desc": "Trang trí món ăn bằng rau thơm, ớt để thêm phần hấp dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Hoàn thành và thưởng thức",
+      "desc": "Giới thiệu 3 món tôm đã chế biến và mời mọi người ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Hào hứng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người ăn chung với cả nhà mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "tươi ngon",
+    "khoái",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Thấy tôm tươi ngon quá, mình với ba Tụi Hân mua 2 kg về ăn. Cứ mua 2 kg tôm vậy chứ trong đầu mình đã nhảy số được ba món rồi đó.",
+    "Nếu như mà cái món ăn của mình nó không được ngon mà nó đẹp mắt á thì nó cũng vớt vát lại chút xíu."
+  ],
+  "hook_content": "Bữa nay mình nhìn nhiệt độ thời tiết không cái là không biết mùa thu hay là mùa đông luôn á.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm món tôm sốt thái và tôm răng muối đơn giản tại nhà, bắt đầu bằng việc chia sẻ về thời tiết và kết thúc bằng việc mời mọi người cùng thưởng thức các món ăn ngon.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

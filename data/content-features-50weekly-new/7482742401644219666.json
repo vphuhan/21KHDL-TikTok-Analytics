@@ -1,0 +1,93 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người đi làm, dân văn phòng",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu về Nông Hiệp",
+      "desc": "Giới thiệu về Nông Hiệp và sự nổi tiếng trong lĩnh vực nông nghiệp.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về tổ chức nông nghiệp hàng đầu."
+    },
+    {
+      "step": "Tham quan quy trình sản xuất sâm",
+      "desc": "Dẫn đi xem bằng khen, chứng nhận, máy móc và quy trình sản xuất.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với quy trình sản xuất hiện đại."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu sản phẩm từ Nông Hiệp và Kangen, tập đoàn dược lớn.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến chất lượng và nguồn gốc sản phẩm."
+    },
+    {
+      "step": "Tham quan khu trưng bày",
+      "desc": "Tham quan khu trưng bày sản phẩm sâm của Nông Hiệp.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với các sản phẩm sâm đa dạng."
+    },
+    {
+      "step": "Thăm kho sâm khô",
+      "desc": "Thăm kho sâm khô và giới thiệu các loại sâm khác nhau.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các loại sâm và giá trị của chúng."
+    },
+    {
+      "step": "Chia sẻ về Tùng Hân",
+      "desc": "Chia sẻ về việc Tùng Hân nhập viện và tình hình sức khỏe.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thông và lo lắng cho sức khỏe của Tùng Hân."
+    },
+    {
+      "step": "Chuẩn bị bữa ăn",
+      "desc": "Chuẩn bị muối dầu mè để ăn thịt nướng và giới thiệu sản phẩm.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn ăn cùng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Mời mọi người ăn chung với cả nhà mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "đã",
+    "thương",
+    "hết hồn",
+    "đói",
+    "mê",
+    "đẹp"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Phải công nhận á là bước vô đây rồi nhìn cái gì cũng muốn đem về hết trơn luôn á.",
+    "Trời đang đói mà còn nghe tiếng này nữa. Hết hồn đá luôn.",
+    "Hay là nhà mình ăn thịt chiều cơm nha mọi người."
+  ],
+  "hook_content": "Này cả nhà mình đi thăm nơi sản xuất sâm của Nông Hiệp. còn gọi là Liên hợp tác xã Nông nghiệp quốc gia Hàn Quốc á mọi người.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video ghi lại hành trình đến thăm nông trại sản xuất sâm của Nông Hiệp tại Hàn Quốc, giới thiệu quy trình sản xuất và các sản phẩm sâm, đồng thời chia sẻ về tình hình sức khỏe của người thân và chuẩn bị bữa ăn tối.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

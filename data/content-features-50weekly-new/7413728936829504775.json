@@ -1,0 +1,84 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu phở Nam Định và nguồn gốc từ làng họ Cồ",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về nguồn gốc đặc biệt của món phở."
+    },
+    {
+      "step": "Địa điểm thưởng thức",
+      "desc": "Chia sẻ địa điểm ăn phở tại nhà chị Cồ Thanh Hương",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích cho ai muốn thử phở chuẩn vị."
+    },
+    {
+      "step": "Đặc điểm món ăn",
+      "desc": "Mô tả chi tiết về hương vị và thành phần của phở Nam Định",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung rõ hơn về hương vị đặc trưng của phở."
+    },
+    {
+      "step": "Cách thưởng thức",
+      "desc": "Hướng dẫn cách ăn phở Nam Định đúng điệu với gừng và giấm ớt",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử ngay cách ăn đặc biệt này."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét về độ ngọt, dai, thơm ngon của thịt bò bằm",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm giác thèm thuồng và muốn nếm thử."
+    },
+    {
+      "step": "Chấm điểm và xếp hạng",
+      "desc": "Chấm điểm 8 và xếp phở Nam Định vào top 1",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá và muốn thử món này."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Các bạn muốn tỉnh nào tiếp theo ???"
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "ngậy",
+    "thơm phức",
+    "ngọt",
+    "chắc",
+    "dai"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đặc trưng của phở Nam Định là nhiều gừng, nước mắm, nước thì có vị ngọt đậm, ít dậy mùi quế hồi.",
+    "Thịt bò bằm nhưng mà khi ăn thì vẫn có độ ngọt, chắc dai, ngậy ngậy, thơm phức.",
+    "Mình sẽ xếp hạng và chấm điểm món ăn truyền thống của 63 tỉnh thành Việt Nam theo cảm nhận cá nhân."
+  ],
+  "hook_content": "mình sẽ xếp hạng và chấm điểm món ăn truyền thống của 63 tỉnh thành Việt Nam theo cảm nhận cá nhân.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review phở Nam Định, tập trung vào nguồn gốc từ làng họ Cồ, hương vị đặc trưng, cách thưởng thức và đánh giá cá nhân của người làm video. Món phở này được chấm 8 điểm và xếp vào top 1.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bánh mì bò kho tự làm cho bữa tối gia đình.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Chuẩn bị bột bánh mì",
+      "desc": "Trộn bột mì, nước, đường, men và trứng gà theo công thức.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Nhồi và ủ bột",
+      "desc": "Nhồi bột nhiều lần và ủ cho đến khi nở gấp đôi.",
+      "impact_level": "1",
+      "viewer_emotion": "Kiên nhẫn"
+    },
+    {
+      "step": "Ướp thịt bò",
+      "desc": "Ướp thịt với tỏi, sả, hành tím và gia vị bò kho.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Tạo hình bánh mì",
+      "desc": "Chia bột, cán và tạo hình bánh mì, đậy kín để không bị khô.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Nấu bò kho",
+      "desc": "Xào thịt bò với sả, cà rốt, hành tây và nước.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ"
+    },
+    {
+      "step": "Nướng bánh mì",
+      "desc": "Nướng bánh mì đến khi vàng và thưởng thức cùng bò kho.",
+      "impact_level": "3",
+      "viewer_emotion": "Hạnh phúc"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Vậy thì mời mọi người ăn tối chung với cả nhà mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mì mình làm theo cách này mấy lần rồi mà lần nào cũng thành công hết.",
+    "Tuy là màu nó không có vàng đều như ở ngoài người ta bán nhưng mà vẫn ngon lắm luôn á.",
+    "Vừa nấu nồi bò kho vừa canh mấy ổ bánh mì"
+  ],
+  "hook_content": "Bữa nay đưa tụi Hoàn đi học xong nhà còn có hai mẹ con mình nè.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm bánh mì bò kho tại nhà, từ khâu chuẩn bị nguyên liệu, nhồi bột, ướp thịt đến khi hoàn thành món ăn. Tác giả chia sẻ kinh nghiệm cá nhân và mời mọi người cùng thưởng thức bữa tối.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

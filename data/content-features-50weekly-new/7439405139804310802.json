@@ -1,0 +1,76 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu táo đỏ Tôn Bằng và bày tỏ sự thất vọng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về trải nghiệm sản phẩm."
+    },
+    {
+      "step": "Mô tả chi tiết",
+      "desc": "Táo cứng, không tươi, không đều, khô và không có độ ẩm.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thất vọng và tò mò về chất lượng."
+    },
+    {
+      "step": "So sánh giá",
+      "desc": "Giá cao so với thị trường nhưng chất lượng không tương xứng.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy tiếc tiền và không hài lòng."
+    },
+    {
+      "step": "Đánh giá chất lượng",
+      "desc": "Táo khô, cứng như để lâu ngày, mất độ ẩm.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy kinh ngạc về chất lượng kém."
+    },
+    {
+      "step": "Đưa ra lời khuyên",
+      "desc": "Khuyên không nên mua lại sản phẩm này.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình và cảnh giác."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thất vọng",
+    "tiếc tiền",
+    "cứng ngắt",
+    "khô"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Táo của Tôn Bằng bán và cái kết thất vọng tiếc tiền mún xĩu",
+    "Sao cứng ngắt y như là mình để ở ngoài lâu vậy đó.",
+    "Không, cái thịt nó không còn cái độ ẩm nào luôn."
+  ],
+  "hook_content": "Review táo đỏ của Tôn Bằng bán và cái kết thất vọng nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review táo đỏ của Tôn Bằng, người mua thất vọng vì táo cứng, khô, không tươi và giá cao so với chất lượng. Chủ kênh khuyên không nên mua lại sản phẩm này.",
+  "tone_of_voice": [
+    "Khó chịu",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

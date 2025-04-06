@@ -1,0 +1,90 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người đi làm, dân văn phòng",
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu về Sài Gòn mưa và bà ngoại nhớ nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thương bà ngoại."
+    },
+    {
+      "step": "Ăn sáng",
+      "desc": "Gọi cháo gà ăn sáng vì trời mưa và bà ngoại không quen nấu.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Công việc bận rộn",
+      "desc": "Than thở về công việc bận rộn và thời gian trôi nhanh.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm với sự bận rộn."
+    },
+    {
+      "step": "Giới thiệu live stream",
+      "desc": "Thông báo về buổi live stream bán đồ gia dụng bếp trên TikTok.",
+      "impact_level": "2",
+      "viewer_emotion": "Có thể quan tâm nếu cần mua đồ gia dụng."
+    },
+    {
+      "step": "Ăn trưa và tối",
+      "desc": "Cho bà ngoại và ba ăn gà nấu cháo và gà nướng cơm lam.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy ấm áp và quan tâm đến gia đình."
+    },
+    {
+      "step": "Trải nghiệm Sài Gòn",
+      "desc": "Dẫn bà ngoại đi xe buýt hai tầng ngắm Sài Gòn về đêm.",
+      "impact_level": "3",
+      "viewer_emotion": "Thấy thích thú với trải nghiệm mới của bà ngoại."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Suy nghĩ về kế hoạch cho ngày mai và chuẩn bị đi ngủ.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về kế hoạch tiếp theo."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giải quyết đi xin cho xong, để ngày 18 tháng 9 này, giờ lúc 18 giờ mình sẽ live trên TikTok shop nha mọi người."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo",
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "thương",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Sài Gòn từ sáng là trời đã mưa sớm mọi người, mà dường như bà ngoại mình nhớ nhà hay sao á.",
+    "Gần 80 tuổi rồi bánh chưng này mới biết Sài Gòn về đêm là gì luôn á.",
+    "Phải công nhận là Sài Gòn về đêm đẹp thiệt luôn á, mà bữa nay nhà mình đi ngay ngày hơi xui, tao nói trời mưa lâm râm hồi hộp ghê luôn."
+  ],
+  "hook_content": "Sài Gòn từ sáng là trời đã mưa sớm mọi người, mà dường như bà ngoại mình nhớ nhà hay sao á.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện"
+  ],
+  "summarization": "Video ghi lại một ngày đi làm ở Sài Gòn của một người, kết hợp với việc chăm sóc bà ngoại và đưa bà đi trải nghiệm những điều mới mẻ ở thành phố. Trong đó, có các hoạt động ăn uống như ăn cháo gà, gà nướng cơm lam.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

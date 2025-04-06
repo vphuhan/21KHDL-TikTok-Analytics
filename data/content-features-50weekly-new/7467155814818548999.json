@@ -1,0 +1,81 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu nguyên liệu đặc biệt và món ăn độc đáo sắp nấu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Lấy ruột bầu và chia sẻ cách ướp cá lóc để khử tanh.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Nấu và hấp",
+      "desc": "Mô tả quá trình cho hột vịt lộn và cá vào bầu hấp.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Thành phẩm",
+      "desc": "Chia sẻ thành phẩm và sự cố nhỏ khi lấy bầu ra.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị."
+    },
+    {
+      "step": "Thưởng thức và quảng cáo",
+      "desc": "Thưởng thức món ăn kèm quảng cáo muối chấm.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi khó chịu vì quảng cáo."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Mà bên này đang có chương trình miễn phí ship toàn quốc đến hết mùng 10 âm lịch, nên cả nhà muốn đặt hàng thì nhanh tay nha.",
+    "Thôi, bây giờ mời cả nhà ăn cùng Tuấn, quảng cáo quá là bị chửi nữa."
+  ],
+  "cta_type": [
+    "Ăn cùng",
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "hấp dẫn",
+    "thơm phức",
+    "ngon",
+    "xuất sắc",
+    "mắc cười"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Vì bầu này á cũng ít người trồng nên khó kiếm lắm.",
+    "Tuấn đang lấy hết phần ruột ra để lát á cho đồ ăn vào rồi đậy nắp lại.",
+    "Nói chung, canh cái này á cũng phải thăm chừng, chứ chín quá là trái bầu nó rả ra luôn đó."
+  ],
+  "hook_content": "Hai trái bầu hồ lô nhìn đã không cả nhà.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn nấu món hột vịt lộn và cá lóc hấp bầu bằng trái bầu hồ lô độc đáo, chia sẻ quá trình chuẩn bị, nấu nướng và thưởng thức món ăn. Đồng thời, video cũng giới thiệu sản phẩm muối chấm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

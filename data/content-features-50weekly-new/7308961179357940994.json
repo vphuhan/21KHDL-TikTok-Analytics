@@ -1,0 +1,59 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Trả lời bình luận về việc ăn mì cay cấp độ 0",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Thể hiện",
+      "desc": "Đọc một đoạn thơ ngắn không liên quan đến mì cay",
+      "impact_level": "1",
+      "viewer_emotion": "Bối rối"
+    },
+    {
+      "step": "Điệp khúc",
+      "desc": "Lặp lại việc đi ăn một mình và không quen ai",
+      "impact_level": "1",
+      "viewer_emotion": "Khó hiểu"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mì cay cấp độ 0 được khômmm 😀"
+  ],
+  "hook_content": "Trả lời @thcmai539 Mì cay cấp độ 0 được khômmm 😀",
+  "hook_type": [
+    "Phản hồi bình luận",
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Đối thoại",
+    "Kịch hóa"
+  ],
+  "summarization": "Video trả lời một bình luận về việc ăn mì cay cấp độ 0 và sau đó trình bày một đoạn thơ và điệp khúc lặp đi lặp lại về việc đi ăn một mình.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

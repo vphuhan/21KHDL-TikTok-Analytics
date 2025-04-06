@@ -1,0 +1,80 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người đi làm, dân văn phòng",
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu tổng quan",
+      "desc": "Giới thiệu cửa hàng tạp hóa giá rẻ mới mở ở Bình Dương.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cửa hàng mới."
+    },
+    {
+      "step": "Khám phá sản phẩm",
+      "desc": "Liệt kê và cho thấy nhiều sản phẩm giá rẻ khác nhau.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với sự đa dạng."
+    },
+    {
+      "step": "Nhấn mạnh giá cả",
+      "desc": "Tập trung vào giá rẻ của các mặt hàng thiết yếu.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng vì giá quá rẻ."
+    },
+    {
+      "step": "Tiện ích mua sắm",
+      "desc": "Giới thiệu xe đẩy và không gian rộng rãi, máy lạnh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy tiện lợi khi mua sắm."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Nhấn mạnh quy mô lớn của cửa hàng và sự rẻ của sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên về độ chịu chơi của chủ cửa hàng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "rẻ",
+    "xôm",
+    "bự",
+    "lớn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Hàng hóa ở đây thực sự rất là rẻ, lại còn nằm ngay khu công nghiệp Dĩ An, rất là phù hợp cho những bà con, cô chú đang làm việc tại đây.",
+    "Chưa thấy cái bách hóa giá rẻ nào mà số lượng nó như thế này nè, chất đống như thế này nè.",
+    "Không có ai như cái bà Dung dân dã này hết trơn á, đã mở một cái lớn ở Sài Gòn rồi, mà giờ còn mở thêm cái ở Dĩ An Bình Dương luôn mà cái nào cũng to đùng đùng vậy rồi ai làm lại bà."
+  ],
+  "hook_content": "Bà con Dĩ An Bình Dương ơi, Bách hóa giá rẻ đã có mặt tại đây rồi nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Khuyến mãi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Liệt kê"
+  ],
+  "summarization": "Video giới thiệu một cửa hàng tạp hóa giá rẻ mới mở ở Bình Dương, với nhiều mặt hàng tiêu dùng giá cả phải chăng, phù hợp cho công nhân và người dân địa phương. Cửa hàng có không gian rộng rãi, nhiều tiện ích mua sắm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

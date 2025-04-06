@@ -1,0 +1,63 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu nguyên liệu",
+      "desc": "Giới thiệu có một miếng thịt và một quả dưa chuột",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chế biến món ăn",
+      "desc": "Thịt được rim, có vẻ thơm, và thêm hỗn hợp muối giấm đường",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Thịt rim đậm đà, gợi nhớ đến hương vị bún Huế",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Kết hợp và thưởng thức",
+      "desc": "Thử ăn kèm bánh mì, dầu trứng và sốt ớt",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ăn cái thịt này giống y như độ em đi ăn bún huế ấy",
+    "Ăn với dầu trứng với sốt ớt không cũng ngon ý"
+  ],
+  "hook_content": "Nay có một miếng thịt ăn món gì bây giờ được nhỉ? Vợ còn một quả dưa chuột.",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ cách chế biến món ăn đơn giản từ một miếng thịt và dưa chuột, sau đó ăn kèm với bánh mì và các loại gia vị khác. Món ăn gợi nhớ hương vị bún Huế.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

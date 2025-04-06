@@ -1,0 +1,84 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bánh kếp trứng cuộn siêu cấp xa xỉ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ 'xa xỉ' của món bánh."
+    },
+    {
+      "step": "Thực hiện món ăn",
+      "desc": "Ông chủ bắt đầu làm bánh, vẽ bánh và thêm trứng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với kỹ năng vẽ bánh của ông chủ."
+    },
+    {
+      "step": "Thêm nhân",
+      "desc": "Khách mang đồ ăn và yêu cầu thêm vào bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên với lượng nhân 'khủng' trong bánh."
+    },
+    {
+      "step": "Hoàn thành món ăn",
+      "desc": "Ông chủ cuộn bánh và than phiền về độ phức tạp.",
+      "impact_level": "2",
+      "viewer_emotion": "Hài hước với sự 'khó chịu' của ông chủ."
+    },
+    {
+      "step": "Tính tiền",
+      "desc": "Ông chủ tính tiền và có sự nhầm lẫn nhỏ.",
+      "impact_level": "2",
+      "viewer_emotion": "Buồn cười với sự 'mất tiền' vì khách mang đồ ăn."
+    },
+    {
+      "step": "Nhận xét của khách",
+      "desc": "Khách khen bánh ngon và ông chủ đẹp trai.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy vui vẻ vì khách hàng hài lòng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "xa xỉ",
+    "thơm",
+    "vừa to vừa tròn",
+    "ngon",
+    "tinh tế",
+    "đẹp trai",
+    "tốt bụng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Muốn nhiều nhân đến mức không gói hết được ấy.",
+    "Mọi người đều khen tay nghề của ông chủ giỏi mà người còn đẹp trai.",
+    "Bánh ông chủ làm cũng vừa to vừa tròn ăn lại ngon."
+  ],
+  "hook_content": "Ông chủ muốn một cái bánh kếp trứng cuộn siêu cấp xa xỉ.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Đối thoại",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video ghi lại quá trình làm bánh kếp trứng cuộn siêu xa xỉ theo yêu cầu của khách hàng, với nhiều loại nhân tự mang đến. Mặc dù ông chủ có vẻ hơi khó chịu nhưng vẫn hoàn thành món bánh một cách chuyên nghiệp.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

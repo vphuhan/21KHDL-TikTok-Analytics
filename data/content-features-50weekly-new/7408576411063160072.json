@@ -1,0 +1,74 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món mì trộn ớt và bắt đầu ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ cay."
+    },
+    {
+      "step": "Đánh giá độ cay",
+      "desc": "Nhấn mạnh độ cay của mì và cảm nhận.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy cay cùng người ăn."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét mì cay nhưng ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy món ăn hấp dẫn hơn."
+    },
+    {
+      "step": "Cảnh báo",
+      "desc": "Khuyến cáo không nên thử tại nhà, chỉ ăn để câu view.",
+      "impact_level": "1",
+      "viewer_emotion": "Hơi thất vọng."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Thông báo dừng ăn vì quá cay và cảm ơn người xem.",
+      "impact_level": "2",
+      "viewer_emotion": "Thông cảm với người ăn."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "cay",
+    "ngon",
+    "sợ",
+    "quá"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cay nhưng mà ngon phết mọi người ạ.",
+    "Sợ hết ruột rồi.",
+    "Nay mình ăn để câu view thôi."
+  ],
+  "hook_content": "Chào mọi người nhá.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang mì trộn ớt, người ăn vừa ăn vừa review độ cay và vị ngon của món ăn. Video kết thúc khi người ăn cảm thấy quá cay và không thể ăn tiếp.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món mì cay cấp 8 và lý do chọn cấp độ này.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ cay"
+    },
+    {
+      "step": "Nếm thử nước dùng",
+      "desc": "Nếm thử nước dùng và so sánh với quán ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Phản ứng với độ cay",
+      "desc": "Phản ứng với độ cay của mì, thể hiện sự khó khăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Đồng cảm, buồn cười"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "cay",
+    "cay quá",
+    "không nổi"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cay quá.",
+    "Không nổi luôn rồi."
+  ],
+  "hook_content": "Hello mọi người, hôm nay mình sẽ múc fan mì cay cấp tám nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang mì cay cấp 8, người ăn vừa ăn vừa review độ cay và những khó khăn khi ăn cay.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Hài hước",
+    "Chân thành"
+  ]
+}

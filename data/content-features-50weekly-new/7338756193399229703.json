@@ -1,0 +1,78 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu về mẹ",
+      "desc": "Tưởng nhớ người mẹ đã mất và chia sẻ về gia đình.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm động"
+    },
+    {
+      "step": "Chuẩn bị cúng giỗ",
+      "desc": "Chuẩn bị đồ cúng chay cho mẹ vào ngày giỗ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đi siêu thị",
+      "desc": "Mua sắm thực phẩm và rau củ quả tại siêu thị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Chiên cá cho con",
+      "desc": "Chuẩn bị bữa ăn cho các con, chiên cá.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Nấu mì cay",
+      "desc": "Nấu mì cay hải sản cho bữa tối gia đình.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi đói"
+    },
+    {
+      "step": "Trình bày và mời ăn",
+      "desc": "Trình bày món mì cay và mời mọi người cùng ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thích",
+    "yếu"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nhà mình á thì cách con sông, muốn đi qua nhà mình á thì phải đi đò mà về trễ quá đò người ta không đưa.",
+    "Ở bên Hàn Quốc không có mì cay nấu kiểu này mà ở bên Việt Nam lại có mì cay Hàn Quốc.",
+    "Nồi mì cay này mà về Việt Nam thì không biết bao nhiêu cành đây."
+  ],
+  "hook_content": "Tại sao mình không kể về mẹ, vậy đây là mẹ của mình.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn",
+    "Kể chuyện"
+  ],
+  "summarization": "Video kể về việc người mẹ làm món mì cay hải sản cho gia đình, xen lẫn những tâm sự về người mẹ đã khuất và cuộc sống hiện tại. Video cũng ghi lại quá trình đi siêu thị mua đồ và nấu ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

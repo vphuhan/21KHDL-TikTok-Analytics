@@ -1,0 +1,52 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu kẹo sáp hình con cú và hình dạng sản phẩm",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hình dáng của kẹo"
+    },
+    {
+      "step": "Đánh giá chất lượng",
+      "desc": "Đánh giá độ giòn bên ngoài và nhân hoa quả bên trong",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn ăn thử"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "phê",
+    "giòn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "bên ngoài cực giòn, bên trong là nhân hoa quả đủ loại, quá phê"
+  ],
+  "hook_content": "review cả thế giới kẹo sáp hình con cu, sắc cú",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review kẹo sáp hình con cú với lớp vỏ giòn và nhân hoa quả, được đánh giá là rất ngon.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

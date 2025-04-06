@@ -1,0 +1,91 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu ô mai sấu giòn nhà Mẫu Food và chất lượng sản phẩm",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm"
+    },
+    {
+      "step": "Mở hộp và miêu tả",
+      "desc": "Mở hộp ô mai, miêu tả mùi vị và các thành phần đi kèm",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với mùi thơm"
+    },
+    {
+      "step": "Trải nghiệm hương vị",
+      "desc": "Nếm thử ô mai sấu và mô tả chi tiết hương vị",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Đánh giá độ giòn, mọng nước và sự bùng nổ hương vị",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng và muốn thử"
+    },
+    {
+      "step": "Lời khuyên và so sánh",
+      "desc": "Khuyên mua và so sánh với các loại ô mai khác",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá"
+    },
+    {
+      "step": "Thông tin sản phẩm",
+      "desc": "Nhấn mạnh tính độc đáo và thông tin về sản phẩm",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy cấp bách muốn mua"
+    },
+    {
+      "step": "Kêu gọi mua hàng",
+      "desc": "Kêu gọi mua hàng và khẳng định chất lượng sản phẩm",
+      "impact_level": "3",
+      "viewer_emotion": "Quyết định mua"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Sản phẩm mình để ở góc màn hình. Mọi người nhanh tay kích mua và trải nghiệm nha."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "tuyệt vời",
+    "bùng nổ",
+    "chua chua ngọt ngọt cay cay mặn mặn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Quả sấu bên trong hạt nó rất là non và mọi người có thể cắn luôn được nha.",
+    "Khi mình cắn thì nó tứa ra những cái nước kiểu chua chua ngọt ngọt cay cay mặn mặn. Ôi bùng nổ.",
+    "Bạn nào mà không mua sấu nhà này về ăn ấy, thực sự là một điều đáng tiếc nha."
+  ],
+  "hook_content": "Cô ơi, cuối cùng thì ngày này cũng đã đến mọi người nhá.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review ô mai sấu giòn của nhà Mẫu Food, tập trung vào việc miêu tả hương vị, độ giòn và trải nghiệm ăn uống. Người review đánh giá cao sản phẩm và khuyến khích mọi người nên mua thử.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

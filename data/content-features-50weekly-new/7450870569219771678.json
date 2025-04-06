@@ -1,0 +1,89 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món sam nướng mỡ hành, nhấn mạnh kích thước lớn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với kích thước của món ăn."
+    },
+    {
+      "step": "Miêu tả hương vị",
+      "desc": "Miêu tả vị dai, bột của trứng sam và cảm giác ngán.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của trứng sam."
+    },
+    {
+      "step": "Ăn và đánh giá",
+      "desc": "Tiếp tục ăn, nhận xét về độ ngán và lượng trứng.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    },
+    {
+      "step": "Thể hiện sự ngán",
+      "desc": "Thành than thở vì mua con sam quá lớn.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với cảm giác ngán của người ăn."
+    },
+    {
+      "step": "Cho xem cận cảnh",
+      "desc": "Cho người xem thấy cận cảnh trứng sam với mỡ hành.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn nhưng hơi ngán."
+    },
+    {
+      "step": "Đánh giá thật",
+      "desc": "Thẳng thắn nhận xét không ngon như mong đợi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá thật của người ăn."
+    },
+    {
+      "step": "Kết thúc video",
+      "desc": "Cảm ơn và hẹn gặp lại ở video tiếp theo.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "cảm ơn cả nhà theo dõi video của Thành, hẹn gặp bạn ở video tiếp theo nha."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngán",
+    "sợ",
+    "kinh khủng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Một ê trứng từ đây qua đây luôn, trời ơi.",
+    "Quay cho mọi người coi thôi chứ Thành thấy nó không ngon thiệt sự là Thành thấy không ngon.",
+    "H tham lời mua con cho bự chà bá lửa vô giờ ăn ngán còn chết."
+  ],
+  "hook_content": "Bữa giờ tụi mình ăn nghén, bữa nay Thành mời cả nhà ăn sam nướng mỡ hành với hành nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video mukbang món sam nướng mỡ hành, người ăn chia sẻ trải nghiệm ăn món này từ lúc thèm đến khi thấy ngán vì quá nhiều trứng, và đánh giá thật là không ngon như mong đợi.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

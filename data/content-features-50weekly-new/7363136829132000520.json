@@ -1,0 +1,82 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người ăn chay, ăn healthy"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ớt chuông phô mai bỏ lò và lý do thực hiện.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Liệt kê nguyên liệu",
+      "desc": "Liệt kê các nguyên liệu cần thiết và công dụng của chúng.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Hướng dẫn sơ chế các nguyên liệu như cắt, thái nhỏ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, dễ hiểu."
+    },
+    {
+      "step": "Xào rau củ",
+      "desc": "Xào rau củ với bơ và nêm nếm gia vị đơn giản.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn hơn."
+    },
+    {
+      "step": "Nhồi và nướng",
+      "desc": "Nhồi rau củ vào ớt chuông, thêm phô mai và nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ kết quả."
+    },
+    {
+      "step": "Trình bày và đánh giá",
+      "desc": "Trình bày món ăn ra đĩa và so sánh với nhà hàng.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú với món ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Cùng tôi và Knorr nấm hương vào bếp ngay thôi nào.",
+    "Chúc các bác thành công."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngọt thấm đậm đà"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ớt chuông phô mai bỏ lò đã thay đổi suy nghĩ của chồng món chay là chán",
+    "vừa dinh dưỡng, vừa sang xịn như nhà hàng mà đơn giản có thể nấu ngay tại nhà",
+    "dùng duy nhất hạt nêm Knorr nấm hương mà món chay của nhà tôi vẫn tròn vị, ngọt thấm đậm đà, khác gì nhà hàng đâu"
+  ],
+  "hook_content": "Đôi khi nấu món chay nhưng chồng tôi luôn nói là ăn chay ở nhà thì không đủ chất, thả ra nhà hàng ăn các bác ạ.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món ớt chuông phô mai bỏ lò chay, món ăn này vừa dinh dưỡng lại có hương vị thơm ngon đậm đà không khác gì ngoài nhà hàng. Người làm video sử dụng hạt nêm Knorr nấm hương để tăng hương vị món ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

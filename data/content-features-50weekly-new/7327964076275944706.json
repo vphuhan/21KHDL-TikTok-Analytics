@@ -1,0 +1,92 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Khách du lịch, người Việt ở nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu Đà Lạt",
+      "desc": "Đà Lạt vào mùa này rất lạnh, lý tưởng để đi du lịch.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Giới thiệu quán sữa kem",
+      "desc": "Quán sữa kem Brazil thơm béo, mở đến 1 giờ sáng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Giới thiệu bánh tráng nướng",
+      "desc": "Bánh tráng nướng trứng lòng đào mỏng giòn, giá rẻ.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Giới thiệu quán ốc hút",
+      "desc": "Quán ốc hút ở ngã tư Ngã Năm, ốc tươi ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Giới thiệu bánh canh chả cá",
+      "desc": "Quán bánh canh bột gạo chả cá đông khách, giá phải chăng.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng"
+    },
+    {
+      "step": "Nhấn mạnh sữa kem",
+      "desc": "Uống sữa kem Brazil khi trời lạnh rất ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn thử ngay"
+    },
+    {
+      "step": "Tổng kết",
+      "desc": "Uống sữa nóng ở Đà Lạt lạnh là sướng nhất.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nếu mà có đi Đà Lạt á thì nhớ lưu lại cái clip này để lên Đà Lạt không biết ăn cái gì thì mở ra coi nha."
+  ],
+  "cta_type": [
+    "Lưu video",
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "lạnh",
+    "ngon",
+    "béo",
+    "ngậy",
+    "sướng nhất cuộc đời"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đà Lạt á đi mùa này là đã nhất, tao nói siêu lạnh luôn mấy bà ơi.",
+    "Đi Đà Lạt 4 ngày mà hết 3 ngày là tui ghé cái quán sữa kem Brazil này rồi đó mấy bà.",
+    "Ở Đà Lạt lạnh lạnh á, nuốt cái sữa kem này vô ta nói nó ngon nứt nách luôn á."
+  ],
+  "hook_content": "Đà Lạt á đi mùa này là đã nhất, tao nói siêu lạnh luôn mấy bà ơi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video giới thiệu những món ăn và quán ăn ngon, bổ, rẻ ở Đà Lạt trong thời tiết lạnh, bao gồm sữa kem Brazil, bánh tráng nướng, ốc hút và bánh canh chả cá, đặc biệt nhấn mạnh trải nghiệm uống sữa kem trong thời tiết lạnh.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

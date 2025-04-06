@@ -1,0 +1,87 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Đón người thân",
+      "desc": "Đón bà nội và ba từ sân bay về, chia sẻ cảm xúc.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm động trước tình cảm gia đình."
+    },
+    {
+      "step": "Giới thiệu Việt Nam",
+      "desc": "Bà nội lần đầu đến Việt Nam, trải nghiệm đi đò.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với trải nghiệm mới lạ."
+    },
+    {
+      "step": "Gặp gỡ gia đình",
+      "desc": "Bà nội gặp ông bà ngoại sau 6 năm xa cách.",
+      "impact_level": "3",
+      "viewer_emotion": "Xúc động, cảm thấy ấm áp."
+    },
+    {
+      "step": "Đãi cơm bà nội",
+      "desc": "Chuẩn bị bữa cơm đơn giản đãi bà nội mới về.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, giới thiệu món ăn."
+    },
+    {
+      "step": "Giới thiệu quà biếu",
+      "desc": "Giới thiệu đông trùng hạ thảo và tinh dầu thông đỏ.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến sản phẩm tốt cho sức khỏe."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chuyên nghiệp"
+  ],
+  "cta_content": [
+    "Rồi muốn mua hàng Hàn chuẩn cho gia đình á thì nhắn qua shop nha.",
+    "Giờ thì mời mọi người ăn cơm chung với cả nhà mình."
+  ],
+  "cta_type": [
+    "Truy cập trang cá nhân",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "quải",
+    "xuông sẻ",
+    "rưng rưng nước mắt",
+    "đuối",
+    "khỏe",
+    "khóc",
+    "không cầm được nước mắt",
+    "ăn ngon",
+    "ngủ ngon",
+    "tốt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ai nhào có bao lâu đâu mà gặp lại nhau ai cũng rưng rưng nước mắt hết.",
+    "Trời thiệt sự lúc này là mình đứng khóc theo bà nội Tụi Hân luôn á.",
+    "Dùng á thì mới thấy mấy cái hàng Hàn này tốt thật sự trên thị trường cũng nhiều người bán nhưng mà sản phẩm phục vụ sức khỏe này mình chỉ tin tưởng ở bên Min Su Shop thôi."
+  ],
+  "hook_content": "mình đi đón bà nội với ba tụi hơn của hai mẹ con mình từ cái lúc trời vừa sụp tối cho đến lúc trời sáng luôn.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Kể chuyện",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video ghi lại hành trình đón bà nội từ nước ngoài về Việt Nam, giới thiệu những khoảnh khắc xúc động của gia đình và chia sẻ về các sản phẩm chăm sóc sức khỏe mà bà nội mang làm quà.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món mắt cá ngừ đại dương nấu canh chua.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn đặc biệt."
+    },
+    {
+      "step": "Miêu tả nguyên liệu",
+      "desc": "Mô tả mắt cá ngừ to như lòng bàn tay, nhiều thịt.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với kích thước mắt cá."
+    },
+    {
+      "step": "Quá trình nấu",
+      "desc": "Chia sẻ cách nấu canh chua, vớt bọt để nước trong.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến bí quyết nấu ăn."
+    },
+    {
+      "step": "Trình bày món ăn",
+      "desc": "Mô tả nồi canh hấp dẫn với rau thơm và ớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món canh chua."
+    },
+    {
+      "step": "Giới thiệu vòng trầm",
+      "desc": "Giới thiệu vòng trầm hương Phật bản mệnh.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không liên quan ẩm thực."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Miêu tả hương vị và cảm nhận khi ăn mắt cá ngừ.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn nếm thử ngay lập tức."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Nhấn mạnh món canh chua mắt cá rất ngon và không ngán.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá tích cực."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nếu ai mà có cần thì mọi người nhắn cho chị ấy ha."
+  ],
+  "cta_type": [
+    "Truy cập trang cá nhân"
+  ],
+  "emotion_keywords": [
+    "thích",
+    "ngon",
+    "hấp dẫn",
+    "béo",
+    "cay cay",
+    "thơm",
+    "giòn giòn",
+    "bột bột",
+    "béo béo",
+    "đã",
+    "dai dai",
+    "cuốn",
+    "không ngán",
+    "béo hiền từ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái cục màu đen này thì nó giòn giòn nghe.",
+    "Mắt cá ngừ đại dương thì ngon nhất vẫn là cái phần thịt mỡ này nè. Thịt nó cứ nuốt na nuốt nít ăn cứ béo béo đã dữ lắm.",
+    "Đúng là cái món mắt cá ngừ đại dương này mà đem nấu canh chua thì không còn gì bằng nữa."
+  ],
+  "hook_content": "Hôm nay thì mình sẽ đi chợ kiếm một cái món mà bữa giờ cũng lâu lắm rồi chưa có ăn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu món mắt cá ngừ đại dương nấu canh chua, chia sẻ cách nấu và cảm nhận hương vị đặc biệt của món ăn này. Bên cạnh đó, người làm video cũng giới thiệu thêm về vòng trầm hương.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

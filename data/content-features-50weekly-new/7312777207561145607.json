@@ -1,0 +1,90 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quả lạ",
+      "desc": "Mô tả quả lạ mà ít người biết, tạo sự tò mò.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Giải thích hương vị",
+      "desc": "Người bán mô tả quả có đủ vị chua, chát, ngọt.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên"
+    },
+    {
+      "step": "Trải nghiệm thực tế",
+      "desc": "Liếm thử vỏ, ngâm muối, và nếm để kiểm chứng vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Cảm nhận vị chua, chát, độ giòn và so sánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "Mẹo ăn",
+      "desc": "Hướng dẫn cách ăn để cảm nhận vị ngọt sương sương.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Thử với nước",
+      "desc": "Uống nước sau khi ăn nhưng không thấy vị ngọt mát.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Tổng kết",
+      "desc": "Tóm tắt các vị và tên gọi của quả mắc kham.",
+      "impact_level": "2",
+      "viewer_emotion": "Nhớ lâu"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngọt",
+    "chua",
+    "chát",
+    "giòn",
+    "ngon",
+    "khó chịu"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Quả này được mệnh danh là cái quả đủ mọi dư vị trong cuộc đời, chua, chát, ngọt, cả ba cái vị này nó đều tích hợp trong một quả này.",
+    "Nó chua nó chát nhưng mà không làm cho mình có cái cảm giác bị quá khó chịu ấy.",
+    "Nếu cho mình một quả mận chua và một cái quả này chua thì mình sẽ thích ăn quả này hơn đấy, bởi vì nó giòn ngon hơn"
+  ],
+  "hook_content": "99,9999999% mọi người không biết quả này là quả gì.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quả mắc kham với chia sẻ trải nghiệm ăn và cảm nhận các vị chua, chát, ngọt. Người bán giới thiệu quả này có đủ mọi dư vị và người xem được khuyến khích thử để cảm nhận.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

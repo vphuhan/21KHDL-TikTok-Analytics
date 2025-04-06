@@ -1,0 +1,83 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu quả cọ và chia sẻ về việc ăn sai cách trước đó.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn và cách chế biến."
+    },
+    {
+      "step": "Sửa sai",
+      "desc": "Nhận lỗi vì ăn sai cách và tìm hiểu cách chế biến đúng.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm với người review."
+    },
+    {
+      "step": "Mô tả cách chế biến",
+      "desc": "Hướng dẫn chi tiết cách làm sạch và ỏm quả cọ.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy có thêm kiến thức mới."
+    },
+    {
+      "step": "Thưởng thức và miêu tả",
+      "desc": "Ăn và miêu tả hương vị, kết cấu của quả cọ đã chế biến.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú muốn thử."
+    },
+    {
+      "step": "Đánh giá cá nhân",
+      "desc": "Đưa ra nhận xét cá nhân về món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tôn trọng ý kiến cá nhân."
+    },
+    {
+      "step": "Thông tin thêm",
+      "desc": "Chia sẻ thông tin từ mạng về trải nghiệm của người khác.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy thú vị với những chia sẻ này."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngọt",
+    "béo",
+    "thơm",
+    "chát",
+    "chua chua",
+    "béo bùi",
+    "ngậy ngậy"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cái quả cọ này sau khi ỏm lên thì nó đã mất đi vị đắng rồi các bạn ạ ăn nó sẽ có vị chát và một chút vị hơi chua chua ngoài ra thì nó còn có một cái vị béo bùi bùi ngậy ngậy nữa.",
+    "Cái thịt quả của nó khi ăn thì nó sẽ hơi bả và hơi một chút giòn giòn cái giòn của cái quả này nó giống như kiểu là nó có những cái hạt rất là nhỏ nó vỡ trong miệng mình ấy nó giòn kiểu lạ lạ như vậy các bạn ạ",
+    "Mình đọc trên mạng ấy thì mọi người bảo là cái quả này ai mà ăn quen ấy thì sẽ rất là thích và mê."
+  ],
+  "hook_content": "mọi người ăn lại quả cọ cùng với mình nha cái quả cọ này thì sẽ phải chế biến chứ không ăn được luôn các bạn ạ",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món quả cọ, bắt đầu bằng việc người nói nhận ra mình đã ăn sai cách và sau đó chia sẻ cách chế biến đúng, cuối cùng là đánh giá hương vị sau khi chế biến. Người nói không thích vị chua chát nhưng đánh giá cao vị béo bùi của nó.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

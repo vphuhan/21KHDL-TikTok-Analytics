@@ -1,0 +1,95 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món đậu phụ sốt thịt băm đang hot và hấp dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới lạ."
+    },
+    {
+      "step": "Sơ chế đậu phụ",
+      "desc": "Hướng dẫn cắt đậu phụ thành miếng dài để chuẩn bị chiên.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, dễ thực hiện theo."
+    },
+    {
+      "step": "Chiên đậu phụ",
+      "desc": "Chiên đậu phụ với mẹo nhỏ để đậu ngon và vàng đều.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với mẹo chiên đậu."
+    },
+    {
+      "step": "Sơ chế nguyên liệu khác",
+      "desc": "Chuẩn bị khoai tây và giới thiệu về các món ăn gia đình.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Xào thịt băm",
+      "desc": "Xào thịt băm với các gia vị để tạo hương vị đậm đà.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi mùi thơm của thịt."
+    },
+    {
+      "step": "Nấu đậu phụ",
+      "desc": "Cho đậu phụ đã chiên vào nồi thịt băm và đun liu riu.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ món ăn hoàn thành."
+    },
+    {
+      "step": "Hoàn thành món ăn",
+      "desc": "Thêm bột bắp và hành lá để món ăn sánh mịn và thơm ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Sáng tạo"
+  ],
+  "cta_content": [
+    "Mọi người nhớ nhấn like và lưu lại nhé",
+    "nếu bạn thấy có hữu ích thì nhấn cho mình một trái tim miễn phí nhé"
+  ],
+  "cta_type": [
+    "Thích video",
+    "Lưu video",
+    "Follow kênh",
+    "Chia sẻ công thức"
+  ],
+  "emotion_keywords": [
+    "thơm ngon",
+    "mềm mịn",
+    "ngon",
+    "vừa đậm đà",
+    "ăn hoài không ngán"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "đây là cách ăn đậu phụ mới đang hot rần rần trên mạng",
+    "mua một miếng đậu phụ già hơn cả vợ tôi",
+    "quán cơm dưới nhà tôi 10 phút bán được 50 suất"
+  ],
+  "hook_content": "Bật mí cho bạn, đây là cách ăn đậu phụ mới đang hot rần rần trên mạng.",
+  "hook_type": [
+    "Gây tò mò",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm món đậu phụ sốt thịt băm đang hot trên mạng, với các bước chi tiết từ sơ chế đến hoàn thành, cùng những mẹo nhỏ giúp món ăn thêm ngon miệng và hấp dẫn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

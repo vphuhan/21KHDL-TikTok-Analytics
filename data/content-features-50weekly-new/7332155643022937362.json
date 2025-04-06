@@ -1,0 +1,73 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Đặt vấn đề",
+      "desc": "Tại sao cơm trắng quán ăn lại đắt hơn cơm nhà?",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Giới thiệu quán ăn",
+      "desc": "Quán cơm nâng tầm món Việt, địa điểm nhiều người nước ngoài.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Thịt chưng mắm tép ngon, canh chua chất lượng, tốn cơm.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Thông báo",
+      "desc": "Quán thông báo nghỉ Tết, tranh thủ ghé ăn trước Tết.",
+      "impact_level": "2",
+      "viewer_emotion": "Tiếc nuối"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "anh em nào muốn ăn chắc phải ăn ngay bây giờ hoặc đợi sau Tết nhá."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm thơm ngọt ngọt",
+    "chất lượng",
+    "yêu quý"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Như tôi thấy cái quán cơm một ngày mới làm đúng là nâng tầm đồ ăn Việt luôn đấy.",
+    "Và mỗi lần tôi ăn ở đây tôi đều cảm giác không hề tiếc tiền mua thêm một bát cơm trắng, bởi vì ăn nốt thức ăn nó quá ngon.",
+    "Cái phần thịt chưng xém xém mặn mặn đấy, ăn cùng xong rồi gắp thêm miếng rau vào để cho nó giảm cái độ mặn."
+  ],
+  "hook_content": "anh em có biết lý do tại sao mà bát cơm trắng lại có thể bán được đến 30.000 bằng một suất cơm bình dân mọi khi mình hay ăn không?",
+  "hook_type": [
+    "Gây tò mò",
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán cơm nâng tầm món Việt với món thịt chưng mắm tép và canh chua chất lượng. Quán sẽ nghỉ Tết nên khuyến khích mọi người ghé ăn trước.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Thanh giới thiệu Laura cà phê của Nhật Kim Anh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm mới."
+    },
+    {
+      "step": "Đánh giá sản phẩm",
+      "desc": "Nhấn mạnh cà phê có nấm linh chi, đông trùng hạ thảo.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến lợi ích sức khỏe."
+    },
+    {
+      "step": "Miêu tả hương vị",
+      "desc": "Miêu tả vị cà phê đậm đà, sánh kẹo, không chua.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung về hương vị."
+    },
+    {
+      "step": "Khẳng định chất lượng",
+      "desc": "Khẳng định cà phê ngon và tốt cho sức khỏe.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào sản phẩm."
+    },
+    {
+      "step": "Mời trải nghiệm",
+      "desc": "Mời uống cà phê và ăn trái cây cùng Thanh.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy được mời tham gia."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "khỏe"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đúng là không phải tự nhiên mà ai cũng muốn laura cà phê, đã ngon mà còn khỏe nữa."
+  ],
+  "hook_content": "Tất cả mọi thứ Thanh đã chuẩn bị xong mà vẫn thấy thiếu thiếu gì ta.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu và đánh giá cà phê Laura của Nhật Kim Anh, nhấn mạnh vào hương vị và lợi ích sức khỏe, sau đó mời mọi người cùng thưởng thức.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

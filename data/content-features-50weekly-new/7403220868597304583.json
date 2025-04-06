@@ -1,0 +1,67 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món sườn bò và tủy bò đã mua.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Đánh giá tủy",
+      "desc": "Nhận xét về kích thước tủy và trải nghiệm ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Đánh giá xương",
+      "desc": "Thất vọng vì không gặm được xương.",
+      "impact_level": "3",
+      "viewer_emotion": "Đồng cảm"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Đánh giá chung về trải nghiệm không tốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tức cười"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "béo",
+    "không hợp",
+    "tiếc tiền",
+    "không phê"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Tủy hơi nhỏ một tí, nhưng mà vẫn có tủy nha.",
+    "Tủy này thì cực béo, mình ăn cảm thấy không hợp luôn.",
+    "Đúng là quá không phê đi."
+  ],
+  "hook_content": "review cả thế giới.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review món tủy bò mua ở một hàng sườn bò. Người nói không hài lòng về chất lượng tủy và xương, cảm thấy không đáng tiền.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Chân thành",
+    "Khó chịu"
+  ]
+}

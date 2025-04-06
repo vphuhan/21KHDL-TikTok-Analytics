@@ -1,0 +1,91 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu thời tiết và món ăn",
+      "desc": "Nêu thời tiết lạnh, thèm món nước và quyết định nấu bún hải sản.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị khi thấy sự liên hệ giữa thời tiết và món ăn."
+    },
+    {
+      "step": "Đi chợ mua nguyên liệu",
+      "desc": "Mua hải sản và trái cây, đặc biệt nhấn mạnh dâu tươi ngon.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Nêu các nguyên liệu đã mua và bắt đầu sơ chế, nấu nướng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Nấu nước lèo",
+      "desc": "Phi thơm, cho sả, cà chua, khóm, tương ớt, cốt dừa vào.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị khi thấy cách chế biến nước lèo kiểu Thái."
+    },
+    {
+      "step": "Nêm nếm gia vị",
+      "desc": "Nêm muối, đường, bột ngọt, hạt nêm cho vừa ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Trình bày món ăn",
+      "desc": "Cho bún, rau, hải sản vào tô và trang trí đẹp mắt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị khi thấy tô bún hải sản đầy đặn, hấp dẫn."
+    },
+    {
+      "step": "Thưởng thức và kết thúc",
+      "desc": "Mời mọi người ăn và khen ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy đói bụng và thèm thuồng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thèm",
+    "mát",
+    "đóng băng",
+    "xịn",
+    "sướng",
+    "quá trời ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Trời vậy ở bên Việt Nam mình sướng thiệt luôn nha. Thèm gì ra chợ ăn là có hết trơn à.",
+    "Nấu ra có người ăn chung, ta nói nó không ngon cũng thành ngon nữa.",
+    "Bữa nay á là nhà mình ăn bún hải sản trừ cơm cho nên á là làm tô nào xứng đáng tô đó."
+  ],
+  "hook_content": "ở bên hàng vẫn còn đang có tiết rơi nè mọi người.",
+  "hook_type": [
+    "Kể chuyện",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ về việc nấu món bún thái hải sản tại nhà trong thời tiết lạnh ở nước ngoài. Người làm video chia sẻ quá trình đi chợ mua nguyên liệu, nấu nướng và thưởng thức món ăn cùng gia đình.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

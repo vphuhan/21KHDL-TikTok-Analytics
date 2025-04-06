@@ -1,0 +1,74 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người ăn chay, ăn healthy",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món chả mực Hạ Long chay và nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn chay này."
+    },
+    {
+      "step": "Sơ chế nấm",
+      "desc": "Hướng dẫn rửa và sơ chế nấm bào ngư đúng cách.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú với mẹo rửa nấm bằng bột mì."
+    },
+    {
+      "step": "Trộn nguyên liệu",
+      "desc": "Trộn nấm với cà rốt, hành lá và gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung theo dõi công thức."
+    },
+    {
+      "step": "Chiên chả",
+      "desc": "Nặn và chiên chả mực chay trên chảo dầu.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đói bụng khi xem chiên."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Gợi ý cách ăn kèm và cảm nhận hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn làm thử và ăn ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "sừn sực",
+    "dai dai"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "rửa nấm bằng bột mì á nó sẽ rất là sạch",
+    "ăn chay mà cái tâm mấy bà phải tịnh nha",
+    "phần nấm á, nó sừn sực, nó dai dai không khác gì một miếng chả mực mặn hết"
+  ],
+  "hook_content": "24 năm trên cuộc đời rồi, Khải mới biết là rửa nấm bằng bột mì á nó sẽ rất là sạch.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món chả mực Hạ Long chay từ nấm bào ngư, chia sẻ mẹo rửa nấm bằng bột mì và công thức chi tiết để tạo ra món ăn chay ngon miệng, dai ngon như chả mực thật.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

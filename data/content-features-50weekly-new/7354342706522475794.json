@@ -1,0 +1,92 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Chia sẻ về ngày thanh minh và việc xây mộ cho mẹ.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thông cảm và tôn trọng."
+    },
+    {
+      "step": "Chuẩn bị nướng cá",
+      "desc": "Mua rơm và chuẩn bị nướng cá lóc nướng trui ngoài đồng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với cách làm truyền thống."
+    },
+    {
+      "step": "Sơ chế",
+      "desc": "Thái rau sống từ vườn nhà và chuẩn bị các nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm nhận được sự tươi ngon của nguyên liệu."
+    },
+    {
+      "step": "Nướng cá",
+      "desc": "Nướng cá lóc bằng rơm và làm sạch lớp vỏ cháy.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi mùi thơm và hình ảnh cá nướng."
+    },
+    {
+      "step": "Trình bày",
+      "desc": "Bày cá lên lá chuối và chuẩn bị nước chấm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy đẹp mắt và kích thích vị giác."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Gói bánh tráng với rau sống và cá nướng rồi ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn được thưởng thức món ăn ngay lập tức."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Mọi người cùng nhau ăn và khen ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy ấm cúng và hạnh phúc."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Truyền thống",
+    "Chuyên nghiệp"
+  ],
+  "cta_content": [
+    "Mời mọi người ăn cá lóc nướng trui có bánh tráng chung với cả nhà mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thích",
+    "ấm cúng",
+    "hạnh phúc"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ăn cá lóc nướng trui là nướng tại ngoài ruộng luôn",
+    "cạo tới đâu á mà nó thơm đến đó, nhìn nó đen đen vậy thôi chứ hồi nữa mình đem đi cuốn bánh tráng là ngon nhất cái nách luôn",
+    "không ở đâu bằng nhà mình thiệt mà mọi người, về đây á hả mình ăn cả ngày luôn không ăn cơm cũng được nữa"
+  ],
+  "hook_content": "Bữa nay là ngày ngoài mình cũng thanh minh, cũng là ngày mình xây mộ lại cho mẹ mình.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình làm món cá lóc nướng trui truyền thống tại quê nhà, từ công đoạn chuẩn bị, nướng cá bằng rơm đến khi thưởng thức cùng gia đình, tạo cảm giác ấm cúng và gần gũi. Món ăn được đánh giá cao về hương vị và cách chế biến đặc biệt.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

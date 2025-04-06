@@ -1,0 +1,90 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Món bít tết mềm hơn đậu phụ nhờ bí quyết đặc biệt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về bí quyết làm mềm thịt."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Thăn bò, đu đủ, hành tây, trứng và sốt tiêu đen.",
+      "impact_level": "1",
+      "viewer_emotion": "Nắm bắt các nguyên liệu cần thiết."
+    },
+    {
+      "step": "Sơ chế thịt bò",
+      "desc": "Cắt, đâm, đập nhẹ và ướp thịt với đu đủ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy lạ với cách dùng đu đủ."
+    },
+    {
+      "step": "Ướp thịt bò",
+      "desc": "Thêm hành tây, trứng, sốt tiêu đen và ướp một tiếng.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhớ thời gian ướp thịt."
+    },
+    {
+      "step": "Bảo quản thịt bò",
+      "desc": "Cho vào túi zip và bảo quản trong tủ đông.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết cách bảo quản thịt đã ướp."
+    },
+    {
+      "step": "Chiên thịt bò",
+      "desc": "Chiên chín tới, ngon hơn cả ở nhà hàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món bít tết."
+    },
+    {
+      "step": "Lời kêu gọi",
+      "desc": "Mời lưu lại công thức và trổ tài cho gia đình.",
+      "impact_level": "1",
+      "viewer_emotion": "Có động lực thử làm theo."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Video này bạn hãy giúp mình like và nhấn theo dõi nhé."
+  ],
+  "cta_type": [
+    "Thích video",
+    "Follow kênh",
+    "Lưu video",
+    "Chia sẻ công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "yên tâm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "bò bít tết mềm hơn cả đậu phụ",
+    "không bao giờ phải cho con ăn bò bít tết hộp nữa, tự làm ở nhà vừa đơn giản vừa yên tâm",
+    "thật sự ngon hơn cả ở nhà hàng luôn đó"
+  ],
+  "hook_content": "Chỉ cần cắt một khúc đu đủ, cho vào thịt bò và bóp nhuyễn, bạn sẽ có ngay món bò bít tết mềm hơn cả đậu phụ.",
+  "hook_type": [
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm món bò bít tết mềm tại nhà một cách đơn giản bằng cách sử dụng đu đủ để làm mềm thịt. Người xem được khuyến khích thử công thức này để có món ăn ngon và an toàn cho gia đình.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

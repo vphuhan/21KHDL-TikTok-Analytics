@@ -1,0 +1,92 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món dưa leo luộc và sự tò mò về hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị món ăn."
+    },
+    {
+      "step": "Chuẩn bị và thực hiện",
+      "desc": "Quyết định thử làm theo trào lưu và chuẩn bị dưa leo.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự mới lạ."
+    },
+    {
+      "step": "Miêu tả các loại dưa",
+      "desc": "Giới thiệu các loại dưa leo khác nhau và loại thường dùng.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin về các loại dưa."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Chấm dưa leo luộc với muối ớt và miêu tả hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm giác thèm thuồng."
+    },
+    {
+      "step": "Đánh giá cảm quan",
+      "desc": "Nhận xét về sự thay đổi của dưa leo sau khi luộc.",
+      "impact_level": "1",
+      "viewer_emotion": "Nhận xét về hình thức món ăn."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá hương vị tổng quan và so sánh với các món khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn thử."
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng ăn và kết thúc video.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm giác thân thiện."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon ngọt",
+    "ngọt giòn",
+    "cay",
+    "thơm",
+    "mọng nước",
+    "cuốn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn cái này thì cũng như ăn xoài cốc ổi đồ thôi.",
+    "Ảo diệu vậy đó.",
+    "Mọng nước mà vẫn giòn, chấm với muối ớt đâm cay cay tính ra cũng cuốn dữ chứ không có giỡn à nha."
+  ],
+  "hook_content": "Dưa leo mà đem đi luộc như vầy, nghe nói là ngon ngọt dữ lắm.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video thử làm món dưa leo luộc đang hot trên mạng, người làm chia sẻ cảm nhận về hương vị và độ giòn ngọt của món ăn khi chấm với muối ớt.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

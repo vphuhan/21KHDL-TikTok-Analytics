@@ -1,0 +1,95 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ba chỉ cuộn nấm kim châm nướng hấp dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê và chuẩn bị các nguyên liệu cần thiết.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Cuộn thịt và ướp",
+      "desc": "Hướng dẫn cuộn thịt với nấm và tẩm ướp gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Uống cà phê",
+      "desc": "Giới thiệu và uống thử cà phê La Aura.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Nướng thịt",
+      "desc": "Thực hiện nướng thịt và mô tả âm thanh, mùi vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Mô tả cảm nhận về hương vị món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng thưởng thức món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Gần gũi"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Tết này mọi người đã có La Aura cà phê chưa?"
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "xịn",
+    "đã",
+    "thơm",
+    "thơm phức",
+    "bao đã",
+    "vừa vị",
+    "giòn ngọt",
+    "chua chua",
+    "đỉnh của chóp"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn thịt nướng là khoái nhất cái cảm giác vừa ăn vừa nướng, kiểu nghe miếng thịt kêu xèo xèo thơm phức mà chiêu gì đâu.",
+    "Thịt cuộn nấm kim châm bên ngoài thì vừa vị, nóng hổi, bên trong thì giòn ngọt, ăn cùng với kim chi chua chua rồi quất thêm nấm đùi gà siêu to khổng lồ nữa.",
+    "Mèn ơi làm cái bàn cỡ vậy trong lúc trời mưa lạnh lạnh nữa là đỉnh của chóp luôn."
+  ],
+  "hook_content": "Trời lạnh này mà có một mâm thịt nướng ê hề như vậy, nhâm nhi thì xịn còn gì bằng.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video hướng dẫn làm món ba chỉ cuộn nấm kim châm nướng tại nhà, đồng thời giới thiệu cà phê La Aura và trải nghiệm ăn uống trong thời tiết lạnh.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

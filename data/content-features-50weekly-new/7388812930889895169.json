@@ -1,0 +1,85 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Nêu lý do clip mì cay nhiều view và gợi ý tự nấu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự yêu thích món mì cay của mọi người."
+    },
+    {
+      "step": "So sánh",
+      "desc": "So sánh nấu mì cay ở nhà và ăn ở ngoài quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy có lý khi nấu tại nhà."
+    },
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu nguyên liệu tự chuẩn bị và đảm bảo chất lượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào nguyên liệu tự chuẩn bị."
+    },
+    {
+      "step": "Chia sẻ bí quyết",
+      "desc": "Chia sẻ loại sốt mì cay yêu thích và sự tự tin.",
+      "impact_level": "3",
+      "viewer_emotion": "Tò mò về loại sốt được nhắc đến."
+    },
+    {
+      "step": "Phủ nhận",
+      "desc": "Phủ nhận việc mở quán mì cay dù được khen ngon.",
+      "impact_level": "1",
+      "viewer_emotion": "Hiểu được khó khăn trong kinh doanh."
+    },
+    {
+      "step": "Nhấn mạnh",
+      "desc": "Nhấn mạnh sự trung thành với loại sốt mì cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm nhận được sự chân thật."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Quên bỏ kim chi và khoe thành quả ngon quên sầu.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng món mì cay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "ngon quên sầu"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "nấu mì cay ở nhà mà ngon như ngoài quán thì chắc là người ta dẹp tiệm. Không có dẹp được nha, đâu phải ai cũng gánh mở nhà nấu được mà",
+    "ăn ngoài quán nguyên liệu như nào thật sự là mình không nắm được nhưng được cái là nó ngon. Mắt không thấy thì tim mình không đau",
+    "Kinh doanh là một bài toán rất khó không phải mình cứ nấu được ra cái vị đấy là mình mở quán mình kinh doanh được đâu"
+  ],
+  "hook_content": "Mình biết vì sao clip mì cay của mình lúc nào cũng nhiều view rồi, bởi vì mọi người ăn mì cay rất nhiều.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ lý do clip mì cay được nhiều view, hướng dẫn nấu mì cay tại nhà với nguyên liệu tự chuẩn bị, chia sẻ loại sốt yêu thích và phủ nhận việc mở quán dù được khen ngon. Cuối cùng là khoe thành quả món mì cay.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

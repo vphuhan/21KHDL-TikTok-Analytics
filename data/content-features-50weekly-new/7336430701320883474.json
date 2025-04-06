@@ -1,0 +1,75 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu vấn đề",
+      "desc": "Nêu bật giá cả Kichi Kichi đắt đỏ và mục tiêu ăn đáng tiền.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách ăn để xứng đáng với giá tiền."
+    },
+    {
+      "step": "Liệt kê món ít thấy",
+      "desc": "Chỉ ra các món ít xuất hiện trên băng chuyền Kichi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú vì biết thêm thông tin hữu ích."
+    },
+    {
+      "step": "Review chi tiết",
+      "desc": "Đánh giá hương vị và trải nghiệm từng món ăn cụ thể.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng và muốn thử ngay."
+    },
+    {
+      "step": "Nhấn mạnh gọi món",
+      "desc": "Khuyến khích khán giả chủ động gọi món từ nhân viên.",
+      "impact_level": "2",
+      "viewer_emotion": "Nhận ra mẹo để ăn được nhiều món ngon."
+    },
+    {
+      "step": "Tổng kết",
+      "desc": "Tóm tắt lại lời khuyên và khuyến khích xem menu.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy được trang bị thông tin đầy đủ."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "giòn giòn",
+    "sần sật",
+    "hết hồn",
+    "ngon không tưởng",
+    "dai dai"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đúng là Kichi hiện tại thì đắt thiệt, nên á là phải ăn làm sao cho đáng.",
+    "Trời ơi ta nói phi lê cá hồi nó ngon dữ luôn á.",
+    "Không nghĩ á là hột vịt lộn kết hợp với lẩu tưởng không ngon, nhưng mà ai về là ngon không tưởng."
+  ],
+  "hook_content": "Đúng là Kichi hiện tại thì đắt thiệt, nên á là phải ăn làm sao cho đáng.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Liệt kê",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video này chia sẻ bí quyết ăn Kichi Kichi sao cho đáng tiền bằng cách gọi những món ít thấy trên băng chuyền như phi lê cá hồi, sứa, mai ghẹ fancy, hột vịt lộn và các loại viên thả lẩu đặc biệt. Người nói khuyến khích mọi người nên xem kỹ menu và chủ động yêu cầu nhân viên mang ra.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

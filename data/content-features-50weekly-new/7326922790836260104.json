@@ -1,0 +1,93 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu về cuộc sống",
+      "desc": "Chia sẻ về lịch trình học tập và thời tiết hiện tại.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu món ăn vặt",
+      "desc": "Giới thiệu quán ăn quen thuộc và thói quen ăn uống.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Chia sẻ sở thích ăn uống",
+      "desc": "Nêu sở thích ăn hải sản, đặc biệt là mực.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Mua sắm và chuẩn bị",
+      "desc": "Mua mực nang lớn, bao tử và chuẩn bị hấp mực.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Thưởng thức và đánh giá",
+      "desc": "Ăn bao tử, thử râu mực và chia sẻ cảm nhận.",
+      "impact_level": "3",
+      "viewer_emotion": "Hào hứng"
+    },
+    {
+      "step": "Gợi ý món ăn",
+      "desc": "Gợi ý nấu lẩu thái từ mực nang và chia sẻ cách ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Kết thúc video",
+      "desc": "Sự cố nhỏ khi ăn và kết thúc video.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Đợt này thì mình chuẩn bị mang về nên ai có dùng á thì nhắn mình sẵn xách về luôn."
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "thèm",
+    "kinh khủng khiếp",
+    "khỏe",
+    "ngon",
+    "tươi ngon",
+    "ngọt",
+    "dở ẹc",
+    "hết hồn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mình là một đứa cực kỳ thích ăn râu mực, phải chi mà mỗi con mực mà có ba bốn cái râu thì ăn đã luôn ha.",
+    "Hải sản thì mình cứ đem đi hấp rồi chấm muối tiêu bốn trái ớt vậy thôi, tại mình cảm thấy ăn vậy là tươi ngon với ngọt nhất. Chế biến cầu kỳ chi cho mất công mà nhiều khi thành ra nó dở ẹc nữa.",
+    "Đang ăn ngon lành tự nhiên nó xịt ra cái hết hồn, cũng hên là chưa có xịt vô mặt."
+  ],
+  "hook_content": "Ừ giờ mà tới hết học kỳ á thì toàn học thực hành không à, không còn tiết lý thuyết nào hết trơn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại trải nghiệm của một bạn du học sinh tại Nhật Bản khi mua và chế biến món mực nang. Bạn chia sẻ về cuộc sống học tập, sở thích ăn uống và cảm nhận về món ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

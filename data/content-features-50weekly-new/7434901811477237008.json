@@ -1,0 +1,94 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu chân gà trứng non sốt thái hấp dẫn, khơi gợi sự thèm thuồng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Chia sẻ các nguyên liệu cần thiết: chân gà, trứng non, sốt Thái.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Sơ chế",
+      "desc": "Hướng dẫn luộc chân gà với gừng và ngâm nước đá.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Luộc trứng non",
+      "desc": "Chia sẻ bí quyết luộc trứng non hồng đào.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Trộn và nêm nếm",
+      "desc": "Trộn các nguyên liệu với sốt Thái và muối ớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Thưởng thức và đánh giá",
+      "desc": "Thưởng thức món ăn và đánh giá hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, thích thú"
+    },
+    {
+      "step": "Kêu gọi mua hàng",
+      "desc": "Giới thiệu địa chỉ mua sốt Thái và nước chấm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người mà muốn mua sốt Thái và nước chấm thì kiếm anh hai tôi nghe.",
+    "Giờ thì mời mọi người ăn chung với tôi."
+  ],
+  "cta_type": [
+    "Ăn cùng",
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "béo ngậy",
+    "thơm phức",
+    "vừa vị",
+    "ngon nhức nhối"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nhìn cái chân gà bành ki, trứng non hồng đào thắm đẫm sốt như vầy, mọi người có thấy trúng tủ chưa?",
+    "Sốt Thái nhà anh tôi làm, chất sánh sệt, vừa vị nên mình trộn cái gì cũng ngon số dách luôn.",
+    "Trứng non thì hồng đào, béo ngậy, chấm thêm miếng muối ớt đỏ đậm đà nữa. Chàng ơi ngon nhức nhối luôn."
+  ],
+  "hook_content": "Hello mọi người, lại là tôi mập bữa ăn đây. Nhìn cái chân gà bành ki, trứng non hồng đào thắm đẫm sốt như vầy, mọi người có thấy trúng tủ chưa?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video giới thiệu và hướng dẫn làm món chân gà trứng non sốt Thái, đồng thời review sốt Thái tự làm của người thân. Người làm video thể hiện sự thích thú với món ăn và kêu gọi người xem mua sốt Thái.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

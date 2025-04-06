@@ -1,0 +1,67 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Vivi giới thiệu món ăn hôm nay là chân gà rút xương.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm."
+    },
+    {
+      "step": "Ăn và đánh giá",
+      "desc": "Vivi ăn và liên tục khen chân gà rất thơm và ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Nhấn mạnh",
+      "desc": "Khẳng định đây là loại chân gà rút xương ngon nhất.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá."
+    },
+    {
+      "step": "Xác nhận lại",
+      "desc": "Ăn hết vẫn thấy ngon, chốt lại đánh giá.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn mua ăn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "ngon",
+    "đậm đà",
+    "siêu ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Trời ơi, nó đang hot lắm á mọi người.",
+    "Với tín đồ đam mê chân gà như Vi á mọi người ơi, theo cá nhân Vi nha, đây là loại ngon nhất Vi từng ăn, loại đóng sẵn."
+  ],
+  "hook_content": "Hello mọi người. Theo dòng sự kiện, hôm nay Vivi sẽ ăn chân gà rút xương của diễn viên Việt Anh nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Vivi mukbang chân gà rút xương của diễn viên Việt Anh và đánh giá đây là loại ngon nhất. Video tập trung vào việc ăn và thể hiện cảm xúc ngon miệng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

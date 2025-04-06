@@ -1,0 +1,92 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu thử thách",
+      "desc": "Giới thiệu thử thách ăn gà sốt siêu cay và uống Sprite.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về thử thách."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu Sprite và chương trình khuyến mãi khi mua đồ cay.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin về sản phẩm."
+    },
+    {
+      "step": "Bắt đầu Mukbang",
+      "desc": "Bắt đầu ăn gà cay, review vị và độ cay của gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món ăn."
+    },
+    {
+      "step": "Trải nghiệm Sprite",
+      "desc": "Uống Sprite sau khi ăn cay, miêu tả cảm giác.",
+      "impact_level": "3",
+      "viewer_emotion": "Sảng khoái và thích thú."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Đánh giá độ chắc của thịt gà và sự cân bằng vị giác.",
+      "impact_level": "2",
+      "viewer_emotion": "Tìm kiếm thông tin hữu ích."
+    },
+    {
+      "step": "Khẳng định sự kết hợp",
+      "desc": "Khẳng định sự kết hợp hoàn hảo giữa gà cay và Sprite.",
+      "impact_level": "3",
+      "viewer_emotion": "Đồng tình và thích thú."
+    },
+    {
+      "step": "Kết thúc và kêu gọi",
+      "desc": "Hoàn thành thử thách và kêu gọi mọi người trải nghiệm.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử trải nghiệm."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người trải nghiệm và chia sẻ cùng mình nha."
+  ],
+  "cta_type": [
+    "Chia sẻ"
+  ],
+  "emotion_keywords": [
+    "cay",
+    "tê lưỡi",
+    "ngọt",
+    "bắt miệng",
+    "siêu ghiền",
+    "thoải mái",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cay quá, kiểu thấy tê lưỡi luôn ấy.",
+    "Ăn gà bao giờ mình cũng thèm phần da gà nhất, bởi vì là nó giòn rụm xong rồi nó là nơi ngấm nhiều sốt nhất nữa.",
+    "Đang ăn cay mà uống ngụm Sprite vào nó làm dịu đi cái vị cay ở trong miệng luôn đấy mọi người ạ, mà càng cay uống vào lại càng ngon chứ."
+  ],
+  "hook_content": "Cay quá, kiểu thấy tê lưỡi luôn ấy.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang thử thách ăn gà sốt siêu cay kết hợp với Sprite. Người ăn vừa ăn vừa review độ cay, vị ngon và sự kết hợp hoàn hảo với Sprite, đồng thời kêu gọi người xem trải nghiệm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

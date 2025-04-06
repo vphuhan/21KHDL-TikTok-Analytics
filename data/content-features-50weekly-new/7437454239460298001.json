@@ -1,0 +1,72 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Gọi món",
+      "desc": "Khách hàng order bún chả và nem hải sản tại quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu địa điểm, thời gian bán các món khác nhau.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Nhận xét về hương vị, thành phần của bún chả, nem.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Nhận xét chung",
+      "desc": "Đánh giá tổng quan về quán và gợi ý quán ăn khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong đợi"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người có thể đến trải nghiệm và dùng thử xem như thế nào nhé.",
+    "Và mọi người ai mà biết quán bánh mì muối ớt nào ngon bổ rẻ ở Hải Phòng thì để lại dưới phần bình luận giúp mình nhé."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "mềm",
+    "vừa phải",
+    "hài hòa",
+    "ngon",
+    "hiền lành"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Thịt thì thơm mềm được tẩm ướp vừa phải, nước chấm thì cũng rất là hài hòa nó không thiên về cái vị chua hay là vị ngọt.",
+    "Tổng kết lại là ngon và cô chủ thì hiền lành."
+  ],
+  "hook_content": "Cô ơi, làm giúp cháu một suất bún chả có ba vỉ thịt được không cô?",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quán bún chả Cô Bằng ở 124 Lạch Tray, Hải Phòng, nổi tiếng với bún chả vào buổi trưa và dừa dầm buổi tối. Chủ yếu đánh giá về hương vị bún chả và nem hải sản.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món cà pháo ngâm chua ngọt, dễ làm tại nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách làm."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Hướng dẫn chọn cà, sơ chế và chuẩn bị gia vị.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin cơ bản, dễ hiểu."
+    },
+    {
+      "step": "Pha nước ngâm",
+      "desc": "Hướng dẫn pha nước ngâm cà với công thức chi tiết.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy công thức khá đơn giản."
+    },
+    {
+      "step": "Tiến hành ngâm cà",
+      "desc": "Hướng dẫn cách ngâm cà đúng cách để không bị đen.",
+      "impact_level": "2",
+      "viewer_emotion": "Lưu ý quan trọng để món ăn thành công."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Thành phẩm cà pháo giòn ngon và lời khuyên.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "nên có gì Tết này mấy bà làm một hủ ăn Tết nha"
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "giòn",
+    "chua chua",
+    "ngọt ngọt",
+    "mặn mặn",
+    "dễ sợ",
+    "ngon thấm xuất sắc"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Chua chua, ngọt ngọt, mặn mặn mà ăn giòn rụm à.",
+    "Cái cà pháo mà Tết này ha, để ăn với thịt kho tàu, thịt luộc, hay là ăn với cơm gì cũng ngon hết trơn.",
+    "Miếng cà nó giòn mà trắng tươi luôn nè mấy bà thấy không?"
+  ],
+  "hook_content": "Tết này mấy bà khỏi cần mua mắm cà ở ngoài luôn, tự làm ăn luôn, dễ lắm.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm cà pháo ngâm chua ngọt đơn giản tại nhà để ăn Tết, với các bước chuẩn bị, pha nước ngâm và mẹo để cà giòn ngon.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

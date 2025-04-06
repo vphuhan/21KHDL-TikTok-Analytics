@@ -1,0 +1,88 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Vợ muốn ăn bún cá, chồng từ chối nấu vì đang chơi với con.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hơi hài hước và tò mò."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Chồng tự làm cá, chuẩn bị sả, cà chua, thơm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thấy quá trình chuẩn bị."
+    },
+    {
+      "step": "Nấu nước dùng",
+      "desc": "Phi thơm cà chua, hành tím, sả, thơm rồi cho nước vào.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hấp dẫn với mùi thơm."
+    },
+    {
+      "step": "Điều chỉnh gia vị",
+      "desc": "Chồng nhắc vợ ăn ít muối và nêm hạt nêm Knorr.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với lời khuyên về sức khỏe."
+    },
+    {
+      "step": "Thông tin sản phẩm",
+      "desc": "Giới thiệu thành phần và lợi ích của hạt nêm Knorr.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thấy thông tin sản phẩm."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Vợ ăn bún cá và khen ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thèm thuồng."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Chồng bảo vợ tự nấu nếu thèm, vợ khen chồng nấu ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy vui vẻ với tương tác của hai người."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nêm mặn vừa phải dùng ngay cờ no, mà em á thì não cá vàng hay quên lắm, có quên á thì nhớ nghe cái bài ve này nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "đậm đà",
+    "tròn vị"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nêm cùng cờ no vị mặn vừa phải mà vẫn đậm đà nước dùng trọn vị.",
+    "Trong hạt nêm Knorr thì chỉ chứa có 36% là muối thôi, thêm vị đậm đà chiết xuất từ thịt thăn xương ống và cả tủy heo sạch chuẩn VietGAP nữa, nên là giúp cho cái việc mọi người muốn ăn giảm mặn á dễ hơn, mà nêm nếm á thì lại đơn giản hơn nữa nè.",
+    "Anh tìm hiểu rồi, Bộ Y Tế khuyến nghị á là một người chỉ nên tiêu thụ dưới 7 g muối một ngày thôi. Nên là từ bây giờ nhà mình sẽ tập ăn ít muối lại."
+  ],
+  "hook_content": "Em ơi, xong rồi, vô ăn nè. Anh ơi, em muốn ăn bún cá, anh nấu cho em đi.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Đối thoại"
+  ],
+  "summarization": "Video ghi lại cảnh người chồng nấu bún cá cho vợ, đồng thời lồng ghép quảng cáo hạt nêm Knorr giảm mặn. Anh chồng chia sẻ bí quyết nấu ăn ngon và nhắc nhở về việc ăn uống lành mạnh.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

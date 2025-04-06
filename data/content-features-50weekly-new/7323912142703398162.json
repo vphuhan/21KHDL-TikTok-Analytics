@@ -1,0 +1,83 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu bữa ăn khi con được ba đưa đi học.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chia sẻ",
+      "desc": "Chia sẻ về việc sử dụng sâm và hộp cân bằng huyết áp.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chuẩn bị",
+      "desc": "Chuẩn bị nguyên liệu nấu món canh gà hầm sâm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Nấu ăn",
+      "desc": "Bắt đầu quá trình nấu canh gà hầm sâm và làm cơm cháy.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Hoàn thành",
+      "desc": "Hoàn thành món ăn và mời mọi người cùng thưởng thức.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu về công dụng của sâm và các sản phẩm liên quan.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Mời mọi người ăn tối chung với cả nhà mình nha"
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "vui",
+    "ngon",
+    "ngon miệng",
+    "ngủ ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Canh gà hầm sâm quá trời chất lượng luôn.",
+    "Tiếng gà hầm là phải mềm nha, đụng tới con gà một cái là nó gả thành bốn khúc như thế này luôn.",
+    "Hồi đầu mình cũng thấy nó vừa mềm vừa bở khó ăn lắm, nhưng mà sau mấy năm thì mình thấy gà hầm kiểu này ăn ngon."
+  ],
+  "hook_content": "Mấy bữa trong tuần, bữa nào mà Tùng Hân nhà mình được ba đưa đi học là bữa đó vui nhất luôn á mọi người.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ về quá trình nấu món canh gà hầm sâm bồi bổ sức khỏe cho gia đình, đồng thời giới thiệu về công dụng của sâm và các sản phẩm liên quan. Người nói chia sẻ trải nghiệm cá nhân và mời mọi người cùng ăn tối.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

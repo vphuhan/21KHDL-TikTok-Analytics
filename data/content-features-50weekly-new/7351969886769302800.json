@@ -1,0 +1,73 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán bún chả có anh Tây nướng thịt ở Hà Nội.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị khi có người nước ngoài làm bún chả."
+    },
+    {
+      "step": "Chia sẻ về anh Tây",
+      "desc": "Thông tin về anh Tây thích Việt Nam, gặp khó khăn về visa.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đồng cảm với hoàn cảnh của anh Tây."
+    },
+    {
+      "step": "Kêu gọi giúp đỡ",
+      "desc": "Kêu gọi giúp đỡ anh Tây gia hạn visa thông qua đại sứ quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong muốn giúp đỡ anh Tây."
+    },
+    {
+      "step": "Đánh giá quán",
+      "desc": "Giá cả bình dân, khuyến khích ủng hộ để giúp anh Tây.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự chân thành của người review."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nếu mọi người có quen ai làm đại sứ quán Ghana ở tại Việt Nam có thể giúp đỡ anh gia hạn visa thì có thể liên hệ để giúp đỡ anh ý nhé.",
+    "nếu có dịp mọi người có thể qua ủng hộ quán bún trả anh Tây để giúp anh có thêm thu nhập trang trải cuộc sống nhé."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Chia sẻ"
+  ],
+  "emotion_keywords": [
+    "thích",
+    "êm chân",
+    "giúp đỡ",
+    "khó khăn",
+    "ủng hộ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Không cần phải sang tây vì ngay ở Hà Nội có quán bún chả do anh tây biết nói tiếng Việt, tự tay nướng thịt.",
+    "Anh còn bảo là đôi dép VIP ở Việt Nam đi rất là êm chân.",
+    "Nếu mọi người có quen ai làm đại sứ quán Ghana ở tại Việt Nam có thể giúp đỡ anh gia hạn visa thì có thể liên hệ để giúp đỡ anh ý nhé."
+  ],
+  "hook_content": "Không cần phải sang tây vì ngay ở Hà Nội có quán bún chả do anh tây biết nói tiếng Việt, tự tay nướng thịt.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu quán bún chả ở Hà Nội có anh Tây tự nướng thịt và kêu gọi mọi người ủng hộ quán để giúp anh có thêm thu nhập trang trải cuộc sống, đồng thời kêu gọi giúp đỡ anh gia hạn visa.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

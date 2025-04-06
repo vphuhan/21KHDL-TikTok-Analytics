@@ -1,0 +1,85 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu mục đích nấu bún bò đãi cả nhà ngày mưa.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp"
+    },
+    {
+      "step": "Đi chợ",
+      "desc": "Mô tả việc đi chợ mua nguyên liệu nấu bún bò.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Sơ chế",
+      "desc": "Sơ chế và chuẩn bị các nguyên liệu để nấu bún bò.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Nấu nước lèo",
+      "desc": "Hướng dẫn cách nấu nước lèo bún bò đơn giản.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Thành phẩm",
+      "desc": "Trình bày món bún bò đã hoàn thành và trang trí.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Cả nhà cùng thưởng thức món bún bò nóng hổi.",
+      "impact_level": "3",
+      "viewer_emotion": "Hạnh phúc"
+    },
+    {
+      "step": "Phản hồi",
+      "desc": "Hỏi ý kiến mọi người về món bún bò tự nấu.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thương",
+    "ấm cúng",
+    "hạnh phúc"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ở Hàn để mà kiếm mấy cái loại rau này ăn bún bò thì ta nói là lên bờ xuống ruộng luôn. Còn ở Việt Nam mình á thì chỉ cần xẹt ra chợ chút xíu là ta nói đầy đủ hết trơn luôn. Bởi vì ta mới nói là không ở đâu bằng ở quê nhà mình ha mọi người.",
+    "Nhà mình á thì nấu sẵn mà cái gói gia vị bún bò này. Không có cần thêm mắm ruốc Huế hay gia vị gì nữa mà ta nói ra cái vị y chang như ở ngoài tiệm mình ăn luôn á.",
+    "Thấy vậy thôi chứ nấu cái món này nó cũng nhanh và đơn giản lắm luôn á. Có đủ nguyên liệu thôi là mình làm gẹt gẹt chút xíu là xong à."
+  ],
+  "hook_content": "nay hai mẹ con mình đi chợ mua nguyên liệu về nấu bún bò để đãi cả nhà ăn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình hai mẹ con đi chợ mua nguyên liệu và nấu món bún bò để đãi cả nhà trong một ngày mưa. Món ăn được mọi người khen ngon và tạo không khí ấm cúng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

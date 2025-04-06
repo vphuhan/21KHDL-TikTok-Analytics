@@ -1,0 +1,71 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về thử thách ăn 56 viên Takoyaki tại xe quen thuộc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về thử thách."
+    },
+    {
+      "step": "Bốc thăm",
+      "desc": "Giới thiệu chương trình bốc thăm trúng thưởng tại quầy.",
+      "impact_level": "1",
+      "viewer_emotion": "Không mấy hứng thú."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Nhận xét về khô cá bả và chất lượng Takoyaki.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Hoàn thành thử thách",
+      "desc": "Thông báo hoàn thành thử thách 56 Takoyaki trong 18 phút.",
+      "impact_level": "3",
+      "viewer_emotion": "Khâm phục."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Hẹn mọi người ở những video sau nha"
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "say mê",
+    "xuất sắc",
+    "thơm béo",
+    "nóng",
+    "giòn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn vô cái là biết đồ xịn liền.",
+    "Bạch tuộc được cắt rất là to chứ không phải vụng vụng như những chỗ khác.",
+    "Là Hân đã ăn hết 56 cái Takoyaki trong vòng 18 phút 29 giây."
+  ],
+  "hook_content": "Ăn hết 56 viên Takoyaki, let's go.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh Hân Nghiêm ăn 56 viên Takoyaki tại một xe quen thuộc, đồng thời giới thiệu chương trình bốc thăm trúng thưởng và đánh giá chất lượng món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

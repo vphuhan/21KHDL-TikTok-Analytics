@@ -1,0 +1,62 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ăn hôm nay là thịt luộc và mắm nêm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Giới thiệu mắm nêm",
+      "desc": "Giới thiệu mắm nêm của cô Út Phan Rang và nơi mua.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Ăn và giới thiệu",
+      "desc": "Mời mọi người mua ăn thử vì nó rất ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người có muốn mua ăn thử trong giỏ hàng nó ngon lắm mọi người."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "vừa ăn",
+    "thơm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mọi người có muốn mua ăn thử trong giỏ hàng nó ngon lắm mọi người.",
+    "Vừa ăn thơm lắm, mắm cá cơm, mắm nêm cá cơm."
+  ],
+  "hook_content": "Mời mọi người ăn cơm với em nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang ăn thịt luộc với mắm nêm, giới thiệu mắm nêm của cô Út Phan Rang và khuyến khích mua sản phẩm trong giỏ hàng vì ngon và vừa ăn.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

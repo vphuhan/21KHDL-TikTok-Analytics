@@ -1,0 +1,88 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu khách",
+      "desc": "Giới thiệu bạn đặc biệt từ Hollywood về ăn Tết, tạo sự chú ý.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị khi có yếu tố gây tò mò."
+    },
+    {
+      "step": "Chuẩn bị món ăn",
+      "desc": "Liệt kê các món ăn chuẩn bị cho khách, nhấn mạnh sự đặc biệt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thấy sự chu đáo."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu chi tiết về chai nước mắm Nam Ngư ớt tỏi Lý Sơn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích, có thông tin sản phẩm."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Cả hai người cùng ăn và đưa ra cảm nhận về món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú khi xem người khác ăn ngon."
+    },
+    {
+      "step": "Nhấn mạnh đặc sản",
+      "desc": "Khẳng định các món ăn chỉ có ở Việt Nam, tạo sự tự hào.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thấy quen thuộc."
+    },
+    {
+      "step": "Yêu cầu quà đáp lễ",
+      "desc": "Đùa vui yêu cầu khách có quà đáp lễ, tạo không khí hài hước.",
+      "impact_level": "3",
+      "viewer_emotion": "Hài hước và bất ngờ."
+    },
+    {
+      "step": "Kết thúc video",
+      "desc": "Nhận xét về món quà và kết thúc video bằng sự hài lòng.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ và thỏa mãn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "tuyệt vời",
+    "đậm đà"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ở Việt Nam ấy, Tết là phải ăn bí, không ăn bí là không phải Tết",
+    "Khách quý lắm mới dùng đến cái hộp này đấy nhá",
+    "Cái gì nó cũng phải có tí năm ngư mới ngon bạn ạ"
+  ],
+  "hook_content": "Đừng có một người bạn đặc biệt đến từ Hollywood xa xôi năm nay sẽ về ăn Tết với mình, giới thiệu với mọi người Spider-Man!",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video giới thiệu về việc đón bạn từ Hollywood về ăn Tết và trải nghiệm các món ăn truyền thống Việt Nam, đặc biệt là các món ăn kèm với nước mắm Nam Ngư ớt tỏi Lý Sơn. Video nhấn mạnh sự đặc biệt của ẩm thực Việt Nam và tạo không khí vui vẻ, thân thiện.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

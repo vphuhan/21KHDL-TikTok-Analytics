@@ -1,0 +1,97 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món cá trích ép trứng và tình yêu với sashimi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Nỗi khổ khi ăn quán",
+      "desc": "Than phiền việc ăn sashimi ở quán không đủ đã.",
+      "impact_level": "1",
+      "viewer_emotion": "Đồng cảm"
+    },
+    {
+      "step": "Quyết định mua",
+      "desc": "Quyết định mua 1kg cá trích ép trứng để ăn cho đã.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Giới thiệu địa điểm mua",
+      "desc": "Giới thiệu địa điểm mua cá trích ép trứng uy tín.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Đánh giá chất lượng",
+      "desc": "Đánh giá chất lượng cá trích ép trứng sau khi mua.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng"
+    },
+    {
+      "step": "Miêu tả hương vị",
+      "desc": "Miêu tả hương vị và trải nghiệm ăn cá trích ép trứng.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Lời khuyên và mời ăn",
+      "desc": "Khuyên mọi người nên thử và mời ăn cùng.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người nên thử món này một lần trong đời nha.",
+    "Giờ thì mời mọi người ăn chung với tôi nghe."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ghiền",
+    "ngon",
+    "đã",
+    "giòn",
+    "dai",
+    "ngọt",
+    "không tanh",
+    "dễ ăn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cắn vô một cái thì ta nói trứng giòn nha kêu tanh tách luôn á.",
+    "Tôi nghĩ ai mới lần đầu ăn sashimi thì nên thử tại nó dễ ăn mà không có bị tanh.",
+    "Mọi người nên thử món này một lần trong đời nha. Bảo đảm ngon không lối thoát luôn."
+  ],
+  "hook_content": "Xin chào mọi người! Lại là tôi mập bụng thích nấu ăn đây. Nay mọi người cùng tôi ăn cá trích ép trứng nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu và review món cá trích ép trứng, chia sẻ trải nghiệm ăn món này tại nhà sau khi mua ở một địa chỉ uy tín, đồng thời khuyến khích người xem nên thử.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

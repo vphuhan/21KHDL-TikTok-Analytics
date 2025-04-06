@@ -1,0 +1,93 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món hàu luộc sả ăn kèm đọt keo độc lạ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự kết hợp mới lạ."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Mua hàu về rửa sơ rồi đem đi luộc với sả.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thấy được các nguyên liệu đơn giản."
+    },
+    {
+      "step": "Tìm nguyên liệu ăn kèm",
+      "desc": "Đi hái đọt keo để ăn cùng với hàu luộc sả.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị khi thấy nguyên liệu tự nhiên."
+    },
+    {
+      "step": "Chia sẻ kỷ niệm",
+      "desc": "Nhớ lại kỷ niệm tuổi thơ đi hái đọt keo.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy gần gũi và thân thuộc."
+    },
+    {
+      "step": "Pha chế nước chấm",
+      "desc": "Pha muối ớt cay để chấm cùng hàu.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thấy được sự chuẩn bị đầy đủ."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Thưởng thức hàu luộc sả chấm muối ớt và đọt keo.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn được ăn thử."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Đánh giá hương vị món ăn ngon, ngọt, béo.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào hương vị hấp dẫn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người nhất định phải thử nhen.",
+    "Giờ thì mời mọi người ăn chung với tui nha!"
+  ],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngọt",
+    "béo",
+    "cay",
+    "tê tái",
+    "ngon",
+    "ngọt xám hồn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ăn là nó nhân đôi độ ngọt của con hào luôn",
+    "hào vừa chín tới mà không có bị teo, mà còn ú nu nhìn thấy cưng lắm",
+    "ăn với đọt keo nữa ta nói nó ngọt xám hồn luôn"
+  ],
+  "hook_content": "Hello mọi người! Lại là tôi Mập Bà Tám nấu ăn đây.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu món hàu luộc sả ăn kèm đọt keo, một món ăn độc đáo và lạ miệng. Người nấu chia sẻ cách luộc hàu không bị teo và kinh nghiệm ăn kèm với đọt keo để tăng độ ngọt.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

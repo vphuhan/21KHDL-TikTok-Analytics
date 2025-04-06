@@ -1,0 +1,72 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Sử dụng âm nhạc và lời bài hát để tạo sự chú ý.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Mô tả sự rung động trước món ăn, tạo sự mong đợi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Thể hiện tình cảm",
+      "desc": "Thể hiện tình cảm cá nhân, liên kết với món ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Mong muốn được ở bên cạnh món ăn như người yêu.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "rung động",
+    "trong ngóng",
+    "thích",
+    "feel",
+    "bình an",
+    "tươi cười"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Và rồi con tim này cũng đã rung động.",
+    "Hình như ta đã thích nhau phải không?",
+    "Em hãy cứ bình an và tươi cười."
+  ],
+  "hook_content": "Và rồi con tim này cũng đã rung động.",
+  "hook_type": [
+    "Gây tò mò",
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Kể chuyện",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video sử dụng âm nhạc và lời bài hát để thể hiện tình cảm rung động trước món mì xào bò sốt cay. Nội dung tập trung vào việc diễn tả cảm xúc cá nhân hơn là hướng dẫn nấu ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

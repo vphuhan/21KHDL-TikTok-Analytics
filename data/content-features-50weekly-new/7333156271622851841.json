@@ -1,0 +1,87 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Khách du lịch, người Việt ở nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán lẩu gà lá é Tao Ngộ, địa điểm và lý do.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán ăn được giới thiệu."
+    },
+    {
+      "step": "Mô tả món ăn",
+      "desc": "Mô tả chi tiết về giá cả, thành phần và chất lượng món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và muốn thử món ăn."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá hương vị của lẩu gà, lá é và các thành phần khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm nhận được hương vị đặc trưng của món ăn."
+    },
+    {
+      "step": "Nguồn gốc món ăn",
+      "desc": "Giải thích về nguồn gốc của món lẩu gà lá é từ Phú Yên.",
+      "impact_level": "1",
+      "viewer_emotion": "Hiểu thêm về món ăn và nguồn gốc của nó."
+    },
+    {
+      "step": "Địa chỉ quán",
+      "desc": "Hướng dẫn chi tiết địa chỉ quán Tao Ngộ ở Đà Lạt.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn đến quán để thưởng thức món ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Có gì mấy bà tham khảo thử nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Lưu video",
+    "Thích video"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "rẻ",
+    "chất lượng",
+    "dễ thương",
+    "nhiệt tình",
+    "bình dân",
+    "thơm nồng",
+    "sạch",
+    "hợp lý"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đi Đà Lạt mà muốn ăn lẩu gà lá é ở đâu ngon, rẻ, chất lượng mà không có bị thách giá?",
+    "Ở đây ngon, sạch, giá cả hợp lý mà gốc Phú Yên luôn.",
+    "Thịt gà á thì cục nào cục nấy chặt cũng to nữa. Ở đây có đủ xương và nạc luôn."
+  ],
+  "hook_content": "Đi Đà Lạt mà muốn ăn lẩu gà lá é ở đâu ngon, rẻ, chất lượng mà không có bị thách giá?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu quán lẩu gà lá é Tao Ngộ ở Đà Lạt, nổi tiếng với giá cả hợp lý, chất lượng tốt và hương vị chuẩn gốc Phú Yên. Người quay chia sẻ trải nghiệm cá nhân và hướng dẫn đường đi đến quán.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

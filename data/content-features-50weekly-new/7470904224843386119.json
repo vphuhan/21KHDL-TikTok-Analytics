@@ -1,0 +1,77 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Mời mọi người cùng ăn măng vầu Tây Bắc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chia sẻ thông tin",
+      "desc": "Nhắc đến việc thấy nhiều người ăn măng vầu trên kênh.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Trải nghiệm",
+      "desc": "Lần đầu ăn thử măng vầu và bóc vỏ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét về mùi thơm, vị ngọt và mọng nước của măng.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn được ăn thử."
+    },
+    {
+      "step": "Nhấn mạnh đặc điểm",
+      "desc": "Nêu nhược điểm là nhiều lông và cái bé ngọt hơn.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "nóng ngọt",
+    "thơm",
+    "ngọt",
+    "mọng nước",
+    "ngọt thơm",
+    "lạ"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nó thơm như kiểu mùi bắp luôn.",
+    "Ăn không hề có tí vị đắng nào luôn.",
+    "Măng lại thơm mùi bắp."
+  ],
+  "hook_content": "Mời mọi người ăn măng vầu Tây Bắc với mình nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video ghi lại quá trình người nói ăn và review măng vầu Tây Bắc, đây là lần đầu tiên người này ăn thử món ăn này. Măng vầu có vị ngọt, thơm như mùi bắp và mọng nước.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

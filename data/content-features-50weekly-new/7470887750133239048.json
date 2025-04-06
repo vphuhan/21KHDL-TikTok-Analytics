@@ -1,0 +1,86 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món khâu nhục làm từ thịt heo quay còn dư.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị."
+    },
+    {
+      "step": "Giới thiệu đồ bếp",
+      "desc": "Giới thiệu đồ bếp mua được từ TikTok Shop giá tốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hứng thú với việc mua sắm."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Giới thiệu các nguyên liệu cần thiết và cách sơ chế.",
+      "impact_level": "1",
+      "viewer_emotion": "Nắm bắt thông tin cơ bản."
+    },
+    {
+      "step": "Thực hiện món ăn",
+      "desc": "Hướng dẫn chi tiết các bước làm món khâu nhục.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung vào công thức."
+    },
+    {
+      "step": "Hấp và hoàn thiện",
+      "desc": "Hướng dẫn cách hấp và hoàn thiện món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ kết quả cuối cùng."
+    },
+    {
+      "step": "Trình bày và thưởng thức",
+      "desc": "Trình bày món ăn và thưởng thức thành quả.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Nếu mà các bạn thấy ưng như cái món mà nãy giờ tôi mua á nhớ canh chương trình 14 15 sale vui Free ship, vô TikTok shop mua hàng liền, giá vừa tốt mà vừa miễn phí vận chuyển nữa.",
+    "Công thức tôi sẽ để caption cho mọi người tham khảo nha."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm",
+    "Chia sẻ công thức"
+  ],
+  "emotion_keywords": [
+    "tuyệt vời",
+    "rất thấm",
+    "xuất sắc",
+    "rất ngon",
+    "mềm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Khâu nhục mà mình làm bằng thịt heo quay thì vị nó sẽ như thế nào ha.",
+    "Vậy nay hơi bị hao cơm luôn á.",
+    "Heo quay mà còn cải mặn nữa. Xuất sắc luôn."
+  ],
+  "hook_content": "khâu nhục mà mình làm bằng thịt heo quay thì vị nó sẽ như thế nào ha.",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món khâu nhục bằng thịt heo quay còn thừa từ ngày Tết, giúp tiết kiệm thời gian chế biến. Video cũng giới thiệu một số đồ bếp mua được trên TikTok Shop với giá ưu đãi.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

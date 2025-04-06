@@ -1,0 +1,94 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu các loại bánh trung thu Mochi từ hai thương hiệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các loại bánh."
+    },
+    {
+      "step": "Đánh giá bánh Lam Thủy",
+      "desc": "Ăn thử và đánh giá chi tiết các vị bánh Mochi của Lam Thủy.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với phần đánh giá."
+    },
+    {
+      "step": "Đánh giá bánh Hồi ức 1997",
+      "desc": "Ăn thử và đánh giá chi tiết các vị bánh Mochi của Hồi ức 1997.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị."
+    },
+    {
+      "step": "Chia sẻ quan điểm cá nhân",
+      "desc": "Bày tỏ quan điểm về việc dìm hàng và bảo vệ sản phẩm Việt.",
+      "impact_level": "3",
+      "viewer_emotion": "Đồng tình hoặc không đồng tình."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Đưa ra đánh giá chung về các loại bánh đã thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Có thêm thông tin để lựa chọn."
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Khuyên người xem tự trải nghiệm và cảm nhận sản phẩm.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy được khuyến khích."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ai ai comment cho biết nha, tại vì cũng không có rành về nấu nướng lắm.",
+    "Và mọi người cũng đừng tin những gì mình review, hãy tự ăn, tự cảm nhận, không ai ráng tin bằng tự chiếc lưỡi của mình tự ăn hết mọi người ơi, coi là chỉ coi vậy thôi, ăn là tự ăn nha, bye bye!"
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Chia sẻ công thức"
+  ],
+  "emotion_keywords": [
+    "ngọt",
+    "dễ thương",
+    "dễ ăn",
+    "dễ chịu",
+    "bùi",
+    "đậm đà",
+    "quyến rũ",
+    "tủm tỉm",
+    "đáng yêu",
+    "sánh",
+    "dẻo"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trời đất ơi sao nó ngọt dữ vậy, càng ăn càng thấy nó ngọt luôn á.",
+    "Ăn vô, nhớ về cái bánh hồi xưa, thật sự nha bên đây làm cái vị rất giống bánh hồi còn nhỏ mình ăn luôn.",
+    "Mấy má mà đi theo cái quan điểm sống đó đó thì thôi dẹp đi, biến đi, em nói thiệt luôn đó mọi người, sống vậy là kiểu như là lỡ như, bây giờ xã hội cứ tiếp tục như vậy thì những cái người mà có tiền, hay là những người mà thích ơ vì đồng tiền thì họ cứ làm những điều xấu mãi mãi"
+  ],
+  "hook_content": "Y, có Mochi nha mọi người ơi. Trên mạng bánh trung thu Mochi của Lam Thủy và hồi ức 1997, ngoài đời, đây nha mọi người ơi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review bánh trung thu Mochi của hai thương hiệu Lam Thủy và Hồi ức 1997, tập trung vào hương vị, chất lượng và trải nghiệm cá nhân. Đồng thời, video cũng lồng ghép quan điểm cá nhân về các vấn đề xã hội.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

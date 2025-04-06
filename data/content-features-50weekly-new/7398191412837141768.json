@@ -1,0 +1,75 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu cá muối Nga đang gây sốt và lý do mua.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Miêu tả cảm quan ban đầu",
+      "desc": "Miêu tả hình dáng bên ngoài của cá muối khi mở bao bì.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thưởng thức và đánh giá",
+      "desc": "Ăn thử cá muối và trứng cá, đánh giá hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Đưa ra lời khuyên",
+      "desc": "Đề xuất cách ăn kèm và đối tượng nên thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Gợi ý hữu ích"
+    },
+    {
+      "step": "Chia sẻ trải nghiệm cá nhân",
+      "desc": "Chia sẻ khó khăn trong việc tách xương cá.",
+      "impact_level": "1",
+      "viewer_emotion": "Đồng cảm"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "tò mò",
+    "mặn",
+    "béo",
+    "thơm",
+    "dệu dệu",
+    "dẻo"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ấn tượng là nó hơi to nha.",
+    "Hên sao con mình có trứng thiệt nha. Trứng to đùng luôn.",
+    "Ăn vào cái vị nó khá là mặn, mặn dữ lắm luôn á mọi người. Phải ăn kèm với cơm nóng thì nó sẽ hợp hơn."
+  ],
+  "hook_content": "Khi mọi người. Nay mình thử ăn con cá muối Nga này nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video mukbang thử thách ăn cá muối Nga đang hot, tập trung vào miêu tả hương vị mặn và béo của trứng cá, đồng thời chia sẻ trải nghiệm cá nhân về độ khó khi tách xương.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

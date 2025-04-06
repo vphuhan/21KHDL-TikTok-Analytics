@@ -1,0 +1,92 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người trẻ (Gen Z)",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu lễ hội",
+      "desc": "Thông báo về sự kiện và hứa hẹn đánh giá để xem có đáng đi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về những điều thú vị sắp được khám phá."
+    },
+    {
+      "step": "Giá cả và địa điểm",
+      "desc": "Hướng dẫn đường đi và tiết lộ giá cả ưu đãi của trái cây.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự hấp dẫn của giá cả so với thị trường."
+    },
+    {
+      "step": "Đánh giá trái cây",
+      "desc": "Trải nghiệm và đánh giá hương vị của các loại trái cây.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm giác thèm thuồng và muốn thử ngay lập tức."
+    },
+    {
+      "step": "Khu ẩm thực",
+      "desc": "Giới thiệu khu ẩm thực với đa dạng món ăn đặc sản.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng về sự phong phú của ẩm thực ba miền."
+    },
+    {
+      "step": "Bánh dân gian",
+      "desc": "Giới thiệu các loại bánh dân gian và niêm yết giá cả.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng và giá cả phải chăng."
+    },
+    {
+      "step": "Kỷ niệm và lời khuyên",
+      "desc": "Chia sẻ kỷ niệm về Suối Tiên và đưa ra lời khuyên nên đi.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy gần gũi và tin tưởng vào lời khuyên."
+    },
+    {
+      "step": "Thông tin chi tiết",
+      "desc": "Cung cấp thời gian diễn ra lễ hội và ưu đãi vé cho học sinh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được lợi ích và muốn lên kế hoạch đi."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ta nói gia đình mấy đứa nào mà chưa biết mùa hè này đi đâu á thì tín hiệu vũ trụ là đây."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngọt",
+    "thơm",
+    "vui"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đi mua trái cây một hồi mà nhỡ có đói bụng á thì yên tâm tiếp đó chính là một cái khu ẩm thực đặc sản ba miền.",
+    "Mấy đứa mà có giấy khen học sinh giỏi xuất sắc là nhớ mang theo nha, ưu đãi giá vé tới công chuyện luôn.",
+    "Ta nói gia đình mấy đứa nào mà chưa biết mùa hè này đi đâu á thì tín hiệu vũ trụ là đây."
+  ],
+  "hook_content": "Chôm chôm sáu cạnh ký, mít thái tám cạnh ký, bơ 19 cạnh ký, vải đầu 30.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review lễ hội trái cây Nam Bộ ở Suối Tiên, tập trung vào giá cả ưu đãi của trái cây, khu ẩm thực đặc sản ba miền và các loại bánh dân gian, đưa ra lời khuyên nên đi vào mùa hè và ưu đãi cho học sinh giỏi.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

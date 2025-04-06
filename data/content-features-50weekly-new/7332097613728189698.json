@@ -1,0 +1,74 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Gọi món",
+      "desc": "Khách hàng gọi một phần bánh với nhiều nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Xác nhận",
+      "desc": "Người bán hàng xác nhận lại yêu cầu của khách.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thực hiện",
+      "desc": "Người bán hàng thêm nguyên liệu vào bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Hoàn thành",
+      "desc": "Người bán hàng hoàn thành món bánh và đưa cho khách.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức"
+    },
+    {
+      "step": "Nhận xét",
+      "desc": "Khách hàng nhận xét về độ tươi của nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Khách hàng khen bánh ngon và cảm ơn người bán.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "香 (thơm)",
+    "好香 (rất thơm)"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "不干不淨，吃了沒病 (Không bẩn không sạch, ăn vào không bệnh)",
+    "太高長了嘛，好香啊 (Cao lớn quá, thơm quá)"
+  ],
+  "hook_content": "老闆，我要一個加十個雞蛋，五個培根，五個里脊和一點香菜的煎餅果子。",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Đối thoại"
+  ],
+  "summarization": "Video ghi lại cảnh một khách hàng mua bánh煎餅果子 (jianbing guozi) với nhiều topping tại một quán ăn đường phố ở Trung Quốc. Khách hàng khen bánh thơm ngon và nguyên liệu tươi.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

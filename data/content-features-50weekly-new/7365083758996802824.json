@@ -1,0 +1,90 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người ăn chay, ăn healthy"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu nấm Đông trùng hạ thảo và giá cả gây hiểu lầm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm."
+    },
+    {
+      "step": "Hướng dẫn sử dụng",
+      "desc": "Hướng dẫn cách dùng nấm Đông trùng hạ thảo theo khuyến nghị.",
+      "impact_level": "2",
+      "viewer_emotion": "Học hỏi được cách dùng."
+    },
+    {
+      "step": "Ăn thử và đánh giá",
+      "desc": "Ăn thử nấm sống và mô tả hương vị, cảm nhận ban đầu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với trải nghiệm."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Đánh giá hương vị sau khi nhai và so sánh với kỳ vọng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị thực tế."
+    },
+    {
+      "step": "Lợi ích sức khỏe",
+      "desc": "Nhấn mạnh lợi ích sức khỏe của nấm Đông trùng hạ thảo.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến sức khỏe."
+    },
+    {
+      "step": "Lưu ý khi sử dụng",
+      "desc": "Cảnh báo về việc sử dụng quá nhiều do dược tính cao.",
+      "impact_level": "2",
+      "viewer_emotion": "Cần thận trọng hơn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mời các bạn ăn cùng mẹ con mình nhá.",
+    "Mời các bạn ăn cùng mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "giòn",
+    "béo",
+    "ngậy",
+    "dễ ăn",
+    "hơi lợ lợ",
+    "hơi khó nuốt",
+    "tốt cho sức khỏe"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mình nói ấy, cái hộp nấm này ấy mình mua với giá trên dưới 1 triệu. Các bạn có tin không?",
+    "Nhìn cũng hay hay các bạn ạ.",
+    "Tưởng dễ ăn mà cũng hơi khó nuốt đấy."
+  ],
+  "hook_content": "Mình nói ấy, cái hộp nấm này ấy mình mua với giá trên dưới 1 triệu. Các bạn có tin không?",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review nấm Đông trùng hạ thảo, chia sẻ trải nghiệm ăn thử và đánh giá hương vị, đồng thời nêu lên các lợi ích sức khỏe và lưu ý khi sử dụng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

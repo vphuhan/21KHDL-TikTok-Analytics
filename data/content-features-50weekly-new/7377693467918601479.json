@@ -1,0 +1,73 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu chung",
+      "desc": "Giới thiệu về buffet lẩu hải sản với nhiều món ăn kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn kèm."
+    },
+    {
+      "step": "Đánh giá món khai vị",
+      "desc": "Đánh giá cao các món khai vị, đặc biệt là chả cá lăng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng."
+    },
+    {
+      "step": "Nhận xét về lẩu",
+      "desc": "Nhận xét về nước lẩu và các topping nhúng lẩu.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử các loại cá."
+    },
+    {
+      "step": "Thông tin bổ sung",
+      "desc": "Thông tin về điều kiện buffet và không gian quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Lưu ý các thông tin."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người có thể thử xem sao nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thích mê",
+    "hời"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ở Thái Delly chỉ có gọn 238k thôi mà mọi người đã được ăn tám món khai vị bao gồm cả tháp sừng cay, tôm hùm đất và cả chả cá",
+    "set cuốn trả cá lăng ở đây ăn ngon không kém cạnh gì các quán bán trả cá chuyên nghiệp đâu",
+    "buffet hải sản chỉ phục vụ cho bàn từ ba người trở lên thôi nhé"
+  ],
+  "hook_content": "Chưa biết 238 là cho một set lẩu hải sản hay là buffet ạ?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review buffet lẩu hải sản tại Thai Deli với nhiều món khai vị hấp dẫn và đồ nhúng lẩu đa dạng. Đặc biệt, set cuốn chả cá lăng được đánh giá cao.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

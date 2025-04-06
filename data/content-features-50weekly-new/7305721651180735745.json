@@ -1,0 +1,80 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giải thích lý do nấu mì gói và giới thiệu công thức.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về công thức đặc biệt."
+    },
+    {
+      "step": "Giới thiệu công thức 4-5-1",
+      "desc": "Giải thích ý nghĩa của công thức và các thành phần.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị và muốn tìm hiểu thêm."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê và sơ chế các nguyên liệu như mì, tôm, thịt bò, rau.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Trộn mì",
+      "desc": "Hướng dẫn trộn mì với gia vị và các nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn và dễ làm theo."
+    },
+    {
+      "step": "Trình bày và hoàn thành",
+      "desc": "Trình bày món mì và hoàn thành món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn thử ngay lập tức."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Có gì mấy bà làm thử giống tôi nha.",
+    "Nhà còn gì thì cứ áp dụng theo công thức 4 5 1 là có bữa ăn đầy đủ giống như tôi à."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Chia sẻ công thức"
+  ],
+  "emotion_keywords": [
+    "sướng",
+    "yêu",
+    "thương",
+    "đầy đủ chất",
+    "nhanh gọn lẹ",
+    "đủ dưỡng chất",
+    "đầy đủ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mấy bà cứ thắc mắc với tôi á là nấu cơm cho anh người yêu mang đi làm mà có cả thịt bò, tôm như này á thì lương của ổng bao nhiêu mới đủ chứ ăn quá trời sướng rồi, chắc là phải làm giám đốc á.",
+    "Bình thường nấu mì á thì chỉ có mì thôi, còn tôi sẽ theo cái công thức 4 5 1 này nè, bao đủ chất luôn.",
+    "Nhà còn gì thì cứ áp dụng theo công thức 4 5 1 là có bữa ăn đầy đủ giống như tôi à."
+  ],
+  "hook_content": "Mấy bà cứ thắc mắc với tôi á là nấu cơm cho anh người yêu mang đi làm mà có cả thịt bò, tôm như này á thì lương của ổng bao nhiêu mới đủ chứ ăn quá trời sướng rồi, chắc là phải làm giám đốc á.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn nấu mì gói theo công thức 4-5-1, đảm bảo đủ chất dinh dưỡng với các nguyên liệu dễ kiếm. Người nấu chia sẻ bí quyết để có một bữa ăn nhanh gọn, đầy đủ dinh dưỡng.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

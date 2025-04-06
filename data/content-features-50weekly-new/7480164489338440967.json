@@ -1,0 +1,91 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Khai vị",
+      "desc": "Giới thiệu các món khai vị, đặc biệt là đậu hũ chiên xù.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn được giới thiệu."
+    },
+    {
+      "step": "Món chính 1",
+      "desc": "Đánh giá gà tiềm bạch quả tuyết nhĩ, tập trung vào độ mềm.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử món gà tiềm."
+    },
+    {
+      "step": "Món chính 2",
+      "desc": "Nhận xét về heo sữa quay và bánh bao chiên.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi lớp da giòn của heo quay."
+    },
+    {
+      "step": "Món chính 3",
+      "desc": "Tôm sốt mayonnaise trái thơm được giới thiệu chi tiết.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự kết hợp của tôm và trái thơm."
+    },
+    {
+      "step": "Món chính 4",
+      "desc": "Đánh giá cá bống mú hấp hành gừng, nhấn mạnh độ tươi.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng về độ lớn và sự tươi ngon của cá."
+    },
+    {
+      "step": "Món no",
+      "desc": "Giới thiệu mì xào hải sản và cơm chiên Phú Hào.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy no theo người review."
+    },
+    {
+      "step": "Tráng miệng",
+      "desc": "Giới thiệu chè đậu đỏ nóng tráng miệng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm món chè nóng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "tươi",
+    "mềm",
+    "béo",
+    "giòn",
+    "ngọt",
+    "đậm đà",
+    "vừa phải",
+    "thơm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cái phần sứa này người ta làm nó đậm đà lắm mấy bà, ăn nó sần sật ngon nha.",
+    "Cắn vào một cái lớp mỡ mỏng nè, rồi lớp thịt nè, thấy thì mặn mặn nhẹ nhẹ.",
+    "Thịt cá mú ở đây hấp nha, không bị tanh mà con cá rất là bự, thịt cá mú thì ngọt."
+  ],
+  "hook_content": "Review các món trong bữa tiệc thôi nôi của bé Sữa con của TikToker Hồ Kim Nhuyễn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video review các món ăn trong tiệc thôi nôi của con TikToker Hồ Kim Nhuyễn, bao gồm khai vị, món chính (gà tiềm, heo sữa quay, tôm sốt, cá bống mú), món no (mì xào, cơm chiên) và tráng miệng (chè đậu đỏ). Các món ăn được đánh giá chi tiết về hương vị, độ tươi ngon và cách chế biến.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

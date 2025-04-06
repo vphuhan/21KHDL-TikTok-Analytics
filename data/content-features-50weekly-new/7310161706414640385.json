@@ -1,0 +1,78 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Than thở việc bị bỏ rơi ở nhà và ăn xôi.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu lẩu gà lá é ăn một mình và các món thêm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Miêu tả món ăn",
+      "desc": "Miêu tả chi tiết các món ăn và hương vị đặc trưng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Đánh giá chất lượng và giá cả của quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Thông tin thêm",
+      "desc": "Đề cập đến chi nhánh mới và tiện nghi của quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "khoái",
+    "dính",
+    "thèm",
+    "béo",
+    "ghiền",
+    "tươi",
+    "chắc",
+    "ấm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ở đây có cái nước chấm mặn mặn ngọt ngọt cay cay này dính lắm nha",
+    "Trứng non còn xíu lòng đào kiểu vậy ăn nó béo mà ghiền luôn á",
+    "Ví dụ mà ngoài trời có nóng quá thì ở chi nhánh này có phòng lạnh ngồi luôn cho nó mát"
+  ],
+  "hook_content": "Tối qua nghe lén hai vị phụ huynh nói lâu rồi chưa có ra ngoài ăn.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán lẩu gà lá é, chia sẻ trải nghiệm ăn uống một mình với nhiều món ăn kèm hấp dẫn, đánh giá cao chất lượng và giá cả của quán.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu hộp socola của Hằng Du Mục và so sánh với Nama.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm mới."
+    },
+    {
+      "step": "Trải nghiệm mở hộp",
+      "desc": "Mở hộp socola và nhận xét về bao bì, hình thức sản phẩm.",
+      "impact_level": "1",
+      "viewer_emotion": "Hơi thất vọng vì socola bị chảy."
+    },
+    {
+      "step": "Đánh giá vấn đề vận chuyển",
+      "desc": "Nhận xét về việc bảo quản và vận chuyển socola trong thời tiết nóng.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình với vấn đề được nêu."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét về hương vị của socola, bao gồm mùi thơm, vị ngọt và đắng.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử hương vị của socola."
+    },
+    {
+      "step": "Đề xuất",
+      "desc": "Đề xuất cách ăn socola ngon hơn khi để lạnh.",
+      "impact_level": "2",
+      "viewer_emotion": "Gợi ý hữu ích."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết",
+    "Sáng tạo"
+  ],
+  "cta_content": [
+    "Ok mọi người nhá và với cái hộp sô cô la như này thì mình cũng sẽ chỉ nhận xét về hương vị thôi."
+  ],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "không bị quá ngọt",
+    "không bị ngọt gắt",
+    "vị đắng",
+    "mùi sữa",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Với cái thời tiết như này thì mình nghĩ thực sự luôn là sô cô la không phù hợp để bán đi ship xa và ship dài ngày nha. Một sai lầm lớn.",
+    "Về hương vị thì khi mình ăn thì cái mùi sô cô la rất là thơm. Cái vị của nó thì kiểu không bị quá ngọt và không bị ngọt gắt.",
+    "Cái này khi mà bỏ tủ lạnh và nó từng viên ấy thì mình nghĩ ăn ngon hơn rất là nhiều."
+  ],
+  "hook_content": "Nhìn cái hộp sô cô la này thì mọi người sẽ thấy nó rất là giống hộp sô cô la Nama đúng không?",
+  "hook_type": [
+    "Gây tò mò",
+    "So sánh"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review hộp socola của Hằng Du Mục, so sánh với Nama về hình thức. Người review đánh giá hương vị socola thơm ngon, không quá ngọt, nhưng thất vọng vì socola bị chảy do vận chuyển không đảm bảo.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

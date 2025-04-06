@@ -1,0 +1,75 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu về sở thích",
+      "desc": "Giới thiệu sở thích ăn măng cụt của ba và sầu riêng của mẹ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Nhận xét về trái khế",
+      "desc": "Bàn luận về cây khế ngọt nhà ngoại và ba thích ăn chua.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Đi hái sả và ớt để làm món cá lóc hấp sả.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Trình bày món ăn",
+      "desc": "Giới thiệu chày giã muối cổ và chén muối ớt chanh.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Cá hấp chín và cả nhà cùng nhau thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Háo hức"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Ba và mọi người cùng nhau đánh giá món cá hấp sả.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "cay"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Về Việt Nam mà không thử cái món này thì quả thiệt là một thiếu sót luôn."
+  ],
+  "hook_content": "nào cũng như bữa nấy, nhà mình lúc nào cũng phải có 5 3 ký măng cục nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh gia đình làm món cá lóc hấp sả và cùng nhau thưởng thức. Món ăn được chuẩn bị từ các nguyên liệu tươi ngon hái từ vườn nhà.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

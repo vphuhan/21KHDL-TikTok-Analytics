@@ -1,0 +1,85 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu mận",
+      "desc": "Chia sẻ về mùa mận và niềm yêu thích ăn mận.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị khi biết về mùa mận."
+    },
+    {
+      "step": "Giới thiệu cá",
+      "desc": "Giới thiệu về cá lau kiếng và cách sơ chế.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món cá này."
+    },
+    {
+      "step": "Ướp cá",
+      "desc": "Ướp cá với sả và các gia vị đơn giản.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Hấp cá",
+      "desc": "Hấp cá và miêu tả mùi thơm lan tỏa.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi mùi thơm."
+    },
+    {
+      "step": "Giới thiệu vòng trầm",
+      "desc": "Giới thiệu về chiếc vòng trầm và công dụng.",
+      "impact_level": "1",
+      "viewer_emotion": "Không liên quan đến món ăn."
+    },
+    {
+      "step": "Thưởng thức cá",
+      "desc": "Ăn và miêu tả hương vị của cá lau kiếng.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng muốn ăn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Vòng chuỗi này thì mình làm bên chị Thanh Nhàn nên ai có cần thì mọi người nhắn cho chị chứ bữa giờ thì ai cũng hỏi mình hết."
+  ],
+  "cta_type": [
+    "Truy cập trang cá nhân"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "cưng",
+    "may mắn",
+    "thơm",
+    "dai ngon",
+    "ngọt ngay"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mận này thì một ngày ăn 10 ký cũng được nữa.",
+    "Cá lau kiếng này thì cái thịt của nó dai dai mà chấm thêm cái muối ớt nữa thì là đúng bài luôn.",
+    "Cái loại cá này á thì cái thịt của nó dai ngon y chang là thịt gà vậy đó."
+  ],
+  "hook_content": "Bữa giờ thì đang do là mùa mận, nên là đi chợ nào thì cũng gặp mận đổ đống hết trơn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu món cá lau kiếng hấp sả, từ khâu chuẩn bị nguyên liệu, sơ chế, ướp gia vị, đến khi thưởng thức món ăn. Đồng thời, người làm video cũng giới thiệu thêm về chiếc vòng trầm mà mình đang đeo.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

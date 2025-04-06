@@ -1,0 +1,73 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món đậu que ngâm bia và công dụng tuyệt vời của nó.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của món ăn."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Hướng dẫn sơ chế đậu que và các nguyên liệu khác.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy dễ thực hiện theo."
+    },
+    {
+      "step": "Ngâm đậu que",
+      "desc": "Hướng dẫn chi tiết cách ngâm đậu que với bia.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với cách làm mới lạ."
+    },
+    {
+      "step": "Thành phẩm và thưởng thức",
+      "desc": "Giới thiệu thành phẩm và gợi ý cách thưởng thức.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử làm và thưởng thức ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "một trái tim nhỏ miễn phí, đối với bạn thì chỉ là chuyện nhỏ, nhưng đối với mình thì là sự ủng hộ tuyệt vời nhất.",
+    "Lần này xin hãy giúp mình một tay nhấn một trái tim nhỏ nhé."
+  ],
+  "cta_type": [
+    "Thích video",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "chua chua",
+    "giòn giòn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Không ngờ rằng, đổ bia vào đậu que lại có thể làm ra món đậu que ngon đến thế.",
+    "Đậu que ngâm bia thành phẩm có màu vàng óng, vị chua chua giòn giòn.",
+    "Nếu bạn thích thì cũng làm thử nhé."
+  ],
+  "hook_content": "Không ngờ rằng, đổ bia vào đậu que lại có thể làm ra món đậu que ngon đến thế.",
+  "hook_type": [
+    "Gây tò mò",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm món đậu que ngâm bia đơn giản tại nhà, với nguyên liệu dễ kiếm và cách thực hiện nhanh chóng, tạo ra món ăn có vị chua giòn hấp dẫn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món kẹo hồ lô làm từ đường và nước nhưng thất bại.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về nguyên nhân thất bại."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Mua dâu tây và sử dụng nho sữa còn thừa để làm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Hướng dẫn công thức",
+      "desc": "Tỉ lệ đường gấp đôi nước, không khuấy khi đun.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy có thể tự làm theo."
+    },
+    {
+      "step": "Thực hiện và thất bại",
+      "desc": "Đường không trong, đông nhanh, không bám hoa quả.",
+      "impact_level": "3",
+      "viewer_emotion": "Thất vọng, đồng cảm với người làm."
+    },
+    {
+      "step": "Tổng kết và xin trợ giúp",
+      "desc": "Áp dụng mẹo vẫn thất bại, mong được chỉ giúp.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn giúp đỡ người làm."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo"
+  ],
+  "cta_content": [
+    "mọi người có thể chỉ giúp mình với nhá"
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Chia sẻ công thức",
+    "Đặt câu hỏi"
+  ],
+  "emotion_keywords": [
+    "không thể tin được",
+    "ngon mắt",
+    "chắc thắng",
+    "không hiểu sao",
+    "phêu"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "một cái món nó chỉ có đúng hai nguyên liệu cơ bản là đường và nước mà làm từ năm ngoái tới năm nay vẫn phêu",
+    "Pit ơi, mày dưới thì mày cứ dưới còn bám hay không là việc của tụi tao",
+    "Đã áp dụng từng đấy mẹo rồi nhưng mà vẫn phêu"
+  ],
+  "hook_content": "không thể tin được. một cái món nó chỉ có đúng hai nguyên liệu cơ bản là đường và nước mà làm từ năm ngoái tới năm nay vẫn phêu.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ về quá trình làm kẹo hồ lô (tanghulu) nhưng liên tục thất bại dù đã thử nhiều cách. Người làm mong muốn nhận được sự giúp đỡ từ cộng đồng để khắc phục.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Chân thành",
+    "Khó chịu"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ăn lạ, có thể quen, khiến người xem tò mò.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Mô tả hình dáng",
+      "desc": "Mô tả món ăn có hình dáng giống tóc, gây cảm giác sợ hãi.",
+      "impact_level": "3",
+      "viewer_emotion": "Ghê sợ"
+    },
+    {
+      "step": "Giải thích nguyên liệu",
+      "desc": "Giải thích nguyên liệu không phải tóc thường, mà là tóc tiên.",
+      "impact_level": "2",
+      "viewer_emotion": "Bớt sợ"
+    },
+    {
+      "step": "Gợi ý cách chế biến",
+      "desc": "Gợi ý các món ăn có thể chế biến từ tóc tiên.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Nhấn mạnh hương vị",
+      "desc": "Nhấn mạnh hương vị ngon và cảm giác sực sực khi ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "sợ",
+    "bổ",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cái gì mà như tóc người ta vậy trời?",
+    "Trời ơi y như y như tóc vậy cha nội ơi, ăn cái gì?",
+    "Tóc tiên nấu súp thì nói đại tóc tiên nấu súp đi, đưa lên mẹ tưởng tóc thiệt tóc thiệt của người ta."
+  ],
+  "hook_content": "Cái này không phải là tóc của người thường.Chứ tóc ai?",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Đối thoại",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu món ăn có hình dáng kỳ lạ giống tóc, thực chất là tóc tiên, một nguyên liệu bổ dưỡng có thể chế biến thành nhiều món ngon. Món ăn gây tò mò và sợ hãi ban đầu, nhưng lại được giới thiệu là ngon và bổ dưỡng.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Ngạc nhiên",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về buổi đi chợ hải sản và người trả tiền.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự hào phóng của người anh."
+    },
+    {
+      "step": "Chuẩn bị",
+      "desc": "Rửa hải sản và làm muối chấm hải sản.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về công thức muối chấm đặc biệt."
+    },
+    {
+      "step": "Tẩm ướp",
+      "desc": "Ướp bạch tuộc với sa tế để tăng hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi màu sắc của bạch tuộc ướp sa tế."
+    },
+    {
+      "step": "Nướng hải sản",
+      "desc": "Nướng các loại hải sản trên bếp than.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy đói bụng vì mùi thơm của hải sản nướng."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Cả nhà cùng nhau ăn hải sản nướng.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn ăn cùng gia đình."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Nhận xét và so sánh hương vị với món ăn ở Việt Nam.",
+      "impact_level": "2",
+      "viewer_emotion": "Gợi nhớ về hương vị quê nhà."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Tiếp tục ăn và khen ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ vì món ăn được mọi người yêu thích."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "ngon",
+    "mát",
+    "nhục",
+    "cay",
+    "vừa đủ liều"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Khi mà đi xa cả cây số chắc còn nghe được cái mùi thơm của nó nữa.",
+    "Ăn nướng mà thêm đồ gắp nướng nữa thì ta nói nhất cái nách luôn.",
+    "Trời ơi ơi giống như ăn ở bển Việt Nam quá hả."
+  ],
+  "hook_content": "Ăn hải sản nướng sa tế với gd trước khi về Việt Nam",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh gia đình cùng nhau ăn hải sản nướng sa tế trước khi một thành viên về Việt Nam, tập trung vào quá trình chuẩn bị và thưởng thức món ăn, với nhiều lời khen về hương vị.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

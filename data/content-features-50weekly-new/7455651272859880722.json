@@ -1,0 +1,96 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu mở đầu",
+      "desc": "Thông báo đã sang năm mới và giới thiệu bữa ăn mừng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu món khai vị",
+      "desc": "Giới thiệu bánh su kem như một món khai vị.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu món chính",
+      "desc": "Giới thiệu bàn sushi lớn tại quán quen.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Đánh giá các món",
+      "desc": "Đánh giá chi tiết các món sushi, sashimi và các món khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Giới thiệu ưu đãi",
+      "desc": "Thông tin về các chương trình khuyến mãi của quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Đánh giá không gian",
+      "desc": "Nhận xét về không gian quán rộng rãi, phù hợp nhóm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Khẳng định đây là địa điểm ăn mừng hợp lý.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon miệng",
+    "hấp dẫn",
+    "tươi ngon",
+    "mềm mọng",
+    "giòn rụm",
+    "béo",
+    "thơm",
+    "ngon",
+    "vừa miệng",
+    "mặn mặn",
+    "ngọt ngọt",
+    "béo",
+    "thơm ngon",
+    "mát lạnh",
+    "ngon bổ rẻ"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mà mới phát hiện ra cái món xà lách da cá hồi này ăn dính lắm nha, cắn nó giòn rụm luôn á.",
+    "Ta nói ăn miếng cá hồi vừa dày vừa béo nó đã gì đâu luôn á.",
+    "Tại dính cái phô mai ở đây mặn mặn ngọt ngọt béo đã. Đã vậy hầu con nào con nấy ú nu nữa chứ."
+  ],
+  "hook_content": "tỉnh giấc nhận ra hình như mai đã bước qua năm mới.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review bàn sushi thịnh soạn tại Thiên Du Sky Sushi để ăn mừng năm mới, với nhiều món ăn hấp dẫn như sashimi, tôm tempura, mực teriyaki và hàu phô mai. Quán có không gian rộng rãi, giá cả hợp lý và nhiều ưu đãi.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

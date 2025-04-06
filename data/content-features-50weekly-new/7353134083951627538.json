@@ -1,0 +1,87 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu việc đăng video gần đây có lượt xem cao.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Thay vì ăn sứa đỏ ở ngoài hàng, quyết định mua về tự làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Chia sẻ nguyên liệu",
+      "desc": "Giới thiệu nguyên liệu mua trên TikTok Shop và các loại rau.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Lưu ý khi ăn sứa",
+      "desc": "Nhấn mạnh tầm quan trọng của mắm tôm và quá trình pha chế.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Thao tác làm món ăn",
+      "desc": "Trang đeo bao tay và bắt đầu cắt sứa.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Thực hiện hành động ăn sứa và đánh giá vị giác.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Lời chào tạm biệt và lời nhắn nhủ đến người xem.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ai xem tiếp được thì xem không xem thì xem."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "thèm",
+    "đói bụng",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nói chung cũng hơi diễn một tí, nói thẳng là như thế.",
+    "Đấy nấu ăn hay làm gì thì đời sống tinh thần nó cũng phải là trên hết.",
+    "Từ lúc dùng cái nước ngâm rau củ thấy là cũng yên tâm hẳn. Không khác gì mấy má dùng máy lọc không khí mà quên bốc lõi, đúng tất cả chỉ là cái cảm giác thôi."
+  ],
+  "hook_content": "Trộm vía dạo này lơ ngơ như nào đăng video lại view cao chứ.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ về trải nghiệm tự làm món sứa đỏ tại nhà của một bạn nữ. Bạn ấy mua nguyên liệu trên TikTok Shop và chia sẻ quá trình chế biến, từ sơ chế đến khi thưởng thức món ăn.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

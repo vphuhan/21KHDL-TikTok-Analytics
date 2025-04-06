@@ -1,0 +1,92 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người ăn chay, ăn healthy",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món heo quay chay làm từ bắp chuối và công dụng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Luộc bắp chuối với chanh và muối, pha bột.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, các bước chuẩn bị quen thuộc."
+    },
+    {
+      "step": "Ướp và tạo hình",
+      "desc": "Bằm bắp chuối, vắt nước, ướp gia vị, trộn bột, tạo hình.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với cách biến tấu nguyên liệu."
+    },
+    {
+      "step": "Hấp bắp chuối",
+      "desc": "Sử dụng nồi hấp Vifiba để hấp bắp chuối và nấm.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với tính năng của nồi hấp."
+    },
+    {
+      "step": "Hoàn thiện món ăn",
+      "desc": "Thêm lớp bột năng, hấp chín, làm nguội, chiên.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú với quá trình hoàn thiện."
+    },
+    {
+      "step": "Trình bày và thưởng thức",
+      "desc": "Cắt heo quay chay, ăn với bánh hỏi hoặc sốt tiêu xanh.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn thử ngay."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Nhấn mạnh sự tiện lợi của nồi hấp Vifiba và gợi ý quà tặng.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy hữu ích và thiết thực."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Ai nào mà sắp ra mắt nhà người yêu, nhân cái dịp ngày ăn chay á thì lẹ tay lưu món này lại liền nha, để mình còn chỗ tài ghi điểm nữa nè.",
+    "Còn bây giờ á thì hai mời mọi người cùng ăn với nhà hai nha."
+  ],
+  "cta_type": [
+    "Lưu video",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "béo",
+    "thơm",
+    "đã",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "giờ hai mới biết á là bắp chuối mà mình đem đi làm heo quay chay á nó ngon tới vậy luôn á.",
+    "Mùi mùi béo béo thơm mà ngon dữ lắm.",
+    "Mà cái da lơn á nó phồng nhìn đã ghê luôn á mọi người."
+  ],
+  "hook_content": "giờ hai mới biết á là bắp chuối mà mình đem đi làm heo quay chay á nó ngon tới vậy luôn á.",
+  "hook_type": [
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món heo quay chay từ bắp chuối, sử dụng nồi lẩu hấp Vifiba để chế biến. Món ăn được giới thiệu là ngon, béo, thơm và phù hợp cho người ăn chay, đồng thời nồi hấp cũng rất tiện lợi để làm quà biếu.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

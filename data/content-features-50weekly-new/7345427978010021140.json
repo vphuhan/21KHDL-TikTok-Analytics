@@ -1,0 +1,75 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món lẩu hột vịt lộn, gợi ý tẩm bổ cho người thân.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món lẩu đặc biệt này."
+    },
+    {
+      "step": "Chia sẻ lý do nấu",
+      "desc": "Thời tiết nắng nóng khiến cả nhà bị cảm, nấu lẩu để bồi bổ.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm với tình trạng sức khỏe của gia đình."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê các nguyên liệu cần thiết cho món lẩu hột vịt lộn.",
+      "impact_level": "1",
+      "viewer_emotion": "Nắm bắt được danh sách các nguyên liệu cần chuẩn bị."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Hướng dẫn sơ chế hột vịt lộn, rau và tạo hình bò viên.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với cách tạo hình bò viên độc đáo."
+    },
+    {
+      "step": "Nấu nước lẩu",
+      "desc": "Hướng dẫn nấu nước lẩu đơn giản với nước dừa và gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ hương vị của nước lẩu đặc biệt."
+    },
+    {
+      "step": "Hoàn thành món ăn",
+      "desc": "Cho tất cả topping vào nước lẩu đã nấu và hoàn thành món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi nồi lẩu hột vịt lộn đã hoàn thành."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "bổ"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ta nói nó ngon mà nó bổ dữ lắm luôn.",
+    "Trong tưởng tượng mình á chắc nở lên đẹp lắm kìa, nhưng mà lúc mình nấu lên á nó nở to muốn bằng cái trán luôn á, nên Trang phải cắt làm hai cho dễ ăn á."
+  ],
+  "hook_content": "Ai đã có ý định mà bồi bổ sức khỏe hay là tẩm bổ cho chồng á thì các bạn hãy làm ngay cái món lẩu hột vịt lộn nha đi nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn nấu món lẩu hột vịt lộn để bồi bổ sức khỏe, đặc biệt khi thời tiết thay đổi dễ bị cảm. Các bước thực hiện bao gồm chuẩn bị nguyên liệu, sơ chế và nấu nước lẩu đơn giản.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

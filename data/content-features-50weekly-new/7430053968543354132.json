@@ -1,0 +1,87 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bối cảnh",
+      "desc": "Giới thiệu về gia đình và công việc của anh trai.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Kế hoạch ăn uống",
+      "desc": "Dự định mua hải sản nướng nhưng chuyển sang hấp vì lạnh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Chế biến món ăn",
+      "desc": "Hấp hải sản theo kiểu mới học và làm nước mắm sả.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "So sánh thói quen",
+      "desc": "So sánh thói quen ăn uống của anh trai khi có và không có mặt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Nhận xét về mối quan hệ",
+      "desc": "Nhận xét về mối quan hệ giữa anh trai và ba của các con.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu và quảng cáo sản phẩm bổ não, tinh dầu thông đỏ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Kết thúc và ăn uống",
+      "desc": "Mời mọi người ăn hải sản hấp cùng gia đình.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người muốn mua hàng hàng chuẩn cho gia đình mình á thì nhắn qua MinSu Shop giùm mình nha."
+  ],
+  "cta_type": [
+    "Truy cập trang cá nhân",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "mừng",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Có bạn kêu bình luận mắc cười lắm, mình mà về Việt Nam á là ông anh mình ở bên này ăn hải sản không à, sợ bị rút giùm ổng luôn.",
+    "Hai là ông anh mình ở chung nhưng mà ba tụi Hon vẫn thoải mái. hả, cái cảnh anh vợ mà ở chung như thế này khó lắm."
+  ],
+  "hook_content": "Hôm nay để mình sẽ cho mọi người thấy là anh trai mình ở nhà mình ổng sẽ làm những việc gì nha mọi người. Chứ quay ổng ăn không mọi người hiểu lầm ổng tội nghiệp ổng.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cuộc sống thường ngày của gia đình, giới thiệu về người anh trai đảm đang và quảng cáo sản phẩm bổ não, tinh dầu thông đỏ từ MinSu Shop.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu lạp xưởng nướng đá ăn kèm ớt bột Trung Quốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn và cách kết hợp."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhấn mạnh lạp xưởng nướng đá là món ngon nhất trong các trend.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn thử ngay lập tức."
+    },
+    {
+      "step": "Nhấn mạnh đặc điểm",
+      "desc": "Miêu tả ớt bột siêu thơm, kích thích vị giác.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung vào hương vị đặc trưng."
+    },
+    {
+      "step": "Cảm nhận cá nhân",
+      "desc": "Nhấn mạnh trải nghiệm ăn uống 'chấm gì ăn mới đã'.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình với sự ngon miệng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "đã"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Trong mấy cái trend TikTok tôi thấy cái này là ăn ngon nhất.",
+    "Cái ớt bột nó siêu thơm luôn mọi người.",
+    "chấm gi ăn mới đã"
+  ],
+  "hook_content": "Hôm nay mình có lạp xưởng nướng đá, ăn với ớt ớt bột của Trung Quốc.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu món lạp xưởng nướng đá ăn kèm ớt bột Trung Quốc, người nói đánh giá đây là món ăn ngon nhất trong các trend TikTok và đặc biệt thích hương vị của ớt bột.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

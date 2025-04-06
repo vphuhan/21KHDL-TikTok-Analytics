@@ -1,0 +1,50 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu các loại xiên que và mời mọi người cùng ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món xiên que."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Ăn và đưa ra cảm nhận về hương vị món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn ăn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Quá ngon.",
+    "Cái này bồ đả lô"
+  ],
+  "hook_content": "Mời cả nhà cùng ăn các loại xiên sạch nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang các loại xiên que, tập trung vào việc ăn và thể hiện cảm xúc về hương vị.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

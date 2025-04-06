@@ -1,0 +1,86 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bánh",
+      "desc": "Mô tả bánh sữa chua Hy Lạp có hình dáng như miếng phô mai.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hình dáng của bánh."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét về vị ngọt nhẹ, mùi sữa thơm béo của bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng, muốn nếm thử."
+    },
+    {
+      "step": "Trải nghiệm cá nhân",
+      "desc": "Chia sẻ cảm nhận lần đầu ăn bánh, thấy ngon và hợp khẩu vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá."
+    },
+    {
+      "step": "Mô tả chi tiết",
+      "desc": "Miêu tả kỹ hơn về độ mềm dẻo, vị ngọt ít và độ béo ngậy.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung rõ hơn về bánh."
+    },
+    {
+      "step": "Gợi ý cách ăn",
+      "desc": "Đề xuất chia bánh thành tư như bánh trung thu để ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy hữu ích, dễ áp dụng."
+    },
+    {
+      "step": "Khuyến nghị",
+      "desc": "Gợi ý những ai thích béo ngậy nên thử bánh này.",
+      "impact_level": "2",
+      "viewer_emotion": "Được thúc đẩy muốn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bạn nào mà thích ăn béo ngậy như kiểu sữa với phô mai ấy thì có thể thử cái bánh này nhá."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "lạ",
+    "thích",
+    "thơm béo",
+    "mềm",
+    "dẻo",
+    "béo ngậy"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Vị rất là ít ngọt luôn.",
+    "Mùi sữa thơm béo giống như kiểu kẹo sữa Vinamilk hồi nhỏ mình ăn ấy.",
+    "Bạn nào mà thích ăn béo ngậy như kiểu sữa với phô mai ấy thì có thể thử cái bánh này nhá."
+  ],
+  "hook_content": "Bánh trông như miếng phô mai luôn.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review bánh sữa chua Hy Lạp, tập trung vào hương vị ít ngọt, thơm béo và độ mềm dẻo. Người nói gợi ý những ai thích ăn béo ngậy nên thử.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

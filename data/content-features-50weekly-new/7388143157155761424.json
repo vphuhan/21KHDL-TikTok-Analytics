@@ -1,0 +1,80 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món mực trứng nướng và nguyên liệu chính.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chọn mực",
+      "desc": "Chọn mực trứng tươi ngon, kích thước lớn.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với độ tươi của mực."
+    },
+    {
+      "step": "Nướng mực",
+      "desc": "Nướng mực và quét thêm lớp sa tế cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi màu sắc và mùi thơm."
+    },
+    {
+      "step": "Trình bày món ăn",
+      "desc": "Mực nướng chấm với muối ớt đỏ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng vì món ăn hấp dẫn."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá độ tươi ngon, giòn ngọt của mực.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn thử ngay lập tức."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mời mọi người ăn chung với tôi nhen."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "cay",
+    "ngon",
+    "tươi",
+    "béo",
+    "dẻo",
+    "đậm đà"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "mực gì đâu mà ú nu, khứa ra thì ngập ngụ trứng luôn",
+    "thịt mực thì giòn, ngọt mà nó rất là tươi luôn á trời, còn trứng thì béo dẻo chứ không có bị khô đâu nha",
+    "đáng đồng tiền bát gạo, 10 điểm không có nhưng"
+  ],
+  "hook_content": "Hello mọi người, lại là tôi Mập Bự thích nấu ăn đây. Nay mọi người cùng tôi nướng mực trứng ăn nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu món mực trứng nướng, từ khâu chọn mực tươi ngon đến quá trình nướng và thưởng thức. Người làm video đánh giá cao độ tươi ngon và hương vị của món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

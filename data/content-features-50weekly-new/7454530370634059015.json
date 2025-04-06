@@ -1,0 +1,80 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món trứng rim mắm đơn giản, chi phí thấp.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Liệt kê nguyên liệu",
+      "desc": "Liệt kê các nguyên liệu cần thiết cho món trứng rim.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Sơ chế & làm sốt",
+      "desc": "Hướng dẫn sơ chế nguyên liệu và pha chế nước sốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Chiên trứng",
+      "desc": "Hướng dẫn chiên trứng lòng đào trên chảo dầu nóng.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức"
+    },
+    {
+      "step": "Rim trứng với sốt",
+      "desc": "Đổ nước sốt lên trứng và đun đến khi chín tới.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "Hoàn thành",
+      "desc": "Rắc hành lá và thưởng thức món trứng rim mắm.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử ngay"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Sáng tạo",
+    "Gen Z"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "ngon ngon",
+    "lạ miệng",
+    "thơm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đừng nói nó ngon lắm thì các bạn lại không tin, vậy tối nay làm thử đi nhá.",
+    "Chi phí chỉ 20.000 thôi mà ăn nó cứ ngon ngon lạ miệng lắm."
+  ],
+  "hook_content": "Các bạn cho mình hỏi ai là người chế ra cái món này?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm món trứng rim mắm đơn giản, chi phí thấp, phù hợp cho bữa cơm gia đình. Người làm video khuyến khích người xem làm thử và chia sẻ cảm nhận.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

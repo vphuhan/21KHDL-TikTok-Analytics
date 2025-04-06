@@ -1,0 +1,92 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu triển lãm",
+      "desc": "Giới thiệu về triển lãm thực phẩm và đồ uống miễn phí.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự kiện."
+    },
+    {
+      "step": "Thử bánh phô mai",
+      "desc": "Trải nghiệm và đánh giá bánh phô mai tại một gian hàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Thử xúc xích",
+      "desc": "Thử xúc xích nướng và lạp xưởng, chấm cùng bột ớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi cay và ngon miệng."
+    },
+    {
+      "step": "Thử trà sữa",
+      "desc": "Khám phá và thử nhiều loại trà sữa khác nhau.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng."
+    },
+    {
+      "step": "Thử đồ ăn vặt",
+      "desc": "Thử sô cô la nhập khẩu và há cảo nóng.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn được ăn thử."
+    },
+    {
+      "step": "Thử trà sữa Malaysia",
+      "desc": "So sánh trà sữa Malaysia với trà sữa Việt Nam.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự khác biệt."
+    },
+    {
+      "step": "Thông tin thêm",
+      "desc": "Giới thiệu về workshop pha chế và thời gian diễn ra.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Vì chữ biết tin cái là mọi người phải tranh thủ đi liền vì cái sự kiện này một năm chỉ diễn ra đúng một lần thôi"
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "mê",
+    "thích",
+    "cay cay",
+    "nóng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trải nghiệm miễn phí 350 gian hàng từ hơn 300 doanh nghiệp thì sẽ như thế nào",
+    "Nói nhỏ cho các bác là ở cái gian nhất lương này không chỉ có cà phê trà sữa matcha mà còn có cả siêu nhiều bánh ngọt mà bánh tươi ngon nha",
+    "ăn bánh uống trà chán chê xong thì anh em vào đây ta thấy có cả nước lẩu để hút luôn này nha"
+  ],
+  "hook_content": "em muốn thử cái nào em muốn thử hết có cả matcha Nhật Bản à anh bảy cái này cũng được thử hết ạ thử hết luôn thôi sáng mai em lại đến ăn tiếp",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video ghi lại trải nghiệm của một người tại triển lãm thực phẩm và đồ uống, nơi có nhiều gian hàng cho phép thử đồ ăn và thức uống miễn phí. Người này đã thử nhiều món khác nhau như bánh, xúc xích, trà sữa và giới thiệu cho người xem.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

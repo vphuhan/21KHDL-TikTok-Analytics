@@ -1,0 +1,83 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món cơm nắm và lý do nên làm cho trẻ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy món ăn này có vẻ hấp dẫn."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê và sơ chế các nguyên liệu như cà rốt, xúc xích, ngô.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy dễ làm theo."
+    },
+    {
+      "step": "Xào nguyên liệu",
+      "desc": "Hướng dẫn xào chín các nguyên liệu và nêm gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy công thức đơn giản, dễ thực hiện."
+    },
+    {
+      "step": "Trộn cơm",
+      "desc": "Hướng dẫn trộn cơm với dầu mè, mayonnaise, nước tương.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy cơm trộn có vẻ thơm ngon."
+    },
+    {
+      "step": "Thêm rong biển",
+      "desc": "Nhấn mạnh tầm quan trọng của rong biển và giới thiệu sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm rong biển."
+    },
+    {
+      "step": "Tạo hình cơm nắm",
+      "desc": "Hướng dẫn tạo hình cơm nắm bằng khuôn hoặc nặn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy món ăn thật bắt mắt."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Hà có để sẵn trong giỏ hàng rồi, bác nào cần thì nhấn vào để mua nhé."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "thích",
+    "ngon",
+    "thơm",
+    "bắt cơm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Món này thì đảm bảo bé nào cũng thích luôn.",
+    "Mà đặc biệt với những bé lười ăn rau thì các bác làm liền đi cho tụi mê lỳ luôn.",
+    "Rong biển nhà Hà nhập khẩu Hàn Quốc nguyên gói, có bốn vị cho các bác lựa chọn là ô liu, tôm cá, hạnh nhân phô mai và hạnh nhân rau củ."
+  ],
+  "hook_content": "ăn cơm gì chưa người đẹp? Ăn cơm nắm không?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món cơm nắm đơn giản, hấp dẫn cho trẻ em, đặc biệt là trẻ lười ăn rau, với các nguyên liệu dễ kiếm và cách làm nhanh chóng. Người làm còn giới thiệu sản phẩm rong biển ăn kèm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

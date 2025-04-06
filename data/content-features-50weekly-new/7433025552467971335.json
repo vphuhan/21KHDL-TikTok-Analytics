@@ -1,0 +1,91 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu táo đỏ Tân Cương của chị Hằng Du Mục.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Miêu tả đặc điểm",
+      "desc": "Miêu tả táo giòn và táo dẻo, so sánh sự khác biệt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Ăn và đánh giá độ giòn, vị ngọt của táo.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "So sánh các loại",
+      "desc": "So sánh táo giòn và táo dẻo, đưa ra nhận xét cá nhân.",
+      "impact_level": "2",
+      "viewer_emotion": "Phân vân"
+    },
+    {
+      "step": "Gợi ý cách ăn",
+      "desc": "Gợi ý ăn táo với nước hoa trà để tăng hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Đưa ra lời khuyên",
+      "desc": "Khuyên nên thử táo giòn nếu không mua được táo dẻo.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Cảm ơn người xem và hẹn gặp lại ở video sau.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người đã xem video của mình, hẹn mọi người video sau, tạm biệt."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "giòn",
+    "ngọt",
+    "ngon",
+    "thơm",
+    "lạ miệng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ui cái táo này giòn lắm luôn mọi người ạ, đổ ra cái khay gỗ nó kêu loang coong luôn ấy.",
+    "Không biết là do mình ăn táo đỏ dẻo này nhiều quá hay rồi hay là ăn sang cái táo giòn này nó lạ miệng hơn, thế sao mình thấy nó ngon hơn tao.",
+    "Táo giòn nó sẽ không thơm bằng táo dẻo. Nếu mà mọi người không săn được táo dẻo, mọi người thử săn thằng táo giòn nhá. Cũng ngon lắm."
+  ],
+  "hook_content": "Hôm nay mình có táo đỏ Tân Cương của chị Hằng Du Mục mọi người ạ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video mukbang táo đỏ Tân Cương của chị Hằng Du Mục, người nói so sánh giữa táo giòn và táo dẻo, đánh giá hương vị và độ giòn, đồng thời đưa ra lời khuyên nên thử táo giòn nếu không mua được táo dẻo.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

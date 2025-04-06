@@ -1,0 +1,93 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món gỏi cuốn tôm hùm khổng lồ tự cuốn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn khổng lồ."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê các nguyên liệu và trình bày cách cuốn gỏi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự chuẩn bị công phu."
+    },
+    {
+      "step": "Quá trình cuốn gỏi",
+      "desc": "Thực hiện cuốn gỏi với sự trợ giúp từ người khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Hồi hộp chờ đợi kết quả."
+    },
+    {
+      "step": "Thưởng thức nước chấm",
+      "desc": "Uống nước và ăn gỏi cuốn nhỏ để cảm nhận nước chấm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung vào phần đánh giá nước chấm."
+    },
+    {
+      "step": "Thưởng thức gỏi cuốn khổng lồ",
+      "desc": "Chấm và ăn gỏi cuốn khổng lồ với biểu cảm ngon miệng.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm giác thèm thuồng."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Nhận xét về hương vị và độ phù hợp của nước chấm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá của người review."
+    },
+    {
+      "step": "Kết thúc video",
+      "desc": "Cảm ơn người xem và hẹn gặp lại.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thỏa mãn sau khi xem."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nếu bạn tham gia dự thi thì bạn sẽ ăn với món gì nè.",
+    "Ok, cảm ơn bạn đã xem video của Tóc Vàng nha. Hẹn gặp lại bạn vào video lần sau."
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "hồi hộp",
+    "ngon",
+    "phê",
+    "tuyệt vời",
+    "no bụng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cảm giác phê lắm nha bạn ơi.",
+    "Vàng nghĩ nước chấm này cực kỳ phù hợp với các món chiên, luộc nè bạn, như cá chiên nè, thịt luộc nè bạn, hải sản nữa."
+  ],
+  "hook_content": "Hai bạn, hôm nay Vàng sẽ mukbang gỏi cuốn tôm hùm khổng lồ nha. Cái này Vàng tự cuốn đó bạn.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video mukbang gỏi cuốn tôm hùm khổng lồ tự cuốn của Tóc Vàng, chia sẻ quá trình chuẩn bị, cuốn gỏi và thưởng thức cùng nước mắm Nam Ngư ớt tỏi Lý Sơn, đồng thời kêu gọi tham gia cuộc thi của nhãn hàng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

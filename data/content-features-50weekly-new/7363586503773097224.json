@@ -1,0 +1,98 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món",
+      "desc": "Giới thiệu trà bánh tráng trộn của một tiệm cà phê nổi tiếng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự kết hợp kỳ lạ này."
+    },
+    {
+      "step": "Thử nghiệm trà",
+      "desc": "Thử trà với muối, nhận xét vị nhạt và rau răm.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thú vị về cách thưởng thức trà."
+    },
+    {
+      "step": "Đánh giá topping",
+      "desc": "Đánh giá trứng cút ngâm đào và bánh tráng.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú với hương vị đặc biệt của trứng cút."
+    },
+    {
+      "step": "Nhận xét chung",
+      "desc": "Đánh giá cao muối, góp ý về cốt trà.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình với nhận xét về trà."
+    },
+    {
+      "step": "Review trà sữa",
+      "desc": "Thử trà sữa chocomint, so sánh với kẹo.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị trà sữa chocomint."
+    },
+    {
+      "step": "Đánh giá kem",
+      "desc": "Đánh giá kem trà sữa, nhận xét về độ béo.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự khác biệt của kem."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Đề xuất trà sữa chocomint, cảm ơn người xem.",
+      "impact_level": "2",
+      "viewer_emotion": "Gợi ý nên thử trà sữa."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người rất là nhiều đã xem clip của mình, và mong Bông Tím sẽ thích clip này, bye bye!"
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thích",
+    "dễ thương",
+    "thơm",
+    "béo",
+    "vừa phải",
+    "mát",
+    "the the"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trời ơi ngon quá mọi người ơi! Cái trứng cút mười điểm mình không biết ngâm vào cái gì mà cái vị nó ngọt ngọt mà nó thơm, ngon quá!",
+    "Thật sự á cái món nước này uống vô á uống cái tất cả là nhờ cái muối á, khi mà uống được cái muối thì nó sẽ ngon đó.",
+    "Cái vị béo của nó rất là lạ, nó không có bị đại trà, mình thấy là đa phần mấy cái kem của mấy cái chỗ khác á là nó bị giống giống giống giống nhau, ở đây thì mình thấy nó cái vị nó khác hơn, dễ thương á"
+  ],
+  "hook_content": "trà bánh tráng trộn cá tiệm cà phê nha mọi người ngon quá trên mạng trà bánh tráng trộn của cá tiệm cà phê như là bánh tráng trứng cút xoài bào.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review trà bánh tráng trộn và trà sữa Chocomint tại quán Bông Tím, tập trung vào hương vị độc đáo của trứng cút ngâm đào và nhận xét về độ đậm đà của trà. Người nói đánh giá cao các món nước nhưng cũng đưa ra góp ý để cải thiện.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

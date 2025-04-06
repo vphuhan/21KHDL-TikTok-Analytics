@@ -1,0 +1,89 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu đồ ăn quân đội Mỹ và giá thành.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm."
+    },
+    {
+      "step": "Khám phá các thành phần",
+      "desc": "Mở hộp và giới thiệu các thành phần bên trong.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với sự đa dạng."
+    },
+    {
+      "step": "Pha chế và nếm thử",
+      "desc": "Pha cà phê và ăn thử bánh ngô, bánh quy.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung vào trải nghiệm vị giác."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Nhận xét về hương vị và cảm nhận.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình hoặc không đồng tình."
+    },
+    {
+      "step": "Hâm nóng món chính",
+      "desc": "Hâm nóng món chính bằng túi tự sôi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món chính."
+    },
+    {
+      "step": "Nếm thử món chính",
+      "desc": "Ăn và đánh giá món chính đậu sốt ớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn biết hương vị."
+    },
+    {
+      "step": "Kết luận và đánh giá",
+      "desc": "Đưa ra đánh giá chung về sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Cân nhắc có nên mua hay không."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "ngon",
+    "dẻo",
+    "bở",
+    "mặn",
+    "ngọt",
+    "hăng",
+    "chua"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cái bánh ngô này nó là bánh bông lan, ăn nó kiểu hơi bở bở xong rồi còn cái miếng ngô nó vẫn lạo xạo trong miệng mình ấy.",
+    "Cái bánh quy phô mai này thì mình thấy ăn nó hay phết đấy. Bánh quy thì giòn và mặn mặn, vị phô mai, xong rồi ở giữa nó dẻo dẻo, giống như kiểu là người ta cho xúc xích vào giữa cái bánh quy ấy.",
+    "Thật ra cái này là ăn để trải nghiệm cho biết thôi mọi người ạ. Chứ còn nói chung là vị của nó thì nó bình thường thôi, nó không có ngon đâu."
+  ],
+  "hook_content": "Chào mọi người nhé. Hôm nay thì mình sẽ ăn thử đồ ăn của quân đội Mỹ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review đồ ăn quân đội Mỹ với giá 750k, người review thử và đánh giá các món ăn có trong set, từ bánh quy, cà phê đến món chính đậu sốt ớt, kết luận là chỉ nên ăn cho biết chứ không thực sự ngon.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

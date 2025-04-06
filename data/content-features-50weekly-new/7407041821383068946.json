@@ -1,0 +1,91 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu chuyến đi làm đẹp",
+      "desc": "Đi làm đẹp được người thân hộ tống, kết hợp đi du lịch Mũi Né.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự quan tâm từ gia đình."
+    },
+    {
+      "step": "Giới thiệu địa điểm làm đẹp",
+      "desc": "Lựa chọn Thẩm mỹ viện Quốc tế Linh Anh vì uy tín và chất lượng.",
+      "impact_level": "1",
+      "viewer_emotion": "Tin tưởng vào sự lựa chọn của người nói."
+    },
+    {
+      "step": "Quá trình làm đẹp",
+      "desc": "Làm Yubi Beauty và phun môi collagen để trẻ hóa làn da.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quy trình và hiệu quả của dịch vụ."
+    },
+    {
+      "step": "Hiệu quả sau làm đẹp",
+      "desc": "Da mặt và môi cải thiện sau 4 ngày, nếp nhăn giảm, môi tự nhiên.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với kết quả nhanh chóng."
+    },
+    {
+      "step": "Ăn mừng sau làm đẹp",
+      "desc": "Ăn nguyên con heo quay da giòn sau những ngày kiêng khem.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và thích thú với món ăn."
+    },
+    {
+      "step": "Tương tác gia đình",
+      "desc": "Biểu cảm đáng yêu của bà nội khi thấy heo quay, ăn uống vui vẻ.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy ấm áp và hạnh phúc."
+    },
+    {
+      "step": "Đánh giá món ăn kèm",
+      "desc": "Thưởng thức và so sánh món kim chi Việt Nam.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của món ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "dữ",
+    "oai",
+    "ủng hộ",
+    "yên tâm",
+    "thèm",
+    "ngon",
+    "tự nhiên",
+    "căng mọng",
+    "hồng hào",
+    "mướt mịn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đi như vậy là một công đôi chuyện luôn. Mình vừa được đi làm đẹp mà vừa được đi chơi nữa.",
+    "Nay mình lựa chọn phun môi collagen. Nó là một kỹ thuật làm đẹp hiện đại mọi người, kết hợp giữa màu môi với lại là cung cấp dưỡng chất collagen cho môi mình á.",
+    "Bữa nay ăn nguyên con heo quay luôn."
+  ],
+  "hook_content": "trình đi làm đẹp mà được ba tụi hơn với bà nội tụi hơn hộ tống đi luôn, dữ chưa?",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video ghi lại hành trình đi làm đẹp kết hợp du lịch của một cô gái, từ quá trình thực hiện các liệu pháp thẩm mỹ đến khi ăn mừng bằng món heo quay da giòn cùng gia đình. Cô chia sẻ về sự thay đổi tích cực trên gương mặt sau quá trình làm đẹp.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

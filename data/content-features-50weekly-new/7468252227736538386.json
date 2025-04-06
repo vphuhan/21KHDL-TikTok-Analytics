@@ -1,0 +1,58 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bánh",
+      "desc": "Giới thiệu bánh socola khổng lồ tự làm, nhấn mạnh kích thước.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về kích thước và hình dáng."
+    },
+    {
+      "step": "Trải nghiệm",
+      "desc": "Bẻ bánh, cho thấy lớp matcha bên trong, mời mọi người.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng muốn ăn thử."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Đánh giá vị ngon, nhận xét về độ giòn của bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Bánh này tự làm nha cả nhà, hơi bị to á.",
+    "Đấy, bên trong matcha ha.",
+    "Ăn cũng khá là ngon ha, có cái nè, cắn không có giòn thôi."
+  ],
+  "hook_content": "Đây, hôm nay bánh sôcola khổng lồ nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review chiếc bánh socola khổng lồ tự làm, có lớp matcha bên trong, được đánh giá là ngon nhưng không giòn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Mời khán giả cùng ăn dồi trường, thông báo về vấn đề mic.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Ăn và cảm nhận về độ mềm của dồi trường.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "dồi trường giòn ben ben",
+    "Hôm nay cái mic nó hơi xu",
+    "Em đồn nó mềm"
+  ],
+  "hook_content": "Mời cả nhà cùng ăn giờ chưởng với em. Hôm nay cái mic nó hơi xu, mọi người nghe đỡ giùm em nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang dồi trường, người nói mời mọi người cùng ăn và thông báo mic có vấn đề, sau đó thưởng thức và nhận xét món ăn.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

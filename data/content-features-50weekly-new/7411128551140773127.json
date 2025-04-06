@@ -1,0 +1,76 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Sự cố xe đạp",
+      "desc": "Xe đạp bị xì hơi, phải đi bơm xe và bất tiện.",
+      "impact_level": "2",
+      "viewer_emotion": "Thông cảm"
+    },
+    {
+      "step": "Giới thiệu nho xanh",
+      "desc": "Giới thiệu và review nho xanh đắt tiền ở siêu thị Nhật.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Giới thiệu thịt bò",
+      "desc": "Giới thiệu thịt bò giá rẻ và ngon trong siêu thị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Chuẩn bị bữa ăn",
+      "desc": "Chuẩn bị nấm, đậu bắp và bơ để ăn kèm thịt nướng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Nướng thịt và thưởng thức",
+      "desc": "Thịt nướng bốc khói, cuốn ăn kèm nước chấm.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "giòn",
+    "ngọt",
+    "kinh khủng khiếp",
+    "đói",
+    "chịu không nổi"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "vừa bơm xong gỡ ra tao nói nó xì không thương tiếc",
+    "Nhìn cái miếng thịt nướng nó bốc khói xèo xèo mà lòng dạ nó chịu không nổi luôn vậy á",
+    "Thịt này do có những cái vân mỡ nên khi nướng xong á thì cái độ mềm của nó vẫn còn nguyên."
+  ],
+  "hook_content": "sau khi Vĩnh Thạnh quay lại thì cái chiếc xe đạp bên đây cái bánh xe nó mềm như là cái trái mít.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video kể về trải nghiệm xe đạp bị xì hơi và sau đó là quá trình mua sắm, chuẩn bị và thưởng thức bữa ăn với nho xanh, thịt bò nướng tại nhà ở Nhật.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Đặt vấn đề",
+      "desc": "Người quay hỏi về buffet cơm 35k",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về giá cả"
+    },
+    {
+      "step": "Giới thiệu chung",
+      "desc": "Giới thiệu về buffet cơm 35k với gần 30 món",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng về sự đa dạng"
+    },
+    {
+      "step": "Đánh giá khách quan",
+      "desc": "Nhận xét về sự đầu tư, chỉn chu và không gian quán",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng"
+    },
+    {
+      "step": "Phỏng vấn khách hàng",
+      "desc": "Phỏng vấn khách quen để tăng độ tin cậy",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với feedback thực tế"
+    },
+    {
+      "step": "Nhấn mạnh ưu đãi",
+      "desc": "Nhấn mạnh việc ăn thoải mái và các món tự làm",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn vì giá trị tốt"
+    },
+    {
+      "step": "Trải nghiệm cá nhân",
+      "desc": "Reviewer thử và đánh giá các món ăn",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử các món được giới thiệu"
+    },
+    {
+      "step": "Thông tin địa điểm",
+      "desc": "Thông tin địa điểm và thời gian bán",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy hữu ích"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nên bác nào mà gần khu Linh Đàm thì có thể qua thử nhá.",
+    "Mấy bạn ăn khỏe thì rất nên đến đây nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thích",
+    "hợp lý"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "35 cành mà ăn được cả buffet cơm luôn.",
+    "Ăn hai ba lượt còn được ấy. Nhưng mà tuyệt đối không nên để thừa đồ ăn. Để thừa là cô phạt đấy, 200.000đ.",
+    "Kể cả muối ở đây cô tự làm cũng rất ngon."
+  ],
+  "hook_content": "Ơi cô ơi, con nhìn thấy cái biển cơm 35.000đ ở đây buffet á, có thật không ạ cô?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review buffet cơm trưa giá 35k gần 30 món tại Linh Đàm, Hà Nội, với nhiều món ăn hấp dẫn, được khách hàng đánh giá cao và có không gian bếp sạch sẽ. Quán có quy định phạt nếu để thừa đồ ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

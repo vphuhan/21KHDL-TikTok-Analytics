@@ -1,0 +1,79 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Gọi món và giới thiệu",
+      "desc": "Gọi mì và bún, giới thiệu nhân viên quán, tạo không khí vui vẻ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với sự tương tác tự nhiên."
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu mì tôm tim cật, bún hải sản, mì tôm ếch.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đói bụng và tò mò về các món ăn."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Đánh giá mì tim cật ngon, nước dùng đậm đà, không hôi.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với đánh giá tích cực về hương vị."
+    },
+    {
+      "step": "Thông tin quán",
+      "desc": "Giới thiệu không gian quán, nhân viên chu đáo, tiện ích.",
+      "impact_level": "2",
+      "viewer_emotion": "Đánh giá cao sự chu đáo và tiện lợi của quán."
+    },
+    {
+      "step": "Phỏng vấn chủ quán",
+      "desc": "Phỏng vấn nhanh chủ quán về giờ đóng cửa và giới thiệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy sự nhiệt tình và gần gũi của chủ quán."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giới thiệu toàn thể anh em bà con nhá. Đây là mì chua cay ở Cầu Giấy nhá. Cực kỳ ngon."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "vui",
+    "buồn cười",
+    "ngon",
+    "hài lòng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ăn tim gan cật không hề bị hôi nhá",
+    "nhân viên ở đây thì vui tính chu đáo cực có một điểm rất vui là ở đây có chuẩn bị sẵn tăm chỉ nha khoa để cho khách sử dụng nhá, rất là hài lòng",
+    "Mì nhà mình rất là ngon đấy bún cũng ngon"
+  ],
+  "hook_content": "ăn mì hay ăn bún.",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video review quán mì tôm tim cật chua cay ở Hà Nội, tập trung vào hương vị món ăn, không gian quán và sự chu đáo của nhân viên. Người quay phim phỏng vấn chủ quán và đưa ra đánh giá tích cực.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

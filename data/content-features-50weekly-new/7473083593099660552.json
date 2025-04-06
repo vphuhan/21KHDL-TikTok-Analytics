@@ -1,0 +1,58 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Thèm thuồng món ăn sau khi xem video tương tự.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Gà Hàn Quốc ăn với cơm trắng rất ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Nhận xét hương vị",
+      "desc": "Gà và củ cải kết hợp với nhau rất hợp.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thèm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nói gì nói chứ gà Hàn Quốc mà ăn với cơm trắng thì nó vẫn là rất là ngon.",
+    "Cái gà với củ cải nó hợp với nhau một cách dã man ấy."
+  ],
+  "hook_content": "Hôm trước mình có xem mấy cái video này thèm thế chứ lại.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang gà Hàn Quốc ăn kèm cơm trắng và củ cải, người ăn bày tỏ sự thèm thuồng và đánh giá cao sự kết hợp hương vị.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

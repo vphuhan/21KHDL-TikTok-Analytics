@@ -1,0 +1,94 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món sò huyết khổng lồ và mời mọi người cùng trải nghiệm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về kích thước của sò huyết."
+    },
+    {
+      "step": "Thao tác tách sò",
+      "desc": "Thực hiện thao tác tách sò huyết và chia sẻ cách tách.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với cách tách sò."
+    },
+    {
+      "step": "Thưởng thức sò huyết",
+      "desc": "Ăn và miêu tả hương vị sò huyết với sốt Thái.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng khi nghe miêu tả."
+    },
+    {
+      "step": "Gặp sò không ngon",
+      "desc": "Gặp phải con sò bị hư và thể hiện sự thất vọng.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy tiếc nuối thay cho người ăn."
+    },
+    {
+      "step": "Tiếp tục thưởng thức",
+      "desc": "Tiếp tục ăn những con sò còn lại và đánh giá.",
+      "impact_level": "2",
+      "viewer_emotion": "Vẫn mong chờ những con sò ngon."
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Đưa ra lời khuyên khi luộc sò huyết kích thước lớn.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy thông tin hữu ích."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Cảm ơn và hẹn gặp lại ở các video tiếp theo.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ok, cảm ơn cả nhà theo dõi video của Thành.",
+    "Hẹn gặp bạn ở video tiếp theo nha."
+  ],
+  "cta_type": [
+    "Follow kênh",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "siêu bự",
+    "dai dai mặn mặn",
+    "đã quá",
+    "chín",
+    "hư",
+    "thúi",
+    "teo",
+    "không chất lượng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nó bự bằng cái lòng bàn tay luôn á.",
+    "Thịt sò dai dai mặn mặn. Kết hợp với cái sốt thái này.",
+    "Clip này đúng ăn nhanh gọn lẹ luôn á."
+  ],
+  "hook_content": "Bây giờ Thành sẽ năng nịnh. Bữa nay mời cả nhà trải nghiệm món sò huyết khổng lồ chung với Thành nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang sò huyết khổng lồ, người ăn vừa ăn vừa chia sẻ cảm nhận về hương vị và độ tươi ngon. Bên cạnh đó, người ăn cũng chia sẻ cách chọn sò và cách luộc sò.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

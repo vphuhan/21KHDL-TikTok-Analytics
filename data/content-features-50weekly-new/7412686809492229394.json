@@ -1,0 +1,69 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Mời mọi người cùng ăn chân gà hầm sốt cay Hàn Quốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Nhấn mạnh độ hấp dẫn, vị ngon và cảm giác thèm.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "So sánh hương vị",
+      "desc": "So sánh vị của chân gà với ốc luộc Lạng Sơn.",
+      "impact_level": "2",
+      "viewer_emotion": "Liên tưởng hương vị."
+    },
+    {
+      "step": "Khẳng định chất lượng",
+      "desc": "Tập trung vào việc khen ngon và siêu ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy món ăn rất hấp dẫn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "hấp dẫn",
+    "vừa vị",
+    "ngon",
+    "siêu ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Siêu vừa vị luôn.",
+    "Ăn vị nó kiểu ốc cái Lạng Quốc ấy.",
+    "Siêu ngon."
+  ],
+  "hook_content": "Mời mọi người ăn chân gà hầm sốt cay với mình nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang chân gà hầm sốt cay Hàn Quốc, tập trung vào việc ăn và đánh giá hương vị hấp dẫn của món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

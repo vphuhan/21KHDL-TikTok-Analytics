@@ -1,0 +1,83 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu về tình hình thời tiết và lý do nấu ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chuẩn bị",
+      "desc": "Liệt kê và trộn các gia vị ướp gà nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Ướp gà",
+      "desc": "Ướp gà và đợi cho gia vị ngấm đều.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Nướng gà",
+      "desc": "Nướng gà bằng than và nướng thêm cà.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Xé gà và mời mọi người cùng ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Hào hứng"
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Nhận xét về món ăn và trò chuyện cùng người thân.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Truyền thống"
+  ],
+  "cta_content": [
+    "Bây giờ mời mọi người ăn chung với cả nhà của Vùng mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "thơm ngon",
+    "nóng",
+    "thèm",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nếu như mà không có thời gian nữa thì mình ướp khoảng tầm 30 phút thôi cũng được.",
+    "Vì nhà ngoại mình không có lò nướng nên mình sẽ nướng con gà này bằng than, hơi cực chút xíu á nhưng mà mình chịu khó canh canh trở trở thì con gà của mình cũng ngon lắm chứ bộ à nha.",
+    "Phải có mùi khét khét ăn mới ngon."
+  ],
+  "hook_content": "Bữa nay mình tính đi chợ nữa nhưng mà nhìn ông trời mưa kiểu này thì chắc là khỏi đi nữa rồi đó.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình làm món gà nướng tại nhà ngoại do trời mưa không đi chợ được. Món gà nướng được làm và thưởng thức cùng gia đình.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món sò huyết la cốt và chia sẻ sở thích ăn sò huyết to.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn và thích thú với sở thích ăn uống."
+    },
+    {
+      "step": "Chuẩn bị",
+      "desc": "Ngâm sò huyết và pha nước chấm đơn giản từ muối tiêu, chanh, tắc, ớt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thấy được sự chuẩn bị đơn giản."
+    },
+    {
+      "step": "Thao tác",
+      "desc": "Tách sò huyết bằng dụng cụ và quan sát độ tái của sò.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị vì quá trình tách sò có vẻ khó khăn."
+    },
+    {
+      "step": "Nếm thử và miêu tả",
+      "desc": "Nếm sò huyết với muối tiêu, miêu tả vị chua cay mặn, độ giòn ngọt.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn ăn thử món sò huyết."
+    },
+    {
+      "step": "Chia sẻ trải nghiệm",
+      "desc": "Chia sẻ việc ăn món này thường xuyên và thích ăn sò huyết to.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú vì có cùng sở thích ăn uống."
+    },
+    {
+      "step": "So sánh",
+      "desc": "So sánh cách ăn sò huyết trần sơ với ăn sống và mắm thái.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, biết thêm cách ăn sò huyết khác."
+    },
+    {
+      "step": "Thao tác lại",
+      "desc": "Vật lộn với việc tách sò huyết to và dùng dụng cụ hỗ trợ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy buồn cười và đồng cảm với khó khăn khi ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "giòn",
+    "ngọt",
+    "chua chua",
+    "cay cay",
+    "mặn mặn",
+    "giòn giòn sực sực",
+    "ngọt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "mỗi lần mình ăn cái món này á, đúng ra là người ta mua cái sò huyết nhỏ nha. Mà mình lại thích ăn cái sò huyết lớn á",
+    "ăn vào mình sẽ cảm nhận được là nó chua chua cay cay mặn mặn, với sò huyết thì mình cảm thấy rất là giòn luôn. Giòn giòn sực sực á mọi người mà cái nước thì cảm thấy nó rất là ngọt nha",
+    "Ta nói bày đặt ăn con bự chi phải cồng kềnh dụng cụ tùm lum để tách nó ra hết trơn."
+  ],
+  "hook_content": "Hây mọi người. Hôm nay mình sẽ ăn cái món sò huyết la cốt này nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video mukbang món sò huyết la cốt, người ăn chia sẻ sở thích ăn sò huyết to và miêu tả hương vị món ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

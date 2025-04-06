@@ -1,0 +1,91 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Gọi món",
+      "desc": "Liệt kê các món đã gọi và hỏi cô bán hàng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Bất ngờ về giá",
+      "desc": "Nhấn mạnh giá rẻ và sự hoài nghi của cô bán hàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Trải nghiệm cá nhân",
+      "desc": "So sánh với các quán khác và khẳng định độ rẻ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Phân tích giá cả",
+      "desc": "Liệt kê giá từng món và so sánh với các nơi khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Thông tin thêm",
+      "desc": "Chia sẻ về lịch sử và sự thay đổi giá của quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá chất lượng",
+      "desc": "Nhận xét về nguyên liệu và hương vị món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "So sánh giá cả",
+      "desc": "So sánh giá với căng tin trường và quê người nói.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "rẻ",
+    "vui miệng",
+    "dễ ăn",
+    "thoải mái",
+    "tươi ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Em ở Hà Nội 18 năm nhá, đi ăn bao nhiêu hàng quán ăn vặt rồi, nhưng mà em chưa thấy quán ăn vặt nào mà nó rẻ như này luôn ấy.",
+    "Đố chị tìm được chỗ nào bán khoai tây chiên lắc phô mai 10.000đ mà được một đĩa như này.",
+    "30.000đ mà còn rẻ hơn cả ở quê chị thì em ở Hà Nội."
+  ],
+  "hook_content": "Cô ơi, cho con 10 phở cuốn này, một khoai tây chiên, một mì cay, một bánh đa giòn tai đậu, hai bánh gà nữa cô nhá.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán ăn vặt giá rẻ ở Thụy Khuê, Hà Nội, tập trung vào các món ăn như phở cuốn, mì cay, bánh đa trộn và khoai tây chiên lắc phô mai. Người nói đánh giá cao giá cả phải chăng và so sánh với các quán khác.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

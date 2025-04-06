@@ -1,0 +1,96 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Thực hiện theo yêu cầu của khán giả nhưng không thành công.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về câu chuyện tiếp theo."
+    },
+    {
+      "step": "Giải thích",
+      "desc": "Giải thích lý do tự nấu mì ý để 'trả thù'.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với cách trả thù hài hước."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu mì ý sốt cà chua của Pulmuone, cách nấu nhanh.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, tập trung vào sản phẩm."
+    },
+    {
+      "step": "Kể lại màn cầu hôn",
+      "desc": "Miêu tả chi tiết màn cầu hôn độc đáo của anh Nguyên.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy bất ngờ và buồn cười."
+    },
+    {
+      "step": "Cảm xúc",
+      "desc": "Diễn tả cảm xúc về màn cầu hôn và những giọt nước mắt.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy xúc động nhẹ nhàng."
+    },
+    {
+      "step": "So sánh",
+      "desc": "So sánh với bản thân nếu là con trai và cầu hôn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với ý tưởng hài hước."
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Đưa ra lời khuyên cho ai muốn cầu hôn kín đáo.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy thông tin hữu ích."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Drama",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nên ai sắp cầu hôn mà kiểu thích nhẹ nhàng kín đáo thì có thể mua cái gói mì ý sốt cà chua này của nhà Pulmuone nha.",
+    "Không cần biết nấu cũng đảm bảo là nấu ngon."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Chia sẻ công thức"
+  ],
+  "emotion_keywords": [
+    "bõ tức",
+    "bàng hoàng",
+    "sửng sốt",
+    "rơi lệ ồ ạt",
+    "cảm động"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nếu như trên phim mà nam chính sẽ dẫn bạn đời của mình đến một cái nhà hàng mì ý sang trọng, cùng với một ly rượu vang dự một cái bữa tối lãng mạn để cầu hôn. Thì Trang Tấm một suất mì ý tự nấu với một ly nước ép cam cũng không thấy.",
+    "Cầu hôn vào đúng cái lúc mà đầu mình bết rịt như kiểu dính sáp ong ấy, mặt mày là trù ụ, môi không một miếng son đỏ, mặc đồ như rồ dại đang ngồi ngả ngớn vung vẫy cái đít video, tự nhiên là ở đâu tiến đến, quỳ xuống trong cái sự bàng hoàng và sửng sốt của bản thân mình.",
+    "Em ơi khóc như phim, không làm diễn viên hơi phí."
+  ],
+  "hook_content": "Hôm trước có chị kia bảo là hóng clip cầu hôn của Trang Tấm, nhưng rất tiếc là không có cái clip nào cả.",
+  "hook_type": [
+    "Phản hồi bình luận",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Kể chuyện",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video kể về trải nghiệm cầu hôn lãng xẹt của Trang Tấm và cách cô tự nấu mì ý để 'trả thù'. Cô giới thiệu mì ý sốt cà chua của Pulmuone và đưa ra lời khuyên cho những ai muốn cầu hôn kín đáo.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

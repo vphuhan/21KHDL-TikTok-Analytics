@@ -1,0 +1,90 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món cà tím sốt cây, món ăn yêu thích và hao cơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê các nguyên liệu cần thiết: cà tím, thịt bằm, gia vị.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, nắm bắt thông tin."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Hướng dẫn cắt cà tím, băm tỏi, thái gừng, chuẩn bị hành.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích, dễ làm theo."
+    },
+    {
+      "step": "Chiên cà tím",
+      "desc": "Hướng dẫn chiên cà tím với lửa lớn để không ngấm dầu.",
+      "impact_level": "2",
+      "viewer_emotion": "Lưu ý mẹo chiên cà tím."
+    },
+    {
+      "step": "Xào thịt bằm",
+      "desc": "Phi thơm tỏi, gừng, hành, xào thịt bằm và nêm gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hấp dẫn, thèm ăn."
+    },
+    {
+      "step": "Nấu sốt cà tím",
+      "desc": "Cho nước và cà tím vào xào, thêm bột bắp để tạo độ sánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan sát quá trình hoàn thành."
+    },
+    {
+      "step": "Hoàn thiện và thưởng thức",
+      "desc": "Rắc tiêu và thưởng thức món cà tím sốt cây hao cơm.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn thử ngay món ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "cho nên là mọi người nhớ thử công thức này nhé."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "tiết kiệm",
+    "hao cơm",
+    "dại mềm thơm",
+    "đậm đà",
+    "bao hao cơm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cà tím sốt cây, vừa ngon vừa tiết kiệm, lại còn hao cơm nữa",
+    "Chiên cà tím thì mọi người để lửa lớn một tí, cho cà tím nó không bị ngấm dầu nha",
+    "Cà tím thì được chiên sơ rồi cho nên là rất là dại mềm thơm, sốt thì đậm đà, ăn thì bao hao cơm"
+  ],
+  "hook_content": "Mọi người biết mình tới Việt Danh là Sami cà tím, tại vì đơn giản là mình rất thích ăn cà tím.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm món cà tím sốt cây đơn giản, tiết kiệm và hao cơm. Người làm hướng dẫn chi tiết từ sơ chế nguyên liệu đến khi hoàn thành món ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món nem lụi nướng Nha Trang sẽ làm cho gia đình.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê và chuẩn bị các nguyên liệu cần thiết để làm nem.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, chờ đợi công thức."
+    },
+    {
+      "step": "Ướp và trộn thịt",
+      "desc": "Ướp thịt với gia vị và để trong tủ lạnh một tiếng.",
+      "impact_level": "1",
+      "viewer_emotion": "Mong chờ thịt ngấm gia vị."
+    },
+    {
+      "step": "Chuẩn bị món ăn kèm",
+      "desc": "Luộc bánh hỏi để ăn kèm với nem lụi nướng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Quết thịt",
+      "desc": "Quết thịt để nem dai hơn, dùng máy quết thịt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với độ dai của nem."
+    },
+    {
+      "step": "Nướng nem",
+      "desc": "Nướng nem trên than hoa và chuẩn bị rau sống.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi màu sắc của nem."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Sắp nem, rau, bánh hỏi và mời mọi người ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn ăn thử ngay lập tức."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Truyền thống"
+  ],
+  "cta_content": [
+    "giờ mình sẽ cho nem lên rồi mình cho lên thêm trên này một ít đậu phộng với lại là một chút mỡ hành nữa.",
+    "Bây giờ á thì mời mọi người ăn chung với cả nhà khu Bùng mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "thích",
+    "thương yêu"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nếu như mà bữa nay ba tụi họ khen ngon á thì lần này về mình sẽ cho đi Nha Trang chơi luôn.",
+    "Nha Trang ngoài cái nem lụi nướng này thì không biết còn cái món gì nữa không hé mọi người."
+  ],
+  "hook_content": "Mình sẽ đãi ba tụi họ ăn thử cái món nem lụi nướng Nha Trang này nha mọi người.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm món nem lụi nướng Nha Trang tại nhà, từ khâu chuẩn bị nguyên liệu, ướp thịt, nướng nem cho đến khi thưởng thức cùng gia đình, đồng thời chia sẻ mong muốn đưa gia đình đi Nha Trang nếu món ăn được yêu thích.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

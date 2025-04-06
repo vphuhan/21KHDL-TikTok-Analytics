@@ -1,0 +1,51 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu hamburger cá và nhận xét về miếng phô mai.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về hương vị."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Miêu tả hương vị chua thanh của hamburger cá.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với mô tả."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "chua chua",
+    "thanh thanh"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nó hơi chua chua, xong rồi hơi thanh thanh."
+  ],
+  "hook_content": "Ít một like sau phê được ba.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review nhanh một chiếc hamburger cá, tập trung vào hương vị chua thanh đặc trưng.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ba chỉ chiên mắm tỏi dễ làm, tiết kiệm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Sơ chế thịt",
+      "desc": "Hướng dẫn rửa sạch và cắt thịt ba chỉ rút xương.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin cơ bản."
+    },
+    {
+      "step": "Chiên thịt",
+      "desc": "Chia sẻ kinh nghiệm chiên thịt giòn, không bắn dầu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với mẹo chiên thịt."
+    },
+    {
+      "step": "Làm nước sốt",
+      "desc": "Hướng dẫn làm nước sốt mắm tỏi, nhấn mạnh nước mắm ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi công thức nước sốt."
+    },
+    {
+      "step": "Rim thịt",
+      "desc": "Hướng dẫn rim thịt với nước sốt cho thấm đều.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng với mùi thơm."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Trình bày món ăn và thưởng thức cùng cơm, rau muống.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn ăn ngay lập tức."
+    },
+    {
+      "step": "Làm rau muống trộn",
+      "desc": "Hướng dẫn làm rau muống trộn chua ngọt ăn kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy ngon miệng hơn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Nếu mà bữa nay chưa có biết làm cái món nào ăn cơm á thì mấy bà tham khảo thử cái món này nha."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "chua cay",
+    "tê đầu lưỡi",
+    "chảy nước miếng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nói gì nói chứ cái món ba chỉ chiên mắm tỏi này á ăn với cơm ngon quá mấy chị ơi.",
+    "Trời ơi tới cái khúc này là tao nói cái nước mắm của nó cái mùi bốc lên nó thơm lắm luôn á mấy chị ơi. Em nấu ở bên đây mà nhà hàng xóm còn nghe mùi luôn á.",
+    "Cái rau muống thì nó giòn giòn mà chua cay, ta nói tê đầu lưỡi luôn."
+  ],
+  "hook_content": "Nói gì nói chứ cái món ba chỉ chiên mắm tỏi này á ăn với cơm ngon quá mấy chị ơi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn chi tiết cách làm món ba chỉ chiên mắm tỏi và rau muống trộn chua ngọt ăn kèm. Người nói chia sẻ kinh nghiệm chiên thịt giòn và bí quyết pha nước mắm ngon.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

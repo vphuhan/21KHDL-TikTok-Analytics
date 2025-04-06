@@ -1,0 +1,90 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Mô tả hình dáng trứng dữa và so sánh với bánh lăn",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hình dáng của trứng dữa"
+    },
+    {
+      "step": "Kể lại trải nghiệm",
+      "desc": "Nhắc lại kỷ niệm ăn trứng gà dữa và bày tỏ sự thèm thuồng",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với sự thèm thuồng của người nói"
+    },
+    {
+      "step": "Giới thiệu sản phẩm mới",
+      "desc": "Thông báo về việc mua được trứng vịt dữa và so sánh giá",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sản phẩm mới lạ"
+    },
+    {
+      "step": "Hướng dẫn sơ chế",
+      "desc": "Hướng dẫn cách rửa và luộc trứng dữa đơn giản",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy dễ dàng khi thực hiện theo"
+    },
+    {
+      "step": "Giới thiệu món ăn kèm",
+      "desc": "Giới thiệu muối ớt cay để tăng thêm hương vị",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hấp dẫn khi kết hợp với muối ớt"
+    },
+    {
+      "step": "Trình bày cảm quan",
+      "desc": "Miêu tả độ tưng của trứng và so sánh với pudding",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với độ tưng của trứng"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Miêu tả hương vị béo ngậy của trứng vịt dữa",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng hương vị béo ngậy"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "giờ thì mời mọi người ăn chung với tui nghen."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thèm",
+    "béo",
+    "tê tái"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Dòm cái trứng núng na núng nính nhìn giống cái bánh lăn hả mọi người.",
+    "gõ vô cái trứng, trứng nào trứng nấy tưng tưng nhìn giống pudding hen.",
+    "húp một cái là ngập miệng mà béo ngậy tuyệt đối luôn."
+  ],
+  "hook_content": "Hello mọi người, lại là tui Mập Bự thích nấu ăn đây.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu món trứng gà dữa và trứng vịt dữa, cách ăn kèm với muối ớt. Người nói chia sẻ cảm nhận về hương vị béo ngậy và mời mọi người cùng ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

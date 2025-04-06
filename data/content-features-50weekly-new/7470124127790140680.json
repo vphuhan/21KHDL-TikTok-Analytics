@@ -1,0 +1,69 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ăn gắn liền với Bác Hồ và nguồn gốc của nó",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Miêu tả chi tiết",
+      "desc": "Miêu tả tỉ lệ nguyên liệu và cách bảo quản món thịt hổ",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin cơ bản"
+    },
+    {
+      "step": "Trải nghiệm ăn",
+      "desc": "Ăn thịt với cơm nóng và mô tả cảm nhận về độ mặn, cay",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Đánh giá tổng quan",
+      "desc": "Nhấn mạnh độ đưa cơm và khả năng bảo quản lâu dài",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người muốn mình ăn gì thì comment phía dưới cho mình biết nha."
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "cay",
+    "mặn",
+    "ấm người",
+    "đưa cơm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Món ăn mà bác Hồ yêu thích, thường chuẩn bị khi đi công tác xa.",
+    "Trời mát lạnh, mà ăn món này thì khá là đưa cơm nha.",
+    "Mình khẳng định cái thịt này để một tuần sau vẫn ăn được nha, thậm chí còn hơn á."
+  ],
+  "hook_content": "Một món ăn mà bác Hồ yêu thích, thường chuẩn bị khi đi công tác xa.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang món thịt hổ Việt Minh, một món ăn gắn liền với Bác Hồ, được làm từ thịt, muối và ớt. Người làm video vừa ăn vừa chia sẻ cảm nhận về độ mặn, cay và khả năng bảo quản của món ăn.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

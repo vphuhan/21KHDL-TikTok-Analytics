@@ -1,0 +1,94 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ốc nhồi thịt và lý do tự làm tại nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với món ăn được giới thiệu."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Luộc ốc, bỏ phần đầu, bóp với muối và chanh.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, tiếp nhận thông tin."
+    },
+    {
+      "step": "Chuẩn bị nhân ốc",
+      "desc": "Trộn giò sống, thịt xay, nấm mèo, sả và nêm gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về công thức món ăn."
+    },
+    {
+      "step": "Nhồi ốc",
+      "desc": "Lót sả dưới đáy vỏ ốc rồi nhồi nhân vào.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú với cách làm món ăn."
+    },
+    {
+      "step": "Làm nước chấm",
+      "desc": "Đâm gừng, ớt, đường và nêm nước mắm đại nhất.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong muốn biết bí quyết pha nước chấm."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu nước mắm đại nhất và các dung tích.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không quá ấn tượng."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Mô tả hương vị và mời mọi người cùng ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi nghe."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "khoái",
+    "ổn áp",
+    "thích",
+    "ngon",
+    "giòn sần sực",
+    "thơm phức",
+    "vừa vị",
+    "sực sực",
+    "đã",
+    "hết sẩy"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ốc mua về tôi luộc sơ rồi đem đi lễ cái phần đầu ốc, bỏ phần đuôi.",
+    "Ta nói ốc nhồi mình làm theo kiểu này, nó xộc lên cái mùi thơm phức, cục ốc nào ốc nấy nó ú nu vừa vị.",
+    "Quệt thêm nước mắm gừng nữa, ta nói hết sẩy con bà bảy luôn."
+  ],
+  "hook_content": "Hello mọi người, lại là tôi mập bụng thích nấu ăn đây.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm món ốc bươu nhồi thịt tại nhà, từ sơ chế nguyên liệu đến chế biến và thưởng thức. Đồng thời, video cũng giới thiệu sản phẩm nước mắm đại nhất.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

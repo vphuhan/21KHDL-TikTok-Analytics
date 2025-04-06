@@ -1,0 +1,84 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu cà phê nấm linh chi và đông trùng hạ thảo.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về thành phần đặc biệt."
+    },
+    {
+      "step": "Hướng dẫn pha chế",
+      "desc": "Hướng dẫn cách pha cà phê đơn giản, đậm đà.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy dễ dàng thực hiện theo."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá vị cà phê đậm đà, không chua miệng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá của người nói."
+    },
+    {
+      "step": "Nhấn mạnh lợi ích",
+      "desc": "Uống cà phê tràn đầy năng lượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được lợi ích của sản phẩm."
+    },
+    {
+      "step": "Khuyến mãi",
+      "desc": "Mua sáu hộp cà phê tặng bình.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy có động lực mua hàng."
+    },
+    {
+      "step": "Khen ngợi sản phẩm",
+      "desc": "Cà phê ngon và tốt cho sức khỏe.",
+      "impact_level": "2",
+      "viewer_emotion": "Thuyết phục về chất lượng sản phẩm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Chốt sáu hộp cà phê Laura là được một bình sinh như thế này nha."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "hấp dẫn",
+    "đậm đà",
+    "tràn đầy năng lượng",
+    "ngon",
+    "khoẻ",
+    "thích"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cà phê có hai loại nấm linh chi và đông trùng hạ thảo.",
+    "Laura cà phê vừa ngon vừa khoẻ ai mà không thích nè"
+  ],
+  "hook_content": "Mấy trái cây hấp dẫn như thế này làm sao thiếu cà phê của chị Nhật Kim Anh được?",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu cà phê Laura có thành phần nấm linh chi và đông trùng hạ thảo, cách pha đơn giản, vị đậm đà và mang lại năng lượng. Khi mua 6 hộp sẽ được tặng kèm bình.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu các sản phẩm ăn vặt của Want Want và quân quân.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các sản phẩm."
+    },
+    {
+      "step": "Thử nghiệm sản phẩm",
+      "desc": "Thử nghiệm kem, bánh gạo tôm biển, thạch rau câu, kẹo.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị về trải nghiệm sản phẩm."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá hương vị của từng sản phẩm (tôm, vải, chuối).",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn biết hương vị ra sao."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "béo ngậy",
+    "hơi hơi chua cay"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Kem này đúng là tiện lợi, dễ làm, mà lại còn dễ thương nữa chứ.",
+    "Đậm đà mà được cái vị tôm rất là thơm.",
+    "Ăn rất là béo ngậy nha. Cái vị chuối này sẽ hơi hơi chua cay."
+  ],
+  "hook_content": "Ủa gì thế em? Kiêm đáo quân quân nói chị, dễ lắm chị có muốn làm thử không? Có có có.",
+  "hook_type": [
+    "Gây tò mò",
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video giới thiệu và review các sản phẩm ăn vặt của Want Want và quân quân, tập trung vào hương vị và trải nghiệm cá nhân khi ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

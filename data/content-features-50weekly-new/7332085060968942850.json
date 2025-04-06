@@ -1,0 +1,87 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu hộp thịt ngâm mắm mới mua với giá cụ thể.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá ban đầu",
+      "desc": "Nhận xét nhanh về vị mắm và màu sắc của thịt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Trải nghiệm hương vị",
+      "desc": "Miêu tả chi tiết vị cay, thơm của tiêu và cảm nhận về bì.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Nhận xét tổng quan",
+      "desc": "Đánh giá độ ngon, độ giòn và điểm đặc biệt không ngấy.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng"
+    },
+    {
+      "step": "Phân tích vị",
+      "desc": "Phân tích sự thay đổi vị từ ngọt đến mặn sau khi ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên"
+    },
+    {
+      "step": "Gợi ý cách dùng",
+      "desc": "Đề xuất ăn cùng cơm để cân bằng vị mặn.",
+      "impact_level": "3",
+      "viewer_emotion": "Đồng tình"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "vui miệng",
+    "hợp khẩu vị",
+    "giòn",
+    "thích",
+    "không ngấy",
+    "mặn",
+    "ngọt",
+    "tốn cơm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cái mắm này nó hơi ngọt.",
+    "Cái thịt heo ngâm mắm này thì mình thấy ăn nó ngon và nó hợp khẩu vị mình.",
+    "Điều mình rất là thích ở cái thịt ngâm mắm này đấy là cái thịt mỡ của nó ăn nó không bị ngấy đâu."
+  ],
+  "hook_content": "Chào mọi người nha. Mình vừa mua cái hộp thịt ngâm nước mắm này, giá 135.000. Bây giờ thì ăn thôi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review sản phẩm thịt heo ngâm mắm mua trên mạng, tập trung vào hương vị, độ giòn và cảm nhận cá nhân khi ăn. Người nói đánh giá cao sản phẩm và gợi ý ăn kèm với cơm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

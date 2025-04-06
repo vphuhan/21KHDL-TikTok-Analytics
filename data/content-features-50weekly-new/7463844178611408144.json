@@ -1,0 +1,92 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu cá lau kiếng, một loại cá ít người ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về loại cá này."
+    },
+    {
+      "step": "Miêu tả nguyên liệu",
+      "desc": "Săn được hai con cá nhỏ, kinh nghiệm chọn cá.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với kinh nghiệm chọn cá."
+    },
+    {
+      "step": "Hướng dẫn chế biến",
+      "desc": "Nướng cá bằng rơm, không cần cầu kỳ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Trình bày thành phẩm",
+      "desc": "Cá chín với thịt trắng phao, ăn kèm muối ớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn với món cá nướng."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Thịt cá chắc, dai ngọt, bên trong trắng phao.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn ăn thử ngay lập tức."
+    },
+    {
+      "step": "Nhấn mạnh lại",
+      "desc": "Cá lau kiếng ngon như thịt gà, nên thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Thuyết phục muốn thử."
+    },
+    {
+      "step": "Lời mời",
+      "desc": "Mời mọi người cùng ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thân thiện."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi nghen."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "mê",
+    "ngon",
+    "cay",
+    "tê tái tâm hồn",
+    "ngon lành",
+    "chắc nụi nụi",
+    "dai ngọt",
+    "cực phẩm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "biết ăn một cái là mê chữ ê kéo dài luôn",
+    "cay sương sương mà tê tái tâm hồn của tôi nữa là đủ ngon rồi",
+    "ngon như thịt gà luôn á trời"
+  ],
+  "hook_content": "Có một loại cá ít ai ăn tại hình thù sần sùi, nhưng mà biết ăn một cái là mê chữ ê kéo dài luôn.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu món cá lau kiếng nướng, một món ăn ít người biết đến. Người nói chia sẻ kinh nghiệm chọn cá, cách nướng đơn giản và đánh giá hương vị ngon, dai ngọt như thịt gà.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

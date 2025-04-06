@@ -1,0 +1,95 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mô tả độ 'dầu' của món ăn",
+      "desc": "Nhấn mạnh việc đồ ăn Trung Quốc rất nhiều dầu mỡ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ 'dầu' trong món ăn."
+    },
+    {
+      "step": "Mô tả vị cay đặc trưng",
+      "desc": "Vị cay khác biệt với các loại cay thông thường.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự khác lạ của vị cay."
+    },
+    {
+      "step": "Nhận xét về da người Trung Quốc",
+      "desc": "Liên hệ sự dầu mỡ với làn da đẹp của người Trung Quốc.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Đánh giá chung về hương vị",
+      "desc": "Món canh nhạt, món kho mặn và khó ăn ban đầu.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hơi lo lắng về trải nghiệm ăn uống."
+    },
+    {
+      "step": "Trải nghiệm thay đổi theo thời gian",
+      "desc": "Từ sợ hãi đến quen và thích nghi với hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với sự thay đổi trong khẩu vị."
+    },
+    {
+      "step": "Món ăn yêu thích và tệ nhất",
+      "desc": "Lạp xưởng nướng đá ngon nhất, đậu hũ thối và đại Long bao tệ nhất.",
+      "impact_level": "3",
+      "viewer_emotion": "Tò mò về lạp xưởng và e ngại đậu hũ thối."
+    },
+    {
+      "step": "Mô tả chi tiết món tệ nhất",
+      "desc": "Diễn tả trải nghiệm không tốt với đậu hũ thối và đại Long bao.",
+      "impact_level": "3",
+      "viewer_emotion": "Ghê sợ món đậu hũ thối và đại Long bao."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Truyền thống",
+    "Sáng tạo"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "cay tê",
+    "khó ăn",
+    "sợ",
+    "ngon",
+    "ngán",
+    "khó tả",
+    "lợ lợ",
+    "mằn mặn",
+    "béo béo",
+    "không hợp",
+    "nhức đầu"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Người Trung Quốc á họ ăn dầu nhiều thiệt sự luôn á.",
+    "Nhưng mà tới ngày thứ ba, thứ tư thôi nha, bắt đầu quen rồi á thì thấy ăn cũng ngon.",
+    "Cái tàu hũ thúi mà tôi ăn ở Việt Nam mình á là tôi thấy còn dễ ăn á nha. Còn cái tàu hũ thúi ở bên đây á, ăn cái vị nó nhức đầu luôn á."
+  ],
+  "hook_content": "Người Trung Quốc á họ ăn dầu nhiều thiệt sự luôn á.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review trải nghiệm ăn uống ở Trung Quốc, tập trung vào độ dầu mỡ và vị cay đặc trưng của món ăn. Người nói chia sẻ về sự thay đổi khẩu vị từ khó ăn đến thích nghi, đồng thời đánh giá các món ăn yêu thích và tệ nhất.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Khách hàng hỏi về size bánh giếp và được giới thiệu về bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về loại bánh được nhắc đến."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Liệt kê các loại nhân bánh giếp và giá cả.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn bởi sự đa dạng của nhân bánh."
+    },
+    {
+      "step": "Giới thiệu về quán",
+      "desc": "Nhấn mạnh độ hot của bánh giếp và địa điểm bán.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thôi thúc muốn thử."
+    },
+    {
+      "step": "Công dụng bánh giếp",
+      "desc": "Liệt kê các công dụng hài hước của bánh giếp.",
+      "impact_level": "3",
+      "viewer_emotion": "Thấy thú vị và hài hước."
+    },
+    {
+      "step": "Miêu tả bánh",
+      "desc": "Miêu tả bánh có nhiều phô mai và so sánh với bánh khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung được hương vị của bánh."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá hương vị của các loại nhân bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của từng loại nhân."
+    },
+    {
+      "step": "Giới thiệu đồ uống và không gian",
+      "desc": "Giới thiệu các loại đồ uống và không gian quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự đa dạng của menu và không gian quán."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mình để địa chỉ ở trên màn hình nha"
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "ngọt nhẹ",
+    "đắng",
+    "ngọt vừa",
+    "đã đời",
+    "thoải mái"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ở đây chỉ có duy nhất một size vừa với lòng bàn chân thôi.",
+    "Top năm công dụng của bánh giếp: một là để ăn á, một là để ăn. Thứ hai, để khoe mồm.",
+    "Gọi cái trà sữa cốm dẻo ở đây là kiểu ăn cốm đã đời luôn, siêu nhiều cốm thơm và cốm dẻo luôn."
+  ],
+  "hook_content": "Chị ơi, dạo này nhà mình còn size 39 không mà?",
+  "hook_type": [
+    "Gây tò mò",
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video giới thiệu quán Milk's Coffee & Tea ở Hà Nội với món bánh giếp đặc biệt có nhiều loại nhân và trà sữa cốm dẻo thơm ngon, không gian quán rộng rãi mở đến muộn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

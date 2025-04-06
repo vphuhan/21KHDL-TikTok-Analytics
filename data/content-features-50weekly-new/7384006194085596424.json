@@ -1,0 +1,80 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Than thở về việc mua đồ đi chợ không ưng ý và quyết định tự làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị với sự hài hước và bất lực."
+    },
+    {
+      "step": "Khoe tài muối kim chi",
+      "desc": "Tự tin về khả năng muối kim chi và giới thiệu sản phẩm hỗ trợ.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy có chút tin tưởng vào khả năng."
+    },
+    {
+      "step": "Lý do làm kim chi",
+      "desc": "Giải thích lý do làm nhiều kim chi để ăn mì tôm xem bóng đá.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Chuẩn bị cơm trộn",
+      "desc": "Quyết định làm cơm trộn với kim chi mới muối và khoe đồ nghề.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy đói bụng và tò mò về món ăn."
+    },
+    {
+      "step": "Trình bày thành phẩm",
+      "desc": "Giới thiệu món cơm trộn đầy đủ topping và trứng lòng đào.",
+      "impact_level": "3",
+      "viewer_emotion": "Vô cùng thèm thuồng và muốn ăn ngay."
+    },
+    {
+      "step": "Đánh giá của chồng",
+      "desc": "Chồng ăn hết cơm trộn và được khen ngon, dọn dẹp phần thừa.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy vui lây vì món ăn thành công."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "cay cú",
+    "very good",
+    "êm",
+    "ngon",
+    "thèm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mua kim chi 10 lần chua loe chua loét cả 10. Cay cú quá nên là mình tự muối luôn cho nó xong.",
+    "Ai xem kênh mình lâu thì biết rồi là trông mình hơi đứng tuổi nhưng mà cái khả năng ngâm muối của mình thì cũng rất là very good.",
+    "Người ta nói vật chất quyết định ý thức là không sai đâu."
+  ],
+  "hook_content": "Không hiểu sao ông trời lại se duyên cho mình một người phụ nữ trung tuổi nấu ăn giỏi với một người đàn ông trẻ trâu đi chợ kém như này vào một tụ nhỉ.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video kể về việc người vợ tự muối kim chi vì chồng mua đồ không đúng ý, sau đó làm món cơm trộn kim chi để ăn và được chồng khen ngon. Video mang tính chất chia sẻ trải nghiệm nấu ăn đời thường.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

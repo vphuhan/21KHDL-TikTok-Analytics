@@ -1,0 +1,46 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về việc mua đồ ăn với 10.000 đồng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về những món có thể mua."
+    },
+    {
+      "step": "Liệt kê",
+      "desc": "Liệt kê các món ăn mua được với giá tương ứng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự lựa chọn giá rẻ."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [],
+  "has_cta": "false",
+  "highlight_phrases": [],
+  "hook_content": "10.000 mua được gì?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Liệt kê"
+  ],
+  "summarization": "Video cho thấy với 10.000 đồng có thể mua được xúc xích và kẹo tại cửa hàng tiện lợi.",
+  "tone_of_voice": [
+    "Trung lập"
+  ]
+}

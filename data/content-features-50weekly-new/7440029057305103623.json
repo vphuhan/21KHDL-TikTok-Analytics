@@ -1,0 +1,87 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món tiết luộc măng cay nóng hổi, món quà cho ngày đông.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Địa điểm và thời gian",
+      "desc": "Quán mở từ 3h chiều và thường hết hàng rất nhanh.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Mô tả chi tiết",
+      "desc": "Món ăn gồm tiết, măng cay, rau thơm và trứng vịt lộn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Điểm đặc biệt",
+      "desc": "Điểm đặc biệt nằm ở miếng tiết mềm mượt và măng cay đậm đà.",
+      "impact_level": "3",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Vị chua ngọt cay tê của măng cay hợp với tiết nóng hổi.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Cảm nhận cá nhân",
+      "desc": "Món ăn khiến bao người mê mệt, húp hết cả nước.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình"
+    },
+    {
+      "step": "Thông tin giá cả",
+      "desc": "Giá một bát tiết là 15.000đ, thêm trứng là 20.000đ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Những ai chưa ăn thử món này thì địa chỉ mình để ở đây nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "tuyệt vời",
+    "gây thương nhớ",
+    "chết mê chết mệt",
+    "siêu hợp"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bên ngoài nhìn nũng nĩnh mềm mượt như thạch ấy, ở trong thì láng mịn không bị rỗ đâu. Ăn như tan trong miệng luôn.",
+    "Ăn kèm là măng cay cũng chính là thứ gây thương nhớ ở đây.",
+    "Ăn mà húp hết cả nước sạch bong như này thì chắc là anh em đủ hiểu rồi nha."
+  ],
+  "hook_content": "trước là của ông là ông sáng chế ra. Hà Nội không ai làm cả. Ăn nhiều nơi nó vẫn thích về đây ăn.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu món tiết luộc măng cay ở chợ Nam Đồng, một món ăn vặt lý tưởng cho những ngày đầu đông. Món ăn này đặc biệt nhờ miếng tiết mềm mượt và măng cay đậm đà, khiến nhiều người yêu thích.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

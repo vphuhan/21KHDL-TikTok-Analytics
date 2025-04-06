@@ -1,0 +1,98 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Chia sẻ về việc mua đồ ăn theo review và trải nghiệm cá nhân.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn được review."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Rửa cá, chuẩn bị canh chua, cà muối và củ sâm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thấy sự chuẩn bị kỹ lưỡng."
+    },
+    {
+      "step": "Nấu ăn",
+      "desc": "Chiên cá không dầu, nấu canh chua và bày biện món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với quá trình nấu nướng đơn giản."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Bật kênh Anh Độ Mi Xi xem để ăn ngon miệng hơn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thấy hành động quen thuộc."
+    },
+    {
+      "step": "Đánh giá món cá dứa",
+      "desc": "Cá quá mặn, vị mỡ không như kỳ vọng, không hợp khẩu vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Đồng cảm với sự thất vọng của người review."
+    },
+    {
+      "step": "Cứu vãn bữa ăn",
+      "desc": "Ăn canh chua và cà muối để kết thúc bữa tối.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ vì có món khác để thay thế."
+    },
+    {
+      "step": "Kết luận và chia sẻ",
+      "desc": "Không gắn link sản phẩm vì không hợp khẩu vị, ăn mận tráng miệng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thấy sự chân thật."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Tối mình livestream mọi người hỏi quá trời mà mình không nhớ cái giá cái mận này mình mua hết bao nhiêu cả."
+  ],
+  "cta_type": [
+    "Follow kênh",
+    "Bình luận",
+    "Chia sẻ"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "háo hức",
+    "mặn quá",
+    "thèm thuồng",
+    "không hợp"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Thấy người ta chê cái khô cá dứa này mặn lắm, mặn vừa.",
+    "Ăn cay cho cái tính gen nó tốt, sau này có gì bóc phốt chồng.",
+    "Xin lỗi gia đình, xin lỗi mọi người nhưng mà cái cá nó mặn quá."
+  ],
+  "hook_content": "mình mà mua cái gì theo review là cũng cân nhắc, tìm hiểu lên tìm hiểu xuống. Chứ mà riêng đồ ăn, mình thấy người ta ăn ngon là mua.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video review món khô cá dứa và củ sâm Hồ Lô muối chua ngọt. Người review chia sẻ trải nghiệm mua đồ ăn theo đánh giá và kết luận món cá dứa quá mặn không hợp khẩu vị, nhưng vẫn khuyến khích mọi người nên thử.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên",
+    "Khó chịu"
+  ]
+}

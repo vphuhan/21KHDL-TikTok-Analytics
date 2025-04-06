@@ -1,0 +1,97 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Kỉ niệm tuổi thơ",
+      "desc": "Nhớ lại kí ức ăn xúc xích Đầm Sen nước thời còn bé.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú khi được gợi lại những kỷ niệm đẹp."
+    },
+    {
+      "step": "Hồi tưởng hương vị",
+      "desc": "Tìm kiếm hương vị xúc xích Đầm Sen nhưng không thành công.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn biết liệu có tìm lại được hương vị xưa."
+    },
+    {
+      "step": "Giải pháp",
+      "desc": "Nhờ mạng xã hội, tìm được loại xúc xích ưng ý.",
+      "impact_level": "3",
+      "viewer_emotion": "Vui mừng khi tìm lại được món ăn yêu thích."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu xúc xích con heo vàng, sản xuất tại Việt Nam.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn biết thêm thông tin chi tiết về sản phẩm."
+    },
+    {
+      "step": "Đánh giá sản phẩm",
+      "desc": "Nhấn mạnh hương vị đặc trưng, gợi nhớ kí ức tuổi thơ.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn mua ăn thử ngay."
+    },
+    {
+      "step": "Gợi ý kết hợp",
+      "desc": "Gợi ý ăn kèm với mì trộn hoặc cơm để tăng thêm hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tưởng tượng về món ăn và cảm thấy ngon miệng."
+    },
+    {
+      "step": "So sánh và khẳng định",
+      "desc": "So sánh với xúc xích nước ngoài và khẳng định hợp khẩu vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá vì phù hợp với người Việt."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thòm thèm",
+    "ngon dã man",
+    "thỏa mãn",
+    "ấm ức",
+    "tiếc nuối",
+    "cảm mến",
+    "ngon",
+    "thần kỳ",
+    "dễ ăn",
+    "hợp khẩu vị"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "cái cảm giác bơi xong lên ăn nó ngon dã man luôn",
+    "cắn vào đó, trời ơi đúng nó rồi",
+    "ngon một cách thần kỳ luôn á mọi người"
+  ],
+  "hook_content": "hồi nhỏ đi Đầm Sen nước bơi xong lên ăn cái xúc xích của họ bán mà mình thòm thèm mãi, cái cảm giác bơi xong lên ăn nó ngon dã man luôn.",
+  "hook_type": [
+    "Kể chuyện",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video chia sẻ về trải nghiệm tìm lại hương vị xúc xích Đầm Sen tuổi thơ, giới thiệu xúc xích con heo vàng và đánh giá hương vị thơm ngon, gợi nhớ kỷ niệm, phù hợp khẩu vị người Việt.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

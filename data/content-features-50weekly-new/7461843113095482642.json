@@ -1,0 +1,100 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu và giới thiệu món ăn",
+      "desc": "Giới thiệu món ăn hôm nay là mực trứng, bạch tuộc sốt cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò, muốn xem review món ăn."
+    },
+    {
+      "step": "Giải thích về việc chế biến",
+      "desc": "Giải thích việc hấp chín mực để trứng cứng lại, rút kinh nghiệm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Giới thiệu đồ uống",
+      "desc": "Giới thiệu và uống thử Star Kombucha vị Actiso đỏ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy sản phẩm thú vị, muốn tìm hiểu thêm."
+    },
+    {
+      "step": "Thưởng thức mực trứng",
+      "desc": "Bắt đầu ăn mực trứng hấp chín và nhận xét hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy đói bụng, thèm ăn."
+    },
+    {
+      "step": "Thưởng thức bạch tuộc",
+      "desc": "Ăn bạch tuộc sốt cay, chia sẻ cảm nhận về độ cay.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với cách ăn và biểu cảm của người review."
+    },
+    {
+      "step": "Ăn kèm và giải cay",
+      "desc": "Ăn nấm để giảm độ cay, tiếp tục ăn bạch tuộc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy người review ăn ngon miệng."
+    },
+    {
+      "step": "Kết luận và kêu gọi",
+      "desc": "Kết thúc video, review về đồ uống và tạm biệt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, video kết thúc."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nếu mà bạn nào muốn mua uống thử á thì có thể vào phần trong bài TikTok Shop của bạn nha.",
+    "Cảm ơn bạn đã xem video của Tóc Vàng nha."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm",
+    "Follow kênh",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "béo",
+    "cay",
+    "đã",
+    "ghiền",
+    "cay xỉu",
+    "cay quá",
+    "cay mất ý thức",
+    "ổn",
+    "đỡ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nói chung hấp chín thật sự ăn nó có cái vị khác khác các bạn.",
+    "Cái sốt này của bạn á là nó cay cái hậu vị các bạn. Mới ăn vô thì chưa có cay liền đâu. Sau một hồi là uống nước vô nó đỡ được miếng các bạn.",
+    "Ăn từng cái xúc tu nó ngon."
+  ],
+  "hook_content": "Hai bạn, lần trước các bạn bạn ăn mực trứng sốt cay nè, có nhiều bạn comment á nói là bạn chưa có hấp chín cái con mực á thì đúng nha bạn.",
+  "hook_type": [
+    "Phản hồi bình luận"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang mực trứng và bạch tuộc sốt cay, người ăn vừa ăn vừa review độ ngon và độ cay của món ăn, đồng thời uống thêm Kombucha để giải cay. Video cũng đề cập đến việc khắc phục lỗi chế biến từ lần trước và giới thiệu sản phẩm Kombucha.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

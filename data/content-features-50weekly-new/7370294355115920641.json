@@ -1,0 +1,75 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về clip đạt 10 triệu view và địa điểm ăn uống",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về địa điểm ăn uống được giới thiệu."
+    },
+    {
+      "step": "Khám phá chợ",
+      "desc": "Khám phá và giới thiệu các món ăn vặt ở chợ",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng của đồ ăn vặt."
+    },
+    {
+      "step": "Tương tác hài hước",
+      "desc": "Tương tác hài hước về việc có vợ và vẻ ngoài trai Hàn",
+      "impact_level": "3",
+      "viewer_emotion": "Vui vẻ và bất ngờ với những câu đùa."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Đánh giá mì cay về độ dai, giòn và ngon miệng",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử món mì cay được miêu tả."
+    },
+    {
+      "step": "Thanh toán",
+      "desc": "Thanh toán hóa đơn và kết thúc buổi ăn uống",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường khi video kết thúc."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "giòn",
+    "sật sật"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Em có vợ rồi mà chưa người yêu chị ạ.",
+    "Em nhìn em mục mị giống rai Hàn Quốc nhỉ?",
+    "Mì để mà nói thì sợi mì là to, dai giòn, ăn giòn sật sật luôn."
+  ],
+  "hook_content": "Clip này được 10 triệu view ấy, năm sau ở sự kiện này có ai ở review nhá.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video ghi lại trải nghiệm ăn uống của một nhóm bạn tại chợ Đồi Đèo, trong đó người dẫn chuyện tương tác với các bạn trẻ và đánh giá món mì cay.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

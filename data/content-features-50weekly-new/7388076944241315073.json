@@ -1,0 +1,78 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu gỏi cuốn",
+      "desc": "Người bán hàng giới thiệu món gỏi cuốn Sài Gòn và giá cả.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin cơ bản về món ăn."
+    },
+    {
+      "step": "Hỏi về nguyên liệu",
+      "desc": "Hỏi người bán về nguyên liệu và công thức làm gỏi cuốn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị, tò mò về công thức đặc biệt."
+    },
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Thông tin về thời gian bán và địa điểm bán gỏi cuốn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, cung cấp thông tin hữu ích."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Đánh giá hương vị và thành phần của gỏi cuốn, đặc biệt là mắm nêm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị, muốn thử món ăn được miêu tả hấp dẫn."
+    },
+    {
+      "step": "So sánh với gỏi cuốn Sài Gòn",
+      "desc": "So sánh sự khác biệt về nguyên liệu giữa gỏi cuốn ở đây và Sài Gòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự khác biệt và thích thú với thông tin này."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "đậm đà",
+    "vừa phải",
+    "cuốn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cái công nhận nha cái mắm nêm ở đây anh ấy pha ngon cực luôn đấy mọi người ạ.",
+    "Trời ơi càng ăn càng quấn luôn í, năm cái là không thể nào đủ được.",
+    "Mình sợ ăn cái rau đấy lắm luôn í. Mỗi lần ăn gỏi quấn ở trong Sài Gòn á là phải ngồi gỡ tung cái quấn ra để lấy bằng sạch cái rau đấy ra ấy mọi người ạ."
+  ],
+  "hook_content": "hỏi quấn đi hết chưa ở trong Sài Gòn đấy chị ơi.",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review gỏi cuốn kiểu Sài Gòn với giá 8k/cái, tập trung vào hương vị mắm nêm đặc biệt và so sánh với gỏi cuốn ở Sài Gòn. Người bán đã bán được 4-5 năm ở cổng trường Đại Kim.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

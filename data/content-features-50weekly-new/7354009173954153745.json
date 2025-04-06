@@ -1,0 +1,93 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán trà sữa nhiều topping ở quận 10.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán trà sữa."
+    },
+    {
+      "step": "Liệt kê topping",
+      "desc": "Liệt kê các loại topping đặc biệt của quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng của topping."
+    },
+    {
+      "step": "Đánh giá giá cả",
+      "desc": "Đánh giá giá cả trà sữa và topping là rẻ.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với mức giá hợp lý."
+    },
+    {
+      "step": "Giới thiệu địa điểm",
+      "desc": "Hướng dẫn địa chỉ quán Cái Lồng Chim.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhớ địa chỉ quán."
+    },
+    {
+      "step": "Cảm nhận cá nhân",
+      "desc": "Chia sẻ cảm nhận về việc không thể giảm cân.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với nỗi lo về cân nặng."
+    },
+    {
+      "step": "Giới thiệu món đặc biệt",
+      "desc": "Khuyên thử hút bạch donut vì đang hot.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn thử ngay hút bạch donut."
+    },
+    {
+      "step": "Đánh giá chất lượng",
+      "desc": "Đánh giá trà sữa đậm vị và bánh que ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng sản phẩm."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Và để mua trà sữa topping thì các bạn đến ngay tiệm Cái Lồng Chim tại Y12 Hồng Lĩnh nha.",
+    "Mọi người nhớ địa chỉ của quán Cái Lồng Chim Tính để đây nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thèm",
+    "cưng",
+    "béo ngậy"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "thiên đường cho những bạn mê trà sữa full topping",
+    "hút bạch chân mèo và hút bạch bánh donut bữa giờ đang rất là hot",
+    "ăn béo ngậy ngập mồm luôn á"
+  ],
+  "hook_content": "Cà phê cái lồng chim thì chân mèo tụi em bán giá 6.000đ, donut tụi em bán giá 8.000đ, còn lại những loại khác tụi em đều đồng giá 6.000đ hết.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu quán trà sữa Cái Lồng Chim ở quận 10 với hơn 20 loại topping đồng giá, đặc biệt là hút bạch chân mèo và donut đang hot, giá cả phải chăng và hương vị trà sữa đậm đà.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

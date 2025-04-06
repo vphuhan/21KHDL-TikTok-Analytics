@@ -1,0 +1,68 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món trứng thúi và thể hiện sự yêu thích với món này",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Chia sẻ cách ủ trứng",
+      "desc": "Hướng dẫn cách ủ trứng ung/giữa đà để có trứng thúi ngon",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Thưởng thức và đánh giá",
+      "desc": "Ăn trứng thúi với muối ớt và thể hiện cảm xúc ngon miệng",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tui nghe."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "béo",
+    "thúi đậm sâu",
+    "nồng nàn",
+    "dịu keo",
+    "đã thèm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trứng thúi thì béo ngất ngay con gà tây.",
+    "Ta nói ăn nó đã thèm gì đâu.",
+    "Trời ơi, cái trứng này chấn động luôn nè!"
+  ],
+  "hook_content": "Trời ơi, nước xanh vậy là ngon lắm nè! Hello, hello! Lại là tui mập bữa thích nấu ăn đây.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ về món trứng thúi, cách ủ trứng và trải nghiệm ăn món này với muối ớt. Người nói thể hiện sự yêu thích với món ăn đặc biệt này.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

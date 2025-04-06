@@ -1,0 +1,68 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Mẹ giới thiệu món kẹo dẻo khổng lồ hình con sâu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hình dạng đặc biệt của món ăn."
+    },
+    {
+      "step": "Miêu tả hình dạng",
+      "desc": "Mẹ diễn tả cảm xúc sợ hãi khi thấy hình dạng kẹo.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy vừa sợ vừa buồn cười."
+    },
+    {
+      "step": "Đánh giá trải nghiệm",
+      "desc": "Mẹ nếm thử và nhận xét về mùi vị, độ dẻo.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn biết món ăn có ngon không."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Mẹ nhận xét chung về món ăn và quyết định không ăn nữa.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với cảm xúc của mẹ."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "sợ",
+    "ngon",
+    "dẻo",
+    "thơm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Trời ơi sao giống con sâu quá à.",
+    "Nói chung là cũng ngon nhưng mà cái hình dạng thấy mẹ sợ thôi.",
+    "Nhụt cái răng ra. Mà nhức đầu thiệt luôn á."
+  ],
+  "hook_content": "Mẹ sợ quá đi. Lần đầu mẹ thử.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video ghi lại trải nghiệm của một người mẹ khi lần đầu ăn thử kẹo dẻo khổng lồ hình con sâu. Mặc dù kẹo có vị ngon và thơm trái cây, nhưng hình dạng đáng sợ khiến mẹ không thoải mái và quyết định không ăn nữa.",
+  "tone_of_voice": [
+    "Ngạc nhiên",
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

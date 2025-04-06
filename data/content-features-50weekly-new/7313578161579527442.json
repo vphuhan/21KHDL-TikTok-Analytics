@@ -1,0 +1,54 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Liệt kê các món ăn trong bữa cơm các nước",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự kết hợp các món ăn"
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Nếm thử các món ăn và đưa ra đánh giá ngắn gọn",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng khi thấy món ăn ngon"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Lời cảm ơn",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "Ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [],
+  "hook_content": "Mời anh ăn cơm.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu bữa cơm với nhiều món ăn từ các quốc gia khác nhau như ram biển, sốt teriyaki, mì xào kiểu Trung, dưa hấu và chuối Việt Nam.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

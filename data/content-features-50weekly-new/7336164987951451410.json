@@ -1,0 +1,54 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu gây tò mò",
+      "desc": "Người nói hỏi người xem có bị hoa mắt không.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Người nói hỏi 'Cá gì đây?' để giới thiệu sản phẩm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "hoa mắt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Có hoa mắt không mọi người?",
+    "Liệu mình có hoa mắt không?"
+  ],
+  "hook_content": "Có hoa mắt không mọi người? Liệu mình có hoa mắt không?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Đối thoại"
+  ],
+  "summarization": "Video mở đầu bằng câu hỏi gây tò mò về sản phẩm cá, tạo sự chú ý cho người xem.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Ngạc nhiên",
+    "Thân thiện"
+  ]
+}

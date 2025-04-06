@@ -1,0 +1,77 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món lẩu cua biển và nguyên liệu tự chuẩn bị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món lẩu cua biển."
+    },
+    {
+      "step": "Nấu lẩu cua",
+      "desc": "Thực hiện nấu lẩu cua với các nguyên liệu đã chuẩn bị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với quá trình nấu nướng."
+    },
+    {
+      "step": "Thưởng thức lẩu",
+      "desc": "Cả nhà cùng nhau thưởng thức món lẩu cua biển.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy ngon miệng và ấm cúng."
+    },
+    {
+      "step": "Đi thăm ruộng",
+      "desc": "Cả nhà đi thăm ruộng và trải nghiệm cuộc sống thôn quê.",
+      "impact_level": "2",
+      "viewer_emotion": "Thư giãn và gần gũi với thiên nhiên."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Kết thúc video với niềm vui và sự gắn kết gia đình.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấm áp và hạnh phúc."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn lẩu chung với cả nhà của mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "vui",
+    "thích",
+    "hạnh phúc"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Lẩu thì chua chua, ngọt ngọt, lấy miếng bún chan miếng nước lẩu, ăn với bông bí, bông điên điển, trời ơi ta nói ngon nhất cái nách luôn á mọi người.",
+    "Nay nhà mình ăn lẩu cua, coi như là rửa xe cho ông cậu mình luôn nha."
+  ],
+  "hook_content": "nay mình sẽ làm một chuyện bí mật giấu giấu giếm giếm đồ đó là đi mua xe về tạo bất ngờ cho ông cậu của mình nha.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh gia đình làm lẩu cua biển và cùng nhau thưởng thức. Sau đó, cả nhà cùng đi thăm ruộng và tận hưởng không khí gia đình ấm cúng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hài hước"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sốt",
+      "desc": "Quán cho nhiều sốt, tha hồ chấm gà rán.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú vì được ăn nhiều sốt."
+    },
+    {
+      "step": "Mời ăn gà",
+      "desc": "Mời mọi người cùng ăn gà rán.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, lịch sự."
+    },
+    {
+      "step": "Ăn cánh gà",
+      "desc": "Gọi toàn cánh gà để được bay xa.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ, hài hước."
+    },
+    {
+      "step": "Đánh giá chất lượng",
+      "desc": "Gà rán chất lượng và ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng."
+    },
+    {
+      "step": "Nhấn mạnh sốt ngon",
+      "desc": "Sốt của quán rất ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng về sốt."
+    },
+    {
+      "step": "Giới thiệu gà sốt cay",
+      "desc": "Giới thiệu món gà sốt cay hấp dẫn.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú với gà sốt cay."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "mê"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Sốt chấm nó phải ê hề ê hề như này mới đã.",
+    "Quán gà rán này ngon quãi đạn mấy bà ui."
+  ],
+  "hook_content": "Đây. Quán cho ê hề sốt luôn, tha hồ mà chấm.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán gà rán với điểm nhấn là sốt được cho nhiều và món gà sốt cay hấp dẫn. Người nói thể hiện sự thích thú với quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

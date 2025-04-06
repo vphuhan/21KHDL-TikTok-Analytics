@@ -1,0 +1,91 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu cách làm nước tro tại nhà từ baking soda.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về công thức làm nước tro."
+    },
+    {
+      "step": "Chuẩn bị baking soda",
+      "desc": "Cân và rang baking soda trên chảo ở nhiệt độ trung bình.",
+      "impact_level": "2",
+      "viewer_emotion": "Thắc mắc về thời gian rang baking soda."
+    },
+    {
+      "step": "Kiểm tra bột tro",
+      "desc": "Kiểm tra độ mịn và trọng lượng của bột baking soda sau khi rang.",
+      "impact_level": "2",
+      "viewer_emotion": "Học được cách nhận biết bột baking soda đạt chuẩn."
+    },
+    {
+      "step": "Pha nước tro",
+      "desc": "Hướng dẫn pha nước tro từ bột tro và nước.",
+      "impact_level": "2",
+      "viewer_emotion": "Nắm được tỷ lệ pha nước tro đơn giản."
+    },
+    {
+      "step": "Ngâm tôm",
+      "desc": "Chia sẻ kinh nghiệm ngâm tôm với nước tro tự làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Lưu ý về thời gian ngâm tôm phù hợp."
+    },
+    {
+      "step": "Lưu ý khi dùng",
+      "desc": "Nhấn mạnh về độ an toàn và cách chọn baking soda.",
+      "impact_level": "2",
+      "viewer_emotion": "Cẩn trọng hơn khi dùng baking soda."
+    },
+    {
+      "step": "Chế biến món ăn",
+      "desc": "Giới thiệu món rau củ xào tôm thủy tinh.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử làm món rau củ xào tôm thủy tinh."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo",
+    "Chi tiết",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "bạn nào siêng á thì có thể lưu lại clip này để khi nào rảnh thì làm ha"
+  ],
+  "cta_type": [
+    "Lưu video",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "giòn",
+    "ngon",
+    "ngọt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tôm thủy tinh thì bây giờ các bạn không cần đi tìm nước tro tàu nữa và các bạn có thể làm nước tro tại nhà bằng baking soda.",
+    "Baking soda này sau khi rang xong sẽ thành bột tro cho nên mình sẽ dự trữ nó trong hộp, xài cũng được khá lâu á.",
+    "Tôm thủy tinh với lại mực ngâm tro làm rất là tốn thời gian với tốn nước. Cho nên bạn nào siêng á thì có thể lưu lại clip này để khi nào rảnh thì làm ha."
+  ],
+  "hook_content": "Tôm thủy tinh thì bây giờ các bạn không cần đi tìm nước tro tàu nữa và các bạn có thể làm nước tro tại nhà bằng baking soda.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video hướng dẫn cách tự làm nước tro tại nhà bằng baking soda để ngâm tôm, mực hoặc làm bánh ú lá tro, đồng thời chia sẻ món rau củ xào tôm thủy tinh làm từ nguyên liệu này.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

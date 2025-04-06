@@ -1,0 +1,86 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Dẫn dắt người xem đến quán bánh tôm nổi tiếng ở Hà Nội.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán bánh tôm xịn."
+    },
+    {
+      "step": "Độ sạch sẽ",
+      "desc": "Nhấn mạnh quy trình rửa rau bằng máy móc hiện đại.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng về độ sạch sẽ của quán."
+    },
+    {
+      "step": "Đánh giá bánh tôm",
+      "desc": "Mô tả chi tiết về bánh tôm, hương vị và giá cả.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món bánh tôm giòn rụm."
+    },
+    {
+      "step": "Đánh giá nem lụi",
+      "desc": "Nhận xét về hương vị của nem lụi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn thử nem lụi."
+    },
+    {
+      "step": "Đề xuất khác",
+      "desc": "Giới thiệu thêm các món khác nhưng không quá đặc sắc.",
+      "impact_level": "1",
+      "viewer_emotion": "Không quá hứng thú với các món khác."
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Đề xuất bánh tôm và nem lụi là món nên thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Ghi nhớ để thử khi đến quán."
+    },
+    {
+      "step": "Thông tin địa điểm",
+      "desc": "Cung cấp địa chỉ quán bánh tôm bà Lộc.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết được địa chỉ quán để ghé thăm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "hợp lý",
+    "yên tâm",
+    "thoải mái"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Chi đến tận 100 triệu chỉ để dành cho việc rửa và vắt rau sống.",
+    "Bánh tôm ở đây rất là giòn, có hai con tôm trong một cái bánh, cảm nhận đúng rõ vị tôm luôn anh ạ.",
+    "Em nghĩ là 80.000 mà được ba miếng bánh như thế cắt ra, xong rồi mỗi miếng lại còn có hai con tôm nữa thì quá hợp lý rồi gì."
+  ],
+  "hook_content": "Cái này các quán chị rửa rau bằng máy giặt á? Vâng đúng rồi ạ.",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán bánh tôm bà Lộc ở Hà Nội, nổi bật với quy trình rửa rau sạch sẽ và món bánh tôm giòn ngon, có hai con tôm trong mỗi miếng. Ngoài ra, quán còn có nem lụi và các món khác.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

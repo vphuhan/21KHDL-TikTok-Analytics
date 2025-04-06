@@ -1,0 +1,90 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món cá hồi sống ăn cùng trứng cá tầm muối.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự kết hợp độc đáo."
+    },
+    {
+      "step": "Nhấn mạnh sự yêu thích sashimi",
+      "desc": "Nhấn mạnh sự yêu thích sashimi và cá hồi.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường, dễ đồng cảm."
+    },
+    {
+      "step": "Miêu tả nguyên liệu",
+      "desc": "Miêu tả miếng cá hồi béo ngậy, có phần bụng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng, muốn ăn thử."
+    },
+    {
+      "step": "Giới thiệu trứng cá tầm",
+      "desc": "Giới thiệu trứng cá tầm muối được tặng, giá cả.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng về món quà, tò mò về giá."
+    },
+    {
+      "step": "Trình bày và cảm nhận",
+      "desc": "Trình bày món ăn và cảm nhận về hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Thực sự muốn nếm thử ngay lập tức."
+    },
+    {
+      "step": "Kết hợp và đánh giá",
+      "desc": "Đánh giá sự kết hợp giữa cá hồi và trứng cá tầm.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy phấn khích về sự bùng nổ vị giác."
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thân thiện."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "béo",
+    "ngon",
+    "mặn mặn",
+    "giòn bụp bụp",
+    "đã",
+    "siêu hợp",
+    "bùng vị"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cá hồi thì đã béo rồi, mà nay tôi lựa trúng miếng cá có dính phần bụng nữa, nên ăn ta nói béo dữ lắm.",
+    "Mới bỏ có một xíu trứng cá tầm lên mà nhìn cái dĩa cá hồi nó sang lên liền hen.",
+    "Thịt cá hồi thì mềm tan, béo ngậy ngon khỏi bàn. Còn trứng cá tầm theo cảm nhận của tôi thì nó siêu béo, có vị mặn mặn mà giòn bụp bụp, ăn hơi bị đã nha."
+  ],
+  "hook_content": "Hello mọi người, lại là tôi mập bự thích nấu ăn đây. Nay mọi người cùng tôi ăn thử cá hồi sống cùng với trứng cá tầm muối nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video trải nghiệm ăn cá hồi sống cùng trứng cá tầm muối, miêu tả hương vị béo ngậy, ngon miệng và sự kết hợp tuyệt vời giữa hai nguyên liệu này. Người tạo nội dung cũng chia sẻ cảm xúc thích thú và mời mọi người cùng thưởng thức.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

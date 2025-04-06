@@ -1,0 +1,93 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu ưu đãi",
+      "desc": "Nhân viên thông báo về việc lấy thêm đồ uống thoải mái.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về những ưu đãi tiếp theo."
+    },
+    {
+      "step": "Miêu tả buffet",
+      "desc": "Giới thiệu các món tráng miệng, đồ uống và món ăn kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng."
+    },
+    {
+      "step": "Giới thiệu lẩu băng chuyền",
+      "desc": "Nhấn mạnh vào lẩu băng chuyền, số lượng món và khuyến mãi.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với sự hấp dẫn và khuyến mãi."
+    },
+    {
+      "step": "Đánh giá nước lẩu",
+      "desc": "Đánh giá hương vị của lẩu cà chua và lẩu collagen.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của các loại lẩu."
+    },
+    {
+      "step": "Nhấn mạnh tráng miệng",
+      "desc": "Nhấn mạnh lại quầy tráng miệng và các món tự làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong muốn được thưởng thức tráng miệng."
+    },
+    {
+      "step": "Kết luận và địa điểm",
+      "desc": "Khuyên đến Sanchi và thông báo địa điểm ăn Royal City.",
+      "impact_level": "1",
+      "viewer_emotion": "Tìm được địa điểm phù hợp."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người mà đang tìm chỗ hội họp bạn bè, gia đình thì có thể tham khảo thử ở đây nhá."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "mê mệt",
+    "thoải mái",
+    "thỏa thích",
+    "siêu to khổng lồ",
+    "mềm ngọt",
+    "hợp lý",
+    "đa dạng",
+    "cao cấp",
+    "dễ ăn",
+    "nhẹ nhàng dễ chịu"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ăn lẩu băng chuyền của Đài Loan ship bằng tàu siêu tốc giá từ 199.000đ mà ăn tận 99 món nhúng lẩu, cộng thêm quầy lai khai vị rồi tráng miệng đa dạng này thì chỉ có Sanchi mới có thôi.",
+    "Khi đi bốn chỉ tính tiền ba thôi, lại còn tặng cả một combo hải sản thế này nữa thì chia ra giá ng hợp lý lắm.",
+    "Tùy vào sở thích và nhu cầu của mọi người mà chọn mức giá cho phù hợp thôi, nhưng mà mình khuyên mọi người là nên đi đông một chút."
+  ],
+  "hook_content": "Em ơi, em vừa lấy một chai rồi, giờ em lấy thêm chai nữa để có mất phí không ạ? Dạ không ạ, chị cứ lấy thoải mái đi ạ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review buffet lẩu băng chuyền Sanchi với nhiều món nhúng, quầy tráng miệng đa dạng và các ưu đãi hấp dẫn như tặng bắp hoa tam phẩm, bò tuyết cẩm thạch và combo hải sản khi đi nhóm đông người.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu chung",
+      "desc": "Giới thiệu buffet hải sản mới khai trương, chất lượng năm sao.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về địa điểm và chất lượng."
+    },
+    {
+      "step": "Không gian và ưu đãi",
+      "desc": "Miêu tả không gian sang trọng và chương trình tặng cua hoàng đế.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với sự sang trọng và ưu đãi."
+    },
+    {
+      "step": "Đánh giá quầy line",
+      "desc": "Đánh giá sự đa dạng và chất lượng hải sản tại quầy line.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng trước sự phong phú của món ăn."
+    },
+    {
+      "step": "Trải nghiệm cá nhân",
+      "desc": "Chia sẻ trải nghiệm ăn cua và các món khác tại buffet.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy hứng thú và muốn thử."
+    },
+    {
+      "step": "Đồ nóng và tráng miệng",
+      "desc": "Giới thiệu các món nóng Âu Á và khu vực tráng miệng.",
+      "impact_level": "2",
+      "viewer_emotion": "Bất ngờ trước sự đa dạng của món ăn."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Nhận xét về khuyến mãi, giá cả và dịch vụ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn với giá cả và dịch vụ tốt."
+    }
+  ],
+  "content_style": [
+    "Sang trọng",
+    "Chi tiết",
+    "Đời thường"
+  ],
+  "cta_content": [
+    "mọi người tới ngay Blue Bay để có thể thưởng thức liền nhé."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "xịn sò",
+    "hài lòng",
+    "choáng ngợp",
+    "sang trọng",
+    "siêu to khổng lồ",
+    "chắc nịch",
+    "siêu ngon",
+    "thỏa thích",
+    "mê mẩn",
+    "thơm ngon",
+    "béo múc",
+    "thèm",
+    "du xì",
+    "ưng ý"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ăn cua không giới hạn mà cua rơm hơi siêu to khổng lồ, xài to bự chứ không phải là cua bé bé đâu, chắc nịch siêu ngon",
+    "Các Tiến đồ hải sản cứ gọi là mê mẩn luôn",
+    "sushi, sashimi cá hồi, bạch tuộc hào sống to đùng béo múc, ăn thả phanh không cần phải nghĩ"
+  ],
+  "hook_content": "buffe hải sản xịn sò chất lượng năm sao chuẩn bị làm mưa làm gió tại Hà Nội đảm bảo sẽ làm hài lòng những thực khách khó tính nhất, vừa mới khai trương luôn.",
+  "hook_type": [
+    "Giật tít",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu buffet hải sản Blue Bay mới khai trương tại Hà Nội với không gian sang trọng, nhiều ưu đãi và các món hải sản tươi ngon, đa dạng. Người xem được mời đến trải nghiệm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

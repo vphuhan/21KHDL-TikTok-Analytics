@@ -1,0 +1,89 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu món cá ngừ chiên mắm thay cho cá kho măng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Mẹo khử tanh",
+      "desc": "Hướng dẫn rửa cá ngừ bằng nước trà xanh để khử tanh.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ và thích thú với mẹo hay."
+    },
+    {
+      "step": "Chiên cá",
+      "desc": "Chiên cá ngừ và lưu ý để lửa to để cá giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung được độ ngon của món ăn."
+    },
+    {
+      "step": "Pha nước riêu",
+      "desc": "Pha nước riêu cá với công thức và nước mắm ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng vì mùi vị hấp dẫn."
+    },
+    {
+      "step": "Hoàn thiện",
+      "desc": "Cho cá đã chiên vào nước riêu và rim cho thấm gia vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy đói bụng và muốn ăn ngay."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Thưởng thức món cá ngừ chiên mắm với cơm và rau.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn bắt tay vào làm thử món này."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Mời người thân ăn cơm và gợi ý món ăn đơn giản.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm nhận được sự ấm cúng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Nên nếu mà bữa nay chưa có biết ăn cái gì á thì mấy chị tham khảo thử món này nghe."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "chịu không nổi",
+    "mặn mặn",
+    "cay cay"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trời ơi em nói nó ngon mà cho ăn một tuần em ăn cái món này cũng được nữa.",
+    "Một cái mẹ mà để cá không có bị tanh á là mua về mấy chị rửa với lại nước trà xanh á.",
+    "Bữa nào mà làm cái món này á là phải nấu nhiều cơm nha chứ không thôi không đủ cơm ăn đâu á."
+  ],
+  "hook_content": "Cá ngừ mà đem kho măng ăn ngán quá thì bữa nay mấy chị đổi qua cái chiên mắm kiểu này đi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm món cá ngừ chiên mắm tỏi đơn giản, thơm ngon, kèm theo mẹo khử tanh cá bằng nước trà xanh và gợi ý các món ăn kèm. Người nấu sử dụng nước mắm cá cơm Phan Thiết để tăng hương vị đậm đà cho món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

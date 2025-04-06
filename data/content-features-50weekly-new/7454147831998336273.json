@@ -1,0 +1,94 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Mô tả món heo quay da giòn dễ làm tại nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách làm."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Hướng dẫn rửa thịt bằng bột và khứa để dễ cắt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin cơ bản."
+    },
+    {
+      "step": "Ngâm da heo",
+      "desc": "Ngâm da heo với giấm giúp da giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với mẹo này."
+    },
+    {
+      "step": "Làm nước sốt",
+      "desc": "Hướng dẫn làm nước sốt ăn kèm với heo quay.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong muốn biết công thức."
+    },
+    {
+      "step": "Sấy và nướng",
+      "desc": "Hướng dẫn chi tiết các bước sấy và nướng.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú và mong chờ kết quả."
+    },
+    {
+      "step": "Thành phẩm",
+      "desc": "Tự tin về món heo quay da giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với thành phẩm."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Kêu gọi thử làm và khoe thành phẩm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Có gì mấy bà lưu lại cái công thức này có gì tết mình làm ăn thử nhe.",
+    "Có gì mấy chị thử nghen."
+  ],
+  "cta_type": [
+    "Lưu video",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "bất bại",
+    "dễ",
+    "thành công",
+    "tự tin",
+    "đậm đà"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Làm dễ lắm mà ăn ngon bất bại luôn á.",
+    "Cách làm heo quay da giòn thành công ngay lần đầu làm luôn nhe.",
+    "Làm món nào em không tự tin chứ làm heo quay da giòn vậy là em tự tin dữ lắm."
+  ],
+  "hook_content": "Tết này á khỏi tốn tiền mua heo quay ăn nữa mà tự làm ăn luôn mấy chị ơi.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm heo quay da giòn tại nhà một cách đơn giản, dễ thành công ngay cả với người không biết nấu ăn. Các bước thực hiện được trình bày chi tiết, từ sơ chế đến chế biến, kèm theo những mẹo nhỏ để đảm bảo da heo giòn tan.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

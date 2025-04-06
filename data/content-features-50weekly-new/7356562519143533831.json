@@ -1,0 +1,72 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu quả roi sấy dẻo mua trong siêu thị, nhấn mạnh sự lạ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm mới."
+    },
+    {
+      "step": "Mô tả cảm quan",
+      "desc": "Miêu tả mùi thơm giống dâu tây, dạng đường, giá hơi đắt.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung được mùi vị và giá cả."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét vị ngọt chiếm phần lớn, ai thích ngọt sẽ thấy ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Biết được sản phẩm này hợp với người hảo ngọt."
+    },
+    {
+      "step": "So sánh và kết luận",
+      "desc": "So sánh với roi tươi, khuyên nên ăn roi tươi hơn.",
+      "impact_level": "1",
+      "viewer_emotion": "Đồng tình với lời khuyên."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người nhìn thấy cũng thử một lần cho biết, tốt nhất là ăn roi tươi."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "ngọt",
+    "lạ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mình nghĩ nếu như mà ai thích ăn đồ ngọt nhá, ăn cái này sẽ rất là ngon, bởi vì nó ngọt kiểu ngọt thơm.",
+    "Một quả roi tươi thế này sấy cho nó teo vào thì mình nghĩ nó cũng sẽ ngọt hơn một chút nhưng mà mình nghĩ nó sẽ không ngọt được đến cái mức này đâu, mình nghĩ là có đường ấy, ngọt lắm.",
+    "Mọi người nhìn thấy cũng thử một lần cho biết, tốt nhất là ăn roi tươi."
+  ],
+  "hook_content": "Roi tươi thì chắc là ai ăn rồi đúng không? Nhưng mình chắc chắn 99,99999% mọi người còn không tưởng tượng ra quả roi sấy nó sẽ như thế này.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review quả roi sấy dẻo mua trong siêu thị, miêu tả mùi vị, độ ngọt và so sánh với roi tươi, kết luận nên ăn roi tươi ngon hơn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

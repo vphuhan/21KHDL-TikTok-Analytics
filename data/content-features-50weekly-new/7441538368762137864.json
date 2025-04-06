@@ -1,0 +1,95 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu về việc quán ăn cầu trời khấn phật vì bán ế.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về lý do quán ế và cách giải quyết."
+    },
+    {
+      "step": "Phản hồi bình luận",
+      "desc": "Phản hồi bình luận của khách về định vị quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Hiểu rõ hơn về cách quán tương tác với khách hàng."
+    },
+    {
+      "step": "Đánh giá tổng quan",
+      "desc": "Đánh giá về giá cả và hình thức món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự hấp dẫn ban đầu của món ăn."
+    },
+    {
+      "step": "Thử món và nhận xét",
+      "desc": "Thử món bún bò và đưa ra nhận xét về hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Tập trung cao độ để xem đánh giá chi tiết về món ăn."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Đánh giá chi tiết về thịt, nước lèo, giò và các thành phần khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Có cái nhìn sâu sắc hơn về chất lượng món ăn."
+    },
+    {
+      "step": "So sánh và góp ý",
+      "desc": "So sánh với các quán khác và đưa ra góp ý cải thiện.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích vì có thông tin so sánh và góp ý."
+    },
+    {
+      "step": "Kết luận và chia sẻ",
+      "desc": "Chia sẻ về việc review và tầm quan trọng của chất lượng.",
+      "impact_level": "1",
+      "viewer_emotion": "Suy ngẫm về ý nghĩa của việc review chân thật."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chuyên nghiệp",
+    "Chuyên nghiệp"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người đã coi clip của em nha. Bye bye."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "mặn",
+    "thơm",
+    "mềm",
+    "tan trong miệng",
+    "vừa",
+    "thích",
+    "chất lượng",
+    "tức"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Thịt bên đây mình xin được chấm là 9 điểm cho cái phần thịt.",
+    "Lần đầu tiên ăn được một cái cục giò mình cảm thấy là nó thơm, nó mềm.",
+    "Mình là Panda chân lý chứ không phải là Panda ăn ngon."
+  ],
+  "hook_content": "Xin chào tất cả mọi người sẽ không làm gì sai trái nữa nha mọi người ơi kêu là bán ế quá Bây giờ làm sao cầu trời khẩn phật hứa sẽ không sai trái nữa.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review quán bún bò O Huế, tập trung vào trải nghiệm cá nhân và đánh giá chi tiết các thành phần của món ăn như thịt, nước lèo, giò. Người review cũng chia sẻ quan điểm về nghề TikToker review và tầm quan trọng của chất lượng.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Chân thành",
+    "Thân thiện"
+  ]
+}

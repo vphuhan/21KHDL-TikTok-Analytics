@@ -1,0 +1,97 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món sườn nướng nước tương và lý do món ăn hấp dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn được giới thiệu."
+    },
+    {
+      "step": "Sơ chế sườn",
+      "desc": "Hướng dẫn sơ chế sườn: chặt miếng vừa ăn, rửa sạch, trụng sơ.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy đây là bước chuẩn bị thông thường."
+    },
+    {
+      "step": "Ướp sườn",
+      "desc": "Hướng dẫn ướp sườn với các gia vị và lưu ý quan trọng.",
+      "impact_level": "2",
+      "viewer_emotion": "Lưu ý công thức và bí quyết ướp sườn."
+    },
+    {
+      "step": "Nướng sườn",
+      "desc": "Hướng dẫn nướng sườn bằng nồi chiên không dầu, canh nhiệt độ.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ thành phẩm sau khi nướng."
+    },
+    {
+      "step": "Giới thiệu rong nho",
+      "desc": "Giới thiệu rong nho Tasami ăn kèm thịt nướng và cách sơ chế.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự kết hợp mới lạ."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Mô tả trải nghiệm ăn thịt nướng kèm rong nho giòn ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử ngay."
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Khuyến khích thử món ăn và thông báo kết thúc video.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy được khuyến khích làm theo."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Có gì mấy chị thử nghe."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "hao cơm",
+    "đậm đà",
+    "đã dễ sợ",
+    "cực kỳ đẹp",
+    "miễn chê",
+    "tiện",
+    "giòn giòn",
+    "đã miệng",
+    "hết bài",
+    "dễ làm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nhờ cái món sườn nướng này á mà ông người yêu em đổ em á mấy chị ơi.",
+    "Ăn thịt nướng mà có kèm rong nho là ta nói miễn chê luôn á mấy chị ơi.",
+    "Ăn miếng thịt nướng mà kèm thêm miếng rong nho nữa là ta nói hết bài."
+  ],
+  "hook_content": "Hồi đó giờ mấy chị đã từng thử cái món sườn nướng nước tương kiểu này chưa?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn cách làm sườn nướng nước tương bằng nồi chiên không dầu và gợi ý ăn kèm với rong nho Tasami. Người làm chia sẻ đây là món ăn đơn giản, dễ làm, đậm đà và rất hao cơm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

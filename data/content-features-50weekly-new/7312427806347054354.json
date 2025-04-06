@@ -1,0 +1,96 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu nhà hàng",
+      "desc": "Giới thiệu địa điểm hẹn hò lãng mạn là nhà hàng Ý Giovanni's.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về địa điểm và không gian nhà hàng."
+    },
+    {
+      "step": "Không gian và trải nghiệm",
+      "desc": "Miêu tả không gian hai tầng và lựa chọn ngồi ngoài trời.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm nhận được sự thoáng đãng, mát mẻ."
+    },
+    {
+      "step": "Quy trình làm pizza",
+      "desc": "Quá trình làm pizza kết hợp mì Ý độc đáo.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng và thích thú với sự kết hợp lạ."
+    },
+    {
+      "step": "Đánh giá pizza mì ý",
+      "desc": "Đánh giá hương vị và sự kết hợp đặc biệt của pizza mì.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn thử hương vị độc đáo này."
+    },
+    {
+      "step": "Bò khò lửa",
+      "desc": "Mô tả món bò khò lửa với hương vị đặc trưng.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi hương thơm và cách chế biến."
+    },
+    {
+      "step": "Mì nấm phô mai",
+      "desc": "Quá trình nấu mì nấm trên tảng phô mai khổng lồ.",
+      "impact_level": "3",
+      "viewer_emotion": "Ngạc nhiên và thích thú với cách chế biến."
+    },
+    {
+      "step": "Steak và tráng miệng",
+      "desc": "Đánh giá steak thăn bò và tiramisu tráng miệng.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú với món tráng miệng ngọt ngào."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Đợt tới muốn đi hẹn hò ngày lễ mọi người có thể cân nhắc tham khảo quán ý này nha.",
+    "Save lại ngay đi thôi."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Lưu video"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "mềm",
+    "ngọt",
+    "béo",
+    "ngậy",
+    "ngon dã man",
+    "ngọt ngào"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đã pizza lại còn cho thêm cả mì ý ở bên trên nữa.",
+    "Nếu tách mì riêng, pizza riêng thì có lẽ nó chỉ là những món ăn đơn giản truyền thống nhất. Nhưng vì kết hợp chung nên vô tình lại tạo thành một sự đặc biệt.",
+    "Trong tiếng Ý thì từ này có nghĩa là pick me up, hãy mang em đi, gắn với tình yêu lãng mạn."
+  ],
+  "hook_content": "Bao nhiêu lần mình nhìn thấy cảnh này là bấy nhiêu lần mình tự hỏi là làm sao để người ta vệ sinh được cái viên phô mai này nhỉ?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video này dẫn người xem đi trải nghiệm ẩm thực tại nhà hàng Ý Giovanni's, tập trung vào các món ăn độc đáo như pizza kết hợp mì Ý, bò khò lửa, mì nấm nấu trên tảng phô mai, steak và tiramisu, đồng thời chia sẻ cảm xúc và đánh giá cá nhân về hương vị và không gian.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán đã mở được 3 năm, khẩu vị Hoa-Việt",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị"
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu bò né, bít tết sốt tiêu đen, trứng muối",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy đói bụng"
+    },
+    {
+      "step": "Miêu tả thành phần",
+      "desc": "Miêu tả thành phần món ăn và giá cả",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích"
+    },
+    {
+      "step": "Điểm đặc biệt",
+      "desc": "Nhấn mạnh sốt tiêu xanh thơm, trứng muối đậm đà",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử ngay"
+    },
+    {
+      "step": "Nguyên liệu tươi",
+      "desc": "Bò tươi mỗi ngày, sốt làm và bán trong ngày",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng chất lượng"
+    },
+    {
+      "step": "Ưu điểm",
+      "desc": "Ít dầu mỡ, phần ăn nhiều, sốt đậm đà",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Thông tin khác",
+      "desc": "Bánh mì giữ nóng, mì gói/ý nui chế biến riêng",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "hợp vị",
+    "thơm",
+    "đậm đà",
+    "mê"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Thiệt sự là cái quán này sốt ngon lắm nha quý vị ơi.",
+    "Menu đơn giản hai món là bò né và bò bít tết nè nhưng mà cái điểm cộng là ít dầu mỡ, phần ăn khá là nhiều.",
+    "Mà vị nào thì ra vị đó chứ không phải kiểu lơi lới tay không ra tây mà Việt không ra Việt nha."
+  ],
+  "hook_content": "mình mở được ba năm mấy rồi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu quán Mộc Bò Bít Tết với món bò né và bít tết đặc biệt sốt tiêu đen và trứng muối, quán có tuổi đời 3 năm, phục vụ món ăn theo khẩu vị Hoa-Việt, sử dụng nguyên liệu tươi ngon mỗi ngày.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

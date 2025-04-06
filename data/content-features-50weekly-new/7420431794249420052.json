@@ -1,0 +1,87 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Chia sẻ kỷ niệm đi ăn súp cua măng tây ở nhà hàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú khi nghe kể về kỷ niệm."
+    },
+    {
+      "step": "Chuẩn bị nước dùng",
+      "desc": "Hướng dẫn nấu nước dùng từ xương gà, hành tây, cà rốt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin cơ bản."
+    },
+    {
+      "step": "Mẹo hấp cua",
+      "desc": "Chia sẻ mẹo hấp cua ngọt thịt và kinh nghiệm dị ứng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thông tin hữu ích về mẹo hấp cua."
+    },
+    {
+      "step": "Giới thiệu măng tây",
+      "desc": "Đề cập đến lợi ích và giá cả phải chăng của măng tây.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin bổ sung."
+    },
+    {
+      "step": "Nêm nếm",
+      "desc": "Sử dụng hạt nêm Knorr để tạo vị đậm đà cho súp.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của hạt nêm."
+    },
+    {
+      "step": "Hoàn thiện súp",
+      "desc": "Hướng dẫn cách tạo độ đặc cho súp bằng bột năng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, dễ hiểu."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Nhấn mạnh súp cua măng tây dễ nấu và ngon hơn nhà hàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú và muốn thử nấu."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngọt",
+    "ngon",
+    "đậm đà",
+    "vừa miệng",
+    "hợp",
+    "đã"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "cua với tôm á có vỏ thì bị dị ứng, thần kỳ một cái á là lột ra xong lại hết dị ứng luôn",
+    "măng tây á, mấy năm gần đây thì mình đã thấy nó rẻ hơn hồi xưa rất là nhiều rồi, vừa nhiều vitamin, nhiều chất chống oxy hóa mà lại còn ngon nữa",
+    "Tính ra món súp này á mình thấy nó còn dễ hơn súp cua bình thường nữa, ai cũng có thể nấu được tại nhà, mà topping á còn chất lượng hơn ở ngoài nhà hàng nữa"
+  ],
+  "hook_content": "Súp cua măng tây. Chuyện là hồi xưa lúc vợ mình có bầu á, tụi mình có đi ăn một nhà hàng người Hoa, ăn món khai vị có một món gọi là súp cua măng tây, mà nhà hàng đó ở tuốt bên quận năm lận, nhà mình thì ở Thủ Đức, mà tới đó là xa quá trời là xa luôn, nên là bữa nay á tự làm tại nhà luôn.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn nấu món súp cua măng tây tại nhà, bắt đầu bằng một kỷ niệm đi ăn ở nhà hàng và chia sẻ các bước nấu đơn giản, dễ thực hiện với nguyên liệu chất lượng hơn. Video nhấn mạnh hương vị thơm ngon và lợi ích của món ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

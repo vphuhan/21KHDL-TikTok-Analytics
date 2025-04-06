@@ -1,0 +1,89 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món lạp sườn Hà Khẩu và mời mọi người cùng ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Trải nghiệm món ăn",
+      "desc": "Chia sẻ cảm xúc khi ăn lại sau thời gian dài.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự trở lại của món ăn."
+    },
+    {
+      "step": "So sánh và nhận xét",
+      "desc": "So sánh lạp xưởng tự rán và mua, nêu vấn đề gặp phải.",
+      "impact_level": "1",
+      "viewer_emotion": "Tập trung vào chi tiết nhỏ."
+    },
+    {
+      "step": "Nếm thử và miêu tả",
+      "desc": "Lăn lạp xưởng qua bột ớt và miêu tả hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm giác thèm thuồng."
+    },
+    {
+      "step": "Tiếp tục trải nghiệm",
+      "desc": "Nhấn mạnh vị cay, tê của bột ớt và cảm giác dính môi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tưởng tượng về vị cay tê."
+    },
+    {
+      "step": "Điều chỉnh cách ăn",
+      "desc": "Chuyển sang chấm thay vì lăn để tránh bị cay môi.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm với người ăn."
+    },
+    {
+      "step": "Kết thúc video",
+      "desc": "Cảm ơn người xem và hẹn gặp lại ở các video sau.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người đã xem hết video của mình, hẹn mọi người những video sau, tạm biệt."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "nóng",
+    "cay",
+    "tê",
+    "perfect"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Rất ngon như lần đầu mình ăn.",
+    "Cái bột ớt này nó có vị cay với cả vị tê mọi người ạ.",
+    "Xong rồi mình lăn thế này mình cắn nó bị dính vào môi ý, bên này môi mình tê luôn."
+  ],
+  "hook_content": "Xin chào mọi người, hôm nay mình sẽ ăn lạp sườn hạt khẩu, mời mọi người ăn cùng nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang lạp sườn Hà Khẩu, người ăn chia sẻ cảm xúc khi ăn lại món này sau một thời gian và trải nghiệm các hương vị cay, tê của nó. Video kết thúc bằng lời cảm ơn và hẹn gặp lại.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

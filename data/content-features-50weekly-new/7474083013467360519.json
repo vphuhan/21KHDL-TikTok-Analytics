@@ -1,0 +1,61 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Mở đầu bằng một đoạn nhạc và giới thiệu món bún bò.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Nấu ăn",
+      "desc": "Quá trình nấu ăn được mô tả qua lời bài hát.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Cảm xúc",
+      "desc": "Diễn tả cảm xúc khi nấu ăn và dành tặng món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z",
+    "Sáng tạo"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "yêu thương",
+    "vấn vương",
+    "thích phát điên"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Trong mắt ai như anh biết rõ gu nhạc em thích.",
+    "Cảm ơn đám trái tim bay hát chỉ dành riêng cho người.",
+    "Một bài nhạc làm em phải thức cả đêm thích phát điên."
+  ],
+  "hook_content": "Trong mắt ai như anh biết rõ gu nhạc em thích.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Kể chuyện",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video ghi lại quá trình nấu món bún bò chua cay theo phong cách hát, thể hiện cảm xúc yêu thích và dành tặng món ăn cho người yêu.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

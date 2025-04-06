@@ -1,0 +1,79 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bối cảnh",
+      "desc": "Bố chồng kỹ tính, thích món nem rán, chuẩn bị bữa tối.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món nem rán đặc biệt này."
+    },
+    {
+      "step": "Chia sẻ bí quyết",
+      "desc": "Khi phân vân chọn món, nem rán là lựa chọn hàng đầu.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Khuyến khích tương tác",
+      "desc": "Mở lời học hỏi cách nấu nem rán ngon hơn từ người xem.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy đây là một người thân thiện."
+    },
+    {
+      "step": "Đánh giá của gia đình",
+      "desc": "Bố chồng và mọi người đều khen nem rán ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy vui lây vì món ăn được khen ngợi."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Cả gia đình cùng nhau ăn và tận hưởng món nem rán.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy ấm cúng và hạnh phúc."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Vậy nên mọi người có cách nấu nào ngon hơn thì chỉ cho mình biết nha."
+  ],
+  "cta_type": [
+    "Chia sẻ công thức",
+    "Đặt câu hỏi"
+  ],
+  "emotion_keywords": [
+    "おいしい",
+    "うまい",
+    "安定のおいしさです"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Món ăn mà khiến bố thay đổi suy nghĩ về đồ ăn Việt Nam chính là món nem rán này.",
+    "Vì nguyên liệu thì khá là đơn giản, nhà có gì thì dùng đấy thôi.",
+    "いつもの安定のおいしさです。"
+  ],
+  "hook_content": "Bố chồng mình thì thuộc tuýp người Nhật Bản ngày xưa, nên là khá kỹ tính trong việc ăn uống và thử cái mới.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ về món nem rán được bố chồng người Nhật yêu thích và cách người vợ chuẩn bị bữa tối cho gia đình. Cô cũng khuyến khích người xem chia sẻ công thức nấu ăn ngon hơn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

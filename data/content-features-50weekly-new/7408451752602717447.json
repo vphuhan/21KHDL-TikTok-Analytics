@@ -1,0 +1,71 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu hai viên kẹo có in hình, khơi gợi sự tò mò.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hình dạng và hương vị của kẹo."
+    },
+    {
+      "step": "Nhận xét hình ảnh",
+      "desc": "Nhận xét về hình ảnh in trên kẹo, tạo sự thích thú.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với hình ảnh cá nhân trên kẹo."
+    },
+    {
+      "step": "Thông tin sản phẩm",
+      "desc": "Thông tin về thành phần và đặc điểm của viên kẹo.",
+      "impact_level": "1",
+      "viewer_emotion": "Hiểu rõ hơn về sản phẩm."
+    },
+    {
+      "step": "Thử nghiệm sản phẩm",
+      "desc": "Mẹ thử ăn kẹo và mô tả hương vị, cảm nhận.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị thực tế của kẹo."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá chi tiết về hương vị và nhân của kẹo.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm nhận được hương vị thơm ngon của kẹo."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "hay quá"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cái viên này á thực chất nó là đường á các con. Nó giống như kẹo bông gòn vậy bỏ vô nước cái nó tan ra hết trơn luôn à.",
+    "Nó có nhân ở trong luôn, mà nó thơm mùi trái cây dữ lắm cái nhân này là trái cây nha.",
+    "Nó vị dâu các con ơi."
+  ],
+  "hook_content": "Lần đầu mẹ thử.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video ghi lại cảnh mẹ thử một loại kẹo in hình ảnh cá nhân, sau đó chia sẻ cảm nhận về hương vị và thành phần của kẹo.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

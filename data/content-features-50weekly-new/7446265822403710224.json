@@ -1,0 +1,81 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món lạp xưởng chiên nước đá và sự hấp dẫn của nó.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Chia sẻ trải nghiệm",
+      "desc": "Chia sẻ lý do thử nghiệm chiên lạp xưởng bằng nước đá.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự sáng tạo."
+    },
+    {
+      "step": "Giới thiệu các loại lạp xưởng",
+      "desc": "Giới thiệu các loại lạp xưởng khác nhau của nhà làm.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết thêm thông tin về sản phẩm."
+    },
+    {
+      "step": "Hướng dẫn bảo quản",
+      "desc": "Hướng dẫn cách bảo quản lạp xưởng tươi để giữ được độ ngon.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhớ thông tin hữu ích."
+    },
+    {
+      "step": "Đánh giá thành phẩm",
+      "desc": "Đánh giá thành phẩm lạp xưởng chiên nước đá và so sánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử món ăn ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Từ đây tới Tết mà cả nhà có dùng lạp xưởng á thì cứ nhắn Hương nha."
+  ],
+  "cta_type": [
+    "Truy cập trang cá nhân",
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "giòn",
+    "căng tròn",
+    "bóng bẩy",
+    "hấp dẫn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "chiên lạp xưởng theo cách này sẽ khiến cho lạp xưởng của mình cục nào cục nấy chắc nụi, ngon, giòn và căng tròn bóng bẩy nữa cả nhà",
+    "Bữa nào cả nhà mình thử áp dụng chiên bằng nước đá đi, Hương bảo đảm á là ngon xuất sắc luôn."
+  ],
+  "hook_content": "Thì ra chiên lạp xưởng theo cách này sẽ khiến cho lạp xưởng của mình cục nào cục nấy chắc nụi, ngon, giòn và căng tròn bóng bẩy nữa cả nhà.",
+  "hook_type": [
+    "Cho thấy kết quả trước",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video giới thiệu món lạp xưởng chiên nước đá, một cách chế biến mới giúp lạp xưởng giòn ngon và ít dầu mỡ hơn. Hương Mê Tây chia sẻ trải nghiệm thực tế và hướng dẫn cách thực hiện món ăn này.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

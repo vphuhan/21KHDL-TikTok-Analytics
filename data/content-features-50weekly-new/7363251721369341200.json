@@ -1,0 +1,77 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu địa điểm",
+      "desc": "Giới thiệu nhà bóng tổng hợp Đăng Phượng với nụ cười từ xa.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về địa điểm được giới thiệu."
+    },
+    {
+      "step": "Mời người lạ",
+      "desc": "Mời những người lạ đang có mặt ở đó cùng ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự tương tác ngẫu nhiên."
+    },
+    {
+      "step": "Điểm danh món ăn",
+      "desc": "Liệt kê các món ăn có tại quán như gà, nem, khoai chiên,...",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, nắm bắt thông tin về món ăn."
+    },
+    {
+      "step": "Giao lưu với học sinh",
+      "desc": "Hỏi tên, lớp, dùng điện thoại gì, học giỏi môn gì.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thú vị khi xem tương tác với các em nhỏ."
+    },
+    {
+      "step": "Thanh toán",
+      "desc": "Tính tiền các món đã gọi, tổng cộng 260.000.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin về giá cả."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nào mà đứa nào chưa follow bỏ máy ra follow đi."
+  ],
+  "cta_type": [
+    "Follow kênh"
+  ],
+  "emotion_keywords": [
+    "nụ cười"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Sao trông con bé này men lèn thế nhở?",
+    "Em có thể bóp nghe cái hàm răng của em ra được không?",
+    "Thật ra tất cả các môn ấy em đều trên 9, trên 10 hết mà."
+  ],
+  "hook_content": "Review ở nhà bóng em chơi Nhà bóng em luôn á Nhà bóng tổng hợp Đăng Phượng của em Nụ cười anh từ xa trời.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video ghi lại trải nghiệm ăn uống của một người tại nhà bóng Đăng Phượng, Hà Nội, cùng với các em học sinh. Nội dung xoay quanh việc review các món ăn vặt và trò chuyện vui vẻ với các em.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

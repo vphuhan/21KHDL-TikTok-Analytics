@@ -1,0 +1,83 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Mô tả món bánh khoai tây que siêu rẻ, dễ làm tại nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách làm món bánh này."
+    },
+    {
+      "step": "Sơ chế khoai tây",
+      "desc": "Hướng dẫn cắt nhỏ và hấp/luộc khoai tây cho chín mềm.",
+      "impact_level": "2",
+      "viewer_emotion": "Lưu ý các bước sơ chế để khoai tây đạt độ mềm."
+    },
+    {
+      "step": "Nghiền và trộn khoai tây",
+      "desc": "Dặn dò nghiền khoai tây khi ráo nước và trộn đều.",
+      "impact_level": "1",
+      "viewer_emotion": "Nắm bắt công đoạn trộn khoai tây."
+    },
+    {
+      "step": "Tạo hình và làm lạnh",
+      "desc": "Hướng dẫn cán dẹt, cắt que và bỏ tủ đông.",
+      "impact_level": "1",
+      "viewer_emotion": "Nắm bắt công đoạn tạo hình bánh."
+    },
+    {
+      "step": "Chiên bánh",
+      "desc": "Nhấn mạnh chiên ngập dầu để bánh giòn rụm.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hơi ngại khi chiên ngập dầu."
+    },
+    {
+      "step": "Hoàn thiện và thưởng thức",
+      "desc": "Chiên bánh vàng giòn và thêm các loại sốt tùy thích.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng món bánh vừa chiên xong."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "siêu rẻ",
+    "giòn rụm",
+    "giòn rột rột"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Món này giống như là khoai tây chiên nhưng mà lại không phải là khoai tây chiên nhưng được làm từ khoai tây.",
+    "Bạn nghe khúc này thấy nó hơi xoắn xoắn không, vậy làm thử món này đi lạ mà ngon lắm.",
+    "Với món này bạn làm nó giòn rụm luôn, giòn rột rột rột luôn á."
+  ],
+  "hook_content": "Chỉ cần bỏ ra 10.000 là bạn làm được 4 dĩa bánh khoai tây que như này, tính ra một dĩa có 2500 à siêu rẻ mà còn ngon nữa.",
+  "hook_type": [
+    "Cho thấy kết quả trước",
+    "Khuyến mãi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món bánh khoai tây que giòn rụm tại nhà chỉ với 10.000 đồng, nhấn mạnh vào độ giòn và dễ làm của món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

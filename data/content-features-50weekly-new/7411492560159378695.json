@@ -1,0 +1,62 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu combo",
+      "desc": "Liệt kê các món ăn mua được với giá 200.000 tại cửa hàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn được chọn."
+    },
+    {
+      "step": "Thưởng thức cà phê",
+      "desc": "Giới thiệu và uống cà phê Laura của ca sĩ Nhật Kim Anh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thích thú với sản phẩm cà phê được giới thiệu."
+    },
+    {
+      "step": "Đánh giá cà phê",
+      "desc": "Nhấn mạnh hương vị và lợi ích sức khỏe của cà phê.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy được thuyết phục về chất lượng cà phê."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "vừa miệng",
+    "ngon hơn",
+    "tăng sức khỏe",
+    "tỉnh táo"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Uống vừa ngon hơn, vừa tăng sức khỏe nữa và tăng độ tỉnh táo khi lái xe.",
+    "Chết cà phê ông anh sánh kẹo làm sao, hương vị đậm đà nức mũi vừa miệng lắm luôn, thật sự ngon lắm luôn nha.",
+    "Lau ra cà phê vừa ngon vừa khỏe, bảo sao nhiều người uống."
+  ],
+  "hook_content": "200.000 mua được gì?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Liệt kê",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu combo các món ăn mua được với giá 200.000 tại cửa hàng tiện lợi và review cà phê Laura của ca sĩ Nhật Kim Anh, nhấn mạnh hương vị và lợi ích sức khỏe.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

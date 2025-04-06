@@ -1,0 +1,93 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Nhắc lại các món gà quen thuộc và giới thiệu món gà hấp chao.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới lạ."
+    },
+    {
+      "step": "Chuẩn bị và ướp gà",
+      "desc": "Chia sẻ cách ướp gà với các nguyên liệu và gia vị.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thông tin hữu ích."
+    },
+    {
+      "step": "Hấp gà",
+      "desc": "Hướng dẫn cách hấp gà và nhấn mạnh việc hấp với hành cuộn.",
+      "impact_level": "1",
+      "viewer_emotion": "Mong chờ kết quả."
+    },
+    {
+      "step": "Giới thiệu đồ uống",
+      "desc": "Quảng cáo cà phê linh chi và đông trùng hạ thảo của Nhật Kim Anh.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không liên quan món ăn."
+    },
+    {
+      "step": "Thưởng thức và đánh giá",
+      "desc": "Nếm thử gà hấp chao và đưa ra nhận xét về hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng, muốn ăn thử."
+    },
+    {
+      "step": "Nhấn mạnh chất lượng",
+      "desc": "Tập trung miêu tả độ chắc thịt và hương vị đặc biệt của gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với món ăn."
+    },
+    {
+      "step": "Lời kêu gọi",
+      "desc": "Khuyến khích thử món ăn và mời mọi người cùng ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy được mời gọi."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon ngọt",
+    "thơm nức",
+    "đậm đà",
+    "sánh kẹo",
+    "béo ngậy",
+    "chắc nùi nụi",
+    "dai ngọt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tôi thấy ít người làm món này quá chừng, nhưng mà là cả tuổi thơ của tôi đó trời.",
+    "Gà mình hấp theo kiểu này là cộng 10 điểm độ thơm, bên ngoài thì đậm đà béo béo, bên trong gà dai ngọt không có bị khô.",
+    "Ai mà đạo chao là phải triển liền món này nhen."
+  ],
+  "hook_content": "Hồi đó giờ ăn muôn vàn món với gà, nào là gà hấp mắm nhĩ, hấp hành, tứ lung tung. Mà có ai thử ăn gà hấp chao chưa ta?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu món gà hấp chao, một món ăn quen thuộc của tuổi thơ, cách chế biến và thưởng thức món ăn này. Đồng thời, video cũng lồng ghép quảng cáo sản phẩm cà phê.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

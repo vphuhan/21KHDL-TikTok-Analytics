@@ -1,0 +1,84 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu ô mai đào tuổi thơ, bất ngờ về số lượng nhiều.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm được giới thiệu."
+    },
+    {
+      "step": "Ngoại hình và cảm quan ban đầu",
+      "desc": "Nhận xét về sự khác biệt so với ô mai đào trước đây.",
+      "impact_level": "2",
+      "viewer_emotion": "Băn khoăn về chất lượng sản phẩm."
+    },
+    {
+      "step": "Kiểm tra chất lượng",
+      "desc": "Phát hiện các vấn đề về vệ sinh và thành phần lạ.",
+      "impact_level": "3",
+      "viewer_emotion": "Ghê sợ, lo lắng về an toàn thực phẩm."
+    },
+    {
+      "step": "Đánh giá tổng quan",
+      "desc": "Khẳng định sản phẩm không phải đồ ăn, cảnh báo người xem.",
+      "impact_level": "3",
+      "viewer_emotion": "Thất vọng và cảnh giác cao độ."
+    },
+    {
+      "step": "Lời khuyên và kết luận",
+      "desc": "Khuyên cẩn thận khi mua online, kết thúc video.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy được cảnh báo và biết ơn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Drama",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bạn nào mà ăn cái gói này thì cẩn thận nhá.",
+    "Cảm ơn mọi người xem video của mình, hẹn mọi video sau. Tạm biệt."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo",
+    "Chia sẻ"
+  ],
+  "emotion_keywords": [
+    "tuổi thơ",
+    "bất ngờ",
+    "không hợp vệ sinh",
+    "quá",
+    "buồn cười",
+    "cẩn thận"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái này có phải đồ ăn không?",
+    "Thật sự là cái này mình nói như kiểu hơi quá nhưng mà cái này nó giống như kiểu là cái đất mà mua về để trồng cây ấy.",
+    "Kiểu mình biết là đồ ăn kiểu có những cái đồ ăn nó sẽ kém chất lượng nó sẽ không được đảm bảo hoặc là thế nào nó không tốt cho sức khỏe, nhưng mà mình không tưởng tượng là là có thể có những đồ ăn mà người ta có thể đóng gói ra và nó ra một cái thành phẩm như thế này mà người ta vẫn đóng gói được."
+  ],
+  "hook_content": "Cái này có phải đồ ăn không?",
+  "hook_type": [
+    "Gây tò mò",
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review một sản phẩm ô mai đào mua online, người nói bày tỏ sự thất vọng và lo lắng khi phát hiện sản phẩm kém chất lượng, không hợp vệ sinh, đồng thời đưa ra lời khuyên cho người xem.",
+  "tone_of_voice": [
+    "Ngạc nhiên",
+    "Chân thành",
+    "Khó chịu"
+  ]
+}

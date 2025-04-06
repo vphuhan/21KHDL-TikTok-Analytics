@@ -1,0 +1,89 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu bằng câu hỏi",
+      "desc": "Đặt câu hỏi về siêu thị giá rẻ nhất ở Hà Nội.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Giới thiệu siêu thị",
+      "desc": "Giới thiệu Thành Đô là siêu thị quốc dân cho sinh viên.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "So sánh giá cả",
+      "desc": "So sánh giá cả ở Thành Đô với các siêu thị khác.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ"
+    },
+    {
+      "step": "Liệt kê sản phẩm",
+      "desc": "Liệt kê các mặt hàng nhu yếu phẩm giá rẻ.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Nhận xét chung",
+      "desc": "Nhận xét giá cả rẻ hơn so với các siêu thị khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng"
+    },
+    {
+      "step": "Chia sẻ trải nghiệm mua sắm",
+      "desc": "Chia sẻ trải nghiệm mua sắm với hơn 100k.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm"
+    },
+    {
+      "step": "Địa điểm",
+      "desc": "Thông tin địa chỉ siêu thị Thành Đô.",
+      "impact_level": "1",
+      "viewer_emotion": "Mong đợi"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mấy anh em sinh viên đã biết hết chưa nhỉ?"
+  ],
+  "cta_type": [
+    "Đặt câu hỏi"
+  ],
+  "emotion_keywords": [
+    "bất ngờ",
+    "rẻ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đây mới là cái tên được mệnh danh là siêu thị quốc dân của mấy bạn sinh viên",
+    "Mua ở ngoài tạp hóa cũng 7 đến 8.000đ rồi. Thế mà ở đây có 4.500đ thôi.",
+    "Phải công nhận ở đây giá rẻ hơn Big C rồi, mà một số thứ thì còn rẻ hơn ở mấy quán tạp hóa bình dân ấy chứ."
+  ],
+  "hook_content": "Đố mọi người biết, ở Hà Nội thì siêu thị nào có giá bán rẻ nhất đấy?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "So sánh",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video giới thiệu siêu thị Thành Đô ở Hà Nội, được mệnh danh là siêu thị quốc dân cho sinh viên với giá cả rẻ hơn so với Big C và các quán tạp hóa khác. Video liệt kê một số mặt hàng và giá cả cụ thể để so sánh.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

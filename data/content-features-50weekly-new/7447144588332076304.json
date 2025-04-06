@@ -1,0 +1,94 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món hột vịt lộn sốt thái độc lạ và hỏi người xem.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Đánh giá ban đầu",
+      "desc": "Nhấn mạnh sự ngon miệng bất ngờ của món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú, muốn thử ngay."
+    },
+    {
+      "step": "Miêu tả thành phần",
+      "desc": "Liệt kê các nguyên liệu ăn kèm như rau răm và xoài.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung rõ hơn về món ăn."
+    },
+    {
+      "step": "Giới thiệu sốt thái",
+      "desc": "Quảng cáo sốt thái nhà làm của anh hai.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến sản phẩm được giới thiệu."
+    },
+    {
+      "step": "Nhấn mạnh hương vị",
+      "desc": "Miêu tả hương vị đậm đà, chua cay của sốt và muối ớt.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng."
+    },
+    {
+      "step": "Trải nghiệm ăn",
+      "desc": "Miêu tả cảm giác ngon miệng khi ăn trứng vịt lộn với sốt.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn được trải nghiệm hương vị."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ai mà muốn mua sốt thái với nước chấm thì qua kiếm anh hai tôi Thái Châu 0808 nhen.",
+    "Giờ thì mời mọi người ăn chung với tôi."
+  ],
+  "cta_type": [
+    "Ăn cùng",
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngon không tưởng",
+    "ngon chấn động",
+    "cực kỳ đậm đà",
+    "chua cay hài hòa",
+    "siêu tiện lợi",
+    "mê",
+    "sánh đặc",
+    "keo lì",
+    "đã"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tưởng không ngon, ai ngờ ngon không tưởng luôn.",
+    "Mấy món sốt thái như vầy là phải ăn kèm với rau răm và xoài nó mới đúng bài nè.",
+    "Ta nói nhìn thấy lạ vậy thôi chứ ăn là ngon chấn động luôn."
+  ],
+  "hook_content": "Hột vịt lộn mà đem đi sốt thái, nghe độc lạ, mọi người đã thử chưa?",
+  "hook_type": [
+    "Gây tò mò",
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món hột vịt lộn sốt thái độc lạ, giới thiệu cách làm và hương vị đặc biệt của món ăn kèm theo lời mời mua sốt thái nhà làm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

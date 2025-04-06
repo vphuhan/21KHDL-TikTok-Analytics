@@ -1,0 +1,78 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu hộp mì tương đen khổng lồ và giá tiền.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về kích thước và giá cả."
+    },
+    {
+      "step": "Thông tin sản phẩm",
+      "desc": "Đề cập đến trọng lượng, calo và sự cố vận chuyển.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin cơ bản về sản phẩm."
+    },
+    {
+      "step": "Chuẩn bị mì",
+      "desc": "Cho thấy quá trình trụng mì và trộn gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi đói bụng."
+    },
+    {
+      "step": "Đánh giá ngoại hình",
+      "desc": "Nhận xét về màu sắc và thiếu topping.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy hơi thất vọng."
+    },
+    {
+      "step": "Nếm thử và đánh giá",
+      "desc": "Đánh giá hương vị mì: thơm ngon, đủ vị chua, cay, mặn, ngọt.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm ăn."
+    },
+    {
+      "step": "Tính tiện dụng",
+      "desc": "Nhấn mạnh tính tiện lợi cho nhóm đi picnic.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy sản phẩm phù hợp cho đi chơi."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm ngon",
+    "chất lượng",
+    "hấp dẫn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "mì nó ngon ấy, mình ăn mình cứ",
+    "Một nhóm mà đi picnic tầm 4 năm người, chỉ cần mang theo một cái hộp này thôi là mình nghĩ là đủ ăn rồi."
+  ],
+  "hook_content": "Chào mọi người nha. Hôm nay thì mình sẽ ăn một cái hộp mì tương đen khổng lồ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review hộp mì tương đen khổng lồ, đánh giá về giá cả, số lượng, hương vị và tính tiện dụng khi đi picnic.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người ăn chay, ăn healthy",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu chung",
+      "desc": "Giới thiệu quán buffet chay với nhiều món và mức giá hấp dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự đa dạng của món chay."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Nhận xét về sự đa dạng, cách bày trí và hương vị của món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với những món ăn độc đáo."
+    },
+    {
+      "step": "Nhấn mạnh đặc trưng",
+      "desc": "Tập trung vào các món đặc sắc như vịt quay chay và phở bò.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với sự sáng tạo trong ẩm thực chay."
+    },
+    {
+      "step": "Tráng miệng và kết",
+      "desc": "Giới thiệu các món tráng miệng và thông tin về giá cả, địa điểm.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong muốn được trải nghiệm buffet chay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bạn thấy sao về ẩm thực chay của quán này?"
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "đỉnh",
+    "ấn tượng",
+    "ngậy béo"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ăn chay mà mình thấy còn đỉnh hơn cả phiên bản gốc mọi người ạ",
+    "Nước dùng thơm và rất là dậy mùi bò đặc trưng",
+    "ăn cùng với cả một chút cốt dừa ngậy béo là quá chưởng bài"
+  ],
+  "hook_content": "quê chay với quầy live gần 40 món, giá chỉ từ 69 cành thôi, có cả buffet nem nướng rồi cả món vịt quay cực kỳ độc lạ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu quán buffet chay với nhiều món ăn đa dạng, độc đáo như vịt quay chay, nem nướng, và phở bò. Người xem được mời đưa ra ý kiến về ẩm thực chay của quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

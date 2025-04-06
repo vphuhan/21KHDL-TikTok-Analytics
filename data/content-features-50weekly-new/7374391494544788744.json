@@ -1,0 +1,63 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu mở đầu",
+      "desc": "Giới thiệu về việc mua sắm thực phẩm với 500.000 đồng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về những món đồ sẽ được mua."
+    },
+    {
+      "step": "Liệt kê sản phẩm",
+      "desc": "Liệt kê hàng loạt các món ăn vặt đã mua được.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với nhiều món ăn hấp dẫn."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Thông báo đi tính tiền và kết thúc video.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy video kết thúc nhanh chóng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "xem full tại kênh YouTube nhé"
+  ],
+  "cta_type": [
+    "Xem video tiếp theo",
+    "Truy cập trang cá nhân"
+  ],
+  "emotion_keywords": [
+    "cay",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Combo 500k mua được gì tại siêu thị",
+    "500.000 mua được gì?",
+    "đi tính tiền thôi"
+  ],
+  "hook_content": "500.000 mua được gì?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Liệt kê"
+  ],
+  "summarization": "Video mukbang này cho thấy một người mua nhiều loại đồ ăn vặt khác nhau với 500.000 đồng tại siêu thị và liệt kê giá của từng món.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu thử thách",
+      "desc": "Mẹ và con thực hiện thử thách ăn các món màu trắng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị khi xem họ đối mặt với thử thách."
+    },
+    {
+      "step": "Lựa chọn món ăn",
+      "desc": "Hai mẹ con lần lượt chọn các món ăn màu trắng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về những món ăn được chọn."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Hai mẹ con cùng nhau ăn và giới thiệu các món.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi đói bụng và muốn ăn thử."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Khẳng định đã hoàn thành thử thách nhờ sự ủng hộ.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Các bạn bảo màu trắng thì khó lắm, chắc không đủ sáu món đâu.",
+    "Màu trắng khó thế mà mẹ con mình vẫn tìm được.",
+    "Chỉ cần các bạn thích là mẹ con mình sẽ nhích ngay ấy mà."
+  ],
+  "hook_content": "Ối giời ơi mẹ làm gì đấy? Các bạn bảo màu trắng thì khó lắm, chắc không đủ sáu món đâu.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Đối thoại"
+  ],
+  "summarization": "Video ghi lại cảnh hai mẹ con cùng nhau thực hiện thử thách mukbang các món ăn màu trắng, từ oản, đậu hũ đến coca và sữa.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

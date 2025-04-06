@@ -1,0 +1,87 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món hủ tiếu và nguyên liệu nấu món hủ tiếu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về công thức nấu hủ tiếu."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Sơ chế và chuẩn bị các nguyên liệu tươi và khô.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi choáng ngợp vì quá nhiều nguyên liệu."
+    },
+    {
+      "step": "Nấu nước dùng",
+      "desc": "Hướng dẫn cách nấu nước dùng hủ tiếu sao cho thơm ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Mong chờ nước dùng sẽ đậm đà."
+    },
+    {
+      "step": "Luộc topping",
+      "desc": "Luộc các loại topping ăn kèm như gan, tim, trứng cút.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy bình thường, không quá đặc biệt."
+    },
+    {
+      "step": "Giới thiệu trà",
+      "desc": "Giới thiệu và quảng cáo trà gạo lứt đậu đen.",
+      "impact_level": "1",
+      "viewer_emotion": "Không liên quan đến món ăn, hơi hụt hẫng."
+    },
+    {
+      "step": "Chuẩn bị topping",
+      "desc": "Cắt topping và chuẩn bị các thành phần khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức được xem thành phẩm."
+    },
+    {
+      "step": "Hoàn thiện món ăn",
+      "desc": "Trình bày và mời mọi người thưởng thức hủ tiếu.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn được ăn thử ngay lập tức."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Cả nhà có nhu cầu sử dụng trà ngũ vị á thì cứ nhắn Hương tư vấn nha."
+  ],
+  "cta_type": [
+    "Truy cập trang cá nhân"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "ưa chuộng",
+    "xuất sắc",
+    "chất lượng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cách nấu hủ tiếu ngon như ở ngoài tiệm.",
+    "Nhìn cục xíu quách ngon hú hồn chưa?",
+    "Nhà Hương thì thích ăn hủ tiếu loại sợi nhỏ như vậy nè, loại này á thì rất là dai ăn không có bị ngán."
+  ],
+  "hook_content": "Cách nấu hủ tiếu ngon như ở ngoài tiệm.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách nấu món hủ tiếu ngon như ngoài tiệm với đầy đủ các nguyên liệu và topping hấp dẫn, đồng thời giới thiệu thêm về trà gạo lứt đậu đen có lợi cho sức khỏe.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

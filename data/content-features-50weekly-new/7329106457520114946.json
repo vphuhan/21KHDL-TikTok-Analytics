@@ -1,0 +1,91 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món kim chi tự làm và lợi ích so với mua.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với ý tưởng tự làm kim chi."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Hướng dẫn sơ chế cải thảo và các nguyên liệu khác.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy quá trình chuẩn bị đơn giản."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu gói sốt muối kim chi làm sẵn tiện lợi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về gói sốt làm sẵn."
+    },
+    {
+      "step": "Ướp và trộn",
+      "desc": "Hướng dẫn trộn nguyên liệu với sốt và ướp cải thảo.",
+      "impact_level": "1",
+      "viewer_emotion": "Hình dung quy trình trộn ướp dễ dàng."
+    },
+    {
+      "step": "Ủ kim chi",
+      "desc": "Hướng dẫn thời gian ủ kim chi và bảo quản.",
+      "impact_level": "1",
+      "viewer_emotion": "Nắm được thời gian ủ và bảo quản."
+    },
+    {
+      "step": "Thành phẩm",
+      "desc": "Giới thiệu thành phẩm kim chi sau khi ủ.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi màu sắc và độ giòn."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Gợi ý cách ăn kim chi ngon và mời làm theo.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn ăn thử ngay lập tức."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Có gì Tết thì mấy bà làm thử nghe."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "thơm phức",
+    "đỏ au",
+    "giòn",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mấy bà biết kim chi dễ làm tới vậy á, chắc từ giờ là tự làm ăn luôn quá, khỏi có mua ở ngoài nữa",
+    "Giờ á là người ta có luôn cái gói sốt muối kim chi này nè, người ta pha sẵn nêm nếm sẵn cho mình hết luôn, chỉ cần mua về cắt đổ ra là xài thôi đó mấy bà.",
+    "Kim Chi này ha, Tết mà mấy bà ăn với thịt nướng hay là nấu canh kim chi thì cực kỳ ngon luôn."
+  ],
+  "hook_content": "Mấy bà biết kim chi dễ làm tới vậy á, chắc từ giờ là tự làm ăn luôn quá, khỏi có mua ở ngoài nữa, nên Tết này có gì làm kim chi ăn đi mấy bà ơi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm kim chi đơn giản tại nhà bằng gói sốt muối kim chi làm sẵn, phù hợp cho dịp Tết, giúp người xem dễ dàng tự làm món ăn ngon và tiết kiệm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

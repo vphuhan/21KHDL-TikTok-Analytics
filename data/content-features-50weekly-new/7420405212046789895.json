@@ -1,0 +1,80 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Người bán giới thiệu món ăn mới lạ và cách nhận biết.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Miêu tả món ăn",
+      "desc": "Miêu tả hình dạng, giá cả và cảm nhận ban đầu về món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi ghê sợ"
+    },
+    {
+      "step": "Sơ chế",
+      "desc": "Chà rửa và luộc món ăn để đảm bảo vệ sinh an toàn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu và quảng cáo hộp xông trầm hương mới mua.",
+      "impact_level": "1",
+      "viewer_emotion": "Ít liên quan"
+    },
+    {
+      "step": "Nếm thử",
+      "desc": "Nếm thử món ăn và so sánh hương vị với món khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Đánh giá món ăn ngon, ngọt nhưng quá ít.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi thất vọng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngọt",
+    "ngon",
+    "ớn",
+    "dễ chịu"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nó cứ ngoen nguẩy thò ra thò vô y chang như là một cái móng vuốt vậy đó.",
+    "Ta nói nhìn nớn ốc da gà da vịt gì nó nổi lên cục cục.",
+    "Đúng y như là cái câu nói ăn không đủ nhét kẽ răng."
+  ],
+  "hook_content": "Mấy xem đoạn đầu thì mọi người có biết là mình đang ăn cái gì không?",
+  "hook_type": [
+    "Gây tò mò",
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món ăn mới lạ mua ở chợ hải sản, có hình dạng kỳ lạ và được miêu tả là ngọt hơn hào. Sau khi luộc và ăn thử, người này thấy món ăn ngon nhưng quá ít.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

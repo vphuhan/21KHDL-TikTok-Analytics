@@ -1,0 +1,91 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món gà nướng và lý do thực hiện video.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món gà nướng."
+    },
+    {
+      "step": "Sơ chế và ướp gà",
+      "desc": "Lau khô gà và ướp với sốt mua sẵn trong 30 phút.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, mang tính hướng dẫn."
+    },
+    {
+      "step": "Làm sốt chấm",
+      "desc": "Hướng dẫn làm sốt chấm với các nguyên liệu dễ tìm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú vì công thức đơn giản."
+    },
+    {
+      "step": "Nướng gà",
+      "desc": "Nướng gà ở 190 độ trong 35 phút, lồng tiếng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, hồi hộp chờ đợi."
+    },
+    {
+      "step": "Đánh giá gà nướng",
+      "desc": "Miêu tả hương vị, độ giòn của gà và sốt chấm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng, muốn thử."
+    },
+    {
+      "step": "Cách ăn gà đặc biệt",
+      "desc": "Chia sẻ cách ăn gà riêng da, thịt và chấm sốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách ăn độc đáo."
+    },
+    {
+      "step": "Lưu ý khi nướng gà",
+      "desc": "Nhắc nhở thời gian nướng tùy thuộc kích cỡ gà.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy hữu ích."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ở đây có ai đam mê ăn gà nướng giống như mình không ta?"
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Đặt câu hỏi"
+  ],
+  "emotion_keywords": [
+    "thèm",
+    "thơm",
+    "ngon",
+    "chua chua",
+    "cay cay",
+    "mặn ngọt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nhìn cái chén chấm là nhức cái nách rồi nha.",
+    "Tí nữa cái da gà cái mình cuộn lại cái mình chấm mình ăn riêng. Tại không hiểu sao mỗi lần ăn cái kiểu đó thì mình lại thấy ngon hơn."
+  ],
+  "hook_content": "Khi mọi người! Ta nói đi đến mà ăn gà nướng là số dách luôn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn cách làm món gà nướng tại nhà với sốt chấm đặc biệt, chia sẻ bí quyết để gà chín đều và thơm ngon, cũng như cách thưởng thức gà nướng độc đáo.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

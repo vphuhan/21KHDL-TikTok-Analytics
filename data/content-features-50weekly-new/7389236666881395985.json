@@ -1,0 +1,90 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu về thời tiết mưa và việc đặt trứng gà vữa.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Thông tin sản phẩm",
+      "desc": "Thông tin chi tiết về số lượng và giá của trứng gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị về số lượng trứng."
+    },
+    {
+      "step": "Chuẩn bị",
+      "desc": "Luộc trứng và chia sẻ số lượng trứng sẽ luộc.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin cơ bản."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Nhận xét về việc lột vỏ trứng và so sánh với trứng vịt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị về độ khó khi lột vỏ."
+    },
+    {
+      "step": "Trải nghiệm",
+      "desc": "Thưởng thức trứng gà vữa với muối tiêu và vòng trầm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của trứng gà vữa."
+    },
+    {
+      "step": "So sánh",
+      "desc": "So sánh trứng gà vữa đặt và nước, đánh giá độ ngán.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị về sự khác biệt giữa các loại."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Đề cập đến vòng tay và khuyến khích liên hệ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, quảng cáo sản phẩm."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Vòng tay mang lên rất là sáng da luôn, nên ai mà có gì á thì nhắn cho chị Thanh Nhàn nha."
+  ],
+  "cta_type": [
+    "Truy cập trang cá nhân"
+  ],
+  "emotion_keywords": [
+    "mừng húm",
+    "béo",
+    "ngán"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trứng gà giữa này ăn cực kỳ béo luôn nha, nhưng mà không biết là ăn nhiều thì nó có sao không nữa.",
+    "Vữa nước hay là vữa đặt ngon hơn, chứ ai mà ăn không quen thì ăn cái này là hơi bị ngán nha.",
+    "Ăn cái giữa đặt này mà không quen thì coi chừng ăn hai cái thôi là ngán ngược luôn rồi đó."
+  ],
+  "hook_content": "Hôm nay mới sáng sớm đầu tuần mà trời mưa tầm tả luôn mọi người ơi, nên thành ra là đứa nào cũng ngồi trong lớp hết trơn á, đâu có đi ra ngoài chơi đâu.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review món trứng gà vữa, so sánh giữa trứng vữa nước và vữa đặc, đồng thời giới thiệu về vòng trầm. Người nói chia sẻ trải nghiệm ăn trứng gà vữa và cảm nhận về chiếc vòng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

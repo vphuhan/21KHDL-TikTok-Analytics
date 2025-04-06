@@ -1,0 +1,94 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Chia sẻ cảm xúc về thời tiết lạnh và thói quen ăn uống.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Giới thiệu nguyên liệu",
+      "desc": "Đi siêu thị mua được chân cua Hoàng Đế giá rẻ.",
+      "impact_level": "3",
+      "viewer_emotion": "Ngạc nhiên"
+    },
+    {
+      "step": "So sánh giá",
+      "desc": "So sánh giá chân cua ở Nhật và Việt Nam.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Giới thiệu vòng trầm",
+      "desc": "Giới thiệu vòng trầm và công dụng của nó.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Mời mọi người ăn chân cua Hoàng Đế hấp.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Miêu tả hương vị và độ tươi ngon của món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Gợi ý cách chế biến",
+      "desc": "Gợi ý các cách chế biến khác cho chân cua.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Còn nếu ai mà cần vòng trầm thì mọi người có việc nhắn qua bên chị Thanh Nhàn ha."
+  ],
+  "cta_type": [
+    "Truy cập trang cá nhân"
+  ],
+  "emotion_keywords": [
+    "sợ",
+    "hên",
+    "tiếc",
+    "khen",
+    "may mắn",
+    "ngon",
+    "ngọt lịm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tuyết rơi thì đẹp thiệt đó nhưng mà đường xá thì lúc nào cũng trơn trượt hết trơn á, sợ dữ lắm.",
+    "Bình thường một cụm vậy là tới một măng lặn mà bữa nay chỉ còn 7 cent thôi à.",
+    "Ăn mấy cái món hải sản này thì mọi người nhớ làm một cái chén muối tiêu ớt thiệt là cay."
+  ],
+  "hook_content": "không biết mọi người những lúc trời lạnh thì sẽ thích ăn cái gì ha. Chứ sáng ngày mở mắt ra mà mình gặp cái cảnh này là coi như là muốn quay vô trong nhà lại tiếp rồi đó.",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video chia sẻ về trải nghiệm mua và thưởng thức chân cua Hoàng Đế giá rẻ trong một ngày tuyết rơi. Người nói cũng giới thiệu về vòng trầm và mời mọi người cùng ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng",
+    "Chân thành"
+  ]
+}

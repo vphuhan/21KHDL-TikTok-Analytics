@@ -1,0 +1,80 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người ăn chay, ăn healthy"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu vấn đề",
+      "desc": "Giới thiệu mục tiêu giảm cân cấp tốc để mặc váy cưới.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về phương pháp giảm cân."
+    },
+    {
+      "step": "Chia sẻ thực đơn",
+      "desc": "Giới thiệu thực đơn giảm cân của IU và lý do lựa chọn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thực đơn có vẻ đơn giản."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu viên sủi Panpe hỗ trợ kiểm soát cơn đói.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến công dụng của viên sủi."
+    },
+    {
+      "step": "Trải nghiệm ngày đầu",
+      "desc": "Chia sẻ trải nghiệm ngày đầu dùng viên sủi và kết quả.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào hiệu quả của sản phẩm."
+    },
+    {
+      "step": "Biến tấu thực đơn",
+      "desc": "Thay thế protein bằng sữa và ăn thêm dưa chuột.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy sự linh hoạt trong thực đơn."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Đi ngủ và mong chờ kết quả giảm cân vào sáng mai.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về kết quả cuối cùng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thèm ăn",
+    "đói",
+    "yên tâm",
+    "hiệu quả"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "giảm 3 cân chỉ trong 3 ngày",
+    "dùng viên sủi này á, từ sáng đến giờ mới ăn có một quả táo với hai củ khoai lang mà không cảm thấy đói gì luôn",
+    "hạn chế tích tụ mỡ sau mỗi bữa ăn"
+  ],
+  "hook_content": "Thử thách giảm 3 cân chỉ trong 3 ngày theo thực đơn của Sao Hàn.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ về thử thách giảm 3 cân trong 3 ngày theo thực đơn của IU, đồng thời giới thiệu viên sủi Panpe hỗ trợ kiểm soát cơn đói và chia sẻ trải nghiệm sử dụng sản phẩm trong ngày đầu tiên.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

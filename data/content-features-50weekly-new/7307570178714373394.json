@@ -1,0 +1,75 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Sơ chế ức gà",
+      "desc": "Cắt ức gà thành thanh dài, ướp gia vị và bột mì.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách tẩm ướp."
+    },
+    {
+      "step": "Pha bột ướt",
+      "desc": "Trộn trứng gà, nước, bột mì và muối.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, công đoạn quen thuộc."
+    },
+    {
+      "step": "Nhúng bột và rán gà",
+      "desc": "Nhúng gà qua bột ướt, bột khô và rán hai lần.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức chờ đợi món gà rán."
+    },
+    {
+      "step": "Làm sốt phô mai",
+      "desc": "Xào bơ, sữa tươi, phô mai, đường và muối.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng hương vị phô mai."
+    },
+    {
+      "step": "Hoàn thiện",
+      "desc": "Nhúng gà rán vào sốt phô mai.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy hấp dẫn và muốn thử ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Gen Z",
+    "Sáng tạo",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "giòn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "gà rán phủ thêm sốt phô mai nữa, ăn nó cũng không kém cạnh ngoài tiệm đâu nha",
+    "massage đều để mà tạo ra những cái vân bột như thế này nha",
+    "Sốt phô mai thì mọi người xào thơm bơ, sau đó mọi người cho sữa tươi, phô mai, đường và một tí xíu muối vào đây"
+  ],
+  "hook_content": "gà rán phủ thêm sốt phô mai nữa, ăn nó cũng không kém cạnh ngoài tiệm đâu nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm gà rán sốt phô mai tại nhà với các bước chi tiết từ sơ chế, tẩm ướp đến rán gà và làm sốt phô mai, thành phẩm không thua kém ngoài tiệm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

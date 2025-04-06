@@ -1,0 +1,94 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Tìm được quán Hàn Quốc đáng yêu, không gian và cảm giác như ở Hàn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với không gian quán"
+    },
+    {
+      "step": "Menu và giá cả",
+      "desc": "Menu đa dạng món Hàn truyền thống, giá cả phải chăng dưới 100k.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với giá cả hợp lý"
+    },
+    {
+      "step": "Review bạch tuộc xào cay",
+      "desc": "Bạch tuộc tươi ngon, dai giòn, sốt đậm đà và cay vừa.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn thử ngay món bạch tuộc"
+    },
+    {
+      "step": "Review tokbokki",
+      "desc": "Tokbokki chuẩn vị, ngập tràn hải sản, thêm phô mai béo thơm.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm món tokbokki"
+    },
+    {
+      "step": "Review gà rán sốt kem hành",
+      "desc": "Gà rán giòn, thịt mềm, sốt kem hành lạ miệng, chua ngọt.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ và tò mò về món gà"
+    },
+    {
+      "step": "Review trứng lốc xoáy",
+      "desc": "Trứng lốc xoáy lòng đào, cơm trộn ham rau củ sốt cà chua.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy món ăn hấp dẫn"
+    },
+    {
+      "step": "Review chả cá",
+      "desc": "Chả cá tự làm, cuốn tay, có vị ham và lá mè.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn thử chả cá lá mè"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Táp ngay nhóm bạn vào đi ăn đi nè."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "đáng yêu",
+    "ngon",
+    "dễ thương",
+    "ngon xỉu",
+    "chuẩn vị",
+    "ấm bụng",
+    "ok la"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tôi vừa tìm được chiếc quán Hàn Quốc đáng yêu này, vừa ngồi nhâm nhi rượu gạo, vừa ăn đồ ăn ngon, cảm giác y như đang bên Hàn vậy á.",
+    "Bạch tuộc tươi, cắn vào dai giòn, xào với lại giá đỗ, dưa leo, sốt đậm đà và cay vừa, ăn rất là cuốn.",
+    "Thật sự là không mong đợi nhiều, nhưng mà món gà rán sốt kem hành này á, quán làm tôi bất ngờ quá đi."
+  ],
+  "hook_content": "Tôi vừa tìm được chiếc quán Hàn Quốc đáng yêu này, vừa ngồi nhâm nhi rượu gạo, vừa ăn đồ ăn ngon, cảm giác y như đang bên Hàn vậy á.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review một quán ăn Hàn Quốc xinh xắn ở Sài Gòn với các món ăn truyền thống giá cả phải chăng. Người nói đặc biệt đánh giá cao các món bạch tuộc xào cay, tokbokki và gà rán sốt kem hành.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

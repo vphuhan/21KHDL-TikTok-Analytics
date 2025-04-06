@@ -1,0 +1,96 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người đi làm, dân văn phòng"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Chia sẻ về lời khuyên của thầy giáo về việc làm ở Nhật.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quyết định của bạn."
+    },
+    {
+      "step": "Chia sẻ",
+      "desc": "Nói về những khó khăn và mệt mỏi khi sống ở Nhật.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm với những khó khăn."
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món mỡ luộc mua từ siêu thị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy lạ và tò mò về món ăn."
+    },
+    {
+      "step": "Luộc mỡ",
+      "desc": "Mô tả quá trình luộc mỡ và cách nhận biết mỡ chín.",
+      "impact_level": "1",
+      "viewer_emotion": "Quan sát quá trình chế biến."
+    },
+    {
+      "step": "Giới thiệu vận chuyển",
+      "desc": "Giới thiệu dịch vụ vận chuyển Giáp Lê mà gia đình hay dùng.",
+      "impact_level": "1",
+      "viewer_emotion": "Không cảm xúc, quảng cáo."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Trải nghiệm ăn mỡ luộc và miêu tả cảm giác.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Khuyến khích thử món mỡ luộc và lo lắng về sức khỏe.",
+      "impact_level": "2",
+      "viewer_emotion": "Cân nhắc về việc thử món ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z",
+    "Sáng tạo"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "mệt mỏi",
+    "yếu",
+    "ngon",
+    "hấp dẫn",
+    "siêu cay",
+    "tan ngay lập tức",
+    "dai",
+    "sần sệt",
+    "béo",
+    "rùng mình",
+    "dính",
+    "ngán",
+    "ok"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "vừa mới cắn vào thôi mình cảm giác được cái mỡ nó tan ngay lập tức trong miệng",
+    "ăn vào thì mình cảm nhận nó có một cái độ dai sần sệt, nhưng mà ăn chưa tới đâu thì nó tan trong miệng sệt sần sần",
+    "Ai mà chưa ăn thử cái món này thì mình nên nghĩ là trải nghiệm liền đi nha, một là ngon hai là ngán."
+  ],
+  "hook_content": "Hôm trước khi thầy chủ nhiệm hỏi mình là sao không tìm và lo chọn công ty đi, thì mình mới trả lời là chắc học xong thì mình sẽ đi về nước.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ về quyết định ở lại Nhật làm việc hay về nước của bạn, cùng với trải nghiệm ăn món mỡ luộc và giới thiệu dịch vụ vận chuyển. Bạn khuyến khích mọi người nên thử món mỡ luộc.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

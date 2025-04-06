@@ -1,0 +1,84 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món chân gà và cách ăn kèm với muối hảo hảo.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của món ăn."
+    },
+    {
+      "step": "Thưởng thức chân gà rút xương",
+      "desc": "Ăn và đánh giá chân gà rút xương với muối hảo hảo chanh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món chân gà."
+    },
+    {
+      "step": "Thưởng thức chân gà cay",
+      "desc": "Ăn và nhận xét chân gà rút xương cay, thêm muối.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi lo lắng vì cho quá nhiều muối."
+    },
+    {
+      "step": "Thưởng thức chân gà X2",
+      "desc": "Ăn chân gà X2 và đưa ra nhận xét hài hước.",
+      "impact_level": "2",
+      "viewer_emotion": "Buồn cười với lời thoại hài hước."
+    },
+    {
+      "step": "Đánh giá số lượng",
+      "desc": "Chia sẻ về số lượng chân gà đã ăn và cảm giác no.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    },
+    {
+      "step": "Nhận xét chân gà mập",
+      "desc": "Ăn chân gà mập và nhận xét về độ ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn với miếng chân gà mập."
+    },
+    {
+      "step": "Đánh giá sản phẩm",
+      "desc": "Đánh giá chân gà Annarala và cam kết về chất lượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng sản phẩm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thèm",
+    "cay",
+    "no",
+    "đã"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Chân gà này mà chấm với muối hảo hảo vắt chanh ấy ăn nó lên một tầm cao mới luôn mọi người ạ, nó ngon hơn hẳn luôn ấy.",
+    "Hình như là bọn gà nó biết là đang ăn chân đồng loại của nó hay sao ấy. Mà từ lúc mình ra đây ngồi ăn nó kêu quát trời luôn."
+  ],
+  "hook_content": "Chào mọi người nha. Lâu lâu không ăn chân gà lại thấy thèm mọi người ạ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review chân gà Annarala ăn kèm muối hảo hảo vắt chanh, với nhiều loại chân gà khác nhau như chân gà rút xương, chân gà cay, chân gà X2. Người review đánh giá chân gà ngon, giá cả hợp lý và đảm bảo chất lượng khi mua trên kênh của mình.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

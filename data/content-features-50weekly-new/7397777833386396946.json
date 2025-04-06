@@ -1,0 +1,86 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Mẹ ngạc nhiên về số lượng xúc xích được mua.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Thông tin về giá và ưu đãi",
+      "desc": "Con giải thích về chương trình khuyến mãi và giá cả.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Đảm bảo chất lượng",
+      "desc": "Con trấn an mẹ về giấy tờ kiểm định sản phẩm.",
+      "impact_level": "1",
+      "viewer_emotion": "Tin tưởng"
+    },
+    {
+      "step": "Trải nghiệm sản phẩm",
+      "desc": "Mẹ bắt đầu ăn xúc xích và mô tả cảm nhận.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng khởi"
+    },
+    {
+      "step": "Gợi ý sử dụng",
+      "desc": "Mẹ gợi ý các cách ăn xúc xích khác nhau.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm"
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Mẹ khen xúc xích ngon, rẻ và có giấy tờ.",
+      "impact_level": "3",
+      "viewer_emotion": "Vui vẻ"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Các con có muốn ăn thì bấm vào góc bên trái mua về cả nhà mình cùng ăn nha."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "đã",
+    "ngon ghê",
+    "quá tuyệt vời",
+    "quá ngon",
+    "rẻ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái cây xúc xích nó nóng na núng nính nè, ngon ghê chưa?",
+    "Quá ngon mà quá rẻ luôn các con ơi, có giấy tờ kiểm định đàng hoàng nha."
+  ],
+  "hook_content": "Lần đầu mẹ thử. Con ơi con, con mua xúc xích nhiêu đây ăn làm sao hết con, mua quá trời luôn vậy.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video ghi lại cảnh mẹ thử xúc xích con mua với số lượng lớn, sau đó mẹ con đã trao đổi về giá cả, chất lượng sản phẩm và cùng nhau thưởng thức, đưa ra cảm nhận tích cực.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

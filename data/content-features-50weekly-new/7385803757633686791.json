@@ -1,0 +1,88 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Đặt câu hỏi về sở thích nhận lương đầu hay cuối tháng.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Kỷ niệm sinh viên",
+      "desc": "Nhớ lại thời sinh viên thường tự làm nui xào bò.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Mô tả món nui xào bò siêu mềm, siêu ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Hướng dẫn sơ chế nui, thịt bò và các loại rau.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Ướp thịt bò",
+      "desc": "Chia sẻ công thức ướp thịt bò mềm ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "Xào bò và rau",
+      "desc": "Hướng dẫn xào bò tái và xào rau củ.",
+      "impact_level": "2",
+      "viewer_emotion": "Đợi chờ"
+    },
+    {
+      "step": "Xào nui và trộn",
+      "desc": "Xào nui với tỏi và trộn với bò, rau.",
+      "impact_level": "3",
+      "viewer_emotion": "Hào hứng"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "mềm",
+    "ngon",
+    "vui"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Thường tôi lãnh lương cuối tháng á mà hồi xưa tôi còn làm sinh viên á nha tôi ăn sang lắm mấy bà ơi.",
+    "Món này quan trọng là cái phần thịt bò mềm, cái phần sốt ngon là ok la.",
+    "Rau của mấy bà thì nó sẽ chín giòn giòn ăn nó ngon ơi là ngon."
+  ],
+  "hook_content": "không biết là mấy bà thích lãnh lương cuối tháng hay lãnh lương đầu tháng ta.",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ công thức làm nui xào bò mềm ngon tại nhà, gợi nhớ kỷ niệm thời sinh viên và hướng dẫn chi tiết cách chế biến, từ sơ chế nguyên liệu đến xào nấu.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

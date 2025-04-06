@@ -1,0 +1,71 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu lạp xưởng Khởi Bách Hưng, lượt bán và đánh giá.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm"
+    },
+    {
+      "step": "Trải nghiệm sản phẩm",
+      "desc": "Mẹ thử lạp xưởng với cơm trắng và đưa ra cảm nhận.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Nhấn mạnh độ nạc, hương vị và so sánh với loại khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng"
+    },
+    {
+      "step": "Khẳng định chất lượng",
+      "desc": "Khẳng định lạp xưởng ngon và giá cả hợp lý.",
+      "impact_level": "3",
+      "viewer_emotion": "Hấp dẫn"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm phức",
+    "ngon",
+    "tuyệt vời",
+    "siêu nạc",
+    "vừa ăn",
+    "ngọt",
+    "hấp dẫn",
+    "ngon khó cưỡng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Lạp xưởng này nè nó rất là ngon, nó ngon hơn các loại lạp xưởng mà mẹ từng ăn luôn á.",
+    "Nó ngon khó cưỡng.",
+    "150.000 mà hai gói như vậy là quá rẻ luôn á con."
+  ],
+  "hook_content": "bằng ba ngón tay mẹ chụm lại luôn á con. 150.000 mà hai gói như vậy là quá rẻ luôn á con.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review lạp xưởng Khởi Bách Hưng, mẹ của người quay trực tiếp ăn thử và đánh giá là ngon, siêu nạc, hương vị vừa ăn và giá cả hợp lý so với chất lượng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

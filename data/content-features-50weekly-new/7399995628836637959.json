@@ -1,0 +1,83 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu bánh trung thu không nhân, chỉ có vỏ bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm độc đáo này."
+    },
+    {
+      "step": "Đánh giá hình thức",
+      "desc": "Nhận xét về bao bì và hình thức bên ngoài của bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy ấn tượng với vẻ ngoài đẹp mắt."
+    },
+    {
+      "step": "Trải nghiệm sản phẩm",
+      "desc": "Mô tả cảm giác khi ăn vỏ bánh trung thu không nhân.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung được hương vị và kết cấu của bánh."
+    },
+    {
+      "step": "So sánh với bánh thường",
+      "desc": "So sánh vỏ bánh không nhân với vỏ bánh có nhân.",
+      "impact_level": "2",
+      "viewer_emotion": "Hiểu rõ hơn về sự khác biệt giữa hai loại."
+    },
+    {
+      "step": "Nhận xét về đối tượng",
+      "desc": "Xác định đối tượng phù hợp với loại bánh này.",
+      "impact_level": "1",
+      "viewer_emotion": "Xác định xem mình có phù hợp với sản phẩm."
+    },
+    {
+      "step": "Đánh giá độ ngon",
+      "desc": "Đánh giá hương vị của vỏ bánh không nhân.",
+      "impact_level": "2",
+      "viewer_emotion": "Cân nhắc về hương vị trước khi quyết định mua."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "độc lạ",
+    "yêu",
+    "đẹp",
+    "mềm mềm dẻo dẻo",
+    "hơi cứng nhẹ",
+    "khô hơn",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Độc lạ với chiếc bánh trung thu không nhân dành cho team chỉ thích ăn vỏ bánh trung thu.",
+    "Vì không có cái nhân nên nó đâu có tươm mật ra đâu, đâu có tươm dầu các kiểu đâu mọi người nên cái vỏ bánh của nó sẽ kiểu mềm mềm dẻo dẻo nhưng mà nó hơi cứng nhẹ nha mấy bà ơi.",
+    "Một hộp bốn cái là đều là vỏ bánh trung thu hết nha ta nói nha đứa nào mà thích ăn vỏ bánh trung thu là cái này là dành cho những đứa đó luôn."
+  ],
+  "hook_content": "Độc lạ với chiếc bánh trung thu không nhân dành cho team chỉ thích ăn vỏ bánh trung thu.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video giới thiệu và đánh giá bánh trung thu không nhân, chỉ có vỏ bánh, dành cho những người thích ăn vỏ bánh. Người nói chia sẻ cảm nhận về hình thức, kết cấu và hương vị của bánh, đồng thời so sánh với bánh trung thu thông thường.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

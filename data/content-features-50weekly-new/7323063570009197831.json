@@ -1,0 +1,82 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món chả giò tôm thịt làm bằng đậu hũ ky.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Hướng dẫn ướp thịt",
+      "desc": "Hướng dẫn cách ướp thịt để làm nhân chả giò.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú với công thức."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê các nguyên liệu cần thiết và định lượng.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy hữu ích."
+    },
+    {
+      "step": "Hướng dẫn gói chả giò",
+      "desc": "Hướng dẫn cách cắt đậu hũ ky và gói chả giò.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến kỹ thuật gói."
+    },
+    {
+      "step": "Chiên chả giò",
+      "desc": "Hướng dẫn chiên chả giò sao cho giòn và ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng khi thấy món ăn."
+    },
+    {
+      "step": "Chiên lại lần 2",
+      "desc": "Hướng dẫn chiên lại lần 2 cho chả giò thêm giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong muốn thử món ăn."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "giòn",
+    "sần sật",
+    "dai dai",
+    "ngon hết sẩy"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Tao đảm mấy bà cắn một cái, ở đang ở Quận 6 mà Nam Kỳ Lục Tỉnh đều nghe cái tiếng giòn rộm rộp đó luôn.",
+    "Cái thịt bên trong nó sần sật nó dai dai nữa rất là ngon.",
+    "Chấm với lại sốt mayonnaise nè với lại tương chua ngọt nữa là ngon hết sẩy con bà Bảy."
+  ],
+  "hook_content": "Tết này mấy bà đừng có đi mua cái chả giò gói sẵn ở ngoài siêu thị nữa, thử làm cái chả giò tôm thịt mà cuộn cái vỏ ngoài bằng đậu hũ ky đi.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món chả giò tôm thịt với vỏ đậu hũ ky giòn rụm, chia sẻ công thức ướp thịt và kỹ thuật chiên để đạt độ giòn ngon hoàn hảo.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

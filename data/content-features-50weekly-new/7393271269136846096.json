@@ -1,0 +1,69 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món bánh",
+      "desc": "Khẳng định bánh bột mì là món bánh ngon nhất và quen thuộc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món bánh được khen ngon nhất."
+    },
+    {
+      "step": "Miêu tả nguyên liệu",
+      "desc": "Nguyên liệu đơn giản, dễ kiếm: mỡ, đường, nước và bột mì.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy món bánh này có vẻ dễ làm."
+    },
+    {
+      "step": "Hướng dẫn cách làm",
+      "desc": "Cách làm tùy theo sở thích: mềm hoặc giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử làm theo để xem có ngon không."
+    },
+    {
+      "step": "Gợi ý thời điểm ăn",
+      "desc": "Ăn ngon nhất vào những ngày mưa mát trời.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm ăn bánh bột mì vào một ngày mưa."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "ngon mê ly",
+    "hết sảy"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đây là món bánh ngon nhất trần đời luôn.",
+    "Mỗi lần mà tôi về nhà là mẹ tôi với mấy đứa em đều đi mua bột mì về để làm.",
+    "Nhất là trời mưa mưa mát mát á, mà ăn thì cứ gọi là hết sảy con bà bảy luôn."
+  ],
+  "hook_content": "Đây là món bánh ngon nhất trần đời luôn.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu món bánh bột mì đơn giản, dễ làm với nguyên liệu dễ kiếm, đặc biệt ngon khi ăn vào những ngày mưa mát trời. Người nói chia sẻ trải nghiệm cá nhân và gợi ý cách làm bánh tùy theo sở thích.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

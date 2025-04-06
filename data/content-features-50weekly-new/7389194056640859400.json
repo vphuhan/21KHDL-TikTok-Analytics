@@ -1,0 +1,114 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu sashimi Hàn Quốc và các loại hải sản tươi sống.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn và cách chế biến."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu và uống thử viên sủi hỗ trợ giảm cân.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt ấn tượng."
+    },
+    {
+      "step": "Thử món cá hồng đen",
+      "desc": "Ăn và miêu tả hương vị đặc biệt của cá với sốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị với trải nghiệm hương vị mới lạ."
+    },
+    {
+      "step": "Thử rong biển",
+      "desc": "Ăn rong biển chấm với sốt đậu lên men, tỏi và ớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng muốn thử món ăn này."
+    },
+    {
+      "step": "Thử cá với dầu mè",
+      "desc": "Ăn cá chấm với dầu mè để giữ nguyên vị ngọt.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với cách thưởng thức khác biệt."
+    },
+    {
+      "step": "Thử bào ngư",
+      "desc": "Thử bào ngư với nhiều loại sốt khác nhau.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của bào ngư."
+    },
+    {
+      "step": "Thử bạch tuộc, mực",
+      "desc": "Ăn bạch tuộc và mực sống ướp sốt Hàn Quốc.",
+      "impact_level": "3",
+      "viewer_emotion": "Kinh ngạc và thích thú với món ăn."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bạn nào mà biết con này là con gì comment ở bên dưới cho Vàng biết nha."
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "thơm ngon",
+    "ngọt nhẹ",
+    "chua chua",
+    "hấp dẫn",
+    "giòn sần sật",
+    "mặn mặn",
+    "ngon",
+    "cay cay",
+    "mặn mặn",
+    "ngon xỉu",
+    "béo",
+    "tuyệt vời",
+    "hăng hăng",
+    "đắng đắng",
+    "sực sực",
+    "ghiền",
+    "ngọt",
+    "dai",
+    "tanh tanh",
+    "béo",
+    "ám ảnh",
+    "ghê ghê",
+    "đằm thắm",
+    "ngon tuyệt vời",
+    "hết sẩy",
+    "đã"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nó nhớt, nó nhớt nha bạn, nó nhớt. Nhưng mà ngon lắm bạn.",
+    "Cái vị nó ăn vô nó hăng lên mũi mình đó bạn. Xong rồi nó có cái vị đắng đắng. Ăn vậy thì nó sực sực. Nó kỳ lắm bạn. Nhưng mà ăn bị ghiền đó bạn ơi.",
+    "Trời ơi, cái vị hăng nó hăng lên cái lỗ mũi bạn, ghê quá hả."
+  ],
+  "hook_content": "Hôm nay Vàng sẽ ăn sashimi con này nha bạn. Bạn đố bạn con này là con gì nha bạn.",
+  "hook_type": [
+    "Gây tò mò",
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang của Tóc Vàng về món sashimi Hàn Quốc với nhiều loại hải sản tươi sống và các loại sốt đặc trưng. Tóc Vàng vừa ăn vừa miêu tả hương vị và cảm xúc khi thưởng thức món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

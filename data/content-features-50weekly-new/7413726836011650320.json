@@ -1,0 +1,91 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu 20 quả trứng vịt lộn và chuẩn bị ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Ăn trứng vịt lộn và nước chấm, khen ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Giới thiệu đồ uống",
+      "desc": "Uống cà phê Laura Coffee của Nhật Kim Anh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Đánh giá sản phẩm",
+      "desc": "Khen cà phê ngon, tốt cho sức khỏe, pha đậm đà.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Kết thúc thử thách",
+      "desc": "Thừa nhận không ăn hết 20 quả, chỉ ăn 15.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Nhận xét chung",
+      "desc": "Nhấn mạnh lại món ăn ngon và phê.",
+      "impact_level": "2",
+      "viewer_emotion": "Hài lòng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Anh em nào mà hay uống cà phê buổi sáng thì nên mua cái loại cà phê này.",
+    "Chuyển uống cà phê này đi, mình nói thiệt."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngon quá",
+    "tỉnh táo",
+    "vừa ngon vừa khỏe",
+    "uy tín",
+    "đậm đà",
+    "không hề bị chua",
+    "chín mọng",
+    "tốt cho sức khỏe",
+    "ngon",
+    "phê"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Uống nó rất là tốt cho sức khỏe luôn anh em ơi.",
+    "Anh em pha một ly cà phê ra hả, nó rất là đậm đà, nó sánh kẹo.",
+    "Hôm nay tính thử thách múc bàn thử 20 trái nhưng mà thật sự là không có nổi anh em ơi. 15 trái là mình ráng lắm rồi, cố gắng hết sức rồi anh em ạ."
+  ],
+  "hook_content": "Rồi bóc ra 20 trái trứng hột vịt lộn, tranh thủ ăn cho nó nguội anh em ơi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video là một thử thách mukbang ăn 15 quả trứng vịt lộn và review cà phê Laura Coffee của ca sĩ Nhật Kim Anh, với những đánh giá về hương vị và lợi ích sức khỏe.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

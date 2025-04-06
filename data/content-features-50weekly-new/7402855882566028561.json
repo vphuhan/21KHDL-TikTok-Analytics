@@ -1,0 +1,85 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Đặt câu hỏi về việc ăn món văn hóa phi vật thể.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Đến quán phở bò quen thuộc vì thèm ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Gọi món",
+      "desc": "Gọi món phở yêu thích dù hết bắp và gầu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Miêu tả món ăn",
+      "desc": "Miêu tả hương vị và trải nghiệm ăn phở.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi đói"
+    },
+    {
+      "step": "Thông tin thêm",
+      "desc": "Giới thiệu về quán phở và chủ quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Gọi thêm món",
+      "desc": "Mua thêm một bát phở tái sốt mang về.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Chào tạm biệt và chúc quán luôn phát triển.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thèm",
+    "ngon",
+    "vui",
+    "xúc động",
+    "cảm động"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "ăn ở phở Lan thì cái món gì mà chẳng ngon",
+    "văn hóa phi vật thể là phở đấy",
+    "Chúc chị Lan luôn giữ gìn phong độ và quán nhà mình luôn luôn là trở thành một sân chơi giới trẻ của thủ đô."
+  ],
+  "hook_content": "Em có muốn sáng nay làm một bát văn hóa phi vật thể của nhân loại không?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quán phở bò nổi tiếng, giới thiệu món ăn và không gian quán. Người nói chia sẻ trải nghiệm ăn phở và trò chuyện với chủ quán.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

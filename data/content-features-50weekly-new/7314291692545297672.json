@@ -1,0 +1,80 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Mời mọi người ăn cơm với các loại sốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Nếm thử tương ớt Chin Su",
+      "desc": "Nếm tương ớt Chin Su và đánh giá ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị."
+    },
+    {
+      "step": "Nếm thử sốt Teriyaki",
+      "desc": "Nếm sốt Teriyaki và đánh giá ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú."
+    },
+    {
+      "step": "Nếm thử Mayonnaise",
+      "desc": "Nếm Mayonnaise và mời mọi người.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Trải nghiệm",
+      "desc": "Ăn và tận hưởng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú."
+    },
+    {
+      "step": "Nếm thử tương ớt xanh",
+      "desc": "Nếm tương ớt xanh Ông Chà Và và đánh giá ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Mời và cảm ơn.",
+      "impact_level": "1",
+      "viewer_emotion": "Lịch sự."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "đã"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ngon.",
+    "Đã."
+  ],
+  "hook_content": "Mời cả nhà ăn cơm, sụp sịt được.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang ngắn gọn, người nói mời mọi người ăn cơm và nếm thử các loại sốt khác nhau như tương ớt Chin Su, sốt Teriyaki, Mayonnaise và tương ớt xanh Ông Chà Và, sau đó đánh giá hương vị.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

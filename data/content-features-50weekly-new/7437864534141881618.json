@@ -1,0 +1,86 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bạch tuộc xào cay và ba chỉ bò nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách chế biến."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê các nguyên liệu cần thiết cho món ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc sắc."
+    },
+    {
+      "step": "Nướng ba chỉ bò",
+      "desc": "Bắt đầu nướng ba chỉ bò để ăn kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi đói bụng."
+    },
+    {
+      "step": "Sơ chế rau củ",
+      "desc": "Cắt cà rốt, hành tây, bắp cải và hành baro.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thấy sự chuẩn bị kỹ lưỡng."
+    },
+    {
+      "step": "Xào bạch tuộc",
+      "desc": "Xào các nguyên liệu và nêm nếm gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với công thức xào."
+    },
+    {
+      "step": "Chia sẻ bí quyết",
+      "desc": "Chia sẻ bí quyết để bạch tuộc không bị teo.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Mời mọi người cùng ăn và nhận xét.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn ăn cùng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mời mọi người ăn cơm nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thèm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Món bạch tuộc xào cay này mình ăn chung với thịt luộc hay thịt nướng gì nó cũng ngon hết trơn luôn.",
+    "Bí kiếp nấu ăn không đó vậy mà có mấy bạn hỏi ủa sao mực Hàn Quốc không teo? bình thường. Nấu lâu là nó teo hết trơn à."
+  ],
+  "hook_content": "Hôm nay mình sẽ làm 2 kg bạch tuộc xào cay luôn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm món bạch tuộc xào cay và ba chỉ bò nướng, chia sẻ các bước chuẩn bị nguyên liệu, cách xào bạch tuộc và bí quyết để bạch tuộc không bị teo. Cuối video, người làm mời mọi người cùng thưởng thức món ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

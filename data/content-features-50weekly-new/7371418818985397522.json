@@ -1,0 +1,73 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu hoàn cảnh",
+      "desc": "Chia sẻ về việc gia đình ăn mừng anh trai gia hạn visa.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Giới thiệu hải sản mua ở chợ và các công đoạn chuẩn bị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Nấu nướng",
+      "desc": "Thực hiện nướng sò điệp phô mai và nấu canh ghẹ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Cả gia đình cùng ăn và đánh giá món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng khởi"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mời mọi người ăn chung với cả nhà của bọn mình nha.",
+    "Mọi người thử đi."
+  ],
+  "cta_type": [
+    "Ăn cùng",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "vui vẻ",
+    "cực",
+    "sướng",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Sò điệp nướng với sốt này là bá ngon luôn á, mọi người thử đi.",
+    "Ngồi kề bếp than nướng hải sản ăn như thế này ta nói nó ngon gì đâu luôn á."
+  ],
+  "hook_content": "trước các bạn kia nói ba Tụi Hân nhìn mặt khó gì, chắc là ông anh mình ở chung sẽ không có được thoải mái nhưng mà không có đâu mọi người.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video ghi lại cảnh gia đình làm món sò điệp nướng phô mai sốt cà chua để ăn mừng anh trai được gia hạn visa. Mọi người cùng nhau thưởng thức và đánh giá món ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

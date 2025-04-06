@@ -1,0 +1,97 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món thịt rang cháy cạnh tốn cơm cho sinh viên.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn được giới thiệu."
+    },
+    {
+      "step": "Nấu canh",
+      "desc": "Giới thiệu món canh mùng tơi nấu tép ăn kèm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, món ăn quen thuộc."
+    },
+    {
+      "step": "Trải nghiệm món ăn",
+      "desc": "Thưởng thức thịt rang cháy cạnh và chia sẻ cảm nhận.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng khi nghe mô tả món ăn."
+    },
+    {
+      "step": "Chia sẻ bí quyết",
+      "desc": "Hướng dẫn cách nêm nếm để món ăn ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích vì có thêm thông tin."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Thịt rang cháy cạnh hợp với canh mùng tơi.",
+      "impact_level": "1",
+      "viewer_emotion": "Gật gù đồng ý."
+    },
+    {
+      "step": "Chi phí",
+      "desc": "Tính toán chi phí cho hai món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy rẻ và phù hợp với sinh viên."
+    },
+    {
+      "step": "Lời kết",
+      "desc": "Mời người xem ăn thử và ăn thêm.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy được khuyến khích làm theo."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Thử nhá, ngon và bắt cơm lắm.",
+    "Làm thêm miếng nữa mọi người ơi."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "siêu cấp",
+    "đói",
+    "thơm",
+    "ngon",
+    "mlem mlem",
+    "ngọt ngào",
+    "hao cơm",
+    "bắt cơm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "mình hay có cái tật là nếu như mà ăn hết sạch ở đây rồi, mình sẽ cho cơm vào cái đĩa và mình lấy cái nước thịt mình trộn lên mình lại ăn được tiếp",
+    "Hồi trước mình trộn cơm cho chó ấy mọi người, xong thử miếng ngon quá, nên là mình lại ăn hết luôn đĩa cơm của chó.",
+    "Tôi dám cá là có một số ông giống tôi rồi."
+  ],
+  "hook_content": "sẽ là một món ăn siêu cấp tốn cơm đối với mình mà mình nghĩ là các bạn sinh viên nên biết. Tôi Bình dân, bạn cũng thế.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu món thịt rang cháy cạnh siêu tốn cơm và canh mùng tơi nấu tép, phù hợp cho sinh viên với chi phí rẻ. Người nói chia sẻ trải nghiệm ăn món này và cách nêm nếm để ngon hơn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu sản phẩm chân gà Việt thay thế chân gà Trung",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm thay thế."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Review chân gà Annanala và lý do nên dùng thử",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với thông tin về sản phẩm."
+    },
+    {
+      "step": "Thông tin thêm",
+      "desc": "Nhà máy sản xuất, giấy tờ an toàn và kênh mua hàng",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy yên tâm về chất lượng."
+    },
+    {
+      "step": "Giải thích",
+      "desc": "Hoa hồng cho người review và giá cả sản phẩm",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin minh bạch và rõ ràng."
+    },
+    {
+      "step": "Kêu gọi",
+      "desc": "Hướng dẫn mua hàng và tham khảo thông tin sản phẩm",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn tìm hiểu thêm về sản phẩm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bạn nào mà muốn tham khảo thông tin về sản phẩm thì có thể bấm vào giỏ hàng trong video này nha."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "yên tâm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Chân gà Việt, khẩu vị Việt.",
+    "Khi ăn thì nó không bị quá là béo, quá là dầu mỡ như kiểu chân gà Trung Quốc, cái hương vị đã được điều chỉnh cho nó dịu hơn.",
+    "Giá của nó cũng như vậy thôi. Cái phí hoa hồng mà trả cho mình thì nó cũng như kiểu phí marketing, phí chạy quảng cáo thôi."
+  ],
+  "hook_content": "thích ăn chân gà rút xương, nhưng mà lại không muốn ăn chân gà rút xương của Trung Quốc, có thể là vì không hợp khẩu vị, hoặc vì một cái lý do nào đó.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video giới thiệu chân gà rút xương Annanala của Việt Nam như một sự thay thế cho chân gà Trung Quốc, với hương vị được điều chỉnh phù hợp hơn với khẩu vị người Việt và đảm bảo an toàn vệ sinh thực phẩm. Người bán cũng giải thích về phí hoa hồng và khuyến khích người xem tham khảo sản phẩm qua giỏ hàng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

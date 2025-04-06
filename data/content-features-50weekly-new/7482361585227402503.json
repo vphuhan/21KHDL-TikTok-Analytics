@@ -1,0 +1,80 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu gà Hàn Quốc, nhấn mạnh độ ngon và giá hơi đắt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị và giá cả."
+    },
+    {
+      "step": "Miêu tả cảm quan",
+      "desc": "Miêu tả độ mềm của gà và trải nghiệm ăn trong thời tiết lạnh.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung được trải nghiệm ăn uống."
+    },
+    {
+      "step": "So sánh và liên tưởng",
+      "desc": "So sánh thói quen ăn gà uống bia với ăn gà và 'uống ánh mắt'.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thú vị với cách so sánh hài hước."
+    },
+    {
+      "step": "Đánh giá và cảm xúc",
+      "desc": "Nhấn mạnh sự 'điên cuồng' của món gà và cảm giác no sau khi ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và muốn thử."
+    },
+    {
+      "step": "Kế hoạch tương lai",
+      "desc": "Dự định 'múc băng' tiếp và thực hiện video khác về món gà này.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về video tiếp theo."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Hẹn mọi người ở video múc băng cũng cái gà này, ở video tiếp theo, đúng cái hộp gà này."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "mềm",
+    "đắt",
+    "no"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Gà là thứ mà mình có thể múc băng được cả đời.",
+    "Mình thì ăn gà uống ánh mắt của viewer.",
+    "Món gà này điên quá mà mềm dã man."
+  ],
+  "hook_content": "Gà là thứ mà mình có thể múc băng được cả đời.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món gà Hàn Quốc, tập trung vào hương vị ngon và trải nghiệm ăn độc đáo, dù giá hơi đắt. Người nói bày tỏ sự yêu thích và dự định tiếp tục 'múc băng' món này trong các video sau.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

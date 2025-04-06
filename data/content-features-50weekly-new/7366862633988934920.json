@@ -1,0 +1,53 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu kẹo",
+      "desc": "Giới thiệu các loại kẹo sáp bướm nhỏ với nhiều màu sắc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các loại kẹo."
+    },
+    {
+      "step": "Đánh giá trải nghiệm",
+      "desc": "Đánh giá hương vị và cảm nhận khi ăn kẹo sáp bướm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc sắc."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ok",
+    "đã"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Phải ăn một lúc hai con bướm luôn nó mới đã nè.",
+    "Tại vì cái này nó không có thật cho nên ăn nó cũng chỉ ok thôi chứ không ngon bằng bướm to nha."
+  ],
+  "hook_content": "Review cả thế giới kẹo sáp bướm nhỏ, có bướm màu đỏ, màu xanh, màu vàng, bướm hồng và bướm tím ngắt.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review kẹo sáp bướm nhỏ nhiều màu, đánh giá hương vị chỉ ở mức ok và cần ăn hai con một lúc mới đã.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

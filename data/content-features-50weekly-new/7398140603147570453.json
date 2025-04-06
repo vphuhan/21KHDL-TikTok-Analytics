@@ -1,0 +1,85 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món cá nướng cuốn bánh tráng mắm nêm ngon hết sẩy.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị"
+    },
+    {
+      "step": "Nguyên liệu",
+      "desc": "Không có cá ồ nên thay bằng cá ngừ nhỏ, thêm dầu ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Nướng cá",
+      "desc": "Ướp cá không cho đường, làm nước sốt mắm đường sau.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với mẹo"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Ăn kèm rau muống, bánh tráng gạo miền Trung chuẩn vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Bán bánh tráng và mắm nêm, nhúng nước dẻo dai.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Lời kêu gọi",
+      "desc": "Cá nướng cuốn bánh tráng ăn chỉ có ghiền thôi.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử ngay"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người cứ thử bánh tráng với lại mắm nêm của nhà em đi.",
+    "Mua về để sẵn cuối tuần làm cái món này cho cả nhà ăn là ngon hết chê, ăn được rồi á là lâu lâu cuối tuần cũng có rủ nhau làm cái món này ăn miết cho mà coi."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "hết sẩy",
+    "ngon dã man",
+    "ghiền"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cứ cá hấp cá nướng mà cuốn bánh tráng rau muống và chấm mắm nêm bữa nè tao nói nó ngon hết sẩy.",
+    "Ăn mắm miền Trung á thì phải cuốn với lại bánh tráng gạo miền Trung á thì mới chuẩn bài nha mọi người.",
+    "Cá người nướng hay là cá nục hấp gì đó cuốn bánh tráng nó đều ngon hết, mọi người ăn thì chỉ có ghiền thôi."
+  ],
+  "hook_content": "Cứ cá hấp cá nướng mà cuốn bánh tráng rau muống và chấm mắm nêm bữa nè tao nói nó ngon hết sẩy.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video giới thiệu món cá ngừ nướng cuốn bánh tráng chấm mắm nêm, một đặc sản miền Trung. Người bán tự làm món này và giới thiệu sản phẩm bánh tráng, mắm nêm собственного.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

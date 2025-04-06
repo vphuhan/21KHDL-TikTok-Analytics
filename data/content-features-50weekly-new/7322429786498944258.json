@@ -1,0 +1,87 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Giới thiệu nguyên liệu: sả, gừng, tiêu xanh, ức gà, muối, nước.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách kết hợp các nguyên liệu."
+    },
+    {
+      "step": "Luộc ức gà",
+      "desc": "Luộc ức gà với sả, gừng, tiêu xanh trong 20 phút.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, chờ đợi các bước tiếp theo."
+    },
+    {
+      "step": "Xay gia vị",
+      "desc": "Xay nhuyễn tỏi, hành tím, sả, ớt sừng và tiêu xanh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với công thức gia vị."
+    },
+    {
+      "step": "Xào gia vị",
+      "desc": "Xào thơm gia vị đã xay, thêm nước và nêm nếm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn bởi mùi thơm của gia vị."
+    },
+    {
+      "step": "Xé gà và trộn",
+      "desc": "Xé gà, trộn với hỗn hợp gia vị, bột nghệ, bột ớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ sự kết hợp của các nguyên liệu."
+    },
+    {
+      "step": "Thêm lá chanh và ớt",
+      "desc": "Thêm lá chanh vò nát và ớt vào hỗn hợp gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tưởng tượng hương vị thơm ngon của món ăn."
+    },
+    {
+      "step": "Sấy khô gà",
+      "desc": "Đảo gà trên chảo, sấy khô ở 2 nhiệt độ khác nhau.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức chờ đợi thành phẩm cuối cùng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "yêu cầu nhiều nhất",
+    "dễ làm",
+    "cố gắng lắm rồi",
+    "ấm no"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "làm khô gà lá chanh là biết tới gì rồi đó",
+    "món ăn mình được yêu cầu nhiều nhất đó chính là khô gà lá chanh",
+    "mọi người đã cố gắng lắm rồi cho nên là ai cũng xứng đáng có một cái Tết thật là ấm no đúng không?"
+  ],
+  "hook_content": "đến xuân về thì món ăn mình được yêu cầu nhiều nhất đó chính là khô gà lá chanh.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm khô gà lá chanh tại nhà bằng nồi chiên không dầu, món ăn được yêu thích vào dịp Tết. Người làm chia sẻ công thức chi tiết và gửi lời chúc năm mới đến mọi người.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

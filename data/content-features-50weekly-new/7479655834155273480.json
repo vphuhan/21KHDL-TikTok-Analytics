@@ -1,0 +1,58 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Thức dậy và nhớ về những kỷ niệm thanh xuân tươi đẹp.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Hồi tưởng",
+      "desc": "Hồi tưởng về những ngày tháng tươi đẹp đã qua.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Những âu lo liệu có còn?",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon đỉnh",
+    "ngọt nước"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Bún tôm cà chua ta nói ngon đỉnh … ngọt nước",
+    "đây là món ruột của em nha"
+  ],
+  "hook_content": "Hôm nay ta thức dậy cũng như thường nhật.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Kể chuyện",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video kể về món bún tôm cà chua yêu thích của người nói, kèm theo những hồi tưởng về thanh xuân tươi đẹp.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

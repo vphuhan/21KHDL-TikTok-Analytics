@@ -1,0 +1,93 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món mực hấp hành gừng chấm sốt thái mù tạt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chia sẻ nguyên liệu",
+      "desc": "Giá mực và cách sơ chế, bóp mực với đường.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với mẹo làm giòn mực."
+    },
+    {
+      "step": "Hướng dẫn hấp mực",
+      "desc": "Thời gian hấp mực và lưu ý không cần nêm nếm.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy đơn giản, dễ làm."
+    },
+    {
+      "step": "Pha chế sốt",
+      "desc": "Hướng dẫn làm sốt thái mù tạt chi tiết.",
+      "impact_level": "3",
+      "viewer_emotion": "Hấp dẫn, muốn thử ngay."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Quảng cáo cà phê Nhật Kim Anh.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không liên quan đến món ăn."
+    },
+    {
+      "step": "Trình bày món ăn",
+      "desc": "Mực hấp dẫn sau khi hoàn thành.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Nhận xét về hương vị của món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn ăn thử ngay lập tức."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi nghe."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "giòn",
+    "ngọt",
+    "cay nồng",
+    "đã",
+    "hấp dẫn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mấy em mực này mà lên cái mâm của tôi nhìn cũng hấp dẫn quá chứ bộ.",
+    "Ta nói mực con nào con nấy ú nu, mà hồi nãy tôi có bóp với đường nên ăn siêu giòn ngọt.",
+    "Chấm cùng sốt thái mù tạt, cay nồng lên tới óc nữa là quá xá đã luôn."
+  ],
+  "hook_content": "Nhìn cái con mực ú nứt như vậy mọi người có đoán ra được con mực gì không?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm món mực hấp hành gừng chấm sốt thái mù tạt, chia sẻ mẹo sơ chế mực giòn ngon và quảng cáo thêm sản phẩm cà phê. Món ăn được đánh giá là hấp dẫn, cay nồng và rất đáng thử.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

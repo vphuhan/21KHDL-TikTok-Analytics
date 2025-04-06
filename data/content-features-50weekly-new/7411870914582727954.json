@@ -1,0 +1,50 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món viên hải sản sốt phô mai và mời mọi người",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Chia sẻ về món ăn",
+      "desc": "Chia sẻ đã làm thêm sốt phô mai để chấm cùng",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người xem video của mình.",
+    "Hẹn mọi người video sau."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [],
+  "has_cta": "true",
+  "highlight_phrases": [],
+  "hook_content": "Xin chào mọi người. Hôm nay mình sẽ ăn viên hải sản sốt phô mai.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang ngắn về viên hải sản sốt phô mai, người nói giới thiệu món ăn và mời mọi người cùng thưởng thức.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu Hằng Du Mục đến thăm và dự đoán có điềm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự xuất hiện của khách."
+    },
+    {
+      "step": "Chuẩn bị món ăn",
+      "desc": "Liệt kê các món ăn sẽ nấu để đãi khách.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, giới thiệu món ăn."
+    },
+    {
+      "step": "Giới thiệu về mối quan hệ",
+      "desc": "Giải thích cơ duyên gặp gỡ và ấn tượng ban đầu về khách.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thân thiện, cởi mở."
+    },
+    {
+      "step": "Vào bếp cùng khách",
+      "desc": "Khách đòi phụ bếp nhưng chủ nhà từ chối vì lo lắng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị với tương tác hài hước."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Mời khách tham gia phiên live và cảm ơn.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy trân trọng, lịch sự."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bữa nay Hằng và gia đình ghé thăm Tuấn và có nhã ý mời Tuấn tham gia làm khách mời cho phiên live của Hằng ngày 16 tháng 4 tới."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "dễ thương",
+    "nhẹ nhàng",
+    "từ tốn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đang chuẩn bị nấu nướng quay clip thì Hằng du mục đến thăm, mới vô mà bả tông muốn sập cái cửa là tuấn thấy có điềm rồi nha cả nhà.",
+    "Người ta nói khách tới nhà không gà cũng vịt nên hôm nay tuấn làm một con gà trộn gỏi bắp chuối.",
+    "Hằng ơi con đặt tên đúng rồi đó, Hằng du mục chứ đừng đặt tên là Hằng vào bếp nha."
+  ],
+  "hook_content": "Đang chuẩn bị nấu nướng quay clip thì Hằng du mục đến thăm, mới vô mà bả tông muốn sập cái cửa là tuấn thấy có điềm rồi nha cả nhà.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh Tuấn vào bếp nấu ăn thì Hằng Du Mục đến thăm. Tuấn chuẩn bị nhiều món ăn để đãi khách và chia sẻ về cơ duyên gặp gỡ, đồng thời được mời tham gia phiên live của Hằng.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

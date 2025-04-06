@@ -1,0 +1,73 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bánh",
+      "desc": "Em trai tặng bánh nhân dịp 20/10, giới thiệu dòng bánh mới.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy bánh có vẻ hấp dẫn và tò mò về hương vị."
+    },
+    {
+      "step": "Miêu tả thiết kế",
+      "desc": "Khen bánh có thiết kế xinh xắn, ý nghĩa, muốn mua tặng mẹ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thiết kế bánh đẹp và ý nghĩa."
+    },
+    {
+      "step": "Ăn và miêu tả hương vị",
+      "desc": "Bắt đầu ăn bánh và miêu tả hương vị sôcola, lớp mau sữa chua.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng khi nghe miêu tả bánh ngon."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Nhận xét về sự kết hợp hương vị, khen ngon, tiếc vì số lượng có hạn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy tiếc vì bánh ngon mà số lượng lại có hạn."
+    },
+    {
+      "step": "Chúc mừng",
+      "desc": "Chúc mọi người có ngày 20/10 vui vẻ và ý nghĩa.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thích",
+    "tuyệt vời",
+    "vui vẻ",
+    "ý nghĩa"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Xinh dạ man luôn mấy bà ơi.",
+    "Trời ơi rất là thích kiểu cầm cái thìa và ăn luôn cái bánh kem luôn á.",
+    "Lớp mau sữa chua là béo béo ngậy ngậy và rất là mát nha."
+  ],
+  "hook_content": "Chị ơi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh một cô gái được em trai tặng bánh kem Pema nhân ngày 20/10, sau đó cô ăn và review hương vị, đồng thời khen thiết kế bánh xinh xắn và ý nghĩa. Cô cũng chúc mọi người có một ngày 20/10 vui vẻ.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

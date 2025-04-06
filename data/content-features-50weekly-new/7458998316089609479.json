@@ -1,0 +1,83 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món nem rán siêu to và trà Oolong T Plus.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món nem rán."
+    },
+    {
+      "step": "Trải nghiệm món ăn",
+      "desc": "Ăn nem rán chấm nước mắm và uống trà Oolong.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Miêu tả hương vị của nem rán và trà Oolong.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung được hương vị."
+    },
+    {
+      "step": "Kết hợp món ăn",
+      "desc": "Nhấn mạnh sự phù hợp của trà Oolong với món Tết.",
+      "impact_level": "2",
+      "viewer_emotion": "Gật gù đồng ý."
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Gợi ý trữ trà Oolong để chiêu đãi khách.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người đã xem video của mình, hẹn gặp ở video sau, tạm biệt."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "đã",
+    "sảng khoái",
+    "refreshing",
+    "thơm",
+    "tươi mát",
+    "ngọt tự nhiên"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nó to như kiểu cắn mà nó ngập miệng luôn ấy.",
+    "Đúng chuẩn là Tết nhẹ, dáng slay cùng trà Oolong T Plus mọi người ạ.",
+    "Chữ ngay mỗi vị mấy thùng ở nhà để không chỉ gia đình uống mà còn đem ra chiêu đãi khách đấy nha mọi người ơi."
+  ],
+  "hook_content": "Xin chào mọi người, một trong những món mà không thể thiếu cho mâm cỗ Tết miền Bắc chính là nem rán mọi người ạ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video mukbang món nem rán khổng lồ ăn kèm với trà Oolong T Plus, với các nhận xét về hương vị và gợi ý kết hợp với các món ăn ngày Tết. Video khuyến khích người xem trữ trà để dùng và chiêu đãi khách.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

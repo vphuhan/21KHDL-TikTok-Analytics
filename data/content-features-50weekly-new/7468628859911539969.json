@@ -1,0 +1,102 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món sườn non rim khóm và độ hao cơm của nó.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Giới thiệu bản thân",
+      "desc": "Tự giới thiệu là Bon ở quận 8, công việc nội trợ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Sơ chế sườn",
+      "desc": "Hướng dẫn rửa sạch, trụng sơ sườn và ướp gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "Chuẩn bị khóm",
+      "desc": "Hướng dẫn cắt và nêm nếm khóm để làm nước ram sườn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Chiên sườn",
+      "desc": "Hướng dẫn áo bột và chiên sườn vàng giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Ram sườn",
+      "desc": "Hướng dẫn phi thơm hành tỏi, cho sườn và khóm vào ram.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Hoàn thành",
+      "desc": "Hoàn thành món ăn và mời mọi người cùng ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Đói bụng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Có gì mình lưu lại cái món này, chiều làm liền cho em nha, không ngon là không ăn tiền luôn á.",
+    "Nên nếu chiều nay mà chưa biết ăn cái gì á thì mấy chị tham khảo thử nghe."
+  ],
+  "cta_type": [
+    "Lưu video",
+    "Thử làm theo công thức",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "hao cơm",
+    "ngán",
+    "thơm",
+    "ngon",
+    "chua chua",
+    "mặn mặn",
+    "ngọt ngọt",
+    "cay cay",
+    "siêu đẹp",
+    "cực ngon",
+    "vàng đẹp",
+    "đã",
+    "dễ làm",
+    "chảy nước miếng",
+    "no"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trời ơi nó hao cơm dữ lắm luôn á.",
+    "Không ngon là không ăn tiền luôn á.",
+    "Em nấu cái món này á mà hai vợ chồng em quất hết một lon gạo luôn á mấy chị, ăn no mà thở không nổi luôn mà."
+  ],
+  "hook_content": "Tết xong rồi nay chuyển qua series cơm nhà nhe mấy chị ơi, Nay cơm nhà có món Sườn Ram Thơm",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn chi tiết cách nấu món sườn non rim khóm đơn giản tại nhà, từ khâu chuẩn bị nguyên liệu đến khi hoàn thành món ăn hấp dẫn, hao cơm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

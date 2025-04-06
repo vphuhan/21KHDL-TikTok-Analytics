@@ -1,0 +1,89 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Nâng cấp chân gà sốt nước mắm thành chân gà sốt bơ cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự khác biệt của món ăn."
+    },
+    {
+      "step": "Hướng dẫn sơ chế",
+      "desc": "Hướng dẫn rút xương chân gà hoặc để nguyên nếu lười.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích vì có thể tùy chọn cách làm."
+    },
+    {
+      "step": "Tẩm bột và chiên",
+      "desc": "Tẩm bột khô chiên giòn chân gà đến khi vàng đều.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ thành phẩm giòn rụm."
+    },
+    {
+      "step": "Làm sốt",
+      "desc": "Phi tỏi ớt bằm nhỏ, pha sốt theo công thức.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn bởi mùi thơm của tỏi phi."
+    },
+    {
+      "step": "Nấu sốt bơ",
+      "desc": "Dùng bơ Meizan, nấu sốt đến khi sánh lại.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với công dụng của bơ Meizan."
+    },
+    {
+      "step": "Hoàn thiện món ăn",
+      "desc": "Cho chân gà vào sốt, thêm tỏi phi và thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng khi thấy món ăn hoàn thành."
+    },
+    {
+      "step": "Thưởng thức và cảm nhận",
+      "desc": "Nhấn mạnh hương vị và trải nghiệm khi ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn làm thử ngay để trải nghiệm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "thơm ngon",
+    "dậy vị",
+    "ngon",
+    "bén",
+    "đã"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đảm bảo là mồi là hơi bị bén luôn á.",
+    "Đúng là dùng bơ Meizan á, đối vị món quen, món nào cũng thơm, cũng dậy vị hết.",
+    "Kiểu cảm giác ăn á cứ vừa ngậm ngậm, vừa mút mút như vậy á thì nó mới đã đúng không?"
+  ],
+  "hook_content": "Bạn nào mà mê món chân gà sốt nước mắm thì thôi bữa nay nâng cấp thành món gà sốt bơ cay này nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món chân gà sốt bơ cay, một biến tấu hấp dẫn từ món chân gà sốt nước mắm quen thuộc, với điểm nhấn là sử dụng bơ Meizan để tăng thêm hương vị thơm ngon.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

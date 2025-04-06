@@ -1,0 +1,53 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu bằng nhạc",
+      "desc": "Sử dụng nhạc nền có lời để tạo không khí cho video.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Nhạc nền tiếp tục",
+      "desc": "Tiếp tục sử dụng nhạc nền để làm nổi bật nội dung.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Nhạc nền cao trào",
+      "desc": "Nhạc nền lên cao trào hơn để nhấn mạnh cảm xúc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [],
+  "has_cta": "false",
+  "highlight_phrases": [],
+  "hook_content": "Đừng buồn vì em đâu, ngày em đi anh không hề khóc đâu.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video sử dụng nhạc nền và lời bài hát để thể hiện cảm xúc, có thể liên quan đến sản phẩm lạp xưởng nướng đá được đề cập trong description.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

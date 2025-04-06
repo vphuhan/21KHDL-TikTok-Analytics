@@ -1,0 +1,88 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ăn trái nhàu chấm muối ớt và mắm tôm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn lạ."
+    },
+    {
+      "step": "Ăn thử trái nhàu sống",
+      "desc": "Ăn thử trái nhàu sống với muối ớt và mô tả hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với trải nghiệm mới."
+    },
+    {
+      "step": "Ăn phần đuôi trái nhàu",
+      "desc": "Ăn phần đuôi xanh của trái nhàu và bị đắng.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ và buồn cười."
+    },
+    {
+      "step": "Ăn trái nhàu với mắm tôm",
+      "desc": "Ăn trái nhàu chấm mắm tôm và diễn tả cảm giác kinh khủng.",
+      "impact_level": "3",
+      "viewer_emotion": "Ghê sợ và buồn cười."
+    },
+    {
+      "step": "Đánh giá và khuyến cáo",
+      "desc": "Đánh giá trải nghiệm và khuyến cáo không nên thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình và cảm thấy may mắn."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo"
+  ],
+  "cta_content": [
+    "Yeah, đừng có bắt chước giống vàng nha bạn ơi.",
+    "Ok, cảm ơn bạn đã xem video của Tóc Vàng. Hẹn gặp lại bạn vào video lần sau."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngỡ ngàng",
+    "thơm",
+    "hồi hộp",
+    "ngon",
+    "đắng",
+    "ghê",
+    "ớn",
+    "buồn nôn",
+    "thú vị"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trái muối ớt ngon, ăn nó cũng ngon luôn á bạn.",
+    "Bình thường đồ ăn nó sẽ hòa quyện nó tạo ra một cái cảm giác còn cái này là nó gặp nhau là nó phun ra nó chổi ra ngoài á bạn.",
+    "Một cảm giác thật là, một trải nghiệm thật là thú vị nha bạn ơi."
+  ],
+  "hook_content": "Ngỡ ngàng nữ TikToker mọc răng có hành động nhả đồ ăn ngay trên video.",
+  "hook_type": [
+    "Gây tò mò",
+    "Giật tít"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kịch hóa"
+  ],
+  "summarization": "Tóc Vàng review trải nghiệm ăn trái nhàu chấm muối ớt và mắm tôm, từ ngạc nhiên đến kinh hãi. Cô khuyến cáo người xem không nên thử.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Hài hước",
+    "Chân thành",
+    "Ngạc nhiên",
+    "Khó chịu"
+  ]
+}

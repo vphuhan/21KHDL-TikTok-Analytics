@@ -1,0 +1,63 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Đây là món mèm mém nổi tiếng của người Mông.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Giới thiệu nguyên liệu",
+      "desc": "Gà đen hơ mông là đặc sản của vùng núi cao Tây Bắc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Kêu gọi mua hàng",
+      "desc": "Nhắn tin để mua gà đen lợn bản đúng chuẩn vùng cao.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "anh chị nhắn tin cho chúng em nhá"
+  ],
+  "cta_type": [
+    "Truy cập trang cá nhân",
+    "Đặt câu hỏi"
+  ],
+  "emotion_keywords": [
+    "nổi tiếng",
+    "đặc sản"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đây là món ăn mèm mém nổi tiếng của người Mông chúng em đó.",
+    "Đây là gà đen hơ mông của chúng em nha là một đặc sản của vùng núi cao Tây Bắc",
+    "Anh chị nào mà muốn mua gà đen lợn bản đúng chuẩn vùng cao đúng chuẩn trên bản thả đồi thả núi thả vảng thì anh chị nhắn tin cho chúng em nhá."
+  ],
+  "hook_content": "Cơn mưa mèm mém.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu món mèm mém và gà đen hơ mông, đặc sản của người Mông ở vùng núi cao Tây Bắc, đồng thời kêu gọi khán giả mua hàng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

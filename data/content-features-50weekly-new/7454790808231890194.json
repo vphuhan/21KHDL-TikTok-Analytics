@@ -1,0 +1,98 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu ốc vòi voi",
+      "desc": "Giới thiệu và khoe chiến lợi phẩm ốc vòi voi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hình dáng và kích thước."
+    },
+    {
+      "step": "Miêu tả hình dáng",
+      "desc": "Miêu tả kích thước lớn và độ tươi của ốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hứng thú với độ tươi ngon."
+    },
+    {
+      "step": "Ốc phun nước",
+      "desc": "Tương tác với ốc, bị ốc phun nước vào mặt.",
+      "impact_level": "3",
+      "viewer_emotion": "Buồn cười với sự cố bất ngờ."
+    },
+    {
+      "step": "Sơ chế ốc",
+      "desc": "Luộc ốc và cầu nguyện cho chúng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với sự thành tâm."
+    },
+    {
+      "step": "Gỡ vỏ ốc",
+      "desc": "Gỡ vỏ ốc đã luộc và nhận xét về mùi.",
+      "impact_level": "1",
+      "viewer_emotion": "Tập trung vào quá trình sơ chế."
+    },
+    {
+      "step": "Thưởng thức ốc",
+      "desc": "Ăn thử ốc đã sơ chế và miêu tả hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị đặc biệt."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Đánh giá trải nghiệm và giá trị của món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến nhận xét khách quan."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Thì với mọi người là cái giá này nó mắc hay rẻ thì mọi người comment vô nha.",
+    "Cảm ơn mọi người đã coi clip của mình. Bye bye!"
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Thích video",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "đã",
+    "bự",
+    "mặn chát",
+    "ngon",
+    "giòn",
+    "ngọt",
+    "dễ thương",
+    "đáng yêu"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tập này là chơi là tới nóc luôn mà.",
+    "Bị một cái là nó hay văng tùm lum tùm ra nước thôi. Còn lại thì nói chung là dễ thương đáng yêu.",
+    "Tôi giống cái gì ta. Bột căn á mọi người biết không? Cái bột căn mà quấn bột quấn bột á cái cái ăn vô nó dai dai dai dai giống y chang vậy á."
+  ],
+  "hook_content": "Á! Đừng, đừng có bắn nữa! Đừng!",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món ốc vòi voi, từ lúc còn sống đến khi chế biến và thưởng thức, chia sẻ cảm nhận về hương vị và trải nghiệm ăn món này. Người nói cũng đề cập đến giá thành và độ hiếm của ốc vòi voi.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

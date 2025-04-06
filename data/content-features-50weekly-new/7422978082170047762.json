@@ -1,0 +1,99 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu về số lượng chân gà",
+      "desc": "Số lượng chân gà bán ra đôi khi còn nhiều hơn số lượng đặt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự hào phóng của người bán."
+    },
+    {
+      "step": "Chia sẻ về lợi nhuận",
+      "desc": "Bán chân gà không chỉ để vui mà còn để kiếm tiền.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thông tin này khá thực tế."
+    },
+    {
+      "step": "Kêu gọi đến quán",
+      "desc": "Mời mọi người đến 145 Chùa Láng để trải nghiệm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy địa chỉ quán được giới thiệu rõ ràng."
+    },
+    {
+      "step": "Giới thiệu quy trình trộn gà",
+      "desc": "Miêu tả cách trộn gà chuyên nghiệp và hấp dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với sự chuyên nghiệp của quán."
+    },
+    {
+      "step": "Khẳng định chất lượng",
+      "desc": "Gà ngon và chất lượng, không phải gà đểu giá rẻ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng sản phẩm."
+    },
+    {
+      "step": "Đánh giá chân gà",
+      "desc": "Chân gà ngon, không hôi và ngấm sốt.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử ngay lập tức."
+    },
+    {
+      "step": "Nhận xét của khách hàng",
+      "desc": "Khách hàng công nhận chất lượng và giá cả hợp lý.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy tin tưởng hơn vào quán."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mng qua ủng hộ nhéeee",
+    "Mời mọi người đến 145 Chùa Láng, bảo kê 60k, thử là phê ăn là"
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "vui",
+    "yêu quý",
+    "vui vẻ",
+    "buồn",
+    "ngon",
+    "tuyệt vời",
+    "phê"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bán á vẫn phải kiếm mà mình kiếm là mình kiếm ít hơn người khác.",
+    "Thích cái gì chiều hết, không phải nghĩ.",
+    "Vừa bán chân gà chăm chỉ kiếm tiền mà lại còn nấu ăn ngon, quá tuyệt vời luôn."
+  ],
+  "hook_content": "bán là 10 chân, thỉnh thoảng mình còn cho cả 11 12 chân.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Khuyến mãi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video giới thiệu quán chân gà của idol Hoàng Cửu Bảo tại 145 Chùa Láng, Hà Nội, với những chia sẻ chân thật về việc kinh doanh và đánh giá khách quan về chất lượng món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

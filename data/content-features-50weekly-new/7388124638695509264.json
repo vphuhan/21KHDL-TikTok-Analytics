@@ -1,0 +1,77 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Gọi món",
+      "desc": "Đến quán ăn Trung Quốc, gọi một bánh bao và ba bát đậu nành.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thắc mắc về số lượng",
+      "desc": "Người nhà ngạc nhiên vì chỉ gọi một bánh bao cho ba người.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Bất ngờ khi bánh bao được mang ra",
+      "desc": "Cả gia đình sốc khi thấy bánh bao quá to.",
+      "impact_level": "3",
+      "viewer_emotion": "Phấn khích"
+    },
+    {
+      "step": "Nhận xét về kích cỡ",
+      "desc": "So sánh bánh bao với đạn hạt nhân và trứng khủng long.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Nếm thử",
+      "desc": "Nếm thử bánh bao và khen ngon, thơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Không ăn nổi",
+      "desc": "Mọi người đều không ăn hết bánh bao vì quá lớn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngạc nhiên",
+    "thơm",
+    "no"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "這是包子呀。媽呀,這是包子呀,我以為上兩個彈頭呢。",
+    "我是東北的,我沒見過這麼大包子呀，恐龍蛋也沒有這麼大呀。",
+    "這包底家店都大,這咋吃啊。 這家有刀嗎,我記得到去吧。 這是一種吃蛋糕的感覺呀。"
+  ],
+  "hook_content": "這是包子呀。",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại trải nghiệm của một gia đình khi ăn bánh bao siêu lớn ở quán ăn Trung Quốc, từ ngạc nhiên đến thích thú với kích cỡ và hương vị của bánh.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Ngạc nhiên",
+    "Thân thiện"
+  ]
+}

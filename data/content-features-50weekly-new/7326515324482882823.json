@@ -1,0 +1,85 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Thông báo làm cơm gà Hội An và gà nướng để chiêu đãi gia đình.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Sơ chế gà và các nguyên liệu khác để chuẩn bị cho quá trình nấu.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Nấu cơm gà",
+      "desc": "Hướng dẫn các bước nấu cơm gà Hội An, nhấn mạnh đây là lần đầu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị, muốn thử"
+    },
+    {
+      "step": "Ướp và nướng gà",
+      "desc": "Thực hiện các công đoạn ướp gà và nướng gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Trộn gỏi",
+      "desc": "Trộn gỏi bắp cải và hành tây để ăn kèm với cơm gà.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Hoàn thiện và bày trí",
+      "desc": "Trình bày món ăn và chia sẻ cảm nhận về thành phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu hộp mứt Tết từ tiệm bánh Miu Miu.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cái này Tùng Hân nhà mình biết giận luôn á mọi người.",
+    "Nướng thì làm nhiều rồi, còn cái cơm gà Hội An này á thì là lần đầu tiên mình làm luôn.",
+    "Ba Tùng Hân chỉ ăn được mỗi cái rau húng lũi này thôi, chứ trộn gỏi á thì mình dùng rau găm mới ngon."
+  ],
+  "hook_content": "Cái này Tùng Hân nhà mình biết giận luôn á mọi người.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình làm cơm gà Hội An và gà nướng tại nhà để chiêu đãi gia đình, đồng thời chia sẻ những câu chuyện đời thường và giới thiệu sản phẩm mứt Tết.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

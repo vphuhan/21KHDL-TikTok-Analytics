@@ -1,0 +1,98 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bánh trứng chiên giòn tan tuổi thơ và nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Trộn trứng và bia",
+      "desc": "Đập trứng vào bát, đổ bia vào và khuấy đều hỗn hợp.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Trộn bột mì và hỗn hợp trứng",
+      "desc": "Cho bột mì vào bát, đổ từ từ hỗn hợp trứng vào và khuấy đều.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong đợi"
+    },
+    {
+      "step": "Ủ bột",
+      "desc": "Bọc màng bọc thực phẩm và để bột nghỉ trong 30 phút.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chuẩn bị rau củ",
+      "desc": "Thái hành lá và cà rốt hạt lựu để trộn vào bột.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm"
+    },
+    {
+      "step": "Trộn bột và rau củ",
+      "desc": "Cho hành lá và cà rốt vào bột đã ủ và khuấy đều.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức"
+    },
+    {
+      "step": "Chiên bánh",
+      "desc": "Chiên bánh trong chảo dầu đến khi vàng đều và phồng lên.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Mọi người ơi nếu mọi người xem tới đây rồi thì có thể cho tôi xin một tim, để tôi có động lực được không?",
+    "Cảm ơn mọi người rất nhiều, sau đó đổ nhiều dầu ngô vào chảo."
+  ],
+  "cta_type": [
+    "Thích video",
+    "Lưu video",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thích",
+    "mềm mịn",
+    "béo ngậy",
+    "giòn tan",
+    "bông xốp",
+    "mềm mại"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Các bà không thể ngờ được, chỉ cần đổ một chút bia vào trứng, là đã có thể làm ra món ăn ngon, mà cả người lớn lẫn trẻ con đều thích",
+    "Đây là phần quan trọng nhất, chúng ta nhúng thìa vào dầu trước để thìa được tráng một lớp dầu. Như vậy bột sẽ không bị dính vào thìa.",
+    "Thành phẩm bông xốp mềm mại, bên ngoài giòn, bên trong mềm, vừa có thể làm bữa sáng vừa có thể làm món ăn vặt."
+  ],
+  "hook_content": "Các bà không thể ngờ được, chỉ cần đổ một chút bia vào trứng, là đã có thể làm ra món ăn ngon, mà cả người lớn lẫn trẻ con đều thích, có lẽ 99% mọi người chưa từng thấy qua.",
+  "hook_type": [
+    "Gây tò mò",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm món bánh trứng chiên giòn tan bằng cách sử dụng bia, tạo nên món ăn ngon và hấp dẫn cho cả người lớn lẫn trẻ con. Các bước thực hiện chi tiết từ trộn nguyên liệu đến chiên bánh được trình bày rõ ràng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Vivi giới thiệu món ăn là kê gà hấp hành và mời mọi người ăn cùng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Vivi khen kê gà hạt khổng lồ và liên tục nói ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "Ngon",
+    "Siêu ngon",
+    "Ngon xuất sắc",
+    "Quá ngon",
+    "Ngon lắm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Trời hôm nay kê hạt khổng lồ luôn đó mọi người.",
+    "Ngon! Siêu ngon luôn mọi người ơi.",
+    "Ngon xuất sắc. Ngon quá. Quá ngon. Ngon lắm."
+  ],
+  "hook_content": "Hello mọi người, hôm nay Vivi sẽ ăn kê gà hấp hành.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang món kê gà hấp hành, người ăn liên tục khen ngon và mời mọi người cùng ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu tokbokki chấm sữa, có tokbokki hấp và nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự kết hợp mới lạ này."
+    },
+    {
+      "step": "Trải nghiệm tokbokki hấp",
+      "desc": "Miêu tả hương vị tokbokki hấp dẻo, chấm với sữa cuốn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và muốn thử ngay."
+    },
+    {
+      "step": "Trải nghiệm tokbokki nướng",
+      "desc": "Miêu tả tokbokki nướng giòn ngoài, dẻo trong, hợp với sữa.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với sự kết hợp độc đáo."
+    },
+    {
+      "step": "Thông tin giá và địa điểm",
+      "desc": "Giá 36 cành/phần kèm sữa, địa điểm ở giỏ hàng.",
+      "impact_level": "1",
+      "viewer_emotion": "Quan tâm đến giá cả và địa điểm mua."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Tóc bóc ki trong giỏ hàng phía trên nha các con"
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "hợp",
+    "cuốn",
+    "giòn",
+    "dẻo",
+    "rẻ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái này mà chấm sữa vô ăn rất là hợp nha con.",
+    "Tokbokki mà nướng vậy nè, ở ngoài nó rất là giòn luôn, cắn vô nó giòn một cái vậy mà ở trong nó hơi dẻo dẻo nha.",
+    "Chấm với sữa ăn quá hợp luôn con ơi."
+  ],
+  "hook_content": "Lần đầu mẹ thử.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món tokbokki chấm sữa, với hai loại tokbokki hấp và nướng. Người mẹ thử và đánh giá hương vị, đồng thời cung cấp thông tin về giá cả và địa điểm mua.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

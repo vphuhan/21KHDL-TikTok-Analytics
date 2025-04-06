@@ -1,0 +1,69 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Út giới thiệu món xúc xích chiên ăn kèm xà lách, dưa leo.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Bắt đầu ăn",
+      "desc": "Út bắt đầu ăn xúc xích chiên chấm tương ớt và mayonnaise.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Miêu tả cảm nhận",
+      "desc": "Út chia sẻ cảm nhận về món ăn, hương vị và thời tiết.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp"
+    },
+    {
+      "step": "Tiếp tục ăn",
+      "desc": "Út tiếp tục ăn và chấm thêm tương ớt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mời mọi người ăn cùng Út nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "thơm phức",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Út mới chiên nó thơm phức luôn nha mọi người.",
+    "Ăn với cơm hoặc là ăn không cũng ngon lắm, nha mọi người.",
+    "Ở chỗ Út đang mưa á, ăn xúc xích chiên là đúng bài luôn á."
+  ],
+  "hook_content": "Mời mọi người ăn cùng Út nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang ngắn gọn ghi lại cảnh Út Phụng Kim ăn xúc xích chiên chấm tương ớt và mayonnaise, chia sẻ cảm nhận về món ăn và mời mọi người cùng ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

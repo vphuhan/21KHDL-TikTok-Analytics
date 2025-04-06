@@ -1,0 +1,92 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Chào hỏi và giới thiệu series 'cái tô bé xíu' với món bún bò.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về series và món ăn."
+    },
+    {
+      "step": "Miêu tả quán",
+      "desc": "Quán bún bò đông khách, đầy đủ topping hấp dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng, muốn đến ăn thử."
+    },
+    {
+      "step": "Đánh giá topping",
+      "desc": "Topping tươi ngon, gân giòn, bò viên sực sực.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy kích thích vị giác."
+    },
+    {
+      "step": "Đánh giá nước lèo",
+      "desc": "Nước lèo đậm đà, mỡ nổi 10 điểm.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn nếm thử nước lèo."
+    },
+    {
+      "step": "Trải nghiệm trộn bún",
+      "desc": "Trộn bún với mắm ruốc, sa tế, mỡ nổi.",
+      "impact_level": "3",
+      "viewer_emotion": "Thấy ngon miệng, hấp dẫn."
+    },
+    {
+      "step": "Ăn thử",
+      "desc": "Ăn tô bún bé xíu trong 20 phút.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung xem quá trình ăn."
+    },
+    {
+      "step": "Thông tin quán",
+      "desc": "Giới thiệu địa chỉ quán bún bò Cậu Hai.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhớ địa chỉ quán."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mọi người có gì thì ghé trải nghiệm thử nghe."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "hấp dẫn",
+    "thơm",
+    "ngon",
+    "vừa vị",
+    "đậm đà",
+    "đã"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Người ta nói ê hề nạm tái trả gân bò viên, giò thì khoanh nào khoanh nấy ú nu.",
+    "Mỡ nổi thì Hân có xin chị cho Hân một chén riêng nhưng mà khoan nói về món ăn ở đây thì mọi người nhìn cái góc gia vị này đi, quá là chỉnh chu luôn.",
+    "Gân giòn giòn dai dai chứ không phải kiểu mềm xèo, bò viên cũng y chang vậy luôn, giòn giọt sực sực, bên trong cũng có gân nữa."
+  ],
+  "hook_content": "Xin chào mọi người, tớ là Hân nè. Hôm nay mình sẽ quay lại với series cái tô bé xíu. Mình sẽ đi ăn bún bò nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Hân quay trở lại series \"cái tô bé xíu\" bằng việc review quán bún bò Cậu Hai với nhiều topping hấp dẫn, đặc biệt là phần gân giòn và nước lèo đậm đà. Cô nàng cũng không quên trộn bún với mắm ruốc và sa tế để tăng thêm hương vị.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

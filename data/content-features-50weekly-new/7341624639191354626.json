@@ -1,0 +1,80 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Khách hàng đến quán trái cây dầm và gọi món.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thực hiện order",
+      "desc": "Chủ quán chuẩn bị trái cây dầm theo yêu cầu.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Trải nghiệm",
+      "desc": "Khách hàng ăn thử và đánh giá món xoài mắm ruốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Giới thiệu",
+      "desc": "Liệt kê các loại trái cây khác tại quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Khách hàng khen ngon và hỏi tên chủ quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "mát lạnh",
+    "ngọt ngọt",
+    "chua chua",
+    "thích hợp",
+    "giải nhiệt",
+    "đậm đà",
+    "cay cay",
+    "giòn sần sật",
+    "nuốt nước bọt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Phải công nhận rằng là trái cây ở miền Nam là ngon vô địch.",
+    "Cái vị chua của miếng xoài xanh hòa quyện cùng với cả vị mặn đậm đà của mắm ruốc, thêm một chút vị cay cay của ớt tươi, cắn từng thớ xoài giòn sần sật.",
+    "Ăn đến đâu nuốt nước bọt đến đấy luôn, chua."
+  ],
+  "hook_content": "chị ơi, bán cho em ít trái cây cái.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán trái cây dầm ở Sài Gòn, tập trung vào trải nghiệm ăn xoài mắm ruốc và giới thiệu các loại trái cây khác. Người xem cảm nhận được sự hấp dẫn của món ăn và sự thân thiện của chủ quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

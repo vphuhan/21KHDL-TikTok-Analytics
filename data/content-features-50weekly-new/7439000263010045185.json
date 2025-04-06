@@ -1,0 +1,86 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán trà trái cây ế ẩm và bày tỏ sự dễ thương.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán và đồng cảm với chủ quán."
+    },
+    {
+      "step": "Phân tích nguyên nhân",
+      "desc": "Phân tích lý do quán ế, nhấn mạnh tầm quan trọng của khẩu vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Suy ngẫm về khẩu vị và sự phù hợp."
+    },
+    {
+      "step": "Giới thiệu các món",
+      "desc": "Giới thiệu và review chi tiết từng loại trà trái cây.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và muốn thử các loại trà."
+    },
+    {
+      "step": "Đánh giá tổng quan",
+      "desc": "Đánh giá chất lượng, độ tươi ngon và sự lắng nghe khách hàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng và muốn ủng hộ quán."
+    },
+    {
+      "step": "Lời khuyên và động viên",
+      "desc": "Động viên quán giữ vững chất lượng và phát triển hơn.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm động và mong quán thành công."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chuyên nghiệp",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Nhớ nha tới quán uống.",
+    "Thí dụ cái ly này mà không được nhiều như clip của tôi báo tôi liền. Clip, xóa."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "So sánh",
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "dễ thương",
+    "tươi",
+    "vừa phải",
+    "thơm",
+    "thích",
+    "dễ chịu"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Một cái quán dễ thương là một cái quán mà biết nhận lỗi về mình.",
+    "Trái cây là tao muốn uống trái cây nguyên chất.",
+    "Lý do mà tôi thích cái quán này á, tại vì tôi thích, thích cái quán là lúc nào cũng lắng nghe cái khách hàng."
+  ],
+  "hook_content": "nó không được nhiều như thế này, clip này biến mất khỏi vũ trụ. Trên mạng trà trái cây sắp đóng cửa.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm",
+    "So sánh"
+  ],
+  "summarization": "Video review quán trà trái cây Sài Gòn Chuẩn Vị ở Biên Hòa, tập trung vào chất lượng, độ tươi ngon và sự lắng nghe khách hàng của quán. Người review đánh giá chi tiết từng loại trà, đưa ra nhận xét khách quan và động viên quán phát triển.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hài hước"
+  ]
+}

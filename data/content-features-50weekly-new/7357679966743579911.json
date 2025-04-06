@@ -1,0 +1,90 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu chuyến đi",
+      "desc": "Thông báo kết thúc kỳ nghỉ và quay trở lại Nhật Bản.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đồng cảm với sự tiếc nuối."
+    },
+    {
+      "step": "Kể chuyện hậu đậu",
+      "desc": "Chia sẻ về sự vụng về và những rắc rối gặp phải.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị và hơi lo lắng cho nhân vật."
+    },
+    {
+      "step": "Ăn uống tại quán quen",
+      "desc": "Ghé thăm quán ăn quen thuộc và thưởng thức món xí quách.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đói bụng và thèm ăn."
+    },
+    {
+      "step": "Sự cố ở sân bay",
+      "desc": "Gặp rắc rối với sim điện thoại và vé máy bay.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy lo lắng và căng thẳng."
+    },
+    {
+      "step": "Tạm biệt gia đình",
+      "desc": "Xúc động khi chia tay ba mẹ ở sân bay.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy xúc động và đồng cảm."
+    },
+    {
+      "step": "Đến Nhật và ăn cơm",
+      "desc": "Về đến Nhật, đi ăn cơm bò và hẹn gặp bạn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy nhẹ nhõm và vui vẻ."
+    },
+    {
+      "step": "Kết thúc video",
+      "desc": "Dạo phố, ngắm hoa anh đào và hứa cập nhật tình hình.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thư giãn và mong chờ thông tin mới."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Kiến thức",
+    "Sáng tạo"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thèm",
+    "ngon",
+    "đã",
+    "rối bời",
+    "yên tâm",
+    "lo lắng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mình hậu đậu tới nỗi mà hành lý này kia là ba mẹ phải sắp xếp chứ cũng không biết làm sao luôn á.",
+    "Chỗ này họ làm cà na chua chua ngọt ngọt ăn ngon thánh thần.",
+    "Nói xí quách vậy chứ này thịt nhiều dữ lắm nghe."
+  ],
+  "hook_content": "Được nghỉ phép một tháng về thăm gia đình thì hôm nay phải bắt đầu quay trở lại Nhật.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện"
+  ],
+  "summarization": "Video ghi lại hành trình trở lại Nhật Bản sau một tháng về thăm gia đình của một bạn du học sinh, với nhiều sự cố và cảm xúc khác nhau. Bạn ấy chia sẻ những trải nghiệm ăn uống tại quán quen và những khó khăn gặp phải trong chuyến đi.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu trải nghiệm cũ",
+      "desc": "Nhớ lại mong ước có công thức mì cay khi ăn ở quê",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về câu chuyện"
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Review sốt mì cay và dầu ớt Hàn Quốc mua trên mạng",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sản phẩm"
+    },
+    {
+      "step": "Đưa ra lời khuyên",
+      "desc": "Khuyên mua set nhỏ thay vì cả chai lớn để tránh lãng phí",
+      "impact_level": "1",
+      "viewer_emotion": "Đánh giá cao sự chân thành"
+    },
+    {
+      "step": "Nấu theo hướng dẫn",
+      "desc": "Nấu mì cay theo hướng dẫn với mì Koreno vị kim chi",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về kết quả"
+    },
+    {
+      "step": "Đánh giá kết quả",
+      "desc": "Bất ngờ vì mì cay tự nấu ngon như ngoài hàng",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng và muốn thử"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "bất ngờ"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "ước người ta chỉ cho công thức về nhà thèm còn tự nấu ăn được",
+    "mình bất bình thường mua nguyên chai 1 kg",
+    "Ở nhà mà nấu được bát mì cay ngon cỡ này thì không còn gì để nói"
+  ],
+  "hook_content": "Trước đi ăn mì cay ở quê chị ước người ta chỉ cho công thức về nhà thèm còn tự nấu ăn được.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review sốt mì cay mua trên mạng và nấu thử tại nhà. Người nấu bất ngờ vì mì tự nấu ngon như ngoài hàng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

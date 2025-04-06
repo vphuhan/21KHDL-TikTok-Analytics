@@ -1,0 +1,76 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bún bò và địa điểm quán sau thời gian nghỉ Tết.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của quán."
+    },
+    {
+      "step": "Nêm nếm",
+      "desc": "Thêm các gia vị như nước mắm ớt, chanh và uống nước.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Nhấn mạnh vị ngon, hợp khẩu vị và độ đậm đà của món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thèm thuồng."
+    },
+    {
+      "step": "Miêu tả topping",
+      "desc": "Miêu tả lượng thịt và bò nhiều, tươi ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng về sự đầy đặn của tô bún."
+    },
+    {
+      "step": "Nhấn mạnh trải nghiệm",
+      "desc": "Bún bò ăn với ớt sim cay cay rất ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với cách ăn cay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Đố mọi người tô Dung này ăn là bao nhiêu mọi người comment nha."
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "hợp khẩu vị",
+    "cay",
+    "tươi"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Chờ đợi mãi thì cái chỗ bún bò Dung Huế ăn cũng bán rồi.",
+    "Bún bò phải ăn cay cay nó mới ngon.",
+    "Thịt ở đây với lại bò ở đây Dung cảm thấy nó là nó tươi á."
+  ],
+  "hook_content": "Bữa mọi người ăn bún bò huế cùng với Dung nha. Chờ đợi mãi thì cái chỗ bún bò Dung Huế ăn cũng bán rồi mọi người ơi. Nghỉ Tết mà nghỉ hết tháng giêng luôn á.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang bún bò Huế full topping sau thời gian quán nghỉ Tết. Người ăn đánh giá cao hương vị đậm đà, topping tươi ngon và kêu gọi người xem đoán giá.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

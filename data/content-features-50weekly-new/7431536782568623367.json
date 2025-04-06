@@ -1,0 +1,100 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bánh taco",
+      "desc": "Giới thiệu chiếc bánh taco được mua theo clip trên mạng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự giống nhau của bánh."
+    },
+    {
+      "step": "Đánh giá bánh",
+      "desc": "Nhận xét bánh không giống clip, kết cấu lỏng lẻo.",
+      "impact_level": "2",
+      "viewer_emotion": "Thất vọng vì bánh không như mong đợi."
+    },
+    {
+      "step": "Review quán hot",
+      "desc": "Đề cập quán hot, xếp hàng đông, nhưng làm bánh không chuẩn.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thông tin hữu ích."
+    },
+    {
+      "step": "Đề cập Ngọc Phước",
+      "desc": "Nghe Ngọc Phước hát, bất ngờ về giọng hát hay.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với thông tin bất ngờ."
+    },
+    {
+      "step": "Kỷ niệm với Ngọc Phước",
+      "desc": "Nhớ lại kỷ niệm được Ngọc Phước giúp đỡ makeup.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm động và biết ơn."
+    },
+    {
+      "step": "Thưởng thức bánh",
+      "desc": "Ăn bánh, cảm nhận vị giống hamburger, vừa miệng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung vào trải nghiệm ẩm thực."
+    },
+    {
+      "step": "Chấm điểm và kết luận",
+      "desc": "Chấm điểm bánh và chia sẻ suy nghĩ về quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Đồng tình với đánh giá."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "nên là mọi người có chương trình đó có gì mọi người ủng hộ chị Ngọc Phước giùm tôi nha.",
+    "Mấy chị đẹp ở trong chương trình có gì bảo kê chị Ngọc Phước giùm em nha mọi người."
+  ],
+  "cta_type": [
+    "Chia sẻ",
+    "Chia sẻ công thức"
+  ],
+  "emotion_keywords": [
+    "bất ngờ",
+    "cảm động",
+    "vừa vị",
+    "dễ thương",
+    "khó chịu",
+    "ghét"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trên mạng bánh taco của nhà phô mai tiệm ăn đặt cho mọi người ngoài đời. Giống dữ chưa má?",
+    "Trên clip có sao thì phải bán vậy chứ. Đừng có bán rồi kêu tao câu dẫn tao tới xong mày không bán cái bánh giống vậy.",
+    "Em rất là ghét mấy cái quán mà treo đầu dê bán thịt chó. Em ghét kinh khủng ghét, khủng khiếp, ghét ngàn đời và em rất khó chịu cái điều đó luôn."
+  ],
+  "hook_content": "Làm chặt tay lên giùm em một cái được không? Chị dẫn tôi đi mua. Trên mạng bánh taco của nhà phô mai tiệm ăn đặt cho mọi người ngoài đời.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review bánh taco mua trên mạng, so sánh với thực tế và chia sẻ trải nghiệm cá nhân về sự khác biệt, đồng thời kể về kỷ niệm với Ngọc Phước và bày tỏ sự không hài lòng với việc quán bán bánh không giống quảng cáo.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên",
+    "Khó chịu"
+  ]
+}

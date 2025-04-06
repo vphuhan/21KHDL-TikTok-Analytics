@@ -1,0 +1,97 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Tiếc nuối vì không biết đến địa điểm này sớm hơn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về địa điểm được nhắc đến."
+    },
+    {
+      "step": "Giới thiệu địa điểm",
+      "desc": "Flash địa điểm chill cách Sài Gòn 2 tiếng đi xe.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú vì địa điểm gần Sài Gòn."
+    },
+    {
+      "step": "Thông tin chi tiết",
+      "desc": "Giá vé trọn gói và các hoạt động bao gồm.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với giá cả và dịch vụ."
+    },
+    {
+      "step": "Trải nghiệm ăn uống",
+      "desc": "Các món ăn buổi tối và cảm giác sau khi tắm biển.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đói bụng và thèm thuồng."
+    },
+    {
+      "step": "Hoạt động vui chơi",
+      "desc": "Chèo sup, tắm biển và ngắm hoàng hôn.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn được trải nghiệm ngay lập tức."
+    },
+    {
+      "step": "Văn nghệ và nghỉ ngơi",
+      "desc": "Hát karaoke, đi ngủ và đón bình minh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thư giãn và thoải mái."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Ăn sáng, check out và đánh giá về địa điểm.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy địa điểm này đáng để thử."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Đặt lều và đặt tour á thì ở Phở Bò của Vitamin C luôn nên là mọi người còn chần chờ gì nữa mà không lưu lại rồi let's go!"
+  ],
+  "cta_type": [
+    "Lưu video",
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "tuyệt vời",
+    "chill",
+    "vui",
+    "hạnh phúc",
+    "bao thơ",
+    "xịn",
+    "hợp lý",
+    "hợp túi tiền"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái chỗ này là Vitamin C camping là ở Vũng Tàu đó nhưng mà lại không phải là Vũng Tàu, nhưng mà được cái cái niềm vui nó lại nhân ba nhân bốn luôn nha.",
+    "Ê mà thích nhất là cái cảm giác tắm biển chèo sup lên, mệt cái xong rồi quay quần ngồi ăn uống với nhau á, với lại cái không gian yên tĩnh chỗ này nữa thì nó đã gì đâu luôn á.",
+    "Tính ra là tôi thấy ở đây vui nha, xịn nha mà còn hợp lý hợp túi tiền nữa nên là mọi người tham khảo thử nha."
+  ],
+  "hook_content": "Trời ơi thật sự tiếc dễ sợ luôn á, giá mà tôi biết tới cái nơi này sớm hơn để chỉ cho mấy bạn thì tết này có chỗ vui chơi rồi, nhưng mà không có sao.",
+  "hook_type": [
+    "Gây tò mò",
+    "Cho thấy kết quả trước",
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu một địa điểm camping chill gần Sài Gòn với giá cả hợp lý, bao gồm nhiều hoạt động vui chơi như tắm biển, chèo sup, tiệc BBQ và karaoke. Người nói đánh giá cao không gian yên tĩnh và những trải nghiệm tại đây, khuyến khích mọi người nên tham khảo.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

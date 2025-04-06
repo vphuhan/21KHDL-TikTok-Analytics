@@ -1,0 +1,70 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Mở đầu bằng lời chào và giới thiệu món chem chép xào.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn được giới thiệu."
+    },
+    {
+      "step": "Chia sẻ kỷ niệm",
+      "desc": "Chia sẻ kỷ niệm về việc bắt chem chép ở quê.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    },
+    {
+      "step": "Giới thiệu cách chế biến",
+      "desc": "Giới thiệu cách luộc chem chép với sả và nước.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với cách chế biến đơn giản."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Đánh giá hương vị của chem chép luộc chấm muối ớt.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng."
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng ăn món chem chép luộc.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy gần gũi và thân thiện."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "cay cay",
+    "sương sương",
+    "mập ú nu"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Thịt chem chép luộc vừa chín tới còn mập ú nu, chấm vô chén muối ớt cay cay ta nói ngon sấm hồn luôn á trời."
+  ],
+  "hook_content": "Hello mọi người, lại là tôi Mập Bự thích nấu ăn đây.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video ghi lại cảnh Mập Bự thích nấu ăn review món chem chép luộc sả chấm muối ớt cay. Cô chia sẻ kỷ niệm bắt chem chép ở quê và cách luộc chem chép đơn giản, sau đó đánh giá hương vị món ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

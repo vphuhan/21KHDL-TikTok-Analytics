@@ -1,0 +1,50 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Người nói giới thiệu về việc review kẹo sáp xếp hình.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá sản phẩm",
+      "desc": "Nhận xét về vỏ giòn và nhân mứt chua của kẹo.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "phê",
+    "chua"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Kẹo sáp xếp hình này vỏ bên ngoài cực giòn, bên trong là nhân mứt các loại khác nhau, chua hơn bình thường, quá là phê."
+  ],
+  "hook_content": "review cả thế giới. Hôm nay mình sẽ chơi xếp hình nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review kẹo sáp xếp hình, tập trung vào trải nghiệm hương vị chua và cấu trúc giòn của sản phẩm.",
+  "tone_of_voice": [
+    "Hào hứng"
+  ]
+}

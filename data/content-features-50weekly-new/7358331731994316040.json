@@ -1,0 +1,64 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Mẹ ngạc nhiên về ống hút phát nhạc và vẻ ngoài dễ thương.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị và tò mò về sản phẩm độc đáo."
+    },
+    {
+      "step": "Trải nghiệm sản phẩm",
+      "desc": "Mẹ bối rối vì ống hút phát nhạc ngay cả khi không hút.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy ngạc nhiên và có chút khó hiểu."
+    },
+    {
+      "step": "Nhận xét sản phẩm",
+      "desc": "Mẹ lo lắng ống hút kêu vào ban đêm gây sợ hãi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hài hước và đồng cảm với nỗi lo của mẹ."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "dễ thương",
+    "đẹp",
+    "ngộ",
+    "bất ngờ",
+    "kỳ lạ"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Không hút cũng kêu hả?",
+    "Muốn kêu hồi nào kêu vậy nửa đêm sợ ma mẹ à.",
+    "Ống hút phát nhạc"
+  ],
+  "hook_content": "Ôi cái vụ gì vậy con? Ờ sao cầm nó cũng kêu con? Hả? Không hút cũng kêu hả?",
+  "hook_type": [
+    "Gây tò mò",
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video ghi lại phản ứng của mẹ khi lần đầu sử dụng ống hút phát nhạc, từ ngạc nhiên đến bối rối vì tính năng độc đáo của nó. Mẹ lo lắng ống hút có thể phát nhạc bất ngờ vào ban đêm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Hài hước",
+    "Ngạc nhiên"
+  ]
+}

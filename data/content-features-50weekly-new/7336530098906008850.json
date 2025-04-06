@@ -1,0 +1,68 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món cơm chiên trứng đơn giản, dễ làm sau Tết.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách làm món cơm chiên này."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê các nguyên liệu cần thiết: cơm nguội, trứng, mỡ heo.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, vì nguyên liệu rất quen thuộc."
+    },
+    {
+      "step": "Chiên cơm",
+      "desc": "Hướng dẫn chiên cơm với mỡ heo, phi thơm hành tỏi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với bí quyết dùng mỡ heo."
+    },
+    {
+      "step": "Nêm nếm gia vị",
+      "desc": "Nêm nếm gia vị: nước tương, hắc xì dầu, nước mắm, bột ngọt.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến tỉ lệ và loại gia vị được dùng."
+    },
+    {
+      "step": "Hoàn thành",
+      "desc": "Thêm hành lá và thưởng thức món cơm chiên trứng.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nguyên liệu đơn giản nhất cũng là cơm chiên trứng ngon nhất, không cần thêm một cái topping nào hết.",
+    "Với mình á, thiếu hành lá là giảm đi hết 50% độ ngon rồi.",
+    "Tự nấu, tự khen 10/10."
+  ],
+  "hook_content": "Sau Tết mình ăn gì? Đó chính là cơm chiên trứng.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm món cơm chiên trứng đơn giản, sử dụng mỡ heo để tăng độ ngon. Tác giả tự đánh giá món ăn do mình nấu là 10/10.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

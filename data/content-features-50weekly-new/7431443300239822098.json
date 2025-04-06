@@ -1,0 +1,70 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu hai loại nước lọc Aqua và Lavie để làm Aqua Villa.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Trải nghiệm sản phẩm",
+      "desc": "Mix hai loại nước và nhận xét về ga, vị của từng loại.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị khi thấy phản ứng của nước."
+    },
+    {
+      "step": "So sánh hương vị",
+      "desc": "So sánh hậu vị của Aqua ngọt hơn Lavie ngang ngang.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự khác biệt giữa hai loại."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Đánh giá sau khi mix thấy ngang ngang, vẫn thích Aqua hơn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc sắc."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "vô nghĩ",
+    "thích",
+    "ngọt",
+    "ngang ngang",
+    "lờ lợ",
+    "không thích",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Tôi không biết hai cái này mix chung với lại với nhau nó sẽ thành cái gì nhưng mà tôi nghĩ là nó sẽ thành Aqua Villa.",
+    "Nó kiểu chả ngọt ngọt, nó cũng chả lờ lợ nó cứ kiểu bị ngang ngang ngang ngang. Nó chả đâu vào đâu cả.",
+    "Thành mix vào đây nó cứ lờ lợ ngọt ngọt ngang ngang."
+  ],
+  "hook_content": "Aqua Villa, mình làm Villa đi anh. Làm Villa nó là cái gì?",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review hai loại nước Aqua và Lavie khi trộn lẫn với nhau, người nói thử nghiệm và đưa ra cảm nhận về hương vị, độ ngọt và kết luận thích Aqua hơn.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu các món ăn sẽ ăn trong ngày hôm nay.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Ăn mì",
+      "desc": "Bắt đầu ăn mì và cảm nhận về hương vị của món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Ăn các món khác",
+      "desc": "Thưởng thức gà chiên, giò, trứng ốp la và xiên que.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Ăn tôm chiên xù",
+      "desc": "Ăn tôm chiên xù và nhận xét về độ giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Ăn bánh flan",
+      "desc": "Tiếp tục với bánh flan và cafe.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Uống trà sữa",
+      "desc": "Kết thúc bữa ăn với trà sữa matcha.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn uống"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "ngọt",
+    "giòn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Trời ơi tính ăn mấy món này ở đây có mỗi món trứng là mới đó.",
+    "Tôm chiên xù, tôm này cá bị giòn á.",
+    "Hôm qua cũng ăn bánh lăn rồi nay bánh lăn nữa."
+  ],
+  "hook_content": "Rồi nay ăn gì đây? Ăn ăn mì, gà, trứng ốp la, cá chiên chiên tẩm lăn bột, bánh lăn, trà sữa đi.",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình người này ăn nhiều món khác nhau như mì, gà chiên, tôm chiên xù, bánh flan và trà sữa. Người này vừa ăn vừa đưa ra cảm nhận cá nhân về hương vị của từng món.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

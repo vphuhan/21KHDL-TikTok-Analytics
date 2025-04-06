@@ -1,0 +1,72 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu về chuyến đi Việt Nam",
+      "desc": "Chia sẻ về hành trình gian nan khi về Việt Nam ăn giỗ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu sản phẩm biếu ngoại",
+      "desc": "Giới thiệu và quảng cáo các sản phẩm sức khỏe mua từ Misu Shop.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Gói bánh tét",
+      "desc": "Trổ tài gói bánh tét và giới thiệu bánh ít sầu riêng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Ăn cơm",
+      "desc": "Mời mọi người ăn cơm cùng và kết thúc video.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người muốn mua hàng hàng chuẩn cho gia đình mình tại Việt Nam lẫn Hàn Quốc thì nhắn qua Misu Shop nha, địa chỉ uy tín bao nhiêu năm nay mà gia đình mình dùng."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "cực",
+    "mệt",
+    "ngon nhất cái nách",
+    "đói"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bánh tét á thì bữa nay nhà mình còn có gói thêm bánh ít nữa nhưng á thì nhân dừa sầu riêng ta nói ngon nhất cái nách luôn á.",
+    "Nhà mình được cái là em đông nha. Tính sơ sơ thôi đã chục đứa rồi đó.",
+    "Cả nhà mình đi mười lần như một, tiếng trước hu hu chứ tiếng sau cười he he rồi."
+  ],
+  "hook_content": "Bữa nay kể lại cho mọi người cái hành trình mình về Việt Nam nó gian nan cỡ nào nha.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video kể về hành trình về Việt Nam ăn giỗ của một người, giới thiệu các sản phẩm sức khỏe mua từ Misu Shop để biếu người thân, trổ tài gói bánh tét và giới thiệu bánh ít sầu riêng, cuối cùng mời mọi người ăn cơm cùng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

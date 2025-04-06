@@ -1,0 +1,96 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món vịt quay Bắc Kinh làm bằng nồi chiên không dầu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Sơ chế và ướp vịt",
+      "desc": "Xăm da vịt, nấu nước gia vị, ướp thịt và da.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với công đoạn chuẩn bị."
+    },
+    {
+      "step": "Phơi vịt trong tủ lạnh",
+      "desc": "Để vịt trong tủ lạnh 2-3 ngày cho da khô lại.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy hơi lâu."
+    },
+    {
+      "step": "Chiên vịt lần 1",
+      "desc": "Chiên vịt lần đầu ở 150 độ trong 12 phút.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy háo hức với kết quả."
+    },
+    {
+      "step": "Pha nước sốt",
+      "desc": "Hướng dẫn pha nước sốt chấm vịt quay đơn giản.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử làm theo."
+    },
+    {
+      "step": "Chiên vịt lần 2",
+      "desc": "Lau dầu, quét mật ong và chiên lần hai ở 180 độ.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ thành phẩm."
+    },
+    {
+      "step": "Thưởng thức và đánh giá",
+      "desc": "Thưởng thức vịt quay và chia sẻ cảm nhận cá nhân.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "bạn nào mà làm vịt quay Bắc Kinh rồi á thì có thể chỉ mình với"
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Chia sẻ công thức",
+    "Đặt câu hỏi"
+  ],
+  "emotion_keywords": [
+    "hấp dẫn",
+    "ngon",
+    "đã mắt",
+    "mọng nước",
+    "giòn",
+    "ngon cực kỳ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mình đã tốn tổng cộng 3 ngày để mà thử cái món vịt quay Bắc Kinh bằng nồi chiên không dầu và đây là thành quả ngoài sức tưởng tượng của mình luôn.",
+    "Nhìn thành quả là mọi người có cảm nhận được cái độ ngon của nó không, miếng thịt vịt á thì vừa chín tới, cắt ra á mà nó mọng nước quá trời luôn, còn phần da á thì khi nghe mình cắt, mọi người cũng cảm nhận được cái độ giòn của nó đúng không?",
+    "Tuy nhiên á là thịt vịt chấm với cái nước sốt này ăn rất là ngon nha."
+  ],
+  "hook_content": "Mình đã tốn tổng cộng 3 ngày để mà thử cái món vịt quay Bắc Kinh bằng nồi chiên không dầu và đây là thành quả ngoài sức tưởng tượng của mình luôn.",
+  "hook_type": [
+    "Cho thấy kết quả trước",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ quá trình tự làm món vịt quay Bắc Kinh bằng nồi chiên không dầu tại nhà, từ khâu chuẩn bị, sơ chế, ướp gia vị đến khi hoàn thành và thưởng thức món ăn. Mặc dù chưa đạt độ giòn hoàn hảo như ngoài hàng nhưng hương vị tổng thể vẫn rất ngon.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

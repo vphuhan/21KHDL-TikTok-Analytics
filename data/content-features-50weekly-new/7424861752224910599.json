@@ -1,0 +1,93 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu chân cua hoàng đế đông lạnh và nho sữa.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm được giới thiệu."
+    },
+    {
+      "step": "Chia sẻ kinh nghiệm",
+      "desc": "Chia sẻ kinh nghiệm chọn nho và cách chế biến chân cua.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích với thông tin được chia sẻ."
+    },
+    {
+      "step": "Đánh giá sản phẩm",
+      "desc": "Đánh giá khách quan về độ mặn của chân cua.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá chân thực."
+    },
+    {
+      "step": "Giới thiệu sản phẩm khác",
+      "desc": "Giới thiệu sản phẩm bổ não phòng đột quỵ.",
+      "impact_level": "1",
+      "viewer_emotion": "Quan tâm đến sản phẩm cho sức khỏe."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Thưởng thức chân cua và nho sữa với muối tiêu.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn ăn thử."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Đánh giá độ ngọt, độ chắc của thịt cua.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung được hương vị của món ăn."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Nhấn mạnh độ ngon và no bụng khi ăn cua.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy hài lòng và muốn mua ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mời mọi người ăn chân cua hoàng đế chung với mình."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngọt",
+    "mặn",
+    "ngon",
+    "hơi bị mặn tí",
+    "ngọt như thường",
+    "cứng",
+    "chắc lỏng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nho sữa thì hình như là sắp cuối mùa rồi. Lấy cái chùm mà có màu xanh đậm mà nó hơi ửng vàng vậy nè là ngọt dữ lắm.",
+    "Chân cua này thì người ta hấp xong rồi đem đi cấp đông liền nên thành ra là cái thịt của nó vẫn còn nguyên vẹn.",
+    "Tới cái phần càng này là ta nói nó ngọt kinh khủng khiếp luôn."
+  ],
+  "hook_content": "Mấy hôm nay ở Nhật mưa gió quá hay sao á mà cái quầy hải sản nó cứ trống trơn à.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video chia sẻ về trải nghiệm ăn chân cua hoàng đế đông lạnh mua ở siêu thị Nhật Bản, cùng với nho sữa và một số sản phẩm khác, đồng thời đưa ra đánh giá khách quan về chất lượng và hương vị của các sản phẩm này.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

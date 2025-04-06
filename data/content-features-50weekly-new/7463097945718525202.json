@@ -1,0 +1,97 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu về việc xin phép Nhật Lệ để quay clip.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin mang tính thủ tục."
+    },
+    {
+      "step": "Xin lỗi Cơm Niêu CKU",
+      "desc": "Xin lỗi vì truyền thông không tốt trong ngày khai trương.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy có lỗi và chân thành."
+    },
+    {
+      "step": "Giải thích sự việc",
+      "desc": "Trình bày chi tiết sự cố chờ đợi lâu và thiếu món.",
+      "impact_level": "2",
+      "viewer_emotion": "Thông cảm với tình huống khó xử."
+    },
+    {
+      "step": "Nhấn mạnh mục đích ban đầu",
+      "desc": "Nhấn mạnh không review sắc nét để giúp quán cải thiện.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy rõ sự thiện chí."
+    },
+    {
+      "step": "Phủ nhận tin đồn",
+      "desc": "Phủ nhận việc cần view và cạnh tranh với quán khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào sự thật thà."
+    },
+    {
+      "step": "Lời xin lỗi từ Lệ",
+      "desc": "Lệ thay mặt quán xin lỗi Banda về sự cố.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy được sự quan tâm và thành ý."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Nhấn mạnh việc rút kinh nghiệm và mong mọi người trải nghiệm.",
+      "impact_level": "1",
+      "viewer_emotion": "Hi vọng mọi thứ sẽ tốt đẹp hơn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Drama",
+    "Chuyên nghiệp"
+  ],
+  "cta_content": [
+    "Dạ rồi đó là cái điều mình muốn gửi tới thôi còn lại đồ ăn thì tự mọi người tới đây tự trải nghiệm.",
+    "Vậy rồi ok cảm ơn mọi người rất là nhiều."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "xin lỗi",
+    "thiếu tinh tế",
+    "vui vẻ",
+    "chân thực",
+    "mong muốn",
+    "thông minh",
+    "nhạy bén",
+    "tiếc"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "mình đã xin phép Nhật Lệ để được quay cái clip này",
+    "mình đưa một cái clip mà nó không hề đúng một thời điểm một chút xíu nào hết",
+    "Banda Chân Lý không bao giờ nhận booking cho bất kỳ một quán ăn nào tại Sài Gòn hay bất kỳ ở đâu"
+  ],
+  "hook_content": "mình đã xin phép Nhật Lệ để được quay cái clip này.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện",
+    "Đối thoại"
+  ],
+  "summarization": "Video là lời xin lỗi của Banda Chân Lý tới Cơm Niêu CKU Linh và anh Quang Linh vì clip review không tốt trong ngày khai trương, đồng thời giải thích rõ sự cố và phủ nhận các tin đồn tiêu cực. Banda mong muốn quán tiếp tục phát triển và khuyến khích mọi người tự trải nghiệm.",
+  "tone_of_voice": [
+    "Chân thành",
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

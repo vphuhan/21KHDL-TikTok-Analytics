@@ -1,0 +1,86 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món chân gà sả tắc và các nguyên liệu khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Hướng dẫn làm sạch chân gà, tay heo để không bị nhớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Học hỏi được mẹo hay."
+    },
+    {
+      "step": "Nấu nước mắm ngâm",
+      "desc": "Hướng dẫn pha nước mắm theo tỉ lệ và giới thiệu nước mắm.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến tỉ lệ và nguyên liệu."
+    },
+    {
+      "step": "Xử lý tắc",
+      "desc": "Hướng dẫn xử lý tắc để không bị đắng.",
+      "impact_level": "2",
+      "viewer_emotion": "Ghi nhớ mẹo nhỏ."
+    },
+    {
+      "step": "Ngâm và bảo quản",
+      "desc": "Hướng dẫn trộn nguyên liệu và thời gian ngâm.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong muốn thử làm theo."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Nhấn mạnh độ ngon và hấp dẫn của món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Mọi người nhớ làm nhiều nhiều xíu nha, chứ món này á ăn nó cuốn lắm, ăn một xíu là hết à."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Lưu video"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "giòn",
+    "cuốn",
+    "thèm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Để mấy cái món ngâm của mình á nó không có bị nhớt thì nguyên liệu á mình phải làm cho nó thiệt là sạch",
+    "Nước mắm mà ngon rồi á ngâm một cái là chỉ muốn ăn miếng đầu liền thôi",
+    "Mọi người nhớ làm nhiều nhiều xíu nha, chứ món này á ăn nó cuốn lắm, ăn một xíu là hết à"
+  ],
+  "hook_content": "không biết là ở đây á có bạn nào làm cái món chân gà ngâm sả tắc mà nó bị nhớt bị đắng á thì nhớ coi clip này nha.",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm món chân gà ngâm sả tắc không bị đắng và nhớt, từ khâu sơ chế nguyên liệu đến pha nước mắm và ngâm. Thành phẩm giòn ngon, đậm đà hương vị.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

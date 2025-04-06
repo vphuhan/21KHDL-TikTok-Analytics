@@ -1,0 +1,68 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu nhân vật",
+      "desc": "Giới thiệu về người thích ăn ngon và dễ tính trong việc ăn uống.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Mô tả thói quen ăn uống",
+      "desc": "Miêu tả thói quen thèm ăn vặt và dễ dàng chọn món của nhân vật.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Nhấn mạnh sự dễ tính",
+      "desc": "Khẳng định sự dễ tính và không vòng vo khi chọn món ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Tổng kết",
+      "desc": "Tóm lại về việc nhân vật luôn đồng ý với mọi lựa chọn ăn uống.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thèm",
+    "đói",
+    "dễ tính",
+    "thích"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Bạn là đứa thích ăn ngon.",
+    "Món này bạn thèm mỗi khi hơi chướng đói chính là món gì cũng được.",
+    "Cứ ăn gì cũng ok."
+  ],
+  "hook_content": "Bây giờ tôi mới biết bạn là đứa thích ăn ngon.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mô tả về một người bạn dễ tính trong việc ăn uống, luôn sẵn sàng ăn bất cứ món gì khi đói. Người này không vòng vo và dễ dàng đồng ý với mọi lựa chọn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

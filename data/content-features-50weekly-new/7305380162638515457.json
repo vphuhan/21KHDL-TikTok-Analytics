@@ -1,0 +1,91 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sốt kho",
+      "desc": "Giới thiệu công thức sốt kho cá, nhấn mạnh sự tiện lợi và ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về công thức và tính ứng dụng."
+    },
+    {
+      "step": "Liệt kê nguyên liệu",
+      "desc": "Nêu các nguyên liệu đơn giản và đặc biệt là nước màu tự thắng.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy công thức dễ thực hiện."
+    },
+    {
+      "step": "Hướng dẫn bảo quản",
+      "desc": "Hướng dẫn bảo quản sốt trong tủ lạnh để dùng dần.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy được tính tiện lợi khi bảo quản."
+    },
+    {
+      "step": "Kho cá lóc",
+      "desc": "Mẹ mua cá lóc và bắt đầu kho với sốt đã làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú với món cá lóc kho."
+    },
+    {
+      "step": "Chiên sơ cá",
+      "desc": "Chiên sơ cá lóc cho săn lại trước khi kho.",
+      "impact_level": "1",
+      "viewer_emotion": "Hình dung được cách chế biến."
+    },
+    {
+      "step": "Thêm sốt và nước dừa",
+      "desc": "Cho sốt kho và nước dừa tươi vào kho cá.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị ngọt của món ăn."
+    },
+    {
+      "step": "Thưởng thức và kết luận",
+      "desc": "Mô tả hương vị món ăn và gợi ý cách thưởng thức.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và muốn thử làm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cho nên cứ tham khảo thử nha."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "tuyệt vời",
+    "uy tín",
+    "mặn mặn ngọt ngọt",
+    "cay cay",
+    "thấm đẫm",
+    "đẹp"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đảm bảo không ngon không ăn tiền luôn.",
+    "Mấy bà nào vụng về hay là không biết nấu ăn nè.",
+    "Nó mặn mặn ngọt ngọt, thêm ớt cay cay thấm đẫm vô cái từng thớ cá."
+  ],
+  "hook_content": "Lưu lại liền cái công thức sốt kho cá, làm xong để tủ lạnh.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ công thức sốt kho cá đơn giản, dễ làm, có thể bảo quản lâu và hướng dẫn cách kho cá lóc ngon với sốt này. Món ăn có vị mặn ngọt, cay cay, rất hấp dẫn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

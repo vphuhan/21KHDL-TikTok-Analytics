@@ -1,0 +1,89 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món nước mía lên men độc đáo và hấp dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn lạ."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Hướng dẫn sơ chế mía và các nguyên liệu khác.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy dễ thực hiện."
+    },
+    {
+      "step": "Xay mía",
+      "desc": "Hướng dẫn xay mía bằng máy xay sinh tố.",
+      "impact_level": "1",
+      "viewer_emotion": "Hình dung được cách làm."
+    },
+    {
+      "step": "Thêm nguyên liệu",
+      "desc": "Hướng dẫn thêm đường phèn và men rượu vào mía đã xay.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy quy trình phức tạp hơn."
+    },
+    {
+      "step": "Lên men",
+      "desc": "Hướng dẫn ủ lên men trong 3 ngày.",
+      "impact_level": "1",
+      "viewer_emotion": "Chờ đợi kết quả."
+    },
+    {
+      "step": "Lọc và ủ lần 2",
+      "desc": "Hướng dẫn lọc nước rượu và ủ lần 2 trong 4 ngày.",
+      "impact_level": "1",
+      "viewer_emotion": "Kiên nhẫn làm theo."
+    },
+    {
+      "step": "Thưởng thức và giới thiệu",
+      "desc": "Mô tả hương vị và lợi ích của rượu mía.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "bạn cũng nhanh tay làm thử ở nhà đi nhé."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngọt thanh",
+    "ngon miệng",
+    "say say"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "chỉ cần rắc hai gói muối ăn vào mía, lại có thể làm ra món ngon kinh điển",
+    "còn ngon hơn cả bào ngư hải sâm nữa đó",
+    "rượu mía ủ kiểu này vừa ngọt thanh vừa ngon miệng, nồng độ cồn thấp, hơi say say, không say xỉn"
+  ],
+  "hook_content": "Ai mà ngờ được, chỉ cần rắc hai gói muối ăn vào mía, lại có thể làm ra món ngon kinh điển, chỉ giới nhà giàu mới được ăn vào những năm 60.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm rượu mía lên men tại nhà, một món ngon kinh điển. Các bước bao gồm sơ chế, xay mía, thêm men, ủ và lọc để tạo ra thức uống vừa ngọt thanh vừa ngon miệng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

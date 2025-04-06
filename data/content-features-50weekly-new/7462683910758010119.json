@@ -1,0 +1,91 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món gà quay làm tại nhà bằng nồi chiên không dầu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Chọn gà, chuẩn bị gia vị ướp (tỏi, hành, sả, tiêu...).",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Sơ chế và ướp gà",
+      "desc": "Làm sạch gà, phết hỗn hợp muối chanh, ướp gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "Làm giò sống",
+      "desc": "Xay thịt nạc mỡ với tiêu và hạt nêm để làm giò sống.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Sấy và quay gà",
+      "desc": "Sấy gà ở 150 độ, sau đó quay ở 200 độ.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức"
+    },
+    {
+      "step": "Hấp giò nấm",
+      "desc": "Cuộn nấm mộc nhĩ với giò sống và hấp trong 15 phút.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Nấu canh và hoàn thiện",
+      "desc": "Nấu canh rau củ và chặt gà, hoàn thành mâm cơm Tết.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm cúng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "vui",
+    "thơm ngon",
+    "thanh ngọt",
+    "đậm đà",
+    "yên tâm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Tết này mọi người thử làm gà quay tại nhà bằng nồi chiên không dầu đi, siêu ngon luôn.",
+    "Đặc biệt hôm nay mình sẽ nấu một buổi tất niên cho những người bạn thân của mình tới nhà chơi.",
+    "Giờ chỉ cần chặt gà ra nữa là xong mâm cơm Tết chuẩn vị nhà rồi."
+  ],
+  "hook_content": "Tết này mọi người thử làm gà quay tại nhà bằng nồi chiên không dầu đi, siêu ngon luôn.",
+  "hook_type": [
+    "Cho thấy kết quả trước",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món gà quay bằng nồi chiên không dầu để chuẩn bị cho mâm cơm Tết. Ngoài ra, còn có món giò sống hấp nấm và canh rau củ thanh ngọt, mang đến một bữa ăn tất niên ấm cúng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

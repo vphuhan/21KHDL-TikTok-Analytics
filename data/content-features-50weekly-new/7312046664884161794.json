@@ -1,0 +1,65 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu chai nước khoáng đắt tiền và giá cả thực tế.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm đắt tiền."
+    },
+    {
+      "step": "Miêu tả chi tiết",
+      "desc": "Miêu tả chất liệu chai, nắp và so sánh kích thước.",
+      "impact_level": "1",
+      "viewer_emotion": "Quan tâm đến thiết kế sản phẩm."
+    },
+    {
+      "step": "Uống thử và đánh giá",
+      "desc": "Uống và đánh giá hương vị, so sánh với các loại khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn biết hương vị đặc biệt."
+    },
+    {
+      "step": "So sánh thành phần",
+      "desc": "Đưa ra thành phần và so sánh với nước La Vie.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về thành phần nước."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "hơi lợ lợ",
+    "ngọt lợ"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nếu như bạn nào nghĩ rằng là cái nước đóng chai này thì cái loại nào nó cũng như nhau ấy thì thật ra nó khác nhau các bạn ạ.",
+    "Khi uống thì cái vị ngọt lợ của khoáng nhiều hơn Lavie."
+  ],
+  "hook_content": "Đây là cái chai nước lọc trị giá 180k mà mình xem ở một cái clip trên TikTok mọi người ạ.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review chai nước khoáng Acqua Panna đắt tiền, so sánh giá cả, thiết kế, hương vị và thành phần với các loại nước khác như La Vie và Aquafina.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Mục đích review pizza các thương hiệu, bắt đầu với Pizza Hut.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về đánh giá các loại pizza."
+    },
+    {
+      "step": "Đánh giá Pepperoni",
+      "desc": "Nhận xét về số lượng, hương vị pepperoni và chất lượng đế bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy món này không đặc sắc."
+    },
+    {
+      "step": "Đánh giá Hawaii",
+      "desc": "Đánh giá sự kết hợp dứa, thịt nguội, phô mai và chất lượng bột.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy món này có vẻ ổn."
+    },
+    {
+      "step": "Đánh giá Hải sản",
+      "desc": "Nhận xét độ tươi của tôm, viền phô mai và sốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với tôm tươi và sốt."
+    },
+    {
+      "step": "Đánh giá Phô mai cao cấp",
+      "desc": "Đánh giá topping và đế xúc xích phô mai.",
+      "impact_level": "1",
+      "viewer_emotion": "Thất vọng vì không như mong đợi."
+    },
+    {
+      "step": "Đánh giá Tứ vị xuân",
+      "desc": "Nhận xét về sốt pesto và sự kết hợp các nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sốt pesto và hương vị."
+    },
+    {
+      "step": "Tổng kết",
+      "desc": "Đánh giá chung và lời khuyên về việc mua pizza.",
+      "impact_level": "2",
+      "viewer_emotion": "Ghi nhận thông tin để đưa ra quyết định."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Hãy comment cho tôi biết cũng như là like và follow để xem tôi phí tiền cho các bạn vào hãng thương hiệu tiếp theo nhé."
+  ],
+  "cta_type": [
+    "Follow kênh",
+    "Thích video",
+    "Bình luận",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "mặn",
+    "ngon",
+    "hài hòa",
+    "tươi",
+    "giòn",
+    "ngấy",
+    "bình thường"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tao không hiểu bạn bè người Ý lại không thích cái đấy.",
+    "Pizza Hut có nghĩa là cứ mười người ăn pizza thì đến bảy người là bỏ viền. Thế phải đổi tên thành hai phết.",
+    "Cảm giác là một cái món đang cố gắng quá nhiều, nhưng mà chưa trở thành ai cả. Giống như tất cả các thằng thanh thiếu niên tuổi 16."
+  ],
+  "hook_content": "Xếp hạng pizza của tất cả các thương hiệu đồ ăn nhanh!",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review pizza của các thương hiệu đồ ăn nhanh, bắt đầu với Pizza Hut, đánh giá chi tiết từng loại pizza về hương vị, chất lượng và đưa ra lời khuyên có nên mua hay không.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

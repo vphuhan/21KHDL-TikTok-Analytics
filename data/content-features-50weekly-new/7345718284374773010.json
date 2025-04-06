@@ -1,0 +1,92 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món hải sản sốt mắm Thái gồm ghẹ, sò huyết, tôm sống.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn và cách chế biến."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Bắt đầu ăn tôm sống, ghẹ sống và sò huyết trộn sốt mắm Thái.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, thích thú khi thấy món ăn hấp dẫn."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét về vị đặc trưng của mắm Thái, độ tươi của hải sản.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm nhận rõ hơn về hương vị món ăn."
+    },
+    {
+      "step": "Cảnh báo",
+      "desc": "Khuyến cáo người bụng yếu, trẻ em không nên ăn đồ sống.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy được quan tâm, lưu ý."
+    },
+    {
+      "step": "Chia sẻ trải nghiệm",
+      "desc": "Chia sẻ cảm giác cay, thèm thuồng khi ăn đồ sống.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với người ăn."
+    },
+    {
+      "step": "Thưởng thức tiếp",
+      "desc": "Tiếp tục ăn và tận hưởng món ăn, uống nước giải cay.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú và muốn thử món ăn."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Ăn miếng cuối cùng và cảm ơn người xem.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy hài lòng với video."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Comment ở bên dưới cho Vàng biết với nha."
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "ngon",
+    "cay",
+    "ngọt",
+    "cuốn",
+    "tuyệt vời"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái mắm Thái này á bạn có vị đặc trưng của mắm nè, kết hợp với ớt cay, chanh chua, ngọt ngọt của đường nó làm tôm lên được cái sự tươi sống của hải sản sống á bạn, ăn rất là cuốn luôn.",
+    "Ăn tới gần cuối là cay muốn xỉu luôn, còn lúc mới vô là ngon lắm.",
+    "Mỗi lần mà Vàng ăn đồ sống á hoặc là đồ ăn mà Vàng thấy ngon trên cái mức ngon luôn á thì Vàng sẽ quên cười á bạn."
+  ],
+  "hook_content": "Hai bạn, chào mừng bạn đã đến với kênh Tóc Vàng khoe và mình là Tóc Vàng.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang của Tóc Vàng khoe về món hải sản sốt mắm Thái, bao gồm ghẹ sống, sò huyết và tôm sống. Tóc Vàng vừa ăn vừa chia sẻ cảm nhận về hương vị, độ tươi ngon và không quên nhắc nhở người xem về việc ăn đồ sống.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

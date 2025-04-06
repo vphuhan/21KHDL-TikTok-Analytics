@@ -1,0 +1,81 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Liệt kê các món ăn có trong mẹt bún đậu và đồ uống.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thực khách review",
+      "desc": "Nhận xét nhanh của thực khách về độ ngon của món khoai.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Thử các thành phần",
+      "desc": "Thực khách nếm thử và đánh giá độ ngon của món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Đánh giá sốt",
+      "desc": "Thực khách đưa ra nhận xét về nước sốt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thanh toán",
+      "desc": "Tình huống tranh giành trả tiền ăn giữa người quay và khách.",
+      "impact_level": "2",
+      "viewer_emotion": "Hài hước"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nờ, Nờ Hoàng Yến xinh gái mọi người nhớ follow mình nhé."
+  ],
+  "cta_type": [
+    "Follow kênh"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngon vãi đắt",
+    "giỏi quá",
+    "xinh gái",
+    "giàu"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Hôm nay đông như thế này mà không nổi một triệu view là nhục nhá.",
+    "Như thế này 2 triệu view nhé em mời chị ăn luôn.",
+    "Mic 5 triệu tao đấy."
+  ],
+  "hook_content": "Á, chết kìa! Cái gì vậy bà nội? Á, chết kìa! Trời ơi!",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video ghi lại cảnh ăn uống và review bún đậu mắm tôm tại một quán ăn vỉa hè với những người bạn. Các bạn trẻ vừa ăn uống vừa trò chuyện, trêu đùa nhau tạo không khí vui vẻ, thoải mái.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món mì trộn ớt và mời mọi người cùng ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ cay của món mì."
+    },
+    {
+      "step": "Trải nghiệm",
+      "desc": "Người ăn bắt đầu ăn và cảm nhận độ cay của mì.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy kích thích khi xem người khác ăn cay."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Đánh giá độ ngon và độ cay của mì, cảnh báo.",
+      "impact_level": "2",
+      "viewer_emotion": "Lưu ý về cảnh báo không nên ăn theo."
+    },
+    {
+      "step": "Khẳng định",
+      "desc": "Khẳng định video không cắt ghép, ăn thật.",
+      "impact_level": "1",
+      "viewer_emotion": "Tin tưởng hơn vào trải nghiệm thực tế."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Thừa nhận không nên ăn cay và xin câu view.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hài hước với sự thành thật của người ăn."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người không nên làm theo mình nhá"
+  ],
+  "cta_type": [
+    "Chia sẻ",
+    "Chia sẻ công thức",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "cay",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn mì thôi.",
+    "Cay mà ngon nha.",
+    "Mọi người không nên làm theo mình nhá."
+  ],
+  "hook_content": "vẫn như thường lệ thì mình sẽ thưởng nốt cay của hôm trước nhá.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình ăn mì trộn siêu cay của một bạn trẻ. Bạn ấy vừa ăn vừa review độ cay và cảnh báo mọi người không nên ăn theo.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

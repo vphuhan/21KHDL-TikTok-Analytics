@@ -1,0 +1,108 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu quán Lịm Donut và mục đích video là review.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các loại donut."
+    },
+    {
+      "step": "Thông báo đặc biệt",
+      "desc": "Thông báo kênh đạt 100k follower và kêu gọi Q&A.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không quá đặc biệt."
+    },
+    {
+      "step": "Đánh giá Cinnamon Sugar",
+      "desc": "Nhận xét hương vị quế chưa rõ ràng, bánh ổn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung vào hương vị."
+    },
+    {
+      "step": "Đánh giá Lemon Patties",
+      "desc": "Sốt chanh ngon, nhưng tỷ lệ sốt và bánh không ổn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hơi thất vọng."
+    },
+    {
+      "step": "Đánh giá Key Lime Pie",
+      "desc": "Kem ngậy, nhưng bánh nhiều gây ngán.",
+      "impact_level": "2",
+      "viewer_emotion": "Không quá ấn tượng."
+    },
+    {
+      "step": "Đánh giá Love Me Smore",
+      "desc": "Lớp socola và kẹo dẻo không hợp.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    },
+    {
+      "step": "Đánh giá Berry Bliss",
+      "desc": "Mứt dâu tươi, kem thanh, hương vị cân bằng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hứng thú với sự cân bằng."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Hãy comment cho tôi biết, cũng như là like và follow để xem tôi tiếp tục phí tiền cho bạn nhé!"
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Thích video",
+    "Follow kênh"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "mềm",
+    "xốp",
+    "ngọt",
+    "vừa phải",
+    "ngon",
+    "chua",
+    "hài hòa",
+    "bứ",
+    "ngậy",
+    "mặn",
+    "nhạt",
+    "ổn",
+    "tươi",
+    "thanh",
+    "ngấy",
+    "cân bằng",
+    "béo",
+    "dậy"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái sốt chanh này khá là ngon, cái kết cấu nó mịn và cái hương vị nó rất là chua nên nó hài hòa được với cái độ ngọt rất là nhiều.",
+    "Cái kem này rất là thanh, nó không tạo cho cái độ quá là ngấy như là kiểu kem bánh gato. Tổng hòa lại thành một cái hương vị rất là cân bằng, không quá ngọt, cũng không quá chua, cũng không quá bứ.",
+    "Cá nhân tôi thì khá là thích những câu chuyện và thương hiệu mà Lịm đang xây dựng. Tuy nhiên về chất lượng sản phẩm thì tôi đánh giá ở mức ổn, không có gì quá là nổi trội so với các hãng khác"
+  ],
+  "hook_content": "Xếp hạng tất cả các loại donuts của Lịm Donut.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video review các loại donut của Lịm Donut, đưa ra đánh giá chi tiết về hương vị, texture và độ cân bằng của từng loại, đồng thời nhận xét về thương hiệu.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

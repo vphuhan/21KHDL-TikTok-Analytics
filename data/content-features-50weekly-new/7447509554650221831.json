@@ -1,0 +1,87 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu tình huống",
+      "desc": "Sắp về nước nên chỉ dám mua trái cây, tranh thủ ăn đồ tủ lạnh.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, giới thiệu lý do ăn."
+    },
+    {
+      "step": "Xử lý đồ ăn thừa",
+      "desc": "Đồ ăn thì đem cho hoặc bỏ bớt vì không ăn kịp.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, biết cách xử lý đồ ăn."
+    },
+    {
+      "step": "Phát hiện bất ngờ",
+      "desc": "Hấp lại cua và bất ngờ phát hiện là cua gạch.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị, tò mò về cua gạch."
+    },
+    {
+      "step": "Miêu tả cua gạch",
+      "desc": "Gạch cua đầy, ai đam mê gạch sẽ không chịu nổi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng, muốn ăn cua gạch."
+    },
+    {
+      "step": "Hướng dẫn ăn",
+      "desc": "Ăn kèm muối tiêu cay để giảm độ béo.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị, muốn thử cách ăn này."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Gạch cứng như trứng muối, béo và bở.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi ngán, nhưng vẫn muốn thử."
+    },
+    {
+      "step": "Lưu ý về hải sản",
+      "desc": "Hải sản phải ăn liền, để lâu sẽ giảm độ ngon.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, biết thêm kinh nghiệm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngại",
+    "ngon",
+    "béo",
+    "cay",
+    "bột bột",
+    "dai"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ai mà đam mê gạch thì nhìn cảnh này thì làm sao mà chịu nổi được á chứ.",
+    "Ăn cái món này thì mọi người nhớ làm một cái chén muối tiêu thiệt là cay để dằn lại cái độ béo của nó lại.",
+    "Đúng là mấy cái loại hải sản này khi mà ăn á là phải tranh thủ ăn liền, chứ mà luộc xong rồi để tủ đông thời gian mà đem ra ăn tiếp á thì cái độ ngon của nó giảm đi rất là nhiều và mình cảm nhận rõ gệt luôn á nghe."
+  ],
+  "hook_content": "Vài hôm nữa là mình về nước rồi nên thành ra là hôm nay đi siêu thị chỉ dám mua trái cây ăn thôi.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video chia sẻ về việc tranh thủ ăn đồ trong tủ lạnh trước khi về nước, bất ngờ phát hiện cua gạch và chia sẻ cảm nhận, cách ăn cua gạch ngon.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

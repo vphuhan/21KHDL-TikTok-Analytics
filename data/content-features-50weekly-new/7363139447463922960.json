@@ -1,0 +1,94 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn và đồ uống",
+      "desc": "Giới thiệu tủy xương bò nướng và kombucha các vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của món ăn."
+    },
+    {
+      "step": "Thưởng thức kombucha",
+      "desc": "Uống thử kombucha vị hồng trà đào tuyết và nêu cảm nhận.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy sản phẩm này có vẻ giải khát."
+    },
+    {
+      "step": "Nêu công dụng của kombucha",
+      "desc": "Liệt kê công dụng của kombucha đối với sức khỏe.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy đây là một thức uống tốt."
+    },
+    {
+      "step": "Thưởng thức tủy xương bò nướng",
+      "desc": "Bắt đầu ăn tủy xương bò nướng sa tế và nêu cảm nhận.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng món ăn."
+    },
+    {
+      "step": "Thưởng thức kết hợp",
+      "desc": "Uống kombucha với đá và ăn tủy bò nướng với bánh mì.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy sự kết hợp này rất ngon."
+    },
+    {
+      "step": "Hâm nóng lại tủy",
+      "desc": "Hâm nóng lại tủy do nói nhiều nên bị đông lại.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm vì món ăn bị nguội."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Cảm ơn người xem và hẹn gặp lại ở video sau.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn bạn đã xem video của Vệ nha. Hẹn gặp lại bạn vào video lần sau. Bye bye."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "hấp dẫn",
+    "ngon",
+    "béo",
+    "cay",
+    "mặn",
+    "phê",
+    "đã",
+    "mát",
+    "ngọt tự nhiên",
+    "nóng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Wow, béo lắm bạn ơi.",
+    "Cái này nó cay cay mặn mặn đó bạn.",
+    "Ngon béo quá nổ luôn bạn ơi."
+  ],
+  "hook_content": "Hai bạn, hôm nay Vệ sẽ mút ăn tủy xương bò nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang tủy xương bò nướng sa tế ăn kèm bánh mì và uống kombucha các vị của Tóc Vàng hoe. Video tập trung vào trải nghiệm ăn uống và cảm nhận hương vị của món ăn và thức uống.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

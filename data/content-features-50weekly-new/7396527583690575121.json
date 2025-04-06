@@ -1,0 +1,73 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món cơm với thịt luộc, cà pháo và mắm tôm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Thể hiện sự thèm thuồng",
+      "desc": "Nhấn mạnh sự thèm thuồng món ăn sau một thời gian.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm"
+    },
+    {
+      "step": "Ăn và miêu tả",
+      "desc": "Thực hiện ăn và miêu tả hương vị món ăn một cách ngon miệng.",
+      "impact_level": "3",
+      "viewer_emotion": "Kích thích vị giác"
+    },
+    {
+      "step": "Miêu tả chi tiết",
+      "desc": "Miêu tả chi tiết cách pha mắm tôm với tỏi, ớt và tắc đường.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Tiếp tục ăn",
+      "desc": "Tiếp tục thưởng thức món ăn và thể hiện sự ngon miệng.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng hơn"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thèm",
+    "ngon",
+    "siêu ngon",
+    "cay"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Lâu ngày mới ăn lại món này, mọi người ơi, thèm lắm luôn á.",
+    "Mắm tôm, Dũng giả, tỏi ớt thật là cay, pha với tắc đường, siêu ngon luôn mọi người.",
+    "Trời ơi."
+  ],
+  "hook_content": "Mọi người ăn cơm với thịt luộc, cà pháo chấm mắm tôm cùng Dũng nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh Dũng ăn cơm với thịt luộc, cà pháo chấm mắm tôm, thể hiện sự ngon miệng và thèm thuồng món ăn này sau một thời gian dài không ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người ăn chay, ăn healthy"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Thông báo làm cơm chay cúng mẹ nhân ngày rằm và giỗ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chia sẻ câu chuyện",
+      "desc": "Kể về việc đọc được bình luận tiêu cực và phản ứng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Thử làm tàu hủ",
+      "desc": "Thực hiện làm tàu hủ tại nhà nhưng không thành công.",
+      "impact_level": "2",
+      "viewer_emotion": "Thất vọng"
+    },
+    {
+      "step": "Chế biến món ăn",
+      "desc": "Bắt đầu làm các món chay: gà chay, canh, mực xào.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Chia sẻ về gia đình",
+      "desc": "Nói về việc cúng giỗ mẹ ở Việt Nam và cuộc sống gia đình.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm động"
+    },
+    {
+      "step": "Hoàn thành mâm cơm",
+      "desc": "Giới thiệu mâm cơm chay đã hoàn thành để cúng mẹ.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp"
+    },
+    {
+      "step": "Lời nhắn nhủ",
+      "desc": "Mong mẹ ở thế giới bên kia yên lòng về con cháu.",
+      "impact_level": "3",
+      "viewer_emotion": "Xúc động"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chuyên nghiệp",
+    "Truyền thống"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "hạnh phúc",
+    "vui",
+    "mong muốn",
+    "thanh thản"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Em xấu xấu gì chứ chồng em hơi bị tốt luôn á, con em cũng hơi bị ngoan nữa, mà nhà em lại hơi bị hạnh phúc á nha.",
+    "Thất bại là mẹ thành công, thất bại lãng xẹt.",
+    "Mình thì không có mong muốn gì hết chỉ mong mẹ ở bên đó đừng có lo lắng gì cho anh em tụi mình ở bên này."
+  ],
+  "hook_content": "Xin kể cho mọi người nghe nha. Bữa nay ngày rằm với lại là đám giỗ cúng ngày chín của mẹ em nữa.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn",
+    "Kể chuyện"
+  ],
+  "summarization": "Video ghi lại quá trình nấu mâm cơm chay cúng mẹ của một người phụ nữ. Cô chia sẻ về những khó khăn gặp phải khi làm tàu hủ, cũng như tâm tư tình cảm và lời nhắn nhủ đến người mẹ đã khuất.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Chào khán giả và giới thiệu món mì cay full topping tự nấu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú vì sự xuất hiện của người nấu."
+    },
+    {
+      "step": "Chia sẻ Cảm xúc",
+      "desc": "Diễn tả cảm giác thèm mì cay khi trời mưa se lạnh.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với cảm giác thèm ăn."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê các topping có sẵn và mua thêm ở chợ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Nấu mì",
+      "desc": "Nhấn mạnh lượng topping nhiều khi tự nấu ở nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đầy đặn của topping."
+    },
+    {
+      "step": "Thêm gia vị",
+      "desc": "Bổ sung ớt bột và ớt trái để tăng độ cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ cay của món ăn."
+    },
+    {
+      "step": "Miêu tả món ăn",
+      "desc": "Miêu tả độ cay của mì và sự ngon miệng của topping.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng và muốn ăn ngay."
+    },
+    {
+      "step": "Kêu gọi",
+      "desc": "Kêu gọi mọi người tự làm mì cay full topping.",
+      "impact_level": "2",
+      "viewer_emotion": "Có động lực muốn thử làm theo."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi nghe."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thèm",
+    "đã",
+    "cay tê đầu lưỡi",
+    "giòn ngọt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trời ơi cái cảm giác trời mưa se se lạnh mà làm một tô mì cay nóng hổi vừa thổi vừa ăn thì còn gì bằng đúng không nè.",
+    "Ta nói mì thì cay tê đầu lưỡi, ăn kèm với mớ topping đầy ụ, nấm kim châm thì giòn ngọt, ăn tới đâu là đã thèm tới đó.",
+    "Đây là tín hiệu vũ trụ kêu mọi người chạy ra làm một tô mì cay full topping liền."
+  ],
+  "hook_content": "Hello mọi người! Lại là tôi, Mật Bơ thích nấu ăn đây. Nay cùng tôi nấu mì cay full topping tại nhà nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn nấu mì cay full topping tại nhà, chia sẻ cảm giác thèm ăn khi trời lạnh và miêu tả hương vị hấp dẫn của món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

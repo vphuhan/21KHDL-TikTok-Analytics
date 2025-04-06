@@ -1,0 +1,84 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món thịt heo chiên giòn sốt chua ngọt có nguồn gốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về nguồn gốc món ăn."
+    },
+    {
+      "step": "Công thức chiên thịt",
+      "desc": "Hướng dẫn chiên thịt heo giòn không cần tinh bột khoai tây.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú vì công thức độc đáo."
+    },
+    {
+      "step": "Ướp thịt",
+      "desc": "Hướng dẫn chi tiết cách ướp thịt với các loại gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích với hướng dẫn tỉ mỉ."
+    },
+    {
+      "step": "Nấu sốt chua ngọt",
+      "desc": "Hướng dẫn nấu nước sốt chua ngọt và nêm nếm gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức muốn thử làm sốt."
+    },
+    {
+      "step": "Chuẩn bị bột chiên",
+      "desc": "Hướng dẫn làm bột chiên giòn bằng bột bắp và lòng trắng.",
+      "impact_level": "3",
+      "viewer_emotion": "Ngạc nhiên với mẹo làm bột chiên."
+    },
+    {
+      "step": "Chiên thịt lần 1",
+      "desc": "Chiên sơ thịt và để nguội trước khi chiên lần hai.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ kết quả giòn rụm."
+    },
+    {
+      "step": "Chiên thịt lần 2",
+      "desc": "Áo thêm lớp bột và chiên giòn lần hai.",
+      "impact_level": "3",
+      "viewer_emotion": "Kích thích vị giác, thèm ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "giòn",
+    "ngon",
+    "dễ chịu"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "chiên cái thịt heo này không cần đến tinh bột khoai tây mà nó vẫn giòn nha mấy ông mấy bà",
+    "ở dĩ áo như vầy á thì cái phần thịt của mình khi chiên lần hai nó sẽ rất là giòn luôn",
+    "Người Hàn Quốc á người ta biến tấu lại cho cái vị sốt á ăn nó dễ chịu hơn, có bị nồng cái mùi hồi, mùi quế ở trong cái chén sốt này."
+  ],
+  "hook_content": "Cái mì tương đen bắt nguồn từ Trung Quốc, tôi không nói rồi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn chi tiết cách làm món thịt heo chiên giòn sốt chua ngọt chuẩn vị Hàn Quốc, với bí quyết chiên thịt không cần bột khoai tây và làm sốt chua ngọt dễ ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

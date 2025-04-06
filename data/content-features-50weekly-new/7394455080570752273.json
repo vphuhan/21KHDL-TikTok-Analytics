@@ -1,0 +1,89 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu mục đích làm video: review burger các thương hiệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các đánh giá sắp tới."
+    },
+    {
+      "step": "Đánh giá KFC",
+      "desc": "Đánh giá dịch vụ, giá cả, hương vị của ba loại burger KFC.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hứng thú với các nhận xét chi tiết."
+    },
+    {
+      "step": "Đánh giá Popeyes",
+      "desc": "Đánh giá dịch vụ, giá cả, hương vị của ba loại burger Popeyes.",
+      "impact_level": "2",
+      "viewer_emotion": "Tiếp tục so sánh và đánh giá."
+    },
+    {
+      "step": "Đánh giá Jollibee",
+      "desc": "Đánh giá dịch vụ, giá cả, hương vị của ba món Jollibee.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự khác biệt trong đánh giá."
+    },
+    {
+      "step": "Tổng kết",
+      "desc": "Đưa ra lời khuyên nên và không nên khi mua burger.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích với lời khuyên."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Hãy like, follow và comment để xem tôi tiếp tục phí tiền cho bạn nhé."
+  ],
+  "cta_type": [
+    "Follow kênh",
+    "Thích video",
+    "Bình luận",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "giòn",
+    "sật sật",
+    "vừa phải",
+    "mềm",
+    "ẩm",
+    "đậm",
+    "cay cay",
+    "nhạt",
+    "mọng nước",
+    "nóng hổi",
+    "thơm",
+    "ngọt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "cho đến thời điểm hiện tại thì không có tuổi với bánh mì Việt Nam",
+    "Top 1 chạy ngay đi",
+    "Toy toy chika luôn, trả bù cho gà rán của KFC"
+  ],
+  "hook_content": "Xếp hạng burger của tất cả các thương hiệu đồ ăn nhanh.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video xếp hạng burger của KFC, Popeyes và Jollibee dựa trên các tiêu chí dịch vụ, giá cả và hương vị, đồng thời so sánh với bánh mì Việt Nam. Người tạo video đưa ra đánh giá chi tiết về từng loại burger và đưa ra lời khuyên.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

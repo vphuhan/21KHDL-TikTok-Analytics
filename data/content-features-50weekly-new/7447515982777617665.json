@@ -1,0 +1,84 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món xoài non, cóc non chấm sốt Thái hấp dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Cóc, xoài non được chuẩn bị ê hề, sốt chấm gồm nước mắm, đường.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Pha chế sốt chấm",
+      "desc": "Pha sốt chấm với ớt khô, ớt bột cay tê.",
+      "impact_level": "3",
+      "viewer_emotion": "Kích thích"
+    },
+    {
+      "step": "Trình bày và ăn thử",
+      "desc": "Trình bày món ăn hấp dẫn, ăn thử và cảm nhận.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Mời mọi người",
+      "desc": "Mời mọi người cùng ăn để đỡ thèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Gần gũi"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tui."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "siêu hấp dẫn",
+    "cuốn",
+    "mê",
+    "cay",
+    "ngon",
+    "thèm",
+    "giòn",
+    "chua",
+    "đậm đà"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đây là cái công thức sốt chấm trái cây siêu hấp dẫn, chuẩn vị Thái Lan mà tui mới tìm được nè, siêu đơn giản mà ta nói nó cuốn thì thôi nhé luôn.",
+    "Trời ơi, mọi người thấy sốt chấm của tui nó sánh đặt full ớt nhìn mà thèm chưa kìa.",
+    "Ta nói nó cay mà cuốn dữ thần luôn."
+  ],
+  "hook_content": "Đây là cái công thức sốt chấm trái cây siêu hấp dẫn, chuẩn vị Thái Lan mà tui mới tìm được nè, siêu đơn giản mà ta nói nó cuốn thì thôi nhé luôn.",
+  "hook_type": [
+    "Cho thấy kết quả trước",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu công thức sốt chấm trái cây chuẩn vị Thái Lan ăn kèm với xoài non và cóc non. Người làm video vừa chia sẻ cách làm vừa ăn thử và mời mọi người cùng thưởng thức.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món mì cay với topping hấp dẫn, khơi gợi sự thèm ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Chia sẻ tần suất ăn",
+      "desc": "Chia sẻ tần suất ăn mì cay thường xuyên, thể hiện sự yêu thích.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Nấu mì cay",
+      "desc": "Nấu mì cay với các topping đặc biệt như ngọc kê, trứng non.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Pha cà phê",
+      "desc": "Trong lúc chờ mì chín, pha cà phê sức khỏe của Nhật Kim Anh.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá cà phê",
+      "desc": "Đánh giá cà phê ngon, tốt cho sức khỏe, hương vị đậm đà.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm"
+    },
+    {
+      "step": "Thưởng thức mì",
+      "desc": "Mở mì và giới thiệu mì đã chín, mô tả vẻ ngoài hấp dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng ăn mì cay với những lời khen.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi nghe."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "đói bụng",
+    "đã cái nư",
+    "khó chịu",
+    "ngon mê ly",
+    "chấn động",
+    "béo ngậy",
+    "dẻo dẻo",
+    "xịn sò",
+    "nóng hổi",
+    "thiên đường"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ta nói hen, hai cái này là ăn bao nghệ tuyệt đối luôn.",
+    "Cà phê vừa ngon vừa khỏe như vầy, hèn chi ai cũng mê.",
+    "Ta nói ngọc kê thì ú nu béo ngậy, trứng non thì hồng đào dẻo dẻo ăn cùng với mớ topping xịn sò rồi quất thêm miếng mì nóng hổi nữa trời ơi, thiên đường là đây chứ đâu."
+  ],
+  "hook_content": "Hello mọi người, lại là tôi Mật Bắp thích nấu ăn đây.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video chia sẻ về quá trình nấu và thưởng thức mì cay với nhiều topping hấp dẫn như ngọc kê và trứng non, đồng thời giới thiệu loại cà phê sức khỏe của ca sĩ Nhật Kim Anh. Người xem được mời cùng thưởng thức món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

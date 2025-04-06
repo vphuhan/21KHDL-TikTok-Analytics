@@ -1,0 +1,97 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu kế hoạch về Việt Nam",
+      "desc": "Thông báo cả gia đình sẽ về Việt Nam chơi và đi chợ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin về kế hoạch gia đình."
+    },
+    {
+      "step": "Giới thiệu món cá hấp",
+      "desc": "Giới thiệu món cá mặt quỷ hấp và quá trình chuẩn bị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị với món ăn lạ."
+    },
+    {
+      "step": "Nấu món cá hấp",
+      "desc": "Thực hiện nấu món cá hấp với các nguyên liệu đã chuẩn bị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách chế biến."
+    },
+    {
+      "step": "Món phụ của chồng",
+      "desc": "Chồng làm món phụ tặng vợ nhân ngày 8/3.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị với sự chuẩn bị của chồng."
+    },
+    {
+      "step": "Làm kimbap trái tim",
+      "desc": "Làm kimbap hình trái tim nhưng không được đẹp.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thú vị và hài hước."
+    },
+    {
+      "step": "Pha cà phê",
+      "desc": "Pha cà phê Laura của Nhật Kim Anh để uống cùng.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến sản phẩm."
+    },
+    {
+      "step": "Thưởng thức bữa tối",
+      "desc": "Mời mọi người cùng ăn tối và nhận xét về món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Mọi người còn biết cá này làm món gì nữa thì gợi ý cho mình với nha."
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Chia sẻ công thức",
+    "Đặt câu hỏi"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ghiền",
+    "hơi cay cay",
+    "mặn mặn",
+    "ngọt ngọt",
+    "thơm ngon",
+    "yêu thương",
+    "hạnh phúc"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bên ngoài cái con cá này thì sợ nhưng mà ăn cái thịt nó vừa dai vừa ngọt ngon lắm luôn.",
+    "Trời ơi định làm Kimbap trái tim đây mà tại nghề còn hơi yếu nên là trái tim hơi bị lép chút xíu. Tấm lòng thì dù sao nó cũng quan trọng hơn ha mọi người.",
+    "Hạnh phúc nó đến từ những điều nhỏ nhặt vậy thôi á mọi người."
+  ],
+  "hook_content": "nhiều lần suy nghĩ thì cả nhà mình cũng quyết định rồi sẽ về Việt Nam chơi một chuyến nha mọi người.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video ghi lại cảnh gia đình chuẩn bị và thưởng thức bữa tối với món cá mặt quỷ hấp và kimbap trái tim, đồng thời chia sẻ về kế hoạch về Việt Nam và những khoảnh khắc hạnh phúc trong cuộc sống hàng ngày.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hài hước"
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu chủ đề",
+      "desc": "Thực hiện thử thách nấu 10 món trứng chỉ với 70 ngàn đồng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách thực hiện thử thách."
+    },
+    {
+      "step": "Liệt kê các món trứng",
+      "desc": "Liệt kê tên 10 món trứng quen thuộc và dễ làm.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường vì quá quen thuộc."
+    },
+    {
+      "step": "Hướng dẫn món trứng kho tương",
+      "desc": "Hướng dẫn chi tiết cách làm món trứng kho tương đơn giản.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị vì món ăn dễ làm và ngon miệng."
+    },
+    {
+      "step": "Chia sẻ kỷ niệm",
+      "desc": "Kể về món trứng chiên thịt gắn liền với tuổi thơ.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy ấm áp và nhớ về tuổi thơ."
+    },
+    {
+      "step": "Hướng dẫn món chả cá bọc trứng",
+      "desc": "Hướng dẫn biến tấu món chả cá bọc trứng độc đáo.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với sự sáng tạo trong món ăn."
+    },
+    {
+      "step": "Giới thiệu các món khác",
+      "desc": "Giới thiệu nhanh các món trứng sốt cà chua, khổ qua xào trứng.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường vì quá quen thuộc."
+    },
+    {
+      "step": "Hướng dẫn món trứng omelet Nhật Bản",
+      "desc": "Hướng dẫn cách làm món trứng omelet kiểu Nhật đẹp mắt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với cách làm món ăn mới lạ."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Tôi nghèo, bạn cũng thế."
+  ],
+  "cta_type": [
+    "So sánh"
+  ],
+  "emotion_keywords": [
+    "đã",
+    "thích",
+    "ngon",
+    "mềm",
+    "thơm",
+    "rẻ",
+    "cứu đói",
+    "nghèo"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "mấy ngàn mà nấu 10 món, mấy người quá đáng lắm rồi đấy, tính ra một món có 7000 này.",
+    "Trứng đúng kiểu là chúa tể cứu đói mấy ngày cuối tháng luôn ấy.",
+    "Tôi nghèo, bạn cũng thế."
+  ],
+  "hook_content": "mấy ngàn mà nấu 10 món, mấy người quá đáng lắm rồi đấy, tính ra một món có 7000 này.",
+  "hook_type": [
+    "Phản hồi bình luận",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video hướng dẫn nấu 10 món trứng đơn giản, quen thuộc với chi phí chỉ khoảng 70 ngàn đồng, phù hợp cho sinh viên và người có thu nhập thấp. Video cũng chia sẻ những kỷ niệm gắn liền với các món trứng.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

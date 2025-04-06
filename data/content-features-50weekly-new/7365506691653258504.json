@@ -1,0 +1,81 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Chào mừng và giới thiệu món ăn hôm nay: cua nâu Anh Quốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món cua được giới thiệu."
+    },
+    {
+      "step": "Mô tả sản phẩm",
+      "desc": "Mô tả kích thước cua lớn và cách hấp cua.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng về kích thước của cua."
+    },
+    {
+      "step": "Đề xuất địa điểm mua",
+      "desc": "Giới thiệu địa điểm mua cua uy tín, chất lượng.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhận thông tin về địa điểm mua."
+    },
+    {
+      "step": "Đánh giá chất lượng",
+      "desc": "Nhấn mạnh chất lượng và độ tươi ngon của cua.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng sản phẩm."
+    },
+    {
+      "step": "Trải nghiệm",
+      "desc": "Mô tả hương vị và trải nghiệm ăn cua.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng và muốn thử."
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng ăn và kết thúc video.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thân thiện và gần gũi."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "béo",
+    "ngọt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cua này tuy là cua cấp đông, nhưng nếu mình chọn chỗ uy tín mà mua thì cua ăn bao ngon luôn.",
+    "Gạch thì đặc sệt, siêu béo, không bị quá khô.",
+    "Cua này tuy là siêu gạch nhưng mà vẫn có thịt nhiều ngọt dữ lắm nha."
+  ],
+  "hook_content": "Hello mọi người, lại là tui Mập Bự thích nấu ăn đây. Nay mọi người cùng tui ăn thử cua nâu Anh Quốc nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu và review món cua nâu Anh Quốc, từ việc chọn mua, chế biến đến thưởng thức. Người bán hàng chia sẻ trải nghiệm cá nhân và đánh giá chất lượng sản phẩm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu gói súp hải sản mua từ Thúy Nhà Biển.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm mới."
+    },
+    {
+      "step": "Trình bày nguyên liệu",
+      "desc": "Liệt kê các thành phần hải sản có trong gói súp.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với sự đa dạng nguyên liệu."
+    },
+    {
+      "step": "Hướng dẫn nấu",
+      "desc": "Hướng dẫn các bước nấu súp nhanh chóng và đơn giản.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy dễ dàng thực hiện."
+    },
+    {
+      "step": "Thưởng thức và đánh giá",
+      "desc": "Nếm thử và đánh giá hương vị, độ tươi ngon của súp.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng."
+    },
+    {
+      "step": "Đề xuất sử dụng",
+      "desc": "Gợi ý sử dụng súp cho người mệt mỏi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích."
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng thưởng thức súp.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thân thiện."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi nghen."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "thơm phức",
+    "vừa ăn",
+    "tươi ngon",
+    "chắc nụi nụi",
+    "ú nu",
+    "tiện"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "10 phút là có cái nồi súp xịn sò không có khác gì ngoài hàng rồi.",
+    "Theo cảm nhận của tôi thì súp nấu xong rất là thơm luôn, vị thì cực kỳ vừa ăn nên không có cần nêm nếm gì lại, còn hải sản thì khỏi bàn về độ tươi ngon rồi.",
+    "Tính ra ai mà đang mệt trong người mà thủ sẵn mấy gói súp này là tiện dữ lắm à nha."
+  ],
+  "hook_content": "Nấu một nồi súp mọi người mất bao nhiêu phút mới xong, chứ tôi 10 phút là có cái nồi súp xịn sò không có khác gì ngoài hàng rồi.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video review gói súp hải sản ăn liền của Thúy Nhà Biển, từ khâu nấu đến nếm thử và đánh giá chất lượng sản phẩm. Người dùng đánh giá cao về độ tiện lợi, hương vị và chất lượng hải sản tươi ngon.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món nem lá lốt biến tấu, nhấn mạnh sự lạ miệng và ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Miêu tả chi tiết",
+      "desc": "Miêu tả miếng nem giòn rụm, thơm bùi của thịt và lá lốt.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Gợi ý",
+      "desc": "Gợi ý thay đổi thực đơn hàng ngày với món nem lá lốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử làm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "giòn rụm",
+    "thơm bùi",
+    "nhức nách"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nem lá lốt biến tấu từ món chả lá lốt truyền thống ăn lạ miệng mà siêu ngon nha.",
+    "Miếng nem giòn rụm thơm bùi của thịt và lá lốt thái nhỏ, chấm mắm nêm nhức nách.",
+    "Mng có thể thử để thay đổi thực đơn hàng ngày nè."
+  ],
+  "hook_content": "Đợi đến lúc anh dành thời gian cho em nhiều hơn khi mất em rồi.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu món nem lá lốt biến tấu, nhấn mạnh hương vị thơm ngon, giòn rụm và gợi ý thay đổi thực đơn hàng ngày.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

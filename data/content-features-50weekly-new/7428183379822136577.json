@@ -1,0 +1,89 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về việc đi ăn cưới ở Hàn Quốc và ăn tối.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về trải nghiệm ăn uống."
+    },
+    {
+      "step": "Ăn cưới",
+      "desc": "Chia sẻ về kinh nghiệm ăn buffet ở đám cưới Hàn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự chuẩn bị kỹ lưỡng."
+    },
+    {
+      "step": "Mua sắm",
+      "desc": "Mua áo cho người thân và thử đồ mới tại nhà.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Đốt trầm",
+      "desc": "Chia sẻ về sở thích đốt trầm của ba Tu-hun.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về sở thích cá nhân."
+    },
+    {
+      "step": "Tặng hoa",
+      "desc": "Kể về việc tặng hoa cho bà ngoại nhân dịp 20/10.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp và cảm động."
+    },
+    {
+      "step": "Ăn tối",
+      "desc": "Mời mọi người ăn thịt nướng và gỏi cùng gia đình.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn tham gia."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Cảm nhận về món ăn và tương tác với người xem.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ và thoải mái."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mời mọi người ăn tối chung với cả nhà mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "đói bụng",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tính ra hả là đi đám cưới hồi trưa không có ăn được cái gì hết trơn luôn á, mà gặp đi đám cưới Việt Nam là chết với mình á.",
+    "Thường á tới đám sao ghé mặc đồ đẹp chụp hình để làm kỷ niệm nữa chứ.",
+    "Mà bây giờ thịt nướng chín rồi mình ăn mới được mọi người, đói bụng quá rồi."
+  ],
+  "hook_content": "Hôm nay mình sẽ dắt mọi người đi ăn đám cưới Hàn Quốc chung với nhà mình nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video kể về trải nghiệm đi ăn cưới ở Hàn Quốc của gia đình, sau đó về nhà ăn tối với món thịt nướng và gỏi. Người nói chia sẻ nhiều câu chuyện đời thường và mời mọi người cùng ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

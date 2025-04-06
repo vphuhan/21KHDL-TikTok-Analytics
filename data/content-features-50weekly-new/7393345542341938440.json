@@ -1,0 +1,88 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bò lụi nướng lá lốt thơm ngon tự làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn biết cách làm."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Thịt bò và thịt ba chỉ xay, các loại gia vị.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, cần thiết để nấu ăn."
+    },
+    {
+      "step": "Tẩm ướp gia vị",
+      "desc": "Ướp thịt với hạt nêm, muối, bột ngọt, dầu hào, đường.",
+      "impact_level": "1",
+      "viewer_emotion": "Mong chờ hương vị món ăn."
+    },
+    {
+      "step": "Cuốn lá lốt",
+      "desc": "Cuốn thịt đã ướp vào lá lốt đã rửa sạch.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị khi thấy cách cuốn tỉ mỉ."
+    },
+    {
+      "step": "Nướng bò lụi",
+      "desc": "Nướng bò lụi trên than hoa cho đến khi chín.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi hình ảnh nướng thơm ngon."
+    },
+    {
+      "step": "Giới thiệu món ăn kèm",
+      "desc": "Giới thiệu món sầu huyết xào me của dì Năm.",
+      "impact_level": "1",
+      "viewer_emotion": "Tăng thêm sự đa dạng cho bữa ăn."
+    },
+    {
+      "step": "Thưởng thức và đánh giá",
+      "desc": "Cả nhà cùng ăn và nhận xét về món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấm áp, vui vẻ khi cả nhà quây quần."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Truyền thống"
+  ],
+  "cta_content": [
+    "mọi người ăn chung với cả nhà mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "thơm ngon",
+    "cuồn cào",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "mình dạy cuốn cái bùi lá lốt cho bà ngoại thì được cái món bò lụi nướng thơm ngon quá trời luôn.",
+    "Ở ngoài người ta bán chắc đâu có cuốn thịt nhiều như nhà mình đâu, cuốn gối nào gối nấy quá trời thịt luôn.",
+    "Cậu tư mình chưa có vợ nha, ai chịu Cậu Tư mình không? Về làm mợ tư mình luôn nha."
+  ],
+  "hook_content": "mình dạy cuốn cái bùi lá lốt cho bà ngoại thì được cái món bò lụi nướng thơm ngon quá trời luôn.",
+  "hook_type": [
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm món bò lụi nướng lá lốt tại nhà, từ khâu chuẩn bị nguyên liệu, tẩm ướp, cuốn lá lốt, đến nướng và thưởng thức cùng gia đình. Ngoài ra, còn có món sầu huyết xào me ăn kèm do dì Năm thực hiện.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

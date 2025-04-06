@@ -1,0 +1,78 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu bánh mì bơ cốm chú Diễn đang hot trên app.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món bánh mì bơ cốm."
+    },
+    {
+      "step": "Trải nghiệm bơ",
+      "desc": "Thử và nhận xét về vị béo, ngọt, thơm của bơ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thèm món bánh mì bơ."
+    },
+    {
+      "step": "Trải nghiệm bánh mì",
+      "desc": "Ăn bánh mì với đồ chua và cảm nhận hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn thử bánh mì bơ cốm ngay lập tức."
+    },
+    {
+      "step": "Ăn và cảm nhận",
+      "desc": "Tiếp tục ăn và miêu tả cảm giác no, ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thỏa mãn khi xem."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Chúc ngủ ngon và tạm biệt người xem.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy vui vẻ khi xem."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Gen Z"
+  ],
+  "cta_content": [
+    "Chúc mọi người ngủ ngon nha, coi clip vui vẻ."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "béo",
+    "ngon",
+    "thơm",
+    "đẫm bơ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Béo mà nó thơm cái mùi cốm. Mà có một chút mùi lá dứa nữa.",
+    "Bơ mà. Béo má."
+  ],
+  "hook_content": "Tối rồi ăn thôi. Hôm nay ăn bánh mì bơ cốm chú Diễn nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang bánh mì bơ cốm của chú Diễn, người ăn trải nghiệm và đánh giá hương vị béo ngậy, thơm ngon của món ăn này.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

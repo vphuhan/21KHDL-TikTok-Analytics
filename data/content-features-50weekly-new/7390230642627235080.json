@@ -1,0 +1,63 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người đi làm, dân văn phòng",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu cà phê Laura của Nhật Kim Anh, cà phê sức khỏe",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy sản phẩm cà phê này có vẻ tốt"
+    },
+    {
+      "step": "Miêu tả đặc điểm",
+      "desc": "Miêu tả hương vị và thành phần của cà phê Laura",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị cà phê"
+    },
+    {
+      "step": "Gợi ý sử dụng",
+      "desc": "Gợi ý đối tượng nên dùng cà phê Laura",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy thông tin này khá hữu ích"
+    },
+    {
+      "step": "Mời trải nghiệm",
+      "desc": "Mời mọi người cùng ăn xoài và uống cà phê",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy video khá thân thiện"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "tốt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mấy anh trai thức đêm xem bóng đá phải có ly cà phê Laura là đúng bài."
+  ],
+  "hook_content": "Tất cả mọi thứ Thanh đã chuẩn bị xong, giờ Thanh sẽ đi pha cà phê.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu cà phê Laura của Nhật Kim Anh, một loại cà phê sức khỏe có thành phần từ nấm linh chi và đông trùng hạ thảo, phù hợp cho người thức đêm.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

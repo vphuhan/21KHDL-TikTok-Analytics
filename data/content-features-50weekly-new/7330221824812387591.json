@@ -1,0 +1,93 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn ngày Tết",
+      "desc": "Giới thiệu các món ăn sẽ nấu cho ngày Tết cổ truyền Việt Nam.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn truyền thống."
+    },
+    {
+      "step": "Đi chợ mua nguyên liệu",
+      "desc": "Đi chợ mua nguyên liệu tươi ngon cho các món ăn ngày Tết.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, mang tính chất liệt kê."
+    },
+    {
+      "step": "Nấu chả lạnh",
+      "desc": "Hướng dẫn chi tiết cách nấu món chả lạnh truyền thống.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị khi xem cách làm món ăn lạ."
+    },
+    {
+      "step": "Chuẩn bị các món khác",
+      "desc": "Nấu các món ăn khác như hũ hoa hầm, thịt kho hột vịt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, các món quen thuộc."
+    },
+    {
+      "step": "Giới thiệu trang phục Tết",
+      "desc": "Giới thiệu áo dài chuẩn bị mặc trong chương trình VTV.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú khi thấy trang phục truyền thống."
+    },
+    {
+      "step": "Hoàn thành mâm cỗ Tết",
+      "desc": "Giới thiệu mâm cỗ Tết đã chuẩn bị xong.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với mâm cỗ đầy đủ."
+    },
+    {
+      "step": "Mời ăn cơm",
+      "desc": "Mời mọi người cùng ăn cơm và kết thúc video.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thân thiện."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Truyền thống",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "mọi người nhớ xem chiều 30 Tết trên VTV Tết của người Việt ở nước ngoài của gia đình Tùng Hân nha.",
+    "Giờ thì mời mọi người ăn cơm với nhà mình nha."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "cưng",
+    "đắng",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tết mà mọi người cho dù ở đâu đi chăng nữa thì dễ gì mà quên được cái văn hóa và những món đặc trưng của ngày Tết quê mình được.",
+    "Đúng là trong cái khó nó ló cái khôn thì mọi người ở bên này đâu có dây buộc đâu mình dùng dây thun nịt nó lại, vậy mà nó cũng ra được một đòn tròn chịa nhìn đẹp mắt lắm chứ bộ à nha.",
+    "Cuối năm làm một nồi khổ qua cho cái khổ nó qua nha mọi người."
+  ],
+  "hook_content": "Đi chợ mình sẽ mua nguyên liệu về để nấu những món có trong ngày Tết của người Việt mình nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình chuẩn bị mâm cơm ngày Tết của một gia đình Việt ở nước ngoài, bao gồm các món ăn truyền thống như chả lạnh, hũ hoa hầm, thịt kho hột vịt và khổ qua dồn chả cá. Video cũng giới thiệu về áo dài và mời mọi người xem chương trình Tết trên VTV.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

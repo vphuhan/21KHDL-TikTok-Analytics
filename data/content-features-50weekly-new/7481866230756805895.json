@@ -1,0 +1,102 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu mẹt cá viên chiên siêu to khổng lồ và các loại topping.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các loại cá viên chiên."
+    },
+    {
+      "step": "Giới thiệu thương hiệu",
+      "desc": "Giới thiệu thương hiệu Nam Sài Gòn Food và các sản phẩm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, biết thêm thông tin về thương hiệu."
+    },
+    {
+      "step": "Chiên cá viên",
+      "desc": "Chiên cá viên tại nhà và chia sẻ cảm giác an tâm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy an tâm hơn khi biết rõ nguồn gốc sản phẩm."
+    },
+    {
+      "step": "Ăn thử và review",
+      "desc": "Mời mọi người ăn và review chi tiết từng loại cá viên.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn ăn thử ngay lập tức."
+    },
+    {
+      "step": "Review hải sản sốt mayo",
+      "desc": "Review độ giòn và sốt sánh sệt của hải sản khoai môn sốt mayo.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hấp dẫn bởi sự kết hợp hương vị."
+    },
+    {
+      "step": "Review chả cá tẩm cốm",
+      "desc": "Review độ thơm bùi, giòn rụm của lớp cốm bên ngoài.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với lớp cốm giòn rụm."
+    },
+    {
+      "step": "Review tôm Surimi",
+      "desc": "Review độ dai giòn của tôm Surimi và cách chế biến.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử chế biến tôm Surimi theo nhiều cách."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "trong tháng ba này á, mọi người mà mua hàng tại Nam Sài Gòn Food á thì sẽ được tặng quà nữa nha."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "đã",
+    "rất là thích",
+    "an tâm",
+    "khoái khẩu",
+    "siêu to khổng lồ",
+    "thích nhất",
+    "thơm",
+    "béo",
+    "dai giòn tự nhiên",
+    "rất là cuốn",
+    "thơm cực kỳ",
+    "giòn tan",
+    "ngon",
+    "thơm bùi giòn rộ",
+    "cực kỳ thơm",
+    "đẹp mắt",
+    "ngon quá"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "bữa nay chơi lớn làm một mẹt cá viên chiên ta đùng ăn cho nó đã luôn",
+    "Cái viên này là cái viên mà dung thích nhất luôn á mọi người.",
+    "Lớp cốm áo bên ngoài á mọi người thì thơm bùi giòn rộ nè, không chay cứng không đọng lại dầu nên khi ăn á sẽ không bị ngán á mọi người."
+  ],
+  "hook_content": "bữa nay chơi lớn làm một mẹt cá viên chiên ta đùng ăn cho nó đã luôn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video mukbang mẹt cá viên chiên siêu to khổng lồ với nhiều loại topping hấp dẫn. Người làm video review chi tiết từng loại cá viên và giới thiệu thương hiệu Nam Sài Gòn Food.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

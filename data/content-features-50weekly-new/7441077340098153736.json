@@ -1,0 +1,81 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu thử thách",
+      "desc": "Giới thiệu thử thách tìm đủ 7 vị để nhận 2 triệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về thử thách và phần thưởng."
+    },
+    {
+      "step": "Dự đoán kết quả",
+      "desc": "Dự đoán không có đủ 7 vị như thử thách yêu cầu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự tự tin của người nói."
+    },
+    {
+      "step": "Thử và đếm vị",
+      "desc": "Thử các vị khác nhau và đếm số lượng tìm được.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung theo dõi quá trình thử vị."
+    },
+    {
+      "step": "Xác nhận dự đoán",
+      "desc": "Xác nhận dự đoán ban đầu về số lượng vị tìm được.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thú vị khi dự đoán chính xác."
+    },
+    {
+      "step": "Kể kinh nghiệm",
+      "desc": "Chia sẻ kinh nghiệm ăn đùi gà bà Tuyết và các vị.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Thừa nhận không thể tìm đủ và chúc người xem may mắn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thông cảm với sự bất lực của người nói."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "dễ",
+    "hơi khó",
+    "chịu"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ăn được 2 triệu của bà Tuyết dễ lắm ý.",
+    "Mình nói có sai đâu, chỉ có năm sáu vị thôi không có bảy vị đâu.",
+    "Mấy cái này lạ gì :))"
+  ],
+  "hook_content": "nhận ngay 2 triệu khi mà tìm đủ 7 vị cái trò trẻ con này. Mình lạ quái gì.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video review thử thách tìm đủ 7 vị snack để nhận 2 triệu đồng, người nói dự đoán và chứng minh chỉ có 5-6 vị, đồng thời chia sẻ kinh nghiệm cá nhân về các vị đã thử.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Trang trọng"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Lần đầu thấy sữa đậu nành nấu canh, thấy lạ nên nấu thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới lạ."
+    },
+    {
+      "step": "Tham khảo công thức",
+      "desc": "Thấy chị To nấu canh đậu sốt cà trên TikTok.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Chia sẻ kế hoạch năm mới",
+      "desc": "Năm nay ăn Tết nhỏ, thảnh thơi lướt TikTok.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thông thường."
+    },
+    {
+      "step": "Giới thiệu mâm cơm",
+      "desc": "Mâm cơm chưa tới 100k gồm canh đậu sốt cà, thịt chiên.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn và ngon miệng."
+    },
+    {
+      "step": "Gợi ý mua sắm",
+      "desc": "Gợi ý dùng GrabMart để mua nguyên liệu tươi ngon.",
+      "impact_level": "1",
+      "viewer_emotion": "Không có cảm xúc đặc biệt."
+    },
+    {
+      "step": "Nhấn mạnh sự thảnh thơi",
+      "desc": "Nhấn mạnh việc thảnh thơi lướt Tết.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giống như tôi nè, lên đặt nguyên liệu nấu đồ ăn tươi ngon mà không có thiếu thứ gì luôn.",
+    "Mà rất tiết kiệm luôn nha, bởi vì có nhiều mã trợ giá luôn á mấy bà."
+  ],
+  "cta_type": [
+    "Chia sẻ công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "hao cơm",
+    "tiết kiệm",
+    "thảnh thơi"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Sữa đậu nành đem đi nấu canh",
+    "Năm nay ăn Tết nhỏ thôi mấy bà ơi.",
+    "Tết ở nhà mà nấu cái mâm cơm chưa tới 100.000 như tôi á mà cũng ngon nè."
+  ],
+  "hook_content": "Lần đầu tiên tôi mới thấy là sữa đậu nành đem đi nấu canh đó mấy bà.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ về trải nghiệm nấu món canh đậu sốt cà chua từ sữa đậu nành, gợi ý giải pháp mua sắm tiết kiệm cho ngày Tết và khuyến khích tận hưởng một cái Tết thảnh thơi, ấm cúng tại nhà.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

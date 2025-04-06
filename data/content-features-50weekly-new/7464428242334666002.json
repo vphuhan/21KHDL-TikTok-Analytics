@@ -1,0 +1,65 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món cơm cá basa kho và mời mọi người cùng ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Chia sẻ lý do nấu",
+      "desc": "Giải thích lý do nấu món này do bận dọn nhà và yêu cầu từ người xem.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Trải nghiệm món ăn",
+      "desc": "Miêu tả hương vị béo ngậy của cá basa kho và ăn kèm rau muống.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Nhấn mạnh độ ngon",
+      "desc": "Tiếp tục ăn và nhấn mạnh độ béo của món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "béo",
+    "ngon",
+    "cay",
+    "đã"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ăn cá basa kho phải có rau muống xào tỏi nha mọi người.",
+    "Trời ơi nó béo."
+  ],
+  "hook_content": "Mời mọi người ăn cơm cá basa kho cùng với Dung nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang cơm nhà với món cá basa kho, chia sẻ trải nghiệm ăn uống và cảm nhận về món ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

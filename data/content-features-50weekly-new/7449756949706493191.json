@@ -1,0 +1,81 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu hai loại thịt viên ăn liền của hai nhãn hiệu.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá Cây Thị",
+      "desc": "Thử nghiệm và đánh giá hương vị của thịt viên phô mai Cây Thị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "So sánh hương vị",
+      "desc": "So sánh hương vị thịt viên Cây Thị và Heo Cao Bồi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Đánh giá Heo Cao Bồi",
+      "desc": "Đánh giá thịt viên sốt cà chua của nhãn hiệu Heo Cao Bồi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Tổng kết và so sánh",
+      "desc": "Tổng kết và so sánh hương vị của cả hai loại thịt viên.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Lời cảm ơn",
+      "desc": "Lời cảm ơn người xem đã theo dõi video.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người nha."
+  ],
+  "cta_type": [
+    "Chia sẻ"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "béo, thơm mùi cheese",
+    "giống y như nhà làm luôn mọi người ạ, ngon"
+  ],
+  "hook_content": "So sánh thịt viên ăn liền của hai hãng, Heo Cao Bồi và Cây Thị.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "So sánh"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "So sánh",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video so sánh thịt viên ăn liền của hai hãng Heo Cao Bồi và Cây Thị, tập trung vào hương vị và cảm nhận cá nhân. Cây Thị có vị phô mai ngon, Heo Cao Bồi giống vị nhà làm.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

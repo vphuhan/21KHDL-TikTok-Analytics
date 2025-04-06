@@ -1,0 +1,73 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món lòng sữa bò nướng và cách chế biến.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Thực hiện chiên",
+      "desc": "Chiên lòng sữa bò, gặp nhiều khó khăn và sự cố.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Nếm thử món ăn",
+      "desc": "Ăn thử lòng sữa bò và nêu cảm nhận về hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Chia sẻ trải nghiệm",
+      "desc": "Chia sẻ trải nghiệm dọn dẹp sau khi chiên lòng.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm"
+    },
+    {
+      "step": "Tự vấn",
+      "desc": "Tự hỏi tại sao không chiên được màu vàng đẹp.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "béo",
+    "ngon",
+    "hoang mang",
+    "bức mãn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mỗi lần làm cái món này ăn thì một mà dọn nhà thì 10.",
+    "Nhắm như là mỡ á trời nó đông lại liền luôn bếp á là phải dùng nước sôi.",
+    "Thấy tôi làm kiểu nào nó cũng bất ổn hết trơn á."
+  ],
+  "hook_content": "Mọi người, hôm nay tôi lại chinh phục cái lòng sữa bò nướng nữa nè.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình chiên lòng sữa bò của một bạn trẻ. Mặc dù gặp nhiều khó khăn và sự cố trong quá trình chiên, bạn vẫn ăn và chia sẻ cảm nhận về món ăn.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

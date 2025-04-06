@@ -1,0 +1,78 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu top mỡ Thiên An Food và số lần mua sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm được nhắc đến nhiều lần."
+    },
+    {
+      "step": "Thông tin sản phẩm và giá",
+      "desc": "Thông tin về khối lượng, giá cả và khuyến nghị mua hàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích với thông tin giá cả."
+    },
+    {
+      "step": "Mô tả chi tiết",
+      "desc": "Mô tả hình thức, lớp sốt và hương vị của top mỡ.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng khi nghe mô tả."
+    },
+    {
+      "step": "Đánh giá chất lượng",
+      "desc": "Đề cập đến phản hồi tích cực từ người mua trước.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng hơn vào chất lượng sản phẩm."
+    },
+    {
+      "step": "Cam kết và đảm bảo",
+      "desc": "Cam kết về chất lượng và chính sách đổi trả nếu có vấn đề.",
+      "impact_level": "2",
+      "viewer_emotion": "An tâm hơn khi mua hàng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Sản phẩm mình để góc màn hình nha mọi người, mọi người có thể bấm vào và tham khảo."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "hấp dẫn",
+    "ok",
+    "mượt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mọi người mua top mỡ ở bên này thực sự là không thất vọng đâu.",
+    "Lần nào cũng thế, ăn rất là ngon luôn nha mọi người.",
+    "Nếu như mọi người mua về bị hôi dầu hoặc không ăn được nhắn tin cho shop, shop sẽ trả cho mọi người gói khác hoặc thậm chí hoàn tiền cho mọi người luôn."
+  ],
+  "hook_content": "Đây đã là lần thứ năm mình ăn top mỡ ở bên này rồi và thực sự là mình mong rằng những ai có sở thích ăn top mỡ giống như mình có thể nhìn thấy video này nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review top mỡ riêu mắm tỏi của Thiên An Food, người bán đã ăn sản phẩm này nhiều lần và đảm bảo chất lượng, hương vị thơm ngon, đồng thời cam kết đổi trả nếu sản phẩm bị hôi dầu.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

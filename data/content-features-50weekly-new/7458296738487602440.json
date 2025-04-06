@@ -1,0 +1,91 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở hộp quà",
+      "desc": "Người review mở hộp quà và nhận xét về hình thức bên ngoài.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món bên trong."
+    },
+    {
+      "step": "Kẹo mèo thần tài",
+      "desc": "Giới thiệu và đánh giá kẹo mèo thần tài về mùi vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với mùi vị bạc hà và socola."
+    },
+    {
+      "step": "Bánh Rich",
+      "desc": "Giới thiệu và đánh giá bánh Rich về hình thức và vị kem.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cấu trúc bánh quế kem."
+    },
+    {
+      "step": "Socola trái tim",
+      "desc": "Đánh giá socola trái tim về độ ngọt và chất lượng.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường vì quá ngọt."
+    },
+    {
+      "step": "Socola viên",
+      "desc": "Đánh giá socola viên về độ nhẹ và hương vị.",
+      "impact_level": "1",
+      "viewer_emotion": "Không thấy hấp dẫn vì không hợp khẩu vị."
+    },
+    {
+      "step": "Bánh lưu Kinh Đô",
+      "desc": "Giới thiệu và đánh giá bánh lưu Kinh Đô quen thuộc.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú vì là thương hiệu quen thuộc."
+    },
+    {
+      "step": "Tổng kết",
+      "desc": "Đưa ra đánh giá chung về set quà và giá cả.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về ý kiến cuối cùng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Rồi set này là tổng cộng 450.000 thì mấy bà thấy như thế nào?"
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "ngọt",
+    "thơm",
+    "dẻo",
+    "hợp vị",
+    "quen"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ê, cái set năm 2025 này nhìn nó hơi kỳ kỳ nha.",
+    "Đầu tôi tưởng cái chai là chai thủy tinh nhưng không á là chai mủ nha mọi người, còn bị rớt cái đít ra nữa.",
+    "Rồi điểm mười cho bánh lưu nha, còn lại thì nó không hợp gu với tôi mọi người, nó bị ngọt nhiều á."
+  ],
+  "hook_content": "Review set quà Tết 450.000 của nghệ sĩ Hồng Phượng bán, thì liệu có chất lượng.",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review set quà Tết của nghệ sĩ Hồng Phượng với giá 450.000 đồng, tập trung đánh giá chất lượng và hương vị của từng món bánh kẹo bên trong, người review nhận xét bánh lưu Kinh Đô là ngon nhất còn lại không hợp khẩu vị.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

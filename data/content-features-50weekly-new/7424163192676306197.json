@@ -1,0 +1,56 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Bắt đầu ăn và giới thiệu món ăn kèm theo là ớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ cay của món ăn."
+    },
+    {
+      "step": "Ăn thử",
+      "desc": "Gắp và ăn thử mì cay với biểu cảm cay.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy cay cùng người ăn."
+    },
+    {
+      "step": "Nhận xét",
+      "desc": "Nhấn mạnh độ cay của ớt và quyết định dừng ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thương cảm với người ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "cay"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ớt hôm nay cay thật 😫",
+    "Ớt này là ớt chỉ thiên mọi người nhá, rất là cay."
+  ],
+  "hook_content": "lúc miệng một tí thôi đã.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang ngắn về ăn mì cay với ớt chỉ thiên, người ăn thử và thấy quá cay nên dừng lại.",
+  "tone_of_voice": [
+    "Ngạc nhiên",
+    "Khó chịu"
+  ]
+}

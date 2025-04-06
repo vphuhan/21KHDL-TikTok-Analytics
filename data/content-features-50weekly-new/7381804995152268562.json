@@ -1,0 +1,93 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu lý do về nước",
+      "desc": "Ba mẹ nhớ nên tháng sau lại phải về nước, tranh thủ ăn hải sản.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chọn mua hải sản",
+      "desc": "Chọn mua sò điệp siêu to và bạch tuộc đỏ tươi sống ở siêu thị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Hấp hải sản",
+      "desc": "Hấp sò điệp trước, bạch tuộc hấp sau và chuẩn bị muối tiêu.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu phòng vé máy bay",
+      "desc": "Giới thiệu phòng vé Kiến Travel, tư vấn nhiệt tình, tiết kiệm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thưởng thức bạch tuộc",
+      "desc": "Ăn bạch tuộc chấm muối tiêu, khen râu giòn và ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Thưởng thức sò điệp",
+      "desc": "Ăn sò điệp tươi sống, khen cờ mềm và ngọt kinh khủng.",
+      "impact_level": "3",
+      "viewer_emotion": "Phấn khích"
+    },
+    {
+      "step": "Ước muốn",
+      "desc": "Ước tháng sau về nước có sò điệp tươi sống cho ba mẹ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nên ai đang cần vé máy bay thì mọi người cứ việc qua phòng vé Kiến Travel nha.",
+    "Ai muốn về ngày nào thì cứ việc qua đây họ báo vé cho."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "giòn",
+    "mềm",
+    "ngọt",
+    "kinh khủng",
+    "dã man"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mà lần đầu tiên mà mình thấy con sò điệp mà nó to khủng khiếp cỡ vậy luôn á.",
+    "Ăn mấy cái món hải sản hấp này không thể nào mà qua được cái chén muối tiêu có bốn cái trái ớt được.",
+    "Sò điệp mà cắn cái nào cái nấy là coi như ngập hết cái chân răng."
+  ],
+  "hook_content": "mấy hôm nay ba mẹ cứ gọi sang nói là nhớ con trai nên thành ra tháng sau mình lại phải về nước nữa mọi người.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video kể về việc một người con ở Nhật Bản sắp về nước thăm ba mẹ và tranh thủ ăn hải sản tươi sống. Anh ấy đã mua sò điệp và bạch tuộc ở siêu thị, chế biến và thưởng thức, đồng thời giới thiệu một phòng vé máy bay uy tín.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

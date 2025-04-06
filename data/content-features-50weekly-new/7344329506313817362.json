@@ -1,0 +1,87 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Học sinh, sinh viên"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Nêu nhanh gọn về món cơm cuộn thanh cua và thời gian làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách làm món ăn."
+    },
+    {
+      "step": "Vệ sinh tay",
+      "desc": "Nhấn mạnh việc rửa tay sạch trước khi nấu ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy được tầm quan trọng của việc vệ sinh."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Chiên trứng và trụng thanh cua để làm nhân.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, các bước nấu ăn quen thuộc."
+    },
+    {
+      "step": "Chia sẻ về thói quen",
+      "desc": "Nấu ăn ở nhà thường xuyên và luôn vệ sinh bếp.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy gần gũi và đồng cảm."
+    },
+    {
+      "step": "Thông tin về vi khuẩn",
+      "desc": "Đề cập đến số lượng vi khuẩn trong căn bếp.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy lo lắng về vấn đề vệ sinh."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu nước rửa tay Lifeboy làm bếp.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào sản phẩm diệt khuẩn."
+    },
+    {
+      "step": "Hoàn thành món ăn",
+      "desc": "Hướng dẫn cuộn cơm và hoàn thành món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy món ăn hấp dẫn và muốn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mà nhớ dù nấu món gì thì bạn cũng phải thường xuyên dùng nước rửa tay Lifeboy để sạch khuẩn tay, bảo vệ bữa ăn và sức khỏe của cả gia đình hen."
+  ],
+  "cta_type": [
+    "So sánh"
+  ],
+  "emotion_keywords": [
+    "siêu ngon",
+    "rẻ",
+    "an tâm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Chỉ cần bỏ ra 10 phút là bạn làm được món cơm cuộn thanh cua siêu ngon và rất là rẻ luôn nha.",
+    "Vậy mà hôm nay mình đọc được tin này trên post của Lifeboy bảo là trung bình một căn bếp có tới 7,2 tỷ số vi trùng lận.",
+    "Sạch 99,9% vi khuẩn gây bệnh đường ruột lận á, nên là khi nấu ăn mình sẽ an tâm hơn nhiều."
+  ],
+  "hook_content": "Chỉ cần bỏ ra 10 phút là bạn làm được món cơm cuộn thanh cua siêu ngon và rất là rẻ luôn nha.",
+  "hook_type": [
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm món cơm cuộn thanh cua đơn giản, nhanh chóng tại nhà, đồng thời chia sẻ về tầm quan trọng của việc vệ sinh tay khi nấu ăn và giới thiệu sản phẩm nước rửa tay Lifeboy.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

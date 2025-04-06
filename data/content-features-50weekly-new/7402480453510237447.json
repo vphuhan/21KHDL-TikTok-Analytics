@@ -1,0 +1,64 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu xúc xích cay tẩm vị nam thanh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị."
+    },
+    {
+      "step": "Đánh giá lớp vỏ",
+      "desc": "Nhận xét lớp vỏ cay bên ngoài khó cảm nhận.",
+      "impact_level": "2",
+      "viewer_emotion": "Thắc mắc, hoài nghi."
+    },
+    {
+      "step": "Đánh giá nhân",
+      "desc": "Thử phần nhân và nhận xét là ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú, muốn thử."
+    },
+    {
+      "step": "Thắc mắc",
+      "desc": "Đặt câu hỏi về hương vị không đồng đều.",
+      "impact_level": "1",
+      "viewer_emotion": "Băn khoăn, khó hiểu."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "cay"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "thật là khó hiểu khi tầm vị cay ở bên ngoài mà cắn mãi không ra",
+    "ăn cũng ngon đấy nhưng mà tại sao?"
+  ],
+  "hook_content": "review cả thế giới xúc xích cay tầm vị nam thanh nhưng lạ lắm.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review xúc xích cay tẩm vị Nam Thanh, tập trung vào trải nghiệm hương vị cay ở lớp vỏ và hương vị của nhân bên trong. Người review thấy khó hiểu vì lớp vỏ không cay như mong đợi nhưng nhân lại ngon.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Ngạc nhiên"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Nấu mì cay với nước dừa, giới thiệu nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự kết hợp mới lạ."
+    },
+    {
+      "step": "Chia sẻ lý do",
+      "desc": "Giải thích lý do nấu mì cay với nước dừa.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy có lý, chấp nhận được."
+    },
+    {
+      "step": "Liệt kê nguyên liệu",
+      "desc": "Kể tên các nguyên liệu có trong món mì.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Nêm nếm và thưởng thức món mì cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi thèm thuồng."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét về hương vị món mì nấu với nước dừa.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn thử."
+    },
+    {
+      "step": "Giới thiệu nước chấm",
+      "desc": "Giới thiệu địa chỉ mua nước chấm.",
+      "impact_level": "1",
+      "viewer_emotion": "Không đặc biệt quan tâm."
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng ăn mì cay.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thân thiện."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Còn mọi người mà muốn mua nước chấm thì kiếm anh hai tôi Thái Châu 0808 nha.",
+    "Giờ thì mời mọi người ăn chung với tôi nghe."
+  ],
+  "cta_type": [
+    "Ăn cùng",
+    "Truy cập trang cá nhân"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "mê",
+    "ấm lòng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nước dừa mà đem đi nấu với mì cay độc lạ mọi người đã thử chưa?",
+    "Nghe tưởng đâu ăn vô là Tào Tháo rượt nguyên đêm ai ngờ nó ngon thì thôi nhé luôn.",
+    "Theo cảm nhận của tôi thì mì cay nấu với nước dừa thì lúc đầu ăn sẽ thấy hơi lợ lợ, nhưng mà không biết sao ăn từ từ thấy nó ngon mọi người ơi, kiểu nó cuốn gì đâu á trời."
+  ],
+  "hook_content": "Nước dừa mà đem đi nấu với mì cay độc lạ mọi người đã thử chưa?",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn nấu mì cay với nước dừa, chia sẻ trải nghiệm hương vị độc đáo và giới thiệu địa chỉ mua nước chấm ngon. Món ăn được đánh giá là ngon và cuốn hút sau khi ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

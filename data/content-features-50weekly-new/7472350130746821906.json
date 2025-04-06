@@ -1,0 +1,56 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu combo",
+      "desc": "Giới thiệu combo 5k mua được ở cửa hàng tiện lợi",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về những món có thể mua"
+    },
+    {
+      "step": "Liệt kê sản phẩm",
+      "desc": "Liệt kê bánh phô mai và kẹo bí lú với giá",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với các món ăn vặt quen thuộc"
+    },
+    {
+      "step": "Tổng kết",
+      "desc": "Thông báo tổng thiệt hại là 5000 đồng",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có nhiều cảm xúc"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "5000 mua được gì?",
+    "Bánh phô mai 3000, kẹo bí lú 2000",
+    "Tổng thiệt hại 5000"
+  ],
+  "hook_content": "5000 mua được gì?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Liệt kê"
+  ],
+  "summarization": "Video khám phá combo 5k mua được ở cửa hàng tiện lợi, bao gồm bánh phô mai và kẹo bí lú.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

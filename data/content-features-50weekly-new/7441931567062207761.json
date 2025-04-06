@@ -1,0 +1,80 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Đặt món",
+      "desc": "Chọn số ngẫu hứng để mua số lượng thịt nướng tương ứng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về số lượng thịt được chọn."
+    },
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu về quán thịt nướng và lý do quay lại.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, giới thiệu thông tin cơ bản."
+    },
+    {
+      "step": "Ăn thử",
+      "desc": "Ăn 30 xiên thịt nướng và chia sẻ cảm nhận.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng khi thấy đồ ăn."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Nhận xét về thịt nướng, nước chấm và đu đủ ngâm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung lắng nghe review chi tiết."
+    },
+    {
+      "step": "Thông tin địa điểm",
+      "desc": "Giới thiệu địa điểm và độ nổi tiếng của quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, cung cấp thông tin hữu ích."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ở đây ai là khách ruột thì cho hơn biết với nghe."
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "thèm",
+    "ngán",
+    "đã",
+    "thơm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Xe thịt nướng anh Phong mấy bạn học sinh Marie Curie nhìn một phát là nhận ra liền.",
+    "Thịt ướp hơi ngọt xíu nhưng mà ăn nhiều cũng không có bị ngán, chắc là nhờ cái đu đủ ngâm á.",
+    "Miếng đu đủ được bào khá dài, chua chua ăn giòn giòn đã lắm."
+  ],
+  "hook_content": "Chú ơi, cho con hỏi là nếu bây giờ được chọn một số ngẫu hứng thích thì chú sẽ chọn số mấy?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video là review quán thịt nướng anh Phong đối diện trường Marie Curie, nổi tiếng với học sinh. Người review ăn 30 xiên và đánh giá hương vị, đặc biệt khen đu đủ ngâm giúp ăn không bị ngán.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

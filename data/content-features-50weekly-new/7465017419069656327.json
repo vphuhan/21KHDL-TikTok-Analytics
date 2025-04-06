@@ -1,0 +1,95 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món gỏi đu đủ và bí quyết để không bị ra nước.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về bí quyết làm gỏi."
+    },
+    {
+      "step": "Sơ chế tai heo",
+      "desc": "Hướng dẫn sơ chế tai heo để khử mùi hôi và làm sạch.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích với mẹo khử mùi."
+    },
+    {
+      "step": "Luộc tai heo",
+      "desc": "Hướng dẫn luộc tai heo với gừng, hành tím và muối.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Sơ chế đu đủ",
+      "desc": "Gọt vỏ, bào sợi và ngâm nước đá để đu đủ giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được mẹo giữ độ giòn của đu đủ."
+    },
+    {
+      "step": "Pha nước sốt",
+      "desc": "Hướng dẫn pha nước sốt trộn gỏi chua cay mặn ngọt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với công thức pha sốt."
+    },
+    {
+      "step": "Luộc tôm",
+      "desc": "Hướng dẫn luộc tôm với sả để tôm thơm ngon.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, dễ thực hiện."
+    },
+    {
+      "step": "Trộn gỏi",
+      "desc": "Trộn các nguyên liệu và nước sốt, thêm rau thơm, đậu phộng.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng khi nhìn thành phẩm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Hãy theo dõi kênh để biết thêm nhiều công thức món ngon khác từ mình nha."
+  ],
+  "cta_type": [
+    "Follow kênh",
+    "Chia sẻ công thức"
+  ],
+  "emotion_keywords": [
+    "giòn tan",
+    "thấm đều",
+    "chua cay mặn ngọt",
+    "thần thánh",
+    "giòn ngon",
+    "ngọt thanh",
+    "giòn rộm",
+    "tuyệt vời",
+    "hấp dẫn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Với cách trộn đặc biệt này, sợi đu đủ vẫn giữ được độ giòn tan, thấm đều gia vị chua cay mặn ngọt nhưng không hề bị ra nước.",
+    "Tai heo giòn sần sật, tôm ngọt thanh, đu đủ giòn rộm mà không hề bị chảy nước nhờ bí quyết đặc biệt.",
+    "Dĩa gỏi của mình không chỉ giòn ngon đậm vị mà còn đập mắt với đủ sắc màu, ai nhìn cũng mê cho mà xem."
+  ],
+  "hook_content": "Nếu ai đã từng làm món gỏi đu đủ mà phải khóc ròng vì đu đủ ra nước nhiều làm gỏi mất ngon thì đây chính là bí quyết bạn cần nè.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm gỏi đu đủ tai heo ngon, giòn mà không bị ra nước, cùng với bí quyết pha nước mắm chua ngọt hấp dẫn. Món ăn này thích hợp để giải ngán ngày Tết hoặc làm món khai vị trong các bữa tiệc.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

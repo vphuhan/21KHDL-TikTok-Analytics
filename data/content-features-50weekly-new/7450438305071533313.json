@@ -1,0 +1,90 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu quán bánh canh cua quen thuộc, than thở hết món.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán bánh canh cua."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Nhận xét về hương vị, chất lượng, giá cả của bánh canh.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích khi có review."
+    },
+    {
+      "step": "Miêu tả chi tiết",
+      "desc": "Tả các thành phần của tô bánh canh và hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung được tô bánh canh."
+    },
+    {
+      "step": "Nhận xét thêm",
+      "desc": "Nêu cảm nhận về bánh quẩy và xương trong tô.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Kêu gọi tương tác",
+      "desc": "Hỏi ý kiến về quán và địa điểm.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn chia sẻ ý kiến."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Chào tạm biệt.",
+      "impact_level": "1",
+      "viewer_emotion": "Không cảm xúc."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mấy bạn sinh viên ở gần chợ Gò Bắp vô kiểm chứng giùm Hân coi đây có phải là quán ruột của mọi người không nhen"
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Ghé thăm địa điểm",
+    "Đặt câu hỏi"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "chất lượng",
+    "no bụng",
+    "ổn áp",
+    "ngọt thịt",
+    "dai dai",
+    "sền sệt",
+    "đã"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái quán gì mà bán đắt như ở triều tan làm về ghé vô quán bánh canh cua này là chỉ có vét nồi thôi á.",
+    "Đi ăn bánh canh cua mà mê cái hũ mắm ớt có bị kỳ không ta? Kỳ nha, kỳ này là hết hũ.",
+    "Trộm vía bữa nay được cho cây xương quá nhiều nè, kèm theo miếng da có mỡ mỡ gân gân ăn đã dữ luôn."
+  ],
+  "hook_content": "Cái quán gì mà bán đắt như ở triều tan làm về ghé vô quán bánh canh cua này là chỉ có vét nồi thôi á.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán bánh canh cua Kim Ngân quen thuộc ở Sài Gòn, tập trung vào hương vị, chất lượng món ăn và trải nghiệm cá nhân của người review.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

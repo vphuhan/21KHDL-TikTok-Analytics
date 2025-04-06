@@ -1,0 +1,65 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món thịt luộc và đánh giá độ dai ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Kết hợp đồ uống",
+      "desc": "Gợi ý kết hợp thịt luộc với cà phê Laura.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Giới thiệu cà phê",
+      "desc": "Nêu bật thành phần và hương vị của cà phê.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm"
+    },
+    {
+      "step": "Cảm nhận chung",
+      "desc": "Đánh giá sự kết hợp giữa thịt luộc và cà phê.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "sướng",
+    "đã"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "dai ngon, ngọt thịt lắm luôn",
+    "ăn ngon như thế này thì cần một ly cà phê",
+    "vừa ngon mà lại còn khỏe"
+  ],
+  "hook_content": "Review cả thế giới thịt luộc ăn Ri Bờ",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review món thịt luộc và gợi ý kết hợp với cà phê Laura của Nhật Kim Anh, nhấn mạnh hương vị ngon và lợi ích cho sức khỏe.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

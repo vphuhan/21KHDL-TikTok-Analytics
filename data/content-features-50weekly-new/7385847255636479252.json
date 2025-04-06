@@ -1,0 +1,62 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu bản thân và mục đích của video hôm nay.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Liệt kê món ăn",
+      "desc": "Liệt kê các món ăn có trong mâm mukbang.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Ăn và cảm nhận",
+      "desc": "Ăn các món và thể hiện cảm xúc, đánh giá.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "cưng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Kiếp này cài hoa lên tóc, kiếp sau mỹ mạo như hoa.",
+    "Rất nhiều bạn yêu cầu Vi ăn cá viên chiên và các loại tôm chiên xù nên hôm nay Vi làm mâm tổng hợp luôn nha.",
+    "Xúc xích hồ lô cưng quá trời luôn mọi người."
+  ],
+  "hook_content": "Kiếp này cài hoa lên tóc, kiếp sau mỹ mạo như hoa.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video mukbang các món chiên như tôm chiên xù, cá viên chiên, chả cá hồ lô, tôm cuộn khoai tây chiên, xúc xích hồ lô theo yêu cầu của người xem.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món chân gà tokbokki và gà rán nguyên con.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự kết hợp độc đáo."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê và sơ chế các nguyên liệu cần thiết.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, chờ đợi công thức."
+    },
+    {
+      "step": "Ướp gà",
+      "desc": "Ướp gà với gia vị và để ngấm trong 30 phút.",
+      "impact_level": "1",
+      "viewer_emotion": "Không có gì đặc biệt."
+    },
+    {
+      "step": "Luộc chân gà",
+      "desc": "Luộc chân gà với rượu nấu ăn để khử mùi.",
+      "impact_level": "1",
+      "viewer_emotion": "Chú ý mẹo khử mùi."
+    },
+    {
+      "step": "Pha sốt tokbokki",
+      "desc": "Pha sốt với ớt bột, tương ớt và các gia vị khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với công thức sốt."
+    },
+    {
+      "step": "Chiên gà",
+      "desc": "Pha bột và chiên gà đến khi vàng giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú với tiếng chiên gà."
+    },
+    {
+      "step": "Hoàn thiện món ăn",
+      "desc": "Nấu chân gà tokbokki với phô mai và thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng khi thấy món ăn hoàn thành."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "À cái chảo như mình đang nấu chân gà là có trong giỏ hàng bên kênh phụ á mọi người, muốn mua thì nhắn vô kênh phụ trong giỏ hàng mua giùm mình nha."
+  ],
+  "cta_type": [
+    "Truy cập trang cá nhân",
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thèm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nghe thì nó có hơi lạ ha, nhưng mà ăn ngon lắm luôn á.",
+    "Nay mấy cái món này nó cũng hơi rồm rà."
+  ],
+  "hook_content": "Nếu mình live xong, bữa sau cái nhà mình nói gì nè mọi người.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn nấu món chân gà tokbokki kết hợp gà rán nguyên con, từ khâu chuẩn bị nguyên liệu, sơ chế, tẩm ướp gia vị đến khi hoàn thành món ăn hấp dẫn. Người nấu chia sẻ các mẹo nhỏ để món ăn thêm ngon miệng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

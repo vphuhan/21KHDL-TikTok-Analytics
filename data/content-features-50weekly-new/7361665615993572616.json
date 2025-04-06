@@ -1,0 +1,80 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu tôm mũ ni",
+      "desc": "Giới thiệu tôm mũ ni và giá tiền, mô tả hình dáng",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hình dáng kỳ lạ của tôm"
+    },
+    {
+      "step": "Hấp tôm và nhận xét",
+      "desc": "Hấp tôm và nhận xét về mùi vị, độ tươi ngon",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi thất vọng vì tôm bé đi sau khi hấp"
+    },
+    {
+      "step": "Thưởng thức và đánh giá",
+      "desc": "Ăn thử và đánh giá chi tiết về thịt, gạch tôm",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy không ngon miệng"
+    },
+    {
+      "step": "Thử cách ăn khác",
+      "desc": "Thử bẻ đầu tôm và nhận xét về cách ăn",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách ăn mới"
+    },
+    {
+      "step": "So sánh và kết luận",
+      "desc": "So sánh với tôm sú và đưa ra lời khuyên",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình với việc không nên mua"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "nóng",
+    "mặn",
+    "giòn",
+    "đắng",
+    "khô ráp",
+    "không ngon",
+    "không ngọt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Thịt của nó ăn nó kiểu hơi có cái độ đắng nhè nhẹ ấy, nó không ngọt đâu.",
+    "Cắn thịt rất là giòn, nhưng mà cái vị thịt của nó nó vượt xa cái mức mong đợi của mình, nhưng mà lại vượt xuống chứ không phải là vượt lên.",
+    "Nếu mọi người có ý định thử con tôm này thì mua tôm sú mà ăn, bỏ đi. Bỏ qua con tôm này nhá, bỏ qua."
+  ],
+  "hook_content": "Năm con tôm này giá 300.000₫.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review tôm mũ ni với giá 300k/5 con, người nói đánh giá tôm không ngon, thịt không ngọt và khuyên nên ăn tôm sú thay vì tôm mũ ni.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Khó chịu"
+  ]
+}

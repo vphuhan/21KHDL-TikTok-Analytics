@@ -1,0 +1,94 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Nhắc lại kỷ niệm ngán bánh xèo và sự thèm thuồng hiện tại.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với sự thay đổi cảm xúc."
+    },
+    {
+      "step": "Giới thiệu công thức",
+      "desc": "Nói về vỏ bánh xèo giòn và công thức làm bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về công thức làm bánh giòn."
+    },
+    {
+      "step": "Hướng dẫn chuẩn bị nhân",
+      "desc": "Hướng dẫn chuẩn bị nhân bánh xèo tôm thịt.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy hữu ích với hướng dẫn."
+    },
+    {
+      "step": "Quá trình đổ bánh",
+      "desc": "Chia sẻ kinh nghiệm đổ bánh xèo và những lần thất bại.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị với những chia sẻ thật lòng."
+    },
+    {
+      "step": "Chia sẻ về làm TikTok",
+      "desc": "Chia sẻ về những bình luận khi làm TikTok nấu ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Dọn dẹp sau nấu",
+      "desc": "Giới thiệu sản phẩm lau bếp và quá trình dọn dẹp.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến sản phẩm lau bếp."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Đánh giá bánh xèo và nước mắm tự pha.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi ngán bánh xèo ở cuối video."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thèm",
+    "ngán",
+    "áy náy",
+    "hổ thẹn",
+    "giòn",
+    "ưng",
+    "dễ chịu",
+    "ngon",
+    "ngon vữ vội",
+    "dở",
+    "trìu mến",
+    "ngán ngẫm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Miếng ăn là miếng nhục mà nhục tí thì cũng không sao.",
+    "Với cái công thức này mọi người làm không giòn thì kệ mọi người nha chứ hơi đâu mà tin trăng tằm.",
+    "Nhà sạch thì mát, bát sạch thì ngon cơm rồi. Nhưng mà thật ra mặc dù sạch mà nấu không ngon thì vẫn là không ngon nha."
+  ],
+  "hook_content": "Đợt trước làm bánh xèo là ngán xỉu ấp xỉu đao nên là lên tuyên bố với cộng đồng mạng là chắc là năm sau mới dám ăn tiếp.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ về quá trình làm bánh xèo tại nhà, từ khâu chuẩn bị nguyên liệu, đổ bánh đến dọn dẹp sau khi nấu. Người làm chia sẻ những kinh nghiệm và cảm xúc thật khi làm bánh, đồng thời giới thiệu sản phẩm lau bếp tiện lợi.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

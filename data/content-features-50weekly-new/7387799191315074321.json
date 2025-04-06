@@ -1,0 +1,79 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu salami thịt hươu hun khói, giá và trọng lượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm mới."
+    },
+    {
+      "step": "Đánh giá cảm quan ban đầu",
+      "desc": "Nhận xét về mùi hun khói thơm và cảm giác béo.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong đợi hương vị sản phẩm."
+    },
+    {
+      "step": "Thử và mô tả trải nghiệm",
+      "desc": "Thử salami và mô tả độ dai của da hươu.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thú vị về trải nghiệm."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét về vị mặn, chua, béo và độ ngọt.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung về hương vị."
+    },
+    {
+      "step": "Gợi ý kết hợp",
+      "desc": "Gợi ý ăn kèm với bánh mì để tăng hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử sản phẩm hơn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "béo",
+    "dai",
+    "ngon",
+    "cuốn",
+    "mặn",
+    "chua",
+    "ngọt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cái miếng này hình như là miếng da của con hươu ấy, ăn rất là dai luôn, gần như là không thể ăn được.",
+    "Không ăn được, cứng lắm, dai nữa.",
+    "Cái này ăn nó mình thấy nó không quá là ngon đâu, nhưng mà nó cứ có một cái gì đấy ăn cuốn cuốn ấy"
+  ],
+  "hook_content": "Chào mọi người, hôm nay thì mình sẽ ăn thử Salami hun khói làm từ thịt hươu.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review Salami hun khói làm từ thịt hươu, tập trung vào mô tả hương vị (mặn, chua, béo) và trải nghiệm ăn (độ dai của da hươu). Người nói gợi ý ăn kèm bánh mì để ngon hơn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

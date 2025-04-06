@@ -1,0 +1,67 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Nhấn mạnh trải nghiệm vị giác đặc biệt khi thưởng thức món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị"
+    },
+    {
+      "step": "Miêu tả chi tiết",
+      "desc": "Diễn tả các hương vị khác nhau của món ăn một cách cụ thể.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Đánh giá trải nghiệm",
+      "desc": "Đưa ra nhận xét về món ăn như một trải nghiệm đáng giá.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "ngon khủng khiếp",
+    "ngọt",
+    "mặn",
+    "béo",
+    "thơm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ngon khủng khiếp.",
+    "Nó ngọt, nó mặn, béo, nó thơm.",
+    "Và cái cảm giác này có thể thái công gọi là trải nghiệm."
+  ],
+  "hook_content": "Oh my god, nó ngon khủng khiếp.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review nhanh một món ăn với những tính từ miêu tả hương vị hấp dẫn và khẳng định trải nghiệm ăn uống đáng giá.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Ngạc nhiên"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu chung",
+      "desc": "Giới thiệu tô bún bò khổng lồ và giá cả, tạo sự tò mò.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ lớn và giá trị của tô bún."
+    },
+    {
+      "step": "Miêu tả thành phần",
+      "desc": "Liệt kê các thành phần của tô bún và độ tươi của rau.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng của các thành phần."
+    },
+    {
+      "step": "Độ lớn đặc biệt",
+      "desc": "Nhấn mạnh kích thước lớn của thịt và chả trong tô bún.",
+      "impact_level": "3",
+      "viewer_emotion": "Ngạc nhiên và ấn tượng với kích cỡ của đồ ăn."
+    },
+    {
+      "step": "Quy tắc bán hàng",
+      "desc": "Thông tin về quy tắc đặc biệt của quán về thời gian mở cửa.",
+      "impact_level": "2",
+      "viewer_emotion": "Tôn trọng sự kỹ lưỡng của quán."
+    },
+    {
+      "step": "Đánh giá tổng quan",
+      "desc": "Nhận xét về độ đầy đặn của tô bún và sự vừa miệng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và muốn thử."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá hương vị nước lèo và chất lượng của thịt, chả.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy hấp dẫn và muốn thưởng thức ngay."
+    },
+    {
+      "step": "Thông tin quán",
+      "desc": "Thông tin về nguồn gốc của chủ quán và thời gian hoạt động.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về lịch sử và nguồn gốc của quán."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Địa chỉ Hân sẽ để trên màn hình tớ lơn nè, bye bye."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ứa hự"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tô bún bò có miếng thịt với miếng chả to nhất Sài Gòn",
+    "Đây là lần đầu tiên Hân thấy tô bún bò có miếng thịt với miếng chả bự như cái miếng sườn trong dĩa cơm tấm vậy á mọi người",
+    "Thịt ở đây dù sắt miếng dày nhưng rất là mềm, ăn trúng mấy miếng gân gân thì thôi nó ngon khỏi phải bàn luôn"
+  ],
+  "hook_content": "Tô bún bò có miếng thịt với miếng chả to nhất Sài Gòn, 100.000 cho tô bún này, đi theo Hân để biết tại sao nó có giá như vậy nha.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu một quán bún bò ở Sài Gòn với tô bún bò có miếng thịt và chả siêu to. Người review đánh giá cao hương vị và chất lượng của món ăn, đồng thời cung cấp thông tin về địa chỉ và thời gian mở cửa của quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

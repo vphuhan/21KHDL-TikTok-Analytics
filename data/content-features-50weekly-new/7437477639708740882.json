@@ -1,0 +1,81 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Thực hiện theo yêu cầu của người xem về cách ăn kẹo.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Cách 1: Đập kẹo",
+      "desc": "Đập mạnh để lấy kẹo ra khỏi bao bì một cách nhanh chóng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Cách 2: Nhúng đá",
+      "desc": "Ngâm kẹo trong nước đá để dễ lấy ra hơn.",
+      "impact_level": "3",
+      "viewer_emotion": "Ngạc nhiên"
+    },
+    {
+      "step": "Cách 3: Để tủ lạnh",
+      "desc": "Cho kẹo vào tủ lạnh để làm cứng và dễ lấy ra.",
+      "impact_level": "2",
+      "viewer_emotion": "Hài hước"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Đánh giá các cách và hỏi người xem thích cách nào.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Bình luận",
+    "Chia sẻ công thức"
+  ],
+  "emotion_keywords": [
+    "hay",
+    "ok",
+    "xịn",
+    "bớt ngọt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Quá là hay, kẹo ra gần như trọn vẹn luôn, cách này ok nha.",
+    "Trời đất ơi tự nhiên cái tôi tỉnh lại liền luôn, tự nhiên tôi hết hồn rồi.",
+    "Ăn cách này còn bớt ngọt hẳn."
+  ],
+  "hook_content": "Hôm qua lên Lip xong thấy các bạn chỉ mình cách lấy kẹo ra nên bữa nay làm thử liền mới được.",
+  "hook_type": [
+    "Phản hồi bình luận",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video thử nghiệm 3 cách lấy kẹo mạch nha ra khỏi bao bì theo gợi ý của người xem, bao gồm đập, nhúng đá và để tủ lạnh, sau đó đánh giá hiệu quả của từng cách.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Ngạc nhiên",
+    "Hào hứng"
+  ]
+}

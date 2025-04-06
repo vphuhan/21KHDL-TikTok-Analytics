@@ -1,0 +1,81 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Đặt câu hỏi về món ăn ngon với bạch tuộc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Gợi ý",
+      "desc": "Đề xuất ăn mì để giải quyết câu hỏi.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu mì 3 miền và các thành phần đặc biệt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Miêu tả",
+      "desc": "Miêu tả topping hành phi giòn rụm và thơm ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Đánh giá sợi mì dai ngon và cảm giác như ăn street food.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn thử"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Khẳng định mì 3 miền đậm đà hương vị Việt.",
+      "impact_level": "1",
+      "viewer_emotion": "Đồng ý"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thơm nức mũi",
+    "đậm đà"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Bạch tuộc thì phải có mì ngon.",
+    "Cảm giác giống như được ăn món street food tại nhà ấy nhỉ?",
+    "Đúng là 3 miền, đậm đà hương vị Việt."
+  ],
+  "hook_content": "Bạch tuộc to thế này nấu món gì ngon nhỉ?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review món mì ăn kèm bạch tuộc, tập trung giới thiệu mì 3 miền với topping hành phi và hương vị đặc trưng, mang lại cảm giác như đang thưởng thức street food tại nhà.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

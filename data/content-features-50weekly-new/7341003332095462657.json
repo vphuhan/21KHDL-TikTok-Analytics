@@ -1,0 +1,60 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bánh pía",
+      "desc": "Giới thiệu bánh pía 8 trứng muối mua trên mạng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về bánh pía đặc biệt."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét về hương vị sầu riêng, khoai môn và trứng muối.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn biết hương vị ra sao."
+    },
+    {
+      "step": "Tổng kết",
+      "desc": "Đánh giá chung về chất lượng và hương vị của bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy tin tưởng vào đánh giá."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm ngon",
+    "chất lượng",
+    "thơm ngon đậm đà",
+    "đã"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "bánh pía mà bên trong của nó có tận tám trứng muối",
+    "rất nhiều trứng muối, trứng muối ăn đã luôn"
+  ],
+  "hook_content": "mọi người đã bao giờ ăn cái bánh pía mà bên trong của nó có tận tám trứng muối chưa?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review bánh pía song vị 8 trứng muối mua trên mạng, đánh giá hương vị sầu riêng, khoai môn và trứng muối, nhận xét bánh thơm ngon, chất lượng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

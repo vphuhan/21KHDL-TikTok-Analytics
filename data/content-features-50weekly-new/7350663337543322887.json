@@ -1,0 +1,96 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Mặt bự thích nấu ăn giới thiệu món tôm sốt Thái.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Sơ chế tôm",
+      "desc": "Hướng dẫn sơ chế tôm, loại bỏ chỉ lưng và ngâm nước đá.",
+      "impact_level": "2",
+      "viewer_emotion": "Học được mẹo sơ chế."
+    },
+    {
+      "step": "Tái tôm với chanh",
+      "desc": "Chia sẻ cách làm tôm tái chanh và lưu ý cho người không thích.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích."
+    },
+    {
+      "step": "Cảm nhận về món ăn",
+      "desc": "Miêu tả hương vị món ăn và chia sẻ trải nghiệm cá nhân.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Làm nước sốt",
+      "desc": "Giới thiệu chén nước sốt cay với 7 trái ớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng về độ cay."
+    },
+    {
+      "step": "Chiên đầu tôm",
+      "desc": "Hướng dẫn chiên đầu tôm giòn rụm, béo ngậy.",
+      "impact_level": "3",
+      "viewer_emotion": "Hấp dẫn, muốn thử."
+    },
+    {
+      "step": "Thêm mù tạt",
+      "desc": "Gợi ý pha thêm mù tạt cho ai thích cay nồng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự sáng tạo."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mời mọi người ăn chung với tui nha"
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "nghiện",
+    "dai ngọt",
+    "chua chua cay cay",
+    "ngon",
+    "hấp dẫn",
+    "cay nồng",
+    "giòn",
+    "béo béo",
+    "bắt miệng",
+    "nồng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ăn ngon số dzách luôn",
+    "ăn chỉ có là nhức nách thôi",
+    "ăn nồng lên tới óc o luôn"
+  ],
+  "hook_content": "Hello mọi người, lại là tui mặt bự thích nấu ăn đây.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm món tôm sốt Thái đơn giản tại nhà, từ sơ chế tôm đến pha nước sốt đậm đà. Người làm chia sẻ trải nghiệm ăn món này lần đầu và gợi ý thêm các cách biến tấu để tăng độ ngon.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

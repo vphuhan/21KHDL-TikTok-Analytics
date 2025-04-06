@@ -1,0 +1,84 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu nguyên liệu",
+      "desc": "Giới thiệu cua tươi mua ở chợ để nấu bánh canh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món bánh canh cua."
+    },
+    {
+      "step": "Chuẩn bị sợi bánh canh",
+      "desc": "Hướng dẫn làm sợi bánh canh dai ngon tại nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với cách làm sợi bánh canh."
+    },
+    {
+      "step": "Thắng màu điều",
+      "desc": "Thắng màu điều để tạo màu sắc hấp dẫn cho bánh canh.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có nhiều cảm xúc."
+    },
+    {
+      "step": "Nấu nước dùng",
+      "desc": "Nấu nước dùng cua, nêm nếm gia vị cho vừa ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn với nồi nước dùng thơm ngon."
+    },
+    {
+      "step": "Hoàn thiện món ăn",
+      "desc": "Cho sợi bánh canh, thịt cua vào nồi nước dùng.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ được thưởng thức món bánh canh."
+    },
+    {
+      "step": "Trình bày và thưởng thức",
+      "desc": "Trình bày món bánh canh hấp dẫn và ăn cùng kim chi.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng món bánh canh cua."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn bánh canh cua chung với hai vợ chồng mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngon ghê",
+    "ngon quá",
+    "cảm xúc mới hay"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Lần đầu tiên thấy con cua mà gần gũi vậy luôn á.",
+    "Có cái sợi bánh canh này không nấu với cua thì mình nấu bánh canh giò heo cũng ngon lắm chú bộ à.",
+    "Cái hộp a ăn thịt hai hai nước, bánh canh ăn với kim chi Hàn Quốc."
+  ],
+  "hook_content": "Bữa nay đi chợ mình thấy người ta bán cua này ngon quá.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn nấu món bánh canh cua tại nhà với sợi bánh canh tự làm, chia sẻ trải nghiệm mua cua tươi ngon và kết hợp món ăn với kim chi Hàn Quốc.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

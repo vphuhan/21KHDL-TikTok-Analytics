@@ -1,0 +1,64 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Đòi cơm và trêu ghẹo nhau trước giờ ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị với sự tương tác hài hước."
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Liệt kê các món ăn trong bữa cơm văn phòng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Đánh giá nhanh các món ăn, tập trung vào hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của món ăn."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Nhận xét vui vẻ về món ăn và tương tác.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy vui vẻ, thư giãn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Hộp này chắc là mày bỏ thuốc độc vào đây đúng không?",
+    "Ư khoai sọ ngon đấy.",
+    "Tông xượt tông."
+  ],
+  "hook_content": "cơm của tao đâu Đây đây cơm của anh đây này.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh ăn trưa văn phòng của một cặp đôi, với các món ăn quen thuộc và tương tác hài hước. Người xem cảm nhận được sự vui vẻ và thân mật trong bữa ăn.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

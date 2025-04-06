@@ -1,0 +1,71 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu vấn đề",
+      "desc": "Tự nhiên video cũ nổi lên, nhắc về bánh que socola Ông Già",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự trở lại của bánh"
+    },
+    {
+      "step": "Thông tin thời điểm",
+      "desc": "Video quay tháng 8/2022, bánh Ông Già vẫn còn bán nhiều",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, cung cấp thêm thông tin"
+    },
+    {
+      "step": "Thực trạng hiện tại",
+      "desc": "Hiện tại chỉ còn vỏ bánh, sản xuất từ năm ngoái",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi tiếc nuối"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Bánh que socola Ông Già hiện tại không còn sản xuất",
+      "impact_level": "3",
+      "viewer_emotion": "Thất vọng và tiếc nuối"
+    },
+    {
+      "step": "Cảm xúc cá nhân",
+      "desc": "Tiếc vì bánh ngon, là một phần tuổi thơ",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm và nhớ về tuổi thơ"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "tiếc",
+    "ngon",
+    "tuổi thơ"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "bánh này đối với cá nhân mình thì mình thấy nó rất là ngon và nó là một phần của tuổi thơ mình"
+  ],
+  "hook_content": "Bánh que sô cô la còn bán không?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video thông báo bánh que socola Ông Già có thể đã ngừng sản xuất, dù trước đây rất được yêu thích và là một phần tuổi thơ của người nói.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

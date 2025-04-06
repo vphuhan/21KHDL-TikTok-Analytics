@@ -1,0 +1,90 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu thạch dừa Việt Nam so sánh với thạch dừa Thái.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự khác biệt giữa hai loại thạch."
+    },
+    {
+      "step": "So sánh trực quan",
+      "desc": "So sánh hộp thạch dừa Việt Nam với clip thạch dừa Thái.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự so sánh trực tiếp."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét về mùi vị của thạch dừa Việt Nam và Thái.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình với nhận xét về hương vị."
+    },
+    {
+      "step": "So sánh giá cả",
+      "desc": "So sánh giá của thạch dừa Việt Nam rẻ hơn nhiều.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên về sự chênh lệch giá cả."
+    },
+    {
+      "step": "Đánh giá độ dai",
+      "desc": "Nhận xét về độ dai của thạch dừa Việt Nam và Thái.",
+      "impact_level": "2",
+      "viewer_emotion": "Lưu ý về đặc điểm khác biệt về độ dai."
+    },
+    {
+      "step": "Thông tin giá",
+      "desc": "Thông báo giá một hộp thạch dừa Việt Nam là 70.000.",
+      "impact_level": "1",
+      "viewer_emotion": "Nắm bắt thông tin về giá cả."
+    },
+    {
+      "step": "Kêu gọi tương tác",
+      "desc": "Hỏi giá gói thạch dừa to, kêu gọi comment giá.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn tham gia bình luận giá."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ôi, còn một gói thạch dừa to đùng như thế này là bao nhiêu tiền mọi người comment xuống cho mình biết nha."
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "hơi nhiều mùi của hóa chất",
+    "rẻ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "thạch dừa của Việt Nam nhìn có vẻ ngon hơn",
+    "Đúng mùi thạch dừa của Việt Nam rồi chứ thạch dừa của bên Thái nó hơi nhiều mùi của hóa chất",
+    "Mình chẳng hiểu sao thạch dừa của Việt Nam lại rẻ đến mức như vậy luôn mọi người ạ"
+  ],
+  "hook_content": "Hôm nay để mình múc bang xem thạch dừa siêu to khổng lồ của Việt Nam khác gì với thạch dừa ở bên Thái nha mọi người.",
+  "hook_type": [
+    "So sánh"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "So sánh",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video so sánh thạch dừa Việt Nam và Thái Lan về hương vị, giá cả và độ dai, kết luận thạch dừa Việt Nam ngon và rẻ hơn. Người nói cũng kêu gọi người xem bình luận giá của một gói thạch dừa lớn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

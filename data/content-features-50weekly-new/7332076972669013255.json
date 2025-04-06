@@ -1,0 +1,84 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu kế hoạch đi chơi và món súp hải sản.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chuẩn bị",
+      "desc": "Liệt kê nguyên liệu và gia vị nấu món súp.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Nấu súp",
+      "desc": "Hướng dẫn các bước nấu súp hải sản.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Nêm nếm",
+      "desc": "Nêm nếm gia vị và cho thêm rau vào súp.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng ăn súp hải sản.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Nhận xét về hương vị món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Kết thúc video bằng món cơm hạt dẻ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "cay cay",
+    "mặn mặn",
+    "cay"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Món này mình nấu cũng mấy lần rồi. Thay vì ăn hải sản hấp thì ăn cái món này mình ăn với cơm hoặc là ăn với mì cũng được nữa, mọi người.",
+    "Nhà mình bây giờ là không phải mình ên Ba Tũn Hớn không đâu mà giờ nó y chang anh cha nó luôn á nha mọi người.",
+    "Cái nước này mặn mặn ri cay ngon lắm nha."
+  ],
+  "hook_content": "Cuối năm mình để cho 3 Tũn Hớn ở nhà chơi với Cầu Nớn, hai vợ chồng mình sẽ đi chốt sổ cuối năm nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ cách nấu món súp hải sản của Hàn Quốc để ăn cùng cơm hoặc mì. Người nấu giới thiệu nguyên liệu, cách nấu và mời mọi người cùng thưởng thức.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

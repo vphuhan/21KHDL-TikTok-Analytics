@@ -1,0 +1,81 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu mắm tép chưng của Lê Anh Nuôi, hộp nhỏ gọn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm và thương hiệu."
+    },
+    {
+      "step": "Thông tin sản phẩm",
+      "desc": "Giá cả, thành phần (nõn tôm, thịt), khối lượng và hạn sử dụng.",
+      "impact_level": "2",
+      "viewer_emotion": "Cung cấp thông tin hữu ích, khách quan."
+    },
+    {
+      "step": "Đánh giá ban đầu",
+      "desc": "Nhận xét về mùi vị, hình thức sản phẩm trước khi ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Kích thích vị giác, mong muốn được thử."
+    },
+    {
+      "step": "Trải nghiệm sản phẩm",
+      "desc": "Ăn thử mắm tép với cơm và rau, so sánh hai loại.",
+      "impact_level": "3",
+      "viewer_emotion": "Thực tế, tạo sự tin tưởng."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Nhận xét về hương vị, độ khô, thành phần thịt.",
+      "impact_level": "2",
+      "viewer_emotion": "Cung cấp thông tin chi tiết, giúp đưa ra quyết định."
+    },
+    {
+      "step": "Nhận xét chung",
+      "desc": "Đánh giá về giá cả, độ tiện lợi và gợi ý cách ăn ngon hơn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích và có thêm gợi ý."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "ngon",
+    "mát",
+    "dễ ăn",
+    "tuyệt vời"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "mắm tép này của ông Lê Anh nuôi nó đặc toàn là thịt",
+    "cơm mà ăn với mắm thì chả có gì bằng",
+    "tính đến tiết kiệm thì cái này là bố của các loại tiết kiệm mà ngon nhá"
+  ],
+  "hook_content": "Thử mắm tép chưng của Lê Anh nuôi đi anh.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review mắm tép chưng thịt của Lê Anh Nuôi, tập trung vào đánh giá hương vị, thành phần và so sánh hai loại có và không có nõn tôm. Đưa ra nhận xét về độ tiện lợi, giá cả và gợi ý cách ăn để tăng thêm hương vị.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

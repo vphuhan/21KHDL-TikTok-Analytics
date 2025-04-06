@@ -1,0 +1,89 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Tuấn và anh Tùng giới thiệu món bún chả Hà Nội tự làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách hai người sẽ thực hiện món ăn này."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Tuấn chia sẻ cách ướp thịt nướng và các nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến bí quyết ướp thịt để món ăn ngon hơn."
+    },
+    {
+      "step": "Chia sẻ về mối quan hệ",
+      "desc": "Tuấn giải thích về mối quan hệ với anh Tùng.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy thú vị với những lời đồn đoán về mối quan hệ của họ."
+    },
+    {
+      "step": "Nấu ăn cùng nhau",
+      "desc": "Tuấn và anh Tùng cùng nhau chuẩn bị và nấu món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với sự hợp tác và không khí vui vẻ."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Hai người cùng thưởng thức và đánh giá món bún chả.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng và muốn thử món ăn này."
+    },
+    {
+      "step": "Kết thúc video",
+      "desc": "Tuấn và anh Tùng mời mọi người cùng ăn và hẹn gặp lại.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ và chờ đợi những video tiếp theo."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Xin mời cả nhà ăn cùng anh em Tuấn nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "thơm ngon",
+    "hấp dẫn",
+    "vui",
+    "ổn",
+    "thơm phức",
+    "xứng đáng",
+    "hạnh phúc"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ước mong sau này về già sẽ như hai chú, không màng đến vật chất, tiền bạc",
+    "Chỉ có tiền mới giúp mình á bình yên thôi, chứ không có tiền làm sao có thời gian rảnh để anh em tụ họp nấu ăn, quay clip như vậy.",
+    "Tuấn là chuyên trị vai ác, còn anh Tùng thì mặt thánh thiện hơn nên đóng toàn vai hiền không à."
+  ],
+  "hook_content": "Đúng rồi gì đã ăn?Như lời đã hứa, hôm nay Tuấn và anh Tùng sẽ làm món bún chả Hà Nội nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Tuấn và anh Tùng cùng nhau làm món bún chả Hà Nội tại nhà, chia sẻ về quá trình chuẩn bị, nấu nướng và thưởng thức món ăn. Video mang đến không khí vui vẻ, thân thiện và những chia sẻ hài hước về mối quan hệ của cả hai.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

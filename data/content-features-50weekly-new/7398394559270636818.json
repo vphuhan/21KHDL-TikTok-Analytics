@@ -1,0 +1,87 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món thịt kho Pikachu và màu sắc bắt mắt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món thịt kho"
+    },
+    {
+      "step": "Miêu tả hương vị",
+      "desc": "Miêu tả vị ngon, giòn, béo của thịt kho Pikachu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm ăn"
+    },
+    {
+      "step": "Gợi ý kết hợp",
+      "desc": "Gợi ý uống cà phê Laoura để giảm ngán và tăng vị ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử cả hai"
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu thành phần và lợi ích của cà phê Laoura.",
+      "impact_level": "1",
+      "viewer_emotion": "Quan tâm đến sức khỏe"
+    },
+    {
+      "step": "Miêu tả hương vị",
+      "desc": "Miêu tả vị béo, ngọt, sánh của cà phê Laoura.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm uống"
+    },
+    {
+      "step": "Nhấn mạnh lợi ích",
+      "desc": "Nhấn mạnh cà phê Laoura vừa ngon vừa tốt cho sức khỏe.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào sản phẩm"
+    },
+    {
+      "step": "Đánh giá tổng quan",
+      "desc": "Đánh giá lại thịt kho Pikachu là siêu ngon và béo.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "béo",
+    "ngon",
+    "siêu béo",
+    "phê"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Thịt kho màu vàng siêu bắt mắt, ăn khá là hay và cũng giòn giòn béo béo nữa.",
+    "Ăn béo như thế này là mình lại muốn uống một ly cà phê Laoura của chị Nhật Kim Anh cho nó đỡ ngán và ngon hơn nữa.",
+    "Còn cái thịt kho Pikachu này thì màu vàng siêu đẹp, ăn thì siêu béo, ta nói quá là phê."
+  ],
+  "hook_content": "Review cả thế giới thịt kho Pikachu.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review món thịt kho Pikachu với màu vàng bắt mắt, vị béo ngậy và gợi ý kết hợp cùng cà phê Laoura của Nhật Kim Anh để giảm ngán và tăng thêm hương vị.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

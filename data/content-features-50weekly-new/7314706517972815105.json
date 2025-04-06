@@ -1,0 +1,59 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu các thành phần của bánh tráng cuốn Bình Định.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Thao tác cuốn bánh",
+      "desc": "Thực hiện cuốn bánh tráng với các nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Miêu tả",
+      "desc": "Nhấn mạnh về bánh tráng Bình Định.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Cho người xem thấy cận cảnh món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [],
+  "has_cta": "false",
+  "highlight_phrases": [],
+  "hook_content": "Hôm nay mình sẽ búc banh bánh tráng cuốn bình thịt luộc, ném chua Bình Định, chả Bình Định, trứng, chả ram.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video này giới thiệu và ăn bánh tráng cuốn Bình Định với các nguyên liệu như thịt luộc, nem chua, chả, trứng và chả ram, kèm theo mắm ớt tỏi đặc trưng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món chem chép hấp xả ớt lá chanh và nước mắm chua ngọt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Thưởng thức chem chép",
+      "desc": "Bắt đầu ăn chem chép và mô tả hương vị, cảm nhận về món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Chia sẻ trải nghiệm",
+      "desc": "Chia sẻ kinh nghiệm tìm mua chem chép và cách chế biến.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự chia sẻ."
+    },
+    {
+      "step": "Gợi ý ăn kèm",
+      "desc": "Đưa ra gợi ý các loại rau củ ăn kèm với chem chép.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích."
+    },
+    {
+      "step": "So sánh độ tươi",
+      "desc": "So sánh sự khác biệt giữa chem chép đã mở và chưa mở.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung quan sát."
+    },
+    {
+      "step": "Nhận xét về chem chép",
+      "desc": "Nhận xét về độ mặn và nguồn gốc của chem chép.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về kiến thức."
+    },
+    {
+      "step": "Kết thúc video",
+      "desc": "Hỏi ý kiến khán giả và hẹn gặp lại trong video sau.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ video tiếp theo."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Ở đây có bạn nào ăn cham chép chưa? Comment cho vàng biết với nha.",
+    "Nếu mà bạn muốn bạn múc ban món gì thì cứ comment ở bên dưới cho bạn biết nha."
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngọt",
+    "giòn",
+    "cuốn",
+    "thơm",
+    "đã",
+    "tươi",
+    "mặn mặn",
+    "dai"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bạn thấy cái thịt cham chép nó giòn nhẹ, phới nước ngọt thịt cham chép.",
+    "Ăn cái này bị cuốn á bạn ơi. Không có dừng lại được luôn.",
+    "Những em mập mà trắng như vậy ăn vô vàng cảm thấy nó ngọt hơn."
+  ],
+  "hook_content": "Hai bạn, theo yêu cầu của nhiều bạn đã comment cho vàng á thì hôm nay vàng sẽ múc ban tr cham chép nha.",
+  "hook_type": [
+    "Phản hồi bình luận",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video mukbang Tóc Vàng ăn chem chép hấp, chia sẻ cảm nhận về hương vị, độ tươi ngon và gợi ý các món ăn kèm. Cô cũng tương tác với người xem bằng cách đặt câu hỏi và khuyến khích bình luận.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

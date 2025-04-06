@@ -1,0 +1,80 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán Mỷ Ý A Hoài đã tồn tại 10 năm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về lịch sử của quán."
+    },
+    {
+      "step": "Phỏng vấn đầu bếp",
+      "desc": "Phỏng vấn chú Hoài về kinh nghiệm và món ăn Âu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với kiến thức chuyên môn."
+    },
+    {
+      "step": "Liệt kê món ăn",
+      "desc": "Liệt kê các món ăn Âu và giá cả phải chăng.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với sự đa dạng món."
+    },
+    {
+      "step": "Kinh nghiệm của đầu bếp",
+      "desc": "Chú Hoài chia sẻ kinh nghiệm học bếp ở nước ngoài.",
+      "impact_level": "2",
+      "viewer_emotion": "Khâm phục kinh nghiệm của chú."
+    },
+    {
+      "step": "Địa chỉ quán",
+      "desc": "Thông tin về địa chỉ mới và giờ mở cửa.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích về địa điểm."
+    },
+    {
+      "step": "Lịch sử quán",
+      "desc": "Chú Hoài kể về lịch sử di chuyển địa điểm quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Hiểu rõ hơn về quá trình phát triển."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "đúng gu",
+    "phải chăng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Món Âu giá Việt là tiêu chí của chú rồi.",
+    "Ai mà đã từng ăn ở nước ngoài thì về ăn của chú là đúng gu liền thôi.",
+    "Chú bán một dĩa mễ sốt bò bằm chỉ có 45.000 thôi."
+  ],
+  "hook_content": "quán mỷ ý này là chú mở được 10 năm rồi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video giới thiệu quán Mỷ Ý A Hoài của chú Hoài, một đầu bếp có kinh nghiệm học ở nước ngoài. Quán nổi tiếng với các món Âu giá cả phải chăng, đặc biệt là mỳ Ý sốt bò bằm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

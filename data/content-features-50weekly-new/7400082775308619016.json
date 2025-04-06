@@ -1,0 +1,70 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bánh",
+      "desc": "Giới thiệu hai loại bánh mới và hương vị hấp dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn biết về hương vị bánh."
+    },
+    {
+      "step": "Đánh giá bánh da trứng",
+      "desc": "Miêu tả chi tiết về bánh da trứng cuộn chà bông.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và muốn ăn thử."
+    },
+    {
+      "step": "Đánh giá bánh diêm mạch",
+      "desc": "So sánh và đánh giá bánh diêm mạch cuộn kem trứng chà bông.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự khác biệt nhỏ."
+    },
+    {
+      "step": "Tổng kết và CTA",
+      "desc": "Đánh giá chung và kêu gọi mua hàng.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy được khuyến khích mua."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Và mình có gắn link sản phẩm trong phần giỏ hàng của video, mọi người nếu mà ai quan tâm có thể bấm vào để tham khảo."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thích"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn nó no luôn ấy. Cái này thì mình nghĩ là ăn sáng hoặc là chiều đói hoặc là đêm đói, dậy ăn một cái thì no luôn.",
+    "Nói chung là ngon.",
+    "ngoại hình của nó trông bình thường nhưng mà khi ăn thì rất là chất lượng."
+  ],
+  "hook_content": "Mọi người đã có ai ăn thử cái bánh này chưa?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review hai loại bánh là bánh da trứng cuộn kem tươi chà bông và bánh diêm mạch cuộn kem trứng chà bông, tập trung vào hương vị, độ mềm và cảm giác no bụng mà bánh mang lại.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người ăn chay, ăn healthy",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu nguyên liệu",
+      "desc": "Giới thiệu về loại súp lơ đắt tiền và ba màu sắc của nó.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về loại rau đắt tiền"
+    },
+    {
+      "step": "Xử lý súp lơ",
+      "desc": "Cắt súp lơ thành lát và quyết định chế biến nó đặc biệt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với cách xử lý nguyên liệu"
+    },
+    {
+      "step": "Áp chảo súp lơ",
+      "desc": "Áp chảo súp lơ với bơ, tỏi, tiêu và hương thảo.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi quá trình nấu nướng"
+    },
+    {
+      "step": "Thêm nước và sốt",
+      "desc": "Thêm nước lọc và sốt beefsteak, đậy vung cho chín.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ kết quả món ăn"
+    },
+    {
+      "step": "Nếm thử",
+      "desc": "Nếm thử và đánh giá hương vị của món súp lơ.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và tò mò về hương vị"
+    },
+    {
+      "step": "So sánh và kết luận",
+      "desc": "So sánh với súp lơ thường và đưa ra kết luận.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự khác biệt"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngọt",
+    "ngon",
+    "thơm",
+    "dai",
+    "giòn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Thật ra thì cái vị ngon của cái món này ấy nó sẽ đến từ gia vị mình cho vào và đến từ cách chế biến.",
+    "Đây sẽ là một món dành cho những ai ăn thuần chay, muốn ăn beefsteak nhưng mà tịnh tâm."
+  ],
+  "hook_content": "Có mới mình nói ra điều này mọi người có tin không? Nhưng mà cái súp lơ này, giá của nó hơn 300.000.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu cách chế biến món súp lơ đắt tiền thành món beefsteak chay độc đáo. Người làm video chia sẻ trải nghiệm cá nhân và đánh giá hương vị món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

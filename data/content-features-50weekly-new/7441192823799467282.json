@@ -1,0 +1,74 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu và đặt hàng",
+      "desc": "Thấy người nhà ăn ngon nên quyết định đặt mua một thùng cua.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về loại cua được giới thiệu."
+    },
+    {
+      "step": "Mở hộp và nhận xét ban đầu",
+      "desc": "Nhận xét về hình dáng kỳ lạ và phát hiện cua bị gãy.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy tiếc cho con cua bị gãy."
+    },
+    {
+      "step": "Chế biến cua",
+      "desc": "Đem cua đi hấp và mô tả kích thước càng cua lớn.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    },
+    {
+      "step": "Thưởng thức và đánh giá",
+      "desc": "Ăn thử và đánh giá chất lượng thịt, gạch cua.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thèm ăn cua."
+    },
+    {
+      "step": "So sánh và kết luận",
+      "desc": "So sánh với cua Cà Mau và đưa ra giá tiền.",
+      "impact_level": "1",
+      "viewer_emotion": "Cân nhắc về giá trị của sản phẩm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thương",
+    "tiếc",
+    "béo"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nói một thùng cho nó sang vậy thôi chứ bên trong nó có hai con à.",
+    "Ta nói cái càng cua nó to kinh khủng khiếp, nó bự còn hơn cái lòng bàn tay của mình nữa mà.",
+    "Cái gạch của nó thì mình cảm thấy rất là béo và ngon luôn. Cái này mà có thêm tô cơm mà ăn chung là coi như là hết bài luôn đó."
+  ],
+  "hook_content": "Thấy ba mẹ với bé Út ở nhà ăn cua Cà Mau ngon quá nên là bên đây mình cũng đặt một thùng.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review món cua biển Okinawa Nhật Bản, từ khâu mở hộp, chế biến đến thưởng thức và so sánh với cua Cà Mau. Người nói chia sẻ trải nghiệm cá nhân và đưa ra đánh giá về chất lượng sản phẩm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

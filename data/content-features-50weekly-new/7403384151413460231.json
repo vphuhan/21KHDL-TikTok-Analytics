@@ -1,0 +1,89 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Chuẩn bị bột bánh",
+      "desc": "Trộn bột mì, đường, trứng gà và dầu ăn để làm vỏ bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về công thức làm bánh trung thu."
+    },
+    {
+      "step": "Nhồi bột",
+      "desc": "Cậu Tư nhồi bột trong 1-1,5 tiếng, bột rất nặng.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy công đoạn này khá vất vả."
+    },
+    {
+      "step": "Thưởng thức sầu riêng",
+      "desc": "Trong lúc nhồi bột, cả nhà khui và thưởng thức sầu riêng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú khi cả gia đình cùng ăn sầu riêng."
+    },
+    {
+      "step": "Ăn cơm",
+      "desc": "Ăn cơm canh kim chi để nạp năng lượng làm bánh.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy ấm cúng khi cả nhà quây quần ăn cơm."
+    },
+    {
+      "step": "Chuẩn bị nhân bánh",
+      "desc": "Trộn bột dẻo với nước để làm nhân thập cẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến cách làm nhân bánh."
+    },
+    {
+      "step": "Nặn bánh",
+      "desc": "Cho nhân vào vỏ bánh, vo tròn và tạo hình.",
+      "impact_level": "2",
+      "viewer_emotion": "Học được cách nặn bánh trung thu đơn giản."
+    },
+    {
+      "step": "Nướng bánh",
+      "desc": "Nướng bánh bằng nồi, không dùng lò nướng.",
+      "impact_level": "3",
+      "viewer_emotion": "Ngạc nhiên với cách nướng bánh độc đáo."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Truyền thống",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "cực",
+    "nặng",
+    "dễ ăn",
+    "sợ",
+    "quan tâm",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Bữa nay bày ra mới thấy, trời ơi làm mấy cái bánh trung thu thì nó cực thiệt sự luôn.",
+    "Có trái sầu riêng thôi à, mà ta nói trời ơi muốn lên bờ xuống ruộng luôn vậy á.",
+    "Nhà mình không có dùng lò nướng. Chị mình hay dùng cái nồi này nướng bánh ra ngon lắm."
+  ],
+  "hook_content": "nhà mình bày món mới, cái món mà từ trước tới giờ nhà mình chưa bao giờ làm qua luôn.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video ghi lại quá trình làm bánh trung thu thập cẩm tại nhà, từ khâu chuẩn bị nguyên liệu, nhồi bột, làm nhân đến nướng bánh bằng nồi. Mọi người cùng nhau làm bánh và thưởng thức sầu riêng, tạo không khí gia đình ấm cúng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hài hước"
+  ]
+}

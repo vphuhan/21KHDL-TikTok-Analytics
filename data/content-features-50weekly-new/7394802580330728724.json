@@ -1,0 +1,95 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu mắm chưng và sự khác biệt trong sở thích ăn uống.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị khi nghe về sự khác biệt ẩm thực."
+    },
+    {
+      "step": "Kể chuyện",
+      "desc": "Chia sẻ về trải nghiệm ăn uống kỳ lạ với người yêu.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hài hước và bất ngờ."
+    },
+    {
+      "step": "Hướng dẫn",
+      "desc": "Bắt đầu hướng dẫn cách làm mắm chưng chuẩn vị miền Tây.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ công thức nấu ăn."
+    },
+    {
+      "step": "Thực hiện",
+      "desc": "Hướng dẫn chi tiết các bước trộn nguyên liệu và nêm nếm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung lắng nghe để làm theo."
+    },
+    {
+      "step": "Hoàn thiện",
+      "desc": "Hướng dẫn hấp mắm chưng và thêm lòng đỏ trứng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về kết quả cuối cùng."
+    },
+    {
+      "step": "Thói quen",
+      "desc": "Chia sẻ thói quen đi chợ và trả giá cá nhân.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy gần gũi và đồng cảm."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Nêu cảm nhận về món ăn tự nấu và kêu gọi thử.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy đói bụng và muốn thử ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Truyền thống",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Nếu bữa nay mà không có biết ăn cái gì á mấy bà làm mắm chân ăn cơm đi, không có ngon bắt đền tôi nè."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "thơm ngon",
+    "mê",
+    "ưa",
+    "ngon",
+    "hết bài",
+    "thích"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mắm chân nó hôi vậy mà sao em ăn được hay quá vậy.",
+    "Nhà tôi á không nấu thì thôi chứ nấu món nào là bày y chang như là bán vậy đó mấy bà.",
+    "Vậy đó mà không hiểu làm sao á có nhiều người có thể ngoại tình được nữa, trong khi mình đi mua đồ còn không dám phản bội các bạn bán quen mà đi mua bà khác nữa đó."
+  ],
+  "hook_content": "Mắm chân nó hôi vậy mà sao em ăn được hay quá vậy.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện"
+  ],
+  "summarization": "Video hướng dẫn cách làm mắm chưng chuẩn vị miền Tây, đồng thời chia sẻ những câu chuyện cá nhân về sở thích ăn uống và thói quen đi chợ. Cuối video, người nói khuyến khích người xem làm thử món ăn này.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

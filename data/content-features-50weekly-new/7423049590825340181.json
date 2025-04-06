@@ -1,0 +1,77 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu bánh mì Pew Pew và sự nổi tiếng của quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán bánh mì nổi tiếng."
+    },
+    {
+      "step": "Mô tả topping",
+      "desc": "Mô tả topping hấp dẫn và sự đa dạng của bánh mì.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử ngay."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Đánh giá chi tiết các loại bánh mì và hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đói bụng và muốn ăn."
+    },
+    {
+      "step": "Kêu gọi bình chọn",
+      "desc": "Kêu gọi bình chọn cho bánh mì Pew Pew trên Food Map.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, có thể tham gia."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ăn ngon xong rồi mình lên Coca-Cola Food Map để bình chọn cho bánh mì Pew Pew nha.",
+    "Tìm bánh mì lên Coca-Cola Food Map. Bình chọn cho quán đỉnh yêu thích này nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "mê",
+    "ngon",
+    "đã",
+    "khoái",
+    "béo",
+    "nịnh miệng",
+    "vừa vị"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn bánh mì mà topping ê hề như vậy nè. Quá đã luôn đó mọi người.",
+    "Phần nhìn là tôi cho 10 điểm rồi đó.",
+    "Làm một ngụm Coca-Cola nữa. Tôi nói vỗ đùi đen đét luôn."
+  ],
+  "hook_content": "Một quán bánh mì có quầy topping phải nói là bắt mắt vô cùng và còn mang tên của một streamer siêu nổi tiếng.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu và đánh giá bánh mì Pew Pew, một quán bánh mì nổi tiếng với topping đa dạng và hấp dẫn. Người nói kêu gọi bình chọn cho quán trên Coca-Cola Food Map.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

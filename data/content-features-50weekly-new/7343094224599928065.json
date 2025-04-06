@@ -1,0 +1,83 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu và bắt đầu mở hộp sữa Monte vị socola",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm"
+    },
+    {
+      "step": "Thử sản phẩm",
+      "desc": "Ăn phần sữa không trước để cảm nhận hương vị",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức muốn biết vị ra sao"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá vị béo và ngon của sản phẩm",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng ăn và khen quá ngon",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn được ăn thử"
+    },
+    {
+      "step": "Nhận xét sản phẩm",
+      "desc": "Nhận xét nhiều người không ăn được và nhắc tới Nutella",
+      "impact_level": "1",
+      "viewer_emotion": "Tự hỏi vì sao lại không ăn được"
+    },
+    {
+      "step": "Đánh giá thêm",
+      "desc": "Tiếp tục đánh giá vị sữa đặc và độ béo",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm nhận rõ hơn về hương vị"
+    },
+    {
+      "step": "Nhận xét giá",
+      "desc": "Nhận xét ăn hơi tiếc tiền vì đắt",
+      "impact_level": "1",
+      "viewer_emotion": "Cân nhắc về giá cả"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "béo",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Wow nó béo.",
+    "Quá ngon luôn.",
+    "Vậy mà có nhiều người không ăn được ấy."
+  ],
+  "hook_content": "sữa Monte sô cô la.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review sữa Monte vị sô cô la, tập trung vào hương vị béo ngậy và ngon miệng của sản phẩm, đồng thời đề cập đến giá thành.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

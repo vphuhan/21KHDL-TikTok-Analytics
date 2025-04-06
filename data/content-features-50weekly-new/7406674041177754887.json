@@ -1,0 +1,79 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu về công thức trà sữa ngon nhất từ trước đến giờ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về công thức được giới thiệu."
+    },
+    {
+      "step": "Giới thiệu chung",
+      "desc": "Công thức trà sữa có nhiều cách pha, tùy theo khẩu vị.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thông tin này khá quen thuộc."
+    },
+    {
+      "step": "Mẹo 1",
+      "desc": "Thêm chút muối để cân bằng vị ngọt, làm đậm đà hơn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy mẹo này khá hay và đáng thử."
+    },
+    {
+      "step": "Mẹo 2",
+      "desc": "Cho đá lạnh vào trà nóng để trà thơm và đậm hơn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thắc mắc không biết mẹo này có hiệu quả không."
+    },
+    {
+      "step": "Mẹo 3",
+      "desc": "Để trà sữa trong tủ lạnh 8 tiếng cho kem béo nở.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy cần nhiều thời gian để thực hiện."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "phấn khởi",
+    "wow",
+    "mê"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "đây là công thức ngon nhất mà từ đó đến giờ mình pha được nha",
+    "uống một cái mà mình phải wow luôn",
+    "cho vào tủ lạnh 8 tiếng để bột kem béo mình được nở ra hết thì trà sẽ đậm đặc hơn"
+  ],
+  "hook_content": "Hồi đó giờ mình đã làm rất là nhiều video về cách pha trà sữa truyền thống rồi, nó từ tạm đến ngon, càng ngày càng ngon hơn.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Liệt kê"
+  ],
+  "summarization": "Video chia sẻ 3 mẹo để pha trà sữa ngon hơn, bao gồm thêm muối, cho đá lạnh vào trà nóng và để trà sữa trong tủ lạnh 8 tiếng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

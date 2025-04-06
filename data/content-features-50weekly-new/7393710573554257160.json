@@ -1,0 +1,74 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Chào hỏi và giới thiệu món trứng lộn xào me.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thân thiện và tò mò về món ăn."
+    },
+    {
+      "step": "Nguyên liệu và giá cả",
+      "desc": "Chia sẻ giá trứng lộn và các nguyên liệu cần thiết.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích về giá cả."
+    },
+    {
+      "step": "Nấu sốt me",
+      "desc": "Hướng dẫn nấu sốt me chua ngọt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn với cách làm sốt me."
+    },
+    {
+      "step": "Xào trứng",
+      "desc": "Hướng dẫn xào trứng lộn với sốt me.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thèm thuồng với món ăn."
+    },
+    {
+      "step": "Trình bày và thưởng thức",
+      "desc": "Trình bày món ăn và mời mọi người cùng ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy đói bụng và muốn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi nghe."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "hấp dẫn",
+    "chua chua cay cay",
+    "đã cái nư"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trứng lộn thì thấm đẫm sốt me chua chua cay cay ăn trứng nào ta nói đã cái nư trứng đó luôn."
+  ],
+  "hook_content": "Hello mọi người, lại là tôi, mập bự thích nấu ăn đây.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món trứng hột vịt lộn xào me đơn giản, với phần sốt me chua ngọt đặc trưng. Người nấu chia sẻ công thức và mời mọi người cùng thưởng thức.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

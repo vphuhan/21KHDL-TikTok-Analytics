@@ -1,0 +1,78 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Intro",
+      "desc": "Giải thích về nguồn gốc món mì tương đen và công thức.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về công thức nấu mì."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Giới thiệu nguyên liệu và cách sơ chế thịt bò.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, chỉ là chuẩn bị."
+    },
+    {
+      "step": "Luộc mì",
+      "desc": "Hướng dẫn luộc mì và rau.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thao tác quen thuộc."
+    },
+    {
+      "step": "Xào thịt bò",
+      "desc": "Hướng dẫn xào thịt bò với lửa lớn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với cách xào thịt bò."
+    },
+    {
+      "step": "Trộn mì",
+      "desc": "Hướng dẫn trộn mì với tương đen và gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn khi thấy mì trộn đều."
+    },
+    {
+      "step": "Hoàn thành",
+      "desc": "Trộn thịt bò đã xào vào mì và thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn ăn thử ngay lập tức."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "bất bại"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "mì tương đen là của Trung Quốc, không phải của Hàn Quốc",
+    "công thức mì tương đen mà ta nói ngon bất bại",
+    "ướp cho tôi dầu nè, nước tương, tí đường nha mấy bà"
+  ],
+  "hook_content": "100 ngàn lần rồi, mì tương đen là của Trung Quốc, không phải của Hàn Quốc. Sao mấy bà cứ vô tranh cãi hoài vậy?",
+  "hook_type": [
+    "Gây tranh cãi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn nấu mì tương đen bò lúc lắc đơn giản tại nhà, bắt đầu bằng cách giải thích về nguồn gốc món ăn và sau đó là các bước thực hiện chi tiết để có món mì ngon.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

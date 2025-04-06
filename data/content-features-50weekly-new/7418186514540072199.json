@@ -1,0 +1,66 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu combo mì cay xiên bẩn và bày tỏ sự thích thú.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Ăn và đánh giá hương vị, cảm nhận sự ngon miệng.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm giác thèm thuồng."
+    },
+    {
+      "step": "Giới thiệu xịt thơm miệng",
+      "desc": "Quảng cáo sản phẩm xịt thơm miệng, nhấn mạnh công dụng.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến sản phẩm."
+    },
+    {
+      "step": "Thưởng thức cóc xoài gầm",
+      "desc": "Ăn cóc xoài gầm và mời mọi người cùng thưởng thức.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn thử."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thích",
+    "đam mê"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "tự đóng bằng ngon hơn ngoài quán rồi",
+    "rất là đam mê với mấy em xịt thơm miệng nha",
+    "cóc xoài gầm nha. Ngon chưa mấy bà ơi"
+  ],
+  "hook_content": "Wow, thì mình tự đóng bằng ngon hơn ngoài quán rồi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình mukbang mì cay xiên bẩn và cóc xoài gầm. Đồng thời, người này cũng review một loại xịt thơm miệng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu đồ ngâm tương mua gần nhà vì thèm ăn",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Đánh giá đóng gói",
+      "desc": "Nhận xét phần đóng gói chỉnh chu, sạch sẽ, gọn gàng",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá cá hồi ngâm tương",
+      "desc": "Cảm nhận cá hồi béo, vị tương thơm, vừa ăn",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Đánh giá tôm ngâm tương",
+      "desc": "Tôm nhỏ, giòn, tương thơm, không bị mặn",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn thử"
+    },
+    {
+      "step": "Chia sẻ trải nghiệm cá nhân",
+      "desc": "Từ không thích thành mê đồ ngâm tương nhưng hơi tiếc tiền",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm"
+    },
+    {
+      "step": "Nhận xét về giá",
+      "desc": "Đồ ngâm tương chất lượng thì không hề rẻ",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích"
+    },
+    {
+      "step": "Kinh nghiệm chọn quán",
+      "desc": "Chọn quán có review cao để đỡ thất vọng",
+      "impact_level": "2",
+      "viewer_emotion": "Ghi nhớ"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thèm",
+    "bất ngờ",
+    "vừa ăn",
+    "thơm",
+    "ngon",
+    "mê",
+    "tiếc tiền"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Khi ăn cái miếng cá hồi đầu tiên thì mình hơi bất ngờ nha. Kiểu như cái tương nó thấm vào miếng cá mà ăn miếng cá thì nó rất là béo luôn.",
+    "Cũng giống như bên cái cá hồi nghĩa là tương rất là thơm và không có bị mặn. Kiểu như là mình ăn liên tục nhưng mà mình vẫn thấy ngon mà không có bị ngán là vậy á.",
+    "Tôi á là một người hay ăn đồ ăn ngoài nên là tôi hay đặt lắm. Cái quyết mà lựa món ăn ngon hay là quán ăn ngon thì tôi hay lựa những cái quán mà có 4.8 hay là 4.9 sao á mọi người. Lệ mà thất vọng sẽ ít hơn nha."
+  ],
+  "hook_content": "Hêy mọi người, không biết ở đây mọi người có thích ăn đồ ngâm tương, họ lại bị ngán tiền á mọi người.",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review đồ ngâm tương mua gần nhà, tập trung vào đánh giá hương vị cá hồi và tôm, đồng thời chia sẻ trải nghiệm cá nhân và kinh nghiệm chọn quán ăn ngon.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

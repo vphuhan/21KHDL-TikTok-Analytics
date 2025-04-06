@@ -1,0 +1,66 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu cà phê Đau ra của chị Nhật Kim Anh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm"
+    },
+    {
+      "step": "Miêu tả sản phẩm",
+      "desc": "Nêu các thành phần và lợi ích của cà phê.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến lợi ích"
+    },
+    {
+      "step": "Đánh giá sản phẩm",
+      "desc": "Nhấn mạnh hương vị ngon và lợi ích sức khỏe.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với đánh giá"
+    },
+    {
+      "step": "Lời mời tương tác",
+      "desc": "Mời mọi người cùng ăn trái cây và uống cà phê.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thân thiện"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "khỏe",
+    "thích"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đau ra cà phê vừa ngon, vừa khỏe, bảo sao nhiều người thích uống."
+  ],
+  "hook_content": "Mâm trái cây như thế này thì không thể thiếu cà phê đau ra của chị Nhật Kim Anh.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu cà phê Đau ra của Nhật Kim Anh, nhấn mạnh vào thành phần tốt cho sức khỏe và hương vị ngon, đồng thời mời mọi người cùng thưởng thức trái cây và cà phê.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

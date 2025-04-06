@@ -1,0 +1,73 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về việc đi bấm biển số xe và thu hoạch cá.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Chuẩn bị cá lóc, bầu và các gia vị để chế biến món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Sơ chế",
+      "desc": "Sơ chế và ướp cá lóc, chuẩn bị bầu để hấp cá.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Chế biến",
+      "desc": "Hấp cá lóc trong bầu và nướng cá lóc bằng rơm.",
+      "impact_level": "3",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Cả nhà cùng nhau thưởng thức món cá lóc hấp bầu.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấm cúng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Truyền thống"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "ngon",
+    "vừa ăn",
+    "mến"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Từ cái lúc nướng cho tới cái lúc chín cá luôn chưa đầy 5 phút nữa mọi người, mà cá nướng bằng rơm nó thơm lắm, không có bị hôi khói.",
+    "Lóc nướng với cá lóc hấp bầu mà mang đi cuốn bánh tráng á thì cái nào cũng ngon hết trơn luôn á."
+  ],
+  "hook_content": "được nghe hai cậu cháu mình đi bấm biển số xe mà hình như ông cậu mình không xui hay sao á. Bấm kiểu gì mà 20 nút luôn.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình chuẩn bị và chế biến món cá lóc hấp bầu và cá lóc nướng trui tại nhà, từ khâu chuẩn bị nguyên liệu đến khi cả nhà cùng nhau thưởng thức món ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng",
+    "Chân thành"
+  ]
+}

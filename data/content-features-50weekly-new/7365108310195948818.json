@@ -1,0 +1,91 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bạch tuộc xào tương ớt ăn kèm cơm trộn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách chế biến món ăn."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Giới thiệu và sơ chế các nguyên liệu chính: bạch tuộc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú khi xem sơ chế nguyên liệu tươi ngon."
+    },
+    {
+      "step": "Luộc bạch tuộc",
+      "desc": "Luộc sơ bạch tuộc trước khi xào để đảm bảo độ ngon.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, đây là bước cần thiết."
+    },
+    {
+      "step": "Pha sốt",
+      "desc": "Pha nước sốt đặc trưng gồm tương ớt, ớt bột, nước tương,...",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến công thức và tỷ lệ pha trộn."
+    },
+    {
+      "step": "Xào bạch tuộc",
+      "desc": "Xào bạch tuộc với hành tây cho thơm, bạch tuộc chín đều.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi mùi thơm và màu sắc của món ăn."
+    },
+    {
+      "step": "Trộn cơm",
+      "desc": "Trộn cơm cùng bạch tuộc xào, giá đỗ và xà lách.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng với món cơm trộn đầy đặn."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Thưởng thức món cơm trộn bạch tuộc xào và đánh giá.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn được ăn thử ngay lập tức."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Rồi mời mọi người ăn cơm nha.",
+    "Rồi mời mọi người ăn cơm tối vui với cả nhà của mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngon quá",
+    "hấp dẫn",
+    "ngon chua chua dễ ăn",
+    "quá ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mình thấy cái món này nó ngọt thiệt cho nên á là mình hay dậm dậm bớt thêm chút xíu.",
+    "Từ ngày có cái mẹo của mọi người chỉ cho mình là bây giờ mình cắt củ hành không có chảy nước mắt nữa nha.",
+    "Ăn xong một lần là kiểu như bị ghiền luôn á."
+  ],
+  "hook_content": "Mai mình có 1 kí bạch tuộc chân ngắn mang đi xào cây rồi đem đi dùng cơm ăn nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm món bạch tuộc xào tương ớt ăn kèm cơm trộn, từ khâu chuẩn bị nguyên liệu, sơ chế, pha sốt, xào đến khi trộn cơm và thưởng thức. Món ăn được đánh giá là ngon, hấp dẫn và dễ gây nghiện.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

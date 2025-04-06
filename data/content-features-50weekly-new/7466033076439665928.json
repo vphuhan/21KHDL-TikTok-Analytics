@@ -1,0 +1,85 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Nhận nhiệm vụ",
+      "desc": "Mẹ sai đi mua vịt quay, nhưng mua nhầm gà quay.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy tình huống dở khóc dở cười."
+    },
+    {
+      "step": "Bối rối",
+      "desc": "Không biết phải giải thích với mẹ như thế nào về sự nhầm lẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đồng cảm với sự lo lắng."
+    },
+    {
+      "step": "Thưởng thức gà quay",
+      "desc": "Lần đầu ăn gà quay, nhận xét về hương vị và độ mềm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy món ăn có vẻ hấp dẫn."
+    },
+    {
+      "step": "So sánh",
+      "desc": "So sánh gà quay và vịt quay, thích vịt quay hơn.",
+      "impact_level": "1",
+      "viewer_emotion": "Gật gù đồng ý."
+    },
+    {
+      "step": "Ăn thử",
+      "desc": "Thưởng thức phần đùi và ức gà, đưa ra đánh giá.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy đói bụng."
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Đưa ra lời khuyên ăn ức gà cho người muốn giảm cân.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy thông tin hữu ích."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Đi mua vịt quay và hy vọng mẹ không xem video.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy buồn cười."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z",
+    "Sáng tạo"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "nóng",
+    "mềm",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Sao lại mua nhầm được con gà nhỉ?",
+    "Nếu như mà quay thì mình nghĩ là vịt sẽ ngon hơn đấy. Cứ gà quay nó hơi khô.",
+    "Hãy ăn ức gà, bởi vì ức gà nó rất ít calo."
+  ],
+  "hook_content": "Mẹ mình bảo mình đi mua vịt quay.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video kể về việc mua nhầm gà quay thay vì vịt quay theo yêu cầu của mẹ. Người này đã ăn thử gà quay và đưa ra những nhận xét về hương vị, đồng thời so sánh với vịt quay.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

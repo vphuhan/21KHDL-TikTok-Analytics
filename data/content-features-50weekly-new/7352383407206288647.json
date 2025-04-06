@@ -1,0 +1,94 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món gà hấp úp cốc độc đáo và đặt câu hỏi về hiện tượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách làm và sự độc đáo."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Mô tả các bước tẩm ướp gà với gia vị cơ bản.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy quen thuộc với các bước ướp gà."
+    },
+    {
+      "step": "Thực hiện hấp gà",
+      "desc": "Hướng dẫn cách đặt cốc và hấp gà với thuốc bắc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy lạ và thú vị với phương pháp hấp."
+    },
+    {
+      "step": "Thu nước cốt gà",
+      "desc": "Mô tả quá trình nước gà hút vào cốc và thu thành phẩm.",
+      "impact_level": "3",
+      "viewer_emotion": "Ngạc nhiên và thích thú với kết quả."
+    },
+    {
+      "step": "Pha nước chấm",
+      "desc": "Hướng dẫn làm nước chấm gà từ nước cốt gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hấp dẫn với công thức nước chấm."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Nhận xét về độ mềm, mọng nước của gà hấp và hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử món gà hấp độc đáo này."
+    },
+    {
+      "step": "So sánh và kết luận",
+      "desc": "So sánh với cách hấp thông thường và tạo sự khác biệt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự khác biệt và tính thú vị."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "siêu đỉnh",
+    "siêu ngon",
+    "thơm",
+    "mlem",
+    "mềm",
+    "mọng nước",
+    "juicy",
+    "ngọt",
+    "hay hay",
+    "thích mắt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nhưng mà cũng nhờ có cái cách hấp gà kiểu này mà mình lại pha được một cái bát nước chấm gà ăn siêu đỉnh siêu ngon.",
+    "Còn mình thấy gà hấp theo kiểu này nhá, nó không bị bở thịt, và bên trong cái miếng gà nó vẫn còn mọng nước, ăn nó kiểu juicy juicy ở bên trong miệng ý.",
+    "Mình lừa cháu mình mình bảo là mình có siêu năng lực, và chúng nó cũng tin đấy!"
+  ],
+  "hook_content": "Nói thẳng luôn là mình học dốt, cho nên ai học giỏi thì có thể giải thích cho mình cái hiện tượng này là hiện tượng gì không ạ?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu cách làm gà hấp úp cốc độc đáo, trong đó nước gà được thu vào một chiếc cốc đặt giữa nồi, tạo nên phần nước chấm đậm đà. Người làm chia sẻ trải nghiệm và so sánh với cách hấp thông thường, nhấn mạnh ưu điểm về hương vị và độ mọng nước của món ăn.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

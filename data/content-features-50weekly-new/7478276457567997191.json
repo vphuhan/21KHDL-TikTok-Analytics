@@ -1,0 +1,98 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bánh",
+      "desc": "Giới thiệu các loại bánh miền Tây và kỷ niệm tuổi thơ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các loại bánh."
+    },
+    {
+      "step": "Thử món",
+      "desc": "Thử các loại bánh và miêu tả hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và thích thú."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Đánh giá hương vị, độ ngọt và cảm nhận cá nhân.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình hoặc tò mò."
+    },
+    {
+      "step": "So sánh",
+      "desc": "So sánh bánh ở đây với hương vị ở quê.",
+      "impact_level": "1",
+      "viewer_emotion": "Nhớ về hương vị quê hương."
+    },
+    {
+      "step": "Thử các món khác",
+      "desc": "Tiếp tục thử các loại bánh khác nhau.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong đợi và tò mò."
+    },
+    {
+      "step": "Nhấn mạnh hương vị",
+      "desc": "Nhấn mạnh hương vị đặc trưng của món bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng hơn."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Kết thúc video và tạm biệt người xem.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thỏa mãn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ai quê Tiền Giang giơ tay."
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thối",
+    "dẻo",
+    "ngọt",
+    "chua",
+    "vừa",
+    "thơm",
+    "ghét",
+    "ngấy"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Miền Tây tôi á thật ra là không có thích ăn ngọt lắm đâu, thích là phà. Chận mặn nè, ngọt nè, chua nè, đủ vị, nói chung là đủ vị á.",
+    "Ở dưới miền Tây tôi là tận dụng được tất cả các món làm từ bột hết.",
+    "Tôi ở trên mạng này tôi làm review, như tôi không tin bất kỳ một review nào luôn, cái này nói thẳng."
+  ],
+  "hook_content": "Ừm, cái nước cốt dừa ở đâu mà ngon dữ vậy? Trời ơi, thối quá.",
+  "hook_type": [
+    "Gây tò mò",
+    "Phản hồi bình luận"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review các loại bánh ngọt miền Tây, tập trung vào hương vị, cảm nhận cá nhân và so sánh với hương vị gốc ở quê. Người review vừa ăn vừa đưa ra những đánh giá chân thật và hài hước.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành",
+    "Khó chịu"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Chia sẻ sắp chuyển chỗ ở và tranh thủ đi chợ quen thuộc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về lý do chuyển nhà."
+    },
+    {
+      "step": "Mua mực nang",
+      "desc": "Giới thiệu về mùa mực nang ở Nhật và kinh nghiệm mua mực.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị về thói quen ăn uống."
+    },
+    {
+      "step": "Sơ chế mực",
+      "desc": "Chia sẻ mẹo rửa mực với đường và giữ lại trứng mực.",
+      "impact_level": "2",
+      "viewer_emotion": "Bất ngờ với mẹo hay."
+    },
+    {
+      "step": "Chơi game",
+      "desc": "Trong lúc chờ mực chín thì chơi game cá lớn nuốt cá bé.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Thưởng thức mực",
+      "desc": "Hấp mực và ăn kèm muối tiêu, rau răm, trứng mực.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng món mực hấp."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Nhận xét về độ ngon, dai, dẻo của mực và trứng mực.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn thử ngay lập tức."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Khen ngon và muốn ăn kèm với mì.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm ăn theo."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người chơi thử cái game này đi mình thấy cuốn dữ lắm luôn á nha."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "dai dai dẻo dẻo",
+    "giòn",
+    "ngập răng",
+    "dày thịt",
+    "dẻo",
+    "ngon",
+    "quá là đã",
+    "muốn tháo cái nách ra",
+    "ngon quá chịu không có nổi"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn cái con mực nang này chủ yếu chắc mình khoái mỗi cái râu của nó thôi đó. Kiểu là cái râu của nó to á, cắn vô ngập răng mà nó giòn kinh khủng khiếp.",
+    "Mình cũng không biết diễn tả là nó dẻo mà nó ngon giống với cái gì nữa nhưng mà thiệt sự là quá là đã.",
+    "Ăn kèm chung với rau găm nữa ta nói muốn tháo cái nách ra luôn tại vì nó quá là ngon."
+  ],
+  "hook_content": "Tính ra là chỉ còn vài tháng nữa là mình không có còn được đi cái chợ này nữa rồi, tại vì có khi là mình đâu có còn ở cái vùng này nữa đâu mọi người.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ trải nghiệm đi chợ mua mực nang ở Nhật, cách sơ chế và chế biến món mực nang hấp. Người nói đặc biệt thích râu mực và trứng mực vì độ giòn, dai và dẻo.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sự việc",
+      "desc": "Thông báo về việc bị bom gà và sự thất vọng.",
+      "impact_level": "3",
+      "viewer_emotion": "Đồng cảm với sự thất vọng của người bán."
+    },
+    {
+      "step": "Giải thích chi tiết",
+      "desc": "Mô tả tình trạng đơn hàng và thiệt hại gặp phải.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy tiếc cho công sức và tiền bạc bị lãng phí."
+    },
+    {
+      "step": "Giải thích lý do",
+      "desc": "Nêu rõ nguyên nhân gà bị hỏng và không thể sử dụng.",
+      "impact_level": "2",
+      "viewer_emotion": "Hiểu rõ hơn về vấn đề vận chuyển thực phẩm tươi sống."
+    },
+    {
+      "step": "Kết luận buồn",
+      "desc": "Quyết định mang gà đi chôn và bày tỏ sự tiếc nuối.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy buồn và thương xót cho số phận của con gà."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chuyên nghiệp",
+    "Chuyên nghiệp"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "buồn",
+    "tiếc"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "em lại bị bom gà rồi",
+    "Thật sự rất là buồn các anh chị ạ",
+    "rất là tiếc rất là buồn luôn"
+  ],
+  "hook_content": "các anh chị ơi, em lại bị bom gà rồi.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện"
+  ],
+  "summarization": "Video chia sẻ về việc người bán bị bom đơn gà đã mổ, gây thiệt hại về kinh tế và công sức. Do gà mổ sẵn dễ hỏng khi vận chuyển, người bán buộc phải mang đi chôn, thể hiện sự tiếc nuối.",
+  "tone_of_voice": [
+    "Chân thành",
+    "Khó chịu"
+  ]
+}

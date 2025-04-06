@@ -1,0 +1,89 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu mâm ốc nhồi thịt siêu to khổng lồ và nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn được giới thiệu."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Sơ chế ốc, bằm ốc, trộn các nguyên liệu làm nhân.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự chuẩn bị công phu."
+    },
+    {
+      "step": "Nhồi và hấp ốc",
+      "desc": "Nhồi thịt vào ốc và đem đi hấp trong 45 phút.",
+      "impact_level": "1",
+      "viewer_emotion": "Mong chờ kết quả món ăn."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu điện thoại Samsung Galaxy A16 mới mua.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy sản phẩm phù hợp với người sáng tạo nội dung."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Pha mắm gừng và thưởng thức món ốc nhồi thịt.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng, muốn được ăn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi nhen."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "mê",
+    "xua tan cái mệt",
+    "đã",
+    "sực sực",
+    "ngon",
+    "cay sương sương",
+    "tê tê tâm hồn",
+    "chất lượng",
+    "thơm phức",
+    "vừa vị",
+    "cay cay",
+    "đậm đà",
+    "ngon chấn động",
+    "xứng đáng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ốc nhồi thì thơm phức vừa vị, sực sực của ốc và nấm mèo chấm cùng với mắm gừng cay cay đậm đà ta nói hen.",
+    "Ngon chấn động là có thiệt.",
+    "Làm ở nhà tuy hơi lâu thiệt nhưng bù lại thành phẩm quá là xứng đáng đi."
+  ],
+  "hook_content": "Dòm cái mâm ốc nhồi thịt siêu to khổng lồ của tôi, mọi người có thấy mê không?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm món ốc nhồi thịt tại nhà với các công đoạn được thực hiện tỉ mỉ, sau đó người làm video đã tự thưởng cho mình bằng một chiếc điện thoại mới và mời mọi người cùng thưởng thức món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

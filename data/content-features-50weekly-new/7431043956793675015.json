@@ -1,0 +1,100 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món mực nhồi nấm kim châm sốt cay Hàn Quốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chế biến món ăn",
+      "desc": "Thông báo đã chế biến xong món ăn và giới thiệu thành phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Uống nước và bắt đầu thưởng thức món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức xem review."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Miêu tả chi tiết hương vị của món ăn và các thành phần.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Chia sẻ kinh nghiệm",
+      "desc": "Chia sẻ kinh nghiệm lần đầu làm món này và gợi ý cải thiện.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích."
+    },
+    {
+      "step": "So sánh",
+      "desc": "So sánh hương vị sốt ở phần trên và phần dưới.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung lắng nghe."
+    },
+    {
+      "step": "Kết luận và CTA",
+      "desc": "Nhấn mạnh độ ngon và kêu gọi làm thử, để lại bình luận.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn thử làm theo."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "nếu mà bạn muốn Vàng chỉ cho bạn làm cái sốt này á thì comment ở bên dưới có gì Vàng sẽ chỉ cho bạn nha."
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Thử làm theo công thức",
+    "Chia sẻ công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "cay",
+    "sảng khoái",
+    "thèm",
+    "hấp dẫn",
+    "đã",
+    "ngọt",
+    "dai",
+    "thơm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái vị cay á nó len lỏi vào tận cái chân răng của Vàng á bạn.",
+    "Ăn một con thôi bạn mà nó no đã đời luôn á bạn.",
+    "Nếu mà bạn có mực á bạn nấu cái này ăn thử nha bạn, ngon tuyệt vời luôn."
+  ],
+  "hook_content": "Vàng thèm ăn cái này nè bạn ơi. Nhìn vàng được giao cho cái này nè bạn ơi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video mukbang món mực nhồi nấm kim châm sốt cay Hàn Quốc, Tóc Vàng vừa ăn vừa chia sẻ cảm nhận về hương vị, độ tươi ngon và độ cay của món ăn, đồng thời khuyến khích người xem tự làm tại nhà và để lại bình luận nếu muốn được hướng dẫn làm sốt.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

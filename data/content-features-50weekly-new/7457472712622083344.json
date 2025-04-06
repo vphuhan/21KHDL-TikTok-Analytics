@@ -1,0 +1,93 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bò hấp lá tía tô và chia sẻ trải nghiệm cá nhân.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Chia sẻ kinh nghiệm",
+      "desc": "Chia sẻ về thói quen nấu ăn và ảnh hưởng từ người khác.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy gần gũi."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Hướng dẫn chọn nguyên liệu và sơ chế thịt bò.",
+      "impact_level": "2",
+      "viewer_emotion": "Học hỏi được mẹo hay."
+    },
+    {
+      "step": "Ướp thịt bò",
+      "desc": "Hướng dẫn cách ướp thịt bò với các loại gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ hương vị món ăn."
+    },
+    {
+      "step": "Chuẩn bị nồi hấp",
+      "desc": "Hướng dẫn chuẩn bị nồi hấp và lý do hấp bằng bia.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với cách làm."
+    },
+    {
+      "step": "Hấp thịt bò",
+      "desc": "Hướng dẫn cách hấp và thời gian hấp thịt bò.",
+      "impact_level": "2",
+      "viewer_emotion": "Hồi hộp chờ đợi món ăn chín."
+    },
+    {
+      "step": "Làm tương bần",
+      "desc": "Hướng dẫn làm nước chấm tương bần.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nên có gì mình lưu lại cái công thức này liền cho em nha.",
+    "Tết này mấy chị làm ăn thử đi, nếu mà không có ngon á hen, bắt đền em nè."
+  ],
+  "cta_type": [
+    "Lưu video",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ghiền",
+    "thèm",
+    "thơm phức",
+    "siêu đỉnh"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bò hấp lá tía tô tưởng không ngon ai dè ngon không tưởng tượng nổi",
+    "Em ăn cái món này một lần mà em ghiền luôn tới giờ á mấy chị ơi.",
+    "Trời ơi mấy chị là phải hấp với bia nha, hấp với bia là em thấy là nó khác hẳn với hấp cái nước lọc luôn."
+  ],
+  "hook_content": "Thịt bò mua về á mấy chị đừng có làm cái món gì phức tạp hết trơn á mà mình chuyển qua làm cái món bò hấp lá tía tô kiểu này đi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn cách làm món bò hấp lá tía tô đơn giản, ngon miệng, phù hợp cho bữa cơm gia đình, đặc biệt là vào dịp Tết. Người làm chia sẻ kinh nghiệm chọn nguyên liệu, ướp thịt và làm nước chấm tương bần.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

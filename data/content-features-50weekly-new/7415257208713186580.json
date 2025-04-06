@@ -1,0 +1,57 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món mì trộn ớt và mời mọi người cùng ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Nếm thử",
+      "desc": "Trộn mì và nếm thử hai vị khác nhau.",
+      "impact_level": "3",
+      "viewer_emotion": "Hồi hộp chờ đợi đánh giá."
+    },
+    {
+      "step": "Đánh giá độ cay",
+      "desc": "Nhấn mạnh độ cay của món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm nhận được độ cay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "cay"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cay thật.",
+    "Cay đôi luôn."
+  ],
+  "hook_content": "Không phải tiếp tục ăn mì trộn ớt với mình nhá.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình người này ăn mì trộn ớt và cảm nhận độ cay của món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

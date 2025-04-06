@@ -1,0 +1,52 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Mô tả món ốc om chuối đậu trong không gian lạnh giá.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn biết thêm về món ăn."
+    },
+    {
+      "step": "Lời bài hát",
+      "desc": "Sử dụng lời bài hát để diễn tả tâm trạng và cảm xúc.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không liên quan đến món ăn."
+    },
+    {
+      "step": "Lời bài hát tiếp",
+      "desc": "Tiếp tục sử dụng lời bài hát để thể hiện sự cô đơn.",
+      "impact_level": "1",
+      "viewer_emotion": "Không kết nối được với nội dung ẩm thực."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Lạnh lạnh có bát ốc om chuối đậu ta nói nó đã gì đâu"
+  ],
+  "hook_content": "Nếu yêu là sai thì đâu còn ai cần đôi bờ vai kề bên vỗ về",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Kể chuyện"
+  ],
+  "summarization": "Video chia sẻ về món ốc om chuối đậu trong thời tiết lạnh, kết hợp với lời bài hát tâm trạng. Video không tập trung vào hướng dẫn nấu ăn mà sử dụng âm nhạc để tạo không khí.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

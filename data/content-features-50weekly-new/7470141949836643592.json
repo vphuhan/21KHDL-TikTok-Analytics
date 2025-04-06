@@ -1,0 +1,90 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu thử thách",
+      "desc": "Cô dâu tự làm 100 hũ sữa chua đãi khách đám cưới.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị với sự 'liều' của cô dâu."
+    },
+    {
+      "step": "Kiểm tra sữa chua",
+      "desc": "Kiểm tra sữa chua lúc 5:30 sáng, lo lắng bị chua.",
+      "impact_level": "2",
+      "viewer_emotion": "Hồi hộp theo dõi kết quả."
+    },
+    {
+      "step": "Kể chuyện in thiệp",
+      "desc": "Chia sẻ về việc bị mẹ chửi vì in thiệp không đủ thông tin.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với tình huống dở khóc dở cười."
+    },
+    {
+      "step": "Khen đơn vị trang trí",
+      "desc": "Khen đơn vị thiết kế Gia Tiên Luviar Wedding Decor.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với thiết kế đẹp mắt."
+    },
+    {
+      "step": "Nhấn mạnh sự thành công",
+      "desc": "Vừa trang trí thành công, vừa làm sữa chua thành công.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui mừng với thành quả của cô dâu."
+    },
+    {
+      "step": "Hướng dẫn làm sữa chua",
+      "desc": "Hướng dẫn tìm clip công thức làm sữa chua.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy hữu ích nếu muốn thử làm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Kiến thức",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Còn công thức mà làm sữa chua thì mình có đăng clip rất là cụ thể rồi, bạn cứ bấm là cách làm sữa chua bếp nhà Linh sẽ ra."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo",
+    "Chia sẻ công thức"
+  ],
+  "emotion_keywords": [
+    "liều",
+    "chơi lớn",
+    "trộm vía",
+    "mỹ mãn",
+    "thành công",
+    "đẹp",
+    "thích"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Chắc là không có cô dâu nào mà vừa liều vừa chơi lớn như mình đâu, sáng mai đám cưới thì tối nay mới làm sữa chua để đãi khách ăn tráng miệng đám cưới của mình.",
+    "Một trong những điều đúng đắn hiếm hoi trong đám cưới của mình để được mẹ khen là mình đã chọn được đơn vị thiết kế Gia Tiên thành công tốt đẹp mỹ mãn để cho khách nào tới người ta cũng thấy đẹp, người ta cũng thích chụp hình hết trơn á.",
+    "Trộm vía là may mà trang trí Gia Tiên thành công mà sữa chua nó cũng thành công chứ không là tới công chuyện với mẹ mình thiệt á."
+  ],
+  "hook_content": "Chắc là không có cô dâu nào mà vừa liều vừa chơi lớn như mình đâu, sáng mai đám cưới thì tối nay mới làm sữa chua để đãi khách ăn tráng miệng đám cưới của mình.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video kể về thử thách của cô dâu tự làm 100 hũ sữa chua đãi khách đám cưới, chia sẻ những khó khăn và thành công trong quá trình chuẩn bị, đồng thời gợi ý công thức làm sữa chua.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

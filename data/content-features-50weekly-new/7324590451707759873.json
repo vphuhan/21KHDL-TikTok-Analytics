@@ -1,0 +1,77 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món phá lấu lề đường quen thuộc, giá cả phải chăng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Địa điểm yêu thích",
+      "desc": "Chia sẻ đây là địa điểm ăn phá lấu ruột của người nói.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Nhấn mạnh nước mắm ngon, cay, và miếng phá lấu to.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Cảm nhận cá nhân",
+      "desc": "Nước dùng thơm, béo vừa phải, không gây ngấy.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình"
+    },
+    {
+      "step": "Địa điểm và lời mời",
+      "desc": "Địa điểm dễ tìm, khuyến khích mọi người nên thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn đi ăn thử"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Chiều nay tan làm tan học ghé thử đi nha, bảo đảm ghiền liền."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngon ác",
+    "ghiền"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Còn chi ăn cao sang mấy món lề đường dậy á, mà ngon ác mấy bà ơi.",
+    "Tui nói dân văn phòng như tụi tui nè, chiều về ghé làm chén phá lấu với ổ bánh mì là quên luôn buổi tối.",
+    "Ai ăn cay được á chắc chắn sẽ mê cái chén nước mắm của cô dữ lắm."
+  ],
+  "hook_content": "Còn chi ăn cao sang mấy món lề đường dậy á, mà ngon ác mấy bà ơi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán phá lấu lề đường ở Sài Gòn, tập trung vào hương vị ngon, giá cả phải chăng và địa điểm dễ tìm. Người nói khuyến khích mọi người nên thử.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

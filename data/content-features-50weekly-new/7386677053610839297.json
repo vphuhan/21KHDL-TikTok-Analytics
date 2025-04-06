@@ -1,0 +1,87 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món kim pạp chân gà xào cay ăn kèm bún kim chi",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự kết hợp độc đáo."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Giới thiệu các nguyên liệu cần thiết để làm món ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, cần thiết để làm theo."
+    },
+    {
+      "step": "Xào chân gà",
+      "desc": "Hướng dẫn chi tiết cách xào chân gà với gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với công thức xào chân gà."
+    },
+    {
+      "step": "Làm kim bắp hoa",
+      "desc": "Hướng dẫn làm kim bắp hình hoa, món ăn kèm hấp dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với cách trang trí kim bắp."
+    },
+    {
+      "step": "Hoàn thiện món ăn",
+      "desc": "Kết hợp chân gà xào và kim bắp, thêm bún kim chi.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn với món ăn hoàn chỉnh."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Cả nhà cùng nhau thưởng thức món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy ấm cúng, vui vẻ."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Các thành viên trong gia đình đánh giá món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào độ ngon của món ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "ngòn ngọt",
+    "dai dai"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Món này á là nó mềm tan trong miệng luôn á.",
+    "Cái kim bắp hoa này á được cái nó đẹp thôi chứ ăn á thì nó cũng y chang như mấy cái kim bắp khác thôi mọi người.",
+    "Bên trong nó còn ngòn ngọt dai dai nữa."
+  ],
+  "hook_content": "Người có nhớ cái kim chi nước bữa trước mình làm không? Tưởng đâu làm lần đầu không thành công mà ai ngờ thành công không tưởng luôn á.",
+  "hook_type": [
+    "Gây tò mò",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm món kim pạp chân gà xào tương ớt ăn cùng bún nước kim chi, từ khâu chuẩn bị nguyên liệu, chế biến đến khi cả nhà cùng thưởng thức và đánh giá món ăn. Món ăn được đánh giá là ngon, mềm tan trong miệng và có hương vị đặc biệt.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

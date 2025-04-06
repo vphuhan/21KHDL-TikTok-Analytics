@@ -1,0 +1,72 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món lạp xưởng nướng đá và bày tỏ sự thèm thuồng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Thêm gia vị",
+      "desc": "Thêm ớt bột, sốt mayonnaise và sốt trứng muối.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú khi thấy cách trộn gia vị."
+    },
+    {
+      "step": "Nếm thử",
+      "desc": "Nếm thử lạp xưởng nướng đá với các loại sốt.",
+      "impact_level": "3",
+      "viewer_emotion": "Hồi hộp chờ đợi đánh giá."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Đánh giá món ăn là ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình với đánh giá."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Cảm ơn người xem.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy lịch sự."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thèm",
+    "ngon",
+    "cay"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Lạp sườn nướng đá, hơi au trèn nhưng mà vẫn thèm mọi người ạ.",
+    "Cay thế nhỉ.",
+    "Ngon."
+  ],
+  "hook_content": "Lạp sườn nướng đá, hơi au trèn nhưng mà vẫn thèm mọi người ạ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang món lạp sườn nướng đá với các loại sốt, thể hiện sự thèm thuồng và đánh giá hương vị ngon miệng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

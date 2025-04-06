@@ -1,0 +1,57 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Vợ mua heo quay theo yêu cầu, nhưng chỉ mình ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hơi tội nghiệp cho người vợ."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Heo quay giòn, vừa vặn, chấm muối cay thì tuyệt vời.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng món heo quay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "tuyệt vời",
+    "yêu cầu",
+    "vừa vặn",
+    "giòn",
+    "cay",
+    "phê"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "miếng heo quay hôm nay cực kỳ vừa vặn luôn",
+    "quá giòn, chấm thêm tí muối cay nữa là không còn gì để phê hơn"
+  ],
+  "hook_content": "review cả thế giới.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review món heo quay do vợ mua. Người nói đánh giá cao độ giòn và hương vị khi chấm với muối cay.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

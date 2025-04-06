@@ -1,0 +1,108 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu chân gà đông tảo siêu to khổng lồ sốt cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ to và hương vị của món ăn."
+    },
+    {
+      "step": "Uống trà",
+      "desc": "Uống trà gạo lứt gừng quế để cảm nhận hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với trải nghiệm đồ uống mới."
+    },
+    {
+      "step": "Bắt đầu Mukbang",
+      "desc": "Bắt đầu ăn chân gà, diễn tả cảm nhận về món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú theo dõi quá trình ăn chân gà."
+    },
+    {
+      "step": "Miêu tả hương vị",
+      "desc": "Miêu tả lớp da béo, gân giòn sần sật và độ cay.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn nếm thử."
+    },
+    {
+      "step": "Giá cả",
+      "desc": "Thông tin về giá cả của chân gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về giá của món ăn độc lạ."
+    },
+    {
+      "step": "Tiếp tục ăn",
+      "desc": "Tiếp tục ăn và thể hiện sự ngon miệng, cuốn hút.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thích thú và muốn ăn theo."
+    },
+    {
+      "step": "Uống trà và kết thúc",
+      "desc": "Giới thiệu về trà gạo lứt và công dụng, kêu gọi mua.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích và muốn mua sản phẩm."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bạn nào cùng xem đến cảnh này của cảnh ăn này của Vàng không? Comment cho Vàng biết với nha.",
+    "Vàng có ghim sản phẩm này ở phần trưng bày cho bạn nào muốn uống thử nha."
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "háo hức",
+    "thơm",
+    "ngon tuyệt vời",
+    "thích",
+    "hấp dẫn",
+    "hồi hộp",
+    "béo",
+    "giòn sần sật",
+    "đã",
+    "hạnh phúc",
+    "ngon lắm",
+    "lôi cuốn khó tả",
+    "mới lạ",
+    "thơm ngon",
+    "dễ chịu",
+    "thư giãn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Wow, cái chân gà nó to, nó xù xì, nó to cỡ cái tay của bạn luôn nè bạn ơi.",
+    "Cái lớp da của nó béo nha bạn, cái gân ở bên trong á thì giòn sần sật nè.",
+    "Ăn một chân gà này rất là đáng tiền luôn á bạn, cảm giác rất là hạnh phúc luôn bạn ơi."
+  ],
+  "hook_content": "Hai bạn, hôm nay Vàng sẽ ăn chân gà đông tảo siêu to sốt cay nè nha bạn, đây bạn xem nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video mukbang chân gà đông tảo siêu to khổng lồ sốt cay của Tóc Vàng, kết hợp review trà gạo lứt gừng quế Quê Việt. Tóc Vàng vừa ăn vừa miêu tả hương vị, cảm xúc và trải nghiệm cá nhân.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

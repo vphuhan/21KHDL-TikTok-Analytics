@@ -1,0 +1,60 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món mực nhồi thịt và so sánh với món khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhấn mạnh độ tươi ngon của nhân mực nhồi thịt.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Tự khen ngợi",
+      "desc": "Tự khen món ăn do chính mình làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "tươi"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "mực nhồi thịt ngon gấp 10 lần mực ba mặt vuông",
+    "Nhìn nhân bên trong cực tươi là biết ngon rồi",
+    "quá là ngon luôn"
+  ],
+  "hook_content": "Review cả thế giới, mực nhồi thịt ngon gấp 10 lần mực ba mặt vuông.",
+  "hook_type": [
+    "So sánh",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review món mực nhồi thịt, so sánh với mực ba mặt vuông và nhấn mạnh độ tươi ngon của món ăn tự làm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu xúc xích vỏ giòn Trung Quốc, so sánh với lạp xưởng nướng đá",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm mới"
+    },
+    {
+      "step": "Chiên và nướng thử nghiệm",
+      "desc": "Chiên ngập dầu và nướng nồi chiên không dầu, so sánh kết quả",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với các phương pháp chế biến"
+    },
+    {
+      "step": "Đánh giá trực tiếp",
+      "desc": "Ăn thử nguyên vị (sống và chiên), chấm bột ớt, sốt mù tạt",
+      "impact_level": "3",
+      "viewer_emotion": "Hóng chờ cảm nhận về hương vị"
+    },
+    {
+      "step": "So sánh hương vị",
+      "desc": "So sánh với xúc xích Việt Nam, lạp xưởng Hà Khẩu",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự khác biệt"
+    },
+    {
+      "step": "Nhận xét chung",
+      "desc": "Xúc xích cần ăn kèm topping để ngon hơn",
+      "impact_level": "1",
+      "viewer_emotion": "Đồng tình với nhận xét"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "giòn",
+    "béo",
+    "ngậy",
+    "mặn",
+    "thơm",
+    "không ngon",
+    "bột"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "ăn nó bột lắm",
+    "Cái này phải ăn cùng với topping cơ",
+    "ăn cùng sốt nó cũng kiểu béo béo ngậy ngậy hơn ý"
+  ],
+  "hook_content": "Đúng ra là cái xúc xích vỏ giòn này cũng là một trong những hot trend của đầu năm nay.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review xúc xích vỏ giòn Trung Quốc, so sánh với lạp xưởng nướng đá và xúc xích Việt Nam. Người nói thử nghiệm các cách ăn khác nhau và kết luận xúc xích cần ăn kèm topping mới ngon.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

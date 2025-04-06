@@ -1,0 +1,87 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán bánh Miller Miller, không gian và cách trang trí.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với không gian quán"
+    },
+    {
+      "step": "Thời điểm đông khách",
+      "desc": "Thời điểm nên đến quán để tránh đông người.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích"
+    },
+    {
+      "step": "Review bánh Sausage Giro",
+      "desc": "Đánh giá bánh Sausage Giro với lớp phô mai và xúc xích.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thèm ăn"
+    },
+    {
+      "step": "Review bánh Truffle Batcho",
+      "desc": "Nhận xét bánh Truffle Batcho, không ấn tượng bằng bánh trước.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về hương vị"
+    },
+    {
+      "step": "Món bánh yêu thích",
+      "desc": "Gợi ý bánh Giro và croissant trứng muối là ngon nhất.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử croissant trứng muối"
+    },
+    {
+      "step": "Đánh giá đồ uống",
+      "desc": "Nhận xét đồ uống Matcha Latte và Milform.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về đồ uống"
+    },
+    {
+      "step": "Thông tin thêm",
+      "desc": "Thông báo giờ mở cửa mới của quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "béo",
+    "ấn tượng",
+    "thích"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mình thấy hiếm có tiệm nào mà bánh và nước đều ngon, hỏi sao chỗ này không đông và hot bữa giờ.",
+    "Chắc là tiệm bánh Rrosion ngon nhất Sài Gòn đúng không mọi người?",
+    "Nếu thấy thì ngoài rrosion ra thì các bạn nhớ gọi bánh này ăn thử nha. Mình thấy rất là ngon luôn."
+  ],
+  "hook_content": "Chắc là tiệm bánh Rrosion ngon nhất Sài Gòn đúng không mọi người?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review tiệm bánh Miller Miller ở Sài Gòn, tập trung vào các loại bánh croissant và đồ uống. Người xem được cung cấp thông tin về không gian, thời điểm nên đến và đánh giá hương vị của từng món.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

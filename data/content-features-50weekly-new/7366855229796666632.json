@@ -1,0 +1,76 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán và sản phẩm",
+      "desc": "Giới thiệu quán bán trà trái cây với nhiều loại khác nhau.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các loại trà trái cây."
+    },
+    {
+      "step": "Mô tả chi tiết các loại trà",
+      "desc": "Mô tả giá cả, dung tích và thành phần của từng loại trà.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn vì nhiều loại trái cây."
+    },
+    {
+      "step": "Ưu đãi và trải nghiệm",
+      "desc": "Nhấn mạnh về chất lượng và giá cả hợp lý của sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng sản phẩm."
+    },
+    {
+      "step": "Địa điểm quán",
+      "desc": "Thông báo địa chỉ quán ở Nguyễn Trãi quận 5.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết được địa điểm để ghé thăm."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Anh em mình đi ở Nguyễn Trãi quận 5 nha cả nhà."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "vui vẻ",
+    "thanh nhiệt",
+    "mê",
+    "chất lượng",
+    "tươi",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Thời tiết nóng như vậy uống lít nó đâu có đủ đâu mấy bạn. Uống 1,3 lít nó mới đã nha.",
+    "Nói chung là khi mà xếp hàng thì các bạn sẽ nhận được cái gì là mỏi chân. Mỏi chân nhưng mà chất lượng nha.",
+    "Năm nay làm cái ly 1,3 lít thì năm sau chắc làm cái bình trà 5 lít luôn quá à."
+  ],
+  "hook_content": "Đây anh làm nhiều vậy rồi một ngày mấy ăn hết không? Sợ dư sao? Trời ơi làm cái gì dư, em không đủ để bán luôn á mà dư cái gì đây.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu quán trà trái cây ở quận 5 với nhiều loại trà khác nhau, dung tích lớn 1.3 lít, giá cả hợp lý và sử dụng trái cây tươi. Chủ quán vui vẻ, nhiệt tình và cam kết chất lượng sản phẩm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Nửa đêm đói bụng và quyết định chọn món ăn cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn biết món ăn được chọn."
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Tuyển tập ăn cay có Sprite từ Grabfood, có ưu đãi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn bởi ưu đãi và món ăn."
+    },
+    {
+      "step": "Trải nghiệm",
+      "desc": "Ăn món cay và uống Sprite, cảm thấy đã và sảng khoái.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử ngay."
+    },
+    {
+      "step": "Kết nối",
+      "desc": "Nhắc đến việc thấy nhiều người ăn cay uống Sprite.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đồng tình và có liên hệ."
+    },
+    {
+      "step": "Kêu gọi hành động",
+      "desc": "Kêu gọi chốt đơn vì đang có chương trình tặng Sprite.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thôi thúc mua hàng."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Đang có chương trình tặng Sprite cho đơn hàng trong tuyển tập quán cay tại Grabfood, mọi người nhanh tay chốt đơn nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "đã",
+    "hấp dẫn",
+    "ngon",
+    "cay",
+    "sảng khoái"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn cay mà uống một ngụm Sprite nó đã gì đâu luôn á, nó dịu vị hẳn.",
+    "Sprite có nhiều bọt cho nên uống sảng khoái cực luôn.",
+    "Ta nói uống một cái là sảng khoái tức thì liền."
+  ],
+  "hook_content": "Ư.nửa đêm rồi tự nhiên đói bụng mọi người ơi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh người ăn cay và uống Sprite vào đêm khuya, cảm thấy rất đã và sảng khoái. Video cũng kêu gọi người xem nhanh tay chốt đơn vì đang có chương trình tặng Sprite.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

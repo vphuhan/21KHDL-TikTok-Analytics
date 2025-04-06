@@ -1,0 +1,68 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán bún ốc nguội của bà Lan đã bán 22 năm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán ăn lâu năm."
+    },
+    {
+      "step": "Phỏng vấn bà chủ",
+      "desc": "Hỏi han bà chủ về các nguyên liệu, bí quyết làm nên món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự nhiệt tình của bà chủ."
+    },
+    {
+      "step": "Trải nghiệm món ăn",
+      "desc": "Miêu tả hương vị món bún ốc, cảm nhận về các thành phần.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi đói bụng và muốn ăn thử."
+    },
+    {
+      "step": "Tổng kết",
+      "desc": "Nhận xét về giá cả, trải nghiệm và gửi lời cảm ơn.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy video khá đầy đủ thông tin."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "mát",
+    "ấm",
+    "chua",
+    "ngọt",
+    "cay"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Bà dạy cho một bài học miễn phí.",
+    "Ăn mùa hè thì nó rất là mát là bởi vì cái nước dùng nó chua ngọt, còn mùa đông ý, mặc dù là nó nguội nhưng mà nó vẫn rất là ấm bởi vì có thêm mấy ớt chưng cay.",
+    "Nếu mà xin thêm nước thì đó là một lời khen bằng tinh thần đó."
+  ],
+  "hook_content": "Chị đẹp ơi, chị tên gì đấy chị đẹp nha? Không nói đùa đâu.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video review quán bún ốc nguội của bà Lan, phỏng vấn bà chủ về bí quyết làm món ăn và trải nghiệm hương vị đặc trưng. Người review đánh giá cao sự tận tâm của bà chủ và hương vị món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

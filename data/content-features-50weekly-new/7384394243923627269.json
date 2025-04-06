@@ -1,0 +1,91 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu thử thách",
+      "desc": "Giới thiệu thử thách ăn mì ramen 4kg để nhận phần thưởng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về thử thách."
+    },
+    {
+      "step": "Nêu quy định",
+      "desc": "Thông báo về nội quy, lệ phí và thành phần của tô mì.",
+      "impact_level": "1",
+      "viewer_emotion": "Nắm bắt thông tin cơ bản."
+    },
+    {
+      "step": "Chia sẻ trải nghiệm",
+      "desc": "Chia sẻ lý do tham gia thử thách và mời mọi người cùng ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự hào hứng."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Nhận xét hương vị nước lèo, sợi mì, thịt và sốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung hương vị món ăn."
+    },
+    {
+      "step": "Thông báo kết quả",
+      "desc": "Thông báo hoàn thành thử thách và nhận thưởng.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với thành tích."
+    },
+    {
+      "step": "Giới thiệu quán ăn",
+      "desc": "Giới thiệu địa điểm, không gian và tiện nghi của quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến địa điểm."
+    },
+    {
+      "step": "Kêu gọi trải nghiệm",
+      "desc": "Kêu gọi mọi người đến trải nghiệm và tạm biệt.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn đến thử."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người mau đến trải nghiệm liền đi nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "bùi",
+    "béo",
+    "thơm",
+    "dai dai",
+    "mềm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mới vô húp một miếng nước lèo thôi mà ta nói nó bùi béo, thơm mùi đậu nành.",
+    "Sợi mì tươi ở đây do bếp tự làm, ăn dai dai không bị bở, thịt thì được ngâm bằng công thức đặc biệt kết hợp với các nguyên liệu Việt Nam được nấu chậm để giữ độ mềm.",
+    "Hân đã hoàn thành thử thách trong vòng 17 phút và nhận thưởng hai củ rưỡi kèm với lệ phí 500 đã đóng ban đầu tổng cộng là ba củ."
+  ],
+  "hook_content": "Mọi người có ai ăn thử thách mà gặp cảnh này bao giờ chưa? Hôm nay Hân sẽ dắt mọi người đi ăn thử thách tô mì Ramen 4 kg nhận ngay hai củ rưỡi.",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video kể về trải nghiệm của Hân khi tham gia thử thách ăn tô mì Ramen 4kg tại Tokyo Soy Ramen, đồng thời đánh giá hương vị món ăn và giới thiệu không gian quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bạch tuộc trộn dầu cay và nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Pha chế sốt",
+      "desc": "Hướng dẫn pha sốt chấm bạch tuộc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với công thức"
+    },
+    {
+      "step": "Sơ chế bạch tuộc",
+      "desc": "Lấy râu bạch tuộc và trộn với dầu cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú với cách trộn"
+    },
+    {
+      "step": "Trải nghiệm món ăn",
+      "desc": "Nếm thử bạch tuộc trộn dầu cay và sốt.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng món ăn"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét về vị cay, thơm và độ giòn của bạch tuộc.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử món ăn"
+    },
+    {
+      "step": "Lưu ý khi ăn",
+      "desc": "Đưa ra lời khuyên khi ăn bạch tuộc.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy hữu ích"
+    },
+    {
+      "step": "Chia sẻ cảm xúc",
+      "desc": "Chia sẻ cảm xúc cay và gợi ý thử với tôm.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với người nói"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "cay",
+    "ngon",
+    "thơm",
+    "tê",
+    "giòn giòn ngọt ngọt",
+    "khóc trong lòng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mấy cái tua rua của mấy bà này dính chưa chắc dữ lắm luôn á.",
+    "Sốt thì chua chua, cay cay, ngọt ngọt. Cái kết hợp là trời ơi ta nói xuất sắc luôn mọi người.",
+    "Thấy ăn ngon vậy thôi chứ đang khóc trong lòng á mọi người."
+  ],
+  "hook_content": "Êy mọi người, hôm nay mình sẽ ăn cái món bạch tuộc trộn với lại cái dầu cây này nè.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video mukbang món bạch tuộc trộn dầu cay tê, người nói vừa ăn vừa chia sẻ cảm nhận về độ cay, thơm và gợi ý làm sốt chấm kèm để tăng thêm hương vị.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

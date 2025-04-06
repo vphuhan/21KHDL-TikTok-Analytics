@@ -1,0 +1,50 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Người mẹ đưa lạp xưởng cho bé và giới thiệu món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp"
+    },
+    {
+      "step": "Ăn thử",
+      "desc": "Bé ăn lạp xưởng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu món khác",
+      "desc": "Giới thiệu món ốc.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Lạp xưởng nướng đá mới đúng"
+  ],
+  "hook_content": "Đòi hả?",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh mẹ cho bé ăn lạp xưởng nướng và ốc.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

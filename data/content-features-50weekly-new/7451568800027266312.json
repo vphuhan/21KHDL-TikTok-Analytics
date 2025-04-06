@@ -1,0 +1,100 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Món gà hấp nấm thay thế gà luộc, gợi ý làm dịp Tết.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới lạ."
+    },
+    {
+      "step": "Chia sẻ trải nghiệm cá nhân",
+      "desc": "Gợi nhớ kỷ niệm gặp gỡ bạn bè dịp cuối năm.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường, không quá đặc biệt."
+    },
+    {
+      "step": "Sơ chế và ướp gà",
+      "desc": "Ướp gà với gia vị đơn giản, nhấn mạnh vai trò nước chấm.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin cơ bản, không nhiều cảm xúc."
+    },
+    {
+      "step": "Hấp gà",
+      "desc": "Hấp gà với hành tây, lá chanh và bắp để tăng vị ngọt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với mẹo hấp gà ngon."
+    },
+    {
+      "step": "Hướng dẫn làm nước chấm",
+      "desc": "Hướng dẫn 2 loại nước chấm đa năng, đặc biệt cho ngày Tết.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú với công thức nước chấm hấp dẫn."
+    },
+    {
+      "step": "Hoàn thành món gà hấp nấm",
+      "desc": "Thêm nấm và hấp thêm, giới thiệu món ăn hoàn chỉnh.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy món ăn hấp dẫn và ngon miệng."
+    },
+    {
+      "step": "Xào hủ tiếu",
+      "desc": "Tận dụng đồ lòng gà để xào hủ tiếu, giới thiệu món ăn kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với sự đa dạng của món ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Mọi người cũng thử tham gia thử thách nấu ăn, sử dụng filter của magi để gắn kết tình bạn keo sơn nha.",
+    "Còn có cơ hội rinh quà khủng từ magi về nhà nữa á."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Chia sẻ công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "tê tái",
+    "ngon bá cháy",
+    "đậm đà",
+    "mọng nước",
+    "mặn ngọt cay cay",
+    "ngập miệng",
+    "mê mẩn",
+    "dễ thương",
+    "keo sơn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ăn vô nó tê tái luôn",
+    "nước chấm thần thánh chấm gì cũng ngon",
+    "ngon bá cháy"
+  ],
+  "hook_content": "này mọi người đừng làm món gà luộc nữa mà thử làm món gà hấp nấm này cho cả nhà cùng ăn đi nó ngon dữ lắm mọi người ơi kèm theo công thức làm hai chén nước chấm thần thánh chấm gì cũng ngon này nữa",
+  "hook_type": [
+    "Cho thấy kết quả trước",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm món gà hấp nấm và hai loại nước chấm ngon cho dịp Tết, đồng thời chia sẻ về những kỷ niệm gặp gỡ bạn bè. Video cũng giới thiệu thử thách nấu ăn và filter của Magi.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

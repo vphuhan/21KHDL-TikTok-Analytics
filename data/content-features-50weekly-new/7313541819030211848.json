@@ -1,0 +1,82 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu lẩu trứng lộn chua cay và cảm nhận về món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món lẩu"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê các nguyên liệu và hướng dẫn sơ chế.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Nấu nước lẩu",
+      "desc": "Hướng dẫn xào cà chua, dứa và nêm nếm gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Trình bày và thưởng thức",
+      "desc": "Cho nước lẩu vào nồi, thêm rau thơm và mời mọi người ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn ăn ngay"
+    },
+    {
+      "step": "Nhấn mạnh trải nghiệm",
+      "desc": "Miêu tả cảm giác cay, xuýt xoa khi ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Các bác phải thử nha."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngon phê",
+    "hợp lý",
+    "ngon ngoài sức tưởng tượng",
+    "thơm",
+    "cay",
+    "phê"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Lạnh lạnh thế này mà ngồi chiu bên nồi lẩu thì cứ gọi là tuyệt cả là vời.",
+    "Em ơi nó ngon phê đến tận óc luôn ý.",
+    "không ngon mà ngon ngoài sức tưởng tượng của mình."
+  ],
+  "hook_content": "ời, lạnh lạnh thế này mà ngồi chiu bên nồi lẩu thì cứ gọi là tuyệt cả là vời.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu và hướng dẫn nấu món lẩu trứng lộn chua cay, chia sẻ trải nghiệm ăn uống ngon miệng và nhấn mạnh hương vị cay nồng, hấp dẫn của món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món lẩu Thái với nguyên liệu lục bình.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về nguyên liệu"
+    },
+    {
+      "step": "Miêu tả cảm quan",
+      "desc": "Miêu tả hình dáng và cảm giác khi ăn lục bình.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét về vị mặn và độ dai của lục bình.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn nếm thử"
+    },
+    {
+      "step": "Kêu gọi tương tác",
+      "desc": "Hỏi khán giả muốn mình ăn gì tiếp theo.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người muốn mình ăn gì thì comment phía dưới cho mình biết nha."
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "hay phết"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đúng là bèo của khác, nó cứ nổi lềnh phềnh lên ý.",
+    "Giòn giòn dai dai.",
+    "Ăn nó mặn mặn hay phết mọi người ạ."
+  ],
+  "hook_content": "Cùng mình ăn lẩu Thái nha, Lục Bình.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh một người ăn lẩu Thái với nguyên liệu đặc biệt là lục bình, miêu tả hương vị và cảm giác khi ăn, đồng thời kêu gọi người xem bình luận góp ý.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

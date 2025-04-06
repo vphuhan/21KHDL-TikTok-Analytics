@@ -1,0 +1,95 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu công thức",
+      "desc": "Nêu công dụng của cam và cảnh báo theo dõi để làm theo.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về công thức và lợi ích."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Hướng dẫn giã nát cam trong lọ thủy tinh.",
+      "impact_level": "1",
+      "viewer_emotion": "Tập trung vào thao tác làm."
+    },
+    {
+      "step": "Thêm nguyên liệu",
+      "desc": "Thêm men rượu trái cây và nước đường vào hỗn hợp.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhớ các thành phần cần thiết."
+    },
+    {
+      "step": "Ủ men",
+      "desc": "Hướng dẫn ủ hỗn hợp trong ba ngày ở nơi ấm áp.",
+      "impact_level": "1",
+      "viewer_emotion": "Chờ đợi kết quả lên men."
+    },
+    {
+      "step": "Lọc và ủ lần hai",
+      "desc": "Lọc bã cam và ủ thêm bốn ngày.",
+      "impact_level": "1",
+      "viewer_emotion": "Kiên nhẫn với quy trình."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Giới thiệu thành phẩm rượu cam và lợi ích.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong muốn được thử."
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Gợi ý dùng các loại trái cây khác để làm rượu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với các biến tấu khác."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "nếu các bạn thích video này hãy cho mình một like và đăng ký kênh nhé"
+  ],
+  "cta_type": [
+    "Thích video",
+    "Follow kênh"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "bổ dưỡng",
+    "thơm",
+    "mát",
+    "dễ uống",
+    "mạnh khỏe",
+    "hạnh phúc",
+    "ngủ ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "cam lại có công dụng tuyệt vời như thế này",
+    "rượu cam thơm ngon, bổ dưỡng, vị chua ngọt thành mát, rất giàu vitamin, nồng độ cồn nhẹ, dễ uống",
+    "bạn có thể dùng bất kỳ loại trái cây nào mình thích để làm rượu, mỗi loại rượu sẽ có một hương vị khác nhau"
+  ],
+  "hook_content": "Chú ý nhé, ít ai biết rằng cam lại có công dụng tuyệt vời như thế này, nếu bạn hay bị mất ngủ, khó ngủ, mệt mỏi vào buổi sáng thì mẹo hay này bạn nhất định phải thử, cẩn thận theo dõi nhé.",
+  "hook_type": [
+    "Gây tò mò",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm rượu cam lên men tại nhà, nhấn mạnh vào công dụng giúp ngủ ngon và cách thực hiện đơn giản, có thể thay thế bằng các loại trái cây khác.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

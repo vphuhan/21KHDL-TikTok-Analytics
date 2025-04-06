@@ -1,0 +1,85 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu thùng mì thanh long đỏ từ thương hiệu Vina Caty.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm mới."
+    },
+    {
+      "step": "Khám phá các vị mì",
+      "desc": "Liệt kê và cho thấy các vị mì khác nhau trong thùng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng."
+    },
+    {
+      "step": "Chuẩn bị mì",
+      "desc": "Pha chế và chuẩn bị hai loại mì để nếm thử.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, chờ đợi đánh giá."
+    },
+    {
+      "step": "Đánh giá mì nước",
+      "desc": "Nếm thử và đánh giá vị hải sản chua cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi tò mò về hương vị."
+    },
+    {
+      "step": "Đánh giá mì trộn",
+      "desc": "Nếm thử và đánh giá mì trộn sốt spaghetti.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn hơn mì nước."
+    },
+    {
+      "step": "Nhận xét chung",
+      "desc": "Đưa ra nhận xét về mì thanh long đỏ nói chung.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "đậm đà",
+    "dai",
+    "ngon",
+    "thích",
+    "dễ chịu",
+    "thơm",
+    "ấn tượng",
+    "nhẹ nhàng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mì ăn rất là đậm đà và mình cảm giác như ăn cái sợi mì nó rất là nhẹ nhàng nha, dễ chịu.",
+    "Cái mì trộn này vị của nó sẽ kiểu chua ngọt, hơi mặn một chút thôi. Ăn rất là dễ chịu. Ai mà hợp cái khẩu vị mà ăn mì không mặn ấy, kiểu chua chua ngọt ngọt này, hợp lắm, mùi thơm nữa.",
+    "Mình rất là ấn tượng về màu sắc và hương vị, màu hồng và vị nó ăn cũng được nha. Ăn rất là nhẹ nhàng, dễ chịu."
+  ],
+  "hook_content": "Chào các bạn nha. Ở đây mình đang có một thùng mì rất là đặc biệt và mới lạ. Mì thanh long đỏ.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review mì thanh long đỏ của Vina Caty với nhiều hương vị khác nhau như tôm, gà, hải sản, spaghetti. Người nói thử vị hải sản chua cay và spaghetti, đánh giá cao hương vị đậm đà, sợi mì dai và cảm giác dễ chịu khi ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

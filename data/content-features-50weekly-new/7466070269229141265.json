@@ -1,0 +1,78 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món trứng hồng đào tan chảy, nhấn mạnh độ béo.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chuẩn bị trứng",
+      "desc": "Hướng dẫn rửa sạch trứng trước khi luộc.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích."
+    },
+    {
+      "step": "Luộc trứng",
+      "desc": "Hướng dẫn thời gian luộc trứng để đạt độ tan chảy.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức muốn thử."
+    },
+    {
+      "step": "Pha muối ớt",
+      "desc": "Hướng dẫn làm muối ớt cay để ăn kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Miêu tả cảm giác ngon miệng khi ăn trứng với muối ớt.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn ăn ngay lập tức."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi nghen."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "béo",
+    "ngon",
+    "đã",
+    "tê tái tâm hồn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "luộc trứng hồng đào tan chảy là mười mẻ, mẻ nào cũng tan chảy siêu béo mà không có bị tanh",
+    "luộc trúng thời gian là bóc ra, auto hồng đào tan chảy",
+    "húp vô một cái nó ấm bụng mà đã tới nóc luôn"
+  ],
+  "hook_content": "Đây là công thức luộc trứng hồng đào tan chảy là mười mẻ, mẻ nào cũng tan chảy siêu béo mà không có bị tanh.",
+  "hook_type": [
+    "Cho thấy kết quả trước",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn cách luộc trứng hồng đào tan chảy béo ngậy và cách làm muối ớt ăn kèm. Người làm chia sẻ kinh nghiệm cá nhân và mời mọi người cùng ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

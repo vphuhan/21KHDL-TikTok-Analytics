@@ -1,0 +1,70 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Mời mọi người ăn chanh chấm chéo.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Ăn và miêu tả",
+      "desc": "Ăn và miêu tả cảm nhận về vị ngọt, chua.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Mời ăn cùng",
+      "desc": "Mời mọi người ăn cùng combo chanh chấm chéo đá lạnh.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Cảm ơn người xem.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người đã xem hết video của em."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngọt",
+    "ngon",
+    "chua",
+    "chép"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn xong uống một ly đá lạnh nữa. Đúng combo luôn.",
+    "Chấm chéo ngon quá.",
+    "Ăn chua hơi chép, mấy bạn thông cảm."
+  ],
+  "hook_content": "Mời mọi người ăn chanh với em nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang ăn chanh chấm chéo, người nói mời mọi người cùng ăn và miêu tả cảm nhận về vị ngọt, chua, sau đó kết hợp với đá lạnh và cảm ơn người xem.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

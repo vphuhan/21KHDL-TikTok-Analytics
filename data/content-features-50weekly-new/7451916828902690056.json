@@ -1,0 +1,83 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Chào khán giả và giới thiệu món ăn: xiên chiên và nước tăng lực.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hứng thú với món ăn vặt quen thuộc."
+    },
+    {
+      "step": "Uống thử",
+      "desc": "Uống thử nước tăng lực vị dâu và đưa ra cảm nhận.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy tò mò về hương vị."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Nhấn mạnh hương vị dâu tươi và độ tỉnh táo của nước tăng lực.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng sản phẩm."
+    },
+    {
+      "step": "Gợi ý dịp dùng",
+      "desc": "Gợi ý sản phẩm phù hợp cho dịp Tết, tràn đầy năng lượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy sản phẩm phù hợp cho dịp lễ."
+    },
+    {
+      "step": "Kêu gọi mua",
+      "desc": "Kêu gọi mua tặng bạn bè, người thân để cùng ngon tươi tỉnh.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy được khuyến khích mua sản phẩm."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Cảm ơn người xem và hẹn gặp lại ở các video sau.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Thùng nước tăng lực cực xinh và xịn thế này ấy thì mọi người hãy mua tặng bạn bè và người thân trong dịp Tết năm nay để cùng nhau ngon tươi tỉnh cả năm nha."
+  ],
+  "cta_type": [
+    "Chia sẻ"
+  ],
+  "emotion_keywords": [
+    "tỉnh táo",
+    "ngon",
+    "đã",
+    "tràn đầy năng lượng",
+    "phấn khởi"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nước tăng lực ga nhiều sang quá, uống vào tỉnh táo hẳn mọi người ạ.",
+    "Đặc biệt là ép dâu 100% ấy, ngon đặc biệt đậm vị dâu tươi luôn ấy.",
+    "Lo nước tăng lực 100% dâu tươi ép này mà uống Tết thì đúng là tràn đầy năng lượng phấn khởi và đỏ cả năm luôn đấy nha."
+  ],
+  "hook_content": "Xin chào mọi người, hôm nay lại ăn xiên chiên với mình nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang ăn xiên chiên và uống nước tăng lực dâu ép, tập trung vào trải nghiệm hương vị và gợi ý sử dụng cho dịp Tết để mang lại năng lượng và may mắn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

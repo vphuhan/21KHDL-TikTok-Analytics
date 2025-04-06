@@ -1,0 +1,65 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Món ăn ngon hơn nước mắm và gợi ý nguyên liệu thay thế",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn được nhắc đến."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Chọn thịt ba chỉ nhiều mỡ, đảo vàng, thêm tôm khô.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi đói bụng và tò mò về cách làm."
+    },
+    {
+      "step": "Hướng dẫn công thức",
+      "desc": "Nhấn mạnh công thức đã được ghi trên màn hình.",
+      "impact_level": "1",
+      "viewer_emotion": "Mong chờ công thức bí mật."
+    },
+    {
+      "step": "Đảm bảo chất lượng",
+      "desc": "Cam kết về độ ngon và sự thành công của món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng và muốn thử làm theo."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Bạn mà làm món này để ăn với cơm trắng hay là để chấm rau thì nó sẽ ngon hơn nước mắm gấp một tỷ lần luôn á.",
+    "Đúng với công thức này là nó ngon thiệt ngon luôn, mình hứa á.",
+    "Tại mình biết bạn đã mất công coi video của mình rồi, nhiều khi rồi còn mất công tìm để làm lại nữa, mà nếu không ngon thì buồn lắm."
+  ],
+  "hook_content": "Bạn mà làm món này để ăn với cơm trắng hay là để chấm rau thì nó sẽ ngon hơn nước mắm gấp một tỷ lần luôn á.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món ăn kèm cơm hoặc chấm rau, sử dụng tôm khô và thịt ba chỉ, đảm bảo ngon hơn nước mắm. Tác giả khuyến khích người xem làm theo công thức đã chia sẻ.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bối cảnh",
+      "desc": "Giới thiệu về việc về quê ăn Tết và những thay đổi ở nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị khi thấy sự thay đổi trong gia đình."
+    },
+    {
+      "step": "Review bún tái gầu",
+      "desc": "Giới thiệu quán bún yêu thích khi về quê và trải nghiệm ăn uống.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán bún và món ăn."
+    },
+    {
+      "step": "Kể chuyện ăn uống ở nhà",
+      "desc": "Chia sẻ về việc được mẹ chiêu đãi và sự thay đổi sau Tết.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự quan tâm của mẹ và sự khác biệt sau Tết."
+    },
+    {
+      "step": "Nhận xét về món ăn",
+      "desc": "Nhận xét về món gà và sự quan ngại về chất lượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Lo lắng về chất lượng món ăn."
+    },
+    {
+      "step": "Giới thiệu vườn rau và hoa",
+      "desc": "Giới thiệu vườn rau và hoa ở quê, thể hiện sự châm biếm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự hài hước và châm biếm."
+    },
+    {
+      "step": "Chia sẻ về trải nghiệm mua sắm",
+      "desc": "Chia sẻ về việc tự chủ mua đồ ăn và kỷ niệm về mẹ.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đồng cảm với những kỷ niệm."
+    },
+    {
+      "step": "Đi sắm Tết",
+      "desc": "Đi mua quất đào cùng bạn và chuẩn bị cho việc trang trí Tết.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ đến Tết."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "mắc cỡ",
+    "ngại",
+    "sốc",
+    "quan ngại",
+    "tuyệt vọng",
+    "rời rạc"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ai mà có gà chưa chặt này, thịt chưa băm thì cứ ghé shop mình nha.",
+    "Về tới nay là thấy nghệ sĩ chơi hoa đã sưu tập cho mình được một cái album hoa của mùa xuân rồi.",
+    "Đường đường là hai TikToker vô danh nhưng về quê là không có ai mang chân quay."
+  ],
+  "hook_content": "Hết Tết rồi, nên là thay vì 6 giờ chiều đi chúc Tết thì mẹ mình sẽ ra là băm chặt trên nền nhạc remix như này đây.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện"
+  ],
+  "summarization": "Video chia sẻ về trải nghiệm của một người khi về quê ăn Tết, bao gồm việc ăn bún tái gầu, những thay đổi trong gia đình, và đi mua sắm đồ Tết. Nội dung thể hiện sự hài hước và châm biếm về những tình huống thường gặp trong dịp Tết.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành",
+    "Châm biếm"
+  ]
+}

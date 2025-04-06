@@ -1,0 +1,81 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu 10 món gà với chi phí 500.000 đồng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn."
+    },
+    {
+      "step": "Liệt kê các món gà",
+      "desc": "Liệt kê tên và thành phần chính của 10 món gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú khi biết nhiều món."
+    },
+    {
+      "step": "Miêu tả cách làm",
+      "desc": "Miêu tả sơ lược cách chế biến một vài món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy có thể tự làm."
+    },
+    {
+      "step": "Thử món ăn",
+      "desc": "Thử và nhận xét hương vị của một số món.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi đói bụng."
+    },
+    {
+      "step": "Hướng dẫn chi tiết",
+      "desc": "Hướng dẫn cách làm món gà chiên muối ớt và canh gà lá quế.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử làm theo."
+    },
+    {
+      "step": "Tổng kết",
+      "desc": "Nhấn mạnh lại số tiền và số lượng món ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Ấn tượng về sự tiết kiệm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người nghĩ thử xem một cái bàn đầy đồ ăn như thế này thì ăn được bao nhiêu người?"
+  ],
+  "cta_type": [
+    "Đặt câu hỏi"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ở đây thì chúng ta sẽ có món cánh gà chiên bột, gỏi gà, chân gà hấp, đùi gà chiên,...",
+    "Mình thấy những cái món mà mình làm ở đây thì mình đều thấy là nó khá là đơn giản, mọi người nghĩ là ai cũng có thể làm được.",
+    "Đây là 500.000 cho 10 món gà của mình."
+  ],
+  "hook_content": "500.000 10 món gà đi anh. Ok, dứt luôn. Nghèo mãi rồi, hôm nay là tôi thử giàu, bạn cũng thế.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Liệt kê"
+  ],
+  "summarization": "Video giới thiệu cách làm 10 món gà chỉ với 500.000 đồng, từ khâu chuẩn bị nguyên liệu đến chế biến và nếm thử. Người làm chia sẻ các công thức đơn giản, dễ thực hiện tại nhà.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

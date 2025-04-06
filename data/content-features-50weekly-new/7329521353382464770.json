@@ -1,0 +1,74 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán ăn",
+      "desc": "Giới thiệu quán chè nóng, bánh khoai bánh chuối giá rẻ",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán ăn"
+    },
+    {
+      "step": "Giá cả và so sánh",
+      "desc": "So sánh giá với các quán khác, nhấn mạnh sự rẻ",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên vì giá rẻ"
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Mô tả chi tiết hương vị, cách chế biến của từng món",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn thử"
+    },
+    {
+      "step": "Thông tin địa điểm",
+      "desc": "Cung cấp địa chỉ, thời gian bán hàng của quán",
+      "impact_level": "2",
+      "viewer_emotion": "Ghi nhớ địa điểm"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Tầm 2:30 3:00 chiều là bà bắt đầu bán, mọi người qua ủng hộ bà nhé."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "siêu ngon",
+    "thơm",
+    "ngon",
+    "giòn",
+    "hợp"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bánh khoai, bánh chuối hay là chè nóng cũng đều chỉ có 5.000đ thôi.",
+    "Ăn bánh chuối với tương ớt siêu ngon luôn.",
+    "Chè đỗ đen thì đúng kiểu cái hương vị tuổi thơ của mình luôn."
+  ],
+  "hook_content": "Tôi có 5.000đ một bát.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu quán chè nóng và bánh rán của một bà cụ với giá cực rẻ, chỉ 5.000đ một món. Người quay chia sẻ cảm nhận về hương vị và gợi ý cách ăn bánh chuối với tương ớt.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

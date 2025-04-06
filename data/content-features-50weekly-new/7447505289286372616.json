@@ -1,0 +1,84 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu chủ đề video là ăn kem vào mùa đông.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thử kem socola",
+      "desc": "Ăn và đánh giá các loại kem socola khác nhau.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Kem ốc quế than tre",
+      "desc": "Thưởng thức kem ốc quế socola vị dừa và than tre.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Giới thiệu đồ uống",
+      "desc": "Giới thiệu và uống cà phê Loda Đông trùng hạ thảo.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên"
+    },
+    {
+      "step": "Cảm nhận cà phê",
+      "desc": "Miêu tả hương vị và lợi ích của cà phê Loda.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Thử kem việt quất",
+      "desc": "Ăn và đánh giá kem socola trắng vị việt quất.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Nhấn mạnh kem và cà phê đều ngon và được nhiều người ưa chuộng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "ngậy",
+    "mê"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mùa đông rồi, nên là phải ăn kem cho đỡ lạnh mới được.",
+    "Socola với bột than tre á, có cái vị của dừa vừa thơm vừa ngậy.",
+    "Cà phê Loda vừa ngon vừa khỏe, nên là Tố mê lắm nha."
+  ],
+  "hook_content": "Mùa đông rồi, nên là phải ăn kem cho đỡ lạnh mới được.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh mukbang ăn kem socola và uống cà phê. Người nói vừa ăn vừa miêu tả hương vị và cảm xúc khi thưởng thức.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

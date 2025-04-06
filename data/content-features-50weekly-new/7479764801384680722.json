@@ -1,0 +1,76 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Nhắc lại video cũ và giới thiệu xúc xích chiên bằng nước lọc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về loại xúc xích đặc biệt này."
+    },
+    {
+      "step": "Lý giải",
+      "desc": "Giải thích lý do xúc xích phải chiên bằng nước lọc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị với cách ăn lành mạnh của người Nhật."
+    },
+    {
+      "step": "Thông tin chi tiết",
+      "desc": "Nêu đặc điểm nổi bật: không hàn the, date ngắn, vị thịt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng sản phẩm."
+    },
+    {
+      "step": "Các loại",
+      "desc": "Giới thiệu các loại xúc xích và giá.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết thêm về lựa chọn sản phẩm."
+    },
+    {
+      "step": "Địa điểm mua",
+      "desc": "Hướng dẫn địa điểm mua xúc xích.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn đến lễ hội để trải nghiệm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người có thể ra đây để thử xúc xích, ngon thì mua, không ngon thì thử thôi, nhưng mà kiểu gì cũng ngon và còn rất nhiều những thứ khác nó một dọc này luôn, mà nhiều thứ xong rồi cosplay rồi bao nhiêu đồ ăn luôn. Sang ngay nhá."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thân quen"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    " xúc xích mà nhà sản xuất bắt mọi người chiên bằng nước lọc luôn.",
+    " xúc xích này khỏi dùng hàn the, khỏi chất bảo quản luôn, thế cho nó lành mạnh cả thể.",
+    "xúc xích này có vị rất thịt, hàm lượng thịt lên đến 83% cơ mà"
+  ],
+  "hook_content": "Mọi người có nhớ cái video mà mình từng chiên xúc xích bằng nước lọc ở đây không?",
+  "hook_type": [
+    "Gây tò mò",
+    "Phản hồi bình luận"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu loại xúc xích đặc biệt của Nhật Bản, phải chiên bằng nước lọc để giữ vị lành mạnh. Người bán review nhanh các đặc điểm nổi bật và địa điểm mua xúc xích.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

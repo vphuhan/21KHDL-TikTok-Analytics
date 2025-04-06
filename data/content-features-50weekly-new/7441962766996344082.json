@@ -1,0 +1,87 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Đặt câu hỏi về việc dán cá trước khi om dưa.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về ý kiến cá nhân của người nấu."
+    },
+    {
+      "step": "Chia sẻ quan điểm cá nhân",
+      "desc": "Khẳng định việc dán cá là cần thiết theo kinh nghiệm.",
+      "impact_level": "2",
+      "viewer_emotion": "Gật gù đồng ý với kinh nghiệm truyền thống."
+    },
+    {
+      "step": "Thay đổi tư duy",
+      "desc": "Nhấn mạnh nấu ăn không cần dán cá qua nhiều trải nghiệm.",
+      "impact_level": "2",
+      "viewer_emotion": "Bất ngờ với sự thay đổi trong quan điểm."
+    },
+    {
+      "step": "Bí quyết nấu cá",
+      "desc": "Hướng dẫn làm sạch cá và dội nước sôi để khử mùi.",
+      "impact_level": "2",
+      "viewer_emotion": "Học hỏi được mẹo nhỏ hữu ích."
+    },
+    {
+      "step": "Mẹo nấu cá ngon",
+      "desc": "Nồi nước canh phải sôi ùng ục khi thả cá vào.",
+      "impact_level": "2",
+      "viewer_emotion": "Chú ý và ghi nhớ bí quyết."
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Cá chép om dưa dễ làm, nhanh gọn, thơm ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng và muốn thử ngay."
+    },
+    {
+      "step": "Lưu ý",
+      "desc": "Nhấn mạnh các thành phần phụ như hành, thì là, tóp mỡ.",
+      "impact_level": "2",
+      "viewer_emotion": "Nhận ra tầm quan trọng của các nguyên liệu phụ."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thơm nức",
+    "siêu ngon",
+    "đẳng cấp",
+    "tuyệt vời",
+    "quên sầu"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mà trời lạnh lạnh như thế này ăn cá chép om dưa đúng là chuẩn con nhà bà đét đúng không các bác?",
+    "Cứ tí nghệ, tí mẻ là thơm nức cái mũi lên.",
+    "Quan trọng nhá món này cá có thể ít nhưng mà phải nhiều hành, nhiều thì là, nhiều tóp mỡ."
+  ],
+  "hook_content": "quyết định phải dán cá trước khi nấu cá chép om dưa hay là không phải dán cá. Các bác theo phe nào?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ kinh nghiệm nấu món cá chép om dưa, từ việc có nên dán cá trước hay không, đến các bí quyết để món ăn thêm ngon và hấp dẫn. Người nấu nhấn mạnh vào sự thay đổi trong tư duy nấu ăn và tầm quan trọng của các nguyên liệu phụ.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu và tò mò",
+      "desc": "Giới thiệu clip triệu view và sự tò mò muốn thử nghiệm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về kết quả cuối cùng."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Chọn thịt ba rọi, khứa, và chuẩn bị giấm để ngâm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, chuẩn bị cho các bước tiếp theo."
+    },
+    {
+      "step": "Sơ chế thịt",
+      "desc": "Ngâm thịt trong giấm, lau khô và ướp muối, ngũ vị hương.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với cách sơ chế độc đáo."
+    },
+    {
+      "step": "Ủ và sấy thịt",
+      "desc": "Ủ thịt với muối, sau đó sấy ở nhiệt độ thấp.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, chờ đợi kết quả."
+    },
+    {
+      "step": "Nướng thịt",
+      "desc": "Lật mặt và nướng thịt ở nhiệt độ cao nhiều lần.",
+      "impact_level": "2",
+      "viewer_emotion": "Hồi hộp chờ đợi da nổ giòn."
+    },
+    {
+      "step": "Kiểm tra thành phẩm",
+      "desc": "Kiểm tra độ chín và độ giòn của da heo quay.",
+      "impact_level": "3",
+      "viewer_emotion": "Phấn khích khi thấy thành phẩm."
+    },
+    {
+      "step": "Đánh giá và kết luận",
+      "desc": "Đánh giá hương vị, độ giòn và chia sẻ kinh nghiệm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng và muốn thử làm theo."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Thử nhá."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "tò mò",
+    "thơm",
+    "mặn",
+    "mọng nước",
+    "giòn",
+    "uy tín"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tôi đã xem một cái clip hơn 2 triệu view về cái công thức làm heo quay da giòn lười bằng nồi chiên không dầu mọi người ạ.",
+    "Càng khô thì da sẽ càng dễ nổ.",
+    "Với cái của mình làm thì nó hơi khác một chút là mình ngâm giấm lâu hơn một tẹo và mình nướng cái lớp bì lâu hơn một tí thôi."
+  ],
+  "hook_content": "Tôi đã xem một cái clip hơn 2 triệu view về cái công thức làm heo quay da giòn lười bằng nồi chiên không dầu mọi người ạ.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm heo quay da giòn bằng nồi chiên không dầu theo công thức trên mạng, có điều chỉnh một chút về thời gian ngâm và nướng. Người làm đánh giá công thức uy tín và thành phẩm đạt yêu cầu.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

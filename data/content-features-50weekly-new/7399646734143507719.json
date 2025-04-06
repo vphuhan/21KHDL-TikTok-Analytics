@@ -1,0 +1,96 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Mập thích nấu ăn giới thiệu món mực lá đại dương nướng hải sản.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Giới thiệu nguyên liệu",
+      "desc": "Lần đầu thấy mực lá to như vậy, mua mực 4kg với giá 239k/kg.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với kích thước mực."
+    },
+    {
+      "step": "Tham khảo công thức",
+      "desc": "Thấy trên mạng có người làm món này nên làm theo.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Sơ chế mực",
+      "desc": "Mực được làm sạch sẵn, trộn hải sản với sốt cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy quá trình chuẩn bị dễ dàng."
+    },
+    {
+      "step": "Nướng mực",
+      "desc": "Nướng mực và quét thêm lớp sốt tự pha cho thơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ thành phẩm."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Cắt mực ra và thấy topping đầy ắp bên trong, ăn kèm nước chấm.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn ăn thử."
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng ăn mực lá đại dương nướng hải sản.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thân thiện."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi nhen."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "mê",
+    "bắt mắt",
+    "thích",
+    "đậm đà",
+    "tiện",
+    "chu đáo",
+    "uy tín",
+    "có tâm",
+    "thơm",
+    "đã"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Con mực này là bên chị Thái nhà biển đã mần sạch sẽ rồi nên tiện dữ lắm.",
+    "Ta nói mua đồ bên bả chu đáo quá chừng.",
+    "Nhìn tôi cắt ra, bên trong đầy ủ topping đã chưa kìa."
+  ],
+  "hook_content": "Hello mọi người. Lại là tôi, mập thích nấu ăn đây. Hồi đó giờ mọi người có thấy con mực nào bự như vầy chưa?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình làm món mực lá đại dương nướng hải sản, từ khâu chuẩn bị nguyên liệu, sơ chế, đến nướng và thưởng thức. Người làm chia sẻ trải nghiệm mua mực và làm theo công thức trên mạng, đồng thời mời mọi người cùng ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán nổi tiếng với món chả giò và sủi cảo tôm thịt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn biết thêm về quán ăn."
+    },
+    {
+      "step": "Mô tả chả giò",
+      "desc": "Miêu tả chi tiết về chả giò tôm thịt khoai môn và cách làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món chả giò."
+    },
+    {
+      "step": "Nhấn mạnh chất lượng",
+      "desc": "Tôm tươi mỗi ngày, không dùng đồ đông lạnh, chiều khách.",
+      "impact_level": "3",
+      "viewer_emotion": "Tin tưởng vào chất lượng sản phẩm."
+    },
+    {
+      "step": "Giới thiệu sủi cảo",
+      "desc": "Sủi cảo nhân đầy đặn, kết dính, nêm nếm hài hòa.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử sủi cảo."
+    },
+    {
+      "step": "Gợi ý chế biến",
+      "desc": "Gợi ý các cách chế biến sủi cảo khác nhau.",
+      "impact_level": "1",
+      "viewer_emotion": "Có thêm ý tưởng cho món ăn."
+    },
+    {
+      "step": "Hướng dẫn bảo quản",
+      "desc": "Hướng dẫn bảo quản và khuyến khích ăn sớm vì tươi.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết cách bảo quản sản phẩm."
+    },
+    {
+      "step": "Thông tin địa điểm",
+      "desc": "Thông tin địa chỉ và cách thức mua hàng (ship hoặc đến nơi).",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn đến mua hoặc đặt ship."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Địa chỉ á thì tôi sẽ để ở đây nha, có thể đặt ship hoặc là đến tận nơi cũng được."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thèm",
+    "dính",
+    "hài hòa"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "chả giò là ba con tôm hay là bốn con tôm chị ơi, em thích ăn tôm ok chị có làm theo yêu cầu của khách luôn",
+    "chiều khách hàng vũ luôn, không lấy tôm, hai con tôm hay là ba con tôm gì đều được",
+    "Sủi cảo tôm thịt á thì mọi người có thể tùy ý mix thêm với lại phô mai này sốt may ăn dính lắm luôn á"
+  ],
+  "hook_content": "cũng trả giò là ba con tôm hay là bốn con tôm chị ơi, em thích ăn tôm ok chị có làm theo yêu cầu của khách luôn.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu quán ăn nổi tiếng với món chả giò và sủi cảo tôm thịt, đặc biệt nhấn mạnh vào chất lượng nguyên liệu tươi ngon và sự chiều khách hàng. Người xem được cung cấp thông tin chi tiết về món ăn, cách chế biến và địa chỉ quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán ốc",
+      "desc": "Quán có nhiều loại ốc, bếp mở, gia vị nới tay.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự đa dạng của quán ốc."
+    },
+    {
+      "step": "Đánh giá chất lượng ốc",
+      "desc": "Ốc to, được sơ chế sạch sẽ, không có cát.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng về chất lượng và vệ sinh."
+    },
+    {
+      "step": "Review các món ốc",
+      "desc": "Ốc hương sốt phô mai ngon chấn động, ốc len xào dừa béo thơm.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử ngay."
+    },
+    {
+      "step": "Nhận xét các món khác",
+      "desc": "Càng ghẹ xào me chua ngọt, ốc bươu nướng tiêu thơm nồng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn và đa dạng."
+    },
+    {
+      "step": "Đề cập món tôm",
+      "desc": "Tôm nướng muối ớt tươi ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử món tôm nướng."
+    },
+    {
+      "step": "Miêu tả cảm giác ăn",
+      "desc": "Ốc giòn sần sật, rất đã.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm nhận được độ ngon và thích thú."
+    },
+    {
+      "step": "Thông tin giá cả",
+      "desc": "Giá ốc tầm 50 đến 80 cành.",
+      "impact_level": "1",
+      "viewer_emotion": "Quan tâm về giá cả."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nếu các bạn cũng thích cứ thôi ghé qua thử ốc bệu."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thấm đẫm",
+    "ấn tượng",
+    "ngon chấn động",
+    "tươi",
+    "béo",
+    "thơm",
+    "ngon khỏi nói",
+    "thơm nồng",
+    "tươi",
+    "giòn sần sật",
+    "đã"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "gì đâu mà quá trời loại à",
+    "món nào cũng thấm đẫm sốt hết trơn á",
+    "ốc hương sốt phô mai á, tôi nói chứ ngon chấn động luôn á"
+  ],
+  "hook_content": "Cái này mà kêu là quán ốc hả? Phải gọi là chợ ốc luôn á, gì đâu mà quá trời loại à.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quán ốc với nhiều loại ốc, cách chế biến đa dạng và hương vị hấp dẫn. Đặc biệt, món ốc hương sốt phô mai được đánh giá rất cao.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món Phật nhảy tường và đây là lần đầu ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Thông tin về sản phẩm",
+      "desc": "Tình cờ thấy shop quen bán nên mua thử 5 hộp.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thông tin hữu ích."
+    },
+    {
+      "step": "Bất ngờ về ưu đãi",
+      "desc": "Bất ngờ vì mua 5 tặng 1, cảm thấy rất hời.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với ưu đãi."
+    },
+    {
+      "step": "Miêu tả thành phần",
+      "desc": "Miêu tả topping đa dạng và chất lượng của món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá hương vị lạ miệng ban đầu, sau đó là ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn thử."
+    },
+    {
+      "step": "Gợi ý đối tượng",
+      "desc": "Gợi ý món ăn phù hợp cho người lớn tuổi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi nghen."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "sốc",
+    "hời",
+    "đa dạng",
+    "xịn sò",
+    "bổ",
+    "lạ miệng",
+    "ngọt thanh",
+    "tươi",
+    "dai",
+    "ngọt",
+    "giòn sần sật",
+    "dễ ăn",
+    "ngán",
+    "nhanh gọn lẹ",
+    "tốt cho sức khỏe"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mà tới lúc thanh toán mới sốc nha mọi người. Tôi không ngờ khi mua năm hộp Phật nhảy tường bên Thái Nhà Biển còn được tặng thêm một hộp nữa.",
+    "Thấy phần topping toàn là đồ xịn sò là biết bổ dữ thần rồi á.",
+    "Hải sản thì tươi, ăn dai ngọt, đặc biệt là con bào ngư nó giòn sần sật luôn."
+  ],
+  "hook_content": "Hello mọi người, lại là tôi, Mập Bự thích nấu ăn đây. Nay mọi người cùng tôi ăn thử Phật nhảy tường nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món Phật nhảy tường mua ở Thái Nhà Biển, người bán chia sẻ trải nghiệm lần đầu ăn món này, đánh giá về topping, hương vị và gợi ý đối tượng phù hợp.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

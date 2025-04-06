@@ -1,0 +1,93 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu mì cay ba báo và bộ sản phẩm đi kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm."
+    },
+    {
+      "step": "Nấu mì",
+      "desc": "Bắt đầu nấu mì và nêu nghi vấn về chất lượng nồi.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến trải nghiệm nấu ăn."
+    },
+    {
+      "step": "Nếm thử mì",
+      "desc": "Nếm thử mì không thêm gia vị và đánh giá hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung vào nhận xét hương vị."
+    },
+    {
+      "step": "Thêm sốt ớt",
+      "desc": "Thêm sốt ớt và đánh giá sự thay đổi hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị sau khi thêm sốt."
+    },
+    {
+      "step": "Đánh giá nồi",
+      "desc": "Đánh giá chất lượng nồi và lo ngại về an toàn.",
+      "impact_level": "3",
+      "viewer_emotion": "Lo lắng về chất lượng sản phẩm."
+    },
+    {
+      "step": "Chấm điểm",
+      "desc": "Chấm điểm cho mì và nhắc lại vấn đề vị ngọt.",
+      "impact_level": "1",
+      "viewer_emotion": "Đồng tình hoặc không đồng tình với đánh giá."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Đưa ra kết luận chung về sản phẩm và giá cả.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thông tin hữu ích."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Rồi cảm ơn mọi người đã coi clip của mình.",
+    "Bye bye!"
+  ],
+  "cta_type": [
+    "Follow kênh",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "cay",
+    "cay quá",
+    "ngọt",
+    "chua"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mình cảm nhận cái này nó bỏ 8kg đường vô đây á.",
+    "Với mình á cái điều mà mình quan ngại nhất trong cái phần này đó chính là cái nồi, tại vì cái nồi này á thật sự là mà cái men này mà không đủ đảm bảo cái gọi là an toàn sức khỏe thật sự nó rất ảnh hưởng đến tụi mình luôn.",
+    "Mà bây giờ ai mà ăn cay không giỏi mà không bỏ cái hũ sốt này vô coi như là cái tô mì này là mì chè."
+  ],
+  "hook_content": "cái không thể là rau củ khô được mà cái này gọi là đường khô.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video review mì cay ba báo, tập trung vào trải nghiệm nấu và nếm thử, đặc biệt nhấn mạnh vấn đề chất lượng nồi tặng kèm và vị ngọt của mì. Sau khi thêm sốt ớt, hương vị được đánh giá là cân bằng hơn.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

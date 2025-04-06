@@ -1,0 +1,102 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu chợ Đống Cổng",
+      "desc": "Giới thiệu về chợ gần nhà và các món ăn đa dạng.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về khu chợ."
+    },
+    {
+      "step": "Ăn bánh đa buổi sáng",
+      "desc": "Đánh giá bánh đa thập cẩm và siêu kê tại quán quen.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm ăn bánh đa."
+    },
+    {
+      "step": "Thịt xiên nướng buổi chiều",
+      "desc": "Thưởng thức thịt xiên nướng mật ong và bánh mì.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn thịt xiên."
+    },
+    {
+      "step": "Cháo và bánh gio",
+      "desc": "Ăn cháo sườn, bánh gio và chè túi tuổi thơ.",
+      "impact_level": "1",
+      "viewer_emotion": "Nhớ về tuổi thơ."
+    },
+    {
+      "step": "Xôi thập cẩm",
+      "desc": "Thưởng thức xôi thập cẩm với nhiều loại topping.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm xôi."
+    },
+    {
+      "step": "Bánh ngô, bánh khoai",
+      "desc": "Ăn bánh ngô, bánh khoai chiên giòn chấm tương ớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn bánh chiên."
+    },
+    {
+      "step": "Kết thúc và hẹn gặp lại",
+      "desc": "Hẹn gặp lại trong các clip sau.",
+      "impact_level": "1",
+      "viewer_emotion": "Mong chờ video tiếp theo."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Còn giờ thì bye bye và hẹn gặp lại mọi người trong những clip sau nhá."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "béo",
+    "thơm",
+    "ngọt ngào",
+    "cay tê",
+    "bùng nổ",
+    "nóng hổi",
+    "giòn rụm",
+    "vàng óng ả",
+    "mướt mát",
+    "hấp dẫn",
+    "đậm đà",
+    "ngậy ngậy"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cắn vào một phát là thấy bùng nổ trong khoang miệng liền.",
+    "Ta nói nó mướt mát óng ả, dưới đẫm mật lên nữa là bao ngọt ngào.",
+    "Chỗ tương ớt này xịt ra nhiều vậy mà tí nữa chấm cũng sạch bay là các bác biết rồi đấy."
+  ],
+  "hook_content": "nhưng là bụt chùa nhà không thiêng.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review các món ăn vặt tại chợ Đống Cổng, Hải Phòng, bao gồm bánh đa, thịt xiên nướng, cháo, xôi, bánh ngô và bánh khoai. Người quay chia sẻ trải nghiệm ăn uống chân thực và giới thiệu những món ăn đặc trưng của chợ.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

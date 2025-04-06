@@ -1,0 +1,52 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu mục đích",
+      "desc": "Giới thiệu mục đích của video là mua đồ ăn vặt",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Liệt kê các món",
+      "desc": "Liệt kê các món ăn vặt đã mua và giá của chúng",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Thông báo tổng tiền",
+      "desc": "Thông báo tổng số tiền đã chi và sự vượt quá ngân sách",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [],
+  "has_cta": "false",
+  "highlight_phrases": [],
+  "hook_content": "95.000 mua được gì?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Liệt kê"
+  ],
+  "summarization": "Video ghi lại quá trình mua đồ ăn vặt tại cửa hàng tiện lợi với ngân sách 95k, liệt kê các món đã mua và tổng số tiền phải trả.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

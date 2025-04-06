@@ -1,0 +1,106 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu resort",
+      "desc": "Giới thiệu về resort năm sao ở Vũng Tàu với giá cả hợp lý.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về địa điểm được giới thiệu."
+    },
+    {
+      "step": "Khám phá phòng",
+      "desc": "Review phòng có view biển chill, bồn tắm to và đầy đủ tiện nghi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với không gian nghỉ dưỡng."
+    },
+    {
+      "step": "Tham quan resort",
+      "desc": "Tham quan các khu vực của resort, hồ bơi và góc chụp ảnh đẹp.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với thiết kế và tiện ích."
+    },
+    {
+      "step": "Đánh giá đồ ăn",
+      "desc": "Nhận xét về buffet sáng đa dạng và đồ ăn ở nhà hàng ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đồ ăn hấp dẫn."
+    },
+    {
+      "step": "Nhận xét dịch vụ",
+      "desc": "Đánh giá cao dịch vụ chu đáo và nhiệt tình của nhân viên.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với chất lượng phục vụ."
+    },
+    {
+      "step": "Tiện ích khác",
+      "desc": "Giới thiệu quán cà phê bánh ngọt và nhà hàng hải sản tươi sống.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn trải nghiệm."
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Khuyên tìm resort trên app đặt phòng và canh sale để có giá tốt.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết thêm thông tin hữu ích."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Tìm tên resort trên các app đặt phòng và canh sale để có giá tốt nha.",
+    "Bye bye."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "xịn sò",
+    "ổn áp",
+    "yêu",
+    "đẹp",
+    "chill",
+    "sướng",
+    "xịn",
+    "chill xỉu",
+    "ngon",
+    "mềm",
+    "dễ thương",
+    "nhiệt tình",
+    "chu đáo",
+    "thích",
+    "chất lượng",
+    "tươi sống",
+    "xứng đáng",
+    "healing",
+    "ok la"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đi Vũng Tàu nhiều lần rồi, mà tới bây giờ tôi mới biết ở Vũng Tàu có resort năm sao xịn sò như thế này, mà giá lại ổn áp nữa nha.",
+    "View cạnh biển siêu chill luôn mọi người ơi.",
+    "Dịch vụ phải gọi là đỉnh từ ngoài vào trong. Từ các cô chú đến các bạn nhân viên ở đây đều rất là dễ thương, nhiệt tình, chu đáo, hỗ trợ khách hết mức có thể."
+  ],
+  "hook_content": "Đi Vũng Tàu nhiều lần rồi, mà tới bây giờ tôi mới biết ở Vũng Tàu có resort năm sao xịn sò như thế này, mà giá lại ổn áp nữa nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review một resort năm sao ở Vũng Tàu với giá cả hợp lý, không gian đẹp, view biển chill, dịch vụ tốt và nhiều tiện ích như hồ bơi, nhà hàng, quán cà phê. Người nói đánh giá cao trải nghiệm và khuyên nên đến để healing.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

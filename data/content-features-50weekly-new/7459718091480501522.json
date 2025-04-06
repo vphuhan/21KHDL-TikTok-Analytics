@@ -1,0 +1,86 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người ăn chay, ăn healthy",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món sườn chay chiên nước mắm không tốn dầu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách làm không dầu."
+    },
+    {
+      "step": "Chuẩn bị sườn chay",
+      "desc": "Ngâm mềm sườn non chay, xé sợi, vắt kiệt nước.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy đây là công đoạn cần thiết."
+    },
+    {
+      "step": "Chiên sườn bằng nồi chiên không dầu",
+      "desc": "Chiên sườn ở 180 độ C đến khi vàng giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy tiện lợi và nhanh chóng."
+    },
+    {
+      "step": "Làm nước sốt",
+      "desc": "Xào tỏi thơm, thêm nước sốt cho sườn.",
+      "impact_level": "1",
+      "viewer_emotion": "Mong chờ hương vị hấp dẫn."
+    },
+    {
+      "step": "Trộn sườn với nước sốt",
+      "desc": "Đảo nhanh tay sườn với nước sốt cho đều.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn nếm thử ngay lập tức."
+    },
+    {
+      "step": "Hoàn thiện và bảo quản",
+      "desc": "Rắc tỏi phi, để nguội, bảo quản trong keo.",
+      "impact_level": "1",
+      "viewer_emotion": "Quan tâm đến cách bảo quản."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Mấy anh mấy chị ăn chay thì cứ yên tâm mà làm cái công thức này của em đi đảm bảo ngon hơn ngoài tiệm mà không có bị dầu mỡ."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Chia sẻ công thức"
+  ],
+  "emotion_keywords": [
+    "giòn",
+    "mặn mặn",
+    "ngọt ngọt",
+    "ngon",
+    "sướng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái tiếng giòn của nó hả cắn từ Sài Gòn tới Sapa mà còn nghe được độ giòn.",
+    "Đảm bảo ngon hơn ngoài tiệm mà không có bị dầu mỡ.",
+    "Nhớ là phải đảo cái tay thân thoắt cái tay thân thoắt chứ không là nó bị mặn nghe."
+  ],
+  "hook_content": "Cũng là món sườn chay chiên nước mắm, nhưng mà hôm nay Quan Khải làm á sẽ không tốn một giọt dầu nào để chiên cái phần sườn này.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm sườn chay chiên nước mắm không dầu bằng nồi chiên không dầu, món ăn chay ngon miệng, giòn rụm và dễ làm tại nhà.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu địa điểm ăn vặt quen thuộc khi thèm đồ ngọt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán"
+    },
+    {
+      "step": "Đề xuất 'thần chú'",
+      "desc": "Đưa ra lời khuyên hài hước để người xem thoải mái ăn uống.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú, vui vẻ"
+    },
+    {
+      "step": "Mô tả vị trí",
+      "desc": "Nhấn mạnh vị trí 'núp hẻm' và yêu cầu sự tinh tế.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Liệt kê món",
+      "desc": "Giới thiệu các món chè, tàu hũ, sinh tố và cà phê.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Review món",
+      "desc": "Đánh giá chi tiết chè bơ, tàu hũ khoai môn, tàu hũ phủ kem.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy hấp dẫn"
+    },
+    {
+      "step": "Đề xuất món",
+      "desc": "Khuyên nên thử món tàu hũ phủ kem.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử"
+    },
+    {
+      "step": "Thông tin giá",
+      "desc": "Giá cả hợp lý và nhiều topping.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đáng thử"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "béo ngậy",
+    "vừa ăn",
+    "đã"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cứ yên tâm đi, ăn xong niệm thần chú là không có mập đâu.",
+    "Mấy bạn nào mà tinh tế lắm thì mới biết cái chỗ này đó nha.",
+    "Tàu hũ thì nó núng nính bên trên thì có một lớp kem phủ ăn nó đã vừa gì luôn á."
+  ],
+  "hook_content": "Mỗi khi mà chiều chiều thèm đồ ngọt thì mình thường chạy vô đây nè mọi người.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video giới thiệu một tiệm chè nằm trong hẻm ở Cần Thơ, với nhiều món chè và tàu hũ hấp dẫn. Người nói đánh giá cao hương vị và sự đa dạng của các món ăn ở đây.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

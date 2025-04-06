@@ -1,0 +1,94 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu mở đầu",
+      "desc": "Giới thiệu sốt chấm trái cây mới và món xoài chua.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chuẩn bị xoài",
+      "desc": "Hướng dẫn sơ chế xoài: bào vỏ, cắt tỉa, ngâm nước muối.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, dễ hiểu."
+    },
+    {
+      "step": "Giới thiệu muối chấm",
+      "desc": "Giới thiệu và lựa chọn muối chấm hoa quả DH Foods.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sản phẩm được giới thiệu."
+    },
+    {
+      "step": "Làm sốt chấm",
+      "desc": "Hướng dẫn làm sốt chấm: trộn ớt, tỏi, gia vị, nước cốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn, muốn thử làm theo."
+    },
+    {
+      "step": "Mukbang xoài chấm",
+      "desc": "Ăn thử xoài với sốt và muối, nêu cảm nhận.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn ăn ngay."
+    },
+    {
+      "step": "Đánh giá sản phẩm",
+      "desc": "Đánh giá chi tiết về muối chấm DH Foods và sốt tự làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá."
+    },
+    {
+      "step": "Kêu gọi mua hàng",
+      "desc": "Khuyến khích mua sản phẩm DH Foods và làm theo.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không quá ấn tượng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người có thể mua các sản phẩm của DH Foods trực tiếp tại các siêu thị nè, hoặc các trang thương mại điện tử, hay các phiên livestream để săn được ưu đãi nha.",
+    "Hẹn mọi người clip sau mình sẽ làm xoài lắc nha."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo",
+    "Truy cập link sản phẩm",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "cay",
+    "thơm",
+    "hợp",
+    "hấp dẫn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Sốt chấm Kim làm trời ơi nó cay ghê luôn. Mà được cái cái mùi muối rất là thơm nhưng mà không có bị mặn.",
+    "Ta nói ăn với xoài chua nữa, trời ơi nó hợp gì đâu luôn.",
+    "Trong cái vị muối mình cảm nhận là nó thơm cái vị tôm nhẹ, không quá nồng nên là rất là phù hợp ăn với lại các loại trái cây."
+  ],
+  "hook_content": "Hi mọi người, Kim mới được chỉ làm cái sốt chấm trái cây này ngon nè, thử làm liền nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu cách làm sốt chấm trái cây và review muối chấm hoa quả DH Foods khi ăn với xoài chua, đồng thời chia sẻ cảm nhận về hương vị và độ ngon của sản phẩm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

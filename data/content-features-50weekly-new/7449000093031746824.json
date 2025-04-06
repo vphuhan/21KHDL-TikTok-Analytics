@@ -1,0 +1,80 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Gọi món và trò chuyện",
+      "desc": "Gọi bún ốc, hỏi thăm về quán, lựa chọn ốc lẫn lộn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán bún lâu năm."
+    },
+    {
+      "step": "Miêu tả địa điểm",
+      "desc": "Vị trí ngồi ăn đặc biệt, ngồi ở quán nước gần đó.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin về địa điểm."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Nhấn mạnh ớt chưng, tả hương vị nước dùng và chất lượng ốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng, muốn nếm thử."
+    },
+    {
+      "step": "So sánh với quán khác",
+      "desc": "So sánh giá cả và trải nghiệm ăn vỉa hè phố cổ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị với sự khác biệt."
+    },
+    {
+      "step": "Kết luận và dặn dò",
+      "desc": "Nhấn mạnh chất lượng, giờ bán và khuyên gọi điện trước.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích, dặn dò chu đáo."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "mọi người mà đến ăn thì gọi điện trước cho bà nhá"
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "sướng mồm",
+    "cay cay",
+    "thanh thanh",
+    "đậm đà",
+    "thích",
+    "khác hẳn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn bún ốc này phải có ớt chưng, thật sự là không có cái ớt chưng vào thì ăn không ra một cái gì cả.",
+    "Ốc không nhớt một tí nào, to toàn ngon ngon.",
+    "ngồi ăn vỉa hè cảm giác nó cũng khác hẳn so với các quán ăn ở ngoài kia."
+  ],
+  "hook_content": "Xe đẩy bún ốc cực phẩm có căn mới ăn được 🥲",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review xe đẩy bún ốc vỉa hè lâu năm ở phố cổ, tập trung vào hương vị đặc trưng, chất lượng ốc và trải nghiệm ăn uống khác biệt so với các quán khác. Người bán hàng rong nên cần liên hệ trước.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

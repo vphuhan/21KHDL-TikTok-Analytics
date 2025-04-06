@@ -1,0 +1,86 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu về cá viên chiên và giá cả các loại topping.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về giá cả và các loại topping."
+    },
+    {
+      "step": "Giải thích giá cả",
+      "desc": "Giải thích lý do giá cả hợp lý do bán tại nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hợp lý với những giải thích được đưa ra."
+    },
+    {
+      "step": "Ưu đãi",
+      "desc": "Thông báo về các ưu đãi khi mua cá viên chiên.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thích thú với các ưu đãi."
+    },
+    {
+      "step": "Thử nghiệm",
+      "desc": "Chiên thử hộp 100k và hỏi cảm nhận về giá.",
+      "impact_level": "2",
+      "viewer_emotion": "Tự hỏi liệu 100k có đáng giá không."
+    },
+    {
+      "step": "Giới thiệu sốt",
+      "desc": "Giới thiệu về sốt nước mắm đặc biệt của mẹ.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử ngay loại sốt đặc biệt này."
+    },
+    {
+      "step": "Thành quả",
+      "desc": "Trình bày thành quả hộp cá viên chiên 100k.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với phần ăn đầy đặn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "có gì chủ nhật tuần này mọi người ghé ủng hộ hai mẹ con tôi với nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "mặn ngọt hài hòa",
+    "cay",
+    "không ngán",
+    "dữ dội"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ê mà tôi tự tin với cái sốt nước mắm mẹ tôi làm lắm, nó mặn ngọt hài hòa.",
+    "Ai ăn cay nhớ thêm ớt nha, tại vì tôi thấy cái này ăn cay thì nó sẽ không có bị ngán.",
+    "Không biết ở đây có idol mạnh mà ăn một lần nguyên một cái dĩa này chưa thấy đã không."
+  ],
+  "hook_content": "mọi người thấy 100.000 vậy mắc hay rẻ góp ý giùm tôi nghe.",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review hộp cá viên chiên 100k do mẹ làm, giải thích về giá cả và các ưu đãi, đồng thời giới thiệu sốt nước mắm đặc biệt. Kêu gọi mọi người đến ủng hộ vào chủ nhật.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

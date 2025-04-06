@@ -1,0 +1,69 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ăn hôm nay là cua và cá Hoàng Ngâm tương.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Bắt đầu ăn cua và cá, trộn với cơm và wasabi.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Miêu tả cảm nhận",
+      "desc": "Miêu tả vị ngon, béo của thịt cua và gạch cua.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi đói bụng."
+    },
+    {
+      "step": "Kết thúc video",
+      "desc": "Cảm ơn người xem và hẹn gặp lại ở video sau.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "cảm ơn cả nhà theo dõi video của Thành. Hẹn gặp bạn video tiếp theo nha."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "đã",
+    "ngon",
+    "sướng",
+    "béo"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Lâu lắm rồi mới ăn lại cái món này nha.",
+    "Thịt cua đỏ au. Béo mà đã.",
+    "Wow quá xá bay. Quá ta đã luôn á. Sướng mọi người."
+  ],
+  "hook_content": "Bây giờ tụi mình ăn nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang món cua và cá Hoàng Ngâm tương. Người ăn miêu tả hương vị món ăn một cách ngon miệng và hào hứng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món",
+      "desc": "Giới thiệu trà chanh giò heo và trà chanh hành lá.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự kết hợp kỳ lạ."
+    },
+    {
+      "step": "Uống thử trà chanh",
+      "desc": "Uống thử trà chanh không đá và nhận xét về vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy vị trà chanh hấp dẫn."
+    },
+    {
+      "step": "Thêm topping",
+      "desc": "Thêm giò heo vào trà chanh và uống thử.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy tò mò về hương vị."
+    },
+    {
+      "step": "Đánh giá trà chanh giò heo",
+      "desc": "Đánh giá hương vị trà chanh giò heo, nhận xét dở.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy món ăn không hợp khẩu vị."
+    },
+    {
+      "step": "Uống thử trà chanh hành lá",
+      "desc": "Uống thử trà chanh hành lá và đánh giá.",
+      "impact_level": "3",
+      "viewer_emotion": "Thấy kinh khủng về hương vị."
+    },
+    {
+      "step": "So sánh",
+      "desc": "So sánh trà chanh giò heo và trà chanh hành lá.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy món trà chanh hành lá tệ hơn."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Kết luận không nên kết hợp các món độc lạ.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình với quan điểm."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Drama",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Thôi thì cảm ơn mọi người đã coi em review, em cảm ơn mọi người rất nhiều."
+  ],
+  "cta_type": [
+    "Thích video",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ghê",
+    "thơm",
+    "ngon",
+    "dễ thương",
+    "ớn",
+    "dở",
+    "tanh",
+    "bỡ",
+    "cay",
+    "ghê muốn chết",
+    "hoang mang"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Giống như là mình đang ngồi uống trà chanh cái tự nhiên ăn tô bún bò cái rớt cái nguyên cái giò heo vô tô trà chanh của mình vậy đó mọi người.",
+    "Trà chanh giò heo. Cay! Trà chanh hành lá âm một trăm điểm!",
+    "Em nói thiệt mấy cái món này cứ làm vậy hoài là có ngày lên VTV mà cái mặt em cũng kế bên luôn chứ không có gì hết, tại có mình con này ngồi review mấy cái món này thôi."
+  ],
+  "hook_content": "Trà chanh giò heo! Trời ơi cái gì vậy trời. Ghê quá!",
+  "hook_type": [
+    "Gây tò mò",
+    "Gây tranh cãi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review món trà chanh giò heo và trà chanh hành lá, người review đánh giá hương vị kinh dị và khuyên không nên thử.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên",
+    "Khó chịu",
+    "Châm biếm"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu thói quen",
+      "desc": "Chia sẻ thói quen thức khuya xem phim và ăn đêm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu bánh mandu dẹt của Pumu One.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Miêu tả chi tiết",
+      "desc": "Miêu tả hình dáng, số lượng và giá cả của bánh mandu.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Nấu ăn",
+      "desc": "Rán bánh mandu và chuẩn bị kim chi, củ cải muối.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Chấm bánh mandu với tương ớt và ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Nhấn mạnh bánh mandu có thể thay bữa chính.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Anh Nguyên ăn hết phần còn lại.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "phấn chấn",
+    "vui mừng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ui phải gọn chứ ạ, bởi vì người tăng cân là người khác.",
+    "Cái cữ mà xem phim có đồ ăn là thấy tinh thần phấn chấn là phim mà thấy cũng hay hơn hẳn.",
+    "Nếu mà có ai đó hỏi mình tình yêu thật sự là gì thì chắc chắn là mình sẽ từ chối kể về anh Nguyên."
+  ],
+  "hook_content": "Lại một cái mùa Euro nữa đi qua, được cái là bóng ban không biết gì nhưng mà trận nào cũng coi đủ.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video chia sẻ thói quen ăn khuya khi xem phim và giới thiệu món bánh mandu dẹt của Pumu One. Người nói vừa ăn vừa miêu tả lại cảm xúc và hương vị.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước",
+    "Hào hứng"
+  ]
+}

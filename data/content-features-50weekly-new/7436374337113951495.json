@@ -1,0 +1,76 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người đi làm, dân văn phòng",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu nước cốt cà phê Nescafe thay thế cà phê phin khi lười.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm mới."
+    },
+    {
+      "step": "Công thức pha chế",
+      "desc": "Hướng dẫn công thức pha cà phê sữa hạt bằng nước cốt cà phê.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với công thức đơn giản."
+    },
+    {
+      "step": "Đánh giá sản phẩm",
+      "desc": "Nhận xét nước cốt cà phê sữa pha sẵn và so sánh với cà phê phin.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá khách quan."
+    },
+    {
+      "step": "Ứng dụng khác",
+      "desc": "Gợi ý dùng cốt cà phê để làm món sườn sốt cà phê.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về công thức mới."
+    },
+    {
+      "step": "Kiểm chứng sản phẩm",
+      "desc": "Người dùng thử và nhận xét hương vị giống cà phê phin.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú vì có người kiểm chứng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bữa nào tôi sẽ chia sẻ công thức sườn sốt cà phê cho các bạn ha."
+  ],
+  "cta_type": [
+    "Chia sẻ công thức"
+  ],
+  "emotion_keywords": [
+    "ghê",
+    "xịn",
+    "khá giống",
+    "đậm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Một người biết uống cà phê thì không biết pha, còn người biết pha thì lại không biết uống.",
+    "Barista này hơi bị xịn.",
+    "Tính ra cũng khá giống cà phê pha phin luôn á."
+  ],
+  "hook_content": "- Mới sáng sớm sách giỏ đi đâu vậy?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video giới thiệu nước cốt cà phê Nescafe như một giải pháp thay thế tiện lợi cho cà phê phin, đồng thời chia sẻ công thức pha chế cà phê sữa hạt và gợi ý làm món sườn sốt cà phê.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

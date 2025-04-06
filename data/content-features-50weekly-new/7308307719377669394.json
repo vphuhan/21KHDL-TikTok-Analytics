@@ -1,0 +1,75 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Khách hỏi mua bánh 'ông già', người bán bảo đã hết hàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về loại bánh được nhắc đến."
+    },
+    {
+      "step": "Giới thiệu bánh thay thế",
+      "desc": "Người bán giới thiệu 3 loại bánh khác tương tự.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, chờ đợi đánh giá."
+    },
+    {
+      "step": "Thử bánh",
+      "desc": "Khách ăn thử và khen ngon, ăn hết cả gói.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú với phản ứng ngon miệng."
+    },
+    {
+      "step": "Thanh toán",
+      "desc": "Khách ngỡ tưởng được ăn miễn phí nhưng phải trả tiền.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi bất ngờ với tình huống hài hước."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Khách chốt lại bánh 'ông già' vẫn là ngon nhất.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình với nhận xét cuối cùng."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "ngon dữ ta"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Trời ơi sao nó ngon dữ ta?",
+    "Ngon ngon ngon ngon",
+    "Nói vậy thôi chứ cái này vẫn đỉnh nhất"
+  ],
+  "hook_content": "Cô ơi, lấy cho con một bịch bánh ông già đi cô.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại",
+    "So sánh"
+  ],
+  "summarization": "Video review 3 loại bánh snack được giới thiệu là giống bánh \"ông già\", trong đó người ăn thử đánh giá cao hương vị của cả 3 loại nhưng vẫn khẳng định bánh \"ông già\" là ngon nhất.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

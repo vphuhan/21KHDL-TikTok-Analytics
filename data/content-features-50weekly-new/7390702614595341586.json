@@ -1,0 +1,76 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn tuổi thơ",
+      "desc": "Giới thiệu rồng đỏ, món ăn gợi nhớ kỷ niệm thời xưa.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn được nhắc đến."
+    },
+    {
+      "step": "Đánh giá rồng đỏ",
+      "desc": "Nhận xét về hương vị rồng đỏ hiện tại so với trước.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hơi thất vọng về sự thay đổi."
+    },
+    {
+      "step": "Giới thiệu nho hóa thạch",
+      "desc": "Giới thiệu và so sánh nho hóa thạch với rồng đỏ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn thử nho hóa thạch."
+    },
+    {
+      "step": "Giới thiệu món ăn huyền thoại",
+      "desc": "Giới thiệu món ăn tuổi thơ quen thuộc, được yêu thích.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thích thú và đồng tình."
+    },
+    {
+      "step": "Đánh giá món ăn huyền thoại",
+      "desc": "Đánh giá hương vị món ăn, nhấn mạnh sự yêu thích.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng món ăn được miêu tả."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "rung động",
+    "ngon",
+    "chát",
+    "buồn mồm",
+    "huyền thoại"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ngày xưa không có gì ăn không có gì uống nên là uống cảm thấy nó ngon.",
+    "Nho hóa thạch của nhà Bạch Tuyết rất ngon, ngon hơn rồng đỏ này cái chắc luôn.",
+    "Món này quá huyền thoại, quá tuổi thơ."
+  ],
+  "hook_content": "Những món mà khiến anh em 8X, 9X, 2K phải rung động, rung rung động, rung rung động chưa?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review các món ăn vặt tuổi thơ như rồng đỏ và một món ăn huyền thoại khác, so sánh hương vị xưa và nay, đồng thời giới thiệu thêm nho hóa thạch.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Hài hước",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món nấm kim châm và nấm đùi gà sốt thái.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Ăn và cảm nhận hương vị món nấm sốt thái.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Nhấn mạnh độ ngon và giòn của nấm sốt thái.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử làm"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Tết này các bạn thử làm nhá."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "Ngon",
+    "Đã"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nấm số thái ăn nó giòn nó đã kinh khủng luôn."
+  ],
+  "hook_content": "động kim châm và nấm đùi gà số thái. Mời các bạn nhá.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang món nấm kim châm và nấm đùi gà sốt thái, người làm video vừa ăn vừa khen ngon và khuyến khích mọi người làm thử.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

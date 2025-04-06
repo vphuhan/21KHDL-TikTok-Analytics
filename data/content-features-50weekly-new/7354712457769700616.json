@@ -1,0 +1,94 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu thùng cua 4 kí gửi từ Cà Mau lên.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về chất lượng cua."
+    },
+    {
+      "step": "Sự cố",
+      "desc": "Phản ánh về việc thùng cua bị kiến lửa.",
+      "impact_level": "2",
+      "viewer_emotion": "Lo lắng về tình trạng cua."
+    },
+    {
+      "step": "Chuẩn bị",
+      "desc": "Hướng dẫn cách luộc cua để không bị rụng càng.",
+      "impact_level": "2",
+      "viewer_emotion": "Học hỏi kinh nghiệm luộc cua."
+    },
+    {
+      "step": "Luộc cua",
+      "desc": "Chia sẻ về quá trình luộc cua và nguyên liệu.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu sản phẩm An Cung Xạ Hương cho ba mẹ.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến sức khỏe."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Trải nghiệm ăn cua gạch chấm muối tiêu.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng món cua."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Cảm nhận về cua thịt và mong muốn ăn lại.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn cua ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "nóng ruột",
+    "sót ruột",
+    "chắc thịt",
+    "ngọt",
+    "béo béo",
+    "bùi bùi",
+    "đã",
+    "ham",
+    "vui lây"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nguyên ổ kiến lửa cành kỳ nà quá.",
+    "Cua gạch thì mình cảm thấy là mỗi người ăn một con là thấy đủ rồi đó, tại vì là bùi bùi, béo béo mà chuyển qua ngán thì nó rất là mong manh.",
+    "Cắn càng rớp rớp, lột rộp rộp rồi này kia ha."
+  ],
+  "hook_content": "Hôm nay mình có đặt một cái thùng cua 4 kí gửi từ Cà Mau lên.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video chia sẻ về trải nghiệm đặt và chế biến cua Cà Mau, từ sự cố ban đầu đến cách luộc cua ngon và thưởng thức cùng gia đình, đồng thời giới thiệu sản phẩm hỗ trợ sức khỏe An Cung Xạ Hương.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu ba món ăn Hàn Quốc quen thuộc của gia đình.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn."
+    },
+    {
+      "step": "Khoe view sân thượng",
+      "desc": "Giới thiệu view sân thượng và tình trạng cây ớt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không quá đặc biệt."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Cắt bí ngòi và giới thiệu bịch hải sản thập cẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy tiện lợi khi có hải sản trộn sẵn."
+    },
+    {
+      "step": "Nấu sốt tương đen",
+      "desc": "Hướng dẫn cách nấu sốt tương đen không bị đắng.",
+      "impact_level": "2",
+      "viewer_emotion": "Học được mẹo nấu sốt tương đen."
+    },
+    {
+      "step": "Làm thịt chiên xù",
+      "desc": "Giới thiệu nguyên liệu làm thịt chiên xù đơn giản.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy món thịt chiên xù hấp dẫn."
+    },
+    {
+      "step": "Nấu mì champon",
+      "desc": "Sử dụng nước lọc thay vì nước hầm xương.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm vì thiếu nguyên liệu."
+    },
+    {
+      "step": "Hoàn thiện món ăn",
+      "desc": "Trình bày món ăn và mời mọi người cùng ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bạn nào mà nấu mì tương đen bị đắng á thì thử theo cách của mình xem sao nha.",
+    "Bữa nào mọi người thử đi."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngon dữ lắm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mình để ý nha, cái sốt tương đen mà mình nấu dư và bảo quản trong tủ lạnh, mai mốt mình đem ra mình nấu lại á thì nó sẽ bị đắng.",
+    "Bạn nào mà nấu mì tương đen bị đắng á thì thử theo cách của mình xem sao nha.",
+    "Món thịt chiên xù thì cũng đơn giản nữa, mình làm chung với ăn mì tương đen thì nó ngon dữ lắm luôn."
+  ],
+  "hook_content": "Bữa nay mình nấu ba cái món này là mọi người sẽ nghĩ ngay tới Hàn Quốc luôn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn nấu ba món ăn Hàn Quốc đơn giản tại nhà: mì tương đen, thịt chiên xù và champon. Người nấu chia sẻ các mẹo để nấu ăn ngon và cách khắc phục các lỗi thường gặp.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

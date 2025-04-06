@@ -1,0 +1,83 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu nhà hàng",
+      "desc": "Giới thiệu nhà hàng buffet Cửu Vân Long quy mô lớn ở Sài Gòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ lớn và sự sang trọng."
+    },
+    {
+      "step": "Đánh giá tổng quan",
+      "desc": "Nhấn mạnh sự đa dạng món ăn và giá cả hợp lý so với chất lượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị về sự tương phản giữa giá và chất lượng."
+    },
+    {
+      "step": "Khám phá quầy buffet",
+      "desc": "Miêu tả chi tiết các loại hải sản tươi sống và cách chế biến tại chỗ.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy hấp dẫn và thèm ăn."
+    },
+    {
+      "step": "So sánh và đánh giá",
+      "desc": "So sánh với các nhà hàng buffet năm sao và nhấn mạnh ưu điểm về giá.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy bất ngờ về mức giá phải chăng."
+    },
+    {
+      "step": "Tiện ích và trải nghiệm",
+      "desc": "Giới thiệu bộ kít tiện ích và không gian thoải mái của nhà hàng.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy tiện lợi và hài lòng."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Khẳng định Cửu Vân Long là lựa chọn buffet hàng đầu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá và muốn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "hấp dẫn",
+    "ngạc nhiên",
+    "thoải mái",
+    "yêu thích"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Điều làm mình ngạc nhiên nhất chính là họ có nguyên cả một cái bể hải sản bên trong. Con nào cũng đang còn bơi tung ta tung tăng thì bảo sao hải sản không tươi cơ chứ?",
+    "Có thể nói Củ Vân Long Premium không hề thua kém bất kỳ một buffet ở trong nhà hàng năm sao nào. Chỉ có một cái duy nhất là thua đậm sâu thôi đó là thua về giá cả.",
+    "Nói chung buffet Củ Vân Long hiện là số một trong lòng mình rồi đó."
+  ],
+  "hook_content": "Đây là nhà hàng buffet Cô Vân Long lớn nhất mà mình đã từng thấy.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review nhà hàng buffet Cửu Vân Long Premium ở Sài Gòn, nổi bật với quy mô lớn, bể hải sản tươi sống và giá cả phải chăng so với chất lượng. Người review đánh giá cao sự đa dạng món ăn và không gian thoải mái của nhà hàng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

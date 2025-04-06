@@ -1,0 +1,89 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Gọi món",
+      "desc": "Liệt kê các yêu cầu đặc biệt khi gọi món phở gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món phở được yêu cầu đặc biệt."
+    },
+    {
+      "step": "Giới thiệu địa điểm",
+      "desc": "Mô tả đường đi và không gian quán phở trong ngõ nhỏ.",
+      "impact_level": "1",
+      "viewer_emotion": "Hình dung về một quán ăn bình dân, khó tìm."
+    },
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Thông tin về giờ mở cửa và tên quán phở gà.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết thêm một địa điểm ăn phở gà."
+    },
+    {
+      "step": "Miêu tả món ăn",
+      "desc": "Mô tả chi tiết về bát phở gà lưng lườn nhiều hành.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng trước bát phở đầy đặn, thơm ngon."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá hương vị nước dùng, hành, thịt gà và quẩy.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm nhận hương vị đặc trưng của phở gà."
+    },
+    {
+      "step": "Nhận xét trứng trần",
+      "desc": "Đánh giá về phần trứng trần trong bát phở.",
+      "impact_level": "1",
+      "viewer_emotion": "Tập trung vào chi tiết nhỏ của món ăn."
+    },
+    {
+      "step": "Trò chuyện với chủ quán",
+      "desc": "Tương tác với chủ quán, khen ngợi và chúc sức khỏe.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng về sự thân thiện và tôn trọng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "nồng nàn",
+    "thanh khiết",
+    "gần gũi",
+    "giòn",
+    "ngầy ngậy",
+    "tuyệt vời"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Một bát phở gà lưng lườn nhiều hành nhiều bánh thì còn gì tuyệt bằng nữa chứ?",
+    "Đường đi vào cái gõ Hàng Hương này là phải đi qua một cái hầm nữa thì đi vào chỗ ăn phở gà ở trong nhà.",
+    "Gắp một cọng hành chấm với nước mắm xong rồi ăn vừa giòn vừa thơm vừa mặn."
+  ],
+  "hook_content": "Chú ơi, chú có lưng gà không chú? Cho cháu một phần lưng lườn, nhiều hành, nhiều bánh, nhiều thịt, cộng thêm một quả trứng trần nhưng nhớ là phải trần cả lòng trắng và để riêng một bát con.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán phở gà Hòa trong ngõ Hàng Hương, Hà Nội, tập trung vào món phở gà lưng lườn nhiều hành với hương vị thơm ngon đặc trưng. Người quay cũng trò chuyện và chúc sức khỏe chủ quán.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

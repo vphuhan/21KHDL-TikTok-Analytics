@@ -1,0 +1,80 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Chuẩn bị bay",
+      "desc": "Không ngủ được, quyết định ra sân bay sớm, check-in và ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin cơ bản về sự chuẩn bị."
+    },
+    {
+      "step": "Ăn uống ở Lounge",
+      "desc": "Ăn mì quảng không thịt, thêm trứng muối, ăn bánh và chờ đợi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị khi thấy cách đối phó với đồ ăn không ưng ý."
+    },
+    {
+      "step": "Chuyến bay đầu tiên",
+      "desc": "Bay qua Nhật trên hãng ANA, trải nghiệm đồ ăn trên máy bay.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với các món ăn và kem trên máy bay."
+    },
+    {
+      "step": "Quá cảnh ở Nhật",
+      "desc": "Uống trà, ăn mì xào và thịt ở phòng chờ Nhật Bản.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Chuyến bay dài",
+      "desc": "Bay 10 tiếng trên United, ăn đồ ăn Nhật, ăn mì tôm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị với sự chuẩn bị mì tôm khi bay xa."
+    },
+    {
+      "step": "Đến Mỹ",
+      "desc": "Đến Houston, bay tiếp đến Dallas, qua hải quan dễ dàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui mừng khi hành trình gần kết thúc."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "mừng",
+    "khoái",
+    "nhẹ nhõm",
+    "buồn ngủ"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nguyên cái vali toàn là đồ ăn đi qua trót lọt mừng xỉu.",
+    "Bay nữa chặng rồi mà vẫn thể hiện còn 5 tiếng.",
+    "Chứ cái kiểu ngồi ở trên máy bay 10 tiếng đồng hồ, lắc lư lắc lư 1 hơi xuống cột sống thành hình zíc zắc luôn."
+  ],
+  "hook_content": "đã tới Mỹ an toàn và thuận lợi. Mới dám làm clip kể cho mấy bà nghe đây.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện"
+  ],
+  "summarization": "Video kể về hành trình bay gần 24 tiếng của một người từ Việt Nam qua Mỹ, bao gồm các chặng bay, trải nghiệm ăn uống trên máy bay và ở các phòng chờ, cũng như những khó khăn và niềm vui khi di chuyển xa. Cuối cùng, người này cũng đã đến được điểm đến cuối cùng là Dallas sau nhiều giờ di chuyển.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món gà hấp úp cốc độc đáo và gây tò mò.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê và chuẩn bị các nguyên liệu cần thiết để nấu.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Sơ chế và ướp gà",
+      "desc": "Hướng dẫn chi tiết cách sơ chế và ướp thịt gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Hấp gà",
+      "desc": "Hướng dẫn cách xếp gà vào nồi và hấp cùng cốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "Pha nước sốt",
+      "desc": "Hướng dẫn cách pha nước sốt đậm đà, thơm ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Trình bày và thưởng thức món gà hấp độc đáo.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Đánh giá món ăn và đưa ra lời khuyên cho người xem.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người cũng thử đi."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "tò mò",
+    "lạ lẫm",
+    "thơm",
+    "ngọt",
+    "chất",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Thật ra là trong quá trình hấp thì nước nó sẽ không chui vào cốc ngay đâu.",
+    "Phải cho tới khi mở nắp vung ra thì sự chênh lệch áp suất giữa bên ngoài cốc và trong cốc sẽ khiến cái phần nước dùng ấy đẩy vào bên trong cốc và làm mực nước trong cốc dâng lên cao dần.",
+    "Xuất sắc 10 điểm, nào tui phải làm lại ăn mới được."
+  ],
+  "hook_content": "rồi, đây là lần đầu tiên mà mình thấy hấp gà lại cho một cái cốc vào ở giữa đấy. Và bao nhiêu cái sự tinh túy nó cũng nằm ở đây luôn.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn cách làm món gà hấp úp cốc độc đáo, chia sẻ trải nghiệm cá nhân và đánh giá hương vị món ăn. Món ăn này có hình thức lạ mắt và hương vị đậm đà.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

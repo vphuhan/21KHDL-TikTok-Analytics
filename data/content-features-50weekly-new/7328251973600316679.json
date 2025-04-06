@@ -1,0 +1,83 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Đặt câu hỏi mở đầu",
+      "desc": "Hỏi thăm về sức khỏe và công việc bán hàng của ông.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò, quan tâm"
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Hỏi về các sản phẩm ông bán và thời gian bán.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Tương tác và trò chuyện",
+      "desc": "Quay video và trò chuyện, hỏi về địa điểm, thời gian bán.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Trải nghiệm trò chơi",
+      "desc": "Thử trò chơi trúng kẹo và trò chơi bắn.",
+      "impact_level": "3",
+      "viewer_emotion": "Vui vẻ, hào hứng"
+    },
+    {
+      "step": "Ủng hộ và chia sẻ",
+      "desc": "Mua hàng và gửi thêm tiền ủng hộ ông.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm động"
+    },
+    {
+      "step": "Kết thúc video",
+      "desc": "Chào tạm biệt và bày tỏ sự thương cảm.",
+      "impact_level": "2",
+      "viewer_emotion": "Xúc động"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chuyên nghiệp"
+  ],
+  "cta_content": [
+    "Nhờ cả nhà dang tay giúp video lên xh, để ông có một cái tết ấm hơn"
+  ],
+  "cta_type": [
+    "Chia sẻ",
+    "Lưu video"
+  ],
+  "emotion_keywords": [
+    "tội",
+    "cảm ơn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ông ơi, cái chân của ông bị sao vậy ông? Ông đi lính là chống Mỹ.",
+    "Ông bán cái này lâu chưa? À từ năm 75 đến bây giờ.",
+    "trời mưa rồi mà ông đứng chờ học sinh rất là tội luôn đó mọi người."
+  ],
+  "hook_content": "Ông ơi, cái chân của ông bị sao vậy ông? Ông đi lính là chống Mỹ.",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video ghi lại cảnh người bán hàng rong là một cựu chiến binh lớn tuổi, người quay phim đã trò chuyện, mua hàng và ủng hộ ông, đồng thời kêu gọi mọi người giúp đỡ để ông có một cái Tết ấm no hơn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Chân thành"
+  ]
+}

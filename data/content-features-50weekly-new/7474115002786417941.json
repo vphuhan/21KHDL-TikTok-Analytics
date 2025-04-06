@@ -1,0 +1,88 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Sơ chế măng",
+      "desc": "Măng bị mốc và thui nên cần sơ chế lại trước khi luộc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về kết quả sau khi sơ chế."
+    },
+    {
+      "step": "Luộc măng",
+      "desc": "Măng được đem đi luộc trong 50 phút để loại bỏ độc tố.",
+      "impact_level": "1",
+      "viewer_emotion": "Mong chờ măng chín để ăn thử."
+    },
+    {
+      "step": "Ăn thử măng",
+      "desc": "Nếm thử măng luộc chấm với chẩm chéo.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú khi được ăn thử món mới."
+    },
+    {
+      "step": "Uống nước luộc măng",
+      "desc": "Uống thử nước luộc măng có màu đen lạ thường.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ trước màu sắc của nước luộc măng."
+    },
+    {
+      "step": "Đánh giá măng",
+      "desc": "Măng có củ ngon, củ đắng, và một vài củ bị thối.",
+      "impact_level": "3",
+      "viewer_emotion": "Lo lắng khi phát hiện măng bị thối."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Chỉ nên ăn măng tươi, không bị thối để tránh đau bụng.",
+      "impact_level": "2",
+      "viewer_emotion": "Nhận được lời khuyên hữu ích."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người comment dùng tôi."
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngọt",
+    "thanh",
+    "mát",
+    "mặn",
+    "đắng",
+    "siêu ngon",
+    "ngon đỉnh"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Măng ngon thì chưa thấy, thấy mặn.",
+    "Không phải tự nhiên mà nó nổi đâu mọi người.",
+    "Kiếp nạn ăn măng."
+  ],
+  "hook_content": "Măng vẩu.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review món măng vầu, từ khâu sơ chế, luộc đến ăn thử và đánh giá hương vị. Người làm video đã gặp phải tình huống măng bị thối và có vị đắng, nhưng vẫn chia sẻ trải nghiệm một cách chân thật.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

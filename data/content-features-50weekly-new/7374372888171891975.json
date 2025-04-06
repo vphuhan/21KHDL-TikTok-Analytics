@@ -1,0 +1,106 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn tự làm",
+      "desc": "Giới thiệu món viên chiên tự làm, nhấn mạnh sự chất lượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quá trình làm món ăn."
+    },
+    {
+      "step": "Kể lại sự cố khi làm",
+      "desc": "Chia sẻ về việc làm viên chiên vất vả và bị bêu rếu.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hài hước và đồng cảm."
+    },
+    {
+      "step": "Mô tả cách làm tắt",
+      "desc": "Giải thích cách làm nhanh viên chiên bằng giò sống.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy thông tin hữu ích."
+    },
+    {
+      "step": "Chia sẻ tâm trạng",
+      "desc": "Tâm sự về sự thay đổi tâm trạng khi làm TikTok.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy gần gũi và chân thật."
+    },
+    {
+      "step": "Giới thiệu về người yêu",
+      "desc": "Giới thiệu về người yêu và mối quan hệ đối thủ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị về mối quan hệ."
+    },
+    {
+      "step": "Quảng cáo quán viên chiên",
+      "desc": "Giới thiệu quán viên chiên tự làm, nhấn mạnh chất lượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn đến thử quán viên chiên."
+    },
+    {
+      "step": "Mời ăn và khuyên",
+      "desc": "Mời mọi người ăn và khuyên không nên ăn muộn.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy được quan tâm."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mời mọi người mỗi người một miếng dưa chuột nha"
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "chất",
+    "đẳng cấp",
+    "ảo tưởng",
+    "muộn phiền",
+    "sướng",
+    "trân trọng",
+    "cay cay",
+    "ngon",
+    "đỉnh chóp",
+    "kinh",
+    "siêu đảm bảo",
+    "sướng",
+    "thơm cay",
+    "ngon",
+    "tinh khiết",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Từ lúc TikTok có nhiều người biết đến là tâm trạng anh Nguyên lên xuống còn hơn cái bập bênh nữa.",
+    "Đúng là chưa trải sự đời ai mà làm được bằng má. Trước mình mới lập kênh một ca view là sướng cẫng lên rồi.",
+    "Ăn cay mà đỉnh chóp như mình thì tính ghen của mình cũng hơi bị kinh đấy."
+  ],
+  "hook_content": "Rồi đây là cái món ăn mà mình mang tính nhất từng làm.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video kể về quá trình làm viên chiên của người bán hàng, từ khâu chuẩn bị nguyên liệu đến khi mở quán bán. Đồng thời, video cũng chia sẻ về những khó khăn và niềm vui khi làm TikTok.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

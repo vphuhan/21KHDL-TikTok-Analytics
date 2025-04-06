@@ -1,0 +1,96 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Diễn tả sự thèm thuồng món Hàn và quyết định đi ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán ăn Hàn Quốc gần sân bay, có chủ là người Hàn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Miêu tả món ăn",
+      "desc": "Miêu tả các món ăn như mì lạnh, thịt nướng, súp kim chi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Gặp người nổi tiếng",
+      "desc": "Gặp và chụp ảnh với bác Park Hang-seo tại quán.",
+      "impact_level": "3",
+      "viewer_emotion": "Phấn khích"
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Đánh giá cao chất lượng món ăn và banchan.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Ưu đãi",
+      "desc": "Giới thiệu chương trình khuyến mãi 'ngày ba ăn ba chỉ'.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Thông tin thêm",
+      "desc": "Nhân viên nướng thịt, công nghệ ủ thịt, không gian quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bữa nào thèm ba chỉ thì lựa ngày có số ba đi ăn để được tặng nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "thèm",
+    "ngon",
+    "giòn",
+    "thơm",
+    "béo",
+    "hớn",
+    "xuất sắc",
+    "mặn mặn ngọt ngọt",
+    "mềm",
+    "dễ thương"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ta nói cái tô mì lạnh đúng chuẩn Hàn luôn á.",
+    "Ngồi ăn món Hàn mà được gặp người Hàn xịn cỡ vầy thì mình khỏi đi Hàn luôn.",
+    "Cắn vô trong miếng ba chỉ là nó vừa thơm vừa mềm vừa béo."
+  ],
+  "hook_content": "Nè xem phim Hàn thấy người ta ăn món Hàn cái muốn xách vali bay qua Hàn ghê.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán ăn Hàn Quốc gần sân bay, nổi bật với món ba chỉ nướng và cơ hội gặp gỡ người nổi tiếng. Quán có không gian rộng rãi, thoáng mát và nhiều ưu đãi hấp dẫn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

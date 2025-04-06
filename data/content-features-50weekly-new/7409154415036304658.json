@@ -1,0 +1,103 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu về chuyến về quê",
+      "desc": "Thông báo về quê, mẹ hỏi muốn ăn gì và hành trình về quê.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy ấm áp và gần gũi với gia đình."
+    },
+    {
+      "step": "Khám phá tủ lạnh",
+      "desc": "Mở tủ lạnh và kể tên các món ăn kỳ lạ trong tủ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với những món đồ ăn quê nhà."
+    },
+    {
+      "step": "Phàn nàn về chậu bát",
+      "desc": "Than thở về việc không ai rửa bát khi về nhà.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy hơi hài hước và thông cảm."
+    },
+    {
+      "step": "Thăm chuồng gà",
+      "desc": "Đi thăm chuồng gà và bịa ra chuyện mang trứng vào nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với sự hài hước của người nói."
+    },
+    {
+      "step": "So sánh phòng",
+      "desc": "So sánh phòng của mình với phòng của em trai và bố mẹ.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường và không có nhiều cảm xúc."
+    },
+    {
+      "step": "Đi ăn bánh bèo",
+      "desc": "Rủ bạn đi ăn bánh bèo và nhận xét về món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thèm bánh bèo và muốn đi ăn ngay."
+    },
+    {
+      "step": "Ăn bún chả buổi tối",
+      "desc": "Order bún chả và mô tả cách ăn bún chả của mẹ.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy phấn khích và thèm ăn bún chả."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Clip hôm nay rất dài, ai xem được đến đây phải gọi là đa tạ xứng đáng được tặng 12 suất bún chả."
+  ],
+  "cta_type": [
+    "Thích video",
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "háo hức",
+    "đói xỉu",
+    "vỡ hòa cảm xúc",
+    "ngon",
+    "tuyệt vời",
+    "cười suýt ngất",
+    "đỡ nóng",
+    "toát hết mồ hôi hột",
+    "hợp vị",
+    "rực rỡ",
+    "ngấy thở",
+    "lộn lúng túng",
+    "đa tạ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mẹ mình là sợ sâu nhất cái trần đời này nhưng mà thấy ăn sâu tằm là cũng vào việc lắm, cắn là phăm phắp.",
+    "Cú sốc tinh thần thứ nhất chưa qua thì cú sốc tinh thần thứ hai đã đến. Cả nhà hân hoan đón mình với một chậu bát không ai rửa.",
+    "Nếu như mình ra mà có trứng ấy, mình mang được cái quả trứng đấy vào nhà an toàn thì nó sẽ dự báo cho một cái chuyến về nhà vô cùng suôn sẻ và tốt đẹp. Cái này là mình bịa ra nghe cho nó tích cực thôi nha chứ nó không có thật."
+  ],
+  "hook_content": "Hôm trước gọi điện báo với bố mẹ là mùng 2 tháng 9 con về nhé. Thấy mẹ là háo hức lắm, hỏi con muốn ăn gì mẹ mua cho.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện"
+  ],
+  "summarization": "Video kể về chuyến về quê của một người, bắt đầu từ việc mẹ hỏi muốn ăn gì, đến khám phá tủ lạnh với những món ăn kỳ lạ, thăm chuồng gà, so sánh phòng và kết thúc bằng việc đi ăn bánh bèo và bún chả. Video mang đến cảm giác ấm cúng và hài hước về cuộc sống gia đình.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

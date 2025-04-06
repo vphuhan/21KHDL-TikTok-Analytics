@@ -1,0 +1,92 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món mì cay và sự yêu thích của mọi người.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách làm mì cay."
+    },
+    {
+      "step": "Kỹ thuật 'vét' tủ lạnh",
+      "desc": "Hướng dẫn tìm nguyên liệu có sẵn trong tủ lạnh để nấu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với cách tận dụng nguyên liệu."
+    },
+    {
+      "step": "Bí quyết mì cay chuẩn vị",
+      "desc": "Sử dụng mì Koreno Jumbo vị lẩu Thái để nấu mì cay.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ và muốn thử ngay."
+    },
+    {
+      "step": "Hướng dẫn nấu mì",
+      "desc": "Hướng dẫn thời gian nấu mì và lợi ích của việc nấu đúng.",
+      "impact_level": "2",
+      "viewer_emotion": "Chú ý để nấu mì đúng cách."
+    },
+    {
+      "step": "Nêm nếm",
+      "desc": "Không cần thêm gia vị cầu kỳ vì gói mì đã đủ vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy tiện lợi và dễ dàng."
+    },
+    {
+      "step": "Thêm topping",
+      "desc": "Gợi ý thêm topping để tăng hương vị cho mì cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thêm topping yêu thích."
+    },
+    {
+      "step": "Đánh giá và so sánh",
+      "desc": "So sánh mì tự nấu với mì tiệm, đánh giá hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn và muốn thử làm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "bạn nhất định phải thử nha"
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "chua cay",
+    "ngọt đậm đà",
+    "vừa miệng",
+    "mới lạ",
+    "độc đáo"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bò mà mang đi cuộn với nấm kim châm nấu mì cay là nhức nách luôn.",
+    "Mình chỉ cần có gói mì Koreno Jumbo vị lẩu Thái chua cay này thôi.",
+    "Công thức chỉ đơn giản là một gói mì nhưng mà cái hương vị nó mang lại mới lạ và độc đáo so với các loại mì gói khác trên thị trường."
+  ],
+  "hook_content": "Mì cay là món mà mình được mọi người yêu cầu hướng dẫn rất là nhiều luôn.",
+  "hook_type": [
+    "Phản hồi bình luận"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách nấu mì cay chuẩn vị và đơn giản tại nhà bằng cách sử dụng mì Koreno Jumbo vị lẩu Thái, kết hợp với các topping tự chọn. Món ăn có vị chua cay ngọt đậm đà chuẩn vị lẩu Thái.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

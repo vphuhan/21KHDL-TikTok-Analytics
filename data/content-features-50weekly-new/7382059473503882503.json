@@ -1,0 +1,92 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người ăn chay, ăn healthy",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Nhớ lại kỷ niệm ăn đậu hũ chiên sả ớt thời sinh viên.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với món ăn quen thuộc."
+    },
+    {
+      "step": "Giá cả và nguyên liệu",
+      "desc": "Nêu bật sự rẻ và dễ tìm của nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với sự tiết kiệm."
+    },
+    {
+      "step": "Bí quyết làm đậu hũ",
+      "desc": "Chia sẻ mẹo để đậu hũ không bị khô khi chiên.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn thử công thức."
+    },
+    {
+      "step": "Ướp đậu hũ",
+      "desc": "Hướng dẫn ướp đậu hũ với gia vị đơn giản.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, dễ thực hiện."
+    },
+    {
+      "step": "Chiên đậu hũ",
+      "desc": "Chiên đậu hũ đến khi giòn hai mặt.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi lớp vỏ giòn rụm."
+    },
+    {
+      "step": "Làm sốt sả ớt",
+      "desc": "Phi thơm sả, tỏi, ớt và thêm nước sốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Kích thích vị giác."
+    },
+    {
+      "step": "Hoàn thành",
+      "desc": "Áo đều đậu hũ với sốt và thưởng thức.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn làm và ăn ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "béo ngậy",
+    "mềm",
+    "giòn",
+    "mặn mặn",
+    "ngọt ngọt",
+    "cay cay",
+    "đã đời"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đậu hũ mà mấy bà chiên sả ớt là ta nói nó ngon nhất.",
+    "Nên cái phần sả nó mặn mặn, ngọt ngọt, cay cay, vậy như cái phần đậu hũ nó béo ngậy, bên trong nó mềm mà bên ngoài nó giòn, ngon lắm mấy bạn ơi.",
+    "Mấy bạn chiên cho cái phần đậu hũ á giòn hai mặt, tại vì cái sước carô này nè, nó sẽ giòn giòn ở cái lớp ngoài nhưng mà bên trong thì nó vẫn mềm nha."
+  ],
+  "hook_content": "Hồi xưa đi học ở Thủ Đức á mà muốn tiết kiệm á là tôi cứ đi vô ăn mấy cái quán cơm chay 12.000, 10.000 á là xong bữa á mấy bà.",
+  "hook_type": [
+    "Kể chuyện",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ cách làm đậu hũ chiên sả ớt ngon, giòn, không bị khô, gợi nhớ kỷ niệm thời sinh viên tiết kiệm. Tác giả hướng dẫn chi tiết từ khâu ướp đậu hũ đến làm nước sốt, nhấn mạnh vào bí quyết để đậu hũ có lớp vỏ giòn và bên trong mềm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

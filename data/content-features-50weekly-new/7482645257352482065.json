@@ -1,0 +1,77 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu hai quán bánh roti nổi tiếng ở phố Hàng Gai.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hai quán bánh."
+    },
+    {
+      "step": "So sánh trực quan",
+      "desc": "So sánh số lượng nhân và giá cả của hai loại bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy rõ sự khác biệt về nhân bánh."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá chi tiết hương vị và chất lượng vỏ bánh.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm nhận được vị ngon của bánh."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Khẳng định King Roti ngon hơn và đáng thử hơn.",
+      "impact_level": "3",
+      "viewer_emotion": "Tin tưởng vào đánh giá cuối cùng."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Mọi người có thể lên đây mua một cái bánh của hàng King roti và roti để kiểm chứng."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "So sánh"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "ngấy",
+    "dở",
+    "thơm phức"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ai ở Hà Nội thì cũng biết là cứ đi qua con phố hàng gai thì sẽ lại thấy mùi bánh roti thơm phức từ đầu phố xuống cuối phố",
+    "Cái vỏ nó ở theo từng mảng từng mảng một luôn ấy.",
+    "Nói mẹ là đéo ngon thì còn bị ngấy ngấy cái đéo gì."
+  ],
+  "hook_content": "Và chị bán đầu tiên ở Hà Nội.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "So sánh",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video so sánh bánh roti của hai quán nổi tiếng trên phố Hàng Gai, Hà Nội, tập trung vào hương vị và chất lượng để tìm ra quán ngon hơn. Kết quả là King Roti được đánh giá cao hơn về hương vị và trải nghiệm tổng thể.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Tự nhận mình phải khắc phục sau lần ngâm tỏi bị xanh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy tội nghiệp nhưng cũng buồn cười."
+    },
+    {
+      "step": "Rút kinh nghiệm",
+      "desc": "Lần trước làm cầu kỳ vẫn thất bại nên lần này làm đơn giản.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy cũng có lý."
+    },
+    {
+      "step": "Các bước thực hiện",
+      "desc": "Thái tỏi, rửa, trụng, xả, trộn giấm, pha hỗn hợp giấm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy có vẻ dễ làm theo."
+    },
+    {
+      "step": "Hoàn thành",
+      "desc": "Cắt ớt, cho tỏi vào hũ, đổ giấm, hồi hộp chờ kết quả.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy tò mò không biết kết quả ra sao."
+    },
+    {
+      "step": "Cảm xúc",
+      "desc": "Sợ thất bại, nhưng vẫn háo hức, lo lắng.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với nỗi sợ của người làm."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Ăn bún với giấm tỏi, tự tin nhận lời khen.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy ngon miệng."
+    },
+    {
+      "step": "Lời hứa",
+      "desc": "Nếu tỏi xanh sẽ xóa clip, mong mọi người bỏ qua.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy vui vẻ."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mình sẽ xóa clip và mọi người hãy xem như mình chưa từng đăng clip này lên nhé."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "xấu hổ",
+    "ướt gối",
+    "hỷ nộ ái ố",
+    "nhục",
+    "tiếc",
+    "xui",
+    "tâm huyết",
+    "cầu kỳ",
+    "hí ha hí hửng",
+    "háo hức",
+    "đổ nát",
+    "cười",
+    "khóc",
+    "thèm ăn",
+    "từ tâm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ai đời trăm lần nấu thành công không ai biết, được lần ngâm tỏi xanh cả nước hay.",
+    "Nay ngâm hũ bé thôi, lỡ có xanh thì mình nghỉ đăng, không mất công mấy đứa nó đánh giá mình trông già mà yếu kém, trông không đẹp mà còn ngâm muối xui cna.",
+    "Này là còn hí ha hí hửng háo hức chứ mai ai biết là còn cười hay đã khóc."
+  ],
+  "hook_content": "Ai đời trăm lần nấu thành công không ai biết, được lần ngâm tỏi xanh cả nước hay, anh em cứ tát tên bêu rếu mình khắp nơi như thế này thì mình cũng phải nhanh nhanh chóng chóng khắc phục, chứ không là xấu hổ với bàn dân thiên hạ lắm.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ về việc chủ kênh rút kinh nghiệm từ lần ngâm tỏi bị xanh trước đó, lần này làm đơn giản hơn và hồi hộp chờ kết quả. Nếu tỏi vẫn xanh, chủ kênh sẽ xóa clip.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

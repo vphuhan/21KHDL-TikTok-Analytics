@@ -1,0 +1,97 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món cá ngát trứng kho tiêu và canh chua.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Mua cá ngát trứng và các nguyên liệu khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Sơ chế và ướp cá",
+      "desc": "Ướp cá với nước mắm và các gia vị khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức"
+    },
+    {
+      "step": "Nấu món cá kho",
+      "desc": "Phi hành tỏi, kho cá cho đến khi sệt lại.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ"
+    },
+    {
+      "step": "Nấu canh chua",
+      "desc": "Soạn rau và nêm nếm canh chua.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Mô tả hương vị và cảm nhận khi ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấm lòng"
+    },
+    {
+      "step": "Mời mọi người cùng ăn",
+      "desc": "Mời mọi người cùng thưởng thức món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tui nghe."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "mê",
+    "hấp dẫn",
+    "thơm phức",
+    "uy tín",
+    "đậm vị",
+    "siêu hao cơm",
+    "ngọt béo",
+    "béo bùi",
+    "nóng hổi",
+    "cay cay",
+    "đúng chuẩn",
+    "thơm bát ngát"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đêm khuya tôi lướt dạo, thấy con cá nghét ngập muội trứng nhìn hấp dẫn quá chừng, nên tôi cầm lòng không có đặng.",
+    "Cá nghét kho thì đậm vị siêu hao cơm, thịt cá thì nhiều nạc, ngọt béo, trứng cá thì béo bùi.",
+    "Ăn chung với canh chua nóng hổi, rồi chấm thêm miếng nước mắm cay cay, vàng ơi đúng chuẩn cơm miệt vườn luôn."
+  ],
+  "hook_content": "Mua trúng con cá có đùm trứng ú nu như vầy, mọi người có thấy mê không? Bữa nay cùng tôi làm mâm cơm xịn sò, chưa tới 200 cành cùng cá nghét trứng nha.",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ cách nấu món cá ngát trứng kho tiêu và canh chua, từ khâu chuẩn bị nguyên liệu đến khi hoàn thành và thưởng thức món ăn. Người nấu nhấn mạnh hương vị đậm đà, béo ngậy của món cá kho và sự kết hợp hoàn hảo với canh chua nóng hổi.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

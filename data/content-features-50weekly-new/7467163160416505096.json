@@ -1,0 +1,66 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Mời mọi người cùng ăn cơm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Người nói phát ra âm thanh trong lúc ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Nhận xét món ăn ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Cảm thán",
+      "desc": "Thể hiện sự ngạc nhiên.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Ngạc nhiên",
+      "desc": "Thể hiện sự ngạc nhiên.",
+      "impact_level": "3",
+      "viewer_emotion": "Ngạc nhiên"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "Ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [],
+  "hook_content": "Mời cả nhà ăn cơm.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang đơn giản với lời mời ăn cơm và các âm thanh, biểu cảm trong quá trình ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Mời mọi người cùng ăn cá viên sốt kem và giới thiệu tên.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Bắt đầu ăn",
+      "desc": "Bắt đầu ăn và chia sẻ cảm nhận ban đầu về cá viên.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với trải nghiệm ăn uống."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Miêu tả chi tiết về hương vị và cảm nhận về cá viên.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung về hương vị."
+    },
+    {
+      "step": "So sánh và gợi ý",
+      "desc": "So sánh với các loại viên khác và hỏi ý kiến người xem.",
+      "impact_level": "1",
+      "viewer_emotion": "Muốn chia sẻ sở thích cá nhân."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Cho thấy bên trong viên cá và kết thúc video.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hình dạng bên trong."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Bình luận",
+    "Chia sẻ công thức"
+  ],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "ngon quá",
+    "Ở trong đẹp lắm"
+  ],
+  "hook_content": "Mời mọi người ăn cá viên sốt kem cùng với mình nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video mukbang ngắn gọn về món cá viên sốt kem, tập trung vào trải nghiệm ăn và cảm nhận hương vị. Người xem được mời cùng thưởng thức và chia sẻ các loại viên yêu thích.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

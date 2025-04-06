@@ -1,0 +1,81 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Người mẹ chia sẻ về việc làm gà rán cho con trai.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp."
+    },
+    {
+      "step": "Ướp gà",
+      "desc": "Hướng dẫn ướp gà với muối, tiêu, và gia vị.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Làm pizza",
+      "desc": "Hướng dẫn làm pizza siêu tốc với thịt khói và phô mai.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Nướng bánh",
+      "desc": "Nướng pizza đến khi phô mai tan chảy.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chiên gà",
+      "desc": "Chiên gà rán sau khi đã tẩm bột.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Pha sốt",
+      "desc": "Pha ba loại sốt chấm gà rán: cay, mayonnaise, Oreo.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Cả gia đình cùng thưởng thức gà rán và pizza.",
+      "impact_level": "3",
+      "viewer_emotion": "Vui vẻ"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thích",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mình làm thêm cái pizza siêu tốc nữa, cách này đơn giản mà nhanh, ăn cũng ngon lắm luôn á mọi người.",
+    "Ăn cơm hoài thì cũng ngán, lâu lâu đổi khẩu vị cho gia đình.",
+    "1 năm 365 ngày thì hết 360 ngày là ăn tại nhà rồi, còn 5 ngày là ra tiệm ăn nha."
+  ],
+  "hook_content": "tự chứ thấy Tùng Hân chuẩn bị sửa cho em mọi người khen quá chừng luôn mà không thiệt mọi người, tình cảm lắm luôn.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm pizza siêu tốc và gà rán ba vị sốt tại nhà. Người mẹ chia sẻ cách làm đơn giản, nhanh chóng để đổi khẩu vị cho gia đình.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

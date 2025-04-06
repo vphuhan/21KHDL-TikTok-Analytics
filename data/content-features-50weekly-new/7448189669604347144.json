@@ -1,0 +1,61 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ăn là cua và cách ăn 'nhanh' đặc biệt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách ăn nhanh."
+    },
+    {
+      "step": "Thao tác ăn cua",
+      "desc": "Thực hiện các thao tác bẻ chân cua và ăn một cách nhanh chóng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với tốc độ ăn."
+    },
+    {
+      "step": "Loại bỏ phần bỏ đi",
+      "desc": "Nhấn mạnh việc loại bỏ các phần không ăn được của cua.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Ăn phần còn lại",
+      "desc": "Tiếp tục ăn các phần còn lại của cua một cách nhanh chóng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tiếp tục theo dõi cách ăn."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "ăn cua nhanh giống các pháp sư Trung Hoa",
+    "Hai cái càng này người ta không ăn, người ta bỏ đi",
+    "Cứ giả vờ là mình ăn hết bốn cái chân rồi đi"
+  ],
+  "hook_content": "ăn cua nhanh giống các pháp sư Trung Hoa.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video ghi lại quá trình ăn cua rất nhanh và gọn. Người ăn thể hiện kỹ năng bóc tách và ăn cua điêu luyện, nhanh chóng.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

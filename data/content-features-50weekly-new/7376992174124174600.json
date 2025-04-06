@@ -1,0 +1,86 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu vấn đề",
+      "desc": "Anh trai bị bệnh, cần nấu món ăn tẩm bổ để bồi dưỡng.",
+      "impact_level": "2",
+      "viewer_emotion": "Lo lắng"
+    },
+    {
+      "step": "Giới thiệu nguyên liệu",
+      "desc": "Gà, sâm 6 năm tuổi, bào ngư, bạch tuộc và các gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Chia sẻ công thức",
+      "desc": "Hầm gà với sâm và các nguyên liệu khác trong 1 tiếng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Trình bày thành phẩm",
+      "desc": "Món gà hầm sâm đã hoàn thành, sẵn sàng để thưởng thức.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức"
+    },
+    {
+      "step": "Mời ăn và cảm nhận",
+      "desc": "Mời mọi người cùng ăn và chia sẻ cảm nhận về món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấm áp"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Gia đình cùng nhau ăn gà hầm sâm và trò chuyện vui vẻ.",
+      "impact_level": "3",
+      "viewer_emotion": "Vui vẻ"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Gà hầm sâm có vị chua, mặn, ngọt và rất ngon miệng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "mệt mỏi",
+    "hết hồn",
+    "giải nhiệt",
+    "dễ thương",
+    "ngọt",
+    "ngon",
+    "đắng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Món này là người Hàn ăn nhiều nhất vào mùa hè luôn để giải nhiệt cơ thể.",
+    "Đừng ai hỏi mình là tại sao cái con bạch tuộc nó không bị teo là tại vì mình vớt nó ra rồi để gần chín mình mới cho vô lại á mọi người.",
+    "Gà hành sâm chấm nước muối tôm Tây Ninh rằng tranh."
+  ],
+  "hook_content": "Bữa nay anh Tùng Hân nhà mình nó bị tái diêm tai, hành nóng sốt quá trời luôn.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ về việc nấu món gà hầm sâm để bồi bổ cho người thân bị bệnh, đồng thời giới thiệu về các nguyên liệu và cách chế biến món ăn này. Cuối cùng, cả gia đình cùng nhau thưởng thức món ăn và chia sẻ cảm nhận.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn và nguyên liệu",
+      "desc": "Giới thiệu món mực xào sa tế và liệt kê các nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách chế biến."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Hướng dẫn sơ chế mực, rau củ để chuẩn bị cho xào.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích."
+    },
+    {
+      "step": "Luộc nguyên liệu",
+      "desc": "Luộc sơ bông cải và mực để giữ độ tươi ngon.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Áp chảo rau củ",
+      "desc": "Áp chảo rau củ cho cháy sém để tăng hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với cách làm này."
+    },
+    {
+      "step": "Xào mực với sa tế",
+      "desc": "Xào mực với sa tế tôm Chinsu cho dậy mùi thơm.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn ăn ngay."
+    },
+    {
+      "step": "Nêm nếm gia vị",
+      "desc": "Nêm nếm đường, hạt nêm, tiêu cho vừa ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến bí quyết nêm nếm."
+    },
+    {
+      "step": "Hoàn thành và thưởng thức",
+      "desc": "Thêm rau thơm và dọn món mực xào sa tế lên.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn được thưởng thức món ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mời cả nhà ăn cơm cùng anh em Tuấn nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "cay",
+    "đã"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mực xào sa tế không ra nước",
+    "vừa đổ vào thôi là nó dậy mùi thơm cay liền",
+    "món ăn này á phải cay cay mới đã"
+  ],
+  "hook_content": "Mực xào sa tế không ra nước, hôm nay Tuấn sẽ làm món này nha cả nhà.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm món mực xào sa tế không ra nước với các nguyên liệu dễ tìm và cách chế biến đơn giản, nhanh gọn. Người làm chia sẻ bí quyết để món ăn thơm ngon, cay hấp dẫn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

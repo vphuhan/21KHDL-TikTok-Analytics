@@ -1,0 +1,96 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món trứng vịt thúi và những mỹ từ về nó.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Chuẩn bị luộc trứng",
+      "desc": "Cho trứng vào túi để tránh nổ và gây mùi khi luộc.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi lo lắng"
+    },
+    {
+      "step": "Luộc trứng",
+      "desc": "Bắt đầu luộc trứng và hồi hộp chờ đợi kết quả.",
+      "impact_level": "2",
+      "viewer_emotion": "Hồi hộp"
+    },
+    {
+      "step": "Kiểm tra trứng",
+      "desc": "Mở trứng ra và thấy trứng bị nổ, có vẻ đáng sợ.",
+      "impact_level": "3",
+      "viewer_emotion": "Ghê sợ"
+    },
+    {
+      "step": "Uống nước",
+      "desc": "Uống kombucha trước khi ăn để hỗ trợ tiêu hóa.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thưởng thức trứng",
+      "desc": "Chấm trứng với muối tiêu chanh ớt và bắt đầu ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Nhận xét về vị của trứng và gợi ý tự ủ trứng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nếu mà bạn muốn xem cái hành trình đó, hành trình đó thì bạn comment ở bên dưới cho Vàng nha.",
+    "Nếu bạn nào muốn Vàng ủ trứng hột vịt thúi á thì comment cho Vàng biết nha."
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "thúi",
+    "sợ",
+    "vui vẻ",
+    "hào hứng",
+    "ngon",
+    "ghê",
+    "béo"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Thúi tàn hình, thúi tàn canh gió lạnh, thúi banh chành là những mỹ từ mà Vàng nghe được trên toptop nói về hột vịt thúi nha bạn.",
+    "Vậy là mình muốn ăn trứng hột vịt thúi là Vàng nghĩ là mình phải tự ủ nha bạn.",
+    "Trứng này nó sẽ cái vị nó thúi thum thủm thum thủm xong rồi nó sẽ có cái vị béo béo nha bạn. Cái vị thúi béo."
+  ],
+  "hook_content": "Thúi tàn hình, thúi tàn canh gió lạnh, thúi banh chành là những mỹ từ mà Vàng nghe được trên toptop nói về hột vịt thúi nha bạn.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang trứng vịt thúi, từ quá trình luộc trứng đầy sợ hãi đến thưởng thức và đánh giá hương vị. Vàng khuyến khích người xem comment nếu muốn xem video ủ trứng vịt thúi.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

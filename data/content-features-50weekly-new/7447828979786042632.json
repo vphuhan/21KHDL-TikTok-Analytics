@@ -1,0 +1,99 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu chung",
+      "desc": "Giới thiệu các loại bánh tráng và nước uống sẽ review.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Review bánh tráng 10k",
+      "desc": "Đánh giá bánh tráng mỡ hành 10k về giá cả và chất lượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Review bánh tráng 50k",
+      "desc": "Đánh giá thành phần, hương vị bánh tráng trộn đặc biệt 50k.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Review nước uống",
+      "desc": "Nhận xét trà táo chanh sả, trà thái và sữa chuối.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức"
+    },
+    {
+      "step": "So sánh các loại bánh",
+      "desc": "So sánh các loại bánh tráng về hương vị và giá trị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "Nhận xét chung",
+      "desc": "Đánh giá tổng quan về quán và chất lượng sản phẩm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giải thích trải nghiệm",
+      "desc": "Chia sẻ quan điểm cá nhân về trải nghiệm review đồ ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người đã clip của mình mà lỡ như cái clip mà có ồn quá hay là có Wysi quá thì cũng mong mọi người là bỏ qua.",
+    "Cảm ơn bye bye."
+  ],
+  "cta_type": [
+    "Chia sẻ công thức"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "dẻo",
+    "vừa",
+    "ngon",
+    "dễ thương",
+    "cay",
+    "giòn",
+    "ổn",
+    "thích",
+    "đậm đà"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trời ơi trộn gì mà trộn, quá gì trộn nhưng mà bánh tráng á có 10 cành này mình thấy rất là rẻ. Ừm Không có gì để phải chê hết trơn á.",
+    "Thật sự nha, tại vì bạn này là bán ở Gò Vấp, trong hẻm luôn. Nên là mình có thể mình không có tính vô cái phần mặt bằng, nên là với mình cái phần 50 cành này á ờ dưới cái phần 10 cành với mình là rẻ.",
+    "Mỗi khi mà mọi người mà bán đắt á là mọi người sẽ bị sơ suất một cái điều gì đó đó là cái điều mà tôi cũng thích."
+  ],
+  "hook_content": "Bánh tráng gì mà 50 cành đi. Trên mạng bánh tráng chanh chanh. Cho luôn mà 50 luôn sợ. Ngoài đời bánh tráng chanh chanh nha mọi người ơi.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review bánh tráng trộn ở một quán ăn vặt, so sánh các loại bánh tráng với giá khác nhau và đánh giá hương vị, chất lượng của từng loại, đồng thời nhận xét về đồ uống của quán.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món sò huyết sốt thái siêu to khổng lồ hấp dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Giá cả và chất lượng",
+      "desc": "Đề cập giá cả phải chăng và chất lượng sò tươi ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đây là một món ăn hấp dẫn."
+    },
+    {
+      "step": "Chế biến",
+      "desc": "Hướng dẫn sơ chế sò huyết nhanh chóng, đơn giản.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với công đoạn tách sò."
+    },
+    {
+      "step": "Công thức sốt thái",
+      "desc": "Nhấn mạnh công thức sốt thái dễ làm, ngon miệng.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử làm theo."
+    },
+    {
+      "step": "Giới thiệu đồ uống",
+      "desc": "Giới thiệu cà phê sức khỏe của ca sĩ Nhật Kim Anh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về loại cà phê này."
+    },
+    {
+      "step": "Trình bày món ăn",
+      "desc": "Miêu tả sò huyết sốt thái kết hợp cà phê hấp dẫn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn ăn ngay."
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng thưởng thức sò huyết sốt thái.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thân thiện và muốn tham gia."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tui nhen."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "đã",
+    "thèm",
+    "dai",
+    "thơm",
+    "ngọt",
+    "đậm đà",
+    "nồng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ai mà khoái ăn tái nữa thì tầm 30 giây là bao ngon.",
+    "Công thức sốt thái thì tui chia sẻ nhiều rồi, vừa đơn giản, siêu ngon, ai làm cũng được mà ăn thì ta nói chỉ có nhất nách thôi.",
+    "Ta nói cắn vô một cái nhập miệng dai, thơm mà ngọt ngất ngay luôn."
+  ],
+  "hook_content": "Hello mọi người, lại là tui, mặt bự thích nấu ăn đây.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu món sò huyết siêu to sốt thái, cách chế biến đơn giản và chia sẻ trải nghiệm hương vị thơm ngon, đậm đà. Đồng thời giới thiệu thêm sản phẩm cà phê sức khỏe.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

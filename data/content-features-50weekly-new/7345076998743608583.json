@@ -1,0 +1,48 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu combo",
+      "desc": "Giới thiệu combo 60k có những món gì ở cửa hàng tiện lợi",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về những món có thể mua"
+    },
+    {
+      "step": "Liệt kê giá",
+      "desc": "Liệt kê giá từng món ăn có trong combo",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin về giá cả rõ ràng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "60.000 ăn được gì?",
+    "Mi sao 16.000, trứng 9.000, xinắc 9.000, trà đào 12.000, ly đá 2.000, tôm viên 9.000"
+  ],
+  "hook_content": "60.000 ăn được gì?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Liệt kê"
+  ],
+  "summarization": "Video giới thiệu combo 60k mua được ở cửa hàng tiện lợi gồm mì xào, trứng, snack, trà đào, ly đá, tôm viên và giá của từng món.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

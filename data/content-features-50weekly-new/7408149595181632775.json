@@ -1,0 +1,87 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu thử thách",
+      "desc": "Hai người tham gia thử thách mukbang mâm đồ cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ cay của món ăn."
+    },
+    {
+      "step": "Quảng cáo sản phẩm",
+      "desc": "Giới thiệu địa điểm mua đồ ăn cay trên GrabFood.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, mang tính chất thông tin."
+    },
+    {
+      "step": "Ăn và đánh giá",
+      "desc": "Cả hai bắt đầu ăn và liên tục bày tỏ cảm xúc.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy món ăn rất cay nhưng ngon."
+    },
+    {
+      "step": "Uống Sprite",
+      "desc": "Uống Sprite để giảm độ cay và cảm nhận sự sảng khoái.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự kết hợp hợp lý giữa đồ cay và Sprite."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Thông báo đã no và tạm biệt người xem.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Kêu gọi hành động",
+      "desc": "Nhắc nhở đặt đồ ăn trên GrabFood để nhận ưu đãi.",
+      "impact_level": "1",
+      "viewer_emotion": "Không có nhiều cảm xúc."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người đừng quên lên ngay GrabFood đặt đồ ăn trong cái tuyển tập ăn cay có Sprite để được tặng miễn phí một lon Sprite."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "cay",
+    "ngon",
+    "đã",
+    "sảng khoái"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cay nha mọi người, nhưng mà ngon nhở.",
+    "Ăn cay như này mà uống Sprite là ngon không phải bàn.",
+    "Cay vãi nhờ."
+  ],
+  "hook_content": "Hôm nay không nấu ăn, hôm nay hai đứa mình sẽ thử thách múc bang một cái mâm đồ cay ê hề này.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video ghi lại cảnh hai người mukbang mâm đồ cay và uống Sprite để giải nhiệt. Họ vừa ăn vừa trò chuyện, thể hiện cảm xúc cay nhưng vẫn thấy ngon miệng và kêu gọi người xem đặt đồ ăn trên GrabFood để nhận ưu đãi.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

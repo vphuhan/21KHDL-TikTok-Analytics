@@ -1,0 +1,86 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món mì trứng xào tôm và nguyên liệu đơn giản.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chia sẻ kinh nghiệm mua sắm",
+      "desc": "Chia sẻ thói quen mua nguyên liệu theo cảm hứng ở chợ.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy bình thường."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Hướng dẫn ướp tôm và sơ chế rau củ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích."
+    },
+    {
+      "step": "Pha sốt",
+      "desc": "Hướng dẫn pha sốt mì xào, gợi ý thay thế nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy tiện lợi."
+    },
+    {
+      "step": "Luộc mì",
+      "desc": "Hướng dẫn luộc sơ mì trứng.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy bình thường."
+    },
+    {
+      "step": "Xào nấu",
+      "desc": "Hướng dẫn xào tôm, rau củ và mì.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thèm ăn."
+    },
+    {
+      "step": "Hoàn thành và thưởng thức",
+      "desc": "Hoàn thành món ăn, thêm hành lá và thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn làm theo ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Không tin á thì mọi người làm thử đi."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thích"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mì trứng mà mọi người đem đi xào theo cách này á, thì ta nói, ngon khỏi phải viết luôn.",
+    "Đảm bảo là ai cũng thích luôn á.",
+    "Đâu có khác gì á cái món mì áp chảo trong nhà hàng đâu, đúng không?"
+  ],
+  "hook_content": "Mì trứng mà mọi người đem đi xào theo cách này á, thì ta nói, ngon khỏi phải viết luôn.",
+  "hook_type": [
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm món mì trứng xào tôm đơn giản, nhanh chóng với các nguyên liệu dễ kiếm. Món ăn này phù hợp để làm trong các bữa tiệc nhỏ tại nhà.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

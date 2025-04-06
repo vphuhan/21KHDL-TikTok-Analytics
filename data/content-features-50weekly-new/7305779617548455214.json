@@ -1,0 +1,91 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món lẩu lòng ăn kèm bánh hỏi với giá 1,8 triệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn đắt tiền."
+    },
+    {
+      "step": "Giới thiệu quán ăn",
+      "desc": "Giới thiệu quán Lẩu Lòng Cô Bé nổi tiếng ở Sài Gòn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin cơ bản."
+    },
+    {
+      "step": "Đánh giá lòng xe điếu",
+      "desc": "Nhấn mạnh lòng xe điếu có giá trị cao và độ hấp dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng, muốn ăn thử."
+    },
+    {
+      "step": "Trải nghiệm món ăn",
+      "desc": "Miêu tả chi tiết hương vị và cảm nhận khi ăn lòng xe điếu.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy ngon miệng theo người review."
+    },
+    {
+      "step": "Đề xuất số lượng người ăn",
+      "desc": "Đề xuất số lượng người ăn phù hợp cho một nồi lẩu.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Tiếp tục đánh giá các phần khác của lòng và nước lẩu.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn biết thêm về hương vị."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Cảm ơn và hẹn gặp lại ở video tiếp theo.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Hẹn gặp bạn ở video tiếp theo nha."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "hấp dẫn",
+    "xuất sắc",
+    "giòn",
+    "thích",
+    "ngon",
+    "ngọt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nhìn cái lòng xe điếu bên đây xuất sắc quá.",
+    "Cái lòng xe điếu này nó vừa giòn. Mà nó vừa ngon.",
+    "Cái phần giò này là đặc sản ở bên đây luôn nè cả nhà."
+  ],
+  "hook_content": "Bây giờ tụi mình ăn nha. Bữa nay sẽ có là lẩu lòng ăn chung với lại bánh hỏi nha cả nhà.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video mukbang giới thiệu và ăn lẩu lòng bánh hỏi tại quán Lẩu Lòng Cô Bé, tập trung vào trải nghiệm hương vị và đặc điểm của món ăn, đặc biệt là lòng xe điếu.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

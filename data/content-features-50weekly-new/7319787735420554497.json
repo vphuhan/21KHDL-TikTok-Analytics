@@ -1,0 +1,86 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món sụn gà lắc phô mai, sốt me tự làm tại nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chia sẻ kinh nghiệm mua sụn gà",
+      "desc": "Chia sẻ kinh nghiệm mua sụn gà ngon, giá rẻ ở chợ.",
+      "impact_level": "2",
+      "viewer_emotion": "Ghi nhớ thông tin hữu ích."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Hướng dẫn sơ chế sụn gà: rửa muối, luộc với gừng.",
+      "impact_level": "1",
+      "viewer_emotion": "Chú ý các bước thực hiện."
+    },
+    {
+      "step": "Pha bột chiên giòn",
+      "desc": "Hướng dẫn pha bột chiên giòn: nước, muối, ớt bột.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan sát tỉ lệ pha bột."
+    },
+    {
+      "step": "Chiên sụn gà",
+      "desc": "Hướng dẫn chiên sụn gà: chiên 1 hoặc 2 lần tùy ý.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món ăn."
+    },
+    {
+      "step": "Lắc phô mai",
+      "desc": "Hướng dẫn lắc sụn gà với bột phô mai.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi cách làm đơn giản."
+    },
+    {
+      "step": "Thưởng thức và nhận xét",
+      "desc": "Thưởng thức món ăn và khen ngon, nhiều collagen.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử làm ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "phê",
+    "đỉnh của chóp",
+    "bén",
+    "nhiều collagen"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "mấy lần ra ngoài ăn kêu cái dĩa sụn gà 45 50.000 mà được năm bảy miếng chứ mấy.",
+    "Tôi chỉ cho mấy bà làm cái sụn gà này mấy bà ăn phê luôn sụn gà lắc phô mai sụn gà sốt me.",
+    "Cái nồi này hơi bị bén mà hơi bị nhiều collagen đó nha."
+  ],
+  "hook_content": "mấy lần ra ngoài ăn kêu cái dĩa sụn gà 45 50.000 mà được năm bảy miếng chứ mấy.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm món sụn gà lắc phô mai, sốt me đơn giản tại nhà, từ khâu chuẩn bị nguyên liệu đến chế biến và thưởng thức. Người làm chia sẻ kinh nghiệm mua sụn gà ngon, giá rẻ và các bước làm chi tiết để món ăn thêm phần hấp dẫn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

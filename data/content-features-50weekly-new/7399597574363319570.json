@@ -1,0 +1,81 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu các món ăn",
+      "desc": "Giới thiệu các món ăn vặt như trứng gà bắp xô, đùi gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy tò mò về các món ăn."
+    },
+    {
+      "step": "Đố vui về món ăn",
+      "desc": "Đố tên các món ăn như đùi gà rong biển, bim bim mái tôn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với trò đố vui."
+    },
+    {
+      "step": "Giới thiệu combo quà tặng",
+      "desc": "Giới thiệu combo khô gà khô bò và quà tặng kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hấp dẫn bởi quà tặng."
+    },
+    {
+      "step": "Thưởng thức và đánh giá",
+      "desc": "Ăn thử và đánh giá các món khô gà, nho hóa thạch.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn được ăn thử các món."
+    },
+    {
+      "step": "Kết thúc bằng câu đố",
+      "desc": "Đố người xem ăn hết dĩa đồ ăn vặt.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy bình thường."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bậy thèm ăn vặt thì cứ ăn cùng bà Tý thôi."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "hấp dẫn",
+    "dính",
+    "ghiền",
+    "thèm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đang tới bụng cầm cái đùi gà vàng ươm này là hết bài.",
+    "Ngồi ôm hộp này nhai nhai là hết bài.",
+    "Mấy nay trời mưa ngồi nhà ôm mấy hũ snack ăn vặt này là hết bài."
+  ],
+  "hook_content": "Đang tới bụng tự nhiên nhỏ em lôi ra đống món, này là món gì?",
+  "hook_type": [
+    "Gây tò mò",
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video giới thiệu và review các món ăn vặt hấp dẫn như khô gà, khô bò, đùi gà và nho hóa thạch, đồng thời lồng ghép các câu đố vui nhộn để tăng tính tương tác với người xem.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

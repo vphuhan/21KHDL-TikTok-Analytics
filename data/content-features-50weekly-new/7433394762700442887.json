@@ -1,0 +1,81 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu tôm",
+      "desc": "Giới thiệu loại tôm sú nữ hoàng, gợi nhớ kỷ niệm và số lượng mua.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về loại tôm đặc biệt này."
+    },
+    {
+      "step": "Chuẩn bị luộc tôm",
+      "desc": "Mô tả khó khăn khi mở bao bì và cách luộc tôm đặc biệt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với cách luộc tôm lạ."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu sản phẩm hỗ trợ sức khỏe, tốt cho tim mạch.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích cho sức khỏe."
+    },
+    {
+      "step": "Thưởng thức tôm",
+      "desc": "Mô tả hương vị tôm, kết hợp cùng nước chấm và rau răm.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng hương vị tôm."
+    },
+    {
+      "step": "Cảm nhận",
+      "desc": "Nhấn mạnh độ chắc thịt, gạch tôm và gợi ý ăn kèm mì.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử tôm với mì."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ấn tượng",
+    "ngon",
+    "thơm",
+    "dễ uống",
+    "dẻ",
+    "chắc",
+    "ngọt",
+    "dai",
+    "sần sật",
+    "thơm thơm",
+    "hết bài",
+    "no",
+    "bực bực"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Tôm vừa dai mà còn vừa chắc thịt ha, rồi chấm vô cái chén muối tiêu sữa nữa thì còn gì bằng.",
+    "Cái độ chắc mà nó dai tới nỗi là kéo ra coi như là bực bực luôn đó."
+  ],
+  "hook_content": "Đi siêu thị mấy tháng trời thì hôm nay mình mới thấy có cái loại tôm này lại.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món tôm sú nữ hoàng, chia sẻ trải nghiệm mua và thưởng thức. Người nói nhấn mạnh độ tươi ngon, thịt chắc và hương vị đặc biệt của tôm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu các món ăn trong bữa tối: thịt luộc, mắm tép, chân gà xào cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Luộc thịt",
+      "desc": "Chia sẻ cách luộc thịt với hành tây, hành baro, ớt, tỏi, tương đậu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Pha mắm tép",
+      "desc": "Hướng dẫn pha mắm tép với hành tây, ớt xanh, ớt đỏ, đường, bột ngọt.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Xào chân gà",
+      "desc": "Hướng dẫn xào chân gà cay, gợi ý dùng để nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Chuẩn bị",
+      "desc": "Cắt thịt luộc, bỏ mỡ, giới thiệu kim chi nhà làm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Mời mọi người ăn cơm, ăn thịt luộc với mắm tép và chân gà xào.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Nhận xét về hương vị món ăn, đặc biệt là chân gà xào cay.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "cay",
+    "thơm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Luộc thử đi mọi người, ăn thơm ngon lắm.",
+    "Cái gia vị này không xào mà mình đốt than đem đi nướng cũng ngon dữ lắm luôn á mọi người.",
+    "Ăn món này là năng xê miệng luôn."
+  ],
+  "hook_content": "Hôm nay mình không có đi chợ, tại trời lạnh quá cũng làm biếng á mọi người.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ bữa cơm gia đình với các món thịt luộc, mắm tép và chân gà xào cay, đồng thời hướng dẫn cách chế biến các món ăn này một cách đơn giản, đậm chất gia đình.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

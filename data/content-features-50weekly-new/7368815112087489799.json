@@ -1,0 +1,91 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Chia sẻ bí quyết kết hợp món ăn ngon bất ngờ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về bí quyết."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê các nguyên liệu cần thiết để luộc thịt và trộn gỏi.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Hướng dẫn sơ chế và cắt các loại rau củ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Luộc thịt",
+      "desc": "Chia sẻ bí quyết luộc thịt ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị."
+    },
+    {
+      "step": "Trộn gỏi",
+      "desc": "Hướng dẫn trộn gỏi mực chua ngọt.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú với cách trộn gỏi."
+    },
+    {
+      "step": "Pha mắm tép",
+      "desc": "Hướng dẫn pha mắm tép để ăn kèm thịt luộc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Mời mọi người cùng ăn và cảm nhận món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn ăn ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mời mọi người ăn chung với cả nhà của bọn mình nha"
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "chấn động",
+    "ngọt ngọt",
+    "cay cay",
+    "thơm",
+    "ngon nhức nách"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "nghe vô tình lụm được bí kiếp kết hợp hai cái món này chơi chơi thôi mà ai ngờ nó ngon chấn động luôn",
+    "bí quyết luộc thịt ngon như người hàng là không có gì khó luôn á",
+    "pha đơn giản vậy thôi chứ chút nữa mà kẹp điếu miếng thịt cuốn thêm chút rau nữa là ngon nhức nách luôn"
+  ],
+  "hook_content": "nghe vô tình lụm được bí kiếp kết hợp hai cái món này chơi chơi thôi mà ai ngờ nó ngon chấn động luôn.",
+  "hook_type": [
+    "Gây tò mò",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món mực trộn tương ớt chua ngọt ăn kèm thịt luộc mắm tép, chia sẻ các bí quyết để món ăn thêm ngon và hấp dẫn. Người nấu mời mọi người cùng thưởng thức.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

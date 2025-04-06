@@ -1,0 +1,82 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Được em gửi cho thùng rau củ, có rất nhiều măng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về số lượng măng lớn."
+    },
+    {
+      "step": "Xử lý măng",
+      "desc": "Lột vỏ măng, gọt vỏ ngoài để kiểm tra độ non.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy quá trình lột măng công phu."
+    },
+    {
+      "step": "Sơ chế và luộc",
+      "desc": "Ngâm măng với nước muối, luộc với muối.",
+      "impact_level": "1",
+      "viewer_emotion": "Nắm được cách sơ chế măng an toàn."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Ăn măng luộc chấm muối ớt và review hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng món măng luộc hấp dẫn."
+    },
+    {
+      "step": "Giới thiệu vòng trầm",
+      "desc": "Giới thiệu vòng trầm phong thủy và công dụng.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin thêm về vòng trầm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Còn cái chiếc vòng trầm này nếu ai cần thì mọi người nhắn cho chị Thanh Nhàn nha."
+  ],
+  "cta_type": [
+    "Truy cập trang cá nhân"
+  ],
+  "emotion_keywords": [
+    "ngọt",
+    "giòn",
+    "cay",
+    "ngon",
+    "dính",
+    "thèm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Măng này thì cái ngọn của nó mềm giòn ngọt kinh khủng.",
+    "Măng này được cái là nó chỉ giòn ngọt mà không có bị đắng một miếng nào hết nha.",
+    "Cái món này kiểu như là ăn hoài được hoài mà không có biết chán luôn á tơ ơi."
+  ],
+  "hook_content": "Hôm nay thì mình được đứa em ở dưới Nago gửi lên cho nguyên một cái thùng rau củ.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ về trải nghiệm chế biến và thưởng thức món măng luộc chấm muối ớt do em gửi từ Nago. Người làm video cũng giới thiệu về chiếc vòng trầm phong thủy mà mình đang đeo.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

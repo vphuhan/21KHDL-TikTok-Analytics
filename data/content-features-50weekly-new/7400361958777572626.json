@@ -1,0 +1,65 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người ăn chay, ăn healthy"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món chay làm từ đậu hũ và nấm đùi gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món chay này."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Nêu bật đậu hũ và nấm đùi gà, chiên vàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức muốn thử làm."
+    },
+    {
+      "step": "Xào nguyên liệu",
+      "desc": "Phi tỏi, nêm gia vị chay, đảo đều nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ hương vị món ăn."
+    },
+    {
+      "step": "Hoàn thành món ăn",
+      "desc": "Thêm húng quế và thưởng thức món đậu hũ.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng muốn ăn ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "ngọt thắm",
+    "đậm đà"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Chỉ với một cái chảo và 10 phút là mình đã có ngay một món chay siêu ngon này rồi.",
+    "Nêm nếm món chay á thì siêu đơn giản, nhưng mà đảm bảo cho mọi người á là vẫn đậm đà.",
+    "Tính ra là ăn chay á không thấy gì khó luôn á."
+  ],
+  "hook_content": "Chỉ với một cái chảo và 10 phút là mình đã có ngay một món chay siêu ngon này rồi.",
+  "hook_type": [
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn nấu món chay đậu hũ xào húng quế đơn giản, nhanh chóng chỉ với 10 phút và một cái chảo. Món ăn này lấy cảm hứng từ món thịt heo xào húng quế Thái Lan, thay thế bằng đậu hũ và nấm đùi gà, nêm nếm gia vị chay đậm đà.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

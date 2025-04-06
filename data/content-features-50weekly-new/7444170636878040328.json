@@ -1,0 +1,94 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu về tiệm cơm văn phòng quen thuộc và các tiêu chí.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán cơm thường xuyên được ghé thăm."
+    },
+    {
+      "step": "Review món ăn 1",
+      "desc": "Nhận xét món cơm trứng phủ và gợi ý cách ăn ngon hơn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món cơm trứng và tò mò về bí quyết."
+    },
+    {
+      "step": "Review món ăn 2",
+      "desc": "Giới thiệu cơm cà ri gà chiên, điểm cộng canh và đồ uống.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử cơm cà ri gà chiên vì có đủ món kèm theo."
+    },
+    {
+      "step": "Review món ăn 3",
+      "desc": "Nhấn mạnh món cơm thịt heo nướng khói trứng onsen yêu thích.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với sự kết hợp béo ngậy và thơm khói."
+    },
+    {
+      "step": "Review món ăn 4",
+      "desc": "Thử gà má đùi sốt và nhận xét về hương vị kết nối.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị 'kết nối' của món gà."
+    },
+    {
+      "step": "Tổng kết",
+      "desc": "Khẳng định độ yêu thích và gợi ý ưu đãi khi đặt hàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá và muốn tìm hiểu ưu đãi."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Có cả free ship trong bán kính 3 cây nữa, mọi người tham khảo cách đặt hàng mới này cho những bữa trưa bữa tối không biết ăn gì nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "vừa",
+    "thơm",
+    "ngập răng",
+    "mềm",
+    "ẩm",
+    "u mê",
+    "béo ngậy",
+    "ngon",
+    "chua chua ngọt ngọt",
+    "thơm thơm",
+    "giải ngấy",
+    "mềm",
+    "kết nối",
+    "ngon bổ rẻ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái cà ri bên này nó thơm kiểu đúng mùi cà ri Nhật ấy mọi người ạ.",
+    "Và cái vị béo ngậy của trứng onsen nó lại rất hợp với cái mùi nướng khói của thịt heo.",
+    "Cho nước sốt vào ăn thấy có kết nối hẳn."
+  ],
+  "hook_content": "Đây là một cái tiệm cơm văn phòng mà mình gọi nhiều nhất từ trước đến nay.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video review tiệm cơm văn phòng Omu Ome với các món ăn quen thuộc như cơm trứng phủ, cơm cà ri gà chiên, cơm thịt heo nướng khói trứng onsen, đặc biệt nhấn mạnh trải nghiệm cá nhân và gợi ý cách đặt hàng ưu đãi.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

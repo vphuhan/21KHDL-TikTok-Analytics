@@ -1,0 +1,75 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu trái lạ",
+      "desc": "Tình cờ thấy trái lạ màu vàng giống mít, được cho thoải mái.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về loại quả lạ."
+    },
+    {
+      "step": "Miêu tả chi tiết",
+      "desc": "Trái có lớp mũ cà rích, hạt giống ca cao, mùi thơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung về hình dáng và mùi vị."
+    },
+    {
+      "step": "Ăn thử và cảm nhận",
+      "desc": "Ăn thử thấy chua và chát, nghi ngờ cách ăn hoặc độ chín.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm giác thất vọng và tò mò."
+    },
+    {
+      "step": "Ăn món khác",
+      "desc": "Chuyển sang ăn xí quách hầm nhừ, khen ngon và giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món xí quách."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mọi người ai biết cái trái này tên gì thì có gì nói cho mình biết với ha"
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Đặt câu hỏi"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "chua",
+    "chát",
+    "ngon",
+    "giòn",
+    "đã"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "cái màu vàng của nó đẹp y chang như là trái mít vậy đó",
+    "ta nói nó vừa chua mà nó vừa chát mà lé con mắt luôn á",
+    "ăn trúng mấy cái gân mỡ ta nói nó giòn mà sần sực ăn nó đã dữ lắm luôn kìa"
+  ],
+  "hook_content": "hôm nay trên đường đi chợ thì lúc chạy ngang cái nhà của người Nhật thì mình thấy có cái trái này, nhìn xa xa thì mình cũng không biết trái gì mà lại gần thì cũng không biết luôn",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video kể về trải nghiệm thử một loại trái cây lạ lẫm được cho miễn phí, nhưng hóa ra lại rất chua và chát. Sau đó, người này chuyển sang ăn món xí quách hầm và cảm thấy ngon miệng.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

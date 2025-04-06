@@ -1,0 +1,43 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món cơm chiều nhà Yến với các món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn được giới thiệu."
+    },
+    {
+      "step": "Nhạc nền",
+      "desc": "Sử dụng nhạc nền mang âm hưởng dân ca.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy gần gũi, thân quen."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [],
+  "has_cta": "false",
+  "highlight_phrases": [],
+  "hook_content": "nhớ chiếc xuồng xưa năm nào trên bến Tiền.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu bữa cơm chiều nhà Yến với các món ăn đồng quê cùng nhạc nền dân ca.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món lẩu hột vịt lộn và nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê các nguyên liệu cần thiết cho món lẩu.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Sơ chế",
+      "desc": "Hướng dẫn sơ chế nguyên liệu và chuẩn bị nước lẩu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Hoàn thiện",
+      "desc": "Trình bày và thêm rau răm vào lẩu.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Thưởng thức lẩu với muối tiêu và chia sẻ cảm nhận.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấm áp"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Cả nhà có muốn mua muối tiêu hay muối ớt, muối tôm gì thì liên hệ với thích muối nha.",
+    "Xin mời cả nhà cùng ăn với Tứng."
+  ],
+  "cta_type": [
+    "Ăn cùng",
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "cay",
+    "rất hợp",
+    "không còn gì bằng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Hột vịt lộn mà đem đi nấu lẩu rồi chấm với muối tiêu.",
+    "Đang nấu lẩu mà còn gặp trời mưa nữa, đúng là thời tiết á thật biết chiều lòng người mà.",
+    "Hột vịt lộn thì có tính hàn, còn rau răm có tính ấm, nên khi ăn á kết hợp hai thứ này vào cơ thể giúp cân bằng âm dương, tránh lạnh bụng đầy hơi."
+  ],
+  "hook_content": "Hột vịt lộn mà đem đi nấu lẩu rồi chấm với muối tiêu.",
+  "hook_type": [
+    "Gây tò mò",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn nấu món lẩu hột vịt lộn đơn giản tại nhà, chia sẻ trải nghiệm ăn kèm với muối tiêu và rau răm để cân bằng hương vị và sức khỏe.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

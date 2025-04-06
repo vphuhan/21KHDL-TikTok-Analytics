@@ -1,0 +1,90 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món chè bắp nấu kiểu mới với hương vị đặc biệt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của món chè bắp."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Hướng dẫn ép nước bắp, chuẩn bị bột năng, bột nếp.",
+      "impact_level": "2",
+      "viewer_emotion": "Lưu ý về các bước chuẩn bị nguyên liệu."
+    },
+    {
+      "step": "Nhồi bột",
+      "desc": "Đun nước ép bắp, nhồi với bột năng và bột nếp.",
+      "impact_level": "2",
+      "viewer_emotion": "Chú ý đến độ nóng của hỗn hợp bột."
+    },
+    {
+      "step": "Tạo hình",
+      "desc": "Viên hoặc tạo sợi bột theo sở thích cá nhân.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung về hình dạng của món chè."
+    },
+    {
+      "step": "Luộc bột",
+      "desc": "Luộc bột trong nước sôi đến khi chín và nổi lên.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan sát quá trình bột chín trong nước."
+    },
+    {
+      "step": "Nấu nước chè",
+      "desc": "Luộc lõi ngô, lá nếp, thêm bột báng và đường.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm nhận hương vị ngọt ngào của nước chè."
+    },
+    {
+      "step": "Hoàn thiện",
+      "desc": "Cho bánh ngô, bột báng vào, thêm bột năng để tạo độ đặc.",
+      "impact_level": "3",
+      "viewer_emotion": "Mong muốn được thưởng thức món chè."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "dã man",
+    "thích",
+    "ngon cực kỳ",
+    "ngọt",
+    "thơm",
+    "ngon hết sẩy"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "chè bắp nấu kiểu này nó ngon dã man luôn các bác ơi",
+    "Bác nào mà thích ăn chè bắp, lại thích dẻo dẻo dài dài thì nhất định phải làm nha, ngon cực kỳ luôn ý",
+    "Chè này các bác có thể chan nước cốt dừa vào, ăn nóng hay là thêm đá, ăn lạnh đều ngon hết sẩy luôn."
+  ],
+  "hook_content": "ơi, chè bắp nấu kiểu này nó ngon dã man luôn các bác ơi.",
+  "hook_type": [
+    "Cho thấy kết quả trước",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn nấu chè bắp kiểu mới với nguyên liệu chính là bắp ép lấy nước cốt, bột năng, bột nếp, tạo nên món chè dẻo ngon. Món chè có thể ăn nóng hoặc lạnh tùy thích.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu món ăn xúc xích phô mai và bắt đầu ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị."
+    },
+    {
+      "step": "Ăn và cảm nhận",
+      "desc": "Ăn xúc xích và thể hiện cảm xúc khi phô mai tan chảy.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Chấm sốt",
+      "desc": "Chấm xúc xích với sốt phô mai sữa và tiếp tục ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự kết hợp."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Uống nước và tiếp tục khen ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn thử."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "Ngon",
+    "Wow",
+    "Ngon quá"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Quá trời phô mai luôn",
+    "Ngon đấy",
+    "Này chấm với sốt phô mai sữa nha"
+  ],
+  "hook_content": "Xin chào tất cả các bạn, hôm nay mình sẽ ăn xúc xích phô mai nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review món xúc xích phô mai, tập trung vào trải nghiệm ăn và cảm nhận hương vị, đặc biệt là phô mai tan chảy và sốt phô mai sữa. Người xem được mời thưởng thức món ăn một cách trực quan.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

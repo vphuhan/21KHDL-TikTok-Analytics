@@ -1,0 +1,71 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Người bán hàng giới thiệu kẹo mạch nha và cách ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm mới."
+    },
+    {
+      "step": "Trải nghiệm màu sắc",
+      "desc": "So sánh màu sắc kẹo với đèn giao thông.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với sự liên tưởng."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nếm thử và mô tả hương vị của từng màu kẹo.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử các vị khác nhau."
+    },
+    {
+      "step": "Đánh giá chất lượng",
+      "desc": "Nhận xét về độ dính và trạng thái của kẹo.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bạn đã từng ăn qua kẹo này chưa?"
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Đặt câu hỏi"
+  ],
+  "emotion_keywords": [
+    "quen quen",
+    "thơm",
+    "dễ dàng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ủa sao kẹo nó dính hết vào cái bao thế này nhỉ?",
+    "Y chang cái đèn giao thông luôn."
+  ],
+  "hook_content": "Đi mua kẹo mạch nha mà cô nói cái này cũng mạch nha nè con.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review kẹo mạch nha với nhiều màu sắc và hương vị khác nhau. Người bán hàng thử nghiệm và đưa ra đánh giá về hương vị, độ dính và trạng thái của kẹo.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu tiết canh và thể hiện sự thèm thuồng, hấp dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị"
+    },
+    {
+      "step": "Mời uống rượu",
+      "desc": "Mời người xem uống rượu, nhấn mạnh độ mạnh của rượu.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Uống và cảm nhận",
+      "desc": "Uống rượu và chia sẻ cảm nhận về hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Chúc mừng",
+      "desc": "Mời mọi người cùng uống và chúc mừng.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy được mời"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "đã",
+    "mát"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đọng luôn nha anh em.",
+    "Wow, đã quá.",
+    "Uống rồi nó mát lắm anh em."
+  ],
+  "hook_content": "Đọng luôn nha anh em.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh một người đàn ông ăn tiết canh và uống rượu, mời mọi người cùng thưởng thức và chia sẻ cảm nhận về món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

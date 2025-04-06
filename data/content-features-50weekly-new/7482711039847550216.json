@@ -1,0 +1,92 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu ưu đãi buffet",
+      "desc": "Giới thiệu về buffet sushi băng chuyền và các món ăn kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự đa dạng của buffet."
+    },
+    {
+      "step": "So sánh giá",
+      "desc": "So sánh giá buffet và giá gọi món lẻ.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến sự khác biệt về giá."
+    },
+    {
+      "step": "Miêu tả trải nghiệm",
+      "desc": "Miêu tả trải nghiệm ăn sushi không cần chờ đợi, thoải mái lựa chọn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú với sự tiện lợi."
+    },
+    {
+      "step": "Đánh giá không gian",
+      "desc": "Đánh giá không gian quán và quy trình chế biến món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với không gian và quy trình."
+    },
+    {
+      "step": "Thông tin chi tiết",
+      "desc": "Thông tin chi tiết về các hình thức gọi món và ưu đãi.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích với thông tin."
+    },
+    {
+      "step": "Đánh giá chất lượng",
+      "desc": "Đánh giá chất lượng món ăn và sự chỉn chu trong chế biến.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử."
+    },
+    {
+      "step": "Nhấn mạnh trải nghiệm",
+      "desc": "Nhấn mạnh về trải nghiệm và giá trị mà quán ăn mang lại.",
+      "impact_level": "3",
+      "viewer_emotion": "Quyết định sẽ đến trải nghiệm."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nếu không muốn dùng buffet thì bọn em sẽ tính đồng giá là 26.666 đồng một đĩa ạ.",
+    "Ngoài ra thêm 26.666 đồng vào người còn được sử dụng thêm buffet kem hay là buffet trà matcha nữa."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "đã cái nư",
+    "thỏa thích",
+    "ngon",
+    "béo ngậy",
+    "tươi"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "chưa bao giờ mình đi ăn sushi đã đời, không cần phải chờ đợi, thích gì lấy đấy mà chỉ có đúng 239.000đ một người như thế này luôn.",
+    "Con xét sushi băng chuyền mới tinh của nhà Golden Gate này chính ra mình thấy rất thích hợp cho những ai là fan của sushi nhá.",
+    "Mọi người muốn ăn thêm sashimi cá hồi này, hay đặc biệt là ba loại sushi khổng lồ là lươn này, cá hồi và gunkan cá hồi trứng cua, đúng nghĩa là size 3XL luôn ấy"
+  ],
+  "hook_content": "Đếm đếm cái gì đấy? Đấy mà còn tính tiền.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review buffet sushi băng chuyền Sushi X, giới thiệu không gian, các món ăn đa dạng, tươi ngon và hình thức buffet hoặc gọi món lẻ với nhiều ưu đãi hấp dẫn, đặc biệt phù hợp cho fan sushi muốn ăn thỏa thích.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

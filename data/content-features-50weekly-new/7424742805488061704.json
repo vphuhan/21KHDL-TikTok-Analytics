@@ -1,0 +1,90 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu bánh bông lan làm bằng nồi cơm điện rất ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Hướng dẫn chuẩn bị nguyên liệu và tách lòng trắng, đỏ trứng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Trộn hỗn hợp",
+      "desc": "Hướng dẫn trộn hỗn hợp A (lòng đỏ) và đánh bông lòng trắng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "Trộn bột",
+      "desc": "Hướng dẫn trộn bột nhẹ nhàng để bánh không bị chai.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Nướng bánh",
+      "desc": "Đổ hỗn hợp vào nồi cơm điện và bật chế độ nấu.",
+      "impact_level": "1",
+      "viewer_emotion": "Háo hức"
+    },
+    {
+      "step": "Chăm sóc bản thân",
+      "desc": "Đi tắm và giới thiệu sản phẩm dưỡng trắng da.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thưởng thức bánh",
+      "desc": "Bánh chín, bông xốp và ngon như ngoài hàng.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ai mà muốn làm bánh tặng mẹ hoặc là bạn gái ấy mà nhà không có lò nướng, không có nồi chiên không dầu, thì làm bằng thử nồi cơm điện đi."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "mềm mịn",
+    "tan trong miệng",
+    "bông mềm",
+    "tơi xốp"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mình không nghĩ là bánh bông lan bằng nồi cơm điện nó lại ngon như thế, ngon không kém gì so với lò nướng với cả nồi chiên không dầu đâu.",
+    "Cắn vào một miếng thôi mà cái bánh nó kiểu mềm mịn tan trong miệng.",
+    "Bánh nó bông mềm xong rồi kiểu tơi xốp cơ."
+  ],
+  "hook_content": "Nói chung là sau khi mình làm thành công được bánh bông lan bằng nồi cơm điện thì cái nồi nhà mình chắc chắn sẽ không chỉ dùng để nấu cơm nữa rồi.",
+  "hook_type": [
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm bánh bông lan bằng nồi cơm điện, chia sẻ công thức và trải nghiệm thành công ngay từ lần đầu. Bánh làm ra ngon, mềm mịn không kém gì lò nướng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

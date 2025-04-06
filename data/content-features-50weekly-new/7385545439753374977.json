@@ -1,0 +1,94 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món gà hấp mắm nhĩ và lý do lựa chọn món này.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Chọn nguyên liệu",
+      "desc": "Chia sẻ kinh nghiệm chọn gà tre hoặc gà đất để món ăn ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào kinh nghiệm của người nấu."
+    },
+    {
+      "step": "Bí quyết nấu",
+      "desc": "Sử dụng mỡ gà và nước dừa để tăng hương vị món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với bí quyết nhỏ."
+    },
+    {
+      "step": "Thời gian hấp gà",
+      "desc": "Chia sẻ thời gian hấp gà phù hợp để thịt chín mềm.",
+      "impact_level": "1",
+      "viewer_emotion": "Nắm được thông tin hữu ích."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Uống cà phê Lâu Ra để giải nhiệt trong lúc chờ gà chín.",
+      "impact_level": "1",
+      "viewer_emotion": "Tập trung vào sản phẩm được giới thiệu."
+    },
+    {
+      "step": "Thành phẩm",
+      "desc": "Gà hấp mắm nhĩ lên màu đẹp mắt, sốt đậm đà.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử ngay."
+    },
+    {
+      "step": "Mời thưởng thức",
+      "desc": "Mời mọi người cùng ăn và khen món gà hấp mắm nhĩ.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy gần gũi và muốn tham gia."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tui nhen."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "siêu ngon",
+    "thơm",
+    "ngọt",
+    "đậm đà",
+    "mát",
+    "tê tái tâm hồn",
+    "ngon",
+    "mềm béo",
+    "thơm phức",
+    "cay cay",
+    "ngon chấn động"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Gà làm món gì chê chứ làm món này là 10 điểm không có nhưng, ngon chấn động luôn á."
+  ],
+  "hook_content": "Hello mọi người, lại là tui Mật Bự thích nấu ăn đây. Nay mọi người cùng tôi làm gà hấp mắm nhĩ ăn nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm món gà hấp mắm nhĩ đơn giản, ngon miệng với bí quyết chọn gà và sử dụng nguyên liệu tự nhiên. Đồng thời, người nấu còn chia sẻ về loại nước uống giúp giải nhiệt trong quá trình nấu ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

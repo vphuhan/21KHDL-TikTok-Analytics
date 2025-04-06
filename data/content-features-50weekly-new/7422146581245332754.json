@@ -1,0 +1,105 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người ăn chay, ăn healthy",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu tình trạng nghén",
+      "desc": "Chia sẻ việc bầu bí khiến thay đổi khẩu vị, thèm ăn chay.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với sự thay đổi khẩu vị khi mang thai."
+    },
+    {
+      "step": "Giới thiệu địa điểm",
+      "desc": "Giới thiệu quán buffet rau yêu thích và sự tiện lợi về địa điểm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về địa điểm và chất lượng quán."
+    },
+    {
+      "step": "Miêu tả không gian",
+      "desc": "Nhấn mạnh không gian quán rộng rãi, thoải mái và sạch sẽ.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy yên tâm về vệ sinh và không gian quán."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Tập trung vào món lẩu chao, đặc biệt là rau, đậu, nấm.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng hương vị lẩu chao và các nguyên liệu."
+    },
+    {
+      "step": "Gợi ý cách ăn",
+      "desc": "Hướng dẫn cách ăn lẩu chao ngon với khoai, đậu hũ ky và sa tế.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn thử ngay cách ăn được gợi ý."
+    },
+    {
+      "step": "Nhấn mạnh món đặc sắc",
+      "desc": "Tàu hũ ky sả và mì gói là những món không thể bỏ qua.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về những món ăn độc đáo khác."
+    },
+    {
+      "step": "Thông tin thêm",
+      "desc": "Giá cả, không gian, thời gian mở cửa ở các chi nhánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích với thông tin chi tiết."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ai mà cùng đam mê với cái món này giống mình á thì biết làm cái gì rồi đó."
+  ],
+  "cta_type": [
+    "Thích video",
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "ngon miệng",
+    "mê",
+    "ghiền",
+    "mừng",
+    "ưng ý",
+    "ngon tuyệt",
+    "thơm béo",
+    "cay",
+    "huyền thoại",
+    "đam mê",
+    "thích",
+    "tan chảy",
+    "béo béo",
+    "dai dai",
+    "cuốn",
+    "diệu kỳ",
+    "tương tư"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn đi, ăn thử một lần cái nước lẩu chao ở đây đi, chỉ có rau, đậu với nấm thôi mà nó ngon tuyệt luôn á.",
+    "Cái vị chao nó thơm béo, vít thêm miếng sa tế cay nữa là thành combo huyền thoại.",
+    "Mì gói. Đơn giản nhưng diệu kỳ, ăn thử đi rồi tương tư giống như mình."
+  ],
+  "hook_content": "Bả bầu mà nhìn bả ăn ngon miệng ghê. Tính ra là không hề luôn á.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video chia sẻ trải nghiệm ăn lẩu chao chay tại một quán buffet của một mẹ bầu đang nghén thịt. Video tập trung vào giới thiệu món lẩu chao, cách ăn ngon và không gian quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

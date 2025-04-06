@@ -1,0 +1,85 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món",
+      "desc": "Giới thiệu các món ăn sẽ trải nghiệm trong video hôm nay.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn."
+    },
+    {
+      "step": "Trà sữa matcha",
+      "desc": "Thưởng thức trà sữa matcha, nhận xét có thêm sữa đặc sẽ ngon hơn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm trà sữa."
+    },
+    {
+      "step": "Bánh flan",
+      "desc": "Ăn bánh flan, ngạc nhiên vì ăn tráng miệng trước.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Mì ý",
+      "desc": "Ăn mì ý.",
+      "impact_level": "1",
+      "viewer_emotion": "Không có cảm xúc đặc biệt."
+    },
+    {
+      "step": "Bánh mì và pizza",
+      "desc": "Ăn bánh mì và pizza, khen pizza ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm pizza."
+    },
+    {
+      "step": "Bánh sừng bò",
+      "desc": "Ăn bánh sừng bò và thắc mắc về màu sắc của bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về vị bánh."
+    },
+    {
+      "step": "Sô cô la",
+      "desc": "Ăn sô cô la và cảm nhận hương vị cà phê.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với hương vị sô cô la cà phê."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "ngon ghê",
+    "béo béo",
+    "giòn",
+    "thấy mùi cà phê rõ"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Sao mới vô là ăn tráng miệng trước vậy trời. Ăn ngược đời quá.",
+    "Cái pizza này chú ăn tới mấy lần rồi đó.",
+    "Đi vòng vòng mới kiếm được cái thanh to vậy đó."
+  ],
+  "hook_content": "Chú ăn trà sữa, bánh lăng, mỡ ấy, bánh mì, pizza, bánh sừng bò rồi sôcôla, trời mỡ ấy nữa.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh một người đàn ông ăn nhiều món khác nhau như trà sữa, bánh flan, mì ý, bánh mì, pizza, bánh sừng bò và sô cô la, đồng thời đưa ra những nhận xét về hương vị của từng món.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

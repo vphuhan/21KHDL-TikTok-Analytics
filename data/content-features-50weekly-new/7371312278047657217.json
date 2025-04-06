@@ -1,0 +1,91 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ốc bươu nướng muối hột và hương vị đặc biệt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Đi bắt ốc, ngâm ốc với nước vo gạo và ớt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thấy quá trình chuẩn bị."
+    },
+    {
+      "step": "Giặt đồ",
+      "desc": "Giặt đồ và giới thiệu nước xả vải giữ hương thơm.",
+      "impact_level": "1",
+      "viewer_emotion": "Không liên quan lắm đến nấu ăn."
+    },
+    {
+      "step": "Làm nước sốt",
+      "desc": "Làm nước sốt tiêu xanh để chan vào ốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn hơn khi có nước sốt."
+    },
+    {
+      "step": "Nướng ốc",
+      "desc": "Trải muối hột, sả, lá chanh lên chảo rồi xếp ốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy cách nướng khá thú vị."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Nghe tiếng nổ của muối, mùi thơm và ăn ốc.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn ăn thử."
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng ăn ốc nướng muối hột.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy được mời gọi."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ á thì hai mời mọi người cùng ăn ốc nướng muối hột với nhà hai nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "giòn ngọt",
+    "thơm",
+    "hấp dẫn",
+    "ấm ấm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ốc bươu nổ muối hột ngon bất bại",
+    "nghe cái tiếng muối hột nó nổ tách tách tách đã cái lỗ tai gì đâu luôn á, còn cái mùi thơm á ta nói ha nó ngào ngạt bát ngát luôn",
+    "Hai thấy nướng theo cái kiểu này nè, cái độ giữ nóng của muối này nè nó ấm ấm hoài luôn, mình ăn nó ngon dữ lắm"
+  ],
+  "hook_content": "Ốc bươu nổ muối hột ngon bất bại, có ai đã thử qua cái món này chưa nè.",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn cách làm món ốc bươu nướng muối hột đơn giản tại nhà, chia sẻ bí quyết để ốc giòn ngọt và thơm ngon hơn, đồng thời giới thiệu sản phẩm nước xả vải giúp quần áo thơm lâu.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

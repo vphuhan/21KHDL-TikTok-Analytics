@@ -1,0 +1,90 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu nỗi thèm hải sản",
+      "desc": "Chia sẻ về việc kiêng hải sản đầu năm và nỗi thèm thuồng.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với nỗi thèm ăn của người nói."
+    },
+    {
+      "step": "Giới thiệu mực nang mua được",
+      "desc": "Giới thiệu loại mực nang vừa mua và so sánh với loại to.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về loại mực nang được giới thiệu."
+    },
+    {
+      "step": "Hướng dẫn sơ chế mực",
+      "desc": "Hướng dẫn cách rửa và làm sạch mực để khi hấp không bị tanh.",
+      "impact_level": "1",
+      "viewer_emotion": "Tiếp thu thêm mẹo sơ chế mực hữu ích."
+    },
+    {
+      "step": "Giới thiệu game giải trí",
+      "desc": "Giới thiệu game Hiệp Sĩ Khoai Tây và khoe đang mê game này.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có cảm xúc đặc biệt."
+    },
+    {
+      "step": "Hấp mực và làm nước chấm",
+      "desc": "Hấp mực với gừng và chuẩn bị chén muối ớt đặc trưng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món mực hấp đang được làm."
+    },
+    {
+      "step": "Thưởng thức và review mực",
+      "desc": "Ăn thử và miêu tả cảm giác về độ giòn, ngọt của mực.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy vô cùng thèm thuồng và muốn ăn ngay."
+    },
+    {
+      "step": "Gợi ý cách chế biến khác",
+      "desc": "Gợi ý làm lẩu thái hoặc ăn mì gói với mực nang.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy có thêm gợi ý cho món mực nang."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thèm",
+    "giòn",
+    "ngọt",
+    "đã",
+    "khoái",
+    "ngon miệng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ăn mực á thì sợ nó đen, còn ăn bạch tuộc á thì sợ làm ăn á nó tuột ra hết.",
+    "Cái loại size vừa vừa vậy nè ăn một lần là khoái luôn.",
+    "Thịt nó vừa dày, giòn mà ngọt, ta nói ăn tới đâu là đã tới đó đó."
+  ],
+  "hook_content": "Bữa giờ đầu năm nên là kiêng kỵ, đâu có dám ăn hải sản gì đâu.",
+  "hook_type": [
+    "Gây tò mò",
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video chia sẻ về trải nghiệm thèm ăn hải sản đầu năm và giới thiệu món mực nang hấp chấm muối ớt. Người nói vừa ăn vừa miêu tả độ giòn, ngọt của mực và gợi ý các cách chế biến khác.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

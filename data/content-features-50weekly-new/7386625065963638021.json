@@ -1,0 +1,96 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu kem",
+      "desc": "Giới thiệu về kem viên Minimelts mới xuất hiện tại Việt Nam.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về loại kem mới."
+    },
+    {
+      "step": "Địa điểm và sự kiện",
+      "desc": "Thông tin cửa hàng phát kem tại Vincom 3 tháng 2.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú vì có địa điểm mới để ghé thăm."
+    },
+    {
+      "step": "Ấn tượng ban đầu",
+      "desc": "Cảm nhận về cửa hàng và sự kiện khai trương.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hứng thú với sự dễ thương của cửa hàng."
+    },
+    {
+      "step": "Menu và giá cả",
+      "desc": "Giới thiệu các loại kem, size và giá cả.",
+      "impact_level": "1",
+      "viewer_emotion": "Nắm bắt thông tin về giá cả và lựa chọn."
+    },
+    {
+      "step": "Trải nghiệm cá nhân",
+      "desc": "Đánh giá các vị kem và cách mix chúng với nhau.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của các loại kem."
+    },
+    {
+      "step": "Ưu đãi",
+      "desc": "Thông tin về chương trình mua hai tặng một và topping.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hấp dẫn bởi các ưu đãi."
+    },
+    {
+      "step": "Địa chỉ",
+      "desc": "Nhắc lại địa chỉ cửa hàng tại Vincom 3 tháng 2.",
+      "impact_level": "1",
+      "viewer_emotion": "Nắm được thông tin về địa điểm."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "xem được video này là tín hiệu để mọi người lưu lại clip của Tính và ghé qua đây ăn thử nha"
+  ],
+  "cta_type": [
+    "Lưu video",
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "siêu dễ thương",
+    "cưng xỉu",
+    "ngon lành",
+    "thích",
+    "cuốn",
+    "thích miệng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "U là trời ta nói nó siêu dễ thương luôn á.",
+    "Cái này mà dắt người yêu con cái tới đây là đảm bảo sẽ mê khùng mê điên luôn nè.",
+    "Cái vị nó lạ lạ nhưng mà ăn cuốn thích miệng lắm mọi người."
+  ],
+  "hook_content": "đảo kem viên bong bóng lần đầu tiên có mặt tại Việt Nam nè mọi người.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu về cửa hàng kem viên Minimelts mới khai trương tại Việt Nam, đặc biệt là ở Vincom 3 tháng 2. Người nói chia sẻ trải nghiệm cá nhân về các vị kem, cách mix chúng và thông tin về các ưu đãi của cửa hàng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

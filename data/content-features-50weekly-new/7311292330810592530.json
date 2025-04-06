@@ -1,0 +1,91 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bắp chiên giòn lắc phô mai, gợi ý làm cuối tuần.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy tò mò về món ăn vặt mới."
+    },
+    {
+      "step": "Kỉ niệm",
+      "desc": "Chia sẻ kỉ niệm về món bắp chiên giòn thời xưa.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường, hơi hoài niệm."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Hướng dẫn chọn bắp và mẹo tách hạt bắp nhanh chóng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích với mẹo tách bắp."
+    },
+    {
+      "step": "Sơ chế bắp",
+      "desc": "Luộc sơ bắp và tẩm bột chiên giòn, trứng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy quá trình chuẩn bị tỉ mỉ."
+    },
+    {
+      "step": "Chiên bắp",
+      "desc": "Chiên bắp với dầu ăn chịu nhiệt cao, không đảo liền.",
+      "impact_level": "2",
+      "viewer_emotion": "Học được mẹo chiên bắp giòn."
+    },
+    {
+      "step": "Hoàn thiện",
+      "desc": "Lắc bắp với phô mai và thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Thấy thèm thuồng, muốn ăn ngay."
+    },
+    {
+      "step": "Cảm nhận",
+      "desc": "Miêu tả hương vị giòn, thơm ngon của bắp.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy hấp dẫn bởi món ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "cuốn",
+    "thích",
+    "ngon",
+    "giòn",
+    "thơm",
+    "đã"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "ăn còn cuốn hơn cả bắp rang bơ nữa",
+    "tách bắp bao nhanh luôn",
+    "chiên món nào nó cũng giòn ngon khó cưỡng"
+  ],
+  "hook_content": "cuối tuần rồi, mọi người làm cái món bắp chiên giòn lắc phô mai này đi, ăn còn cuốn hơn cả bắp rang bơ nữa.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món bắp chiên giòn lắc phô mai, gợi ý sử dụng bắp Mỹ hoặc bắp nếp, chia sẻ mẹo tách hạt bắp nhanh và cách chiên để bắp giòn ngon. Món ăn này vừa giòn, vừa thơm và đặc biệt ngon đối với những người thích ăn bắp.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

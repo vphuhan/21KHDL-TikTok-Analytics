@@ -1,0 +1,83 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán xôi",
+      "desc": "Giới thiệu địa điểm quán xôi ở Cầu Giấy với nhiều topping.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về địa điểm ăn uống"
+    },
+    {
+      "step": "Miêu tả chi tiết",
+      "desc": "Miêu tả các loại topping, giá cả và trải nghiệm thực tế.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn ăn thử"
+    },
+    {
+      "step": "Nhấn mạnh điểm đặc biệt",
+      "desc": "Đề cập đến mắm tép và các điểm đặc biệt khác của quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị và muốn khám phá"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá hương vị các món, gợi ý lựa chọn cho người xem.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá"
+    },
+    {
+      "step": "Thông tin thêm",
+      "desc": "Thông tin về thời gian bán và địa chỉ cụ thể của quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy hữu ích"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "rẻ",
+    "full topping",
+    "thơm",
+    "dã man",
+    "ngon cực kỳ",
+    "siêu cuốn",
+    "đậm đà",
+    "mềm",
+    "bùi",
+    "đầy đặn",
+    "no"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ở ngay Cầu Giấy có một quán xôi vừa ngon vừa rẻ, bát xôi full topping đầy ú ụ",
+    "Đặc biệt là có quả mắm tép ăn với xôi nha, nghe lạ mà ngon cực kỳ đấy, ăn siêu cuốn luôn.",
+    "Các loại topping thì đều được nhúng qua một lần nước thịt kho nữa nên là rất đậm đà."
+  ],
+  "hook_content": "Nhà mình còn xôi không ạ? Còn có.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu quán xôi Ngọc ở Cầu Giấy với nhiều loại topping hấp dẫn và giá cả phải chăng, đặc biệt là món xôi mắm tép lạ miệng. Quán mở từ sáng đến đầu giờ chiều và được nhiều học sinh, dân văn phòng yêu thích.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

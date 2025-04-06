@@ -1,0 +1,92 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán ăn",
+      "desc": "Giới thiệu quán bún ốc nguội 'chảnh nhất' Hà Nội.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Chia sẻ trải nghiệm",
+      "desc": "Kể về trải nghiệm tò mò và quyết định đến quán ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Miêu tả món ăn",
+      "desc": "Miêu tả chi tiết về thành phần và hương vị món bún ốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "Đánh giá cá nhân",
+      "desc": "Đưa ra cảm nhận cá nhân về món ăn và không gian quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình"
+    },
+    {
+      "step": "Phản hồi tin đồn",
+      "desc": "Giải thích về tin đồn 'chảnh' của quán và trải nghiệm thực tế.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ"
+    },
+    {
+      "step": "Chia sẻ quan điểm",
+      "desc": "Bà chủ chia sẻ quan điểm về việc bán hàng và tôn trọng khách.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm động"
+    },
+    {
+      "step": "Khẳng định tính chân thật",
+      "desc": "Khẳng định trải nghiệm chân thật và kêu gọi chia sẻ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Còn mọi người có trải nghiệm gì về cái quán bún ốc nguội này, để lại comment bên dưới thử nha."
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "hợp miệng",
+    "thanh mát",
+    "dễ chịu",
+    "dễ thương",
+    "tử tế"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tớ khó tính thật, mà tớ ghê gớm thật, tớ đã có để thật như vậy luôn á.",
+    "Không ngoan bán không có nghĩa là mình chảnh, mà không có nghĩa là kêu. Mà mình sợ người ta ăn không quen mà mất tiền để lại thì nó phí đi mà bản thân mình tâm huyết mình bán mà người ta ăn không được thì mình cảm thấy áy náy mà lại cầm tiền ra áy náy.",
+    "Cái này là trải nghiệm ngày hôm đó mình ăn sao thì mình kể lại vậy cho mấy bạn nghe thôi, đừng có đồn là nhận tiền rồi nịnh quán rồi nói đỡ cho quán nha, không có nhận cắt nào luôn á."
+  ],
+  "hook_content": "trải nghiệm khó quên khi đi ăn bún ốc nguội, được mệnh danh là chảnh nhất ở Hà Nội, chỉ bán cho những ai mà biết ăn món này.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện"
+  ],
+  "summarization": "Video chia sẻ trải nghiệm ăn bún ốc nguội tại quán 'chảnh nhất' Hà Nội, từ sự tò mò ban đầu đến cảm nhận về hương vị và không gian quán, đồng thời phản hồi về tin đồn 'chảnh' của quán.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

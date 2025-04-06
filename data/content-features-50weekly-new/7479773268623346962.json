@@ -1,0 +1,90 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu mở đầu",
+      "desc": "Giới thiệu bánh mì được review và lý do đến quán",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị bánh mì"
+    },
+    {
+      "step": "Mua bánh mì",
+      "desc": "Đến quán, chọn mua các loại bánh mì khác nhau",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, theo dõi quá trình mua"
+    },
+    {
+      "step": "Mở hộp bánh mì",
+      "desc": "Mở hộp, giới thiệu thành phần và trọng lượng",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với thành phần"
+    },
+    {
+      "step": "Thử bánh mì",
+      "desc": "Thử và đánh giá hương vị của từng loại bánh",
+      "impact_level": "3",
+      "viewer_emotion": "Háo hức muốn thử bánh mì"
+    },
+    {
+      "step": "Nhận xét chung",
+      "desc": "Đánh giá chung về quán và chất lượng bánh mì",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá"
+    },
+    {
+      "step": "Thông tin thêm",
+      "desc": "Cung cấp thông tin giá ưu đãi cho shipper",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thông tin hữu ích"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Xác nhận chất lượng bánh mì và tò mò",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình và tò mò"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "hợp khẩu vị",
+    "béo",
+    "vừa phải",
+    "sướng",
+    "vừa rồi",
+    "ngậy",
+    "chất lượng",
+    "đã cái mồm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cái pate của cái quán này mình phải gọi là ngon. Ăn rất là hợp cái khẩu vị của mình luôn.",
+    "Cái ăn tiền của cái ổ bánh mì này thì mình nghĩ đó chính là pate với lại bơ. Ăn nó rất là vừa phải và nó không có tạo cho mình cái cảm giác ngấy quá.",
+    "Tôi tò mò, bạn cũng thế."
+  ],
+  "hook_content": "Ôi, mọi người nhìn củ bánh mì này này.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán bánh mì nổi tiếng trên TopTop, đánh giá chi tiết các loại bánh mì khác nhau về thành phần, hương vị và giá cả. Người review đặc biệt khen ngợi phần pate của quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu tổng quan",
+      "desc": "Tổng chi phí và địa điểm ăn chơi ở Cần Thơ",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về chi phí và địa điểm"
+    },
+    {
+      "step": "Chi phí di chuyển",
+      "desc": "Chi tiết về phương tiện và giá vé di chuyển",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích cho việc di chuyển"
+    },
+    {
+      "step": "Chi phí khách sạn",
+      "desc": "Thông tin khách sạn và giá phòng",
+      "impact_level": "1",
+      "viewer_emotion": "Biết thêm lựa chọn về chỗ ở"
+    },
+    {
+      "step": "Địa điểm ăn uống",
+      "desc": "Điểm danh các quán ăn và món ăn đặc sắc",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng các món ăn được giới thiệu"
+    },
+    {
+      "step": "Trải nghiệm chợ nổi",
+      "desc": "Tham quan và thưởng thức ẩm thực ở chợ nổi",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với trải nghiệm văn hóa"
+    },
+    {
+      "step": "Các món ăn khác",
+      "desc": "Giới thiệu thêm các món ăn sáng và đặc sản",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử các món ăn địa phương"
+    },
+    {
+      "step": "Tổng kết chi phí",
+      "desc": "Thông báo chi phí cuối cùng cho chuyến đi",
+      "impact_level": "1",
+      "viewer_emotion": "Đánh giá tính hợp lý của chi phí"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "vui"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đi Cần Thơ hai ngày một đêm chỉ với hơn 1 triệu một xíu, ăn uống vui chơi tẹt ga tận 10 địa điểm luôn nha.",
+    "Má ơi, uống nó ngon thiệt nha bay ơi, 10 điểm luôn nha.",
+    "Ăn bánh miền Tây là siêu ngon luôn mọi người."
+  ],
+  "hook_content": "Tổng chi phí đi Cần Thơ hai ngày một đêm chỉ với hơn 1 triệu một xíu, ăn uống vui chơi tẹt ga tận 10 địa điểm luôn nha.",
+  "hook_type": [
+    "Cho thấy kết quả trước",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video này chia sẻ về tổng chi phí cho chuyến đi Cần Thơ 2 ngày 1 đêm, bao gồm chi phí di chuyển, khách sạn, ăn uống và tham quan nhiều địa điểm nổi tiếng. Người nói đánh giá cao các món ăn địa phương và trải nghiệm ở chợ nổi.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu bò Úc rọc xương mua ở địa chỉ cụ thể.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về địa điểm mua bò."
+    },
+    {
+      "step": "Giải đáp thắc mắc",
+      "desc": "Giải đáp thắc mắc về cà phê Laura của Nhật Kim Anh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với sự hài hước."
+    },
+    {
+      "step": "Quảng cáo cà phê",
+      "desc": "Giới thiệu cà phê gói có nấm linh chi và đông trùng hạ thảo.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến lợi ích sức khỏe."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhấn mạnh hương vị đậm đà và lợi ích của cà phê.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử hương vị cà phê."
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Khuyên nên uống vào buổi sáng để đảm bảo sức khỏe.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhớ lời khuyên."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "đã"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cái này là cà phê của ca sĩ Nhật Kim Anh. Cái tên của nó là Laura Coffee.",
+    "Đây là cái loại cà phê gói kết hợp với lại nấm linh chi với lại đông trùng hạ thảo. Uống cực kỳ tốt cho sức khỏe luôn.",
+    "Uống cực kỳ tốt luôn anh em ơi, uống rất là đã luôn."
+  ],
+  "hook_content": "này không thôi mà gần 800.000.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu bò Úc và cà phê Laura của Nhật Kim Anh, nhấn mạnh hương vị và lợi ích sức khỏe của sản phẩm. Người nói đưa ra lời khuyên nên uống cà phê vào buổi sáng.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

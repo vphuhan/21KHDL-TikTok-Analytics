@@ -1,0 +1,83 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu cột mốc",
+      "desc": "Thông báo đã thực hiện được mục tiêu xây nhà cho ông bà.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với sự hiếu thảo của gia đình."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Di chuyển bằng tàu điện ngầm đến chợ hải sản để mua cua.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với trải nghiệm đi mua sắm."
+    },
+    {
+      "step": "Chế biến sốt",
+      "desc": "Sơ chế nguyên liệu và chuẩn bị sốt cay để nướng hải sản.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món sốt cay đặc biệt."
+    },
+    {
+      "step": "Nướng hải sản",
+      "desc": "Nướng nấm trước, sau đó quét sốt cay lên hải sản.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn với món nướng sốt cay."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Chia sẻ về việc sử dụng tinh dầu thông đỏ và đông trùng hạ thảo.",
+      "impact_level": "1",
+      "viewer_emotion": "Quan tâm đến các sản phẩm sức khỏe."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Cả nhà cùng ăn và cảm nhận hương vị món cua sốt cay.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người mua hàng hàng chuẩn cho gia đình thì nhắn qua shop nha."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngọt",
+    "trảy nước miếng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bữa nay đúng như cái câu bồi thiệt là bổ luôn!",
+    "Mình mua con cua này người ta cho kèm thêm ốc, nghêu, tôm mà cũng nhiều lắm á.",
+    "Thông minh xinh đẹp không bằng may mắn là cũng đúng nha."
+  ],
+  "hook_content": "Hôm nay là ngày đặc biệt, là cái ngày mà hai vợ chồng mình đã ấp ủ mấy năm nay, thì bữa nay nó cũng đã đi vào công đoạn đầu tiên xây lại một ngôi nhà mới để ông bà ngoại mình an hưởng tuổi già bên con cháu.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video ghi lại quá trình gia đình làm món cua sốt cay ăn mừng cột mốc xây nhà mới cho ông bà. Bên cạnh đó, video cũng giới thiệu về các sản phẩm hỗ trợ sức khỏe như tinh dầu thông đỏ và đông trùng hạ thảo.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Order",
+      "desc": "Gọi món bánh đúc thập cẩm và trò chuyện với người bán hàng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu quán bánh đúc nóng Cô Huyền trên đường Trần Văn Lan.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị vì biết thêm một địa điểm."
+    },
+    {
+      "step": "Miêu tả",
+      "desc": "Miêu tả các loại bánh đúc và giá cả tại quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin cơ bản, không đặc sắc."
+    },
+    {
+      "step": "Trải nghiệm",
+      "desc": "Thử miếng bánh đúc đầu tiên và miêu tả cảm nhận về hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng khi nghe miêu tả."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Tổng kết lại trải nghiệm và đưa ra lời khuyên.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá và muốn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mọi người có thể đến trải nghiệm và dùng thử xem như thế nào nhá"
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "mềm",
+    "mịn",
+    "tan trong miệng",
+    "đậm đà",
+    "thơm lừng",
+    "chua ngọt",
+    "vừa vặn",
+    "ngọt bùi",
+    "béo ngậy",
+    "thèm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Miếng bánh đúc nó mềm, nó mịn, nó tan trong miệng.",
+    "Băm thì nó đậm đà, phi thì thơm lừng.",
+    "Đặc biệt là cái nước mắm chua ngọt vừa vặn ăn nó ngọt bùi mà nó béo ngậy."
+  ],
+  "hook_content": "ơi. Ơi. Cho em một suất bánh đúc thập cẩm nhá.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review bánh đúc nóng Cô Huyền trên đường Trần Văn Lan, với những đánh giá chi tiết về hương vị và trải nghiệm ăn tại quán, đặc biệt nhấn mạnh cảm giác ngon miệng và phù hợp trong thời tiết lạnh.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu món mứt rau câu thạch anh và so sánh với sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món mứt rau câu mới lạ."
+    },
+    {
+      "step": "Hướng dẫn trộn nguyên liệu",
+      "desc": "Hướng dẫn trộn bột rau câu, nước, đường và nhắc nhở về lượng đường.",
+      "impact_level": "2",
+      "viewer_emotion": "Chú ý đến công thức và tỉ lệ nguyên liệu."
+    },
+    {
+      "step": "Đổ khuôn lớp nhân",
+      "desc": "Hướng dẫn đổ lớp thạch rau câu có nhân việt quất vào khuôn.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung về hình dáng của món mứt."
+    },
+    {
+      "step": "Tạo màu và đổ khuôn",
+      "desc": "Hướng dẫn tạo màu cho rau câu và đổ vào các khuôn khác nhau.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với màu sắc bắt mắt của mứt."
+    },
+    {
+      "step": "Làm lạnh và cắt",
+      "desc": "Hướng dẫn làm lạnh, cắt tỉa để tạo hình đá quý cho mứt.",
+      "impact_level": "2",
+      "viewer_emotion": "Hào hứng với công đoạn tạo hình mứt."
+    },
+    {
+      "step": "Phơi khô",
+      "desc": "Hướng dẫn phơi khô mứt và chia sẻ về thời gian phơi.",
+      "impact_level": "1",
+      "viewer_emotion": "Nhận thấy sự kỳ công trong quá trình làm mứt."
+    },
+    {
+      "step": "Hoàn thiện và thưởng thức",
+      "desc": "Hoàn thiện bằng kim tuyến và giới thiệu cách dùng mứt.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn thử làm và thưởng thức món mứt."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "đã tay",
+    "đẹp",
+    "chua",
+    "khoái"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "cắn vô nghe sột soạt nó đã tay lắm",
+    "Tùy vào độ khéo tay của các bạn sẽ tạo ra những cái cục thạch anh hay là đá quý rất là đẹp",
+    "Các bạn có thể bôi thêm một ít bột kim tuyến thực phẩm lên, cho nhìn nó giống đá quý hơn"
+  ],
+  "hook_content": "Bữa trước tôi thấy một hộp mứt rau câu của Việt Nam mình bán với giá 40 đô các bạn.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm mứt rau câu thạch anh độc đáo, từ khâu chuẩn bị nguyên liệu, tạo hình đến công đoạn phơi khô, phù hợp để làm quà biếu hoặc dùng trong dịp Tết.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

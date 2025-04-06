@@ -1,0 +1,93 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Đặt vấn đề",
+      "desc": "So sánh giá bột chiên tự làm và mua ngoài quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Giới thiệu",
+      "desc": "Trình bày hai đĩa bột chiên: tự làm và mua.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Cân đong",
+      "desc": "Cân hai đĩa bột chiên để so sánh số lượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên"
+    },
+    {
+      "step": "Nếm thử",
+      "desc": "Giới thiệu nước chấm tự pha và mua sẵn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Nhận xét về cách chiên và sở thích cá nhân.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình"
+    },
+    {
+      "step": "Tính toán",
+      "desc": "Tính tổng chi phí nguyên liệu làm bột chiên.",
+      "impact_level": "2",
+      "viewer_emotion": "Bất ngờ"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Khuyến khích tự làm bột chiên để tiết kiệm.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Thử nhá, cái món này nó dễ dễ làm lắm mọi người, nếu như mà rảnh các kiểu ấy thì bỏ tiền ra và mua, làm cho nó tiết kiệm ha."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngọt",
+    "chua",
+    "đỡ ngán",
+    "tiết kiệm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tôi tò mò, bạn cũng thế.",
+    "Mệt nhất là cái công đoạn gọi là chiên bột thôi, còn lại tất cả mọi thứ là easy.",
+    "Nếu như mà rảnh các kiểu ấy thì bỏ tiền ra và mua, làm cho nó tiết kiệm ha."
+  ],
+  "hook_content": "Có bao giờ thắc mắc là 30.000 một chiên ở ngoài quán và 30.000 một chiên tự làm của mình sẽ chênh lệch bao nhiêu không? Tôi tò mò, bạn cũng thế.",
+  "hook_type": [
+    "Gây tò mò",
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "So sánh",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video so sánh lượng bột chiên mua ngoài quán và tự làm với cùng một số tiền (30.000đ), cho thấy tự làm được nhiều hơn và khuyến khích người xem tự làm để tiết kiệm.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

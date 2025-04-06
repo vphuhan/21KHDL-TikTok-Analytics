@@ -1,0 +1,77 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món mì cay tự nấu tại nhà sau Tết.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách nấu."
+    },
+    {
+      "step": "Liệt kê nguyên liệu",
+      "desc": "Liệt kê các nguyên liệu thường dùng khi nấu mì cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy quen thuộc và hấp dẫn."
+    },
+    {
+      "step": "Đánh giá sản phẩm",
+      "desc": "Đánh giá mì siêu cay sau khi được gợi ý.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử loại mì mới."
+    },
+    {
+      "step": "Hướng dẫn nấu",
+      "desc": "Hướng dẫn các bước nấu mì cay đơn giản tại nhà.",
+      "impact_level": "3",
+      "viewer_emotion": "Thấy dễ thực hiện theo."
+    },
+    {
+      "step": "Cảm nhận món ăn",
+      "desc": "Nhấn mạnh độ ngon của mì cay tự nấu.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng món ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Đấy, bác nào không tin cứ thử ăn mà xem."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thèm",
+    "ngon đỉnh chóp"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "tự làm mì cay ở nhà thì nó cũng đơn giản, với lại ngon thì cũng không khác gì ngoài quán đâu",
+    "Đúng là cả cái đợt Tết chỉ có bánh chưng với lại thịt gà, lâu lâu mới được ăn lại mì cay nên thấy nó ngon đỉnh chóp mọi người ạ.",
+    "bác nào không tin cứ thử ăn mà xem"
+  ],
+  "hook_content": "là kể từ cái hôm 23 Tết ông Táo đến giờ thì nay mới có thời gian để làm mì cay các bác ạ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn cách nấu mì cay đơn giản tại nhà sau Tết, sử dụng các nguyên liệu dễ kiếm và mì gói siêu cay. Người nấu chia sẻ trải nghiệm cá nhân và đánh giá độ ngon của món ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

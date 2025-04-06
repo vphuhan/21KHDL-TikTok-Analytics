@@ -1,0 +1,52 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu combo",
+      "desc": "Giới thiệu combo 25k mua tại cửa hàng tiện lợi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về những món có thể mua."
+    },
+    {
+      "step": "Chọn món",
+      "desc": "Chọn mua cơm nắm với giá 18.000.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Thanh toán",
+      "desc": "Tổng thiệt hại 24.000, còn dư 1.000 đồng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Combo 25k mua được gì tại cửa hàng tiện lợi"
+  ],
+  "hook_content": "25.000 mua được gì?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Liệt kê"
+  ],
+  "summarization": "Video mukbang về việc mua các món ăn tại cửa hàng tiện lợi với combo 25k, trong đó có cơm nắm.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

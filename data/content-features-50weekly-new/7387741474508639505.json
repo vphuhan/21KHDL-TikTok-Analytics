@@ -1,0 +1,57 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu thử thách",
+      "desc": "Giới thiệu bát mì cay và thử thách ăn hết.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ cay của mì."
+    },
+    {
+      "step": "Bỏ cuộc",
+      "desc": "Không thể ăn tiếp vì quá cay, mắt đỏ hoe.",
+      "impact_level": "3",
+      "viewer_emotion": "Đồng cảm với người ăn."
+    },
+    {
+      "step": "Lời cảm ơn",
+      "desc": "Gửi lời cảm ơn đến người xem đã theo dõi.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "cay",
+    "nước mắt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ôi, cái chỗ này mình không ăn được nữa mọi người nha.",
+    "Ui, chảy hết cả nước mắt rồi."
+  ],
+  "hook_content": "Xem mình ăn hết được bát mì đầy ớt này không nhé 😁",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh người ăn cố gắng ăn hết một bát mì cay nhưng không thành công vì quá cay, sau đó gửi lời cảm ơn đến người xem.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Khó chịu"
+  ]
+}

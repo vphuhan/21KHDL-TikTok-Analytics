@@ -1,0 +1,67 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bản thân và sản phẩm",
+      "desc": "Nhận xét về ngoại hình khi mang bầu và giới thiệu sản phẩm hữu cơ",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm được giới thiệu"
+    },
+    {
+      "step": "Nồi bún riêu hấp dẫn",
+      "desc": "Quay cận cảnh nồi bún riêu, giới thiệu thành phần và hương vị",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn ăn ngay"
+    },
+    {
+      "step": "Thưởng thức bún riêu",
+      "desc": "Xin thêm riêu và ốc, thể hiện sự yêu thích món bún riêu",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với niềm yêu thích món ăn"
+    },
+    {
+      "step": "Cảm nhận sau khi ăn",
+      "desc": "Gội đầu và tắm bằng sản phẩm hữu cơ, cảm thấy thư giãn",
+      "impact_level": "2",
+      "viewer_emotion": "Thư giãn và muốn trải nghiệm"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "vui",
+    "phấn khích",
+    "thơm",
+    "hấp dẫn",
+    "ngon",
+    "thư giãn",
+    "ấm áp"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mê nhất vẫn là cái bánh riêu mẹ làm nè. Nấu hoàn toàn từ cua đồng xay cho nên nó thơm mà ngọt nước lắm.",
+    "Có cái chuyện ăn uống không mà cũng thể hiện được bản chất của con người nữa tin không?",
+    "Rõ ràng ngày xưa thề gió thề mây với lại canh bún. Vậy mà bây giờ chỉ dành nguyên bao tử cho bún riêu thôi."
+  ],
+  "hook_content": "này hợp phía bầu bì nhìn tươi tắn xinh xắn ghê.",
+  "hook_type": [
+    "Phản hồi bình luận"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ về niềm vui khi mang bầu và giới thiệu sản phẩm hữu cơ, đồng thời review món bún riêu mẹ nấu với đầy đủ topping hấp dẫn, cuối cùng là cảm giác thư giãn sau khi sử dụng sản phẩm gội xả.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

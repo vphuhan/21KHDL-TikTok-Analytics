@@ -1,0 +1,78 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Mời mọi người ăn cùng và giới thiệu món xiên bẩn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn được giới thiệu."
+    },
+    {
+      "step": "Bắt đầu thưởng thức",
+      "desc": "Bắt đầu ăn và nhắc lại tên gọi khác của món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị khi được chia sẻ thông tin."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Miêu tả hương vị viên hải sản sốt phô mai.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng món ăn."
+    },
+    {
+      "step": "Ăn kèm và cảm nhận",
+      "desc": "Ăn kèm với đồ chua và khen ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn nếm thử sự kết hợp này."
+    },
+    {
+      "step": "Giới thiệu món chiên",
+      "desc": "Giới thiệu thêm món chiên kèm theo.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Khen món chiên",
+      "desc": "Khẳng định món chiên rất ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy muốn được ăn thử ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Vẫn bị cuốn vào cái viên này mọi người ơi, rất là ngon luôn.",
+    "Quá xá là ngon luôn á.",
+    "Cái miếng này khỏi phải nói à."
+  ],
+  "hook_content": "Mời mọi người ăn cùng Út nha. Hôm nay Út sẽ ăn xiên bẩn nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang của Út Phụng Kim mời mọi người ăn xiên bẩn, tập trung vào việc ăn và miêu tả hương vị của các loại xiên, đặc biệt là viên hải sản sốt phô mai và món chiên.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

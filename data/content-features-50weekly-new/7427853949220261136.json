@@ -1,0 +1,95 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu địa điểm",
+      "desc": "Giới thiệu quán hàu quen thuộc, có nhiều loại hàu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán ăn"
+    },
+    {
+      "step": "Khám phá không gian",
+      "desc": "Không gian thoáng mát, có bán tại chỗ các món ốc, hàu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với không gian"
+    },
+    {
+      "step": "Thưởng thức hàu",
+      "desc": "Ăn thử các món hàu chế biến khác nhau, nóng hổi.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng"
+    },
+    {
+      "step": "Đánh giá hàu",
+      "desc": "Hàu tươi, béo, sạch, ăn cùng bạn bè sẽ rất rẻ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng"
+    },
+    {
+      "step": "Thưởng thức ốc",
+      "desc": "Ăn thêm ốc hấp, nhiều loại, nước chấm đầy đủ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị"
+    },
+    {
+      "step": "Đánh giá ốc",
+      "desc": "Ốc tươi, có nhiều loại ốc lạ, nghêu hấp thái.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử các món ốc"
+    },
+    {
+      "step": "Thông tin địa điểm",
+      "desc": "Địa chỉ quán hàu Đại Dương ở quận 8.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhớ địa chỉ"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Qua đây ăn hào nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "thèm",
+    "ngon",
+    "béo ngậy",
+    "cay cay",
+    "cay nồng",
+    "tươi rói",
+    "béo béo",
+    "tươi",
+    "sạch",
+    "đã"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Hào sữa thì ăn nó có vị béo béo, ăn vừa tươi và cảm thấy rất là sạch luôn nha.",
+    "Ngồi ăn nãy giờ hết mấy ký luôn.",
+    "Tao nói người ăn cái tô nghêu hấp thái này ướt gì có thêm một tô bún à."
+  ],
+  "hook_content": "Khi mọi người mấy bữa nay tự nhiên thèm hào quá trời luôn.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán hàu Đại Dương ở quận 8, giới thiệu không gian quán, các món hàu và ốc, đánh giá hương vị và chất lượng tươi ngon của món ăn. Kêu gọi người xem ghé thăm quán để thưởng thức.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món lạp xưởng kho trứng cút, gợi ý làm khi còn lạp xưởng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách làm món ăn này."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Luộc trứng cút, lột vỏ và cắt lạp xưởng thành miếng vừa ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, chuẩn bị các nguyên liệu đơn giản."
+    },
+    {
+      "step": "Xào nấu",
+      "desc": "Phi tỏi, cho trứng cút và lạp xưởng vào xào cùng.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi mùi thơm của tỏi phi."
+    },
+    {
+      "step": "Nêm nếm gia vị",
+      "desc": "Nêm bột ngọt, nước tương, đường, nước lọc hoặc nước dừa.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhớ các gia vị cần thiết."
+    },
+    {
+      "step": "Hoàn thành",
+      "desc": "Kho liu riu cho kẹo lại, thêm hành, ớt, tiêu và thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng món ăn hấp dẫn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Nếu mà bữa nay chưa có biết nấu cái gì á mà ở nhà còn lạp xưởng thì mấy bà làm thử cái món này nghen."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "mặn mặn",
+    "cay cay"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tết á mà nhà mấy bà ăn lạp xưởng không có hết còn dư á. Thì mấy bà đem đi kho với trứng cút đi ăn ngon lắm luôn á.",
+    "Cái món này là mấy bà bới tô cơm nguội thôi ăn là cũng ngon nữa.",
+    "Cái vị của nó thì mặn mặn, cay cay. Mà ăn kèm thêm miếng dưa hấu nữa là ta nói trời ơi còn cái gì chịu nổi nữa."
+  ],
+  "hook_content": "1 kí lạp xưởng để đi về quê ăn tết. Mà bữa nay mùng 8 á thì shipper mới giao mấy bà.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm món trứng cút kho lạp xưởng từ lạp xưởng còn dư sau Tết, món ăn có vị mặn mặn, cay cay, ăn kèm cơm nguội và dưa hấu rất ngon.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

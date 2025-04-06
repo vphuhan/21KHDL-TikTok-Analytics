@@ -1,0 +1,94 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ếch ồn nấu lá me và nỗi thèm thuồng trước đó.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chia sẻ khó khăn",
+      "desc": "Chia sẻ khó khăn trong việc tìm mua ếch ồn.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm."
+    },
+    {
+      "step": "Giới thiệu nguyên liệu",
+      "desc": "Giới thiệu nguyên liệu chính: ếch ồn và lá me.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Uống nước giải khát",
+      "desc": "Uống cà phê để tỉnh táo trong lúc nấu ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú."
+    },
+    {
+      "step": "Hoàn thành món ăn",
+      "desc": "Món ếch ồn nấu lá me đã hoàn thành.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Thưởng thức món ăn kèm nước mắm lá me.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Mời khán giả",
+      "desc": "Mời mọi người cùng ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi nghe."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "thèm",
+    "siêu béo",
+    "dai",
+    "sực sực",
+    "ngon",
+    "mê",
+    "đậm đà",
+    "sánh kẹo",
+    "tỉnh người"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ta nói cái trứng của con ếch ồn này nó siêu béo luôn á mọi người.",
+    "Thịt thì dai ăn cũng như ếch đồng vậy đó, nhưng mà có cái da của con này thì nhai vô sực sực, ngon lắm luôn.",
+    "Mới đầu dòm không dám ăn chứ ăn vô là mê à nha."
+  ],
+  "hook_content": "Hello mọi người, lại là tôi Mập Bự thích nấu ăn đây.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn nấu món ếch ồn nấu lá me, chia sẻ về quá trình tìm mua nguyên liệu và thưởng thức món ăn với những đánh giá hương vị hấp dẫn. Đồng thời, người nấu còn giới thiệu một loại cà phê tăng cường sức khỏe.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

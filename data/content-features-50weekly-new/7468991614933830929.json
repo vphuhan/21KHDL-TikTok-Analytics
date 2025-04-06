@@ -1,0 +1,72 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ốc chấm cơm mẻ, nhấn mạnh con ốc to.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Thao tác ăn",
+      "desc": "Gắp ốc và giới thiệu cách ăn ốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Miêu tả chi tiết",
+      "desc": "Miêu tả ruột ốc và cách làm sạch.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, cung cấp thông tin."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét về độ ngon của món ốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử món ăn."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Cảm ơn người xem đã theo dõi video.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy lịch sự."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người đã xem hết video của em nha."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "nóng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ốc chấm cơm mẻ, con ốc nó siêu to luôn.",
+    "Lấy cái ruột ra là mình có thể ăn được hết."
+  ],
+  "hook_content": "Mời mọi người ăn ốc với em nha. Ốc chấm cơm mẻ, con ốc nó siêu to luôn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang giới thiệu món ốc luộc chấm cơm mẻ, người quay vừa ăn vừa miêu tả hương vị và cách ăn.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món tokbokki bạch tuộc và phô mai ngô kéo sợi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới lạ."
+    },
+    {
+      "step": "Nhớ lại yêu cầu",
+      "desc": "Nhắc lại yêu cầu nấu mì tương đen từ người xem trước đó.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, có chút liên hệ với video trước."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Chia sẻ về việc mua nguyên liệu và cách sơ chế bạch tuộc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với mẹo rửa mực bằng bột mì."
+    },
+    {
+      "step": "Nấu tokbokki",
+      "desc": "Hướng dẫn nêm nếm gia vị cho món tokbokki.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung theo dõi công thức nấu ăn."
+    },
+    {
+      "step": "Làm phô mai ngô",
+      "desc": "Hướng dẫn làm phô mai ngô kéo sợi kết hợp với tokbokki.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú với món ăn kết hợp độc đáo."
+    },
+    {
+      "step": "Hoàn thiện món ăn",
+      "desc": "Trình bày món tokbokki và phô mai ngô đã hoàn thành.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử ngay món ăn hấp dẫn."
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng thưởng thức món tokbokki bạch tuộc.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy được mời tham gia bữa ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mời mọi người ăn chung với cả nhà mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thèm",
+    "kinh dị",
+    "ngọt ngọt béo béo"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mình thấy người ta luộc con bạch tuộc này nó đỏ lắm mà, bữa nay vô tay mình nó tái mét à.",
+    "Cái phô mai ngô này mà kết hợp với tokbokki là nó còn ngon nữa nè, không biết mọi người đã ăn chưa?",
+    "Còn đây là với kinh nghiệm 6 năm - 3 năm nấu tokbokki của mình thì đảm bảo hợp khẩu vị người Việt mình luôn."
+  ],
+  "hook_content": "Bữa nay có bạn nào thèm Tokbokki không? Nếu có thì vô đây ăn chung với bọn mình nha. Ừm, lại rất là kinh dị.",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn nấu món tokbokki bạch tuộc kết hợp phô mai ngô kéo sợi, chia sẻ cách sơ chế nguyên liệu và nêm nếm gia vị, đồng thời mời mọi người cùng thưởng thức.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu thử thách",
+      "desc": "Người nói giới thiệu về thử thách ăn theo yêu cầu của followers.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Bữa sáng",
+      "desc": "Bắt đầu ngày mới với món bún mắm nêm đậm vị.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu men vi sinh Antibio Pro hỗ trợ tiêu hóa.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng"
+    },
+    {
+      "step": "Nhấn mạnh lợi ích",
+      "desc": "Nhấn mạnh lợi ích của sản phẩm: ruột khỏe, bụng êm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Cảnh báo",
+      "desc": "Thông báo sản phẩm không phải là thuốc.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Tiếp tục thử thách",
+      "desc": "Tiếp tục hoàn thành thử thách ăn uống.",
+      "impact_level": "1",
+      "viewer_emotion": "Mong đợi"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "rén nhẹ"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cứ như tôi quy pha hai gói trước khi ăn là ruột khỏe, bụng êm, tha hồ ăn uống nha."
+  ],
+  "hook_content": "Hôm nay tôi sẽ làm thử thách một ngày ăn các món theo followers điều khiển.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại thử thách ăn theo yêu cầu của followers, bắt đầu với món bún mắm nêm và giới thiệu sản phẩm hỗ trợ tiêu hóa Antibio Pro để 'ruột khỏe, bụng êm'.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

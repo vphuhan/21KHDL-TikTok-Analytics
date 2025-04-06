@@ -1,0 +1,88 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Giới thiệu nguyên liệu chính: ốc bươu và các gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách chế biến."
+    },
+    {
+      "step": "Sơ chế ốc",
+      "desc": "Làm sạch ốc và cho ốc 'nhậu' bằng bia.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với cách làm độc đáo."
+    },
+    {
+      "step": "Làm nước sốt",
+      "desc": "Pha chế nước sốt tiêu xanh đặc trưng.",
+      "impact_level": "2",
+      "viewer_emotion": "Học hỏi công thức làm sốt."
+    },
+    {
+      "step": "Hấp ốc",
+      "desc": "Hấp ốc với sả và lá chanh.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ món ốc hấp dẫn."
+    },
+    {
+      "step": "Nướng ốc",
+      "desc": "Nướng ốc trên than hoa và thêm nước sốt.",
+      "impact_level": "3",
+      "viewer_emotion": "Kích thích vị giác."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Trình bày món ăn và mời mọi người cùng thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ai mà thèm thì triển liền nhen.",
+    "Giờ thì hai mời mọi người cùng ăn ốc nướng tiêu xanh với hai nhen."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "đã thèm",
+    "thơm bát ngát",
+    "hấp dẫn",
+    "thèm",
+    "ngon xuất sắc",
+    "bén"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ốc mới vừa nướng xong nóng hổi vừa thổi vừa ăn ngon xuất sắc luôn.",
+    "Mồi này công nhận là bén dữ lắm luôn á.",
+    "thơm bể cái lỗ mũi của nhà kế bên luôn"
+  ],
+  "hook_content": "Bươu nướng tiêu xanh ngon bất bại, có ai mỗi lần đi quán ốc là phải kêu bằng được cái món ốc bươu nướng tiêu xanh này không?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm món ốc bươu nướng tiêu xanh tại nhà, từ khâu sơ chế, làm nước sốt đến nướng ốc và thưởng thức, với lời mời gọi hấp dẫn đến người xem.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

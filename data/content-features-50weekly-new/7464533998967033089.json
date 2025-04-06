@@ -1,0 +1,99 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món đậu hũ sốt cà và thịt viên sốt cà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách làm món ăn."
+    },
+    {
+      "step": "Nêm nếm thịt xay",
+      "desc": "Hướng dẫn nêm nếm thịt xay để làm thịt viên.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, cần thêm thông tin chi tiết hơn."
+    },
+    {
+      "step": "Chuẩn bị đậu hũ",
+      "desc": "Hướng dẫn trộn thịt xay với đậu hũ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị với sự kết hợp này."
+    },
+    {
+      "step": "Chiên đậu hũ và thịt viên",
+      "desc": "Chiên đậu hũ nhồi thịt và thịt viên đến khi vàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi hình ảnh món ăn."
+    },
+    {
+      "step": "Sốt cà chua",
+      "desc": "Sử dụng gói sốt spaghetti để sốt thịt viên.",
+      "impact_level": "2",
+      "viewer_emotion": "Tiện lợi và nhanh chóng."
+    },
+    {
+      "step": "Hoàn thiện đậu hũ sốt cà",
+      "desc": "Sốt đậu hũ với gói sốt spaghetti.",
+      "impact_level": "3",
+      "viewer_emotion": "Hấp dẫn và thèm ăn."
+    },
+    {
+      "step": "Lời khuyên và gợi ý",
+      "desc": "Gợi ý tham khảo món ăn cho dịp Tết và cuộc thi.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích và có thêm lựa chọn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ofood đang có cuộc thi á, mấy chị quay lại video nấu ăn có sử dụng bài nhạc này để đăng lên TikTok để tham gia cuộc thi luôn á.",
+    "Giải thưởng hấp dẫn lắm nha, có iPad nè, tai nghe, nồi chiên không dầu."
+  ],
+  "cta_type": [
+    "Chia sẻ công thức",
+    "Xem video tiếp theo",
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "hao cơm",
+    "dễ sợ",
+    "thơm",
+    "béo",
+    "bắt vị",
+    "chảy nước miếng",
+    "ngon",
+    "nhanh gọn",
+    "bắt mắt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tết này không có cần tìm món mới món lạ, mà em thấy có mấy món quen thuộc chỉ cần biến tấu lại một xíu thôi, là tao nói nó vừa ngon mà còn nhanh gọn bắt mắt nữa",
+    "Đậu hũ mà chiên xong á, phi thiệt thơm là hành tỏi. Mình cho cái đậu hũ vô xong rồi mình chế trực tiếp cái gói sốt spaghetti vị nguyên bản này vô luôn.",
+    "Cái nhạc nền quay video của em á là cũng dùng AI để tạo sẵn luôn á mấy chị ơi."
+  ],
+  "hook_content": "Đậu hũ sốt cà hay là thịt viên sốt cà mà nấu hoài không có ngon á thì mấy chị tham khảo thử cái cách đậu hũ sốt cà này của em nha.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn cách làm đậu hũ sốt cà và thịt viên sốt cà đơn giản, nhanh gọn, sử dụng gói sốt spaghetti có sẵn. Người nói còn gợi ý tham khảo món ăn này cho dịp Tết và tham gia cuộc thi của Ofood.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước",
+    "Hào hứng"
+  ]
+}

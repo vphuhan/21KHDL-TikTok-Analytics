@@ -1,0 +1,84 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Mẹ con đón bé đi học về, giới thiệu món súp nghêu Hàn Quốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Giới thiệu các nguyên liệu hải sản tươi ngon mua ở chợ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Bắt đầu nấu súp",
+      "desc": "Hướng dẫn chi tiết các bước nấu súp nghêu kiểu Hàn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "Nêm nếm gia vị",
+      "desc": "Nêm nếm gia vị và đậy nắp bằng một cái thao lớn.",
+      "impact_level": "1",
+      "viewer_emotion": "Hơi buồn cười"
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Cả nhà cùng nhau thưởng thức món súp nghêu nóng hổi.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Bỏ bún vào",
+      "desc": "Bỏ bún vào ăn cùng",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn cùng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mời mọi người ăn chung với nhà mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thèm",
+    "hấp dẫn",
+    "vui"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tối nay nhà mình sẽ ăn súp nghêu nấu kiểu Hàn.",
+    "Mình nói thiệt với mọi người là chỉ có cái thao đó mới đậy vừa cái chảo nhà mình thôi.",
+    "Trời ơi nó chín rồi, dai đó."
+  ],
+  "hook_content": "Hôm nay như lại hứa với Soohan rằng mùa thu mình sẽ cho ảnh đi ra ngoài nhiều hơn, nên là buổi nay mình cho ảnh đi đón Tuong Han đi học về nha.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình chuẩn bị và nấu món súp nghêu kiểu Hàn tại nhà, từ khâu đi chợ mua nguyên liệu đến khi cả gia đình cùng nhau thưởng thức món ăn nóng hổi. Món ăn được miêu tả là dễ nấu và hấp dẫn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

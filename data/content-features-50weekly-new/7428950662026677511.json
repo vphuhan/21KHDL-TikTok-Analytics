@@ -1,0 +1,91 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sự nhầm lẫn",
+      "desc": "Ba gọi điện vì shipper giao nhầm cục pate sọ dừa.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn được nhắc đến."
+    },
+    {
+      "step": "Nhận diện sản phẩm",
+      "desc": "Nhận ra cục pate là chả da trứng muối của Huyền Phi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với cách gọi khác nhau của món ăn."
+    },
+    {
+      "step": "Miêu tả ngoại hình",
+      "desc": "Lớp da bóng, bên trong nhiều trứng muối, giống giò thủ.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung được hình dáng và thành phần món ăn."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Thơm mùi chả thịt, không mỡ, trứng muối béo mặn.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng và muốn ăn thử."
+    },
+    {
+      "step": "Gợi ý cách ăn",
+      "desc": "Ăn với cơm rất hợp, có thể kho, xào, chế biến.",
+      "impact_level": "2",
+      "viewer_emotion": "Có thêm ý tưởng về cách thưởng thức món ăn."
+    },
+    {
+      "step": "Nhấn mạnh giá trị",
+      "desc": "Nhờ Huyền Phi mà biết đến món chả da ba tê ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Đánh giá cao sự phổ biến của món ăn."
+    },
+    {
+      "step": "Đặt câu hỏi tương tác",
+      "desc": "Hỏi về cách gọi món ăn ở miền Tây và so sánh.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về sự khác biệt vùng miền."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "hết hồn",
+    "ghê",
+    "không biết",
+    "ngộ",
+    "rén",
+    "vui tay",
+    "ngon",
+    "ngon lắm á"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Từ nhỏ tới giờ Bi chỉ biết ăn ba tê bánh mì thôi chứ không có biết cái cục ba tê là cục gì hết trơn á.",
+    "Cho trứng muối cỡ này mới gọi là cho chứ. Làm vậy cắt ra nhà có mấy đứa cháu nhỏ, mỗi đứa một khoanh đều có trứng muối không có ai tị nạnh ai.",
+    "Vậy tính ra cái cục sọ dừa này cũng tiện hen. Mua về không cần nấu nướng, chỉ cần cắt ra ăn với cơm thôi."
+  ],
+  "hook_content": "Tháng nay ba mình gọi điện tá hỏa kêu ai giao mà cái cục sọ dừa nè.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review món chả da trứng muối, hay còn gọi là ba tê, với nhiều cách gọi khác nhau tùy vùng miền. Người nói chia sẻ trải nghiệm lần đầu ăn món này và đánh giá cao hương vị, độ tiện lợi của nó.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu món bánh chưng rán như một món ăn quen thuộc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Liên hệ bản thân",
+      "desc": "Chia sẻ trải nghiệm cá nhân về việc ăn bánh chưng ngày Tết.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Gợi ý địa điểm",
+      "desc": "Giới thiệu quán bánh chưng rán ở cổng sau trường tiểu học.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Miêu tả quán",
+      "desc": "Miêu tả về người bán và cách phục vụ ở quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng"
+    },
+    {
+      "step": "Giới thiệu giá",
+      "desc": "Thông tin về giá cả các món ăn ở quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Miêu tả hương vị và cách thưởng thức bánh chưng rán.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Kêu gọi ủng hộ",
+      "desc": "Kêu gọi mọi người ủng hộ quán bánh chưng rán.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ai ở gần thì qua ủng hộ u nhá."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon lành",
+    "thích",
+    "béo ngậy",
+    "hợp lý"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nếu để mà nói về một cái món mà có thể ăn ngon lành quanh năm, nhưng mà cứ đến Tết thì lại ngấy thì chính là cái món bánh chưng này anh em ạ.",
+    "Ăn vỏ ngoài giòn nhưng bên trong rồi lớp nếp lớp đỗ là cứ phải là béo ngậy.",
+    "Vị nó không quá ngon đâu nhưng mà ăn nó cứ hợp lý anh em ạ."
+  ],
+  "hook_content": "Nếu để mà nói về một cái món mà có thể ăn ngon lành quanh năm, nhưng mà cứ đến Tết thì lại ngấy thì chính là cái món bánh chưng này anh em ạ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu quán bánh chưng rán vỉa hè với món bánh chưng rán giòn rụm, béo ngậy, giá cả phải chăng, phù hợp để ăn quà chiều hoặc ăn trưa. Chủ quán là một người phụ nữ lớn tuổi nhưng rất nhanh nhẹn và thân thiện.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

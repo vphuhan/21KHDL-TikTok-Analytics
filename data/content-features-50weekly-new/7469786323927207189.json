@@ -1,0 +1,98 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu mở đầu",
+      "desc": "Giới thiệu video review 5 món ăn đầu tiên trên TikTok.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn được review."
+    },
+    {
+      "step": "Trải nghiệm mua hàng",
+      "desc": "Chia sẻ trải nghiệm mua các món ăn trên livestream.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thú vị với trải nghiệm mua sắm."
+    },
+    {
+      "step": "Bánh tráng phơi sương",
+      "desc": "Đánh giá chi tiết về bánh tráng phơi sương.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món bánh tráng phơi sương."
+    },
+    {
+      "step": "Bắp rang Mỹ vị trứng muối",
+      "desc": "Đánh giá bắp rang vị trứng muối, không có vị trứng muối.",
+      "impact_level": "3",
+      "viewer_emotion": "Thất vọng vì bị lừa."
+    },
+    {
+      "step": "Socola nama truffle",
+      "desc": "Nhận xét về socola nama truffle, vị ngọt rẻ tiền.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị socola."
+    },
+    {
+      "step": "Kẹo dẻo Đức",
+      "desc": "Đánh giá kẹo dẻo Đức quá đắt và dai.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ về giá và độ dai của kẹo."
+    },
+    {
+      "step": "Bánh quy LSS",
+      "desc": "Review chi tiết các vị bánh quy LSS.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử các loại bánh quy."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Comment cho tôi biết cũng như là like và follow để xem tôi tiếp tục phí tiền cho bạn nhé."
+  ],
+  "cta_type": [
+    "Follow kênh",
+    "Thích video",
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "chua cay mặn ngọt",
+    "béo béo ngậy ngậy",
+    "dai",
+    "giòn",
+    "ngấy",
+    "thơm",
+    "ngọt",
+    "đắng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tôi sợ mấy cái livestream kiểu này vãi, nhìn nó rất là robot, không còn tí tình người nào ấy.",
+    "Phải nói thật, bánh tráng phơi sương là một món khá là ngon, chua cay mặn ngọt xong lại có ít béo béo ngậy ngậy, xong rồi còn vừa dai lại vừa giòn.",
+    "Ăn không hề có bất cứ một mùi trứng muối nào cả. Không khác gì bắp rang bơ bình thường. Ăn nó giống mấy cái bắp ở trong cái chai khổng lồ ấy. Scam thật đấy."
+  ],
+  "hook_content": "Review năm món ăn xuất hiện đầu tiên trên TikTok, bắt đầu!",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video review 5 món ăn nổi trên TikTok, từ bánh tráng phơi sương đến kẹo dẻo, bánh quy. Người review chia sẻ trải nghiệm thực tế về hương vị, chất lượng và giá cả, đồng thời đưa ra đánh giá khách quan về từng món.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán mì bò núp hẻm ở quận 5, ăn hơn 1 năm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về địa điểm và hương vị."
+    },
+    {
+      "step": "Điểm đặc biệt",
+      "desc": "Nước lèo không nêm bột ngọt, sa tế đặc biệt, mì khô ba sốt.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng bởi sự độc đáo."
+    },
+    {
+      "step": "Nguyên liệu và kinh nghiệm",
+      "desc": "Nước lèo hầm xương bò, kinh nghiệm 40 năm của người Hoa.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng món ăn."
+    },
+    {
+      "step": "Đa dạng món",
+      "desc": "Mì nước, mì khô, sủi cảo bò, sa tế bò, hủ tiếu, xá xíu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự lựa chọn đa dạng."
+    },
+    {
+      "step": "Miêu tả món ăn",
+      "desc": "Mì trộn sốt ngon, mì nước đầy đủ topping, sủi cảo đặc biệt.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi hình ảnh món ăn."
+    },
+    {
+      "step": "Địa chỉ quán",
+      "desc": "Mì bò Duy nằm trong hẻm Trần Hưng Đạo, quận 5.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhớ địa chỉ để ghé thăm."
+    },
+    {
+      "step": "Lời kêu gọi",
+      "desc": "Xin trải nghiệm của người đã ăn, thông tin giờ mở cửa.",
+      "impact_level": "1",
+      "viewer_emotion": "Mong muốn chia sẻ và kết nối."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ai mà đã ăn rồi thì cho Phúc xin trải nghiệm nha."
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "mê",
+    "độc đáo",
+    "ngon xỉu úp xỉu đao"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "mì bò khô với ba kiểu sốt độc đáo mà chỉ có ở đây có thôi",
+    "sa tế bò, người Hoa ăn vẫn ngon, người Việt ăn vẫn ngon",
+    "Lâu lâu ghé lại làm một cái phần sa tế bò mà nước mì sa tế của chú ngon xỉu úp xỉu đao luôn nha má ơi."
+  ],
+  "hook_content": "Phúc đây là không sử dụng bột ngọt, cho nên nước lèo nó rất là trong thanh.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu quán mì bò Hong Kong núp hẻm ở quận 5 với nước lèo trong thanh, không bột ngọt và mì khô trộn ba loại sốt đặc biệt do chú người Hoa làm bếp 40 năm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

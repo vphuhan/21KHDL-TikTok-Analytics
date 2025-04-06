@@ -1,0 +1,86 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bánh bột lọc lười đang hot và cách thực hiện.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị vì sự mới lạ của món ăn."
+    },
+    {
+      "step": "Chia sẻ động lực",
+      "desc": "Nêu lý do muốn làm bánh bột lọc nhưng ngại công đoạn gói lá.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với sự lười biếng của người nấu."
+    },
+    {
+      "step": "Hướng dẫn trộn bột",
+      "desc": "Hướng dẫn trộn bột năng với tỉ lệ 1:1 và hành lá.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích nhưng không quá đặc sắc."
+    },
+    {
+      "step": "Hướng dẫn khuấy bột",
+      "desc": "Hướng dẫn khuấy bột trên chảo đến khi bột trong lại.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với quá trình biến đổi của bột."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Nhấn mạnh vai trò của nước mắm và mời mọi người cùng ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm giác thèm thuồng khi nhắc đến nước mắm."
+    },
+    {
+      "step": "So sánh",
+      "desc": "So sánh bánh bột lọc lười với bột quậy và khẳng định sự ngon miệng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn thử món ăn này."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi nghen."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "hợp rơ",
+    "mê",
+    "ngon",
+    "tê tê tâm hồn",
+    "đã mắt",
+    "xịn sò"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái cục bột nhão nhão dính dính như vầy mà làm mưa làm gió bữa giờ hot rần rần luôn.",
+    "Ta nói bột lọc làm theo kiểu này vị nó ăn không có khác gì hết ráo, ăn thua là cái chén nước mắm hà.",
+    "Tính ra ai mà lười không có thời gian thì làm một chảo như vầy ăn cũng xịn sò ngon lắm luôn."
+  ],
+  "hook_content": "Hello hello, lại là tôi, mặt bự thích nấu ăn đây. Cái cục bột nhão nhão dính dính như vầy mà làm mưa làm gió bữa giờ hot rần rần luôn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn cách làm bánh bột lọc lười đang hot, chia sẻ kinh nghiệm và mời mọi người cùng ăn. Món ăn này phù hợp với người lười hoặc không có nhiều thời gian.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

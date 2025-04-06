@@ -1,0 +1,102 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Tự nhận là bông hoa xinh đẹp của gia đình, bị bỏ rơi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị với cách mở đầu hài hước."
+    },
+    {
+      "step": "Phát hiện vali",
+      "desc": "Tìm thấy vali đặc biệt, nghi ngờ người thân chuẩn bị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về nội dung bên trong vali."
+    },
+    {
+      "step": "Unboxing vali",
+      "desc": "Khám phá các 'tiệm' đồ ăn, đồ chơi, nước giải khát.",
+      "impact_level": "3",
+      "viewer_emotion": "Phấn khích trước sự đa dạng và chỉnh chu."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Uống nước Sasa Trương Dương, gợi nhớ hương vị Tết xưa.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với trải nghiệm gợi nhớ kỷ niệm."
+    },
+    {
+      "step": "Bàn ăn ngày Tết",
+      "desc": "Giới thiệu bàn ăn đầy ắp món ngon ngày Tết.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với các món ăn hấp dẫn."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Ăn gà luộc chấm muối ớt, đổ thừa chị đẹp nấu ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy vui vẻ với cách nói hài hước."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Ôm thùng Sasa Trương Dương, nhớ Tết xưa vui Tết này.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thôi thúc muốn mua về trải nghiệm."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Truyền thống",
+    "Đời thường",
+    "Sáng tạo"
+  ],
+  "cta_content": [
+    "Còn bây giờ thì khởi nghiệp thôi."
+  ],
+  "cta_type": [
+    "Thích video",
+    "Chia sẻ"
+  ],
+  "emotion_keywords": [
+    "xinh đẹp",
+    "thú vị",
+    "xịn sò",
+    "thơm ngon",
+    "đã",
+    "mát lạnh",
+    "sảng khoái",
+    "khoái",
+    "cay cay",
+    "chua chua",
+    "ngọt ngọt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Kiểu này chắc phải xách vali bỏ nhà đi để có một cái Tết chấn động quá.",
+    "Thay vì xách vali đi thì chiếc vali này sẽ giúp mình khởi nghiệp à không khởi nguồn cho những ký ức tuổi thơ ngày Tết truyền thống ùa về.",
+    "Cái gì đổ thừa cho người khác được thì đừng đổ thừa cho bản thân. Vậy nên là hãy đổ thừa chị đẹp nấu ăn ngon quá chứ không phải mình ăn nhiều đâu."
+  ],
+  "hook_content": "Nghe nói sáng nay cả nhà đi mua bông chưng Tết, nhưng không nhớ rằng ở cái nhà này còn một bông hoa hết sức xinh đẹp, thì là mình đó, sơ hở là cái bông này bị bỏ nhà.",
+  "hook_type": [
+    "Gây tò mò",
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện"
+  ],
+  "summarization": "Video kể về trải nghiệm nhớ Tết xưa và vui Tết nay của một người, bắt đầu bằng việc phát hiện một vali đặc biệt chứa đựng những món đồ gợi nhớ kỷ niệm Tết truyền thống, đặc biệt là hương vị của Sasa Trương Dương. Người này cũng chia sẻ về bàn ăn ngày Tết với những món ngon quen thuộc và cảm xúc khi thưởng thức chúng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

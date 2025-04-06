@@ -1,0 +1,83 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu sản phẩm mới của Nutri Boost và so sánh với loại cũ",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm mới"
+    },
+    {
+      "step": "Đánh giá bao bì",
+      "desc": "Nhận xét về thiết kế bao bì mới, so sánh với bản cũ",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị về sự thay đổi"
+    },
+    {
+      "step": "Phân loại sản phẩm",
+      "desc": "Giải thích sự khác biệt giữa sữa trái cây và sữa chua uống",
+      "impact_level": "1",
+      "viewer_emotion": "Nắm bắt thông tin cơ bản"
+    },
+    {
+      "step": "So sánh độ mịn",
+      "desc": "So sánh độ mịn của sản phẩm mới với sữa chua Hy Lạp",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung về kết cấu sản phẩm"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá hương vị và so sánh giữa các loại",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị"
+    },
+    {
+      "step": "Kết luận và khuyến khích",
+      "desc": "Kết luận về sản phẩm yêu thích và khuyến khích mọi người thử",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử sản phẩm"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người cùng thử nhá."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "mới lạ",
+    "chân ái"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái loại này sẽ là một dòng sản phẩm hoàn toàn mới của Nutri Boost.",
+    "Cảm giác là Việt Quất nó vẫn kiểu lạ hơn.",
+    "Chân ái mới là đây."
+  ],
+  "hook_content": "Ê tính ra nhiều bạn bây giờ vẫn không phân biệt được hai cái dòng này của Nutri Boost đâu nhá.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "So sánh",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu và so sánh sản phẩm mới của Nutri Boost là sữa chua uống Hy Lạp vị việt quất với các dòng sản phẩm cũ, đánh giá về bao bì, độ mịn và hương vị, đồng thời khuyến khích mọi người dùng thử.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món chân gà rút xương và mời mọi người cùng ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Trải nghiệm hương vị",
+      "desc": "Miêu tả hương vị của món ăn bằng những từ ngữ ấn tượng.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn ăn thử."
+    },
+    {
+      "step": "Đánh giá độ giòn",
+      "desc": "Hỏi người xem về độ giòn của chân gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung quan sát."
+    },
+    {
+      "step": "Nhận xét ưu điểm",
+      "desc": "Nhấn mạnh sự tiện lợi của chân gà rút xương.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích."
+    },
+    {
+      "step": "Đánh giá chất lượng",
+      "desc": "Khẳng định chất lượng và hương vị đặc trưng của chân gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào sản phẩm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "giòn",
+    "tê tê",
+    "cay cay"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ăn chân gà, ngon mà vãi nồi.",
+    "Ăn mà sắp buồn nôn, vì ăn no quá lốc.",
+    "Chân gà nhà bà Tuyết thì chất lượng uy tín khỏi bàn rồi."
+  ],
+  "hook_content": "Chiều nay ăn chân gà, ngon mà vãi nồi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review chân gà rút xương của bà Tuyết, tập trung vào hương vị cay tê, độ giòn và sự tiện lợi khi ăn. Người review thể hiện sự thích thú với món ăn này.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

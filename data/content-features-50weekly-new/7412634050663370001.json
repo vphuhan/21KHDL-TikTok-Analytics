@@ -1,0 +1,95 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món chân gà hấp hành và chia sẻ sự yêu thích.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Sơ chế",
+      "desc": "Chia sẻ cách sơ chế chân gà để loại bỏ mùi hôi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "Ướp gia vị",
+      "desc": "Hướng dẫn ướp gia vị, đặc biệt là tỏi phi.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Hấp chân gà",
+      "desc": "Hấp chân gà trong 15 phút sau khi nước sôi.",
+      "impact_level": "1",
+      "viewer_emotion": "Chờ đợi"
+    },
+    {
+      "step": "Uống cafe",
+      "desc": "Pha cà phê Laura của Nhật Kim Anh để giải nhiệt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Pha muối ớt",
+      "desc": "Pha muối ớt để ăn kèm với chân gà.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Thưởng thức chân gà và mời mọi người ăn cùng.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấm áp"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi nhen."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "cuốn",
+    "thơm",
+    "cay",
+    "xuýt xoa",
+    "tê tái tâm hồn",
+    "dai mềm",
+    "vừa tới",
+    "muốn ăn thêm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ăn cuốn gì đâu luôn",
+    "muối ớt đâm cay xuýt xoa mà tê tái tâm hồn",
+    "ăn một cái là ngay, muốn ăn thêm cái nữa chứ không có thể nào dừng lại luôn"
+  ],
+  "hook_content": "Hello mọi người, lại là tôi, Mập Bữa Tấm nấu ăn đây.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm món chân gà hấp hành đơn giản tại nhà, từ khâu sơ chế, ướp gia vị đến hấp chín. Người làm video vừa nấu ăn vừa chia sẻ cảm xúc và mời mọi người cùng thưởng thức.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món cơm cháy kho quẹt để ăn trước Tết.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Ca ngợi gạo Việt",
+      "desc": "Nhấn mạnh gạo Việt Nam ngon và biến tấu được nhiều món.",
+      "impact_level": "1",
+      "viewer_emotion": "Tự hào"
+    },
+    {
+      "step": "Nhớ về quá khứ",
+      "desc": "Kể về kho quẹt thời khó khăn và sự biến tấu hiện tại.",
+      "impact_level": "2",
+      "viewer_emotion": "Hoài niệm"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Giới thiệu nguyên liệu tươi ngon cho món kho quẹt.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Chế biến kho quẹt",
+      "desc": "Mô tả quá trình xào ba rọi và thêm các nguyên liệu khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "Nêm nếm gia vị",
+      "desc": "Nêu các loại gia vị được thêm vào, đặc biệt là tương ớt Chin-Su.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Thưởng thức và đánh giá",
+      "desc": "Khen ngon và chê bản thân màu mè, mời mọi người cùng ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Vui vẻ"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mời cả nhà ăn với anh em tướng nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "cay cay",
+    "đã"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Không có đâu mà gạo ngon bằng gạo Việt Nam mình, mà chắc cũng chỉ có ở Việt Nam là biến tấu được nhiều món ngon từ cơm gạo nhất luôn.",
+    "Còn bây giờ biến tấu quá trời, làm món kho quẹt còn tốn hơn mấy món thịt cá nữa.",
+    "Nấu tương ớt Chin-Su hoài mà chưa thấy Chin-Su tài trợ cho một thùng tương ớt luôn."
+  ],
+  "hook_content": "Làm cơm cháy kho quẹt ăn cho đã, trước khi bước vào chuỗi ngày Tết thịt cá ê hề nha cả nhà.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu món cơm cháy kho quẹt như một món ăn \"giải ngán\" trước Tết. Người làm video chia sẻ trải nghiệm cá nhân, từ ký ức về món ăn thời khó khăn đến cách biến tấu hiện đại, đồng thời không quên thêm yếu tố hài hước.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

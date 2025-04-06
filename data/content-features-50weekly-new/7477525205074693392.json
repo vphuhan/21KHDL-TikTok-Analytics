@@ -1,0 +1,91 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món đùi gà chiên muối và công thức học được.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy tò mò về món ăn."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Hướng dẫn chọn và sơ chế đùi gà.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    },
+    {
+      "step": "Ướp gia vị",
+      "desc": "Hướng dẫn ướp đùi gà với tỏi, muối, bột ngọt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với cách ướp đơn giản."
+    },
+    {
+      "step": "Chiên gà lần 1",
+      "desc": "Hướng dẫn chiên đùi gà lần 1 ở lửa nhỏ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích với mẹo chiên gà."
+    },
+    {
+      "step": "Chiên gà lần 2",
+      "desc": "Hướng dẫn chiên đùi gà lần 2 ở lửa lớn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với bí quyết chiên giòn."
+    },
+    {
+      "step": "Thành phẩm và đánh giá",
+      "desc": "Giới thiệu thành phẩm và cảm nhận về món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thấy thèm thuồng và muốn thử."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu sản phẩm an cung bổ não.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Xin chào anh chị, em là Bon, em ở quận 8 cầu chữ Y á.",
+    "Ăn mà không có ngon á bắt đền em nè."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "giòn rụm",
+    "hấp dẫn",
+    "thơm",
+    "mềm ẩm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trời ơi nó dễ làm mà ăn ngon lắm nha.",
+    "Cái vị của nó mặn mặn nè, cái lớp da nó giòn rụm mà nó mỏng tanh à.",
+    "Ăn mà không có ngon á bắt đền em nè."
+  ],
+  "hook_content": "Đùi gà mua về á, mấy chị đừng có đem đi chiên bình thường nữa, mà thử đem đi chiên muối giống như em vậy nè.",
+  "hook_type": [
+    "Gây tò mò",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn chi tiết cách làm món đùi gà chiên muối giòn rụm tại nhà, chia sẻ bí quyết để có lớp da giòn và thịt mềm ẩm. Đồng thời, video cũng giới thiệu sản phẩm an cung bổ não.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

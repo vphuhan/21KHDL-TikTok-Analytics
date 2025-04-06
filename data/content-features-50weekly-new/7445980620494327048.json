@@ -1,0 +1,76 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Chào và giới thiệu món xúc xích phô mai Thái Lan đang hot.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Ăn thử",
+      "desc": "Ăn và miêu tả cảm nhận ban đầu về xúc xích.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét vị mặn và ngon của xúc xích.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình"
+    },
+    {
+      "step": "Trải nghiệm",
+      "desc": "Phô mai dính răng và cảm giác ngon miệng khi ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Kêu gọi bình luận món muốn ăn và tạm biệt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Các bạn muốn ăn thêm món gì thì bình luận ở phía dưới cho bạn biết đó nha."
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "thèm",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bữa giờ siêu hot luôn, cháy hàng luôn.",
+    "Trời ơi, cái cây xúc xích này chắc 20 cm đó mấy chị ơi, nó bự lắm.",
+    "Trời ơi, phô mai kìa."
+  ],
+  "hook_content": "Hello mấy chị. Hôm nay mời mọi người ăn xúc xích phô mai Thái Lan với em nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang giới thiệu và ăn xúc xích phô mai Thái Lan đang hot, với những đánh giá về hương vị và trải nghiệm cá nhân. Kêu gọi người xem bình luận món ăn yêu thích.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

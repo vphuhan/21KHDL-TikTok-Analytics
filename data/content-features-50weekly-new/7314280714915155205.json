@@ -1,0 +1,92 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Khách du lịch, người Việt ở nước ngoài",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán ăn đầu tiên",
+      "desc": "Giới thiệu quán cuốn sủi ông há nổi tiếng được gợi ý nhiều.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán ăn được nhiều người gợi ý."
+    },
+    {
+      "step": "Đánh giá trải nghiệm",
+      "desc": "Nhận xét về không gian, tốc độ phục vụ và giá cả.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thông tin hữu ích về trải nghiệm tại quán."
+    },
+    {
+      "step": "Miêu tả món ăn",
+      "desc": "Miêu tả chi tiết về thành phần và hương vị cuốn sủi.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung được hương vị và muốn thử."
+    },
+    {
+      "step": "Giới thiệu quán ăn thứ hai",
+      "desc": "Giới thiệu quán bún chả Ngân Cảnh và so sánh với Hà Nội.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết thêm một lựa chọn quán ăn khác ở Sapa."
+    },
+    {
+      "step": "Lưu ý về độ cay",
+      "desc": "Nhấn mạnh độ cay của bún chả và gợi ý điều chỉnh.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảnh giác với độ cay của món ăn."
+    },
+    {
+      "step": "Giới thiệu trải nghiệm ăn nướng",
+      "desc": "Giới thiệu bữa ăn nướng buổi tối và cảm nhận cá nhân.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và ấn tượng với đồ nướng ở Sapa."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Đánh giá chất lượng thịt, nước chấm và dịch vụ.",
+      "impact_level": "2",
+      "viewer_emotion": "Có cái nhìn tổng quan và khách quan về quán."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bác nào chưa biết ăn gì thì nhớ xem hết video này đấy."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngọt",
+    "cay",
+    "ưng ý",
+    "ngon",
+    "no"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Rau trên Sapa kiểu ngậm nước cảm giác ngọt, cuốn cùng thịt ăn đúng hết nước chấm.",
+    "Mỗi tội ăn ngon với đói nên chưa kịp quay bọn mình đã chén sạch rồi.",
+    "Đấy, vì là con gái nên một ngày ăn ba bữa thế thôi, chụp ảnh sống ảo là chính ấy."
+  ],
+  "hook_content": "Ba quả nan nhất định mọi người phải thử khi đến Sapa.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video giới thiệu trải nghiệm ăn uống ở Sapa, bao gồm cuốn sủi ông há, bún chả Ngân Cảnh và đồ nướng. Người xem được gợi ý các món nên thử và địa điểm ăn ngon khi đến Sapa.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu lương khô vị sô cô la, nhấn mạnh vị ngon và giá cả.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị sản phẩm."
+    },
+    {
+      "step": "Thông tin chi tiết",
+      "desc": "Nguồn gốc xuất xứ, so sánh với sản phẩm đã review trước đây.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin cơ bản về sản phẩm."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Miêu tả chi tiết hương vị sô cô la, không bị giả, không nồng.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung được hương vị sản phẩm."
+    },
+    {
+      "step": "Trải nghiệm ăn",
+      "desc": "Nhấn mạnh độ ngon, gây nghiện và cảm giác 'bon mồm'.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn ăn thử."
+    },
+    {
+      "step": "Phân tích vị giác",
+      "desc": "Phân tích các vị ngọt, đắng, mặn có trong lương khô.",
+      "impact_level": "2",
+      "viewer_emotion": "Hiểu rõ hơn về thành phần hương vị."
+    },
+    {
+      "step": "Tính tiện dụng",
+      "desc": "Sử dụng lương khô như một bữa ăn nhanh chóng và tiện lợi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được tính ứng dụng của sản phẩm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người ai mà thích ăn a vị sô cô la ấy thì có thể tham khảo thử cái loại lương khô này nhá."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "siêu ngon",
+    "thích",
+    "cuốn",
+    "bon mồm",
+    "ngọt nhẹ",
+    "dịu",
+    "ít ngọt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đương khô vị sô cô la siêu ngon luôn, mà giá lại không hề cao nhá.",
+    "Cái này ăn nó bị cuốn đó mọi người, ăn nó bon mồm, một lúc phải ăn vài cái luôn.",
+    "Sáng dậy sớm mà vội đi đâu ấy thì mang theo vài cái đi ăn sáng cũng rất là ok."
+  ],
+  "hook_content": "Đương khô vị sô cô la siêu ngon luôn, mà giá lại không hề cao nhá.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review lương khô vị sô cô la, tập trung vào hương vị đặc biệt, độ ngon gây nghiện, và tính tiện dụng khi sử dụng như bữa ăn nhanh.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

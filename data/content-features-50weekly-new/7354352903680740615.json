@@ -1,0 +1,90 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ăn Hàn Quốc giá rẻ có thể tự làm tại nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị vì gợi ý món ăn hấp dẫn."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Luộc miếng đậu xanh để làm mềm trước khi chế biến.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có nhiều cảm xúc."
+    },
+    {
+      "step": "Lưu ý về nguyên liệu",
+      "desc": "Gợi ý thay thế nguyên liệu và nhắc nhở về sự khác biệt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị vì có thêm thông tin hữu ích."
+    },
+    {
+      "step": "Cuộn nguyên liệu",
+      "desc": "Hướng dẫn cuộn miếng và rong biển sao cho chặt tay.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, dễ hiểu."
+    },
+    {
+      "step": "Mẹo chiên giòn",
+      "desc": "Chia sẻ mẹo chiên bột giòn lâu bằng cách dùng đá lạnh.",
+      "impact_level": "3",
+      "viewer_emotion": "Phấn khích vì có mẹo hay."
+    },
+    {
+      "step": "Giải thích về giọng nói",
+      "desc": "Giải thích về giọng nói bị khàn do bị cảm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không quá quan trọng."
+    },
+    {
+      "step": "Khẳng định sự chân thật",
+      "desc": "Khẳng định không cố tình làm giọng điệu và mời mọi người làm thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị vì sự hài hước và chân thật."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Bạn phải thử nha"
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "rẻ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "mình tự làm ở nhà chỉ có 5.000đ một phần thôi à, siêu rẻ luôn bạn phải thử nha",
+    "ở quê mình người ta hay dùng miếng dong để ăn gà đó, người ta chửi quanh năm ngày tháng luôn, lúc nào cũng có",
+    "Có cái mẹo để phần bột chiên giòn của bạn giòn hơn mà không phải ai cũng nói cho bạn biết đâu, là bạn cho đá lạnh vào đi"
+  ],
+  "hook_content": "Món này người ta hay bán ở trong nhà hàng Hàn Quốc mà mắc lắm, mình tự làm ở nhà chỉ có 5.000đ một phần thôi à, siêu rẻ luôn bạn phải thử nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm món ăn Hàn Quốc đơn giản, giá rẻ tại nhà chỉ với 5.000đ một phần, kèm theo các mẹo để món ăn ngon hơn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

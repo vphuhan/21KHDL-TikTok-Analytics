@@ -1,0 +1,97 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món giộp hấp muối tự làm và hỏi người xem đã thử chưa.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới lạ."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Hướng dẫn sơ chế giộp và bọc giấy bạc cùng các nguyên liệu khác.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin cơ bản."
+    },
+    {
+      "step": "Hấp giộp",
+      "desc": "Mô tả quá trình hấp giộp và chia sẻ kinh nghiệm để không bị mặn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích và có thêm mẹo."
+    },
+    {
+      "step": "Thưởng thức và nhận xét",
+      "desc": "Thưởng thức giộp hấp và đưa ra cảm nhận về hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử ngay."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu sản phẩm cà phê Laura và các lợi ích sức khỏe.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm mới."
+    },
+    {
+      "step": "Chuẩn bị nước chấm",
+      "desc": "Giới thiệu cách làm muối ớt để ăn kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy ngon miệng hơn."
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng ăn và khẳng định lại độ ngon của món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn được ăn cùng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người có bao giờ thử chưa?",
+    "Nhà có mớ giộp thì bữa nay triển với tôi luôn nha."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon ngọt",
+    "cực kỳ ngon ngọt",
+    "ú nu",
+    "cay xương xương",
+    "tới tát tâm hồn",
+    "hơi bị nhức nhói",
+    "đậm đà sánh kẹo",
+    "vừa ngon vừa khỏe",
+    "mê"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Giộp mà mình hấp giấy bạc như vậy là tôi thấy ăn cực kỳ ngon ngọt, mà con giộp của mình vẫn còn ú nu không có bị teo hay mặn một xíu nào luôn.",
+    "Tính ra ăn kiểu này hơi bị nhức nhói rồi nhen.",
+    "Trời ơi, giộp mà mình hấp giấy bạc như vậy là tôi thấy ăn cực kỳ ngon ngọt"
+  ],
+  "hook_content": "Thấy tôi quấn giấy bạc như vậy tưởng là cua ngán đắt đỏ, ai dè là con giộp miền tây nhưng mà tôi biến tấu làm theo kiểu này, rặn mình hấp muối ăn cho nó ngon ngọt.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video giới thiệu món giộp bọc giấy bạc hấp muối tự làm, chia sẻ cách chế biến và cảm nhận về hương vị, đồng thời giới thiệu thêm sản phẩm cà phê tốt cho sức khỏe.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món măng vầu Tây Bắc đang hot và lạ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Chuẩn bị và chia sẻ",
+      "desc": "Rủ mọi người cùng luộc măng và chia sẻ về trải nghiệm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Mô tả chi tiết",
+      "desc": "Mô tả giá cả, đặc điểm mọc sâu dưới lòng đất.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "So sánh và đánh giá",
+      "desc": "So sánh với măng thường, đánh giá mùi vị sau khi luộc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về mùi vị"
+    },
+    {
+      "step": "Cảm nhận hương vị",
+      "desc": "Nhấn mạnh vị thơm, giòn ngọt và cách ăn kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Đánh giá là đáng trải nghiệm và mời mọi người ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "mê",
+    "độc lạ",
+    "thơm",
+    "giòn ngọt",
+    "cuốn",
+    "ngon ngọt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Măng này nhìn sơ thì cũng tựa tựa như măng bình thường, có cái là nó ú hơn nhìn cứng hen.",
+    "Đích thị là nó thơm mùi bắp mà gia diện là măng nha.",
+    "Ăn vô thì nó sẽ giòn ngọt, mà ngọt theo kiểu rau củ chứ không phải là ngọt lịm nha."
+  ],
+  "hook_content": "Lần đầu tôi trải nghiệm ăn măng vầu Tây Bắc, hót hít rần rần bữa giờ mà nó lạ lắm.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video chia sẻ trải nghiệm lần đầu ăn măng vầu Tây Bắc, mô tả hương vị độc đáo, thơm mùi bắp và cách ăn kèm hấp dẫn. Người làm video đánh giá đây là một món đáng để thử.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

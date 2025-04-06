@@ -1,0 +1,94 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món nui xào bò và nêu các lưu ý khi xào.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về bí quyết xào nui ngon."
+    },
+    {
+      "step": "Chuẩn bị thịt bò",
+      "desc": "Chọn và sơ chế thịt bò, cắt mỏng và tẩm ướp gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến cách tẩm ướp thịt bò."
+    },
+    {
+      "step": "Ngâm nui",
+      "desc": "Ngâm nui gạo để rút ngắn thời gian luộc.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Sơ chế rau củ",
+      "desc": "Rửa sạch và cắt rau cải, ớt chuông, hành tây, hành lá.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy rõ các nguyên liệu tươi ngon."
+    },
+    {
+      "step": "Pha sốt xào",
+      "desc": "Pha chế sốt xào với các gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong muốn biết công thức sốt xào."
+    },
+    {
+      "step": "Luộc và xào nui",
+      "desc": "Luộc nui và xào với hành tỏi, thêm sốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Chú ý đến cách xào nui không dính."
+    },
+    {
+      "step": "Xào bò và rau củ",
+      "desc": "Xào thịt bò, rau củ và trộn đều với nui.",
+      "impact_level": "3",
+      "viewer_emotion": "Hấp dẫn với món nui xào bò hoàn chỉnh."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Nếu thích cách làm này, hãy chia sẻ cho bạn bè cùng biết và cho mình một like.",
+    "Xin chào và hẹn gặp lại."
+  ],
+  "cta_type": [
+    "Chia sẻ",
+    "Thích video",
+    "Follow kênh"
+  ],
+  "emotion_keywords": [
+    "thơm ngon",
+    "hấp dẫn",
+    "đậm đà"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nui mềm dai nhẹ, thấm sốt xào đậm đà và không bị dính.",
+    "Thịt bò rất mềm không hề dai và không bị ra nước.",
+    "Nhìn màu sắc xanh xanh đỏ đỏ vàng vàng hấp dẫn quá."
+  ],
+  "hook_content": "Nếu đã quá ngán với các món cơm, vậy thì hôm nay các bạn hãy đổi bữa với nui xào bò đi.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm món nui xào bò đơn giản tại nhà, từ khâu chuẩn bị nguyên liệu, sơ chế đến xào nấu, với bí quyết giúp nui không bị dính và thịt bò mềm ngon. Món ăn có màu sắc hấp dẫn, hương vị đậm đà, thích hợp cho bữa sáng hoặc bữa chính.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

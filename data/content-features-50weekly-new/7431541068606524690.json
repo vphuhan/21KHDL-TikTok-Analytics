@@ -1,0 +1,80 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu pate miền Tây và so sánh với pate miền Bắc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự khác biệt giữa hai loại pate."
+    },
+    {
+      "step": "Cắt và mời ăn",
+      "desc": "Cắt pate, mời người xem cùng ăn và nêu cảm nhận ban đầu.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thèm thuồng và muốn thử."
+    },
+    {
+      "step": "Mô tả hương vị",
+      "desc": "Mô tả chi tiết hương vị và các thành phần của pate.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy ngon miệng và muốn mua ngay."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Đánh giá chung về hương vị và khả năng hợp khẩu vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá và muốn thử."
+    },
+    {
+      "step": "Kêu gọi trải nghiệm",
+      "desc": "Khuyến khích mọi người thử nếu có dịp.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy được khuyến khích và tò mò."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "nếu có dịp thì mọi người thử nha",
+    "Cảm ơn mọi người xem video của mình."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "vừa",
+    "bùi",
+    "ngậy"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái này chính là cái trong bánh mì Sài Gòn mọi người hay kẹp đúng không?",
+    "Ngon lắm luôn ý!",
+    "Mình nghĩ cái này vùng nào miền nào cũng sẽ ăn được ấy."
+  ],
+  "hook_content": "Hôm nay mình có pate miền Tây, mọi người ui!",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu và ăn thử pate miền Tây, so sánh với pate miền Bắc và đánh giá hương vị, đặc biệt nhấn mạnh sự khác biệt và độ ngon của pate miền Tây với trứng muối.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

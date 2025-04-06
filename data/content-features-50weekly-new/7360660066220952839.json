@@ -1,0 +1,93 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Thông báo làm bún riêu vì sắp chia tay hũ tỏi xanh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Chia sẻ nỗi sợ",
+      "desc": "Lần đầu làm bún riêu vì dị ứng cua thời bé.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá nguyên liệu",
+      "desc": "Nhận xét riêu cua mua sẵn không đậm vị như ở quê.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Thực hiện sơ chế",
+      "desc": "Xay cua để đảm bảo không bị xước cổ khi ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chuẩn bị rau sống",
+      "desc": "Đầu tư vào rau sống thái nhỏ, trộn nhiều loại.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Nấu bún riêu",
+      "desc": "Nghiên cứu nhiều công thức, suýt làm lẩu riêu.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Thưởng thức và kết luận",
+      "desc": "Nhận xét nấu ăn tốn kém, thèm ăn ngoài quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Dù vất vả khổ cực bao nhiêu thì các em cứ xem clip là trẫm vẫn sẽ nấu."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "sợ",
+    "tủi thân",
+    "ngại",
+    "khen",
+    "vui vẻ",
+    "phấn khởi"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đi ăn ngoài quán mà thấy quán nào có rau sống chất lượng như thế này là tự động nó ngon liền.",
+    "Vừa tốn tiền, vừa mất công, vừa tốn sức mà chưa chắc đã ngon bằng ngoài quán, mà ra ngoài quán ăn thì lấy đâu video cho các cục cưng xem.",
+    "Anh Nguyên Trại Cá thì nom đẹp trai không bằng, chứ khả năng diễn xuất thì cũng tương đối là trung bình khá đấy."
+  ],
+  "hook_content": "Cuối cùng thì ngày chia tay hũ tỏi xanh cũng đến rồi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn",
+    "Kể chuyện"
+  ],
+  "summarization": "Video ghi lại quá trình nấu bún riêu tại nhà của một bạn nữ. Bạn chia sẻ về nỗi sợ dị ứng cua từ bé và những khó khăn khi tự nấu món ăn này, đồng thời lồng ghép các câu chuyện cá nhân hài hước.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

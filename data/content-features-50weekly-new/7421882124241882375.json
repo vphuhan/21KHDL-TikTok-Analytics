@@ -1,0 +1,92 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bánh",
+      "desc": "Giới thiệu món bánh Chocolate Dream Cake tự làm tại nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món bánh đặc biệt này."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Mua bánh bông lan làm sẵn, chuẩn bị đường, bột ca cao, nước nóng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, vì đây là bước chuẩn bị."
+    },
+    {
+      "step": "Làm các lớp bánh",
+      "desc": "Pha nước đường, khuấy socola, trộn whipping cream, tạo các lớp.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với cách làm bánh nhiều lớp."
+    },
+    {
+      "step": "Trang trí và làm lạnh",
+      "desc": "Dàn đều socola, cho vào tủ lạnh để bánh đông lại.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ kết quả sau khi làm lạnh."
+    },
+    {
+      "step": "Thưởng thức và đánh giá",
+      "desc": "Đập bánh để ăn, nhận xét về hương vị socola đậm đà.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú với cách thưởng thức bánh độc đáo."
+    },
+    {
+      "step": "Cảm xúc khi làm bánh",
+      "desc": "Tự hào khi làm thành công, muốn chia sẻ với mọi người.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với niềm vui khi nấu ăn thành công."
+    },
+    {
+      "step": "Lời nhắn nhủ",
+      "desc": "Thường xuyên làm đồ ăn cho người yêu, thể hiện tình cảm.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy ấm áp và ngọt ngào."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "đậm vị socola",
+    "mềm ẩm",
+    "ngọt ngào",
+    "tự hào",
+    "ngon",
+    "tận hưởng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ước gì mình tán ai mà người ta cũng tan chảy như thế này có phải tốt không?",
+    "Tính ra cái bánh này nó có bốn lớp, lớp gato, lớp trưởng, lớp phó, lớp you.",
+    "Vì yêu cứ đâm đầu nhét đẫy socola vào lại còn kêu ca cái gì nữa?"
+  ],
+  "hook_content": "Nó không vỡ luôn.",
+  "hook_type": [
+    "Gây tò mò",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm bánh Chocolate Dream Cake với nhiều lớp socola, từ công đoạn chuẩn bị nguyên liệu đến khi hoàn thành và thưởng thức. Người làm chia sẻ trải nghiệm cá nhân và cảm xúc khi thực hiện món bánh này.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

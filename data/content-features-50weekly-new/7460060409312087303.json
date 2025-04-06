@@ -1,0 +1,47 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Hát mở đầu",
+      "desc": "Hát một đoạn nhạc có liên quan đến món ăn",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị, bất ngờ"
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Đề cập đến món bún sườn cay",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [],
+  "has_cta": "false",
+  "highlight_phrases": [],
+  "hook_content": "Trong một ai như anh biết rõ gu nhạc em thích.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu món bún sườn cay và hát một đoạn nhạc có liên quan. Người nói đề xuất đây là món tủ.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

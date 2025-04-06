@@ -1,0 +1,73 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Phản hồi bình luận tiêu cực",
+      "desc": "Đề cập đến những bình luận tiêu cực về việc nấu ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về phản ứng của người nói."
+    },
+    {
+      "step": "Thừa nhận sự thật",
+      "desc": "Thừa nhận món ăn bình thường và quen thuộc.",
+      "impact_level": "1",
+      "viewer_emotion": "Đồng tình với sự giản dị."
+    },
+    {
+      "step": "Giải thích giá trị",
+      "desc": "Nhấn mạnh giá trị của món ăn đối với người nông dân.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm động trước giá trị truyền thống."
+    },
+    {
+      "step": "Kỷ niệm về gia đình",
+      "desc": "Chia sẻ ký ức về những món ăn mẹ nấu và sự quan tâm.",
+      "impact_level": "3",
+      "viewer_emotion": "Xúc động nhớ về gia đình."
+    },
+    {
+      "step": "Duy trì thói quen",
+      "desc": "Tiếp tục nấu ăn mỗi ngày sau giờ làm việc.",
+      "impact_level": "2",
+      "viewer_emotion": "Khâm phục sự kiên trì."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Kiến thức"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "quý giá",
+    "thích"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đối với một đứa sinh ra trong gia đình nông dân như mình thì đó là những món ăn quý giá.",
+    "Sau 5 năm đi học xa nhà, tôi không bao giờ quên được cái cảm giác mà mỗi lần về quê, cái ba mẹ gói ghém cho từng trái dưa, trái xoài rồi nải chuối, từng nồi thịt kho, cá kho để đem lên ăn dần.",
+    "Tôi thích nhất là cái cảm giác sau khi làm 12 tiếng đồng hồ."
+  ],
+  "hook_content": "Có nhiều bạn comment trên TikTok của mình nói là mình nấu ăn có ngon cái gì đâu mà suốt ngày nấu ăn rồi đăng lên, toàn là mấy cái món ngày nào cũng ăn, đăng lên để được cái gì?",
+  "hook_type": [
+    "Phản hồi bình luận",
+    "Gây tranh cãi",
+    "Tạo sự đồng cảm"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện"
+  ],
+  "summarization": "Video chia sẻ về những món ăn bình dị hàng ngày và giá trị của bữa cơm gia đình đối với một người con xa quê, đồng thời đáp trả những bình luận tiêu cực về việc nấu ăn.",
+  "tone_of_voice": [
+    "Chân thành",
+    "Trang trọng"
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu các loại matcha latte từ các thương hiệu khác nhau.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thử nghiệm bịt mắt",
+      "desc": "Thực hiện thử nghiệm bịt mắt để đánh giá các loại matcha.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Đánh giá hương vị, độ ngọt và các đặc điểm khác của từng loại.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Chấm điểm",
+      "desc": "Chấm điểm từng loại matcha latte dựa trên trải nghiệm cá nhân.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình"
+    },
+    {
+      "step": "So sánh",
+      "desc": "So sánh các loại matcha latte và chọn ra loại yêu thích nhất.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "Giải thích thêm",
+      "desc": "Giải thích về cách đánh giá và phản hồi về các bình luận.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Đưa ra kết luận cuối cùng về các loại matcha đã thử.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Hoặc là mọi người muốn mình làm về năm cửa hàng với một loại thức uống nào khác nữa thì mọi người comment nha.",
+    "Cám ơn mọi người đã coi clip."
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "ngọt",
+    "béo",
+    "vừa phải",
+    "bình thường",
+    "thất vọng",
+    "ấn tượng",
+    "dễ thương",
+    "thích",
+    "vui ghê"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Matcha rất là thơm nhưng mà lại không quá đậm nha mọi người. Cái sữa thì cũng không đậm đà, cũng không quá béo. Ý là nó sẽ kiểu đúng latte.",
+    "Ly này rất là ngọt, một cái vị rất giống sữa đặc. Matcha đậm hơn cái ly trước.",
+    "Cái matcha nó đậm lè. Mà cái sữa nó béo mà nó thơm."
+  ],
+  "hook_content": "Trên mạng matcha latte của các hãng nổi tiếng. Ngoài đời matcha latte nha mọi người ơi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "So sánh",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review 5 loại matcha latte từ các thương hiệu khác nhau thông qua thử nghiệm bịt mắt, đánh giá hương vị và chấm điểm từng loại. Cuối cùng, người nói chia sẻ loại matcha latte yêu thích nhất và kêu gọi người xem bình luận.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

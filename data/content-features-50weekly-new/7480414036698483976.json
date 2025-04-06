@@ -1,0 +1,81 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu vấn đề",
+      "desc": "Mì xào ở nhà không ngon như ngoài hàng vì thiếu bí quyết.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về bí quyết"
+    },
+    {
+      "step": "Chia sẻ bí quyết",
+      "desc": "Ngâm mì với nước đá để mì giòn, không bở, thấm sốt.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú, muốn thử"
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Chọn mì kín, trần qua nước sôi rồi ngâm nước đá.",
+      "impact_level": "2",
+      "viewer_emotion": "Lưu ý các bước"
+    },
+    {
+      "step": "Sơ chế ốc móng tay",
+      "desc": "Luộc, rửa sạch, trần qua nước gừng để khử mùi.",
+      "impact_level": "2",
+      "viewer_emotion": "Học hỏi kinh nghiệm"
+    },
+    {
+      "step": "Hướng dẫn xào mì",
+      "desc": "Xào tỏi với bơ, thêm ốc, mì, rau muống, nước sốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung món ăn"
+    },
+    {
+      "step": "Hoàn thiện món ăn",
+      "desc": "Đảo đều, rưới thêm sốt, dọn ra thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn ăn ngay"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "giòn rụm",
+    "thấm sốt",
+    "giòn",
+    "láng miệng",
+    "vừa"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mình xào ở nhà nó không có ngon giống như xào ở ngoài hàng tại vì mấy anh mấy chị chưa có nằm lòng cái bí quyết này nè.",
+    "Mấy anh mấy chị mà cứ nằm lòng cái bí quyết như thế này á là mình xào ra một cái dĩa mì nó không bao giờ bị bở, không bao giờ bị dính chùm lại và cái cọng rau muống ăn nó giòn rụm, đặc biệt á cọng mì của mình nó sẽ rất là thấm sốt luôn nghen.",
+    "Em xào mà nó ngon một cái hả, em làm thành công ngay lần đầu tiên là em lên em chia sẻ liền."
+  ],
+  "hook_content": "Mì xào ốc móng tay mấy anh mấy chị có để ý không? Mình xào ở nhà nó không có ngon giống như xào ở ngoài hàng tại vì mấy anh mấy chị chưa có nằm lòng cái bí quyết này nè.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ bí quyết xào mì ốc móng tay ngon như ngoài hàng bằng cách ngâm mì với nước đá và khử mùi ốc bằng gừng, kèm hướng dẫn chi tiết các bước thực hiện.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

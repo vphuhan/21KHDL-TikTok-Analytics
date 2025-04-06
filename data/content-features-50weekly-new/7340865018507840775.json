@@ -1,0 +1,97 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu về sự ghét bỏ lừa dối và trải nghiệm gà nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về trải nghiệm của người nói."
+    },
+    {
+      "step": "Phản hồi",
+      "desc": "Kể về việc mẹ giới thiệu quán gà nướng ngon, rẻ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị về lời giới thiệu bất ngờ."
+    },
+    {
+      "step": "Đánh giá quán",
+      "desc": "Nhấn mạnh sự thật thà của chủ quán và chất lượng gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng của quán."
+    },
+    {
+      "step": "Tóm tắt",
+      "desc": "Mô tả việc mẹ thường mua gà ở đây để cúng.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường, không đặc biệt."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Nhận xét về thịt gà, nước sốt và các món ăn kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món gà nướng."
+    },
+    {
+      "step": "So sánh",
+      "desc": "So sánh với gà nướng truyền thống và bày tỏ sở thích cá nhân.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình với sở thích cá nhân."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Khuyến khích lưu lại địa chỉ quán gà ngon, rẻ.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử đến quán ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mấy bà nhớ lưu lại một cái địa chỉ ăn gà ngon rẻ nha."
+  ],
+  "cta_type": [
+    "Lưu video",
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "thật thà",
+    "ngon",
+    "rẻ",
+    "thơm",
+    "mặn mặn ngọt ngọt",
+    "cay cay",
+    "giòn giòn",
+    "mềm mọng nước"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "đời này tôi ghét nhất trên đời là sự lừa dối",
+    "mẹ tôi hay mua về cúng cửa cúng ông địa thần tài đồ đó",
+    "nói tôi quê mùa thì tôi chịu nha, nhưng mà tôi vẫn cứ thích ăn cái gà nướng muối ớt truyền thống nha"
+  ],
+  "hook_content": "đời này tôi ghét nhất trên đời là sự lừa dối để cái biển hiệu là 150.000đ một con gà nướng muối ớt à mua là không hề có rau luôn nha, chỉ có đúng một con gà với lại một hũ sốt cơm lam kêu thêm á là 20.000đ còn bánh bao kêu thêm năm cái 20k để 190 một con gà full topping luôn đi để người ta mua người ta đỡ bị hố"
+  ,
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review quán gà nướng muối ớt 50A Hoà Bình, Q11 với giá 130k full topping, được người mẹ giới thiệu là ngon và rẻ. Người nói chia sẻ trải nghiệm thực tế và đánh giá cao sự trung thực của chủ quán, cũng như hương vị của món gà.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

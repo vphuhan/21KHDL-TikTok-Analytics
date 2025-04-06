@@ -1,0 +1,96 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món sườn ram cấp tốc, ngon hơn ngoài tiệm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Sử dụng thịt nạc dăm, rửa sạch và thấm khô.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Sơ chế thịt",
+      "desc": "Cắt thịt, dần thịt cho mềm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Ướp thịt",
+      "desc": "Trộn và ướp thịt với gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Chiên tỏi",
+      "desc": "Làm dầu tỏi để chiên thịt.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Ram sườn",
+      "desc": "Áp chảo, ram sườn đến khi chín và lên màu.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Hoàn thiện món ăn",
+      "desc": "Pha nước chấm, làm trứng ốp la và trình bày.",
+      "impact_level": "3",
+      "viewer_emotion": "Hào hứng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Nếu thấy hay hãy chia sẻ cho mọi người cùng biết nha.",
+    "Xin chào và hẹn gặp lại."
+  ],
+  "cta_type": [
+    "Chia sẻ"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "ngon",
+    "hấp dẫn",
+    "mềm",
+    "bóng bẩy",
+    "ngọt",
+    "bùi",
+    "béo",
+    "chua ngọt",
+    "đậm đà",
+    "tuyệt đỉnh"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Sườn ram mà không thua gì sườn nướng nha.",
+    "Với cách ram thịt không cần cho nước này, miếng sườn mềm, bóng bẩy, ngọt thịt và không hề bị khô nè.",
+    "Cơm sườn cấp tốc mà chất lượng thì tuyệt đỉnh."
+  ],
+  "hook_content": "Nếu như thèm cơm sườn mà lại không có nhiều thời gian thì các bạn hãy làm theo công thức của mình.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm sườn ram cấp tốc tại nhà, miếng sườn mềm, bóng bẩy, ngọt thịt và không hề bị khô. Món ăn này kết hợp với cơm trắng, trứng ốp la và nước chấm chua ngọt đậm đà, mang đến một bữa ăn ngon miệng và nhanh chóng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

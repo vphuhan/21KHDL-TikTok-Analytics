@@ -1,0 +1,80 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Mời mọi người cùng ăn bún đậu mắm tôm hấp dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Chia sẻ lo lắng",
+      "desc": "Lo lắng về việc ăn đồ ăn ngoài có thể gây đau bụng.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm"
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu sản phẩm hỗ trợ tiêu hóa trước khi ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Hướng dẫn sử dụng",
+      "desc": "Hướng dẫn cách sử dụng sản phẩm và liều dùng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Nhấn mạnh lợi ích",
+      "desc": "Nhấn mạnh về lợi ích của sản phẩm, không phải là thuốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng"
+    },
+    {
+      "step": "Tái khẳng định",
+      "desc": "Khẳng định lại lợi ích của sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Ăn uống tiếp tục",
+      "desc": "Tiếp tục ăn uống và mời mọi người.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "êm",
+    "rén rén"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Từ nay ăn mắm tôm thoải mái không lo bị đau bụngggg",
+    "Uống cái này mọi người cái bụng mình nó êm lắm, ăn mắm hoặc là mình ăn vặt ở ngoài đường mình cũng không có sợ bị đau bụng."
+  ],
+  "hook_content": "Mời mọi người ăn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang bún đậu mắm tôm, người nói chia sẻ lo lắng về việc ăn ngoài dễ đau bụng nên đã sử dụng sản phẩm hỗ trợ tiêu hóa trước khi ăn và mời mọi người cùng thưởng thức.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món nước",
+      "desc": "Giới thiệu món nước mix kỳ lạ và giá 85.000đ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về thành phần và hương vị."
+    },
+    {
+      "step": "Liệt kê thành phần",
+      "desc": "Liệt kê các thành phần của ly nước: kẹo, nước ngọt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị vì sự kết hợp độc đáo."
+    },
+    {
+      "step": "Nếm thử và đánh giá",
+      "desc": "Nếm thử và mô tả hương vị của từng thành phần.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung cao độ chờ đợi review."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Đưa ra đánh giá cuối cùng về ly nước.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hài hước và thú vị."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "thanh mát",
+    "hài hước"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mình thấy đây là ly nước hài hước nhất từ xưa đến giờ mà mình từng ăn mọi người ạ."
+  ],
+  "hook_content": "Mọi người có tin là sau khi mình trộn lẫn tất cả các món nước ở đây lại nó sẽ trở thành một món nước cực kỳ ngon không?",
+  "hook_type": [
+    "Gây tò mò",
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review ly nước mix kỳ lạ giá 85k với nhiều thành phần độc đáo như kẹo dưa hấu, Chupa Chups, bò húc Thái và một loại nước bí ẩn. Người đánh giá mô tả hương vị và nhận xét đây là ly nước hài hước nhất từng thử.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

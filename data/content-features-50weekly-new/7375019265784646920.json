@@ -1,0 +1,60 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bánh",
+      "desc": "Giới thiệu về bánh oản khổng lồ và độ ngậy của nó.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ ngậy."
+    },
+    {
+      "step": "Trải nghiệm ăn",
+      "desc": "Nhận xét bánh dễ gây nghẹn và ngậy nhưng ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với trải nghiệm."
+    },
+    {
+      "step": "Cảm nhận",
+      "desc": "Ăn nhiều vẫn thấy ngậy.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngậy",
+    "ngon",
+    "tuyệt đối",
+    "nghẹn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Bánh này ăn là bao nghẹn luôn.",
+    "Công nhận là bánh bao ngậy thì ăn cũng ngon thật đấy."
+  ],
+  "hook_content": "Review cả thế giới bánh oản khổng lồ, ngậy tuyệt đối, anh em lên.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review bánh oản khổng lồ, tập trung vào trải nghiệm ăn và độ ngậy của bánh. Mặc dù dễ gây nghẹn nhưng bánh vẫn được đánh giá là ngon.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

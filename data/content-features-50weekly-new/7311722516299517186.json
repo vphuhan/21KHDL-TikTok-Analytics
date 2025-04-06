@@ -1,0 +1,99 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu mỡ cá dứa và mắm me, thể hiện sự hào hứng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm."
+    },
+    {
+      "step": "Trải nghiệm mỡ cá dứa",
+      "desc": "Ăn và miêu tả cảm giác, hương vị của mỡ cá dứa.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn ăn thử."
+    },
+    {
+      "step": "Trải nghiệm cùng cơm và mắm",
+      "desc": "Kết hợp mỡ cá dứa với cơm và mắm me.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy ngon miệng, hấp dẫn."
+    },
+    {
+      "step": "Đánh giá sản phẩm",
+      "desc": "Đánh giá độ giòn, vị mặn và trải nghiệm tổng quan.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá."
+    },
+    {
+      "step": "Thử nghiệm với người khác",
+      "desc": "Mời người khác thử và xin đánh giá.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về phản ứng của người khác."
+    },
+    {
+      "step": "Bàn luận về mỡ cá",
+      "desc": "Thảo luận về lượng mỡ trong cá dứa và công dụng.",
+      "impact_level": "1",
+      "viewer_emotion": "Thắc mắc và tìm hiểu thêm."
+    },
+    {
+      "step": "Kết thúc và cảm ơn",
+      "desc": "Cảm ơn người xem và tạm biệt.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thoải mái."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người nha!"
+  ],
+  "cta_type": [
+    "Chia sẻ công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "giòn",
+    "đã",
+    "ngon dữ vậy",
+    "quá quyện",
+    "ngon quá trời",
+    "ngon rụm",
+    "mỡ nhiều",
+    "ngon á",
+    "tuyệt vời"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái vây giòn ăm... Ngon rụm luôn.",
+    "Ăn tới đâu là cái mỡ tươm tới đó.",
+    "Cá dứa giòn mà nhức cái nách á."
+  ],
+  "hook_content": "Trời ơi! Cái mỡ cá dứa nè, có đây nè, rồi nói chuyện.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video review mỡ cá dứa và mắm me, tập trung vào trải nghiệm hương vị, độ giòn và cảm xúc khi ăn. Người nói thể hiện sự hào hứng và đưa ra đánh giá chân thật.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Mẹ chồng mua mực tươi và quyết định làm món mực nhồi thịt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú vì được giới thiệu món ăn mới."
+    },
+    {
+      "step": "Sơ chế mực",
+      "desc": "Hướng dẫn sơ chế mực: kéo râu, bỏ ruột, mắt, răng, xương.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung theo dõi các bước sơ chế."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu nhồi",
+      "desc": "Liệt kê nguyên liệu nhồi thịt: hành lá, nấm hương, mộc nhĩ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, chờ đợi các bước tiếp theo."
+    },
+    {
+      "step": "Ướp và nhồi thịt",
+      "desc": "Trộn đều và ướp thịt 30 phút, sau đó nhồi vào mực.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với công đoạn nhồi thịt vào mực."
+    },
+    {
+      "step": "Cố định râu mực",
+      "desc": "Dùng tăm cố định phần râu mực đã nhồi thịt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Làm sốt",
+      "desc": "Thái hành và cà chua để chuẩn bị cho phần sốt.",
+      "impact_level": "1",
+      "viewer_emotion": "Chờ đợi món ăn hoàn thành."
+    },
+    {
+      "step": "Hoàn thành",
+      "desc": "Thông báo đã hoàn thành món mực nhồi thịt.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ được xem thành phẩm cuối cùng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "tươi"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Món mực nhồi thịt này tưởng ko ngon, mà ngon ko tưởng luôn nha mấy ní"
+  ],
+  "hook_content": "Hôm nay mẹ chồng mình có đi siêu thị, mua được mấy con mực tươi ơi là tươi, nên phải vào bếp làm ngay món mực nhồi thịt để đãi cả nhà.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món mực nhồi thịt đơn giản tại nhà, từ sơ chế mực đến chuẩn bị nguyên liệu và hoàn thành món ăn. Món ăn này được làm để đãi cả nhà.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

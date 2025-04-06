@@ -1,0 +1,112 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về chuyến food tour Cần Thơ theo lời dân bản địa.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về những món ăn được giới thiệu."
+    },
+    {
+      "step": "Bún thập cẩm",
+      "desc": "Giới thiệu và đánh giá món bún thập cẩm đầy topping với giá rẻ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự hấp dẫn của món ăn."
+    },
+    {
+      "step": "Bún xào chả giò",
+      "desc": "Đánh giá bún xào chả giò tều với chả giò giòn và nước mắm ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với hương vị đặc biệt của chả giò."
+    },
+    {
+      "step": "Cà phê vợt Tư Điếc",
+      "desc": "Giới thiệu quán cà phê vợt nổi tiếng và đánh giá cà phê thơm ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử cà phê vợt nổi tiếng này."
+    },
+    {
+      "step": "Bún mắm lai",
+      "desc": "Thử món bún mắm lai nước lèo Sóc Trăng và hột vịt lộn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự kết hợp hương vị của món ăn."
+    },
+    {
+      "step": "Xăm dừa bà Sáu",
+      "desc": "Giới thiệu và đánh giá thức uống xăm dừa thanh mát.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy giải khát và muốn thử."
+    },
+    {
+      "step": "Bánh bò chú Chển Chiêu",
+      "desc": "Review xe bánh bò hot và trải nghiệm hương vị lạ của bánh.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về hương vị đặc biệt của bánh bò."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mấy bạn ở Cần Thơ vô xác nhận giùm tôi là tôi ăn mấy chỗ này có uy tín chưa?",
+    "Nếu chưa thì gợi ý tôi những quán nào mà ngon ở Cần Thơ nữa hen."
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "rẻ",
+    "no nê",
+    "hết hồn",
+    "béo béo",
+    "ngon",
+    "giòn",
+    "mềm dai",
+    "mằn mặn ngọt ngọt",
+    "siêu hợp khẩu vị",
+    "thơm",
+    "ngon",
+    "đậm đà",
+    "ngọt",
+    "ngon",
+    "thơm ngon",
+    "thanh mát",
+    "vui miệng",
+    "ăn cũng được",
+    "dễ thương",
+    "ngon",
+    "ngon dữ lắm luôn á",
+    "ngon",
+    "rẻ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Có ai công nhận với tôi là đồ ăn ở Cần Thơ vừa ngon lại vừa rẻ không?",
+    "Về Cần Thơ nhất định phải ăn thịt nướng kim tiền nha.",
+    "Trời ơi chỗ này ta nói xếp hàng thì thôi nhé luôn siêu đông."
+  ],
+  "hook_content": "tiếp tục là sory ăn hết những cái món ngon theo lời khuyên bản địa ở Cần Thơ chỉ dẫn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video food review này giới thiệu các món ăn ngon và rẻ ở Cần Thơ theo lời khuyên của người dân địa phương, bao gồm bún thập cẩm, bún xào chả giò, cà phê vợt, bún mắm lai, xăm dừa và bánh bò. Người này đã trực tiếp trải nghiệm và đưa ra đánh giá khách quan về hương vị và giá cả của từng món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

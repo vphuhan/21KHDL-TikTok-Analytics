@@ -1,0 +1,94 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ốc lát sốt Thái tự làm để giải ngán.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Đếm số lượng ốc",
+      "desc": "Nhấn mạnh số lượng ốc và trêu đùa về việc bị chỉ trích.",
+      "impact_level": "1",
+      "viewer_emotion": "Hơi khó hiểu."
+    },
+    {
+      "step": "Pha chế sốt Thái",
+      "desc": "Hướng dẫn pha sốt Thái với các nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thèm thuồng."
+    },
+    {
+      "step": "Luộc và sơ chế ốc",
+      "desc": "Chia sẻ kinh nghiệm luộc ốc và làm sạch.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Xào ốc với sốt",
+      "desc": "Cho ốc vào chảo và xào với sốt Thái.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn."
+    },
+    {
+      "step": "Pha nước chấm",
+      "desc": "Hướng dẫn pha nước chấm chua cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn thử."
+    },
+    {
+      "step": "Trình bày và thưởng thức",
+      "desc": "Trình bày món ăn và mời mọi người cùng thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn làm theo."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Xin mời cả nhà ăn ốc lát sốt thái với Tuấn.",
+    "Xin mời nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "cay",
+    "ngọt",
+    "chua chua cay cay",
+    "đã",
+    "hấp dẫn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "100 con ốc lát xài bự đem đi làm sốt thái ăn chữa ngán ngày Tết cũng hấp dẫn lắm cả nhà ơi.",
+    "Con ốc mình làm kỹ sẽ rất là sạch và ngọt. Chấm với cái sốt chua chua cay cay ăn nó đã thì thôi luôn.",
+    "Nhìn cả nhà Tuấn ăn cỡ đó biết món ốc bữa nay không bị ế rồi nha."
+  ],
+  "hook_content": "100 con ốc lát xài bự đem đi làm sốt thái ăn chữa ngán ngày Tết cũng hấp dẫn lắm cả nhà ơi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn cách làm món ốc lát sốt Thái để giải ngán ngày Tết. Người làm chia sẻ kinh nghiệm chọn ốc, pha chế sốt và thưởng thức món ăn cùng gia đình.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

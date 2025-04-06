@@ -1,0 +1,103 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu mì tôm thanh long Kati với nhiều hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm mới."
+    },
+    {
+      "step": "Đánh giá mì Spaghetti",
+      "desc": "Đánh giá hương vị, độ dai và màu sắc của mì.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với đánh giá chi tiết."
+    },
+    {
+      "step": "Đánh giá mì chua cay",
+      "desc": "Nhận xét về mùi vị chua cay và topping của mì.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử mì chua cay."
+    },
+    {
+      "step": "Đánh giá mì tôm thịt gà",
+      "desc": "Đánh giá hương vị nhạt nhòa của mì tôm thịt gà.",
+      "impact_level": "1",
+      "viewer_emotion": "Thất vọng về hương vị."
+    },
+    {
+      "step": "Đánh giá mì heo gà nấu nấm",
+      "desc": "Đánh giá hương vị nấm đặc trưng của mì.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị nấm."
+    },
+    {
+      "step": "Đánh giá phở thanh long vị gà",
+      "desc": "Đánh giá sợi phở màu hồng và nước dùng của phở.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên về màu sắc."
+    },
+    {
+      "step": "Đánh giá mì heo bằm",
+      "desc": "Đánh giá hương vị nhạt nhòa của mì heo bằm.",
+      "impact_level": "1",
+      "viewer_emotion": "Không ấn tượng lắm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Tôi tò mò, bạn cũng thế."
+  ],
+  "cta_type": [
+    "So sánh"
+  ],
+  "emotion_keywords": [
+    "tò mò",
+    "thơm",
+    "vừa miệng",
+    "ok",
+    "ngon",
+    "quen thuộc",
+    "béo",
+    "ngậy",
+    "thanh đạm",
+    "bình thường",
+    "nhạt",
+    "cuốn",
+    "lạ",
+    "dở"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Lần đầu tiên, trái thanh long có trong mì tôm.",
+    "Trong cái sợi mì này mình như mà mình nhai kỹ thì mình thấy có một cái vị hậu ngọt nhè nhẹ.",
+    "Đến cả cái sợi phở này mình ăn mình cũng cảm giác được một cái vị ngọt nhè nhẹ trong cái sợi phở nữa"
+  ],
+  "hook_content": "Lần đầu tiên, trái thanh long có trong mì tôm. Ăn thử nhá. Tôi tò mò, bạn cũng thế.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh",
+    "Liệt kê"
+  ],
+  "summarization": "Video review mì tôm thanh long Kati với nhiều hương vị khác nhau, đánh giá chi tiết về hương vị, màu sắc và độ dai của sợi mì. Kết luận mì có vị ngọt hậu nhẹ và màu sắc bắt mắt, độ ngon phụ thuộc vào gói sốt.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Chia sẻ công thức bún thịt xào gia truyền, nhấn mạnh độ ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về công thức gia truyền."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Hướng dẫn chọn thịt và gia vị ướp, có thể thay đổi tùy thích.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy hữu ích với hướng dẫn chọn nguyên liệu."
+    },
+    {
+      "step": "Ướp thịt",
+      "desc": "Hướng dẫn ướp thịt, nhấn mạnh thời gian ướp ảnh hưởng đến vị ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong muốn thử ướp thịt theo công thức."
+    },
+    {
+      "step": "Xào thịt",
+      "desc": "Hướng dẫn xào thịt với lửa lớn, thêm hành tây cho thơm.",
+      "impact_level": "1",
+      "viewer_emotion": "Hình dung được mùi thơm của món ăn."
+    },
+    {
+      "step": "Pha nước chấm",
+      "desc": "Hướng dẫn pha nước chấm theo tỷ lệ, nhấn mạnh vai trò quan trọng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự khác biệt của món ăn."
+    },
+    {
+      "step": "Trình bày và thưởng thức",
+      "desc": "Nhắc nhở về các món ăn kèm, chia sẻ trải nghiệm cá nhân.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món ăn."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Khẳng định chất lượng món ăn, mời người thân thưởng thức.",
+      "impact_level": "1",
+      "viewer_emotion": "Tin tưởng vào công thức."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nói chung là mấy bà làm theo cái cách này của tôi đi là không có cần phải ra ngoài ăn luôn á. Bảo đảm không ngon không lấy tiền luôn."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon xuất sắc",
+    "ngon",
+    "thơm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái công thức này á làm mười lần mà lần nào ăn cũng ngon xuất sắc hết trơn á.",
+    "Cái món bún thịt xào này nè, dở hay ngon, thành hay bại là do cái nước chấm nha.",
+    "Nói chung là mấy bà làm theo cái cách này của tôi đi là không có cần phải ra ngoài ăn luôn á. Bảo đảm không ngon không lấy tiền luôn."
+  ],
+  "hook_content": "Mấy cái chỗ mà bán bún thịt xào á chắc không có ai chỉ cho mấy bà cái cách ướp thịt như vậy đâu hen. Có tôi là chỉ cho mấy bà thôi á.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn cách làm bún thịt xào miền Tây với công thức gia truyền, tập trung vào cách ướp thịt và pha nước chấm để tạo nên hương vị đặc trưng. Người làm chia sẻ kinh nghiệm cá nhân và nhấn mạnh sự dễ dàng, nhanh chóng của công thức.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

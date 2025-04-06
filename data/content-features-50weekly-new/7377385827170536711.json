@@ -1,0 +1,67 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món chân gà rút xương và bày tỏ sự thèm ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Đề cập lo ngại",
+      "desc": "Giải thích về những lo ngại về an toàn thực phẩm.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Giải thích chất lượng",
+      "desc": "Đưa ra lý do tại sao sản phẩm này vẫn chấp nhận được.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng"
+    },
+    {
+      "step": "Nhận xét thay đổi",
+      "desc": "Nhận xét về sự thay đổi bao bì và chất lượng sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "nếu muốn đặt hàng thì có thể bấm vào giỏ hàng trong video của mình thì trực tiếp bên công ty sẽ gửi hàng cho các bạn."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "thèm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "chân gà rút xương",
+    "ăn vặt thì thật sự là có rất nhiều cái nó không tốt, tuy nhiên là một cái sản phẩm được công ty sản xuất và có các giấy tờ và đầy đủ điều kiện lưu hành trên thị trường mình nghĩ là nó cũng là một cái gì đấy mà ok",
+    "gần đây thì những cái sản phẩm gần đây thì họ rút xương có vẻ kỹ hơn"
+  ],
+  "hook_content": "thỉnh thoảng lại thèm ăn chân gà rút xương mọi người ạ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review chân gà rút xương, người nói đề cập đến vấn đề an toàn thực phẩm nhưng vẫn chấp nhận được vì có giấy tờ đầy đủ và nhận xét về sự thay đổi bao bì cũng như chất lượng sản phẩm.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

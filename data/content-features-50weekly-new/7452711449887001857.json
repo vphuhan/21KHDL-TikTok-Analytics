@@ -1,0 +1,100 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Mì cay là món ăn nhanh, ngon, phù hợp để ăn khuya.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách nấu mì cay của người này."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê các nguyên liệu có sẵn để nấu mì cay.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, vì các nguyên liệu khá quen thuộc."
+    },
+    {
+      "step": "Nhận xét về topping",
+      "desc": "Ban đầu không thích râu mực, nhưng ăn nhiều lại thấy ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị vì sự thay đổi trong khẩu vị."
+    },
+    {
+      "step": "Giới thiệu nước chấm",
+      "desc": "Nước chấm của anh hai Thái Châu, ngon và tiện lợi.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử loại nước chấm này."
+    },
+    {
+      "step": "Thưởng thức mì cay",
+      "desc": "Mì cay đậm đà, topping dai giòn, nước chấm đậm vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm ăn."
+    },
+    {
+      "step": "Kêu gọi mua hàng",
+      "desc": "Mua nước chấm, sốt thái ở chỗ anh hai Thái Châu.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin hữu ích cho ai quan tâm."
+    },
+    {
+      "step": "Mời ăn cùng",
+      "desc": "Mời mọi người ăn mì cay cùng.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thân thiện."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Còn ai mà muốn mua nước chấm, sốt thái hay nước chấm trái cây thì qua anh hai tui Thái Châu 0808 nha.",
+    "Giờ thì mời mọi người ăn chung với tôi."
+  ],
+  "cta_type": [
+    "Ăn cùng",
+    "Truy cập trang cá nhân"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "mê",
+    "đậm đà",
+    "cay tê",
+    "ngập miệng",
+    "dai giòn",
+    "sần sật",
+    "giòn",
+    "đậm vị",
+    "đã",
+    "chấn động",
+    "ấm bụng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Món gì vừa nhanh vừa ngon thì chỉ có mì cay thôi đúng không mọi người?",
+    "Mì cay thì đậm đà, cay tê đầu lưỡi, bò viên thì siêu to khổng lồ, ăn ngập miệng quá trời, râu bạch tuộc dai giòn sần sật.",
+    "Ăn cùng với nước chấm đậm vị, nữa mèn ơi nó đã, chấn động đại thiệt chứ."
+  ],
+  "hook_content": "Ai ăn mì cay không?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video nấu mì cay ăn đêm với nhiều topping hấp dẫn và nước chấm đặc biệt từ Thái Châu 0808, chia sẻ trải nghiệm ăn uống và mời mọi người cùng thưởng thức.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

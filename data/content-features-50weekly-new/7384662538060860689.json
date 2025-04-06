@@ -1,0 +1,67 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Bắt đền",
+      "desc": "Lặp lại cụm từ \"Bắt đền con điếc\" nhiều lần một cách khó hiểu.",
+      "impact_level": "1",
+      "viewer_emotion": "Bối rối"
+    },
+    {
+      "step": "Khen ngợi",
+      "desc": "Lặp lại câu \"Con gái ăn cái bát ra tiền\" nhiều lần.",
+      "impact_level": "1",
+      "viewer_emotion": "Khó hiểu"
+    },
+    {
+      "step": "Nhận xét",
+      "desc": "Nhận xét \"Dễ thương ghê!\" và lặp lại \"Cô gái ăn cái bát ra tiền\".",
+      "impact_level": "1",
+      "viewer_emotion": "Hoang mang"
+    },
+    {
+      "step": "Khám răng",
+      "desc": "Đột ngột chuyển sang vấn đề phải đi khám răng.",
+      "impact_level": "1",
+      "viewer_emotion": "Ngơ ngác"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Kết thúc bằng một câu hỏi không rõ ràng.",
+      "impact_level": "1",
+      "viewer_emotion": "Thắc mắc"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "dễ thương"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Con gái ăn cái bát ra tiền"
+  ],
+  "hook_content": "Êy! Bắt đền con điếc! Bắt đền con điếc! Êy! Bắt đền con điếc!",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Kịch hóa"
+  ],
+  "summarization": "Video có vẻ là một buổi mukbang bánh gạo cay phô mai, nhưng nội dung rời rạc và khó hiểu, với nhiều câu nói lặp đi lặp lại không liên quan.",
+  "tone_of_voice": [
+    "Hào hứng"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người đi làm, dân văn phòng",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán bún nấm cá thác lác đã bán mười mấy năm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán ăn lâu năm."
+    },
+    {
+      "step": "Mô tả món ăn",
+      "desc": "Mô tả thành phần của món bún, đặc biệt là khổ qua không đắng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng của món ăn."
+    },
+    {
+      "step": "Chia sẻ bí quyết",
+      "desc": "Chia sẻ bí quyết nấu nước dùng từ sườn non và làm khổ qua.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến bí quyết nấu ăn."
+    },
+    {
+      "step": "Thông tin về quán",
+      "desc": "Cung cấp địa chỉ và giờ bán của quán bún nấm cá thác lác.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhớ thông tin về quán."
+    },
+    {
+      "step": "Giá cả và thành phần",
+      "desc": "Giá cả tô thường và tô đặc biệt, sự khác nhau về thành phần.",
+      "impact_level": "2",
+      "viewer_emotion": "Cân nhắc lựa chọn giữa hai loại."
+    },
+    {
+      "step": "Rau ăn kèm",
+      "desc": "Giới thiệu rau xà lách xoong ăn kèm.",
+      "impact_level": "1",
+      "viewer_emotion": "Tưởng tượng về hương vị."
+    },
+    {
+      "step": "Công đoạn chuẩn bị",
+      "desc": "Mô tả công đoạn chuẩn bị cá thác lác vất vả.",
+      "impact_level": "2",
+      "viewer_emotion": "Khâm phục sự tỉ mỉ của người bán."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thích",
+    "dễ ăn",
+    "tốt cho sức khoẻ",
+    "thanh thanh"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mười người ăn là khen đủ mười người. Chưa có người nào đã xưa gì cô bán chưa có ai chê luôn á.",
+    "Đặc biệt có một cái khổ qua của cô ở đây không có đắng.",
+    "Tâm thường thì người ta ăn thì người ta hay nói là cái món mình là kiểu nó thanh thanh, nó dễ ăn nó tốt cho sức khoẻ."
+  ],
+  "hook_content": "Mười người ăn là khen đủ mười người. Chưa có người nào đã xưa gì cô bán chưa có ai chê luôn á.",
+  "hook_type": [
+    "Gây tò mò",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu quán bún nấm cá thác lác lâu năm, được nhiều người khen ngon và tốt cho sức khỏe. Quán có món bún đặc biệt với nhiều thành phần và nước dùng nấu từ sườn non.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

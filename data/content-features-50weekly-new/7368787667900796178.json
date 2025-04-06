@@ -1,0 +1,91 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu về việc 'giải cứu' hũ giấm tỏi và chuyển sang làm bún.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách sử dụng giấm tỏi."
+    },
+    {
+      "step": "Làm bún tươi",
+      "desc": "Hướng dẫn cách làm bún tươi tại nhà từ bột gạo.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với công thức làm bún."
+    },
+    {
+      "step": "Chuẩn bị rau",
+      "desc": "Chia sẻ quá trình bào rau muống và sự vất vả khi nấu ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với sự kỳ công của người nấu."
+    },
+    {
+      "step": "Nấu nước lèo",
+      "desc": "Kể về việc dùng nồi lớn nấu nước lèo và bị trêu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hài hước với tình huống dở khóc dở cười."
+    },
+    {
+      "step": "Nêm nếm",
+      "desc": "Miêu tả quá trình nêm nếm gia vị và chuẩn bị mắm tôm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có nhiều cảm xúc."
+    },
+    {
+      "step": "Trụng bún và topping",
+      "desc": "Nhấn mạnh việc trụng bún và thêm topping cho món canh bún.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn với món canh bún đầy đủ."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Mời mọi người ăn và chia sẻ về hũ tỏi ngâm trắng.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy vui vẻ và muốn thử làm theo."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Ai ăn thì comment cho mình chữ khát khao, khao khát.",
+    "Mọi người mua cái dụng cụ đấy về tự làm bún thích phết đấy."
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "phấn khởi",
+    "thích",
+    "ngon",
+    "vui"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Sống đúng sống đẹp với đời thì kể cả ngâm hũ tỏi 1 tháng rời nó vẫn trắng thôi.",
+    "Mình đúng là cái đứa mà dành cả tuổi thanh xuân để đứng bếp rồi đấy.",
+    "Góp ý đúng là mình nghe mình thay đổi liền, chứ góp ý sai là mình hậm hực mình block."
+  ],
+  "hook_content": "Vậy là đã sau 2 ngày kể từ lúc mà mình phục thù ngâm lại hũ giấm tỏi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ về quá trình làm món canh bún tại nhà, từ việc tự làm bún tươi đến chuẩn bị các nguyên liệu và nấu nước lèo. Video cũng lồng ghép những câu chuyện hài hước và trải nghiệm cá nhân của người nấu.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

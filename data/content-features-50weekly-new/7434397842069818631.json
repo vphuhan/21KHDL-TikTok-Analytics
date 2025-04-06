@@ -1,0 +1,76 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quả bí",
+      "desc": "Giới thiệu quả bí thiên nga, giá 35.000, thường được xào thịt bò.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về loại quả mới."
+    },
+    {
+      "step": "Thử nghiệm cách chế biến",
+      "desc": "Thay vì xào thịt bò, quyết định hấp để thử vị gốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự sáng tạo."
+    },
+    {
+      "step": "Miêu tả cảm quan",
+      "desc": "Mô tả mùi giống bí ngô, vỏ không ăn được, ruột mềm.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung được mùi vị và kết cấu."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Ruột không ngọt, vị ngang, nhạt, vỏ dai và nhiều hạt.",
+      "impact_level": "3",
+      "viewer_emotion": "Thất vọng về hương vị."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Vừa không vị, vừa khó ăn, tốn thời gian hấp.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với trải nghiệm không tốt."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thắc mắc",
+    "không ngọt",
+    "ngang",
+    "nhạt",
+    "dai",
+    "cứng",
+    "thơm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Vừa không vị gì cả, thơm thơm một xíu thôi, còn không có vị gì cả.",
+    "Vừa ăn được ít, vứt đi nhiều.",
+    "Hấp thì lâu chín, không ngon."
+  ],
+  "hook_content": "Đây là quả gì đó. Quả này hết 35.000.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quả bí thiên nga sau khi hấp, người nói không thích hương vị của nó vì nhạt nhẽo và khó ăn. Video đưa ra đánh giá chủ quan về loại quả này.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

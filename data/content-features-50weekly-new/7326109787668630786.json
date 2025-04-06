@@ -1,0 +1,94 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món hành trộn và gợi ý làm cho dịp Tết.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Hướng dẫn chọn và sơ chế hành lá để làm món trộn.",
+      "impact_level": "2",
+      "viewer_emotion": "Chú ý theo dõi các bước."
+    },
+    {
+      "step": "Pha trộn gia vị",
+      "desc": "Hướng dẫn pha trộn các loại gia vị để trộn hành.",
+      "impact_level": "2",
+      "viewer_emotion": "Ghi nhớ tỉ lệ gia vị."
+    },
+    {
+      "step": "Trộn và nếm thử",
+      "desc": "Trộn đều hành với gia vị và nếm thử thành phẩm.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn nếm thử ngay."
+    },
+    {
+      "step": "Chia sẻ lợi ích",
+      "desc": "Nhấn mạnh lợi ích của việc xem TikTok để biết món ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với thông tin."
+    },
+    {
+      "step": "Giới thiệu cuộc thi",
+      "desc": "Giới thiệu cuộc thi 'Thảnh thơi lướt Tết' trên TikTok.",
+      "impact_level": "1",
+      "viewer_emotion": "Quan tâm đến giải thưởng."
+    },
+    {
+      "step": "Kêu gọi tham gia",
+      "desc": "Kêu gọi người xem tham gia cuộc thi và nhận quà.",
+      "impact_level": "2",
+      "viewer_emotion": "Cân nhắc tham gia."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Sáng tạo"
+  ],
+  "cta_content": [
+    "Mấy bà chỉ cần sáng tạo nội dung về Tết nè rồi đăng video có hashtag là thảnh thơi lướt Tết.",
+    "Vậy đó là mình có cơ hội nhận được nhiều phần quà hấp dẫn lắm, nên có gì mấy bà tham khảo thử nha."
+  ],
+  "cta_type": [
+    "Chia sẻ",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm thơm",
+    "chua chua",
+    "mặn mặn",
+    "cay cay",
+    "hay"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Chỉ cần ăn với cơm trắng thôi, ngon dữ lắm, không có cần thịt cá gì hết trơn á.",
+    "Giờ xướng thiệt sự, cứ lướt TikTok là có biết bao nhiêu món ngon hướng dẫn mà mình làm luôn nè.",
+    "Ăn thử một miếng á mà công nhận chua chua mặn mặn cay cay ngon thiệt. Không có hề nghe mùi hăng hay mùi hôi gì của hành luôn."
+  ],
+  "hook_content": "Nhà nào mà không có ăn được hành á, nhìn cái kiểu này chắc nổi da gà luôn quá.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn cách làm món hành trộn đơn giản, dễ làm tại nhà và chia sẻ về cuộc thi 'Thảnh thơi lướt Tết' trên TikTok.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

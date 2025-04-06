@@ -1,0 +1,70 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu viên sô cô la đắt tiền và lý do mua để review.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về giá trị của sản phẩm."
+    },
+    {
+      "step": "Trải nghiệm sản phẩm",
+      "desc": "Mô tả mùi vị, độ giòn và cảm nhận khi ăn sô cô la.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng, muốn nếm thử."
+    },
+    {
+      "step": "So sánh",
+      "desc": "So sánh với các loại sô cô la khác đã từng ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Hiểu rõ hơn về sản phẩm."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Nhấn mạnh sự ngon miệng và dễ ăn của sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "ngon",
+    "béo",
+    "bùi",
+    "ngọt thanh",
+    "dễ ăn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cái sô cô la này thì mình phải công nhận là nó ngon thật.",
+    "Về vị của nó thì nó có vị ngọt thanh, hơi béo béo và bùi bùi một chút.",
+    "Còn cái sô cô la này thì mình thấy nó ngon và nó dễ ăn cực kỳ luôn."
+  ],
+  "hook_content": "Ờ. Cái viên sô cô la này thì mình thấy người ta bán cũng lâu rồi nhưng mà trước đây thì mình chưa bao giờ dám mua cả.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm",
+    "So sánh"
+  ],
+  "summarization": "Video review viên sô cô la đắt tiền, tập trung vào mô tả hương vị, so sánh với các loại sô cô la khác và đánh giá về độ ngon, dễ ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món cá trích ép trứng ba màu đã lâu không ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn được giới thiệu."
+    },
+    {
+      "step": "Cách ăn và cảm nhận ban đầu",
+      "desc": "Nêu cách ăn và cảm nhận về độ ngon của miếng cá.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với cách ăn độc đáo."
+    },
+    {
+      "step": "Nhận xét về màu xanh",
+      "desc": "Đánh giá màu xanh vị wasabi, dai, giòn, béo, chua nhẹ.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung hương vị của món ăn."
+    },
+    {
+      "step": "Nhận xét về màu đỏ",
+      "desc": "Đánh giá màu đỏ vị ngọt, cay dịu của gừng hồng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự kết hợp hương vị."
+    },
+    {
+      "step": "Thích nhất màu xanh",
+      "desc": "Ưa thích nhất màu xanh vì vị wasabi, cay nhẹ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tự hỏi về màu mình thích nhất."
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Gợi ý cắt mỏng cá để đỡ ngán và kết hợp sashimi.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhớ mẹo để ăn ngon hơn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người có ăn món này thì mọi người nhớ cắt mỏng ra mọi người ăn nó sẽ đỡ ngán hơn nha.",
+    "Còn mọi người đã ăn cái món cá này chưa và mọi người thích nhất là cái màu nào nè."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Ăn cùng",
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "vừa miệng",
+    "béo",
+    "thơm",
+    "cay nhẹ",
+    "ngọt ngọt",
+    "cây dịu",
+    "giòn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn cái món này á ở phía dưới nó sẽ giòn giòn nè, trên củ cá thì sẽ dai dai.",
+    "Cái trứng ở phía dưới á mọi người ăn mọi người sẽ cảm nhận được nó li ti li ti mà nhưng rất là rất là giòn luôn nha.",
+    "Do là mình cũng hơi lười á nên mình ăn nguyên miếng bự luôn."
+  ],
+  "hook_content": "Hay mọi người, hôm nay mình sẽ ăn cá trích ép trứng.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video mukbang về món cá trích ép trứng ba màu, người ăn chia sẻ cảm nhận về hương vị và độ giòn của từng màu, đồng thời đưa ra lời khuyên nên cắt mỏng để đỡ ngán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

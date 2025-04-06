@@ -1,0 +1,88 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Cháu mời bà đi ăn ốc và đề nghị thi khều ốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự quan tâm đến người lớn tuổi."
+    },
+    {
+      "step": "Giới thiệu về bà",
+      "desc": "Bà bị tai nạn giao thông, từng quay bánh chưng.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thông tin này khá thú vị."
+    },
+    {
+      "step": "Thử thách khều ốc",
+      "desc": "Hai bà cháu thi khều ốc, ai thua người đó trả tiền.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hồi hộp và tò mò về kết quả."
+    },
+    {
+      "step": "Cháu thua cuộc",
+      "desc": "Cháu thua bà, chấp nhận mời bà bữa ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự vui vẻ, hòa đồng của 2 bà cháu."
+    },
+    {
+      "step": "Đánh giá ngao",
+      "desc": "Bà nhận xét ngao dễ ăn hơn ốc.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    },
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Quán ốc ngon, rẻ ở 90 Thanh Nhàn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích và muốn đến thử."
+    },
+    {
+      "step": "Lời kết",
+      "desc": "Cháu đề xuất chơi kèo khác vì kèo này không cân sức.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy vui vẻ vì sự hài hước."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Anh em thử đoán xem ai là người thắng nha."
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "cay",
+    "khó chịu",
+    "dễ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mày mày thua, mày cũng à khao.",
+    "Mình còn trẻ, còn khỏe mà lại thua bà. Cay thật sự.",
+    "Tôi là không có nhường bà gì đâu. Tôi thua là tôi thua đấy."
+  ],
+  "hook_content": "Bà ơi, bà nói con một món bà thích ăn nhất đi, xong tối nay con mời bà.",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video ghi lại cảnh hai bà cháu thi khều ốc, ai thua sẽ trả tiền bữa ăn. Sau đó, cháu giới thiệu quán ốc ngon, rẻ ở Thanh Nhàn.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

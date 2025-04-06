@@ -1,0 +1,71 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quà tặng",
+      "desc": "Tặng quà cho cô chủ nhà và nhận lại món ăn hấp dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn được tặng."
+    },
+    {
+      "step": "Mô tả món ăn",
+      "desc": "Hùm hào tươi ngon, có thể chế biến hấp hoặc nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món hùm hào."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Ăn hùm hào nóng hổi với muối tiêu ớt.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm giác thèm ăn dâng cao."
+    },
+    {
+      "step": "Nhấn mạnh độ ngon",
+      "desc": "Hùm hào to, ăn rất đã miệng, gây nghiện.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn ăn ngay lập tức."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "dễ thương",
+    "dễ gần",
+    "ngọt",
+    "đã",
+    "cuốn",
+    "ngon",
+    "tê tái"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mình mà vọng hết nguyên cái mâm này thì làm sao tối nay mà ngủ nghê gì được đây, chắc thức trắng đêm luôn á.",
+    "Ăn cái nào là coi như nó tê tái cái đó đó.",
+    "Cảm giác giống như là cái tay vừa tách mà cái miệng vừa ăn á, ta nói nó đã gì đâu."
+  ],
+  "hook_content": "Hôm nay thì mình có xuống tặng quà cho cô chủ nhà thì cô lặt đặt chạy vô lấy một cái hộp gì đó với hai cuồn giấy tặng lại mình.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video chia sẻ về việc tặng quà cho cô chủ nhà và được tặng lại món hùm hào, sau đó người này review nhanh món ăn này và chia sẻ cảm xúc khi ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

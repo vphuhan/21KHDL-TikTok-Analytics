@@ -1,0 +1,85 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu hàng xiên bẩn",
+      "desc": "Nhấn mạnh độ nổi tiếng, lúc nào cũng đông khách của quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ ngon của quán ăn."
+    },
+    {
+      "step": "Thời gian bán hàng",
+      "desc": "Thông tin về thời gian bán hàng của quán từ chiều đến tối.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích."
+    },
+    {
+      "step": "Mẹo gọi món",
+      "desc": "Gợi ý gọi một suất 30 cành cho hai người ăn no.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với mẹo tiết kiệm."
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Miêu tả các loại topping trong xiên bẩn và cảm nhận.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi thèm thuồng món ăn."
+    },
+    {
+      "step": "Không gian quán",
+      "desc": "Miêu tả trải nghiệm ăn xiên bẩn và ngắm đường phố.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn đến trải nghiệm thử."
+    },
+    {
+      "step": "Đánh giá đồ uống",
+      "desc": "Nhận xét nhỏ về nước sâm bị ngọt.",
+      "impact_level": "1",
+      "viewer_emotion": "Lưu ý nhỏ về đồ uống."
+    },
+    {
+      "step": "Địa điểm quán",
+      "desc": "Thông tin về địa chỉ quán nằm cạnh cổng trường.",
+      "impact_level": "1",
+      "viewer_emotion": "Dễ dàng tìm thấy quán."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "chill"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Dân chơi Hải Phòng thì nhìn một phát biết ngay đây là hàng siên bẩn ở đâu.",
+    "Công thức đến đây mà đi hai người là các bác nhớ chỉ gọi một suất 30 cành thôi là ăn no lắm rồi.",
+    "Buổi tối mà ra đây ngồi ăn xiên bẩn lai rai ngắm view đường cũng chill phết đấy chứ."
+  ],
+  "hook_content": "Sau này bao nhiêu đây ạ? 30. 30. Không không phải là quay mới cho nhiều hơn đấy.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quán xiên bẩn nổi tiếng ở cổng trường Ngô Quyền, Hải Phòng. Quán nổi tiếng với món xiên bẩn được mix nhiều loại, giá cả phải chăng và không gian ăn vặt chill.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

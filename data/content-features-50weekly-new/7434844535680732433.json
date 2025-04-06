@@ -1,0 +1,69 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giải thích lý do làm video và giới thiệu món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Công thức",
+      "desc": "Nêu công thức làm món đùi gà chiên mắm tỏi.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong muốn thử làm theo."
+    },
+    {
+      "step": "Phản ứng",
+      "desc": "Kêu gọi xem đến cuối để biết phản ứng của bố mẹ chồng.",
+      "impact_level": "2",
+      "viewer_emotion": "Hóng chờ kết quả."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Quảng cáo viên sủi hỗ trợ giữ dáng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bạn nào mà chưa thử thì nhất định phải thử cho mình nhá."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Hôm nay thì mình sẽ làm món đùi gà chiên mắm tỏi của Việt Nam cho bố mẹ ăn thử.",
+    "Công thức để làm món này thì đơn giản cực, mình có để sẵn trên màn hình ấy, mọi người cứ tham khảo nhá.",
+    "Và nhớ xem đến cuối, để xem phản ứng của bố mẹ chồng mình là mình đã thành công với món này chưa nhá."
+  ],
+  "hook_content": "một số bạn comment hỏi mình là, tại sao thấy có mỗi bạn vào bếp thế, gia đình chồng hay là bố mẹ chồng không giúp gì à?",
+  "hook_type": [
+    "Phản hồi bình luận"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh người vợ Việt Nam sống ở nước ngoài nấu món đùi gà chiên mắm tỏi cho bố mẹ chồng. Cô chia sẻ công thức và mời gọi xem phản ứng của gia đình.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

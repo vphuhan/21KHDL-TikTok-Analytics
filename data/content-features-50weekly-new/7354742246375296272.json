@@ -1,0 +1,72 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bánh mì",
+      "desc": "Giới thiệu bánh mì chị Hoàng Lam như một lựa chọn thay thế.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự khác biệt."
+    },
+    {
+      "step": "Mô tả chi tiết",
+      "desc": "Giá cả, các loại nhân và nhận xét về độ đầy đặn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn bởi sự đa dạng."
+    },
+    {
+      "step": "Đánh giá chất lượng",
+      "desc": "Nhấn mạnh vào chất lượng ba tê và các thành phần khác.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử."
+    },
+    {
+      "step": "Kết luận và địa chỉ",
+      "desc": "Khẳng định chất lượng và cung cấp địa chỉ quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng và muốn ghé thăm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Tôi sẽ để địa chỉ ở đây nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ghiền",
+    "ngon",
+    "siêu béo",
+    "chất lượng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Thật sự quá là ghiền cái thao ba tơ của chị Hoàng Lam luôn.",
+    "Cạp tới đâu chất lượng tới đó.",
+    "Vị ba tơ nó bùng nổ trong miệng luôn."
+  ],
+  "hook_content": "Giữa cái drama ầm ầm của bánh mì Huynh Hoa, bánh mì bà Huynh với lại bánh mì trảng thì tôi lui về với bánh mì của chị Hoàng Lam nha.",
+  "hook_type": [
+    "Gây tranh cãi",
+    "So sánh"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu và đánh giá bánh mì chị Hoàng Lam, nổi bật với ba tê ngon và chất lượng. Người nói bày tỏ sự yêu thích và khuyến khích mọi người nên thử.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

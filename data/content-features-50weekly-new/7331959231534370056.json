@@ -1,0 +1,79 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Sơ chế tôm",
+      "desc": "Mua tôm, để đông đá, ngâm nước đá, khía lưng, bỏ chỉ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thao tác làm sạch tôm khá tỉ mỉ."
+    },
+    {
+      "step": "Ướp tôm",
+      "desc": "Trộn tôm với hỗn hợp gia vị, ớt, tỏi, dầu màu điều.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của món tôm sau khi ướp."
+    },
+    {
+      "step": "Skincare",
+      "desc": "Giới thiệu bộ đôi tẩy trang và chu trình skincare buổi tối.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy không liên quan đến chủ đề nấu ăn."
+    },
+    {
+      "step": "Sấy tôm",
+      "desc": "Sấy tôm bằng nồi chiên không dầu ở nhiệt độ thấp.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy cách làm này khá mới lạ và tốn thời gian."
+    },
+    {
+      "step": "Thành phẩm",
+      "desc": "Đánh giá thành phẩm tôm dẻo muối ớt sau khi sấy.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong muốn được ăn thử món tôm này."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Còn ai đã làm rồi thì có thể cho mình xin thêm kinh nghiệm nhá."
+  ],
+  "cta_type": [
+    "Chia sẻ công thức",
+    "Đặt câu hỏi"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "hấp dẫn",
+    "thơm lừng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tôm dẻo muối ớt phiên bản “tổ tiên mách bảo”",
+    "Tôi thử mix lại theo công thức cụ thể như trên màn hình.",
+    "Thế này mà nhậu cùng với gia đình hay là người thương thì bén mồi lắm đây."
+  ],
+  "hook_content": "tiếp tục với series test làm hàm nha hai lần này. Phần thứ năm, chúng mình sẽ liên quan tới tôm, mọi người ơi. Tôm dẻo muối ớt.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm món tôm dẻo muối ớt bằng cách sấy trong nồi chiên không dầu, chia sẻ kinh nghiệm và công thức ướp tôm tự điều chỉnh. Video còn lồng ghép giới thiệu sản phẩm tẩy trang.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món chân giò kho tàu và gợi ý thay thế ba rọi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Giới thiệu mâm cơm Tết",
+      "desc": "Mời mọi người cùng làm mâm cơm ngày Tết miền Tây.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với ý tưởng mâm cơm Tết."
+    },
+    {
+      "step": "Hướng dẫn nấu chân giò kho tàu",
+      "desc": "Hướng dẫn cách ướp và kho chân giò với nước dừa, trứng.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong muốn học theo công thức."
+    },
+    {
+      "step": "Giải thích về ớt",
+      "desc": "Giải thích về việc sử dụng ớt sừng trâu không cay để tạo màu.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Hướng dẫn nấu canh khổ qua",
+      "desc": "Hướng dẫn nấu canh khổ qua nhồi thịt và mẹo để không đắng.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến mẹo nấu ăn."
+    },
+    {
+      "step": "Miêu tả món ăn sau khi nấu",
+      "desc": "Miêu tả chân giò mềm rệu, thơm ngon và cách ăn kèm.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn ăn ngay."
+    },
+    {
+      "step": "Mời ăn và giới thiệu sản phẩm",
+      "desc": "Mời mọi người ăn và giới thiệu kẹo Doublemint.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Truyền thống",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Tết này muốn miệng luôn tum tho thì hãy nhớ Dubomine nha."
+  ],
+  "cta_type": [
+    "Ăn cùng",
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "mềm rệu",
+    "ngon",
+    "thơm",
+    "thanh mát",
+    "cuốn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ai mà sợ ba rọi kho tàu mau ngán thì thử chân giò kho tàu đi, ta nói ăn mềm rệu, ít mỡ, không có ngán mà còn có gân sần sật ngon lắm luôn.",
+    "Mọi người nhớ lót thêm một lớp lá chuối đặng kho không có bị bọt.",
+    "Chân giò thì thấm vị mềm rệu béo ngon, ăn cùng với canh khổ qua nhồi thịt đầy ủ thanh mát, quất thêm miếng xòi chín nữa đúng là quá cuốn luôn."
+  ],
+  "hook_content": "Ai mà sợ ba rọi kho tàu mau ngán thì thử chân giò kho tàu đi, ta nói ăn mềm rệu, ít mỡ, không có ngán mà còn có gân sần sật ngon lắm luôn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn nấu món chân giò kho tàu và canh khổ qua nhồi thịt, gợi ý mâm cơm ngày Tết miền Tây. Người nấu chia sẻ bí quyết để món ăn ngon và không bị ngán, đồng thời giới thiệu sản phẩm kẹo Doublemint.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

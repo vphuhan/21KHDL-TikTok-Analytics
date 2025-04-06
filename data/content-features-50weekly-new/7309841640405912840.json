@@ -1,0 +1,85 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu hoàn cảnh",
+      "desc": "Giới thiệu việc dọn tủ lạnh và nấu cơm tối đơn giản.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Than thở",
+      "desc": "Chia sẻ khó khăn khi phải chăm sóc con nhỏ.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm"
+    },
+    {
+      "step": "Nấu món xào",
+      "desc": "Hướng dẫn sơ chế và xào mực với rau củ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Nêm nếm gia vị",
+      "desc": "Chia sẻ cách nêm nếm gia vị theo khẩu vị cá nhân.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Nấu canh trứng",
+      "desc": "Hướng dẫn nấu món canh trứng đơn giản.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Trình bày món ăn",
+      "desc": "Trình bày và trang trí món ăn đã nấu.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng"
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng ăn cơm tối.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mời mn ăn cơm tối với nhà mình nha"
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Kiểu này mà ở chung với mẹ chồng chắc là được trả về nơi sản xuất luôn quá.",
+    "Ở Việt Nam mình gặp mớ mực này thì chắc xào dưa leo thôi ha mọi người.",
+    "Hồi đó nấu ăn mình còn đong đếm chứ bây giờ mình nấu hả nêm theo cảm tính không à."
+  ],
+  "hook_content": "Bữa nay nhà còn gì nấu đó mà mình cũng được bữa cơm đơn giản nhưng mà ngon quá chừng luôn nè.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình nấu bữa cơm tối đơn giản với các món canh trứng và mực xào cay kiểu Hàn tại nhà. Chủ yếu chia sẻ về những khó khăn khi chăm sóc con nhỏ và cách nấu ăn theo cảm hứng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

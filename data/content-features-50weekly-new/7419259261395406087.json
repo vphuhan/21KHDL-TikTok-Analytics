@@ -1,0 +1,87 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món gà quay lá chanh mới phát hiện, hấp dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Miêu tả chi tiết",
+      "desc": "Miêu tả hương vị, lớp da, độ tươi của gà quay lá chanh.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy đói bụng"
+    },
+    {
+      "step": "Trải nghiệm ẩm thực",
+      "desc": "Chia sẻ cảm nhận khi ăn kèm với cơm lam, bánh bao.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Gà quay truyền thống",
+      "desc": "Thử thêm gà quay truyền thống, miêu tả độ tươi ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Đánh giá tổng quan",
+      "desc": "Nhấn mạnh sốt vừa ăn, nước chấm không phụ gia.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng"
+    },
+    {
+      "step": "Sườn quay",
+      "desc": "Đánh giá chất lượng sườn quay, độ dày thịt và hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn thử"
+    },
+    {
+      "step": "Thông tin địa điểm",
+      "desc": "Cung cấp địa chỉ quán gà quay sườn quay Đông Phát.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thèm",
+    "hấp dẫn",
+    "ngon",
+    "ghiền",
+    "vừa ăn",
+    "cay cay chua chua ngọt ngọt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mà mới phát hiện ra chỗ này có gà quay lá chanh nhìn hấp dẫn ghê ha. Nhìn là muốn cạp liền một cái thiệt luôn á.",
+    "Đó giờ đi ăn gà quay chỉ thấy chỗ này mới có gà quay lá chanh kiểu vầy nè.",
+    "Cắn cái lớp da giòn giòn béo béo. Cái đùi gà nó tươi mà mọng nước dễ sợ."
+  ],
+  "hook_content": "Nhân dịp chị đẹp vắng nhà mà lên thèm gà thì mình đừng có ở nhà nữa.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán gà quay Đông Phát với món gà quay lá chanh đặc biệt, kèm theo đánh giá chi tiết về hương vị, chất lượng món ăn và địa điểm quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "So sánh xôi chiên mua ở quán và tự làm, tạo sự tò mò.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn xem kết quả so sánh."
+    },
+    {
+      "step": "Mua xôi chiên",
+      "desc": "Mua xôi chiên ở quán, mô tả thành phần và giá cả.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, nắm bắt thông tin."
+    },
+    {
+      "step": "Làm xôi chiên",
+      "desc": "Tự làm xôi chiên, so sánh số lượng và thành phần.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự khác biệt."
+    },
+    {
+      "step": "Công thức và chi phí",
+      "desc": "Chia sẻ công thức nước dùng và chi phí nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến công thức và chi phí."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "So sánh và kết luận, ưu tiên mua ở quán vì nhanh.",
+      "impact_level": "1",
+      "viewer_emotion": "Đồng tình với lựa chọn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "tò mò",
+    "vui"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "So sánh 50.000 xôi chiên ở quán và 50.000 xôi chiên tự làm với tiêu chí vui thôi.",
+    "Thực ra thì với cái số lượng tiền đấy, xải cho hết nhân mọi người ạ.",
+    "Tôi tò mò, bạn cũng thế."
+  ],
+  "hook_content": "nói nhiều nữa. 50.000 xôi chiên ở quán và 50.000 xôi chiên tự làm với tiêu chí vui thôi. Tôi tò mò, bạn cũng thế.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "So sánh",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video so sánh xôi chiên mua ở quán và tự làm với số tiền 50.000, từ số lượng, nguyên liệu đến thời gian, và kết luận nên mua ở quán vì nhanh hơn.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

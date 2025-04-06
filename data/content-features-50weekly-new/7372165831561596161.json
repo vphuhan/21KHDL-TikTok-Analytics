@@ -1,0 +1,61 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu cà phê hòa tan của Cao Sỹ Nhật và công dụng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm"
+    },
+    {
+      "step": "Nhấn mạnh chất lượng",
+      "desc": "Tập trung vào độ sánh, vị đậm đà và thành phần tự nhiên.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến chất lượng"
+    },
+    {
+      "step": "Hướng dẫn sử dụng",
+      "desc": "Hướng dẫn cách pha chế cà phê để đạt hương vị ngon nhất.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử làm theo"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "tốt cho sức khỏe"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Vừa mới order thêm hai hộp nữa, một hộp nấm linh chi với lại một hộp đông trùng hạ thảo.",
+    "Xe này ai mà có đi chơi xa nhớ thủ cho mình hai cái hộp này nha.",
+    "Uống rất là tốt cho sức khỏe luôn anh em ơi."
+  ],
+  "hook_content": "Mời anh em nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video giới thiệu cà phê hòa tan của Cao Sỹ Nhật, nhấn mạnh vào chất lượng, thành phần tự nhiên và hướng dẫn cách pha chế để có hương vị ngon nhất.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

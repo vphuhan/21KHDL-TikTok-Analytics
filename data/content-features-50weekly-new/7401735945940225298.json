@@ -1,0 +1,71 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm gây tò mò",
+      "desc": "Mô tả hộp mayonaise lớn và so sánh với kem trộn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm và mục đích sử dụng."
+    },
+    {
+      "step": "Giải thích lý do mua",
+      "desc": "Chia sẻ lý do mua mayonaise số lượng lớn vì sở thích cá nhân.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự hài hước và thành thật."
+    },
+    {
+      "step": "Giới thiệu món ăn yêu thích",
+      "desc": "Miêu tả món cơm trộn mayonaise và sự tiện lợi của nó.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng và thèm thuồng món ăn."
+    },
+    {
+      "step": "Đánh giá sản phẩm",
+      "desc": "So sánh loại mayonaise mới mua với Ajinomoto về vị và độ đặc.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến đánh giá sản phẩm."
+    },
+    {
+      "step": "Khẳng định độ tiêu thụ",
+      "desc": "Dự đoán thời gian sử dụng hết hộp mayonaise khổng lồ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thích"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đảm bảo là mới nhìn ai cũng nghĩ đây là kem trộn đúng không?",
+    "Ôi giời ơi nó ngon dã man.",
+    "Với cái kiểu mà ăn mọi thứ với mayonaise như mình ấy, thì cái thùng này chắc hai tuần là nó hết."
+  ],
+  "hook_content": "Hình thử không nói cho mọi người biết đây là cái gì không? Đảm bảo là mới nhìn ai cũng nghĩ đây là kem trộn đúng không?",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu về sở thích ăn mayonaise của người nói, đặc biệt là món cơm trộn mayonaise. Người nói mua một hộp mayonaise siêu to khổng lồ và chia sẻ cảm nhận về hương vị của nó.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

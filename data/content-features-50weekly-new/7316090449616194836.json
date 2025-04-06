@@ -1,0 +1,86 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món sườn ram béo béo, đảm bảo mềm ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về công thức."
+    },
+    {
+      "step": "Sơ chế sườn",
+      "desc": "Sườn cốt lết được dần cho mềm hai mặt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, đây là bước chuẩn bị."
+    },
+    {
+      "step": "Ướp sườn",
+      "desc": "Ướp sườn với các loại gia vị cơ bản.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhớ các thành phần gia vị."
+    },
+    {
+      "step": "Áp chảo sườn",
+      "desc": "Áp chảo sườn, mỗi mặt một lần để tránh bị chai.",
+      "impact_level": "2",
+      "viewer_emotion": "Lưu ý kỹ thuật áp chảo."
+    },
+    {
+      "step": "Làm sốt",
+      "desc": "Đổ phần ướp còn lại, thêm hành tím, đường, nước tương.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn hơn với phần sốt."
+    },
+    {
+      "step": "Hoàn thiện",
+      "desc": "Trút sườn vào sốt, lăng qua lăng lại rồi tắt bếp.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn thử ngay."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Món sườn ram ăn với cơm rất ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy đói bụng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "béo béo",
+    "ngon",
+    "mềm",
+    "ngọt ngọt",
+    "mặn mặn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đây là cái công thức sườn ram béo béo mà mấy bà không cần ướp qua một đêm mà miếng sườn vẫn mềm không hề bị khô.",
+    "Mấy cái này mà ăn hết ba tô cơm là chuyện có thật nha.",
+    "Bà nào mà làm theo cái công thức này của tôi mà miếng sườn không mềm hả? Đem qua nhà tôi, tôi thối tiền lại cho."
+  ],
+  "hook_content": "Bảo đảm với mấy bà, đây là cái công thức sườn ram béo béo mà mấy bà không cần ướp qua một đêm mà miếng sườn vẫn mềm không hề bị khô.",
+  "hook_type": [
+    "Gây tò mò",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món sườn ram béo béo đơn giản, không cần ướp qua đêm mà sườn vẫn mềm, hứa hẹn ăn rất tốn cơm. Người làm còn khẳng định nếu làm theo công thức mà sườn không mềm sẽ hoàn tiền.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

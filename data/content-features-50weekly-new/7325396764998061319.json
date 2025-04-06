@@ -1,0 +1,90 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bún chả Hà Nội và nem rán tự làm cho gia đình.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn và cách chế biến."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Chia sẻ các nguyên liệu ướp chả như muối, đường, bột ngọt...",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin cơ bản về thành phần món ăn."
+    },
+    {
+      "step": "Nướng chả",
+      "desc": "Nướng chả bằng nồi chiên không dầu và lửa than để tăng hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với bí quyết nướng chả đặc biệt."
+    },
+    {
+      "step": "Cuốn nem",
+      "desc": "Cuốn nem và chia sẻ quan niệm 'cuốn đẹp lấy được chồng'.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ với câu nói đùa về việc cuốn nem."
+    },
+    {
+      "step": "Pha nước mắm",
+      "desc": "Chia sẻ cách pha nước mắm không theo định lượng.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về bí quyết pha nước mắm gia truyền."
+    },
+    {
+      "step": "Chiên nem",
+      "desc": "Chiên nem rán và hài hước về việc mua nem bên ngoài.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy gần gũi với sự hài hước, chân thật."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Mời mọi người cùng ăn bún chả và nem rán.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử món ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người có cách nào làm nêm rán ngon hơn nữa thì chỉ cho mình với nha"
+  ],
+  "cta_type": [
+    "Chia sẻ công thức",
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "khoái",
+    "thích",
+    "ngon",
+    "nóng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mình thấy mấy cái món này mà thiếu mùi lửa then là nó không có được ngon á mọi người.",
+    "Hồi đó mình hay nghe người lớn nói cái câu là cuốn đẹp là lấy chồng được rồi, mình cuốn đẹp như thế này có lấy chồng được nữa không ta?",
+    "Cái cách nấu nước mắm này của mình nó không có định lượng đâu."
+  ],
+  "hook_content": "Bữa nay từ sớm là ba tui hên đã thức dậy dọn cái mớ hỗn độn hôm qua rồi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ cách làm bún chả Hà Nội và nem rán tại nhà, từ khâu chuẩn bị nguyên liệu, nướng chả, cuốn nem đến pha nước mắm. Chủ ভিডিও cũng chia sẻ những bí quyết và kinh nghiệm cá nhân để món ăn thêm ngon miệng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

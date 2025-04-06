@@ -1,0 +1,68 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món cua hoàng tử chiên giòn và nguyên liệu lá nốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Chế biến và mô tả",
+      "desc": "Mô tả quá trình chế biến và hình thức của món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với cách chế biến."
+    },
+    {
+      "step": "Thưởng thức và đánh giá",
+      "desc": "Ăn thử và đánh giá hương vị, độ giòn của cua.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng."
+    },
+    {
+      "step": "So sánh và kết luận",
+      "desc": "So sánh với món ăn trước và khẳng định hương vị đồng quê.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng ý với nhận xét."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngọt",
+    "giòn",
+    "mát",
+    "ngon",
+    "hợp"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Hôm trước mình ăn mất con hoàng đế rồi, hôm nay còn con hoàng tử thôi.",
+    "Cái này mà để xem còn anh em nào comment nữa bảo là không phải đồng quê nữa thì chắc khả năng là cũng không gần gũi anh nào hơn đúng không nhỉ?",
+    "Giòn như kiểu là là là bim bim ấy."
+  ],
+  "hook_content": "này phải xấp xấp ba xấp bốn vào. Hơn bánh đa.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu và review món cua hoàng tử chiên giòn ăn kèm lá nốt, được đánh giá là món ăn đồng quê, giòn ngon.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

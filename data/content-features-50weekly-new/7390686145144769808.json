@@ -1,0 +1,78 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn vặt",
+      "desc": "Giới thiệu món tôm càng sốt phô mai trứng muối và bánh mì.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Bắt gặp tín hiệu vũ trụ",
+      "desc": "Thấy em gái đang chấm món gì đó và đi tìm món tương tự.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Khám phá GS25",
+      "desc": "Tìm thấy kẹo mút chấm muối ớt mua hai tặng một.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Trải nghiệm hương vị",
+      "desc": "Ăn thử kẹo mút chấm muối ớt và diễn tả cảm nhận.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Đánh giá tổng quan",
+      "desc": "Nhận xét về sự kết hợp hương vị và sự thú vị của sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "buồn miệng",
+    "đúng gu",
+    "ngon lành",
+    "chua chua ngọt ngọt",
+    "thú vị",
+    "cuốn",
+    "đã",
+    "hòa quyện"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đang buồn miệng mà cứ thấy mấy món chấm chấm đúng gu vậy thì làm sao mà kìm lòng nổi.",
+    "Ăn cái kẹo này vừa hoạt động cơ miệng, cơ tay nó cứ cuốn cuốn kiểu gì á.",
+    "Quan trọng là cái sự kết hợp chua cay mặn ngọt hòa quyện với nhau."
+  ],
+  "hook_content": "Bữa nay đang buồn miệng mà cái nư thích ăn mấy món chấm chấm.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review kẹo mút chấm muối ớt mua ở GS25, miêu tả trải nghiệm ăn và cảm nhận về hương vị chua cay mặn ngọt hòa quyện, tạo cảm giác cuốn hút.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

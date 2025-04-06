@@ -1,0 +1,79 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Đã lâu không ăn gà rán và bày tỏ sự thèm thuồng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Chia sẻ thói quen",
+      "desc": "Không thích ăn tương ớt của quán vì không đậm vị.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu tương ớt Vifon và trải nghiệm ăn cùng gà rán.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Đánh giá vị tương ớt hợp với gà rán, cay dịu nhẹ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Kêu gọi",
+      "desc": "Khuyên mua tương ớt Vifon để ăn tại nhà.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Anh em có thể mua cái loại này về để trong nhà ăn nè."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thèm",
+    "đã",
+    "cuốn",
+    "cay dịu nhẹ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "gà rán này là mãi đỉnh luôn",
+    "càng chấm nó càng cuốn à, đã",
+    "nói không có điểm gì để chê luôn á"
+  ],
+  "hook_content": "Ừm… Anh em ơi, cũng phải hơn 3 tháng rồi mình không đụng tới miếng gà rán nào luôn anh em ơi, trời ơi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review cách ăn gà rán ngon nhất bằng tương ớt Vifon, người nói chia sẻ trải nghiệm cá nhân và đánh giá cao sự kết hợp này. Đồng thời khuyến khích người xem mua về dùng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

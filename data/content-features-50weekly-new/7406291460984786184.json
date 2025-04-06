@@ -1,0 +1,97 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu dụng cụ làm bánh",
+      "desc": "Giới thiệu dụng cụ làm bánh gối được mua trên mạng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về công dụng của dụng cụ."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê và chuẩn bị các nguyên liệu làm bánh gối.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy công phu và tỉ mỉ."
+    },
+    {
+      "step": "Thực hiện làm bánh",
+      "desc": "Bắt đầu làm bánh và gặp sự cố với dụng cụ.",
+      "impact_level": "3",
+      "viewer_emotion": "Thất vọng và bực bội."
+    },
+    {
+      "step": "Chế biến món ăn kèm",
+      "desc": "Làm dưa bóp ăn kèm để cân bằng vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự kết hợp."
+    },
+    {
+      "step": "Nặn bánh thủ công",
+      "desc": "Chuyển sang nặn bánh bằng tay sau thất bại với dụng cụ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự cố gắng."
+    },
+    {
+      "step": "Chiên bánh và thành phẩm",
+      "desc": "Chiên bánh bằng nồi mới mua và khoe thành phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui mừng vì cuối cùng cũng thành công."
+    },
+    {
+      "step": "Chia sẻ trải nghiệm",
+      "desc": "Nói về trải nghiệm làm bánh và dự định tương lai.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy đồng cảm."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "mê ly",
+    "hý hửng",
+    "mệt mỏi",
+    "tinh tươm",
+    "hòa quyện",
+    "bất lực",
+    "buông xuôi",
+    "thương đau",
+    "xót xa",
+    "bái phục",
+    "bực",
+    "háo hức",
+    "kiệt quệ",
+    "hoảng loạn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nghĩ bụng trắc nặn bằng cái này chắc cũng nhanh, đủng đỉnh thư thái 7:00 tối mới đem đồ ra làm",
+    "Tao nói vừa bỏ bột vào ịt một phát đầy ngôi sao hy vọng nó bung phụ kiện ra hết luôn, đoạn đấy mình bị sang chấn tâm lý tinh thần mình quên quay luôn mà",
+    "Chắc đó sẽ là một cái hôm mà trời trong xanh gió lạnh, không khí thật trong lành, mình ở nhà rất rảnh, có anh Nguyên ngồi cạnh khẽ nói thèm bánh canh, mình chạy đi thật nhanh mua trứng cút để dành nhưng để làm bánh gối chứ không làm cho anh."
+  ],
+  "hook_content": "Trời ơi ta nói là hôm bữa lướt được ở đâu người ta làm cái bánh gối bằng cái dụng cụ này đều đẹp mê ly, hý hửng đặt về chọn ngày lành tháng tốt để mà diện kiến.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện"
+  ],
+  "summarization": "Video kể về quá trình làm bánh gối của một người, bắt đầu từ việc mua dụng cụ làm bánh trên mạng, chuẩn bị nguyên liệu, gặp sự cố khi sử dụng dụng cụ và cuối cùng là hoàn thành món bánh bằng phương pháp thủ công. Cô cũng chia sẻ về những khó khăn và cảm xúc trong quá trình làm bánh.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

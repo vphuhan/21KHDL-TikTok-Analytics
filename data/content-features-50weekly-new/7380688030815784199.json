@@ -1,0 +1,109 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn và công đoạn chuẩn bị",
+      "desc": "Giới thiệu món lẩu cua đồng và quá trình chuẩn bị nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn và cách thực hiện."
+    },
+    {
+      "step": "Xay và lọc cua",
+      "desc": "Xay cua đồng với muối, sau đó lọc lấy nước cốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi ghê nhưng thú vị với công đoạn chế biến."
+    },
+    {
+      "step": "Chuẩn bị rau",
+      "desc": "Đi chợ tìm đọt bí nhưng không có, hái mồng tơi ở nhà.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm với khó khăn khi tìm nguyên liệu."
+    },
+    {
+      "step": "Nấu nước lẩu",
+      "desc": "Nấu nước lẩu cua, vớt thịt cua, thêm hành phi và gia vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng khi thấy nước lẩu sôi và thịt cua."
+    },
+    {
+      "step": "Kể chuyện bị phân biệt đối xử",
+      "desc": "Chia sẻ trải nghiệm không vui khi mua bánh mì ở Hàn.",
+      "impact_level": "2",
+      "viewer_emotion": "Bất bình và đồng cảm với trải nghiệm."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu và quảng cáo tinh dầu thông đỏ, đông trùng hạ thảo.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thông tin hữu ích hoặc bỏ qua."
+    },
+    {
+      "step": "Mời ăn lẩu",
+      "desc": "Mời mọi người ăn lẩu cua cùng gia đình.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy ấm cúng và muốn tham gia."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Ai muốn nói gì nói cứ lạc quan quan tâm sức khỏe mình trước.",
+    "Muốn mua hàng hàng chuẩn cho gia đình á thì cứ nhắn qua shop nha"
+  ],
+  "cta_type": [
+    "Truy cập trang cá nhân",
+    "Ăn cùng",
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "tỉ mỉ",
+    "dễ thương",
+    "nóng nực",
+    "chua",
+    "chua é ái",
+    "thơm",
+    "vừa ăn",
+    "ghê gớm",
+    "đứng hình",
+    "hạnh phúc",
+    "lạc quan",
+    "tốt",
+    "ngon",
+    "bổ",
+    "an toàn",
+    "lành tính",
+    "chuẩn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nhờ ở Việt Nam mình mà nấu cái nồi lẩu này là ta nói ăn rau đã luôn",
+    "Mình nhận được cái ánh mắt như là cái mũi tên vậy á mọi người",
+    "Bây giờ mình chỉ mong có nhiều sức khỏe để làm chỗ dựa cho Tụi Hân với Su Hân."
+  ],
+  "hook_content": "Bữa nay mình trổ tài nấu ăn lúc mới 6 giờ sáng luôn á, ai tiếng đồng hồ, mình ngồi từ 6 giờ cho tới 8 giờ chỉ để tỉ mỉ mấy cái cuộn cơm này thôi nè.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn",
+    "Kể chuyện"
+  ],
+  "summarization": "Video ghi lại quá trình nấu món lẩu cua đồng tại nhà của một người phụ nữ Việt Nam đang sinh sống ở Hàn Quốc, đồng thời chia sẻ về cuộc sống thường ngày và quảng cáo sản phẩm chăm sóc sức khỏe. Món lẩu cua được nấu theo công thức truyền thống Việt Nam với các nguyên liệu tươi ngon.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hài hước"
+  ]
+}

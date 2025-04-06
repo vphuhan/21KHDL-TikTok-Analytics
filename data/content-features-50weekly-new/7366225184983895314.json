@@ -1,0 +1,79 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Út giới thiệu món lạp xưởng xào và các nguyên liệu.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc sắc."
+    },
+    {
+      "step": "Ăn lạp xưởng lăn bột ớt",
+      "desc": "Út ăn lạp xưởng lăn bột ớt và nhận xét hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thèm ăn lạp xưởng hơn."
+    },
+    {
+      "step": "Ăn kèm dưa leo",
+      "desc": "Út ăn lạp xưởng kèm dưa leo và đánh giá sự kết hợp.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy lạ, nhưng cũng có thể ngon."
+    },
+    {
+      "step": "Ăn kèm đậu que",
+      "desc": "Út ăn lạp xưởng kèm đậu que và đánh giá.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đậu que hợp với món này."
+    },
+    {
+      "step": "Ăn kèm cải thảo",
+      "desc": "Út ăn lạp xưởng cuốn cải thảo và đánh giá hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự kết hợp này."
+    },
+    {
+      "step": "Ăn lạp xưởng không",
+      "desc": "Út ăn lạp xưởng không và so sánh với các cách ăn khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy cách ăn này có vẻ dễ ngán."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "hấp dẫn",
+    "ngọt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ở ngoài thơm lắm luôn cả nhà mọi người.",
+    "Ăn kèm với đậu que luộc rất là hợp luôn á mọi người.",
+    "Nếu mà mình ăn chung với phớt bột ớt nó Út sẽ thấy là nó sẽ ngon hơn."
+  ],
+  "hook_content": "Mời mọi người ăn cùng Út nghen.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video Út Phụng Kim ăn mukbang lạp xưởng xào với nhiều loại rau củ khác nhau và đưa ra cảm nhận về hương vị khi kết hợp.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

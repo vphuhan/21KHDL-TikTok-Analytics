@@ -1,0 +1,71 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu bánh oản và so sánh kích thước với ký ức.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự thay đổi kích thước."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Ăn bánh oản và mô tả hương vị, cảm giác khi ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng hương vị bánh oản."
+    },
+    {
+      "step": "Mô tả chi tiết",
+      "desc": "Nêu thành phần và trải nghiệm khi bánh dính trong miệng.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy hơi ngán."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Thông báo kết thúc và hẹn gặp lại trong video sau.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Truyền thống"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người xem video của mình, hẹn mọi người video sau."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngọt",
+    "dính",
+    "khô",
+    "cứng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái vị nó vẫn thế luôn ấy.",
+    "Cái oản này ăn miếng nhỏ mọi người ăn miếng to là rất dễ bị sặc với cả là khô ấy.",
+    "Nén xong khuôn ấy, thành khuôn oản như thế này."
+  ],
+  "hook_content": "Hôm nay mình có oản mọi người ạ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video mukbang bánh oản, người nói chia sẻ trải nghiệm ăn bánh oản lâu ngày không gặp, mô tả hương vị và cảm giác khi ăn, đồng thời hồi tưởng về kỷ niệm ăn bánh oản vào dịp Tết.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

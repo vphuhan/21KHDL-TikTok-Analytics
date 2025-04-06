@@ -1,0 +1,63 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu viên thạch khó nhằn và bắt đầu thử thách.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ khó của món ăn."
+    },
+    {
+      "step": "Vật lộn",
+      "desc": "Người ăn vật lộn để ăn được viên thạch.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy buồn cười và đồng cảm."
+    },
+    {
+      "step": "Nhận xét hương vị",
+      "desc": "Đánh giá hương vị của viên thạch sau khi ăn được.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thèm thuồng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "khó ăn",
+    "ngọt",
+    "thơm",
+    "siêu phê"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "review cả thế giới viên thật siêu mắt nhưng lại khó ăn nhất thế giới",
+    "vừa đắt mà vừa ăn khó",
+    "thịt này ngọt và cực thơm mùi nho, ăn siêu phê"
+  ],
+  "hook_content": "review cả thế giới viên thật siêu mắt nhưng lại khó ăn nhất thế giới.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review một loại viên thạch có vẻ ngoài bắt mắt nhưng rất khó ăn. Sau nhiều nỗ lực, người này đã ăn được và đánh giá cao hương vị của nó.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Ngạc nhiên",
+    "Hào hứng"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Bắt đầu video bằng việc giới thiệu món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Ăn uống",
+      "desc": "Thực hiện hành động ăn uống và tương tác với khán giả.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú khi xem."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "wow"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [],
+  "hook_content": "Mình chỉ ăn một chút xíu cơm này thôi nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video là một buổi mukbang đơn giản với núi cơm, người ăn tương tác ngắn gọn với khán giả.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

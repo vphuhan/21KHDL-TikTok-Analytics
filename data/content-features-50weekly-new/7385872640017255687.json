@@ -1,0 +1,90 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu bằng câu hỏi",
+      "desc": "Nhỏ em hỏi về con gà, tác giả than phiền bị hỏi hoài.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự liên quan của con gà."
+    },
+    {
+      "step": "Tiết lộ địa điểm",
+      "desc": "Con gà nằm trong nồi lẩu gà lá é ở Tân Bình.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món lẩu gà lá é."
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Review lẩu gà lá é, combo bốn món, món chiên.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn thử các món được giới thiệu."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Nhấn mạnh vị ngon, nước chấm cuốn, gà tươi.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy đói bụng và thèm ăn."
+    },
+    {
+      "step": "Miêu tả trải nghiệm",
+      "desc": "Ăn lẩu trong trời lạnh, trứng non lòng đào.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với trải nghiệm ẩm thực."
+    },
+    {
+      "step": "Nhấn mạnh chất lượng",
+      "desc": "Gà tươi, giá cả hợp lý, quán đông khách.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng quán."
+    },
+    {
+      "step": "Giới thiệu không gian",
+      "desc": "Quán mới có máy lạnh, view cửa kính.",
+      "impact_level": "1",
+      "viewer_emotion": "Ấn tượng với không gian quán."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thèm",
+    "ghiền",
+    "ngon",
+    "đã",
+    "cuốn",
+    "khoái",
+    "hấp dẫn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Từ Tân Phú ụn qua Tân Bình cái là nó nằm trong nồi lẩu gà lá é của đơn một người 79k này nè.",
+    "Nè, lại đây phải đang tìm con gà này không?",
+    "Bởi lúc nào cũng phải kêu thêm dĩa gà nữa mà có 49k."
+  ],
+  "hook_content": "Sáng ra đã bị nhỏ em hỏi con gà mới để đây đâu rồi? Ủa, sao ở cái nhà này mỗi lần mất đồ ăn lại đi hỏi mình hoài vậy ta?",
+  "hook_type": [
+    "Gây tò mò",
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán lẩu gà lá é ở Tân Bình, tập trung vào món lẩu gà lá é, combo 4 món và không gian quán mới mở. Tác giả đặc biệt nhấn mạnh gà tươi, nước lẩu ngon và giá cả phải chăng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

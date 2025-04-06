@@ -1,0 +1,96 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu về việc chuyển sang ăn bánh kem tại một địa điểm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về địa điểm bánh kem được nhắc đến."
+    },
+    {
+      "step": "Ấn tượng ban đầu",
+      "desc": "Miêu tả bánh kem đẹp như hoạt hình, phù hợp người thích ít ngọt.",
+      "impact_level": "3",
+      "viewer_emotion": "Ngạc nhiên và thích thú với hình dáng bánh kem."
+    },
+    {
+      "step": "Tìm hiểu địa điểm",
+      "desc": "Quyết định đến tận nơi sau khi thấy nhiều người mua trên TikTok.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn khám phá địa điểm được nhiều người quan tâm."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu bánh kem Sweet Box với tám vị best seller.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy bị hấp dẫn bởi sự đa dạng của bánh."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Miêu tả chi tiết hương vị của từng loại bánh trong hộp.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của các loại bánh."
+    },
+    {
+      "step": "Ưu đãi",
+      "desc": "Thông tin về ưu đãi tặng sen đá cho hóa đơn trên 500k.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy có thêm động lực để mua hàng."
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Khuyên nên thử nếu ngán bánh kem truyền thống và địa chỉ quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn đến thử bánh tại địa điểm được giới thiệu."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Có gì mấy bà tham khảo thử nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "đẹp",
+    "xuất sắc",
+    "ngọt",
+    "thơm",
+    "béo",
+    "mềm",
+    "mịn",
+    "cuốn",
+    "thèm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "bánh kem hồi đó mà có cần phải đẹp tới gì không giờ?",
+    "tinh hoa hội tụ",
+    "ăn cùng với lại cái lớp mút bánh mềm, mịn mà còn béo nữa."
+  ],
+  "hook_content": "Giờ giờ chắc không ăn bánh kem chỗ nào nữa quá, mà chuyển qua ăn bánh kem ở đây luôn nè.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu và review bánh kem tại Cái Lò Nướng, đặc biệt là bánh Sweet Box với nhiều hương vị trái cây tươi ngon, ít ngọt, phù hợp cho những ai muốn đổi vị so với bánh kem truyền thống.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

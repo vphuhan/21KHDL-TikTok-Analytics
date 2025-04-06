@@ -1,0 +1,86 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu mục đích",
+      "desc": "Đến các cửa hàng bị đánh giá tệ nhất để kiểm chứng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu nước hoa giúp tự tin trước khi review.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá không gian",
+      "desc": "Nhận xét về không gian bên ngoài và thái độ nhân viên.",
+      "impact_level": "2",
+      "viewer_emotion": "Khách quan"
+    },
+    {
+      "step": "Gọi món và đánh giá",
+      "desc": "Gọi 3 món và bắt đầu đánh giá chi tiết từng món.",
+      "impact_level": "3",
+      "viewer_emotion": "Háo hức"
+    },
+    {
+      "step": "Đánh giá mì trộn",
+      "desc": "Đánh giá mì trộn Indomi, nhận xét ngon nhưng hơi khô.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Đánh giá cơm tấm",
+      "desc": "Đánh giá cơm tấm Sài Gòn, nhận xét cơm sượng, chả khó ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thất vọng"
+    },
+    {
+      "step": "Đánh giá bánh giò",
+      "desc": "Đánh giá bánh giò nhân thịt, khen ngon và thơm.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "ngon",
+    "khó ăn",
+    "thất vọng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "mì trộn Indomi ở đây chưa bao giờ làm tôi thất vọng",
+    "oh my god thơm thật sự",
+    "bánh giò nhân thịt bốn sao"
+  ],
+  "hook_content": "sẽ đến các cửa hàng được đánh giá tệ nhất của họ để xem chúng có thực sự tệ như vậy không?",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video review một cửa hàng Circle K bị đánh giá tệ, tập trung vào đánh giá chất lượng món ăn và không gian quán. Mì trộn Indomi được đánh giá cao, cơm tấm bị chê, còn bánh giò được khen ngon.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

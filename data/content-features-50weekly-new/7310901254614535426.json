@@ -1,0 +1,87 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu bánh canh ghẹ tự nấu và nước chấm thần thánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn và nước chấm."
+    },
+    {
+      "step": "Trải nghiệm ghẹ chấm nước chấm",
+      "desc": "Miêu tả hương vị ghẹ khi chấm cùng nước chấm đặc biệt.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử ngay."
+    },
+    {
+      "step": "Trải nghiệm ghẹ u muối",
+      "desc": "Chấm ghẹ u muối với nước chấm, bất ngờ về hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự kết hợp mới."
+    },
+    {
+      "step": "Thử với bề bề",
+      "desc": "Chấm thử bề bề với nước chấm và đánh giá sự hợp lý.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị."
+    },
+    {
+      "step": "Kêu gọi mua hàng",
+      "desc": "Kêu gọi mua nước chấm để ăn tiếp vì quá ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng nước chấm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Rồi phải chạy lên đặt liền cái nước chấm thần thánh này về ăn tiếp thôi."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "xuất sắc",
+    "đã",
+    "chua chua",
+    "cay cay",
+    "mặn mặn",
+    "ngọt ngọt",
+    "chắc thịt",
+    "ngọt nước",
+    "béo",
+    "thơm",
+    "ngon",
+    "đậm đà",
+    "không ngán"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Muối xanh, muối đỏ, muối nào chấm cũng dính hết.",
+    "Tại cái vị nó chua chua, cay cay, mặn mặn, ngọt ngọt chấm cuốn dữ lắm.",
+    "Mặc dù con ghẹ có hơi dai nhưng mà cái nước chấm thần thánh này đã cứu vớt lại tất cả."
+  ],
+  "hook_content": "các bạn ăn bao nhiêu con ghẹ thì có mấy cái càng.",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món bánh canh ghẹ tự nấu và đặc biệt tập trung vào nước chấm \"thần thánh\" kết hợp với ghẹ và các món hải sản khác. Người nói đánh giá cao hương vị của nước chấm và khuyến khích mua.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

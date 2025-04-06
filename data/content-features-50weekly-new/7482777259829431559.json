@@ -1,0 +1,69 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu các món ăn vặt của chị Hồ Kim Nhuyễn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn."
+    },
+    {
+      "step": "Đánh giá chân gà sốt thái",
+      "desc": "Đánh giá chân gà sốt thái, món ăn gây tranh cãi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự khác biệt về khẩu vị."
+    },
+    {
+      "step": "Đánh giá trứng non và mì gà",
+      "desc": "Đánh giá trứng non và mì gà, đặc biệt khen mì gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với sự thay đổi tích cực của món mì gà."
+    },
+    {
+      "step": "So sánh và kết luận",
+      "desc": "So sánh bánh tráng cuốn và chân gà, kết luận món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Hạnh phúc khi tìm được món ăn ngon."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Các bạn ơi, nên thử cái món này bên nhà chị Nhuyễn nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngon dữ vậy",
+    "hạnh phúc"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ai sáng tác ra cái món này sao ngon dữ vậy trời?",
+    "Trứng non mới là đỉnh cao nha.",
+    "Ăn nó ngon mà nó hạnh phúc làm sao đâu luôn á."
+  ],
+  "hook_content": "Hôm nay tôi sẽ quay lại với đồ ăn vặt của chị Hồ Kim Nhuyễn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review các món ăn vặt của chị Hồ Kim Nhuyễn, tập trung vào đánh giá hương vị và so sánh giữa các món. Người nói đặc biệt thích món mì gà và chân gà sốt thái.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

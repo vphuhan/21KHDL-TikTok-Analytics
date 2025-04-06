@@ -1,0 +1,92 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Về quê và mua được trứng cá lạ ở chợ địa phương.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về loại trứng cá lạ."
+    },
+    {
+      "step": "Sơ chế",
+      "desc": "Hấp trứng cá khi còn đông đá và thêm sả.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, chờ đợi kết quả."
+    },
+    {
+      "step": "Thất bại",
+      "desc": "Trứng cá hấp không chín, dính vào đáy dĩa.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi thất vọng."
+    },
+    {
+      "step": "Chữa cháy",
+      "desc": "Luộc trứng cá sau khi hấp không thành công.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ kết quả sau khi luộc."
+    },
+    {
+      "step": "Hoàn thành",
+      "desc": "Luộc trứng cá xong và bày ra dĩa để ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn hơn."
+    },
+    {
+      "step": "Ăn kèm",
+      "desc": "Ăn trứng cá với muối ớt cay và bao tử Nhật.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Nhận xét về hương vị và trải nghiệm ăn trứng cá.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn thử ngay lập tức."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Còn bây giờ thì mình sẽ mời mọi người ăn trứng cá chung với mình ha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "thích",
+    "ngon",
+    "cay cay",
+    "cuốn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn vào thì nó có một cái độ dai nhè nhẹ cứng cứng. Kiểu cảm giác nó cứng cứng y chang như là đang ăn cái mề hột vịt lộn vậy đó.",
+    "Lây hoay cả buổi thì cuối cùng cũng đã luộc xong được cái mớ trứng cá này rồi.",
+    "Trứng này thì mình nghĩ đem đi nấu canh chua thì cũng ngon dữ lắm á."
+  ],
+  "hook_content": "Hôm bởi vì mình có về quê Gò Công, Tiền Giang, thì có ghé cái chợ Giàm Lãng thì mới thấy người ta bán cái trứng cá này.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ trải nghiệm mua và chế biến món trứng cá lạ từ chợ ở quê, từ khâu hấp đến luộc và thưởng thức cùng muối ớt, đồng thời đánh giá hương vị và độ ngon của món ăn này. Người làm video cũng chia sẻ về việc ăn kèm trứng cá với bao tử Nhật và mời mọi người cùng ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hài hước"
+  ]
+}

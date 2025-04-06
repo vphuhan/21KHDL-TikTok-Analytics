@@ -1,0 +1,84 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Thể hiện sự yêu thích đặc biệt với bánh đúc nóng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn này."
+    },
+    {
+      "step": "Miêu tả hương vị",
+      "desc": "So sánh bánh đúc nóng với bánh cuốn, nhấn mạnh độ ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và muốn thử."
+    },
+    {
+      "step": "Giới thiệu quán tủ",
+      "desc": "Quán bánh đúc đầy đặn, giá cả hợp lý.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào địa điểm được giới thiệu."
+    },
+    {
+      "step": "Chia sẻ trải nghiệm",
+      "desc": "Kể về việc thường xuyên ăn bánh đúc và tào phớ ở quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy gần gũi, thân thiện."
+    },
+    {
+      "step": "Đánh giá khách quan",
+      "desc": "Nhận xét về khẩu vị và gợi ý địa điểm quán cụ thể.",
+      "impact_level": "2",
+      "viewer_emotion": "Có thêm thông tin để tham khảo."
+    },
+    {
+      "step": "Kêu gọi tương tác",
+      "desc": "Xin feedback từ những người đã ăn ở quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Muốn chia sẻ ý kiến cá nhân."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ai đã từng thử qua quán này rồi thì cho mình xin feedback nhé."
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "thèm",
+    "ngon",
+    "yêu",
+    "thích",
+    "dễ thương"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mình không thích ăn bánh đúc lạc nhưng lại đặc biệt thích ăn bánh đúc nóng.",
+    "Kiểu ai mà nghiền cái món này rồi thì kể cả trời có nắng nóng vẫn thèm ăn ấy.",
+    "đến lần nào người ta cũng múc bánh, múc thịt siêu đầy đặn và thoáng tay luôn."
+  ],
+  "hook_content": "Mình không thích ăn bánh đúc lạc nhưng lại đặc biệt thích ăn bánh đúc nóng.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video chia sẻ về sự yêu thích đặc biệt với món bánh đúc nóng tại quán Thanh Tùng ở Trương Định, Hà Nội, kèm theo miêu tả hương vị và trải nghiệm cá nhân, đồng thời kêu gọi người xem đã từng ăn tại quán chia sẻ cảm nhận.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

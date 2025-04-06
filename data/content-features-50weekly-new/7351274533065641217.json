@@ -1,0 +1,96 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu chung",
+      "desc": "Giới thiệu về buffet cá viên chiên và lời cam kết về chất lượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ uy tín của quán."
+    },
+    {
+      "step": "Không gian quán",
+      "desc": "Mô tả không gian rộng rãi, sạch sẽ và view đẹp của quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng về không gian thoải mái."
+    },
+    {
+      "step": "Các món ăn",
+      "desc": "Giới thiệu các món ăn kèm và ưu đãi về chiên mắm tỏi.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và thích thú với sự đa dạng."
+    },
+    {
+      "step": "Cảm nhận cá nhân",
+      "desc": "Chia sẻ kỷ niệm về cá viên chiên và trải nghiệm tại quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm và thích thú."
+    },
+    {
+      "step": "Ưu đãi khác",
+      "desc": "Giới thiệu về ưu đãi đồ uống.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến các lựa chọn đồ uống."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Nhấn mạnh về hương vị thơm ngon của món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy đói bụng và muốn thử."
+    },
+    {
+      "step": "Thông tin giá cả",
+      "desc": "Cung cấp thông tin về giá vé buffet cho người lớn và trẻ em.",
+      "impact_level": "1",
+      "viewer_emotion": "Cân nhắc về giá cả và khả năng phù hợp."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bạn nào rành ăn cá viên chiên mà tới đây phát hiện hàng trôi nổi thì được thưởng 10 củ nha mọi người.",
+    "Ông nào mà có nhu cầu kiếm thêm tiền hay kiếm thêm thu nhập á, cứ tới đây soi cho kỹ nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "ngon",
+    "mát mẻ",
+    "ưu tín"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "chiên mắm tỏi là không tính thêm phí nha, mà còn không giới hạn số lần chiên nữa.",
+    "Bạn nào rành ăn cá viên chiên mà tới đây phát hiện hàng trôi nổi thì được thưởng 10 củ nha mọi người.",
+    "bánh gì mà bự chảng nhân ú nụ à."
+  ],
+  "hook_content": "Nhưng mà bạn nào tới đây á mà phát hiện chị nhập đồ mà trôi nổi không rõ nguồn gốc chị sẽ bồi thường cho 10 củ.",
+  "hook_type": [
+    "Gây tò mò",
+    "Khuyến mãi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu buffet cá viên chiên 69k tại một quán có không gian rộng rãi, view đẹp. Đặc biệt, quán cam kết về chất lượng và tặng 10 củ nếu khách hàng phát hiện hàng trôi nổi.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

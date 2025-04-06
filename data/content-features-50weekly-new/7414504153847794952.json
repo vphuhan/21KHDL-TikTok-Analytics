@@ -1,0 +1,98 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu và khó khăn khi mua",
+      "desc": "Giới thiệu trà sữa Lương Bằng và kể về gian nan để mua.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ hot của trà sữa."
+    },
+    {
+      "step": "Mô tả menu và sự thiếu sót",
+      "desc": "Order full menu nhưng bị thiếu món và topping, giá 444k.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin về menu và giá cả."
+    },
+    {
+      "step": "Thử nghiệm các món",
+      "desc": "Review chi tiết từng món, đặc biệt là khoai môn và topping.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú với đánh giá hương vị."
+    },
+    {
+      "step": "Đánh giá về quán",
+      "desc": "Nhận xét về độ độc lạ, dẹp quán do đông khách, tranh cãi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ nổi tiếng của quán."
+    },
+    {
+      "step": "Đánh giá trà và topping",
+      "desc": "Chấm điểm các loại trà (ô long, thái xanh) và topping khác.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin tham khảo về các món."
+    },
+    {
+      "step": "Tiếp tục thử và chấm điểm",
+      "desc": "Thử cà phê, nước dừa, kem béo và chấm điểm từng loại.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin chi tiết về hương vị."
+    },
+    {
+      "step": "Tổng kết và gợi ý",
+      "desc": "Món khoai môn ấn tượng nhất, trà không quá hóa học.",
+      "impact_level": "2",
+      "viewer_emotion": "Gợi ý nên thử món khoai môn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người đã coi clip của mình.",
+    "Bye bye!"
+  ],
+  "cta_type": [
+    "Thích video",
+    "Follow kênh"
+  ],
+  "emotion_keywords": [
+    "thèm",
+    "ngon",
+    "thơm",
+    "béo",
+    "dễ chịu",
+    "nhạt",
+    "vừa phải",
+    "ấn tượng",
+    "bình thường",
+    "dở"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mấy đời trà sữa Lương Bằng nha mọi người ơi, cuối cùng mình cũng đã có được cái trà sữa này để review cho tất cả mọi người vô cùng khó khăn.",
+    "Mình cảm thấy là khi mình uống hết tất cả các loại của chị Lương Bằng thì mình cảm giác là heo thì. Cái từ heo thì của mình là có nghĩa là mình cảm giác là nó sức khỏe.",
+    "8 75 không nói nhiều. Mình thấy cái quán độc lạ ở cái điểm là mới khai trương một cái là dẹp quán luôn."
+  ],
+  "hook_content": "Trên mạng trà sữa Lương Bằng.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video review trà sữa Lương Bằng, tập trung vào trải nghiệm mua hàng gian nan và đánh giá chi tiết hương vị các món, đặc biệt ấn tượng với món khoai môn. Người review cũng đưa ra nhận xét về độ độc đáo của quán và chất lượng nguyên liệu.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu mục review bánh kẹo Tết và thói quen ăn vặt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy gần gũi, đồng cảm."
+    },
+    {
+      "step": "Review nui chiên",
+      "desc": "Đánh giá nui chiên giòn, mặn ngọt, phát hiện bất ngờ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm."
+    },
+    {
+      "step": "Review thạch",
+      "desc": "Review các loại thạch, đặc biệt là thạch Giai Giai.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn thạch."
+    },
+    {
+      "step": "Review bánh kẹo khác",
+      "desc": "Đánh giá kẹo ngô, bánh gấu, bánh dứa và chocolate.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "thích",
+    "hạnh phúc"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đúng là âm thanh của sự hạnh phúc đấy.",
+    "Không biết các bác như thế nào nhưng mà tôi thích cái cảm giác được lấp đầy những cái hộp bánh kẹo này cùng.",
+    "Xét về tuổi thì có thể là hết tuổi nhận lì xì rồi đấy, nhưng mà niềm đam mê ăn thạch thì không bao giờ có thể bỏ được."
+  ],
+  "hook_content": "Xin chào các bạn. Mục review bánh kẹo Tết xin được phép bắt đầu.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video review các loại bánh kẹo ăn vặt ngày Tết như thạch, nui chiên, kẹo ngô, bánh gấu, bánh dứa và chocolate. Người review chia sẻ cảm nhận cá nhân về hương vị và trải nghiệm ăn uống.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quả mắc sim",
+      "desc": "Giới thiệu quả mắc sim và mô tả mùi của nó.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về loại quả mới."
+    },
+    {
+      "step": "Ăn thử nguyên bản",
+      "desc": "Ăn thử quả mắc sim không chấm muối và mô tả vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Nhăn mặt vì quá chua."
+    },
+    {
+      "step": "Ăn kèm với muối",
+      "desc": "Chấm muối để ăn, so sánh với chanh và ổi xanh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự kết hợp."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Nhận xét về xơ và kết luận về trải nghiệm.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "chua",
+    "chát",
+    "khó ăn",
+    "rùng mình"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Vị của nó vừa chua vừa chát các bạn ạ. Nó chua kiểu chua sốc luôn ý các bạn ạ.",
+    "Cái quả maxsim này mình thấy ăn nó chua như chanh ấy xong thì nó có thêm vị chát như kiểu quả ổi xanh các bạn ạ.",
+    "Ăn thì mình nha nha lấy nước thôi xong nhả bã giống như kiểu ăn mía ấy."
+  ],
+  "hook_content": "Chào mọi người nha. Hôm nay thì mình sẽ ăn thử quả maxsim.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quả mắc sim, người nói thử ăn và mô tả vị chua, chát của quả, so sánh với chanh và ổi xanh, đồng thời chia sẻ trải nghiệm cá nhân khi ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

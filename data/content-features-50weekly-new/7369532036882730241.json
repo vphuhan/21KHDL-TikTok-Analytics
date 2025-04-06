@@ -1,0 +1,70 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Mời mọi người ăn trứng vịt lộn, hỏi cách ăn ưa thích.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Thưởng thức trứng vịt lộn",
+      "desc": "Để trứng ra chén, thêm rau răm, muối và ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu cà phê Laura có đông trùng hạ thảo và nấm linh chi.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Pha chế và thưởng thức",
+      "desc": "Pha hai gói cà phê Laura, uống và cảm nhận.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mấy chị mình tậu vài dùng thử nha."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "thơm ngon",
+    "tỉnh táo tâm hồn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mấy bà thích để vô chén ăn hay ăn nguyên hột gì.",
+    "Con này vừa ăn luôn ấp mề.",
+    "Uống một ly cũng tỉnh táo tâm hồn."
+  ],
+  "hook_content": "Mời mọi người ăn trứng vịt lộn với em nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video mukbang trứng vịt lộn và giới thiệu cà phê Laura có thành phần đông trùng hạ thảo và nấm linh chi. Người tạo nội dung mời mọi người cùng ăn, chia sẻ cách ăn ưa thích và giới thiệu sản phẩm cà phê mới.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

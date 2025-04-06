@@ -1,0 +1,97 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món cơm gà hầm kiểu Thái dễ làm, ngon, rẻ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy món ăn này khá hấp dẫn."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê nguyên liệu và số lượng, có thể thay đổi tùy thích.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin cơ bản."
+    },
+    {
+      "step": "Hầm gà",
+      "desc": "Hướng dẫn hầm gà với lửa nhỏ trong khoảng 35-45 phút.",
+      "impact_level": "1",
+      "viewer_emotion": "Chờ đợi thành quả."
+    },
+    {
+      "step": "Làm cơm tỏi",
+      "desc": "Hướng dẫn phi tỏi và nấu cơm tỏi đơn giản, nhanh chóng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy có vẻ thơm ngon."
+    },
+    {
+      "step": "Làm sốt Thái",
+      "desc": "Hướng dẫn làm sốt chấm kiểu Thái bằng cách xay nhuyễn.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhớ cách làm."
+    },
+    {
+      "step": "Hoàn thiện món ăn",
+      "desc": "Trình bày món ăn đã hoàn thành: cơm, gà, sốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thèm thuồng."
+    },
+    {
+      "step": "Thông tin chi phí",
+      "desc": "Chia sẻ chi phí và số lượng người ăn được.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "cho nên là mọi người nhớ thử nha"
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "thích",
+    "ngon",
+    "dễ",
+    "cay",
+    "chua",
+    "mặn",
+    "ngọt",
+    "tiết kiệm",
+    "thơm",
+    "đậm đà"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Gà hầm mềm ăn với lại cơm tỏi phi, xong rồi thêm một ít sốt thái lên trên nữa.",
+    "Cay chua mặn ngọt có đủ đã vậy còn tiết kiệm nữa.",
+    "Cơm thì mọi người cứ nấu như thông thường thôi nhưng mà cho thêm vào đây nước tương, tỏi phi và hạt nêm nữa."
+  ],
+  "hook_content": "Mình rất là thích món thái nhưng không phải là bà thái mà là các loại cơm.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn nấu món cơm gà hầm kiểu Thái đơn giản, tiết kiệm, với đầy đủ hương vị cay chua mặn ngọt. Món ăn này dễ làm và phù hợp với nhiều người.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

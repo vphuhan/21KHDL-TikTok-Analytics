@@ -1,0 +1,85 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Chuẩn bị về nước",
+      "desc": "Thông báo về nước, dọn dẹp đồ đạc lúc 4 giờ sáng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hành trình trở về của bạn."
+    },
+    {
+      "step": "Di chuyển đến sân bay",
+      "desc": "Đi bộ ra ga, đi tàu Shinkansen, đổi tàu đến sân bay.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy hành trình di chuyển khá vất vả."
+    },
+    {
+      "step": "Check-in và ăn uống",
+      "desc": "Gửi hành lý, ăn mì giống hủ tiếu ở quán trong sân bay.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với món mì có hương vị Việt Nam."
+    },
+    {
+      "step": "Mua quà lưu niệm",
+      "desc": "Mua bánh chuối và sô cô la tươi làm quà.",
+      "impact_level": "2",
+      "viewer_emotion": "Gợi ý mua quà hấp dẫn cho người xem."
+    },
+    {
+      "step": "Trên máy bay",
+      "desc": "Cảm thấy buồn, ăn cơm bò và bị cảm trên máy bay.",
+      "impact_level": "1",
+      "viewer_emotion": "Lo lắng cho sức khỏe của bạn."
+    },
+    {
+      "step": "Đến Việt Nam",
+      "desc": "Sử dụng dịch vụ nhập cảnh ưu tiên, gặp ba mẹ.",
+      "impact_level": "3",
+      "viewer_emotion": "Vui mừng khi bạn về đến Việt Nam."
+    },
+    {
+      "step": "Về nhà ở An Giang",
+      "desc": "Ăn mì ở tiệm ven đường, về đến nhà và ngủ.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp khi bạn được ăn mì cùng gia đình."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "buồn buồn",
+    "nhớ nhà",
+    "vui"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ta nói trời vừa lạnh mà đi bộ không thấy một cái chiếc taxi nào hết.",
+    "Gặp ngay cái thằng gà mờ như mình mà không có đi sớm là coi như là trễ chuyến đó.",
+    "Khi máy bay mà cất cánh một cái bao nhiêu cái mệt mỏi là coi như là mình được gỡ hết đó."
+  ],
+  "hook_content": "Ta bao nhiêu ngày nói về này kia hoài thì bữa nay về thiệt nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện"
+  ],
+  "summarization": "Video ghi lại hành trình trở về Việt Nam của một người từ Nhật Bản, từ việc di chuyển đến sân bay, làm thủ tục, ăn uống, mua quà đến khi về đến nhà ở An Giang và ăn bữa cơm gia đình ấm cúng. Người này đã chia sẻ những cảm xúc và trải nghiệm chân thực trong suốt hành trình.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

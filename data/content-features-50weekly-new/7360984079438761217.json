@@ -1,0 +1,73 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bánh",
+      "desc": "Giới thiệu bánh Tiramisu Douyin 8 vị mới xuất hiện ở Hà Nội.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các vị bánh"
+    },
+    {
+      "step": "Mô tả chi tiết",
+      "desc": "Nêu chi tiết về cốt bánh, các vị, giá cả và ưu đãi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với nhiều lựa chọn"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá hương vị của bánh và gợi ý các vị nên thử.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử ngay"
+    },
+    {
+      "step": "Địa điểm mua",
+      "desc": "Thông tin địa điểm mua và thời gian mở bán.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ghé thăm và mua thử"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "ngậy",
+    "béo",
+    "man mát",
+    "ngọt vừa phải",
+    "hợp",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Vừa mới hôm trước lướt thấy cái bánh Tiramisu đầu zin này đang hot ở bên Trung mà hôm nay đã thấy xuất hiện ở Hà Nội rồi.",
+    "Cốt bánh mềm, thơm thoang thoảng mùi cà phê, kết hợp với phần kem ngậy, béo hơi man mát và đặc biệt là vị ngọt rất vừa phải.",
+    "Vị matcha này cũng thơm cực kỳ luôn, nên thử lắm."
+  ],
+  "hook_content": "ơi chị ơi, bánh gì mà cả một khay dài thế này nhờ? Chị ơi bánh nhà mình là phải mua cả khay này hay như nào hả chị?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu bánh Tiramisu Douyin 8 vị mới xuất hiện ở Hà Nội, với nhiều hương vị hấp dẫn và được bán tại một địa điểm cụ thể với thời gian giới hạn. Người bán đánh giá cao hương vị của bánh, đặc biệt là sự kết hợp giữa cốt bánh Tiramisu và các loại trái cây.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu có ba vị váng sữa: socola, classic, vani.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Thưởng thức vị vani",
+      "desc": "Ăn thử vị vani và nhận xét quá ngọt nhưng ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Thưởng thức vị socola",
+      "desc": "Thử vị socola và vị classic, nhận xét vẫn ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Cảm ơn người xem và hẹn gặp lại ở video sau.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "ngọt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mọi người hay liếm cái vỏ này đúng không?",
+    "Cái này nó cũng quá ngọt ấy mọi người nên là ăn ngon."
+  ],
+  "hook_content": "Hôm nay mình lại có váng sữa mọi người ạ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang váng sữa với ba vị: socola, vani và classic. Người nói thử từng vị và đưa ra nhận xét về hương vị.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

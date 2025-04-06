@@ -1,0 +1,83 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bánh mì Hoàng Lam",
+      "desc": "Gây tò mò về độ hot của bánh mì Hoàng Lam",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Tự giới thiệu",
+      "desc": "Người review tự giới thiệu tên",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá bánh mì",
+      "desc": "Nhận xét về độ đặc biệt của bơ, pate, chà bông",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Mô tả chi tiết",
+      "desc": "Mô tả độ dày của thịt, chả",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng"
+    },
+    {
+      "step": "Thông tin về thời gian bán",
+      "desc": "Thông báo thời gian nghỉ Tết của quán",
+      "impact_level": "1",
+      "viewer_emotion": "Lưu ý"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "ai mà thèm thì tranh thủ chiến liền nha mấy bạn"
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "béo",
+    "thơm",
+    "ngọt",
+    "đậm vị",
+    "mặn",
+    "ngọt",
+    "hợp",
+    "mê"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bả làm ăn cái vị nó béo vừa phải, xen lẫn một tí vị ngọt nhẹ, quyện cùng hương vị ba tê béo thơm.",
+    "Mà hai cái béo của hai thứ này trộn lại ăn chung với lại phần chà bông đậm vị mặn mặn ngọt ngọt nó đúng hợp luôn, không hề bị ngán chút nào.",
+    "Ta nói một ổ có 40 cành thôi mà thịt chả các thứ dày cui để ba bốn lớp vậy á, hỏi sao mà mọi người không mê cho được."
+  ],
+  "hook_content": "Bánh mì Hoàng Lam có gì đặc biệt mà chị mới vừa ra mắt được hơn 1 năm thôi đã tạo nên một cơn sốt quá lớn như thế này?",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review bánh mì Hoàng Lam, tập trung vào sự đặc biệt của bơ, pate, chà bông và độ dày của thịt chả. Người nói khuyến khích mọi người tranh thủ ăn trước khi quán nghỉ Tết.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

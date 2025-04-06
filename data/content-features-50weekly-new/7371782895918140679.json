@@ -1,0 +1,91 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món gà cuộn rong biển chiên giòn thay cho gà viên.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới lạ."
+    },
+    {
+      "step": "Nêu lợi ích",
+      "desc": "Món ăn vừa ngon, dễ làm, giàu protein, có thể ăn vặt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hứng thú vì món ăn có nhiều ưu điểm."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Xay nhuyễn thịt gà (300g ức, 200g má đùi), cho vào túi.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin cơ bản, không đặc biệt."
+    },
+    {
+      "step": "Cuộn gà với rong biển",
+      "desc": "Cắt đôi rong biển, xịt gà lên, cuộn tròn, cố định bằng bột.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung được cách làm, khá dễ thực hiện."
+    },
+    {
+      "step": "Cắt và pha bột",
+      "desc": "Cắt miếng vừa ăn, pha bột theo công thức trên màn hình.",
+      "impact_level": "1",
+      "viewer_emotion": "Tiếp tục làm theo hướng dẫn."
+    },
+    {
+      "step": "Chiên gà",
+      "desc": "Nhúng gà vào bột, chiên ngập dầu đến khi chín vàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thèm thuồng khi nhìn thành phẩm."
+    },
+    {
+      "step": "Thành phẩm",
+      "desc": "Chiên hai lần nếu muốn giòn hơn.",
+      "impact_level": "2",
+      "viewer_emotion": "Học được mẹo để món ăn ngon hơn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Nên mọi người nhớ thử."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "dễ làm",
+    "giàu protein"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Thay vì ăn gá viên chiên thì mọi người có thể thử món gà cuộn rong biển chiên giòn này.",
+    "Món này vừa ngon, vừa dễ làm lại giàu protein nữa.",
+    "Cái này vừa ăn vặt vừa ăn no luôn."
+  ],
+  "hook_content": "Thay vì ăn gá viên chiên thì mọi người có thể thử món gà cuộn rong biển chiên giòn này.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món gà cuộn rong biển chiên giòn, một món ăn vừa ngon, dễ làm lại giàu protein, có thể thay thế cho gà viên chiên thông thường. Video cung cấp đầy đủ các bước từ sơ chế nguyên liệu đến chiên gà và mẹo để chiên giòn hơn.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

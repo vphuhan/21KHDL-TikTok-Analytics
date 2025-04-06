@@ -1,0 +1,89 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món cá diêu hồng rau xanh, phù hợp cho giảm cân.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Sơ chế cá",
+      "desc": "Hướng dẫn phi lê, cắt lát cá diêu hồng sau khi rửa sạch.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, theo dõi thao tác."
+    },
+    {
+      "step": "Chiên cá",
+      "desc": "Ướp cá với bột chiên giòn và chiên đến khi vàng giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú với công đoạn chiên cá."
+    },
+    {
+      "step": "Chuẩn bị rau sống",
+      "desc": "Giới thiệu rau sống ăn kèm và chiên giòn xương, đầu cá.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, nắm bắt thông tin."
+    },
+    {
+      "step": "Giới thiệu nước chấm",
+      "desc": "Gợi ý mắm nêm và mắm me pha sẵn để chấm cá.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị với gợi ý nước chấm."
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Khuyến khích thử món cá diêu hồng làm theo cách mới.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong muốn thử làm theo."
+    },
+    {
+      "step": "Mời ăn và chào",
+      "desc": "Mời người xem ăn trưa và tạm biệt.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thân thiện."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ai mà có dùng nước chấm thì cứ nhắn với Hương nha."
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Thử làm theo công thức",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngon dữ lắm",
+    "ngon hết nước chấm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cá điêu hồng làm theo cách này, ăn ngon dữ lắm nè cả nhà.",
+    "Cá điêu hồng cả nhà mua về kho nấu canh hoài cũng ngán. Bữa nào có rảnh thì cả nhà thử làm món này nha.",
+    "Hương bảo đảm là ngon hết nước chấm luôn."
+  ],
+  "hook_content": "Cá điêu hồng làm theo cách này, ăn ngon dữ lắm nè cả nhà.",
+  "hook_type": [
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm món cá diêu hồng chiên giòn ăn kèm rau sống và mắm nêm hoặc mắm me. Hương chia sẻ cách phi lê cá, tẩm ướp và chiên giòn, đồng thời gợi ý hai loại nước chấm để tăng thêm hương vị.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

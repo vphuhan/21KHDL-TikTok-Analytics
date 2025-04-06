@@ -1,0 +1,81 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món súp gà ác hầm bổ dưỡng và câu tục ngữ liên quan.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về công thức và lợi ích của món ăn."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Hướng dẫn ngâm gà ác để loại bỏ tạp chất và khử mùi tanh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự tỉ mỉ và chu đáo trong khâu chuẩn bị."
+    },
+    {
+      "step": "Xào gà",
+      "desc": "Xào gà với hoa tiêu và gừng để tăng hương vị cho món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm nhận được mùi thơm và sự hấp dẫn của món ăn."
+    },
+    {
+      "step": "Nấu canh",
+      "desc": "Cho gà đã xào vào nồi đất, thêm nấm và gia vị để hầm.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức chờ đợi món canh hoàn thành."
+    },
+    {
+      "step": "Hoàn thiện",
+      "desc": "Thêm kỷ tử và hành lá để trang trí và tăng thêm hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Thấy món ăn hấp dẫn và muốn thử ngay."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Miêu tả hương vị thơm ngon và bổ dưỡng của món canh gà.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng và muốn tự tay nấu món này."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "nếu bạn thấy tôi nói chi tiết, có thể cho tôi xin một nút thích động viên được không?"
+  ],
+  "cta_type": [
+    "Thích video"
+  ],
+  "emotion_keywords": [
+    "thơm ngon",
+    "bổ dưỡng",
+    "ngon",
+    "ngọt",
+    "thơm nồng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Để tôi mách cho bạn cách làm đúng.",
+    "Đây là cách hầm canh gà chuẩn của nhà hàng chúng tôi",
+    "Canh gà hầm kiểu này nước canh rất ngon và ngọt, thơm nồng mùi nấm, đặc biệt ngon, học được rồi thì nhanh tay làm thử nha."
+  ],
+  "hook_content": "Tục ngữ có câu đông ăn củ cải, hè ăn gừng, không bằng một bát canh gà ác.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách nấu món súp gà ác hầm thơm ngon và bổ dưỡng theo công thức chuẩn của nhà hàng, với các bước sơ chế, xào và hầm kỹ lưỡng để tạo nên hương vị đặc biệt.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

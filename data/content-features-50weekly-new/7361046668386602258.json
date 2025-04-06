@@ -1,0 +1,85 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu cua huỳnh đế và món cua sốt me cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Nêu cách sơ chế cua và công thức sốt me cay.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin cơ bản."
+    },
+    {
+      "step": "Vệ sinh bàn ăn",
+      "desc": "Làm sạch bàn ăn bằng Sunlight đa năng.",
+      "impact_level": "1",
+      "viewer_emotion": "Không đặc biệt."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Ăn và miêu tả hương vị cua sốt me.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Nhấn mạnh độ ngon",
+      "desc": "Ca ngợi hương vị đặc biệt của món cua.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng."
+    },
+    {
+      "step": "Làm sạch sau ăn",
+      "desc": "Lau dọn bàn ăn sau khi ăn xong.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người có dùng giống như Kim không?",
+    "Nè đơn giản tiện lợi mỗi ngày."
+  ],
+  "cta_type": [
+    "So sánh"
+  ],
+  "emotion_keywords": [
+    "cay",
+    "ngọt",
+    "đã",
+    "ngon",
+    "thơm",
+    "khó chịu"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Phần thịt thì rất là chắc và ngọt thịt nha.",
+    "Miếng thịt nó từng sớ từng sớ nên ăn rất là đã luôn á mọi người.",
+    "Sạch bong kin kít, không lo nhận đít."
+  ],
+  "hook_content": "Đây mọi người lại đến mùa cua của em Huỳnh Đế rồi nè.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu món cua huỳnh đế sốt me cay, cách chế biến và thưởng thức món ăn này, đồng thời sử dụng sản phẩm lau bàn Sunlight để giữ vệ sinh.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

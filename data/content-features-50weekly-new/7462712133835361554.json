@@ -1,0 +1,93 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món xoài ngâm chua ngọt và mục đích làm món này.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hứng thú với món ăn được giới thiệu."
+    },
+    {
+      "step": "Hướng dẫn cách làm",
+      "desc": "Hướng dẫn cách làm xoài ngâm, nhấn mạnh sự đơn giản.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy tự tin có thể tự làm theo."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Múc xoài đã ngâm ra và ăn kèm với muối ớt.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng và muốn ăn ngay."
+    },
+    {
+      "step": "Bật mí bí quyết",
+      "desc": "Giới thiệu bí quyết ăn món chua cay không lo đau dạ dày.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích với thông tin được cung cấp."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu thuốc đau dạ dày chữ B và công dụng.",
+      "impact_level": "2",
+      "viewer_emotion": "Ghi nhớ sản phẩm và công dụng của nó."
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Nhấn mạnh sự hữu ích của sản phẩm trong dịp Tết.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy an tâm hơn khi biết đến sản phẩm."
+    },
+    {
+      "step": "Gợi ý tương tác",
+      "desc": "Hỏi người xem về địa điểm và thông tin sản phẩm.",
+      "impact_level": "1",
+      "viewer_emotion": "Sẵn sàng chia sẻ thông tin và tương tác."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bạn nhớ chữ B vàng để Tết vững dạ, trọn phút vui nha.",
+    "Mình ở Tân Bình còn bạn ở đâu?"
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Chia sẻ công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "hấp dẫn",
+    "thần thánh",
+    "khoái",
+    "thích",
+    "vui"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mình ăn ngon thì bạn cũng thế.",
+    "Giã thêm một chén muối ớt thần thánh ngon nhứt nách này nè thì cỡ nào mà chịu nổi.",
+    "Có B vàng rồi thì đau dạ dày chỉ còn là cái tên thôi."
+  ],
+  "hook_content": "Sắp đến Tết rồi, mâm cơm cũng trở nên đa dạng màu sắc hơn với quá trời đồ ăn ngon hấp dẫn, để cho các món Tết thêm trọn vẹn hơn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu món xoài ngâm chua ngọt để đãi khách dịp Tết, hướng dẫn cách làm đơn giản và chia sẻ bí quyết ăn món chua cay không lo đau dạ dày nhờ thuốc đau dạ dày chữ B.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

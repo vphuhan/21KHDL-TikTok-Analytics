@@ -1,0 +1,87 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu xúc xích phô mai Thái Lan và sự khó khăn khi mua.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm"
+    },
+    {
+      "step": "Đánh giá xúc xích",
+      "desc": "Nhận xét về độ giòn, dai và vị phô mai không béo.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm ăn"
+    },
+    {
+      "step": "Mô tả chi tiết",
+      "desc": "Nhấn mạnh độ dai của lớp vỏ và trải nghiệm nhai lâu.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung hương vị"
+    },
+    {
+      "step": "Giới thiệu sản phẩm khác",
+      "desc": "Quảng cáo cà phê Laura của Nhật Kim Anh, tốt cho sức khỏe.",
+      "impact_level": "1",
+      "viewer_emotion": "Quan tâm đến sản phẩm"
+    },
+    {
+      "step": "Đánh giá cà phê",
+      "desc": "Nhận xét về hậu vị không chua và ưu đãi kèm bình giữ nhiệt.",
+      "impact_level": "2",
+      "viewer_emotion": "Cân nhắc mua"
+    },
+    {
+      "step": "Nhắc lại về xúc xích",
+      "desc": "Đề cập đến việc phô mai dính răng.",
+      "impact_level": "1",
+      "viewer_emotion": "Lưu ý"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Hỏi người xem về kế hoạch chuẩn bị Tết.",
+      "impact_level": "1",
+      "viewer_emotion": "Gần gũi"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "giòn",
+    "dai",
+    "không béo",
+    "hấp dẫn",
+    "dễ thương"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cái da ở ngoài nó rất là rất là dai. Kiểu mình nhai vậy hơi mình nó chưa chưa có hết luôn, mọi người nhai rất là lâu nha.",
+    "Laura cà phê thì của ca sĩ Nhật Kim Anh đó mọi người, à là có hai loại là nấm linh chi nè và đông trùng hạ thảo rất là tốt cho sức khỏe luôn.",
+    "Khi mà mình mua sáu hộp thì mình sẽ được tặng một bình giữ nhiệt nha."
+  ],
+  "hook_content": "Hôm nay Út có xúc xích phô mai của Thái Lan nha. Giờ thì mình bắt đầu ăn thôi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu và đánh giá xúc xích phô mai Thái Lan, sau đó chuyển sang quảng cáo cà phê Laura của Nhật Kim Anh và chương trình khuyến mãi tặng kèm bình giữ nhiệt. Cuối video, người nói hỏi khán giả về kế hoạch chuẩn bị Tết.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

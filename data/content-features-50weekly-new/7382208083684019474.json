@@ -1,0 +1,79 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu các loại bánh",
+      "desc": "Liệt kê các loại bánh và thể hiện sự thích thú khi ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các loại bánh"
+    },
+    {
+      "step": "Miêu tả hương vị bánh",
+      "desc": "Nêu cảm nhận về độ ngậy, béo và độ dẻo của bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi thèm thuồng"
+    },
+    {
+      "step": "Giới thiệu sản phẩm hỗ trợ",
+      "desc": "Giới thiệu sản phẩm hỗ trợ giảm cân, sử dụng thường xuyên.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Gợi ý kết hợp đồ uống",
+      "desc": "Gợi ý uống kèm nước để tăng thêm sự sảng khoái.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị"
+    },
+    {
+      "step": "Gợi ý cách ăn",
+      "desc": "Gợi ý chấm bánh với nước cốt dừa để tăng hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử"
+    },
+    {
+      "step": "Nhấn mạnh hiệu quả sản phẩm",
+      "desc": "Nhấn mạnh hiệu quả của sản phẩm khi kết hợp tập thể dục.",
+      "impact_level": "1",
+      "viewer_emotion": "Không tin lắm"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thích",
+    "ngậy",
+    "béo",
+    "sướng",
+    "sảng khoái",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nửa đêm mà ăn mấy cái món bánh này là tôi phải uống thêm một viên Bambe để hạn chế tích mỡ.",
+    "Mấy bà mà buổi rồi thể dục mà uống kèm theo em này ấy thì hiệu quả nó sẽ rất là tốt nha."
+  ],
+  "hook_content": "Lần này thêm rồi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video này là một buổi mukbang các loại bánh truyền thống như bánh giò, bánh sắn, bánh da heo, bánh bò, được ăn kèm với nước cốt dừa, đồng thời giới thiệu một sản phẩm hỗ trợ giảm cân để hạn chế tích mỡ khi ăn đêm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

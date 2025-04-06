@@ -1,0 +1,90 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu bánh tráng phơi sương từ TikToker Min Mặn Mồi",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm được giới thiệu"
+    },
+    {
+      "step": "Đánh giá về số lượng và giá",
+      "desc": "Nhấn mạnh số lượng nhiều và giá rẻ bất ngờ",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ và thích thú vì giá hời"
+    },
+    {
+      "step": "Miêu tả thành phần",
+      "desc": "Liệt kê các thành phần đi kèm và đặc điểm của chúng",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức muốn thử các thành phần"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Miêu tả chi tiết hương vị và cảm nhận khi ăn",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn ăn ngay lập tức"
+    },
+    {
+      "step": "Khẳng định chất lượng",
+      "desc": "Nhấn mạnh sự yêu thích và trải nghiệm ăn bánh tráng",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá của người review"
+    },
+    {
+      "step": "Cam kết hoàn tiền",
+      "desc": "Đảm bảo chất lượng sản phẩm, sẵn sàng hoàn tiền nếu không hài lòng",
+      "impact_level": "3",
+      "viewer_emotion": "An tâm và tin tưởng vào sản phẩm"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nhưng mà nếu các bạn ăn cái này mà các bạn chê các bạn chửi em. Không có, ăn chê, nhắn tin tôi đi tôi hoàn tiền."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "ngon",
+    "dẻo",
+    "vừa đủ",
+    "cực phẩm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nếu các bạn ăn cái này mà các bạn chê các bạn chửi em. Không có, ăn chê, nhắn tin tôi đi tôi hoàn tiền.",
+    "Đây là thứ bánh tráng mà tôi cần.",
+    "Đây là cái lần ít oi trong sự nghiệp ăn bánh tráng của tôi mà tôi tìm ra được một cái bánh tráng cực phẩm như vậy."
+  ],
+  "hook_content": "bán tráng của TikToker Min mặn mồi một bịch bánh tráng chỉ có 1.300 đồng.",
+  "hook_type": [
+    "Gây tò mò",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review bánh tráng phơi sương của TikToker Min Mặn Mồi, nổi bật với giá rẻ, số lượng lớn và hương vị thơm ngon, dẻo dai. Người bán cam kết hoàn tiền nếu khách hàng không hài lòng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

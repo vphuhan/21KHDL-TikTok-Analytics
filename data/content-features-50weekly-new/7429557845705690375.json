@@ -1,0 +1,97 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món mì xào xúc xích dễ làm, ngon miệng tại nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách làm món ăn."
+    },
+    {
+      "step": "Hướng dẫn sơ chế",
+      "desc": "Hướng dẫn cách trụng mì đúng cách để giữ được độ dai.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích với mẹo nhỏ."
+    },
+    {
+      "step": "Chia sẻ công thức",
+      "desc": "Hướng dẫn cách pha chế sốt xào mì đơn giản, dễ làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với công thức sốt xào."
+    },
+    {
+      "step": "Giới thiệu nguyên liệu",
+      "desc": "Giới thiệu xúc xích bắp và xúc xích dinh dưỡng S2.",
+      "impact_level": "2",
+      "viewer_emotion": "Tìm hiểu thêm về sản phẩm."
+    },
+    {
+      "step": "Thực hiện món ăn",
+      "desc": "Thực hiện xào mì với sốt và xúc xích đã chuẩn bị.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú với quá trình xào mì."
+    },
+    {
+      "step": "Thưởng thức và đánh giá",
+      "desc": "Thưởng thức mì xào xúc xích và đánh giá hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm ăn."
+    },
+    {
+      "step": "Giới thiệu chương trình khuyến mãi",
+      "desc": "Giới thiệu chương trình khuyến mãi và quà tặng từ nhãn hàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về chương trình khuyến mãi."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mấy bà thử làm món mì xào xúc xích này ăn đi, có mà ngon mê mẫn luôn á.",
+    "Vừa được ăn xúc xích ngon vừa cào thẻ đã tay, trúng nhiều phần quà hấp dẫn nữa thì quá đã luôn đúng không mọi người?"
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngon mê mẫn",
+    "giòn ngọt",
+    "đã",
+    "ngon dữ",
+    "đã tay",
+    "hấp dẫn",
+    "quá đã"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nếu giờ ở nhà mà chỉ còn mỗi mì gói và xúc xích đó thì mấy bà thử làm món mì xào xúc xích này ăn đi, có mà ngon mê mẫn luôn á.",
+    "Thiệt sự phải công nhận ăn mì xào mà thêm xúc xích S2 thôi là đưa dĩa mì lên tầm cao mới luôn.",
+    "Vừa được ăn xúc xích ngon vừa cào thẻ đã tay, trúng nhiều phần quà hấp dẫn nữa thì quá đã luôn đúng không mọi người?"
+  ],
+  "hook_content": "Nếu giờ ở nhà mà chỉ còn mỗi mì gói và xúc xích đó thì mấy bà thử làm món mì xào xúc xích này ăn đi, có mà ngon mê mẫn luôn á.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn cách làm mì xào xúc xích đơn giản, nhanh chóng tại nhà với hai nguyên liệu chính là mì gói và xúc xích, đồng thời giới thiệu sản phẩm xúc xích S2 và chương trình khuyến mãi của nhãn hàng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

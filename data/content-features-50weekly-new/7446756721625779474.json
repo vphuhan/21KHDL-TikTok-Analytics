@@ -1,0 +1,81 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu địa điểm",
+      "desc": "Giới thiệu địa điểm bán hàng đồng giá rẻ và đông khách.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về địa điểm được giới thiệu."
+    },
+    {
+      "step": "Giới thiệu ưu đãi",
+      "desc": "Giới thiệu chương trình khuyến mãi và cách tham gia.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn và muốn thử vận may."
+    },
+    {
+      "step": "Trải nghiệm bốc thăm",
+      "desc": "Trải nghiệm bốc thăm trúng thưởng và giới thiệu sản phẩm.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy phấn khích và tò mò."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu các mặt hàng đa dạng trong cửa hàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy có nhiều đồ thú vị và muốn mua."
+    },
+    {
+      "step": "Thông tin chi tiết",
+      "desc": "Cung cấp thông tin về giá, thời gian và địa chỉ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích và muốn đến thử."
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Đưa ra lời khuyên để mua sắm hiệu quả.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường và được gợi ý."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "dễ thương",
+    "thích",
+    "mê"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cái gì cũng 15 hết á, đủ thứ từ bình ly, chén dĩa.",
+    "Đi ngang buổi chiều là tưởng đâu cái hội chợ không đó.",
+    "Đi mấy chục vòng không hết á."
+  ],
+  "hook_content": "cái tiệm này là tưởng đâu cái hội chợ không à.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video giới thiệu một siêu thị đồng giá 15k với nhiều mặt hàng đa dạng từ đồ gia dụng đến mỹ phẩm, kèm theo chương trình bốc thăm trúng thưởng hấp dẫn. Người quay chia sẻ trải nghiệm mua sắm tại đây và đưa ra lời khuyên.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

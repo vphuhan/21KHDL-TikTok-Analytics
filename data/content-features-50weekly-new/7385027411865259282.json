@@ -1,0 +1,96 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ăn mực khổng lồ sốt cay và bắt đầu ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn và cách chế biến."
+    },
+    {
+      "step": "Thưởng thức sốt",
+      "desc": "Chấm và ăn thử sốt, mô tả cảm nhận về độ ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm giác thèm thuồng, muốn ăn thử ngay."
+    },
+    {
+      "step": "Giới thiệu mai mực",
+      "desc": "Giới thiệu công dụng của mai mực đối với sức khỏe.",
+      "impact_level": "2",
+      "viewer_emotion": "Bất ngờ về công dụng của mai mực."
+    },
+    {
+      "step": "Ăn các nguyên liệu khác",
+      "desc": "Ăn kèm nấm kim châm và các nguyên liệu khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự kết hợp nguyên liệu."
+    },
+    {
+      "step": "Thử các bộ phận mực",
+      "desc": "Thử ăn các phần khác nhau của con mực.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của từng phần."
+    },
+    {
+      "step": "Cảm nhận độ cay",
+      "desc": "Nhấn mạnh độ cay tăng dần và cảm giác khi ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy cay và thích thú."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Thông báo kết thúc vì quá cay và quá no.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với người ăn."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn bạn đã xem video của Tóc Vàng nha.",
+    "Hẹn gặp lại bạn vào video lần sau."
+  ],
+  "cta_type": [
+    "Follow kênh",
+    "Thích video",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "giòn",
+    "cay",
+    "thích",
+    "tuyệt vời",
+    "ngọt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ăn càng về sau bạn, cảm giác muốn phun ra lửa luôn bạn",
+    "con mực này nó ngon mà nó to quá bạn, mà cay cay nữa",
+    "cay nhưng mà Vàng vẫn thích chấm thêm sốt đó bạn"
+  ],
+  "hook_content": "Hai bạn, hôm nay Vàng sẽ mút ăn mực khổng lồ sốt cay Hàn Quốc nha bạn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang mực khổng lồ sốt cay của Tóc Vàng, tập trung vào trải nghiệm ăn uống, cảm nhận hương vị và độ cay của món ăn. Video cũng chia sẻ về công dụng của mai mực đối với sức khỏe.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

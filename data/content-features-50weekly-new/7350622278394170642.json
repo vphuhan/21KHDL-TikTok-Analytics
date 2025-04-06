@@ -1,0 +1,91 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Than thở về việc ngâm quá nhiều tỏi, ăn không kịp.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị với cách than thở hài hước."
+    },
+    {
+      "step": "Nêu vấn đề",
+      "desc": "Không muốn ăn bún nhưng phải nấu để dùng hết tỏi.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, có chút đồng cảm."
+    },
+    {
+      "step": "Giải pháp",
+      "desc": "Nhớ đến công thức bún viral, quyết định làm theo.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với công thức được gợi ý."
+    },
+    {
+      "step": "Nấu nước dùng",
+      "desc": "Thêm xương ninh nước dùng cho ngọt dù công thức gốc không có.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự khác biệt của món bún."
+    },
+    {
+      "step": "Chuẩn bị topping",
+      "desc": "Giới thiệu các loại topping thịt bò, tôm băm, trứng cút.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn với các loại topping."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Trộn bún với giấm tỏi và thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn ăn thử ngay lập tức."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Khen bún ngon, nhẹ bụng, nhưng vẫn còn giấm tỏi.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy muốn thử làm theo."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "sợ",
+    "ngọt ngào",
+    "ngọt thanh",
+    "chất lượng",
+    "trời sinh một cặp",
+    "nhẹ bụng",
+    "thanh cảnh",
+    "ngọt từ tốn",
+    "hiền từ"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ngâm hũ tỏi mà như nuôi scoby",
+    "Cục xương với nước lèo đôi bạn thân thiết",
+    "Kết hợp với giấm tỏi xanh lè biển Bali của mình ngâm nữa thì cứ phải gọi là trời sinh một cặp, một cặp trời sinh"
+  ],
+  "hook_content": "Ta nói ngâm hũ tỏi to vật vã làm chi bây giờ ăn uống cũng như chạy deadline.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ về trải nghiệm ngâm quá nhiều tỏi và cách giải quyết bằng cách nấu món bún theo công thức viral. Người nói cũng chia sẻ về quá trình nấu và cảm nhận về món ăn.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

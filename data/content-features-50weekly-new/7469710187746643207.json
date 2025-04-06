@@ -1,0 +1,62 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Bibi giới thiệu cua hoàng đế siêu to và mời mọi người ăn",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò, thèm thuồng"
+    },
+    {
+      "step": "Miêu tả chi tiết",
+      "desc": "Miêu tả càng cua to, chắc thịt và gạch cua béo",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng, thèm thuồng"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Bibi ăn và cảm thấy ngon, đã miệng",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú, đồng tình"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "đã",
+    "ngon",
+    "siêu béo"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "con cua này siêu chắc thịt luôn đó mọi người",
+    "cái càng nó to lắm mọi người ơi",
+    "ăn chắc là cỡ vài cái thôi là đã no rồi lắm mọi người"
+  ],
+  "hook_content": "Hello, hôm nay Bibi lại ăn con cua hoàng đế siêu to khổng lồ này nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang cua hoàng đế của Bibi, tập trung vào việc miêu tả độ to, chắc thịt của cua và trải nghiệm ăn ngon miệng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

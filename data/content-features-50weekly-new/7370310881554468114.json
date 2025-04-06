@@ -1,0 +1,79 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu về bánh sữa Ba Vì ngọt gắt, không được ưa chuộng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt ấn tượng."
+    },
+    {
+      "step": "Tìm kiếm giải pháp",
+      "desc": "Tìm được bánh sữa Ba Vì ít đường, phù hợp khẩu vị người Nam.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị vì giải quyết được vấn đề."
+    },
+    {
+      "step": "So sánh bánh sữa",
+      "desc": "So sánh bánh sữa truyền thống và bánh sữa đã được điều chỉnh.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích để so sánh sản phẩm."
+    },
+    {
+      "step": "Đánh giá sản phẩm",
+      "desc": "Thử bánh sữa cacao và đưa ra đánh giá về hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của bánh cacao."
+    },
+    {
+      "step": "Thông tin thêm",
+      "desc": "Giới thiệu kênh thông tin về cách làm bánh sữa.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin tham khảo hữu ích."
+    },
+    {
+      "step": "Đề xuất đối tượng",
+      "desc": "Đề xuất bánh sữa phù hợp với trẻ nhỏ.",
+      "impact_level": "2",
+      "viewer_emotion": "Gợi ý hữu ích cho phụ huynh."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người có thể vào đấy để tham khảo cách làm bánh sữa thật sự là như thế nào nhé."
+  ],
+  "cta_type": [
+    "Truy cập trang cá nhân"
+  ],
+  "emotion_keywords": [
+    "thích",
+    "lạ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Thế là cuối cùng mình đã tìm được một nơi bán bánh sữa ít đường cho người miền Nam ăn rồi.",
+    "Chúng ta không cần phải ăn nhâm nhi nữa, ăn nguyên một cái to cũng được luôn.",
+    "Mình nghĩ bánh sữa này sẽ hợp với những bạn nhỏ nhỏ ấy, tại vì ăn một thanh là thay hơn vài cốc sữa rồi đó."
+  ],
+  "hook_content": "Đây là một loại bánh mà mình đem đi tặng người miền Nam nào mà họ cũng không thích luôn.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review bánh sữa Ba Vì, so sánh loại truyền thống ngọt gắt với loại ít đường phù hợp với người miền Nam, đồng thời giới thiệu thêm bánh sữa cacao và kênh thông tin về cách làm bánh.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

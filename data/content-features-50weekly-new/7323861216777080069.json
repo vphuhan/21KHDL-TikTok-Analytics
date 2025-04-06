@@ -1,0 +1,91 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu gà rán và các món ăn kèm hấp dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy đói bụng và thèm ăn."
+    },
+    {
+      "step": "Miêu tả chi tiết",
+      "desc": "Tả hương vị, nguyên liệu và cách chế biến món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy tò mò về hương vị."
+    },
+    {
+      "step": "Nhấn mạnh trải nghiệm",
+      "desc": "Chia sẻ cảm nhận cá nhân khi ăn các món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử ngay lập tức."
+    },
+    {
+      "step": "Thông tin địa điểm",
+      "desc": "Cung cấp địa chỉ và thông tin về quán ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi lại địa chỉ để ghé thăm."
+    },
+    {
+      "step": "Gợi ý món mới",
+      "desc": "Giới thiệu món mới và khuyến khích thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món mới."
+    },
+    {
+      "step": "Đánh giá giá cả",
+      "desc": "Nhấn mạnh giá cả phải chăng và hợp lý.",
+      "impact_level": "1",
+      "viewer_emotion": "An tâm về giá."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Có gì thì mọi người đi ăn thử kiểm chứng nha.",
+    "Bye bye."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "giòn rụm",
+    "béo",
+    "thơm",
+    "ngon",
+    "cuốn",
+    "ghiền",
+    "mê",
+    "bình dân"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Gà rán giòn rụm chấm sốt phô mai còn sốt kem hành nữa thì thứ gì chịu nổi.",
+    "Đây là một quán gà rán giá học sinh sinh viên mà chất lượng thì khỏi phải bàn.",
+    "Mì tương đen cái sốt không có bị đắng, sợi mì thì dai dai ăn cuốn lắm nha. Bảo đảm ăn là ghiền."
+  ],
+  "hook_content": "Gà rán giòn rụm chấm sốt phô mai còn sốt kem hành nữa thì thứ gì chịu nổi.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu quán gà rán Coco Ria ở Quận 10 với các món ăn hấp dẫn như gà rán sốt phô mai, mì tương đen, mì lạnh và cheese ball, đồng thời đánh giá cao chất lượng và giá cả phải chăng của quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

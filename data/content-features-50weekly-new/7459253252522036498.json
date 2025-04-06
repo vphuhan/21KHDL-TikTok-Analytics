@@ -1,0 +1,91 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Chào hỏi và giới thiệu món ăn hôm nay là mẹt đồ chiên.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Lý do thực hiện",
+      "desc": "Chia sẻ lý do quay video vì dạo này bận không biết quay gì.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu tương ớt Vifon, nhấn mạnh không thể thiếu khi ăn đồ chiên.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Ăn và đánh giá",
+      "desc": "Ăn phô mai que và đánh giá độ kéo sợi, chấm với tương ớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Nhấn mạnh sự kết hợp",
+      "desc": "Khẳng định món chiên ngon hơn khi chấm tương ớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Mô tả chi tiết",
+      "desc": "Mô tả các món trong mẹt chiên và tiếp tục ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Khuyên dùng thử tương ớt Vifon và tạm biệt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nên là mọi người cũng thử xem nha, ngon.",
+    "Cảm ơn mọi người xem video của mình, hẹn mọi người video sau."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "cay dịu",
+    "rõ vị",
+    "ngon",
+    "cuốn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Thật ra mấy cái món chiên này mà không chấm cùng tương ớt là độ ngon nó giảm đi mấy phần luôn mọi người.",
+    "Kiểu cái tương ớt Vifon này mọi người ăn nó cay nhưng mà nó cay dịu, nó không bị nồng đâu ấy. Ăn kiểu càng ăn càng cuốn luôn.",
+    "Ăn thử không ngờ là hợp khẩu vị mình không tưởng luôn ấy, ăn cuốn nha."
+  ],
+  "hook_content": "Xin chào mọi người. Hôm nay ăn một mẹt đồ chiên với mình nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang mẹt đồ chiên với tương ớt Vifon, người nói chia sẻ cảm nhận về độ ngon và sự hợp vị của tương ớt khi ăn kèm đồ chiên. Đồng thời khuyến khích người xem nên thử.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

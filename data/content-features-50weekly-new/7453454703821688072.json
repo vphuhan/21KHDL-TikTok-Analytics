@@ -1,0 +1,89 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở hộp mù Việt Nam",
+      "desc": "Mở hộp mù và bất ngờ với combo mì tôm trứng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò, thích thú"
+    },
+    {
+      "step": "Thử món Việt Nam",
+      "desc": "Ăn thử mì tôm trứng, bị nghẹn và cảm thấy ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú, đồng cảm"
+    },
+    {
+      "step": "Mở hộp mù Mỹ",
+      "desc": "Tiếp tục mở hộp mù và thấy bánh burger.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thử món Mỹ",
+      "desc": "Ăn bánh burger và nhận xét ngon, gấp đôi sự mộc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Mở hộp mù Nhật",
+      "desc": "Mở hộp mù và chọn Nhật Bản, thưởng thức món ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thử món Nhật",
+      "desc": "Ăn kim chi và cảm thấy ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Kết thúc và hỏi ý kiến",
+      "desc": "Hỏi người xem muốn thử món nước nào tiếp theo.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nước nào tiếp theo đây mọi người?"
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "nghẹn",
+    "thích"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Uầy, combo đi nét à?",
+    "Gấp đôi sự mộc.",
+    "Giấc mơ Mỹ đấy."
+  ],
+  "hook_content": "bốc bàn hộp mù theo các quốc gia mà ý là tôi muộn.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang mở hộp mù các món ăn từ nhiều quốc gia khác nhau như Việt Nam, Mỹ và Nhật Bản, sau đó thử và đưa ra cảm nhận.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

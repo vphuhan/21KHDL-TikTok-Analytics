@@ -1,0 +1,85 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món bánh Flan",
+      "desc": "Nhớ lại hương vị bánh Flan đã ăn và chia sẻ công thức.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về công thức bánh Flan."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê và giới thiệu các nguyên liệu cần thiết.",
+      "impact_level": "1",
+      "viewer_emotion": "Nắm bắt thông tin về các nguyên liệu."
+    },
+    {
+      "step": "Trộn hỗn hợp trứng",
+      "desc": "Hướng dẫn cách trộn trứng, sữa và các thành phần khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Chú ý đến kỹ thuật trộn để bánh ngon hơn."
+    },
+    {
+      "step": "Làm caramen",
+      "desc": "Hướng dẫn cách thắng đường làm caramen.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến bí quyết làm caramen chuẩn."
+    },
+    {
+      "step": "Đổ khuôn và bọc",
+      "desc": "Hướng dẫn đổ hỗn hợp vào khuôn và bọc kín.",
+      "impact_level": "1",
+      "viewer_emotion": "Hình dung các bước chuẩn bị trước khi hấp."
+    },
+    {
+      "step": "Hấp bánh",
+      "desc": "Nhấn mạnh công đoạn hấp bánh quan trọng nhất.",
+      "impact_level": "3",
+      "viewer_emotion": "Tập trung cao độ vào kỹ thuật hấp bánh."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Hướng dẫn bảo quản và gợi ý cách ăn bánh Flan ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong muốn được thưởng thức bánh Flan."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "nhung nhớ",
+    "bùi",
+    "béo",
+    "thơm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "bánh flan ngon thì không nhất thiết phải không có rỗ nha mọi người ơi. Quan trọng là kết cấu, bùi, béo, thơm, không tanh trứng.",
+    "Sau này có làm thêm 100, 1000 lần nữa thì mình vẫn làm theo công thức này.",
+    "Thêm tí đá, tí cà phê đen nữa là số dzách."
+  ],
+  "hook_content": "Hôm trước đi Phan Thiết ăn bánh flan mộng cầm xong về nhung nhớ luôn.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm bánh flan ngon tại nhà, nhấn mạnh ba điểm quan trọng: tỷ lệ nguyên liệu, thêm chanh và nhiệt độ hấp. Người làm chia sẻ kinh nghiệm cá nhân và công thức đã được kiểm chứng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

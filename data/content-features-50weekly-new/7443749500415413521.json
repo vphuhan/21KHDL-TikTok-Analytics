@@ -1,0 +1,92 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món gà ram bia và lợi ích khi nấu tại nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Chia sẻ về cuộc sống",
+      "desc": "Chia sẻ về công việc nội trợ và buôn bán tại nhà.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Hướng dẫn chọn nguyên liệu và cách ướp gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích cho việc nấu ăn."
+    },
+    {
+      "step": "Chiên gà",
+      "desc": "Hướng dẫn chiên gà sao cho da giòn và ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thèm thuồng món gà chiên."
+    },
+    {
+      "step": "Làm nước sốt",
+      "desc": "Hướng dẫn pha nước sốt để ram gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử làm theo công thức."
+    },
+    {
+      "step": "Ram gà với bia",
+      "desc": "Hướng dẫn ram gà với bia đến khi cạn nước.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy phấn khích và thèm ăn."
+    },
+    {
+      "step": "Thưởng thức và kết luận",
+      "desc": "Miêu tả hương vị món ăn và khuyến khích thử.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn vào bếp làm ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Có gì mấy chị tham khảo bữa cơm này để chiều mình nấu ăn thử nhe.",
+    "Em nói thiệt, đơn giản, ngon mà còn dễ làm, nên có gì mấy bà tham khảo thử nghe."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "ngon",
+    "dễ sợ",
+    "ngán",
+    "mềm",
+    "dễ làm",
+    "rẻ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bữa nay mới biết được cái thịt gà mà đi ram với bia á trời ơi ăn nó thơm dễ sợ luôn á mấy chị.",
+    "Mấy cái con gà công nghiệp này á mấy chị chiên á thì phải chiên cho cái da nó giòn giòn cháy cháy á ăn nó mới ngon.",
+    "Múc một tô cơm trắng xong rồi đặt miếng gà vô là em nói thiệt luôn quất sạch sẻ luôn, dễ làm ăn ngon mà còn rẻ nữa."
+  ],
+  "hook_content": "Bữa nay mới biết được cái thịt gà mà đi ram với bia á trời ơi ăn nó thơm dễ sợ luôn á mấy chị.",
+  "hook_type": [
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn cách nấu món gà ram bia đơn giản, ngon miệng tại nhà, chia sẻ kinh nghiệm chọn nguyên liệu và bí quyết để món ăn thêm hấp dẫn. Người nấu khuyến khích người xem thử làm theo công thức này.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

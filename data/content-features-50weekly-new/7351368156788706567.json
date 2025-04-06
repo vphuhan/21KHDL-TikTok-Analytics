@@ -1,0 +1,80 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu khoai tím và khoai vàng, nhắc lại review cũ",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm mới, nhớ lại sản phẩm cũ"
+    },
+    {
+      "step": "Đánh giá khoai tím",
+      "desc": "Mô tả chi tiết về hình dáng, mùi vị, độ dẻo của khoai",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn ăn thử ngay lập tức"
+    },
+    {
+      "step": "So sánh hai loại",
+      "desc": "So sánh khoai tím và khoai vàng về kích thước, độ dày",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự khác biệt giữa hai loại khoai"
+    },
+    {
+      "step": "Đánh giá khoai vàng",
+      "desc": "Đánh giá độ dẻo, vị ngọt, độ ngậy của khoai vàng",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với hương vị đặc biệt của khoai vàng"
+    },
+    {
+      "step": "Kết luận và khuyến nghị",
+      "desc": "Đưa ra kết luận khoai vàng ngon hơn, gợi ý mua sản phẩm",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá, muốn mua sản phẩm"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nếu như mọi người muốn ăn cái khoai này thì mọi người biết mình để ở đâu rồi đấy."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "dẻo",
+    "ngon",
+    "thơm",
+    "ngọt",
+    "ngậy"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cắn cảm giác nó rất là dẻo ý nhờ?",
+    "Cái này mọi người nên giấu ở nhà, đừng đem đến cho bạn bè hay đồng nghiệp, chắc chắn hết luôn.",
+    "Mình định lấy 500g về ăn thử thôi, nhưng mà biết nó ngon thế này thì mình lấy 50kg cũng được ấy."
+  ],
+  "hook_content": "Ôi. Ôi, cắn cảm giác nó rất là dẻo ý nhờ?",
+  "hook_type": [
+    "Gây tò mò",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review khoai dẻo tím và vàng, so sánh độ dẻo, hương vị và đưa ra đánh giá khoai vàng ngon hơn. Người nói gợi ý nên mua sản phẩm vì quá ngon.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

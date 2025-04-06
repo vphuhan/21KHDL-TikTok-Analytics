@@ -1,0 +1,58 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu các món đồ chiên, viên chiên bóng đêm và xúc xích phô mai",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị"
+    },
+    {
+      "step": "Trải nghiệm món ăn",
+      "desc": "Thử ăn xúc xích phô mai chấm tương ớt và nhận xét",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thèm thuồng"
+    },
+    {
+      "step": "Trải nghiệm món ăn",
+      "desc": "Ăn phô mai và cảm nhận độ nóng của món ăn",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung theo dõi"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "nóng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đây chắc là viên chiên bóng đêm rồi. Chiên xong đen thui.",
+    "Thơm kiểu mùi thì xông khói nhờ.",
+    "Nóng quá mọi người ạ."
+  ],
+  "hook_content": "Mời mọi người ăn đồ chiên cùng mình nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình người này ăn viên chiên và xúc xích phô mai, đưa ra một vài cảm nhận ngắn gọn về hương vị.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

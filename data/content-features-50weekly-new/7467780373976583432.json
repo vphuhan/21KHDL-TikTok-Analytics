@@ -1,0 +1,83 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán xôi Khâm Thiên và khẳng định độ nổi tiếng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ ngon của quán."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Đánh giá các thành phần của xôi: xôi, pate, thịt kho, trứng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng, muốn ăn thử."
+    },
+    {
+      "step": "Nhận xét chung",
+      "desc": "Đưa ra nhận xét về độ ngon, độ ngấy và giá cả.",
+      "impact_level": "2",
+      "viewer_emotion": "Cân nhắc về khẩu vị và chi phí."
+    },
+    {
+      "step": "Cảnh báo",
+      "desc": "Đưa ra lời khuyên về việc lựa chọn suất ăn phù hợp.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhớ để lựa chọn khi đến ăn."
+    },
+    {
+      "step": "Chứng minh độ hot",
+      "desc": "Cho thấy cảnh tượng đông khách lúc 7 giờ tối.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào độ ngon của quán."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ai mà từng ăn ở đấy rồi cho mình xin feedback nha."
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "chất lượng",
+    "mềm",
+    "đậm vị",
+    "thơm",
+    "ngậy",
+    "ngấy",
+    "no"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đến đây là khó tính đấy.",
+    "Thịt kho mềm, đậm vị, cho vào miệng phát nó tan luôn mà.",
+    "Trứng ở đây cũng gọi là hàng đỉnh cao, không có gì để mà chê luôn."
+  ],
+  "hook_content": "Đến đây là khó tính đấy.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán xôi Khâm Thiên, tập trung vào đánh giá chất lượng xôi, thịt kho, trứng và pate. Người review đưa ra lời khuyên về việc lựa chọn suất ăn phù hợp và khuyến khích người xem chia sẻ trải nghiệm nếu đã từng ăn tại quán.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

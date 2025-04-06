@@ -1,0 +1,95 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu bằng câu hỏi",
+      "desc": "Tác giả hỏi chủ quán về tình trạng yêu đương và con cái.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về thông tin cá nhân của chủ quán."
+    },
+    {
+      "step": "Đề nghị gây chú ý",
+      "desc": "Cháu gái đề nghị chú giới thiệu con trai nếu clip triệu view.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú và tò mò về con trai chú."
+    },
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán cá viên chiên của chú Thế.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Miêu tả món ăn",
+      "desc": "Miêu tả hai loại cá viên chiên: thường và nước mắm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và muốn thử."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá vị ngậy ngọt của cá viên chiên nước mắm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị đặc biệt."
+    },
+    {
+      "step": "Trò chuyện về kinh doanh",
+      "desc": "Hỏi về số lượng bán và thời gian bán của quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Tiết lộ tài sản",
+      "desc": "Chú tiết lộ việc mua được nhiều căn nhà nhờ bán xiên bẩn.",
+      "impact_level": "3",
+      "viewer_emotion": "Ngạc nhiên và ngưỡng mộ."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Clip này của cháu mà được một triệu view thì chú giới thiệu con trai chú cho cháu nhá.",
+    "Chú bán ở số chín Vần Hoa Vĩnh Tuy nha mọi người."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Thích video",
+    "Follow kênh"
+  ],
+  "emotion_keywords": [
+    "ngậy ngậy",
+    "ngọt ngọt",
+    "hay",
+    "thích"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bán xiên bẩn tám năm mà chú ấy mua được hẳn năm lăm căn ở tham City luôn.",
+    "Nếu mà làm con dâu chú chú cho bao nhiêu cân?",
+    "Nhưng mà cũng phải có tầm năm căn đấy."
+  ],
+  "hook_content": "con còn ng yêu chưa? Chưa.",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video review quán cá viên chiên của chú Thế, nổi tiếng với món cá viên chiên nước mắm và câu chuyện bán xiên bẩn 8 năm mua được 55 căn nhà. Tác giả review hương vị và trò chuyện cùng chú về bí quyết kinh doanh.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

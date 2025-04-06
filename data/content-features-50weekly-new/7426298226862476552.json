@@ -1,0 +1,76 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Nhắc đến món bánh cuốn và sở thích của các thành viên.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về khẩu vị gia đình người nấu."
+    },
+    {
+      "step": "Chia sẻ sở thích",
+      "desc": "Mẹ chồng thích bánh cuốn, bố chồng không thích đồ nếp.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin về gia đình."
+    },
+    {
+      "step": "Kế hoạch nấu ăn",
+      "desc": "Chỉ nấu khi bố chồng đi vắng để mẹ con cùng ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị về kế hoạch ăn uống."
+    },
+    {
+      "step": "Khen công thức",
+      "desc": "Tự nhận công thức bánh cuốn lần này cực kỳ ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng món ăn."
+    },
+    {
+      "step": "Kêu gọi thử nghiệm",
+      "desc": "Khuyến khích mọi người làm thử và cho biết kết quả.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử làm theo công thức."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Mọi người tham khảo làm thử rồi cho mình biết kết quả nhá."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thích"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "món bánh cuốn này thì mẹ chồng mình cực kỳ là thích, còn bố chồng mình thì không ăn được ấy",
+    "cái công thức làm bánh cuốn lần này của mình cực kỳ là ngon luôn, ngon đỉnh luôn ý"
+  ],
+  "hook_content": "Có rất nhiều bạn thắc mắc hỏi mình là mình nấu nhiều món Việt Nam vậy thì có món nào mà gia đình mình không ăn được hay không?",
+  "hook_type": [
+    "Phản hồi bình luận",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ về món bánh cuốn trong gia đình người Việt ở Nhật, trong đó mẹ chồng rất thích món này còn bố chồng thì không ăn được đồ nếp. Chủ kênh tự tin về công thức làm bánh cuốn của mình và khuyến khích mọi người làm thử.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

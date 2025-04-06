@@ -1,0 +1,94 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu nguyên liệu",
+      "desc": "Giới thiệu các loại hải sản tươi sống dùng để đãi sinh nhật.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn được chế biến."
+    },
+    {
+      "step": "Sơ chế tôm hùm và bào ngư",
+      "desc": "Sơ chế tôm hùm, cắt, làm sạch, chuẩn bị xào ớt chuông.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với công đoạn chuẩn bị."
+    },
+    {
+      "step": "Chế biến bào ngư hấp bầu",
+      "desc": "Cắt đôi trái bầu, cho bào ngư và trứng cua vào hấp.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với cách chế biến độc đáo."
+    },
+    {
+      "step": "Chế biến cua lông và cua hoàng đế",
+      "desc": "Nổ cua lông, hấp muối, nướng cua hoàng đế.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của các món cua."
+    },
+    {
+      "step": "Chiên tôm hùm và xào trứng cua",
+      "desc": "Chiên sơ tôm hùm, xào bơ tỏi với trứng cua.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy món ăn rất hấp dẫn."
+    },
+    {
+      "step": "Xào ốc bulot và tôm hùm",
+      "desc": "Xào ốc bulot với bắp và sữa, xào tôm hùm với ớt chuông.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng các món xào."
+    },
+    {
+      "step": "Hoàn thành và giới thiệu",
+      "desc": "Hoàn thành mâm tiệc và giới thiệu các món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Choáng ngợp trước mâm tiệc hoành tráng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Có gì á cứ gọi cho Làng Hải Sản Mix.",
+    "Xin mời cả nhà cùng ăn tiệc sinh nhật ấm áp của Khánh Huyền nha."
+  ],
+  "cta_type": [
+    "Ăn cùng",
+    "Truy cập trang cá nhân"
+  ],
+  "emotion_keywords": [
+    "tươi sống",
+    "siêu trứng",
+    "béo",
+    "thơm",
+    "ngọt",
+    "ngon",
+    "thèm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "cua Hoàng Đế đợt này á là siêu trứng luôn cả nhà ơi",
+    "Mở nắp ra một cái nó thơm chấn động luôn",
+    "Con tôm này á nó tươi, nhìn miếng thịt á thèm gì đâu luôn cả nhà ơi"
+  ],
+  "hook_content": "Cô Hoàng Đế, tôm hùm Alaska, bữa nay Tướng sẽ chế biến một mâm tiệc đãi sinh nhật Khánh Huyền từ mấy con hải sản tươi sống này nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình chế biến mâm tiệc sinh nhật hoành tráng với các món hải sản tươi sống như tôm hùm Alaska, cua Hoàng Đế, bào ngư, ốc bulot. Các món ăn được chế biến công phu và hấp dẫn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món đu đủ cà ngâm mắm nêm và độ hấp dẫn của nó.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chọn nguyên liệu",
+      "desc": "Hướng dẫn chọn đu đủ và cà pháo tươi ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Hướng dẫn cách sơ chế đu đủ và cà pháo.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Pha mắm nêm",
+      "desc": "Hướng dẫn pha mắm nêm đậm đà, thơm ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi mùi vị."
+    },
+    {
+      "step": "Trộn và ngâm",
+      "desc": "Hướng dẫn trộn đu đủ, cà pháo và mắm nêm.",
+      "impact_level": "1",
+      "viewer_emotion": "Mong chờ thành phẩm."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Trải nghiệm món ăn sau khi ngâm và chia sẻ cảm nhận.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Truyền thống",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "làm ngay đi cả nhà ơi",
+    "Còn chờ cái gì nữa."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngất ngây lòng người",
+    "ghiền",
+    "thơm",
+    "giòn tan",
+    "đậm đà",
+    "mặn mặn",
+    "cay cay",
+    "quá ngon",
+    "quá xuất sắc",
+    "quá đơn giản"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "với cái món này bạn có thể ăn nó quanh năm suốt tháng, ăn hoài mà không thấy chán, ăn chưa hết hũ này thì đã muốn làm ngay thêm hũ khác.",
+    "miếng đu đủ thơm, giòn tan, đậm đà mùi mắm nêm, vị của nó thì mặn mặn, cay cay",
+    "chỉ cần một chén mắm đu đủ cà rồi thì một miếng thịt luộc thì ba nồi cơm cũng hết chứ đừng nói chi là một chén."
+  ],
+  "hook_content": "với cái món này bạn có thể ăn nó quanh năm suốt tháng, ăn hoài mà không thấy chán, ăn chưa hết hũ này thì đã muốn làm ngay thêm hũ khác.",
+  "hook_type": [
+    "Gây tò mò",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm món đu đủ cà ngâm mắm nêm, một món ăn đặc trưng của miền Trung. Người làm chia sẻ công thức gia truyền và cách chọn nguyên liệu tươi ngon để món ăn thêm phần hấp dẫn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

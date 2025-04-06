@@ -1,0 +1,104 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu chung",
+      "desc": "Giới thiệu về thương hiệu nội thất lớn nhất Nhật Bản tại Việt Nam.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về thương hiệu và sản phẩm."
+    },
+    {
+      "step": "Đánh giá sản phẩm nổi bật",
+      "desc": "Giới thiệu sofa thân thiện thú cưng, rèm chống UV, kệ lắp ráp.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với công nghệ và tính năng sản phẩm."
+    },
+    {
+      "step": "So sánh giá cả",
+      "desc": "Đề cập đến mức giá mềm của sản phẩm so với chất lượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy giá cả hợp lý, đáng cân nhắc."
+    },
+    {
+      "step": "Trải nghiệm và đánh giá chi tiết",
+      "desc": "Thử nghiệm và đánh giá phụ kiện tủ, chất liệu N Cool.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng và tiện ích."
+    },
+    {
+      "step": "Giới thiệu các khu vực khác",
+      "desc": "Giới thiệu khu nội thất vải, đồ bếp, nhà tắm, sofa biến hình.",
+      "impact_level": "2",
+      "viewer_emotion": "Choáng ngợp trước sự đa dạng sản phẩm."
+    },
+    {
+      "step": "Trải nghiệm sofa điện",
+      "desc": "Thử nghiệm và cảm nhận sự thoải mái của sofa điện.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn được trải nghiệm thử."
+    },
+    {
+      "step": "Khám phá khu vực khác",
+      "desc": "Giới thiệu khu vực game thủ, phòng trẻ em, cây cảnh, nến thơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Bất ngờ về sự phong phú của cửa hàng."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Đến chỗ này thì mình nghĩ mọi người nên đi bắt đầu từ buổi sáng á, coi cho nó đã luôn",
+    "Bởi vậy dặn mọi người là nhớ đi cả ngày nha, nhớ đó."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "u mê",
+    "thân thiện",
+    "bất ngờ",
+    "dễ thương",
+    "mát lạnh",
+    "siêu mát",
+    "cực mát",
+    "mềm",
+    "mát",
+    "sướng",
+    "thích thú",
+    "hứng thú",
+    "mệt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bước chân vào là u mê không lối thoát.",
+    "Đồ đạc ở đây giống như kiểu là chơi đồ hàng đó mọi người.",
+    "Sofa dành cho những người có cuộc sống bất ổn. Cái cảm giác nằm là mày nằm luôn á."
+  ],
+  "hook_content": "U mê ko lối về với sự xuất hiện của thương hiệu nội thất lớn nhất Nhật Bản tại Việt Nam!!!",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu về thương hiệu nội thất Nitori của Nhật Bản tại Việt Nam, tập trung vào các sản phẩm công nghệ cao, thiết kế thông minh và mức giá hợp lý, đồng thời khuyến khích người xem ghé thăm cửa hàng để trải nghiệm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Hỏi mua nem chua và được người bán hàng giải thích.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về lý do không bán ít nem."
+    },
+    {
+      "step": "Giới thiệu",
+      "desc": "Hỏi về tính cổ truyền và được giới thiệu về lịch sử.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với thông tin về nem chua cổ truyền."
+    },
+    {
+      "step": "Giải thích",
+      "desc": "Giải thích lý do mẹ không bán hàng và tin đồn trên mạng.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đồng cảm với hoàn cảnh gia đình."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Đưa ra đánh giá cá nhân và so sánh với nem khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự khác biệt giữa các loại nem."
+    },
+    {
+      "step": "Kết nối",
+      "desc": "Hỏi về mối liên hệ với người bán nem chua khác.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy bình thường, không quá đặc biệt."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ok",
+    "thích"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nem chua cổ truyền của bà cụ còng",
+    "Giá thành đều leo thang, nhưng giá nem nhà chú vẫn không đổi.",
+    "Họ muốn hạ uy tín của mình đi thì họ cứ dựng chuyện lên để họ nói."
+  ],
+  "hook_content": "Chú ơi cho con hai cái nem chua ạ!",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video review nem chua cổ truyền, phỏng vấn nhanh chủ quán về nguồn gốc, tin đồn và so sánh với các loại nem khác. Người review đánh giá ở mức ổn và thích nem chua Trần Công Châu hơn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

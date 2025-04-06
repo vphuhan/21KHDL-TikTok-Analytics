@@ -1,0 +1,87 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán phở bò nổi tiếng ở Sài Gòn, địa điểm và không gian.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán phở nổi tiếng."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Miêu tả chi tiết về tô phở, hương vị, và các thành phần đặc biệt.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử ngay."
+    },
+    {
+      "step": "Trải nghiệm cá nhân",
+      "desc": "Chia sẻ cảm nhận cá nhân về hương vị và trải nghiệm ăn phở.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với trải nghiệm của người review."
+    },
+    {
+      "step": "Phỏng vấn chủ quán",
+      "desc": "Trò chuyện với cô chủ quán để tìm hiểu về lịch sử quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Tôn trọng và ngưỡng mộ."
+    },
+    {
+      "step": "Tổng kết và tạm biệt",
+      "desc": "Tóm tắt lại trải nghiệm và gửi lời chúc đến chủ quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với sự chân thành."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Giới thiệu toàn thể anh em bà con nhá. Đây là quán phở bò Ngọc Lực Sĩ ở Quận Nhất nhá."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm phưng phức",
+    "béo ngậy",
+    "nồng nàn",
+    "mềm mại",
+    "đậm đà",
+    "dai dai",
+    "tươi mát",
+    "sướng mồm",
+    "hả hê",
+    "chất lượng",
+    "đầy đặn",
+    "tuyệt vời"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn tô phở này đúng là sướng mồm luôn.",
+    "Húp quả lòng đào xong rồi người như có thêm sức mạnh trở thành lực sĩ ý.",
+    "Công nhận là là tô nhà mình đầy đặn quá, ăn xong là hóa thành lực sĩ luôn."
+  ],
+  "hook_content": "Chào cô ạ. Cô ơi cho con một tô phở cái gì cũng có, kèm với cả là một quả trứng trần nhá.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán phở bò Ngọc Lực Sĩ nổi tiếng ở Sài Gòn, tập trung vào hương vị đặc trưng của tô phở, không gian quán và cuộc trò chuyện với chủ quán, mang đến trải nghiệm ẩm thực chân thực và hấp dẫn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

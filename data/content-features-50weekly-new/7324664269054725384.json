@@ -1,0 +1,85 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món lạp xưởng nướng đá đang hot và trải nghiệm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Đánh giá lạp xưởng không ngọt, không dầu mỡ, không ám khói.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy món ăn có vẻ hấp dẫn."
+    },
+    {
+      "step": "Thực hiện thử thách",
+      "desc": "Thực hiện thử thách ăn 10 cây lạp xưởng nướng đá.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú với thử thách."
+    },
+    {
+      "step": "Miêu tả chi tiết",
+      "desc": "Miêu tả cách chế biến, hương vị và thành phần của lạp xưởng.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn thử."
+    },
+    {
+      "step": "Đánh giá thêm",
+      "desc": "Đánh giá độ ngon và hứa hẹn thử thách số lượng lớn hơn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Kết quả thử thách",
+      "desc": "Thông báo thời gian hoàn thành thử thách và cảm nhận.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với tốc độ ăn."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Địa chỉ Hân sẽ để trên màn hình, hẹn mọi người ở những video sau nha."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo",
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "cay",
+    "tê",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "không điểm, không có điểm gì để chê luôn",
+    "lớp vỏ thì giòn, bên trong là lớp thịt nạc đan xen với gân mỡ ăn dai dai sực sực",
+    "giờ biết nó ngon vậy rồi, lần sau Hân sẽ quay lại và thử thách 20 cây luôn"
+  ],
+  "hook_content": "Hả? Mọi người nghĩ sao vậy? Đối với Hân thì cái lạp xưởng này không điểm.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video review món lạp xưởng nướng đá đang hot, người review đã thử và đánh giá món ăn này, đồng thời thực hiện thử thách ăn 10 cây lạp xưởng trong thời gian ngắn. Video cũng miêu tả chi tiết hương vị và thành phần của món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

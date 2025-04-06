@@ -1,0 +1,81 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Mở đầu bằng việc gợi nhắc kỷ niệm và giới thiệu món bánh khoai.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy gần gũi và gợi nhớ về tuổi thơ."
+    },
+    {
+      "step": "Chia sẻ kỷ niệm",
+      "desc": "Tác giả hồi tưởng về giấc mơ mở quán bánh thời thanh xuân.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đồng cảm với những ước mơ dang dở."
+    },
+    {
+      "step": "Khẳng định đam mê",
+      "desc": "Dù không mở quán, tác giả vẫn giữ đam mê với món ăn vỉa hè.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy ngưỡng mộ tình yêu với ẩm thực."
+    },
+    {
+      "step": "Hướng dẫn làm bánh",
+      "desc": "Hướng dẫn trộn nguyên liệu: khoai, đường, bột mì, bột bắp.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy háo hức muốn thử làm theo."
+    },
+    {
+      "step": "Chiên bánh",
+      "desc": "Hướng dẫn chiên bánh đến khi vàng giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đói bụng và muốn ăn ngay."
+    },
+    {
+      "step": "Mẹo làm giòn",
+      "desc": "Mẹo để bánh nguội bớt sẽ giòn hơn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích với mẹo nhỏ."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Truyền thống",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "mê",
+    "nhớ về",
+    "đam mê",
+    "cháy bỏng",
+    "giòn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cứ mỗi độ thu qua đông đến, các hàng bánh ngô bánh khoai bày bán khắp vỉa hè là tôi lại nhớ về cái hoài bão thời thanh xuân của mình.",
+    "Không làm bánh bán được nhưng nhất định là phải làm ăn được nhá.",
+    "Lúc mới vớt ra nó chưa giòn đâu, nhưng mà để nguội bớt đi một tí sẽ giòn cực kỳ luôn á."
+  ],
+  "hook_content": "Bạn nào mê bánh khoai thì bơi vào đây nào.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ cách làm bánh khoai chiên giòn đơn giản tại nhà, đồng thời gợi nhớ về những kỷ niệm tuổi thơ và đam mê ẩm thực vỉa hè của người làm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

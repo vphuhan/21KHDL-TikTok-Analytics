@@ -1,0 +1,99 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món mực xỏ xiên nướng và nguyên liệu chính.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Sơ chế mực",
+      "desc": "Chia sẻ quá trình làm sạch và sơ chế mực.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thấy được sự kỳ công."
+    },
+    {
+      "step": "Ướp mực",
+      "desc": "Mô tả quá trình ướp mực với các gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi mùi vị."
+    },
+    {
+      "step": "Nướng mực",
+      "desc": "Quá trình nướng mực và cảm nhận về mùi vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn ăn ngay."
+    },
+    {
+      "step": "Pha chế đồ uống",
+      "desc": "Giới thiệu và pha chế cà phê.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thư giãn, muốn thử."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Thưởng thức mực nướng và cà phê.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy ngon miệng."
+    },
+    {
+      "step": "Đánh giá và khuyến nghị",
+      "desc": "Đánh giá món ăn và đưa ra lời khuyên.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng và muốn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Mọi người ở đây có ai biết mực này tên gì không? Comment cho tôi biết với.",
+    "Bữa nào ra chợ mọi người gặp bé mực này thì mua về nướng ăn như tôi thử nha."
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Thử làm theo công thức",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "cưng",
+    "thơm",
+    "vừa ăn",
+    "thơm phức",
+    "cay sương sương",
+    "đã",
+    "ngon ngọt",
+    "cuốn",
+    "ún nu",
+    "siêu ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Vừa bỏ mực lên vỉ thôi mà cái mùi sa tế nó bốc lên ta nói thơm phức luôn á chàng.",
+    "Nhìn con mực nhỏ nhỏ vậy thôi, nhưng mà xỏ xiên kiểu này ăn ngon ngọt cuốn dữ lắm á mọi người.",
+    "Tôi nướng vừa chín tới nên không bị khô mà con mực còn ún nu luôn, ăn đã dữ lắm nha."
+  ],
+  "hook_content": "Hello mọi người, lại là tôi mập bự thích nấu ăn đây. Nay mọi người cùng tôi làm mực xỏ xiên nướng nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video giới thiệu món mực xỏ xiên nướng, từ khâu chuẩn bị, sơ chế, ướp gia vị đến khi nướng và thưởng thức. Kèm theo đó là review nhanh ly cà phê pha cùng nấm linh chi và đông trùng hạ thảo.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

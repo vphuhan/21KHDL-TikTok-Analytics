@@ -1,0 +1,63 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về đám cưới của Tiểu Màn Thầu và món gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn trong đám cưới."
+    },
+    {
+      "step": "Mô tả món ăn",
+      "desc": "Mô tả chi tiết về gà vườn, gà chạy, gà đi bộ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với mô tả về món gà."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá hương vị của món gà và so sánh với gà nhà.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng món gà."
+    },
+    {
+      "step": "Mô tả không khí",
+      "desc": "Mô tả không khí đám cưới với âm nhạc và lời chúc.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ với không khí đám cưới."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "vui",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Gà này là bác nuôi cả trăm vài nghìn con luôn. Gà vườn, gà chạy, gà đi bộ ok chưa?",
+    "Ăn có vị gì không? Ăn vị gì biết mà sình nhạc vui quá vui.",
+    "ngon hơn ở nhà bán"
+  ],
+  "hook_content": "hiểu mà thầu đi kéo chân để lấy chồng.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại không khí đám cưới của Tiểu Màn Thầu và tập trung review món gà được nuôi thả tự nhiên tại đây, với lời khen ngon hơn gà bán ở nhà.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

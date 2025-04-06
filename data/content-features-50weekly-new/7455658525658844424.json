@@ -1,0 +1,77 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu bánh mì Hoàng Lan được ship từ Sài Gòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chuẩn bị",
+      "desc": "Bắn nóng bánh mì, chuẩn bị rau dưa, dầu trứng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Nếm thử",
+      "desc": "Thưởng thức bánh mì và đưa ra cảm nhận chi tiết.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Thử nghiệm",
+      "desc": "Phết thêm dầu trứng để tăng hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Đánh giá bánh mì ngon, xứng đáng để thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người xem hết video của mình, hẹn mọi người video sau, tạm biệt."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "vừa",
+    "hợp",
+    "không bõ công chờ đợi"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái phần nộm chua ở đây ngon lắm ấy mọi người ạ.",
+    "Tôi cái đồ muối chua ngon lắm ấy.",
+    "Nói chung là ngon mọi người ạ, không bõ công chờ đợi với cả tìm mãi mới thì có người xách tay từ Sài Gòn ra Hà Nội ấy."
+  ],
+  "hook_content": "Xin chào mọi người, hôm nay mình sẽ ăn bánh mì Hoàng Lan, mời mọi người ăn cùng mình nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang bánh mì Hoàng Lan được ship từ Sài Gòn ra Hà Nội. Người ăn review chi tiết các thành phần và đánh giá cao hương vị của bánh mì.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

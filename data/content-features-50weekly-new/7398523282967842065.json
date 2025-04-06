@@ -1,0 +1,84 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người ăn chay, ăn healthy"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bún mọc dọc mùng chay giúp ổn định bụng dạ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích cho những ai muốn ăn chay."
+    },
+    {
+      "step": "Nêu bí quyết",
+      "desc": "Chia sẻ bí quyết nêm nếm gia vị đậm đà cho món chay.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn biết bí quyết."
+    },
+    {
+      "step": "Nấu nước dùng",
+      "desc": "Hướng dẫn nấu nước dùng ngọt từ củ quả và hạt nêm nấm hương.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy đơn giản, dễ làm."
+    },
+    {
+      "step": "Làm mọc chay",
+      "desc": "Hướng dẫn làm mọc chay từ nấm hương, mộc nhĩ và giò sống chay.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với nguyên liệu làm mọc."
+    },
+    {
+      "step": "Sơ chế dọc mùng",
+      "desc": "Hướng dẫn sơ chế dọc mùng để không bị ngứa.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy thông tin hữu ích."
+    },
+    {
+      "step": "Hoàn thiện món ăn",
+      "desc": "Hướng dẫn nấu bún mọc dọc mùng chay và gợi ý topping.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn, muốn thử."
+    },
+    {
+      "step": "Nhấn mạnh lợi ích",
+      "desc": "Nhấn mạnh sự tiện lợi của hạt nêm nấm hương.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình với sự tiện lợi."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "chuẩn ngon",
+    "ngọt thấm đậm đà",
+    "yummy"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Sau một bữa ăn thịt nướng phủ phê tối qua thì sáng nay mình dậy nấu một bát bún mọc dọc mùng chay, chỉ mất 15 phút thôi để ổn định lại bụng dạ.",
+    "Các nhà hàng ở ngoài kia thì có Michelin, còn trong căn bếp của Ngô Lê Thu Thủy của các bạn hôm nay lại có Michelin nha.",
+    "Thật sự là nhờ vào các loại gia vị chay giống hạt nêm nấm hương tươi này của Knorr mà nấu món chay ở nhà dễ dàng hơn rất nhiều, mình cũng không ngại nấu nữa."
+  ],
+  "hook_content": "Nhìn vậy mà không phải vậy nha.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn nấu bún mọc dọc mùng chay nhanh chóng và dễ dàng tại nhà, chia sẻ bí quyết nêm nếm đậm đà và sử dụng hạt nêm nấm hương để tăng hương vị.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

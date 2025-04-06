@@ -1,0 +1,85 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu bánh tráng và bày tỏ sự yêu thích với sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm"
+    },
+    {
+      "step": "Giải thích lý do",
+      "desc": "Giải thích lý do không mua được hàng từ kênh khác do quá tải.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích"
+    },
+    {
+      "step": "Miêu tả trải nghiệm",
+      "desc": "Chia sẻ trải nghiệm cá nhân, đã ăn trước khi quay review.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Hướng dẫn trộn bánh",
+      "desc": "Hướng dẫn trộn bánh tráng với các nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử làm theo"
+    },
+    {
+      "step": "Đánh giá chất lượng",
+      "desc": "Đánh giá chất lượng nguyên liệu, đặc biệt là hành phi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng hơn"
+    },
+    {
+      "step": "Mời người thân",
+      "desc": "Mời mẹ ăn thử bánh tráng đã trộn.",
+      "impact_level": "1",
+      "viewer_emotion": "Ấm áp, gần gũi"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bữa nay là có đầy đủ lại rồi, mọi người bấm vô để mua nha."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngon tự nhiên",
+    "thơm lắm",
+    "ăn để quên sầu"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn cái này nó ngon tự nhiên luôn chứ Muối Tôm Tây Ninh gì mà Muối Tôm Tây Ninh.",
+    "Chưa thấy một cái hộp hàng nào á mà chưa về tới nhỏ. Tôi chưa quay review cho mọi người là tôi đã xé ra tôi ăn trước rồi.",
+    "Khải làm bốn cái bánh tráng á thì Khải dùng ba bịch muối nha mọi người."
+  ],
+  "hook_content": "Nè mọi người nhìn cái bánh tráng này mọi người có nghĩ là bánh tráng Muối Tôm Tây Ninh không?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu và review bánh tráng trộn Muối Tôm Tây Ninh, hướng dẫn cách trộn và chia sẻ trải nghiệm cá nhân về sản phẩm. Người bán nhấn mạnh chất lượng nguyên liệu và khuyến khích mua hàng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

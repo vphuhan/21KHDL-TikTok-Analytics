@@ -1,0 +1,94 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món măng vầu Tây Bắc đang hot, khó săn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ hot của món ăn."
+    },
+    {
+      "step": "Đánh giá hình thức",
+      "desc": "Măng bị mốc, không tươi ngon như mong đợi.",
+      "impact_level": "1",
+      "viewer_emotion": "Thất vọng về chất lượng sản phẩm."
+    },
+    {
+      "step": "Sơ chế và chế biến",
+      "desc": "Hướng dẫn sơ chế măng: lột vỏ, tách, luộc/hấp.",
+      "impact_level": "1",
+      "viewer_emotion": "Mong chờ hương vị sau chế biến."
+    },
+    {
+      "step": "Ăn thử măng sống",
+      "desc": "Thử ăn măng sống và nhận xét về hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên về vị củ sắn."
+    },
+    {
+      "step": "Ăn thử măng đã hấp",
+      "desc": "Ăn măng đã hấp chín với nước chấm.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về trải nghiệm ăn."
+    },
+    {
+      "step": "Thử phần măng non",
+      "desc": "Thử phần lõi măng non nhất.",
+      "impact_level": "1",
+      "viewer_emotion": "Mong đợi hương vị khác biệt."
+    },
+    {
+      "step": "Thông tin thêm",
+      "desc": "Chia sẻ thông tin về nguồn gốc và cách khai thác măng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, tiếp thu thông tin."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "lỡ như à có nói gì thông tin gì sai thì mình cứ comment vô clip nha rồi em a sẽ đính chính lại nha. Cảm ơn mọi người cảm ơn mọi người đã coi clip của mình."
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "đắng",
+    "ngán",
+    "thúi",
+    "sợ",
+    "nhức"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đắng nghét vậy!",
+    "Ê cái gì giống củ sắn mà đắng nghét hả?",
+    "Qua cái miệng mình ăn cái tự nhiên thấy nó bớt ngon liền luôn á."
+  ],
+  "hook_content": "Đắng nghét vậy.Trên mạng măng vầu Tây Bắc.Ngoài đời măng vầu Tây Bắc nha mọi người ơi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review món măng vầu Tây Bắc đang hot trên mạng, người nói thử ăn sống và ăn đã hấp, nhận xét về vị đắng và chia sẻ thêm thông tin về loại măng này. Cô cũng tương tác với người xem bằng cách khuyến khích họ bình luận nếu có thông tin sai.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành",
+    "Khó chịu",
+    "Ngạc nhiên"
+  ]
+}

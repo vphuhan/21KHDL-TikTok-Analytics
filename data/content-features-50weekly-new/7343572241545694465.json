@@ -1,0 +1,82 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu và mong đợi",
+      "desc": "Giới thiệu bản thân và bày tỏ sự mong đợi về món croissant.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Unbox và đánh giá ngoại hình",
+      "desc": "Mở hộp croissant và đánh giá màu sắc, vân bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Đánh giá chi tiết từng vị",
+      "desc": "Nếm thử và mô tả hương vị, nhân của từng loại croissant.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "Đánh giá chung và so sánh",
+      "desc": "Đưa ra đánh giá tổng quan và so sánh với các loại khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình"
+    },
+    {
+      "step": "Nhấn mạnh sự thật",
+      "desc": "Nhấn mạnh sự thật là giá rẻ nên chất lượng chỉ có vậy.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Gợi ý video tiếp theo",
+      "desc": "Hứa hẹn review croissant đắt tiền hơn để so sánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Hóng chờ"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "ngậy",
+    "béo",
+    "ổn áp"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Chiến thần Croissant",
+    "Tôi, Thị Phương Tằng, kẻ hủy diệt Croissant",
+    "Khi nào tôi sẽ lên clip một cái Croissant 200k cho anh em coi ok không?"
+  ],
+  "hook_content": "Ário. Chiến thần Croissant. Hello anh em.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review các loại croissant giá rẻ của một bạn nữ tên Thị Phương Tằng, tập trung vào đánh giá hương vị và chất lượng so với giá thành, đồng thời hứa hẹn sẽ review loại đắt tiền hơn để so sánh.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

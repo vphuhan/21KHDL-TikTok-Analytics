@@ -1,0 +1,72 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món thịt luộc cuốn bánh tráng chấm mắm nêm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Luộc thịt, tôm, rau sống và chuẩn bị nước chấm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, quá trình chuẩn bị."
+    },
+    {
+      "step": "Khai trương bếp mới",
+      "desc": "Giới thiệu căn bếp thứ hai mới được trang bị.",
+      "impact_level": "1",
+      "viewer_emotion": "Không đặc biệt hứng thú."
+    },
+    {
+      "step": "Trải nghiệm món ăn",
+      "desc": "Thưởng thức món ăn và chia sẻ cảm nhận về hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và thích thú."
+    },
+    {
+      "step": "Bàn luận về ẩm thực",
+      "desc": "Thảo luận về cách ăn và những lưu ý khi ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy thú vị với thông tin."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thoải mái",
+    "ngon",
+    "thích",
+    "vui"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "ăn ở nhà như thế này mình ăn thoải mái nó nhụm nhoàm không sao.",
+    "Nhiều bạn chưa quen nên nhiều khi á nói Khánh Huyền hơi điệu nhưng thật ra tính bả vậy đó. Lúc nào cũng nhẹ nhàng, từ từ hết, ngoài đời á bả cũng dễ thương lắm.",
+    "Em thấy cái gì ngon hết tại em đói mất rồi."
+  ],
+  "hook_content": "Cái món này á mình ăn ở nhà như thế này mình ăn thoải mái nó nhụm nhoàm không sao.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video ghi lại cảnh Tuấn và Huyền cùng nhau ăn món thịt luộc chấm mắm nêm tại căn bếp mới. Cả hai trò chuyện và chia sẻ về cách ăn món này sao cho ngon và thoải mái nhất.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu viên hải sản phô mai và khoai môn mới",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị sản phẩm mới"
+    },
+    {
+      "step": "Đánh giá khoai môn",
+      "desc": "Thử và mô tả hương vị viên khoai môn mới",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hứng thú với món mới lạ"
+    },
+    {
+      "step": "Đánh giá hải sản phô mai",
+      "desc": "Thử viên hải sản phô mai với tương ớt",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng và muốn thử"
+    },
+    {
+      "step": "Nhấn mạnh hương vị",
+      "desc": "Tiếp tục ăn và khen ngon",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy rất hấp dẫn và thèm ăn"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Chấm nước và kết thúc review",
+      "impact_level": "2",
+      "viewer_emotion": "Thỏa mãn sau khi xem review"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "ngon quá",
+    "khá ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đây, hôm nay viên hải sản phô mai nha.",
+    "Với lại khoai môn mới ăn cũng khá là ngon nha cả nhà.",
+    "Ngon, ngon quá."
+  ],
+  "hook_content": "Đây, hôm nay viên hải sản phô mai nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review viên hải sản phô mai và viên khoai môn mới, tập trung vào việc nếm thử và đánh giá hương vị của từng loại. Người nói liên tục khen ngon và khuyến khích người xem thử.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu giá thành và xuất xứ của gói xúc xích",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm"
+    },
+    {
+      "step": "Mô tả sản phẩm",
+      "desc": "Mô tả chi tiết bên ngoài và số lượng xúc xích",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét về độ khô, vị mặn, chua, và béo của xúc xích",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Cảm nhận chung",
+      "desc": "Đánh giá cảm giác khi ăn nhiều xúc xích",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thích",
+    "ngấy"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "vỏ của nó khô giống kiểu cái miếng thịt nạc rang cháy cạnh ấy",
+    "vị bùi bùi của nó thì mình ăn mình thấy rất là thích, nhưng mà ăn đến cái thứ ba thì mình thấy nó hơi ngấy một chút"
+  ],
+  "hook_content": "Có xúc xích nhỏ xíu như vậy thôi mà mình mua giá gần 140.000 mọi người ạ.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review gói xúc xích khô xuất xứ từ Pháp với giá gần 140.000 VNĐ, tập trung vào mô tả hương vị và cảm nhận khi ăn. Mặc dù ban đầu thấy thích vị bùi nhưng sau đó lại thấy hơi ngấy.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

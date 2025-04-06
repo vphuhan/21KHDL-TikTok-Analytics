@@ -1,0 +1,74 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu bào ngư đóng hộp mua với giá gần 200k.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá mùi vị",
+      "desc": "Nhận xét mùi tanh như cá hộp, nước dùng mặn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "So sánh hương vị",
+      "desc": "So sánh bào ngư với ốc và bạch tuộc về độ giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Thông tin bổ sung",
+      "desc": "Thông tin thêm về số lượng bào ngư trong hộp.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá giá cả",
+      "desc": "Không biết giá như vậy là cao hay thấp.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "tanh",
+    "mặn",
+    "ngọt",
+    "giòn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "mùi của nó như kiểu mùi cá hộp ấy nhưng mà nó tanh ít hơn cái cá hộp một tí",
+    "Bào ngư ăn thì mình thấy nó giòn, nhưng mà mình thấy nó không giòn bằng ốc đâu, nó chỉ giòn hơn cái bạch tuộc một tí thôi",
+    "hương vị của nó thì tanh hơn bạch tuộc và ăn mình có cảm giác nó ngọt hơn bạch tuộc"
+  ],
+  "hook_content": "Chào mọi người nhá. Hôm nay thì mình sẽ ăn thử bào ngư đóng hộp.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review bào ngư đóng hộp mua ở Đài Loan với giá gần 200k, người nói đánh giá về mùi vị, độ giòn và so sánh với các loại hải sản khác.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

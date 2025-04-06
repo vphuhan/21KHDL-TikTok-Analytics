@@ -1,0 +1,81 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu thử thách",
+      "desc": "Giới thiệu thử thách ăn mì cay cấp 7 trong 7 ngày.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về thử thách."
+    },
+    {
+      "step": "Ngày 2: Mì cay bò",
+      "desc": "Ăn mì cay cấp 7 vị bò với kim chi tự làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Ngày 3: Mì gói siêu cay",
+      "desc": "Tự làm mì gói siêu cay, độ cay tương đương cấp 7.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử làm theo."
+    },
+    {
+      "step": "Ngày 4: Mì trộn",
+      "desc": "Ăn mì trộn Samyang X2 siêu cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ cay."
+    },
+    {
+      "step": "Ngày 5: Mì Tàu",
+      "desc": "Ăn mì Tàu với ớt cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò hương vị."
+    },
+    {
+      "step": "Ngày cuối: Mì cay vịt quay",
+      "desc": "Ăn mì cay Samyang với vịt quay.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy đói bụng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mời anh em nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "cay"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "7 ngày ăn khuya với mì siêu cay",
+    "mì cay cấp 7 thì nó lại quá đơn giản luôn",
+    "Đảm bảo là cay không thua kém gì mì cay cấp 7 luôn nha"
+  ],
+  "hook_content": "7 ngày ăn khuya với lại mì cay cấp 7 thì nó lại quá đơn giản luôn, chơi anh em ơi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video ghi lại quá trình thử thách ăn mì cay trong 7 ngày liên tiếp của một người. Mỗi ngày người này sẽ ăn một loại mì khác nhau, từ mì cay cấp 7, mì gói tự làm siêu cay, mì trộn Samyang X2 đến mì Tàu và cuối cùng là mì cay Samyang ăn kèm với vịt quay.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

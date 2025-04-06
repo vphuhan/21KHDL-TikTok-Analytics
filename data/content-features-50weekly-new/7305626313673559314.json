@@ -1,0 +1,83 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu hàng hóa",
+      "desc": "Giới thiệu các loại hoa quả và nguồn gốc xuất xứ của chúng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về nguồn gốc và giá cả."
+    },
+    {
+      "step": "So sánh giá",
+      "desc": "So sánh giá các loại quả với giá thị trường và nơi khác.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ vì giá rẻ hơn nhiều."
+    },
+    {
+      "step": "Khẳng định chất lượng",
+      "desc": "Khẳng định chất lượng và lợi ích của sản phẩm (chống ung thư).",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng sản phẩm."
+    },
+    {
+      "step": "Ưu đãi đặc biệt",
+      "desc": "Giới thiệu các chương trình khuyến mãi đặc biệt trong ngày.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú với các ưu đãi hấp dẫn."
+    },
+    {
+      "step": "Lời kêu gọi",
+      "desc": "Kêu gọi mọi người đến tham khảo và mua hàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn đến xem trực tiếp."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Ở đây còn rất nhiều loại hoa quả bán lẻ rẻ hơn bán buôn, các bạn tham khảo xem sao nhá."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "rẻ",
+    "ngọt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Dưa này dưa dưới biển quá.",
+    "Nếu cô không mang về nó lại lừa nhân dân là bưởi Nhật. Nhưng mà cô mang về cô nói luôn là bưởi Trung Quốc để cho chúng nó khỏi bán đắt.",
+    "Ở đây còn rất nhiều loại hoa quả bán lẻ rẻ hơn bán buôn, các bạn tham khảo xem sao nhá."
+  ],
+  "hook_content": "Tuổi này mà chống được bệnh ung thư hả cô? Chống được, chống được, chống được.",
+  "hook_type": [
+    "Gây tò mò",
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "So sánh",
+    "Liệt kê"
+  ],
+  "summarization": "Video giới thiệu một cửa hàng hoa quả ở Hà Nội với giá cả rẻ hơn so với thị trường, đặc biệt nhấn mạnh nguồn gốc xuất xứ và các chương trình khuyến mãi hấp dẫn. Cô chủ quán khẳng định chất lượng sản phẩm và mời mọi người đến tham khảo.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

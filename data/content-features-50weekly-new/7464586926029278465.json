@@ -1,0 +1,105 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu mẹt hải sản ngâm mắm cà tắc siêu to khổng lồ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Nhận hải sản được tặng và giới thiệu các nguyên liệu.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Sơ chế",
+      "desc": "Hướng dẫn hấp hải sản trong 15 phút.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy hữu ích."
+    },
+    {
+      "step": "Pha chế nước sốt",
+      "desc": "Hướng dẫn pha nước sốt từ tỏi, ớt, đường, mắm, tắc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với công thức."
+    },
+    {
+      "step": "Trộn và thưởng thức",
+      "desc": "Trộn đều hải sản với sốt và thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn ăn thử ngay."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Đánh giá hương vị và độ tươi ngon của hải sản.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Chúc Tết",
+      "desc": "Chúc Tết mọi người và nhà tài trợ.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy vui vẻ."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "siêu to khổng lồ",
+    "thịnh soạn",
+    "dễ thương",
+    "nhanh",
+    "ngon",
+    "bổ",
+    "mê",
+    "bất bại",
+    "đậm đà",
+    "ngon ơ",
+    "hao",
+    "siêu siêu trứng",
+    "giòn ngọt",
+    "giòn",
+    "dẻo béo",
+    "đã",
+    "siêu siêu cay",
+    "ngon bá đạo",
+    "vui vẻ",
+    "an khen thượng loại"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "trứng mực lần đầu tiên tôi ăn cũng phải wow, tại nó cực kỳ dẻo béo, ăn quá đã, còn thấm đẫm mắm cà tắc siêu siêu cay.",
+    "Đúng là cắn một cái ngon bá đạo luôn."
+  ],
+  "hook_content": "Trứng mực, mực trứng, bào ngư, rau bạch tuộc siêu to khổng lồ, ngâm mắm cà tắc là đúng bài chứ còn gì để nói nữa.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu và hướng dẫn làm món mẹt hải sản ngâm mắm cà tắc thịnh soạn cho ngày Tết, đồng thời chia sẻ trải nghiệm ăn uống và chúc Tết đến mọi người.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

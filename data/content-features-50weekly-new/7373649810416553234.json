@@ -1,0 +1,94 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Thông báo video cũ, đăng để mọi người đỡ nhớ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Kỷ niệm",
+      "desc": "Nhắc lại kỷ niệm chụp ảnh cho con.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Nấu ăn",
+      "desc": "Nấu canh cá sau buổi chụp ảnh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Tâm sự",
+      "desc": "Chia sẻ về việc sinh thêm con.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Ăn uống",
+      "desc": "Cả nhà ăn canh cá và trò chuyện.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm cúng"
+    },
+    {
+      "step": "Ăn thêm",
+      "desc": "Ăn thêm ốc luộc và ốc hấp.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Nhận xét về món ốc và cơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z"
+  ],
+  "cta_content": [
+    "Vậy mà ba tụi nó húp muỗng nào cũng la mát quá."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "sợ",
+    "đẹp",
+    "xinh",
+    "ấm",
+    "nóng",
+    "mát",
+    "cay",
+    "ngon",
+    "buồn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái bữa ăn gửi cuốn tới bữa nay là cũng được 5 ngày rồi mà cái mỏ mình vẫn còn đen sần á.",
+    "Canh này càng nấu càng ngon á.",
+    "Ăn ốc với cơm ngon mọi người."
+  ],
+  "hook_content": "Cái bữa ăn gửi cuốn tới bữa nay là cũng được 5 ngày rồi mà cái mỏ mình vẫn còn đen sần á, sợ mọi người nhớ mình lục lại được cái video này, đăng đỡ cho mọi người đỡ nhớ bọn mình nha.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại bữa ăn gia đình với món canh cá củ cải và các món ốc. Chủ yếu chia sẻ về cuộc sống thường ngày và kỷ niệm gia đình.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước",
+    "Chân thành"
+  ]
+}

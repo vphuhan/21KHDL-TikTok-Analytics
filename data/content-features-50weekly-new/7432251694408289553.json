@@ -1,0 +1,96 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Mô tả món bò cháy tỏi và cơm chiên trứng muối.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Hướng dẫn chọn và sơ chế thịt bò, nêm gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "Chiên tỏi và bò",
+      "desc": "Hướng dẫn chiên tỏi và bò đúng cách để không bị khô.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức"
+    },
+    {
+      "step": "Làm nước sốt",
+      "desc": "Hướng dẫn pha nước sốt đậm đà, vừa ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Xào bò cháy tỏi",
+      "desc": "Xào bò với nước sốt và hành tây cho đến khi chín.",
+      "impact_level": "3",
+      "viewer_emotion": "Kích thích"
+    },
+    {
+      "step": "Chiên cơm trứng muối",
+      "desc": "Hướng dẫn chiên cơm với trứng muối nhanh gọn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Trình bày và thưởng thức",
+      "desc": "Trình bày món ăn và cảm nhận hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Mấy chị nào ăn cay á thì cho thêm miếng ớt đỏ đỏ nữa cho nó đẹp nghe.",
+    "Nên có gì mấy bà tham khảo thử món này nghe, ngon lắm."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm phức",
+    "hấp dẫn",
+    "dễ làm",
+    "ngon",
+    "nhanh gọn lẹ",
+    "ngon",
+    "nhức cái nách",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bò làm cái kiểu này á để ăn cơm hay là làm mồi lai rai á thì cũng ngon nhất cái nách luôn á.",
+    "Cơm chiên trứng muối mà mình ăn kèm với bò cháy tỏi nữa là ta nói hơi bị nhức cái nách nghe.",
+    "Nhưng mà phải công nhận là cái món này ngon lắm luôn á mấy bà ơi, nên có gì mấy bà tham khảo thử món này nghe, ngon lắm."
+  ],
+  "hook_content": "Thịt bò mua về á mấy chị đừng có làm bò lúc lát nữa mà thủ làm theo em cái cách bò cháy tỏi kiểu này đi, bảo đảm với mấy bà luôn là ăn ngon lắm nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm món bò cháy tỏi và cơm chiên trứng muối đơn giản tại nhà, phù hợp để ăn cơm hoặc lai rai. Người làm chia sẻ bí quyết để món ăn thêm ngon và hấp dẫn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

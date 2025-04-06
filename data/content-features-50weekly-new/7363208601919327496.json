@@ -1,0 +1,83 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu mì trộn kẹo dẻo Thái Lan, giá và xuất xứ",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm"
+    },
+    {
+      "step": "Mô tả thành phần",
+      "desc": "Liệt kê các thành phần bên trong hộp mì trộn kẹo dẻo",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng"
+    },
+    {
+      "step": "Ăn thử và đánh giá",
+      "desc": "Ăn và nhận xét về độ mềm, vị ngọt của kẹo dẻo",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung vào cảm nhận"
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Nhận xét về kẹo nổ, nước sốt Coca-Cola và độ ngọt",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy bất ngờ"
+    },
+    {
+      "step": "Tổng kết và cảm nhận",
+      "desc": "Tổng kết về sản phẩm và hỏi ý kiến con",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn biết kết luận cuối cùng"
+    },
+    {
+      "step": "Cảm nhận của bé",
+      "desc": "Phản ứng của bé về độ ngọt của mì trộn kẹo dẻo",
+      "impact_level": "3",
+      "viewer_emotion": "Thấy buồn cười"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mời các bạn ăn cùng mẹ con mình nhé."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngọt",
+    "thú vị",
+    "cuốn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đây là kẹo dẻo được tạo hình thành mì trộn. Nhìn cũng khá thú vị.",
+    "Nó ngọt đến bế luôn á!"
+  ],
+  "hook_content": "Con gái, làm tí mì trộn cho đỡ thèm nhá.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review mì trộn kẹo dẻo của Thái Lan, tập trung vào trải nghiệm ăn và đánh giá hương vị, đặc biệt là độ ngọt của sản phẩm. Bé con cảm thấy quá ngọt.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

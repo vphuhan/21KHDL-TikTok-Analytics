@@ -1,0 +1,97 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán bún Thái Tomyum Hồng Kông nổi tiếng ở quận 10.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ nổi tiếng của quán."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Nhận xét về hương vị chua, béo, ngọt đặc trưng của bún Thái.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng hương vị đặc biệt."
+    },
+    {
+      "step": "Miêu tả topping",
+      "desc": "Miêu tả topping tươi ngon, được nhập mới liên tục mỗi ngày.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng về chất lượng nguyên liệu."
+    },
+    {
+      "step": "Thông tin giá cả",
+      "desc": "Giá cả hợp lý và chương trình khuyến mãi tặng Coca-Cola.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hấp dẫn vì giá cả phải chăng."
+    },
+    {
+      "step": "Giới thiệu món khác",
+      "desc": "Giới thiệu mì xào điệp và lẩu Thái chua cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn thử các món khác."
+    },
+    {
+      "step": "Đánh giá lẩu Thái",
+      "desc": "Vị lẩu Thái chua cay ngọt đậm đà, khác biệt so với Tom Yum.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng hương vị lẩu đặc trưng."
+    },
+    {
+      "step": "Kêu gọi hành động",
+      "desc": "Rủ bạn bè, người thân đến ăn và địa chỉ quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Có động lực muốn đến quán."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bạn nào coi clip này xong thì rủ bạn bè người thân để đi ăn nha."
+  ],
+  "cta_type": [
+    "Ăn cùng",
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ghiền",
+    "tươi",
+    "mới",
+    "béo",
+    "ngọt",
+    "cuốn",
+    "chua cay",
+    "đậm đà",
+    "khác biệt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái nồi nước lèo của chị á, thật sự là càng ngày càng ngon.",
+    "Bún Thái Tom Yum kiểu Hồng Kông á, cái vị ở đây sẽ thiên vị chua, béo và ngọt.",
+    "Cái vị lẩu Thái chua cay ngọt đậm đà, rõ vị khác biệt hoàn toàn so với lẩu Tom Yum kiểu Hồng Kông luôn."
+  ],
+  "hook_content": "Cái nồi nước lèo của chị á, thật sự là càng ngày càng ngon. Chị bán ở đây chị còn ghiền nữa, ngày nào chị cũng ăn hết á.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu quán Bún Thái Tom Yum kiểu Hồng Kông nổi tiếng ở quận 10, với hương vị chua, béo, ngọt đặc trưng và topping tươi ngon. Ngoài ra, video còn giới thiệu mì xào điệp và lẩu Thái chua cay, kêu gọi người xem rủ bạn bè đến ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

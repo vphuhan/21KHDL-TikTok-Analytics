@@ -1,0 +1,88 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu hàng hoa quả dầm",
+      "desc": "Khẳng định sự yêu thích đặc biệt với quán hoa quả dầm này.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ ngon của quán"
+    },
+    {
+      "step": "Gọi món và miêu tả nguyên liệu",
+      "desc": "Gọi một cân hoa quả dầm mix, ưu tiên xoài, dứa, ít ổi.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung về các loại quả"
+    },
+    {
+      "step": "Đánh giá chất lượng",
+      "desc": "Hoa quả tươi ngon, công thức sốt trộn hợp miệng, không quá ngọt.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm giác thèm thuồng"
+    },
+    {
+      "step": "Trải nghiệm hương vị",
+      "desc": "Xoài hơi chua, dứa giòn ngọt, sốt cuốn hút, ăn healthy.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn được ăn thử ngay lập tức"
+    },
+    {
+      "step": "Nhấn mạnh sự yêu thích",
+      "desc": "Khách quen của quán, gợi ý làm thẻ VIP.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào độ ngon"
+    },
+    {
+      "step": "Thông tin địa điểm",
+      "desc": "Địa chỉ quán ở đầu ngõ Thái Phiên, dễ tìm thấy.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết thêm thông tin hữu ích"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Địa chỉ thì vẫn là đầu ngõ Thái Phiên. Rẽ vào một cái là thấy ngay chị ở bên phải nha, các tình yêu."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "thèm",
+    "ưng",
+    "fresh",
+    "hợp miệng",
+    "ngọt",
+    "giòn",
+    "cuốn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Một tuần ăn 8 lần ấy mà quả rầm chỉ bởi vì cái hàng này thôi đấy.",
+    "Cắn miếng nào ấy là cảm nhận được cái độ fresh của miếng đấy luôn.",
+    "Trông hoa quả rầm thì đơn giản, nhưng mà cái sốt thì nó cuốn lắm."
+  ],
+  "hook_content": "Hoa quả dầm đê cả nhà uii, thèm quóoo",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán hoa quả dầm ở đầu ngõ Thái Phiên, Hà Nội, với món hoa quả dầm tươi ngon, sốt trộn hợp miệng. Người bán hàng thân thiện và quán rất hút khách.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

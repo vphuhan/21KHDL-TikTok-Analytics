@@ -1,0 +1,54 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Mời mọi người cùng ăn nấm đùi gà hấp với người nói.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị"
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Người nói ăn và cảm nhận về món nấm đùi gà hấp.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Chia sẻ về thời tiết",
+      "desc": "Nhắc đến thời tiết nóng ở Tây Ninh, thông cảm cho người xem.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ngon quá."
+  ],
+  "hook_content": "Mời mọi người ăn nấm đùi gà với em nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh người nói ăn món nấm đùi gà hấp và cảm thấy ngon miệng. Người nói cũng chia sẻ về thời tiết nóng ở Tây Ninh.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

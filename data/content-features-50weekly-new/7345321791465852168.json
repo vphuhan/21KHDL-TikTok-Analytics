@@ -1,0 +1,83 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu giá ốc",
+      "desc": "Người bán giới thiệu các loại ốc và giá tiền tương ứng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, nắm bắt thông tin về giá."
+    },
+    {
+      "step": "Giới thiệu xe ốc",
+      "desc": "Giới thiệu xe ốc lể ngon nhất Đà Nẵng, ốc to nhất.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với lời giới thiệu hấp dẫn."
+    },
+    {
+      "step": "Quy trình bán ốc",
+      "desc": "Mô tả quy trình bán ốc, số lượng bán ra mỗi ngày.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường, cung cấp thông tin."
+    },
+    {
+      "step": "Trụng ốc",
+      "desc": "Giải thích lý do trụng ốc lại bằng nước nóng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với mẹo làm sạch ốc."
+    },
+    {
+      "step": "Pha chế ốc",
+      "desc": "Giới thiệu các nguyên liệu pha chế ốc lể.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, nắm bắt thông tin thành phần."
+    },
+    {
+      "step": "Thưởng thức ốc",
+      "desc": "Cận cảnh ốc đã hoàn thành, kích thích vị giác.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy đói bụng, muốn ăn thử."
+    },
+    {
+      "step": "Thông tin địa điểm",
+      "desc": "Cung cấp địa chỉ và thời gian bán ốc.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, ghi nhớ thông tin địa điểm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "đã"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ốc to nhất thị trường.",
+    "Một ngày thì bán gần ba tạ.",
+    "Lể nhất cái nách luôn á."
+  ],
+  "hook_content": "Cái này là 25.000đ. Cái này là 35.000đ. Mà loại lớn vừa là 45.000đ. Lớn đại là 60.000đ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu xe ốc lể nổi tiếng ở Đà Nẵng với các loại ốc to, giá cả khác nhau, đồng thời chia sẻ quy trình bán hàng và thông tin địa điểm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

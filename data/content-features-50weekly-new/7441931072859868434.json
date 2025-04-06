@@ -1,0 +1,80 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Ngâm đậu phụ",
+      "desc": "Đậu phụ được ngâm trong bia để chuẩn bị cho quá trình làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về công dụng của bia."
+    },
+    {
+      "step": "Cắt đậu phụ",
+      "desc": "Đậu phụ được cắt thành các miếng vuông nhỏ và đều nhau.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thao tác quen thuộc."
+    },
+    {
+      "step": "Hấp đậu phụ",
+      "desc": "Đậu phụ được hấp trong 5 phút để diệt khuẩn.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy được sự cẩn thận."
+    },
+    {
+      "step": "Chuẩn bị dung dịch",
+      "desc": "Pha nước với men để tạo môi trường cho đậu phụ lên men.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy lạ vì có men."
+    },
+    {
+      "step": "Ủ đậu phụ",
+      "desc": "Đậu phụ đã hấp lăn qua dung dịch men rồi đem đi ủ.",
+      "impact_level": "1",
+      "viewer_emotion": "Không có cảm xúc đặc biệt."
+    },
+    {
+      "step": "Kiểm tra",
+      "desc": "Kiểm tra đậu phụ sau 3 ngày ủ, thấy có lớp mốc trắng.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên về hình dạng đậu."
+    },
+    {
+      "step": "Trộn gia vị",
+      "desc": "Trộn các loại gia vị như rượu, ớt, muối để tạo hỗn hợp.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn vì nhiều gia vị."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thèm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "香辣下饭，比鲍鱼海鲜还要好吃 (cay nồng đưa cơm, ngon hơn cả bào ngư hải sản)",
+    "哇，我的豆腐还真的长满了白毛毛，像棉花糖一样 (Wow, đậu phụ của tôi thực sự mọc đầy lông tơ trắng, giống như kẹo bông vậy)"
+  ],
+  "hook_content": "把豆腐放进啤酒泡一泡。 把啤酒放进豆腐泡一泡。",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm đậu phụ mốc (chao) tại nhà, một món ăn truyền thống của Trung Quốc. Các bước bao gồm ngâm đậu phụ trong bia, ủ men, và trộn với gia vị cay nồng.",
+  "tone_of_voice": [
+    "Hào hứng"
+  ]
+}

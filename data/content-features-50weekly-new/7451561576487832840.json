@@ -1,0 +1,87 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu nem nướng ngon và rau sạch là điểm cộng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán ăn được giới thiệu."
+    },
+    {
+      "step": "Miêu tả món ăn",
+      "desc": "Miêu tả cách bày trí, nguyên liệu và hương vị món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và muốn thử món ăn."
+    },
+    {
+      "step": "Đánh giá trải nghiệm",
+      "desc": "Chia sẻ cảm nhận về cách cuốn và hương vị đặc biệt.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thú vị với cách ăn độc đáo."
+    },
+    {
+      "step": "Thông tin chi tiết",
+      "desc": "Cung cấp địa chỉ, chi nhánh và thông tin thêm về quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết thêm thông tin hữu ích về quán."
+    },
+    {
+      "step": "Gợi ý món khác",
+      "desc": "Gợi ý món chân gà súp cốc non ăn kèm rất ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử thêm món khác được gợi ý."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Đánh giá không gian và đưa ra lời khuyên.",
+      "impact_level": "1",
+      "viewer_emotion": "Cân nhắc xem có nên ghé quán không."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bạn nào muốn ăn nem nướng thì có thể thử ở quán này cũng ok á."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "sạch",
+    "đẹp",
+    "thơm",
+    "đậm đà",
+    "giòn rụm",
+    "dính",
+    "chua ngọt thấm vị"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Rau sạch là điểm cộng của quán này.",
+    "Vô đây nên gọi trà ổi hồng với trà xoài nha. Mình thấy ngon á.",
+    "Ê, gọi thêm cái món chân gà súp cốc non này ăn cũng dính nữa nè."
+  ],
+  "hook_content": "Mà nem nướng ngon ra.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu quán nem nướng Đờ Răng với món nem nướng rau sạch, nước chấm đặc biệt và các món ăn kèm hấp dẫn khác. Người xem được khuyến khích nên thử trà ổi hồng, trà xoài và chân gà súp cốc non khi đến quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

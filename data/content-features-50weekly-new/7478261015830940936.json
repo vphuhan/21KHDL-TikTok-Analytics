@@ -1,0 +1,101 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Chờ đợi quà",
+      "desc": "Nhân vật chính chờ đợi món quà bánh chuối từ đồng nghiệp.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món quà sắp được nhận."
+    },
+    {
+      "step": "Giới thiệu bánh",
+      "desc": "Giới thiệu bánh chuối và sự háo hức muốn ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thèm thuồng khi nghe mô tả bánh."
+    },
+    {
+      "step": "Quà đáp lễ",
+      "desc": "Nhân vật chính tặng lại bánh cho đồng nghiệp.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thú vị với hành động đáp lễ."
+    },
+    {
+      "step": "Đánh giá hộp bánh",
+      "desc": "Đánh giá hộp bánh Mary Berry mới ra của The 50F.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với vẻ ngoài sang trọng của hộp bánh."
+    },
+    {
+      "step": "Thưởng thức bánh",
+      "desc": "Thưởng thức và mô tả chi tiết các lớp bánh và hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy hấp dẫn bởi sự kết hợp hương vị."
+    },
+    {
+      "step": "Đề xuất quà tặng",
+      "desc": "Gợi ý bánh Mary Berry làm quà tặng cho ngày 8/3.",
+      "impact_level": "2",
+      "viewer_emotion": "Gợi ý hữu ích cho dịp lễ sắp tới."
+    },
+    {
+      "step": "Tổng kết hương vị",
+      "desc": "Nhấn mạnh sự hòa quyện hương vị chua ngọt thơm béo.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn nếm thử hương vị đặc biệt này."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ví dụ sắp tới mà cơrus muốn tặng 8 tháng 3 thì gợi ý hộp Mary Berry này nha, nhớ nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "hot",
+    "sang xịn",
+    "xuất sắc",
+    "tươi mọng",
+    "cuốn",
+    "mềm ẩm",
+    "thơm béo",
+    "dẻo dẻo",
+    "chua chua ngọt ngọt",
+    "tươi mát",
+    "béo béo",
+    "ít ngọt",
+    "đã con mắt",
+    "dễ sợ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nhìn bên ngoài vậy thôi chứ mở ra bên trong còn xuất sắc hơn nữa.",
+    "Ăn cái vị nó kiểu tươi mát béo béo mà lại ít ngọt.",
+    "Nhìn sang lớp bánh xuống như vậy nó đã con mắt dễ sợ."
+  ],
+  "hook_content": "Hôm qua chị đẹp nói nay đứa nào dậy sớm thì có quà.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review hộp bánh Mary Berry của The 50F, tập trung vào các lớp bánh, hương vị và gợi ý đây là món quà phù hợp cho ngày 8/3 sắp tới.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

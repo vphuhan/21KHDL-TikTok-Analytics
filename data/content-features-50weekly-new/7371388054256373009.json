@@ -1,0 +1,99 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu bánh su kem và kem Aice để giải tỏa cơn thèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các loại kem được giới thiệu."
+    },
+    {
+      "step": "Đánh giá kem sữa chua Việt Quất",
+      "desc": "Đánh giá hương vị, thạch dai dai và sự kết hợp độc đáo.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn và muốn thử."
+    },
+    {
+      "step": "Mong muốn trải nghiệm thêm",
+      "desc": "Muốn thử vị sữa chua chanh dây và mua cả thùng kem.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hứng thú với các lựa chọn khác."
+    },
+    {
+      "step": "Thông tin thương hiệu và ưu đãi",
+      "desc": "Giới thiệu về thương hiệu Singapore và chương trình khuyến mãi.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy thông tin hữu ích."
+    },
+    {
+      "step": "Đánh giá kem sữa chua chanh dây",
+      "desc": "Nhấn mạnh vị chua ngọt, thạch dai và sự hòa quyện.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng."
+    },
+    {
+      "step": "Đánh giá kem dưa hấu",
+      "desc": "Nhắc đến sự quen thuộc và cảm giác thanh mát khi ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy quen thuộc và muốn giải khát."
+    },
+    {
+      "step": "Kết luận và kêu gọi mua",
+      "desc": "Nhấn mạnh sự ngon, rẻ và khuyến khích mua để thỏa mãn.",
+      "impact_level": "2",
+      "viewer_emotion": "Được thúc đẩy mua sản phẩm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Tranh thủ giá hời mà còn ăn hai tặng một mua về ăn cho đã cái nư nha."
+  ],
+  "cta_type": [
+    "Ăn cùng",
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "buồn miệng",
+    "mát",
+    "ngon",
+    "hấp dẫn",
+    "thơm",
+    "dai dai",
+    "chua chua ngọt ngọt",
+    "dính",
+    "đã",
+    "cuốn",
+    "thanh mát",
+    "vừa ngon vừa rẻ",
+    "giá hời"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Vị Việt Quốc kết hợp với sữa chua chua chua ngọt ngọt ăn cũng dính dữ.",
+    "Công nhận nó chua chua ngọt ngọt đã cái nư thiệt chứ.",
+    "Trời lạnh hay nóng ngồi ăn kem cũng có cái đã riêng của nó."
+  ],
+  "hook_content": "Ngày này trời nắng nóng là mình cũng lười ăn dễ sợ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review các loại kem Aice như sữa chua Việt Quất, sữa chua chanh dây và dưa hấu, với những đánh giá về hương vị, kết cấu và chương trình khuyến mãi hấp dẫn, phù hợp để giải nhiệt trong ngày nóng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

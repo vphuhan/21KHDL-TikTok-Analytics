@@ -1,0 +1,86 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Vy Tây giới thiệu món bún bò cô Hạnh và rủ bạn ăn cùng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán bún bò."
+    },
+    {
+      "step": "Trải nghiệm ăn uống",
+      "desc": "Vy Tây và bạn bắt đầu ăn và chia sẻ cảm nhận về món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy đói bụng."
+    },
+    {
+      "step": "So sánh khẩu vị",
+      "desc": "Vy Tây thích ăn đậm đà theo kiểu Hàn Quốc, bạn thích vị vừa.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị về sự khác biệt."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Vy Tây khen nước lèo đậm đà, sườn ngon, nạm chất lượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử ngay."
+    },
+    {
+      "step": "Tình huống hài hước",
+      "desc": "Vy Tây ăn mất kiểm soát, bị bạn nhắc nhở về hình tượng.",
+      "impact_level": "3",
+      "viewer_emotion": "Buồn cười."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Bạn của Vy Tây no và nhắc nhở Vy giữ hình tượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy tội nghiệp Vy."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Cám ơn mọi người đã coi clip của mình!"
+  ],
+  "cta_type": [
+    "Thích video",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thích",
+    "cuốn điên lên",
+    "tức",
+    "cuồng điên"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Vy Tây, tui ăn bún bò cô Hạnh.",
+    "Bữa nay nè! Thích một điểm nào ở đây có tương cay á.",
+    "Từ ngày mà Vy Tây ăn thích bún bò á, thì chỉ cần Vy thôi, chứ không cần Tây nữa."
+  ],
+  "hook_content": "Ánh Vy Tây, tui ăn bún bò cô Hạnh.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Vy Tây review quán bún bò cô Hạnh, vừa ăn vừa trò chuyện cùng bạn. Cô nàng thể hiện sự yêu thích món ăn một cách tự nhiên, đôi lúc hơi lố nhưng vẫn rất đáng yêu.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

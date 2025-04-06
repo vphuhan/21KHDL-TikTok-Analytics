@@ -1,0 +1,88 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu bánh giò dày và sự khác biệt với bánh giò thường.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Tương tác với người bán",
+      "desc": "Hỏi thăm cô bán hàng về cách làm và các món khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự nhiệt tình của cô bán hàng."
+    },
+    {
+      "step": "Thử các món khác",
+      "desc": "Thử chả bì và nhận xét về hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú với các món ăn được giới thiệu."
+    },
+    {
+      "step": "Thông tin về quán",
+      "desc": "Chia sẻ về thời gian bán và địa điểm của quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhớ thông tin về địa điểm."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Nhận xét về bánh dày, giò và tương ớt.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm ăn."
+    },
+    {
+      "step": "Lời khen",
+      "desc": "Khen cô bán hàng sởi lởi và bánh ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với sự thân thiện của cô bán hàng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cô ngồi bán ở số 14 Nguyễn Bình Khiêm, cạnh chả cá Phan từ 7:00 sáng đến tầm 7:00 tối mọi người nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "mềm",
+    "thơm",
+    "vừa mới làm xong",
+    "ấm ấm",
+    "hợp",
+    "ngon",
+    "sởi lởi",
+    "100 điểm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ôi cái miếng bánh dày nó dẻo xong rồi giò thì mềm thơm mà đúng kiểu vừa mới làm xong ấy, vẫn còn hơi âm ấm cơ.",
+    "Đấy bánh đã ngon rồi mà cô bán hàng còn rất là sởi lởi nữa thì 100 điểm không còn nhinh luôn rồi nhở."
+  ],
+  "hook_content": "Đây là bánh giò dày chứ không phải bánh giò đâu đúng không cô?",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video review món bánh giò dày tại một quán ăn lâu năm ở đường Nguyễn Bình Khiêm. Người quay phim đánh giá cao hương vị của bánh, sự nhiệt tình của cô bán hàng và giới thiệu địa chỉ quán cho mọi người.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

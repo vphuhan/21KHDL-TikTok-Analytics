@@ -1,0 +1,86 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu chợ Tết",
+      "desc": "Giới thiệu về chợ Tết ở Nhật, sự hiếm có và khách du lịch.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về chợ Tết ở Nhật Bản."
+    },
+    {
+      "step": "Khám phá hải sản",
+      "desc": "Giới thiệu các loại hải sản phổ biến và đặc trưng ngày Tết.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với hải sản mới lạ."
+    },
+    {
+      "step": "Chọn mua hải sâm",
+      "desc": "Quyết định mua hải sâm đen và chia sẻ giá cả.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị hải sâm."
+    },
+    {
+      "step": "Chuẩn bị chế biến",
+      "desc": "Mô tả hình dáng hải sâm sau khi lấy từ tủ lạnh.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên về hình dáng hải sâm."
+    },
+    {
+      "step": "Chế biến hải sâm",
+      "desc": "Thử nghiệm các cách chế biến khác nhau.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường với công đoạn chế biến."
+    },
+    {
+      "step": "Thưởng thức hải sâm",
+      "desc": "Lần đầu ăn hải sâm và chia sẻ cảm nhận về hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị hải sâm."
+    },
+    {
+      "step": "Kết thúc trải nghiệm",
+      "desc": "Cảm thấy mệt mỏi và kết thúc trải nghiệm ăn hải sâm.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm với sự vất vả."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chuyên nghiệp"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "sợ sợ",
+    "ngộ ghê",
+    "thơm",
+    "mỏi miệng",
+    "mệt",
+    "cực"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ăn uống mà tưởng đâu là trời đày không đó.",
+    "Lần đầu chắc cũng như lần cuối, ăn có một con hải sâm mà mà cực quá trời cực rồi."
+  ],
+  "hook_content": "Hôm nay mình sẽ dắt mọi người đi chợ Tết ở Nhật để coi có những cái gì ha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại trải nghiệm lần đầu ăn hải sâm đen của một người tại Nhật Bản, từ việc mua ở chợ Tết đến chế biến và thưởng thức, với nhiều cảm xúc khác nhau về hương vị và độ khó khi ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước",
+    "Chân thành"
+  ]
+}

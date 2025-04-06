@@ -1,0 +1,93 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu trời lạnh nên phải ăn thịt nướng cho đã bụng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "So sánh",
+      "desc": "So sánh ăn thịt nướng mùa đông và mùa hè.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món thịt ba chỉ nướng đơn giản.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Chia sẻ bí quyết",
+      "desc": "Hướng dẫn cách ướp thịt đơn giản mà ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Gợi ý",
+      "desc": "Gợi ý ăn thịt nướng cuốn cải cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử"
+    },
+    {
+      "step": "Chia sẻ trải nghiệm",
+      "desc": "Chia sẻ trải nghiệm dùng chảo đá nướng thịt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Kêu gọi làm theo và khen ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Các bác phải triển khai luôn đi nha."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "tuyệt vời",
+    "cay tê đầu lưỡi",
+    "bùng vị giác",
+    "óng ả",
+    "ngon bá cháy",
+    "phê cực"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Thế này mà không ăn thịt nướng thì lại có lỗi với cái bụng quá thôi.",
+    "Bác nào mà không thích ướp thịt cầu kỳ, thử tham khảo cái công thức ướp của em nha.",
+    "Thịt chín, cuốn với cải cay, chấm với muối ớt đỏ. Trời ơi nó phê cực luôn ý."
+  ],
+  "hook_content": "Thế này mà không ăn thịt nướng thì lại có lỗi với cái bụng quá thôi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ về món thịt nướng ba chỉ đơn giản, cách ướp thịt và gợi ý ăn kèm với cải cay. Người nói còn chia sẻ trải nghiệm sử dụng chảo đá để nướng thịt và kêu gọi mọi người làm theo.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

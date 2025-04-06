@@ -1,0 +1,69 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu món ăn đặc biệt hôm nay là vịt sấy dẻo vị cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Trình bày sản phẩm",
+      "desc": "Mở túi vịt sấy dẻo, mô tả hình dáng, màu sắc và mùi vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng, muốn ăn thử."
+    },
+    {
+      "step": "Ăn thử và đánh giá",
+      "desc": "Ăn thử vịt sấy dẻo với cơm và đậu xào, nêu cảm nhận.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến hương vị món ăn."
+    },
+    {
+      "step": "Nhận xét chung",
+      "desc": "Đánh giá vịt sấy dẻo ăn với cơm không hợp, hơi nhạt.",
+      "impact_level": "1",
+      "viewer_emotion": "Đồng tình hoặc không đồng tình."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "cay",
+    "tê cay",
+    "ngon",
+    "nhạt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Vịt sấy dẻo vị cay, ra gì và này nọ luôn ấy.",
+    "Ăn kiểu cảm giác giống trên cả sức xương ấy.",
+    "Ăn với cơm hơi nhạt, nói chung là tạm ổn."
+  ],
+  "hook_content": "mỗi người một miếng nhá. Cho anh Quân cái đầu nhá. Quý anh nhất đấy.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món vịt sấy dẻo vị cay, ăn thử và đưa ra cảm nhận về hương vị, độ cay, độ mặn, và nhận xét món này không hợp để ăn với cơm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

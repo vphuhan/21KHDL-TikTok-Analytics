@@ -1,0 +1,81 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món lẩu cá khoai nấu ngót, đặc điểm không tanh, ít xương.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món lẩu cá khoai."
+    },
+    {
+      "step": "Miêu tả nguyên liệu",
+      "desc": "Miêu tả cá khoai tươi ngon, giá cả và cách sơ chế.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung về độ tươi ngon của cá."
+    },
+    {
+      "step": "Nấu nước lẩu",
+      "desc": "Hướng dẫn nấu nước lẩu đơn giản, nhanh chóng với cà chua.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy công thức dễ thực hiện."
+    },
+    {
+      "step": "Trình bày món ăn",
+      "desc": "Giới thiệu các loại rau ăn kèm và sự tiếc nuối vì thiếu rau thì là.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi tiếc vì không có rau thì là."
+    },
+    {
+      "step": "Thưởng thức và đánh giá",
+      "desc": "Miêu tả hương vị cá ngọt, mềm, nước lẩu thanh ngọt, thơm.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng món lẩu."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi nghen."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "khoái",
+    "mê",
+    "ngọt",
+    "mềm tan",
+    "cay cay",
+    "ngọt thanh",
+    "thơm phức",
+    "ngon chấn động đậy"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ai mà khoái ăn cá mà sợ tanh, sợ mắc xương thì mê em cá này dữ lắm nè.",
+    "Vừa bỏ vô miệng chưa kịp nhai là nó tan ra y như cháo luôn.",
+    "Tính ra cái lẩu bữa nay mần nhanh gọn lẹ mà ăn ngon chấn động đậy luôn."
+  ],
+  "hook_content": "Hello mọi người! Lại là tôi Mập Bự thích nấu ăn đây.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn nấu món lẩu cá khoai nấu ngót đơn giản, nhanh gọn tại nhà, tập trung miêu tả hương vị thơm ngon đặc trưng của món ăn. Người nấu chia sẻ trải nghiệm cá nhân và mời mọi người cùng thưởng thức.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

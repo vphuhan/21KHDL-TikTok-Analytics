@@ -1,0 +1,85 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món nem chua Gia Lai và các loại nem khác nhau.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn vùng miền"
+    },
+    {
+      "step": "Đánh giá nem chua",
+      "desc": "Nhận xét về độ cay, vị ngọt, độ dai và sự kết hợp với sung.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng, muốn thử"
+    },
+    {
+      "step": "So sánh các loại nem",
+      "desc": "So sánh nem cây và nem nhỏ, nhận xét về sự tương đồng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt"
+    },
+    {
+      "step": "Nhấn mạnh hương vị",
+      "desc": "Tập trung vào hương vị khi chấm với muối tiêu chanh.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn, kích thích vị giác"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Khẳng định độ ngon, dù cay nhưng vẫn muốn ăn tiếp.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú, đồng tình"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "xem video của mình, hẹn mọi người video sau, tạm biệt."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "cay",
+    "ngon lắm",
+    "cực kỳ ngon",
+    "cực kỳ hợp khẩu vị",
+    "vừa hợp khẩu vị",
+    "ngọt",
+    "dai",
+    "dai dẻo",
+    "hợp",
+    "ngon quá"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ớt sung này sung nếp nha mọi người. Nó sẽ không nhiều mủ nó không chát đâu.",
+    "Cay nhưng mà ngon á.",
+    "Ngon quá mọi người ạ, xem video của mình, hẹn mọi người video sau, tạm biệt."
+  ],
+  "hook_content": "một phát là thấy luôn hai quả ớt luôn, ớt xiêm ấy mọi người.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video mukbang nem chua Gia Lai với nhiều ớt và tiêu. Người ăn vừa ăn vừa review độ ngon, độ dai và vị cay của món ăn, đồng thời so sánh các loại nem khác nhau.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

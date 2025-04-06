@@ -1,0 +1,90 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu lễ vật",
+      "desc": "Đạt mang bạch tuộc khổng lồ đến bái sư Huỳnh Anh Tuấn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn được chế biến."
+    },
+    {
+      "step": "Giới thiệu nguyên liệu",
+      "desc": "Giới thiệu về bạch tuộc Nhật khổng lồ và cách sơ chế.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với nguyên liệu đặc biệt."
+    },
+    {
+      "step": "Quá trình chế biến",
+      "desc": "Tuấn sơ chế bạch tuộc và ướp sa tế để nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú với công đoạn chế biến."
+    },
+    {
+      "step": "Đạt nướng bạch tuộc",
+      "desc": "Đạt nướng bạch tuộc dưới sự giám sát của sư phụ.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    },
+    {
+      "step": "Thành phẩm và review",
+      "desc": "Huỳnh Anh Tuấn và Đạt cùng thưởng thức món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn được ăn thử ngay lập tức."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Cả hai cùng đánh giá hương vị và chất lượng món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào lời nhận xét."
+    },
+    {
+      "step": "Kết thúc video",
+      "desc": "Tuấn khen ngợi khả năng nấu nướng của Đạt.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ và thỏa mãn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "giòn",
+    "thèm",
+    "sướng",
+    "hấp dẫn",
+    "ngon",
+    "ngọt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ta nói có lễ vật rồi là cái nhẹ, nhẹ tênh hà.",
+    "Học lẹ quá biết đâu nó bỏ Tuấn sao phải không?",
+    "Không những nướng sa tế đâu mà nướng luôn cả lòng tay."
+  ],
+  "hook_content": "Hay! Bây giờ đi ngắm đá cho nó giòn lại.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn",
+    "Đối thoại"
+  ],
+  "summarization": "Video ghi lại quá trình Huỳnh Anh Tuấn hướng dẫn Đạt làm món bạch tuộc nướng sa tế và sashimi từ bạch tuộc Nhật Bản khổng lồ. Cả hai cùng nhau thưởng thức và đánh giá món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu về việc bà chủ nhà trả lại đồ đạc.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về câu chuyện phía sau."
+    },
+    {
+      "step": "Nhận đồ",
+      "desc": "Bà chủ nhà cho nồi niêu và bếp nướng thịt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự hào phóng."
+    },
+    {
+      "step": "Mua sắm",
+      "desc": "Đi siêu thị mua thịt bò Wagyu và các nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú với các món ăn."
+    },
+    {
+      "step": "Chuẩn bị",
+      "desc": "Sơ chế nguyên liệu và pha cà phê.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy ngon miệng và hấp dẫn."
+    },
+    {
+      "step": "Nướng thịt",
+      "desc": "Nướng thịt bò với bơ và thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn ăn ngay."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Ăn thịt nướng kèm kim chi, rau và nước sốt.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy ngon miệng và thỏa mãn."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Uống cà phê và cảm nhận sự ngon miệng.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử món cà phê."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Ai mà đang ở Nhật mà chưa từng thử cái loại bò Wagyu này thì mọi người nên thử cho biết một lần đi ha."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Chia sẻ công thức"
+  ],
+  "emotion_keywords": [
+    "thích",
+    "ngon",
+    "mềm",
+    "ngọt",
+    "thơm",
+    "thèm",
+    "vừa ăn",
+    "vừa chín tới",
+    "ngọt tự nhiên",
+    "hợp",
+    "tan trong miệng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn xong một lần là khoái luôn, tại vì cái thịt của nó mềm mà ngọt dữ lắm.",
+    "Bò này nướng lên thì rất là mềm luôn, có nhiều miếng mà mình ăn vào nó muốn tan trong miệng.",
+    "Trên chảo có cái gì á thì mọi người cứ cuốn vào cái lá xà lách, rồi chấm thêm vô cái nước sốt đặc trưng thịt nướng nữa, mà mọi thứ nó hòa quyện lại với nhau cực kỳ hợp."
+  ],
+  "hook_content": "chuyện là hôm trước về Việt Nam chơi tháng, bà chủ nhà không biết, dọn đồ của mình hết nên nay bà kêu mình xuống cho lại mấy cái món khác.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ trải nghiệm ăn thịt bò đen Wagyu của Nhật, từ việc mua nguyên liệu đến quá trình nướng và thưởng thức món ăn. Người làm video cũng giới thiệu thêm về cà phê và cách kết hợp các nguyên liệu để tăng thêm hương vị.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

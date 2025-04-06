@@ -1,0 +1,92 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu chung",
+      "desc": "Giới thiệu quán chè sắn và sự nổi tiếng của món chè sắn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món chè sắn."
+    },
+    {
+      "step": "Miêu tả món ăn",
+      "desc": "Miêu tả hương vị, cảm nhận khi ăn chè sắn mochi.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng muốn ăn thử."
+    },
+    {
+      "step": "Trải nghiệm nấu ăn",
+      "desc": "So sánh việc ăn chè với trải nghiệm nấu ăn hồi bé.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị và liên tưởng."
+    },
+    {
+      "step": "Đánh giá hình thức",
+      "desc": "Nhận xét về hình thức bát chè và các thành phần.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng về hình thức."
+    },
+    {
+      "step": "Miêu tả chi tiết",
+      "desc": "Miêu tả hương vị đặc trưng của các thành phần.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm nhận rõ hương vị."
+    },
+    {
+      "step": "Nhận xét giá cả",
+      "desc": "Đánh giá về giá cả so với chất lượng và địa điểm.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến giá trị."
+    },
+    {
+      "step": "Thông tin địa điểm",
+      "desc": "Giới thiệu địa điểm quán chè Khúc Bạch Linh Linh.",
+      "impact_level": "1",
+      "viewer_emotion": "Muốn tìm đến quán."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mọi người tham khảo thử xem sao"
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "béo",
+    "ngậy",
+    "dẻo",
+    "ngọt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ăn nóng ngon hơn nhiều á thơm mùi gừng nói chung là mùa đông này mọi người chắc chắn phải đến đây ăn cái này",
+    "Đi ăn chè mà tôi cảm giác như đang chơi nấu ăn hồi bé cơ",
+    "Vì bát chè nó tên là Forever love."
+  ],
+  "hook_content": "nghĩa là mọi người chỉ sang cái trẻ sắn này thôi hết trẻ sắn là chị không còn giá trị gì nữa, người ta bước vào quán nhưng mà một chân ở trong quán và một chân ở ngoài quán đầu vẫn được mua bảo hiểm còn trẻ Mochi không, nếu mà chị bảo không còn sẵn sàng đi về luôn.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán chè Khúc Bạch Linh Linh với món chè sắn mochi nóng hổi, đặc biệt nhấn mạnh hương vị thơm ngon, trải nghiệm thú vị và không gian quán sạch sẽ, dù giá có hơi cao so với mặt bằng chung.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

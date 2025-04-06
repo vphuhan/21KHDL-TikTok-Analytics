@@ -1,0 +1,84 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu thử thách",
+      "desc": "Hân giới thiệu về thử thách ăn 2kg cơm curry tại Golden Curry.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về khả năng hoàn thành thử thách."
+    },
+    {
+      "step": "Khám phá quy trình",
+      "desc": "Hân vào bếp xem quy trình chuẩn bị món ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy thú vị về quy trình làm món ăn."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Hân bắt đầu ăn thử thách cơm curry.",
+      "impact_level": "2",
+      "viewer_emotion": "Hồi hộp chờ xem kết quả."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Hân chia sẻ cảm nhận về hương vị của món curry Nhật.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử món curry Nhật."
+    },
+    {
+      "step": "Hoàn thành thử thách",
+      "desc": "Hân hoàn thành thử thách và nhận bằng khen.",
+      "impact_level": "3",
+      "viewer_emotion": "Khâm phục sự cố gắng của Hân."
+    },
+    {
+      "step": "Kêu gọi tương tác",
+      "desc": "Hân khuyến khích người xem gợi ý các thử thách khác.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không cảm xúc."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nếu như mọi người biết những thử thách nào khác thì comment cho Hân biết với nha."
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "mặn mặn",
+    "đặc sệt",
+    "dẻo",
+    "mềm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mọi người nghe miếng thịt nó giòn ghê chưa?",
+    "Phải chi mà có thêm một miếng thịt nữa để ăn chung thì hay nhiều quá.",
+    "Vậy là mình đã hoàn thành thử thách 2 kg cơm curry trong vòng 9 phút 5 giây."
+  ],
+  "hook_content": "Chào mọi người, tớ là Hân nè. Theo lời gợi ý của mọi người thì hôm nay Hân đã có mặt tại Golden Curry để ăn thử thách.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Hân thực hiện thử thách ăn 2kg cơm curry tại Golden Curry trong vòng 15 phút. Cô ấy chia sẻ cảm nhận về hương vị món ăn và hoàn thành thử thách trong thời gian ngắn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

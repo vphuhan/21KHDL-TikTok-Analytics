@@ -1,0 +1,93 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu vấn đề",
+      "desc": "Tò mò về giá cao của tóp mỡ và quyết định kiểm chứng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "So sánh giá",
+      "desc": "Giá của người bán khác là 650k, của người Triều Khúc là 430k.",
+      "impact_level": "2",
+      "viewer_emotion": "Thắc mắc"
+    },
+    {
+      "step": "Quảng cáo sản phẩm",
+      "desc": "Giới thiệu về tóp mỡ Triều Khúc, nhấn mạnh độ uy tín.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng"
+    },
+    {
+      "step": "Phản bác thông tin sai",
+      "desc": "Chứng minh tóp mỡ Triều Khúc không bị dai sau một ngày.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Đảm bảo chất lượng",
+      "desc": "Niêm phong sản phẩm để chứng minh tính minh bạch và chất lượng.",
+      "impact_level": "2",
+      "viewer_emotion": "An tâm"
+    },
+    {
+      "step": "Giới thiệu bao bì mới",
+      "desc": "Nhấn mạnh giá rẻ so với chất lượng, tạo sự tin tưởng.",
+      "impact_level": "2",
+      "viewer_emotion": "Hài lòng"
+    },
+    {
+      "step": "Hứa hẹn tiếp tục",
+      "desc": "Kêu gọi chờ đợi phần tiếp theo để chứng minh chất lượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong đợi"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Anh em hóng chờ tập hai nhá."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "giòn",
+    "uy tín",
+    "chất lượng",
+    "rẻ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Top mỡ nhà em uy tín chưa anh chị ơi.",
+    "Hàng Triều Khúc đã không dai mà lại còn giòn.",
+    "Để tôi muốn chứng minh cho chị ấy luôn là top mỡ Triều Khúc số một Hà Nội nó sẽ như thế này."
+  ],
+  "hook_content": "Tự nhiên xem xong cái mà giật mình,không rõ Tóp Mỡ nhà chị dùng loại nguyên liệu gì mà đắt như thế..",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "So sánh",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video so sánh giá tóp mỡ của một người bán với giá của tóp mỡ Triều Khúc, đồng thời chứng minh chất lượng và độ giòn của sản phẩm này, опровергая thông tin sai lệch về sản phẩm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

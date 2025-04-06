@@ -1,0 +1,67 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu bánh mì thịt 30k và mời mọi người cùng ăn",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị bánh mì"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Ăn và cảm nhận hương vị bánh mì thịt",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Tương tác với thú cưng",
+      "desc": "Tương tác với mèo cưng khi nó gây ồn ào",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy thú vị"
+    },
+    {
+      "step": "Ăn tiếp và kết thúc",
+      "desc": "Ăn hết bánh mì và đưa ra lời chúc",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Chúc anh em nào xem đến đoạn này thì chúc anh em 83 86 thần tài dẫn lối."
+  ],
+  "cta_type": [
+    "Thích video"
+  ],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Sao hôm nay tự nhiên anh em nhẹ nhàng với tôi thế",
+    "Một ngày là phải ăn thịt, không ăn thịt không chịu được"
+  ],
+  "hook_content": "Ăn bánh mì thịt đi ạ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình ăn bánh mì thịt của một người, kèm theo những tương tác đời thường với thú cưng và lời chúc đến người xem.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món heo quay và công thức làm tại nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về công thức làm heo quay."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Hướng dẫn chuẩn bị và sơ chế thịt heo.",
+      "impact_level": "2",
+      "viewer_emotion": "Lưu ý các bước sơ chế quan trọng."
+    },
+    {
+      "step": "Ướp thịt",
+      "desc": "Hướng dẫn xay và lọc hỗn hợp ướp thịt.",
+      "impact_level": "2",
+      "viewer_emotion": "Chú ý công đoạn ướp để thịt thêm ngon."
+    },
+    {
+      "step": "Nướng thịt",
+      "desc": "Hướng dẫn nướng thịt bằng nồi chiên không dầu.",
+      "impact_level": "3",
+      "viewer_emotion": "Hóng chờ thành phẩm giòn tan."
+    },
+    {
+      "step": "Pha sốt",
+      "desc": "Hướng dẫn pha sốt ăn kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử ngay loại sốt đặc biệt này."
+    },
+    {
+      "step": "Thành phẩm",
+      "desc": "Giới thiệu món heo quay thành phẩm.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng món heo quay giòn rụm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Tết này muốn ăn thịt heo quay thì hãy lưu ngay công thức này nhé."
+  ],
+  "cta_type": [
+    "Lưu video",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "mềm ẩm",
+    "giòn",
+    "siêu giòn",
+    "thơm phức"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bên trong thì mềm ẩm, ngoài thì giòn và để được tận hơn 10 tiếng da vẫn giòn nhé.",
+    "Với công thức này thì mọi người có thể để thịt heo ở ngoài tận 10 tiếng nhưng mà da nó vẫn sẽ giòn thôi mọi người."
+  ],
+  "hook_content": "Quá heo quay thì cũng cần ngày Tết, cho nên là Tết này muốn ăn thịt heo quay thì hãy lưu ngay công thức này nhé.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm heo quay bằng nồi chiên không dầu tại nhà, với lớp da giòn tan và phần thịt mềm ẩm. Công thức này giúp da heo giữ được độ giòn lên đến 10 tiếng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

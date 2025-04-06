@@ -1,0 +1,76 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu quả nhàu và ý định ăn thử, mời mọi người.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của quả nhàu."
+    },
+    {
+      "step": "Ăn thử",
+      "desc": "Ăn phần hạt và nhận xét về độ cứng, vị đắng.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hơi thất vọng."
+    },
+    {
+      "step": "Thử nghiệm",
+      "desc": "Ăn phần cùi không và chấm muối để so sánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong đợi sự thay đổi hương vị."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Mô tả mùi vị, cảm giác khi ăn cả quả và tách riêng.",
+      "impact_level": "2",
+      "viewer_emotion": "Có thêm thông tin về quả nhàu."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Tổng kết lại trải nghiệm ăn quả nhàu.",
+      "impact_level": "2",
+      "viewer_emotion": "Rút ra được kinh nghiệm về cách ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "sốc",
+    "khó ăn",
+    "đắng",
+    "chua chua",
+    "chát",
+    "hôi hôi",
+    "bình thường"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Khi mà cắn miếng đầu tiên ấy thì mình thấy hơi sốc. Tại vì lúc này thì cái mùi của nó giống mùi của quả na xanh ấy, nó rất là hôi và cái vị của nó cũng đắng nữa.",
+    "Thực sự là cái miếng đầu tiên mình thấy khó ăn kinh khủng.",
+    "Mình thấy đắng chủ yếu ở cái hạt ấy."
+  ],
+  "hook_content": "Chào mọi người nhá. Hôm nay thì mình sẽ ăn thử trái nhàu.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video ghi lại trải nghiệm ăn thử quả nhàu, tập trung vào việc mô tả hương vị và cảm giác khi ăn cả quả và tách riêng phần hạt, cùi. Người nói đánh giá quả nhàu chỉ thực sự khó ăn khi ăn cả hạt.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

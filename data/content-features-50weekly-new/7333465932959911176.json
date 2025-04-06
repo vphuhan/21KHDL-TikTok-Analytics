@@ -1,0 +1,63 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu Sting xanh dương, nhấn mạnh độ hiếm và đắt đỏ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Mô tả mùi thơm lạ, cảm giác mát lạnh và vị ngọt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm muốn, muốn thử."
+    },
+    {
+      "step": "Nhấn mạnh trải nghiệm",
+      "desc": "Khẳng định cảm giác 'phê' khi uống Sting xanh dương.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng, thích thú."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "ngọt",
+    "mát",
+    "phê"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Sờ tin xen dương, siêu hiếm, mắc hơn cả nước Landmark.",
+    "Sờ tin xen dương thì có một mùi thơm lạ lắm.",
+    "Cho đá vào thì uống mát mát, thơm thơm ngọt ngọt, quá là phê."
+  ],
+  "hook_content": "Review cả thế giới, sờ tin xen dương, siêu hiếm, mắc hơn cả nước Landmark.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review Sting xanh dương, một loại nước uống hiếm và đắt. Người review mô tả hương vị thơm ngon, mát lạnh và cảm giác 'phê' khi uống.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

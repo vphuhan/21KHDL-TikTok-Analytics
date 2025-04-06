@@ -1,0 +1,81 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu tình hình gia đình",
+      "desc": "Con ốm, chia sẻ việc chăm sóc con và nỗi lo lắng.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm"
+    },
+    {
+      "step": "Đi chợ",
+      "desc": "Kể về việc đi chợ mua đồ ăn, gặp người bán hàng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Quyết định món ăn",
+      "desc": "Lựa chọn nấu mì hải sản thay vì các món khác.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu nguyên liệu",
+      "desc": "Liệt kê các nguyên liệu và gia vị sẽ sử dụng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Quảng cáo các sản phẩm chăm sóc sức khỏe và làm đẹp.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng ăn tối với gia đình.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Thôi bây giờ mời mọi người ăn tối chung với cả nhà mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ba mẹ tuyệt vời nhất là đây chứ đâu.",
+    "Nếu mà tôn trọng mình thì mình tôn trọng lại, còn không thì thôi.",
+    "Bữa nay đi chợ có ba Tùng Hân tính là mua ít thôi, nhưng mà bữa nay chợ người ta bán đồ cái gì thấy cũng ngon."
+  ],
+  "hook_content": "Mới bữa nay Tùng Hân nhà mình hết ốm xong á thì tới Su Hân số 40 độ luôn.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video ghi lại cảnh mẹ chăm sóc con ốm, sau đó đi chợ mua đồ nấu mì hải sản cho cả nhà. Cô cũng chia sẻ về các sản phẩm chăm sóc sức khỏe và làm đẹp mà mình đang dùng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

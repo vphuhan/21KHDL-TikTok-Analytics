@@ -1,0 +1,96 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu gỏi bò sống Hàn Quốc và các thành phần của món ăn",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn và các thành phần của nó"
+    },
+    {
+      "step": "Bày trí và thưởng thức",
+      "desc": "Bày trí món ăn và bắt đầu thưởng thức, chia sẻ cảm nhận ban đầu",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú khi thấy món ăn được bày trí hấp dẫn"
+    },
+    {
+      "step": "Giới thiệu trà",
+      "desc": "Giới thiệu và uống trà dưỡng nhan đông trùng hạ thảo",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về loại trà và công dụng của nó"
+    },
+    {
+      "step": "Tiếp tục ăn và đánh giá",
+      "desc": "Tiếp tục ăn gỏi bò, mô tả hương vị và cảm xúc khi ăn",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy món ăn rất ngon và hấp dẫn"
+    },
+    {
+      "step": "Thêm trứng gà sống",
+      "desc": "Nhớ ra và thêm trứng gà sống vào gỏi bò, tăng độ béo",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ và thích thú với sự kết hợp mới"
+    },
+    {
+      "step": "Ăn kèm banchan",
+      "desc": "Ăn gỏi bò kèm các món banchan và chia sẻ cảm nhận",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của các món banchan"
+    },
+    {
+      "step": "Kết thúc và cảm ơn",
+      "desc": "Ăn gần hết món ăn, cảm ơn người xem và hẹn gặp lại",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thỏa mãn sau khi xem video"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "chỉ cần bạn xem video vui vẻ rồi cho Vàng xin share và follow là okay rồi nè",
+    "Yeah, cảm ơn bạn đã xem video của Tóc Vàng, hẹn gặp lại bạn vào video lần sau."
+  ],
+  "cta_type": [
+    "Follow kênh",
+    "Chia sẻ",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "vui vẻ",
+    "hạnh phúc",
+    "cảm động",
+    "phấn khích",
+    "hạnh phúc ngập tràn",
+    "thanh",
+    "mát"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "thịt bò còn sống, ăn như vậy ngon lắm á bạn",
+    "Mỗi lần mà được ăn đồ ăn mà Vàng thích á thì Vàng sẽ rất là vui vẻ và hạnh phúc và có động lực để làm video nhiều hơn.",
+    "Wow, ăn cái cái phần lê á bạn, nó ngọt và mát cái miệng của mình."
+  ],
+  "hook_content": "Xin chào các bạn, hôm nay Vàng có order một phần gỏi thịt bò sống từ nhà hàng về để múc ăn cho bạn xem nè.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video mukbang gỏi bò sống Hàn Quốc của Tóc Vàng, tập trung vào trải nghiệm ăn uống, cảm nhận hương vị và chia sẻ về thói quen ăn đồ sống. Video cũng giới thiệu trà dưỡng nhan và kêu gọi người xem ủng hộ.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

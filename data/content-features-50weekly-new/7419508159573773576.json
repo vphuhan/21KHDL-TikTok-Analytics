@@ -1,0 +1,90 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu trứng cá tầm Imperial và kế hoạch kinh doanh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm và kế hoạch."
+    },
+    {
+      "step": "Ăn thử",
+      "desc": "Ăn thử trứng cá tầm và mô tả hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú và tò mò về hương vị."
+    },
+    {
+      "step": "So sánh và đánh giá",
+      "desc": "So sánh với trứng cá hồi, liên hệ đến Putin.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng về sự đặc biệt của sản phẩm."
+    },
+    {
+      "step": "Ăn thêm và cảm nhận",
+      "desc": "Ăn thêm với bánh quy và cảm nhận sự giàu có.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và thích thú."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Ăn hết trứng, phá sản kế hoạch, gợi ý mua hàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi tiếc nuối và được gợi ý mua hàng."
+    },
+    {
+      "step": "Ấp trứng",
+      "desc": "Nảy ra ý tưởng ấp trứng để không cần mua.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy có chút hài hước và sáng tạo."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người đặt luôn trên mạng cho nhanh.",
+    "Mọi người tìm theo cái cụm từ mà mình để ở trên màn hình là sẽ mua được cái trứng như thế này thôi."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thoải mái",
+    "đẳng cấp",
+    "ngon",
+    "cảm giác của người giàu",
+    "ăn bon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Thế là từ một cái hộp trứng cá tầm Imperial gần 1 triệu này, mình có thể kiếm ra cả tỷ bạc và chỉ bằng cái việc nuôi cá trồng rau.",
+    "Bảo sao người ta gọi là vàng đen.",
+    "Ra đây là cảm giác của người giàu sao?"
+  ],
+  "hook_content": "Theo như tính toán thì mỗi quả trứng cá tầm sẽ nở ra một con cá tầm, nuôi lớn xong lấy trứng đem bán tiếp, thịt thì bán cho các cửa hàng lẩu ở Sapa.",
+  "hook_type": [
+    "Gây tò mò",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kịch hóa"
+  ],
+  "summarization": "Video review trứng cá tầm Imperial của Russia Caviar House, người nói chia sẻ trải nghiệm ăn thử và bàn về kế hoạch kinh doanh từ trứng cá tầm. Cuối video có CTA mua sản phẩm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Hài hước",
+    "Trung lập"
+  ]
+}

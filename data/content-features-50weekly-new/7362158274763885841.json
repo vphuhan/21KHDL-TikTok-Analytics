@@ -1,0 +1,75 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu gói mì đắt nhất từng mua, giá 120.000.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ đặc sắc của gói mì."
+    },
+    {
+      "step": "Mở hộp và miêu tả",
+      "desc": "Miêu tả các thành phần bên trong: vắt mì, gói gia vị, bào ngư.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với thành phần bào ngư."
+    },
+    {
+      "step": "Nếm thử nước mì",
+      "desc": "Nếm thử nước mì, nhận xét vị ngọt và mùi thuốc bắc.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ được nếm thử."
+    },
+    {
+      "step": "Thưởng thức bào ngư",
+      "desc": "Ăn bào ngư, nhận xét độ giòn, thơm, ngọt.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm giác thèm thuồng."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Đánh giá mì nấu, sợi mì thanh, bào ngư ngon, mì bình thường.",
+      "impact_level": "2",
+      "viewer_emotion": "Đánh giá khách quan về sản phẩm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "ngọt",
+    "giòn",
+    "thơm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đây là gói mì giá 120.000 mọi người ạ. Cái này chắc là gói mì đắt nhất mà mình từng mua.",
+    "Nước mì rất là ngọt luôn.",
+    "Hai con bào ngư thì mình thấy ăn rất là ngon, giòn, thơm, ngọt."
+  ],
+  "hook_content": "Đây là gói mì giá 120.000 mọi người ạ.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review gói mì tôm giá 120k, tập trung vào trải nghiệm và đánh giá hương vị của nước mì, sợi mì và đặc biệt là hai con bào ngư đi kèm. Mì được đánh giá ở mức bình thường, nhưng bào ngư thì ngon và đáng thử.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

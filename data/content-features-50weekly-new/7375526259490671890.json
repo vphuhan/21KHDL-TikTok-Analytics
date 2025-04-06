@@ -1,0 +1,87 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món dồi trường hấp hành và cách ăn dồi trường trước đây.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Sơ chế dồi trường",
+      "desc": "Hướng dẫn sơ chế dồi trường để trắng và giòn hơn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích với mẹo sơ chế."
+    },
+    {
+      "step": "Nấu chè dưỡng nhan",
+      "desc": "Giới thiệu và nấu chè dưỡng nhan mua ở shop.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn biết thêm về sản phẩm."
+    },
+    {
+      "step": "Hấp dồi trường",
+      "desc": "Hấp dồi trường và lưu ý không hấp quá lâu.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức muốn ăn thử."
+    },
+    {
+      "step": "Pha mắm tôm",
+      "desc": "Gợi ý pha mắm tôm với tỏi phi để tăng hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng món mắm tôm."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Thưởng thức dồi trường chấm mắm tôm và cảm nhận.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy ngon miệng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người nhìn cá giò trường của tôi có hấp dẫn quá không?",
+    "Giờ thì mời mọi người ăn chung với tôi nhen."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "hấp dẫn",
+    "ngon",
+    "thơm phức",
+    "vừa vị",
+    "siêu hợp",
+    "mát rượi"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Hồi bữa lướt thấy bạn kia ăn hấp hành mà để nguyên cái nhìn hấp dẫn dữ lắm nên tôi mua về làm ăn thử coi ngon không?",
+    "Chàng ơi, nguyên cái giò trường mà chấm vô chén mắm tôm thơm phức, ta nói giò trường thì giòn giòn ăn với mắm tôm vừa vị, siêu hợp luôn.",
+    "Bữa nào mọi người thử pha mắm tôm bỏ thêm tỏi phi đi, thơm mà ngon dữ lắm."
+  ],
+  "hook_content": "Hello mọi người, lại là tôi, mập bự thích nấu ăn đây. Nay mọi người cùng tôi ăn giò trường hấp hành nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video giới thiệu món dồi trường hấp hành ăn kèm mắm tôm và chia sẻ cách chế biến đơn giản tại nhà. Bên cạnh đó, người làm video cũng giới thiệu thêm món chè dưỡng nhan.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Hân giới thiệu món mì rau củ và lý do nấu món này.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thích thú với món ăn lạ miệng."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê các nguyên liệu nấu nước súp và rau củ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, nắm bắt thông tin."
+    },
+    {
+      "step": "Sơ chế",
+      "desc": "Hướng dẫn rửa thịt, trụng nước sôi và tỉa cà rốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích với mẹo tỉa cà rốt."
+    },
+    {
+      "step": "Nấu nước súp",
+      "desc": "Cho nguyên liệu vào nồi theo thứ tự để ra nước ngọt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, theo dõi quá trình."
+    },
+    {
+      "step": "Sên mứt chuối gừng",
+      "desc": "Giới thiệu công đoạn sên mứt và các loại mứt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với món mứt truyền thống."
+    },
+    {
+      "step": "Hoàn thiện món mì",
+      "desc": "Xắt thịt chảng dừng, thêm bánh canh và thưởng thức.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món mì rau củ."
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Hân mời mọi người cùng thưởng thức món mì rau củ.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy ấm áp, thân thiện."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Cả nhà có mua mứt chuối thì cứ nhắn Hân, Hân làm á rồi gửi đi cho mình luôn."
+  ],
+  "cta_type": [
+    "Truy cập trang cá nhân",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "lạ miệng",
+    "ngọt",
+    "giòn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mấy miếng thịt chảng dừng này nè ăn vừa ngon, vừa giòn mà nó còn lạ miệng nữa.",
+    "Có ai cảm nhận giống Hân á là nồi súp này á nó ngon ngọt dữ lắm không?",
+    "Hân nấu nhiều một chút để mấy đứa em đóng hàng cho Hân á ăn chung luôn."
+  ],
+  "hook_content": "Hổm rày ăn cơm hoài cũng ngán. Bữa nay cả nhà cùng Hân vô bếp nấu mì rau củ ăn cho nó lạ miệng nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn nấu món mì rau củ lạ miệng, chia sẻ cách nấu nước súp ngọt và sơ chế nguyên liệu. Đồng thời giới thiệu thêm món mứt chuối gừng tự làm và mời mọi người cùng thưởng thức.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

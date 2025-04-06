@@ -1,0 +1,74 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Thực khách yêu cầu chủ quán chọn combo ngẫu nhiên theo số.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn được chọn."
+    },
+    {
+      "step": "Giới thiệu combo",
+      "desc": "Chủ quán giới thiệu combo 160k gồm 8 món và tặng kèm.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ vì số lượng món ăn nhiều."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Thực khách review chân gà sốt thái ngon, các món khác bình thường.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món chân gà sốt thái."
+    },
+    {
+      "step": "Xin ưu đãi",
+      "desc": "Thực khách xin thêm ưu đãi cho bạn bè, streamer.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú với sự nhiệt tình."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Thông báo về ưu đãi mới và địa chỉ quán chè xoan.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến địa chỉ và ưu đãi."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "rẻ",
+    "nhiệt tình",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "160.000 đi tận tám món, rẻ thật đấy.",
+    "Cái quả chân gà sốt thái ở đây đỉnh nha.",
+    "Chân gà này sai bố mẹ luôn em ạ."
+  ],
+  "hook_content": "ơi chị chọn giúp em một số từ 1 cho đến 500 đi.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review combo đồ ăn vặt 160k tại quán chè xoan Tám A Nguyễn Tuân, tập trung vào trải nghiệm thực tế và xin ưu đãi cho người xem.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

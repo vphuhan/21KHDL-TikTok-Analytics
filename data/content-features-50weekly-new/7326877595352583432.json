@@ -1,0 +1,90 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu bất ngờ",
+      "desc": "Nhắc lại video cũ và bày tỏ sự thèm thuồng món cơm tấm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn được nhắc đến."
+    },
+    {
+      "step": "Bất ngờ xuất hiện",
+      "desc": "Ngạc nhiên khi thấy suất cơm tấm xuất hiện trước mặt.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú vì sự trùng hợp thú vị."
+    },
+    {
+      "step": "Đánh giá tổng quan",
+      "desc": "Nhận xét về độ lớn của suất cơm tấm và chuẩn bị thêm suất.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đói bụng và muốn ăn."
+    },
+    {
+      "step": "Review chi tiết",
+      "desc": "Đánh giá hương vị từng thành phần: chả, bì, sườn, trứng.",
+      "impact_level": "3",
+      "viewer_emotion": "Hình dung được hương vị của món ăn."
+    },
+    {
+      "step": "Nhấn mạnh điểm đặc biệt",
+      "desc": "Tập trung vào món chả và trứng, đánh giá cao hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với món chả và trứng."
+    },
+    {
+      "step": "Thêm hương vị",
+      "desc": "Rắc tóp mỡ và thưởng thức, ca ngợi sự kết hợp hoàn hảo.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn thử ngay món cơm tấm tóp mỡ."
+    },
+    {
+      "step": "Kết thúc review",
+      "desc": "Dừng lại phần review và nhắc đến việc ăn đã lâu.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy hài lòng với review."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thèm",
+    "ngon",
+    "tuyệt vời",
+    "béo",
+    "ngậy"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Wow, là cơm tấm xà bì chưởng thật đấy mọi người. Ảo thật đấy.",
+    "phải cái tầm bụng trâu ăn mới hết thôi, chứ còn bụng người bình thường thì ăn không thể hết được.",
+    "chả này ngon."
+  ],
+  "hook_content": "chuyện là hôm trước mình có tình cờ được anh Đ Độ cho xem cái video, trả ngược hoàn toàn với cái độ trứng đấy, nó còn khô. Cay thế nhờ. Thế là mình mới nhớ ra là đã 1 năm kể từ lần cuối mình ăn xà bì chưởng của bà anh, tự nhiên xem lại thấy thèm thế nhở.",
+  "hook_type": [
+    "Gây tò mò",
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món cơm tấm xà bì chưởng một cách bất ngờ và thú vị. Người nói đánh giá chi tiết các thành phần của món ăn, đặc biệt khen ngợi chả và trứng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

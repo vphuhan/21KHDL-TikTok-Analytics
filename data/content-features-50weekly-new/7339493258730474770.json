@@ -1,0 +1,87 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "So sánh mì tự làm và mì mua ngoài về giá và thời gian.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Thực hiện",
+      "desc": "Hướng dẫn nhanh 3 bước nấu mì tự làm và review topping.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Đánh giá mì tự làm",
+      "desc": "Nhận xét về độ cứng của mì và hương vị sốt nấm kem.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "Đánh giá mì quán",
+      "desc": "So sánh topping, độ mềm của mì và lượng sốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "So sánh",
+      "desc": "Đưa ra kết luận về độ ngon và giá trị của hai loại mì.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình"
+    },
+    {
+      "step": "Thông tin thêm",
+      "desc": "Chia sẻ về giá ưu đãi và lời khuyên về khẩu phần ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "58.000 15 phút với 158.000 45 phút thì mọi người chọn cái nào?"
+  ],
+  "cta_type": [
+    "So sánh",
+    "Đặt câu hỏi"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "phê",
+    "nóng",
+    "đầy đủ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ở đây người ta còn có cái rau mùi tây luôn, gọi là full topping, full đầy đủ đấy, không thiếu một cái gì luôn đấy.",
+    "Đương nhiên là cái món của mình nó không ngon bằng món ở quán rồi, ví dụ món ở quán ngon 10 chẳng hạn thì món ở nhà mình phải ngon 9,1 9,2 đấy, không phải 9,0 đâu.",
+    "58.000 là dành cho hai người ăn chứ một người ăn không nổi."
+  ],
+  "hook_content": "Hai đĩa mì ý tự làm trong vòng 15 phút, giá 58.000 và một phần mì ý mua ngoài tiệm, đợi 45 phút, giá 158.000. Thử cả hai nhé.",
+  "hook_type": [
+    "So sánh",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "So sánh",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video so sánh mì ý tự làm và mì mua ở tiệm về giá cả, thời gian và hương vị. Người làm video nấu mì ý tại nhà và mua một phần ở nhà hàng, sau đó so sánh hai món để đưa ra đánh giá khách quan.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

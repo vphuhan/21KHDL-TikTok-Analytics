@@ -1,0 +1,77 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Nêu công thức xốt thần thánh, ăn vào là mê đắm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về công thức nước chấm."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê các nguyên liệu cần thiết để làm xốt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, cần thiết để theo dõi."
+    },
+    {
+      "step": "Rang muối ớt",
+      "desc": "Hướng dẫn rang muối ớt khô, lưu ý cho người không ăn cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích với mẹo nhỏ."
+    },
+    {
+      "step": "Pha nước xốt",
+      "desc": "Vắt quất, pha đường, bột ớt và đun sôi.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi kích thích vị giác."
+    },
+    {
+      "step": "Đun xốt",
+      "desc": "Cho muối vào đun nhỏ lửa đến khi hơi cạn.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ thành phẩm."
+    },
+    {
+      "step": "Lưu ý về độ đặc",
+      "desc": "Nhắc nhở không đun quá lâu để xốt không bị đặc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích vì được dặn dò trước."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "mê đắm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Tương ớt xốt thần thánh, ăn vào là mê đám.",
+    "Thôi thì cứ ngon là được. Công thức chuẩn hay không thì tính sau.",
+    "Vì đến lúc xốt nguội là nó sẽ đặc lại nên các bác đừng đun lâu quá."
+  ],
+  "hook_content": "Tương ớt xốt thần thánh, ăn vào là mê đám.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm nước chấm xốt thần thánh với các nguyên liệu dễ kiếm và cách làm đơn giản, nhanh chóng. Lưu ý về độ đặc của xốt khi nguội để có thành phẩm ngon nhất.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

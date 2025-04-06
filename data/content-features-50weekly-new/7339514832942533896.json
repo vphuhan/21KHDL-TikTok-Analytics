@@ -1,0 +1,94 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu cách giải cứu bánh chưng rán giòn, món ăn yêu thích.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Chia sẻ trải nghiệm",
+      "desc": "Chia sẻ kỷ niệm làm nhiều bánh chưng và cách giải quyết.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    },
+    {
+      "step": "So sánh các cách",
+      "desc": "So sánh các cách giải cứu bánh chưng và cách làm của mình.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với các cách khác nhau."
+    },
+    {
+      "step": "Hướng dẫn chi tiết",
+      "desc": "Hướng dẫn chi tiết cách chiên bánh chưng giòn bằng chảo.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú muốn làm theo."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Miêu tả hương vị bánh chưng rán giòn và cách ăn kèm.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng món ăn."
+    },
+    {
+      "step": "Lưu ý khi rán",
+      "desc": "Nhấn mạnh sự kiên nhẫn và điều chỉnh lửa khi rán.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích."
+    },
+    {
+      "step": "Kết luận và cảm xúc",
+      "desc": "Tóm tắt trải nghiệm và bày tỏ sự thỏa mãn khi ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy vui vẻ, đồng tình."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "giòn",
+    "dẻo",
+    "hợp",
+    "ước mơ",
+    "thèm",
+    "chân ái"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Với một đứa nghiện bánh chưng rán giòn như mình thì đây đúng là chân ái rồi.",
+    "Trời ơi ngon nha, nó vừa giòn, bên trong nó lại hơi hơi dẻo dẻo.",
+    "Đây, thế là nguyên cái bánh chưng phần nào phần nấy đều là tinh túy."
+  ],
+  "hook_content": "À thì ra là cũng có thể giải cứu bánh chưng theo kiểu này.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video chia sẻ cách rán bánh chưng giòn tan và ngon miệng để giải cứu bánh chưng còn thừa sau Tết. Người làm video cũng chia sẻ trải nghiệm cá nhân và đưa ra những lưu ý khi rán bánh chưng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

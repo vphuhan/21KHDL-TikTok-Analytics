@@ -1,0 +1,84 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món xương hầm sốt miến cay và kể chuyện buồn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn và câu chuyện."
+    },
+    {
+      "step": "Chia sẻ công thức",
+      "desc": "Giải thích về việc sử dụng công thức và nguồn gốc của nó.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có nhiều cảm xúc."
+    },
+    {
+      "step": "Thông báo về Việt Nam",
+      "desc": "Thông báo về việc chuẩn bị về Việt Nam và lý do.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú và tò mò về chuyến đi."
+    },
+    {
+      "step": "Quảng bá Mega Live",
+      "desc": "Quảng bá phiên live kéo dài 14 tiếng tại Cần Thơ.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú với các ưu đãi và sự kiện."
+    },
+    {
+      "step": "Ăn và đánh giá",
+      "desc": "Ăn món xương hầm và đánh giá hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử món ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Drama",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Sẽ để cái link Top Top ở dưới, mọi người nhớ nhấn theo dõi để tham gia cái sự kiện live này cùng với nhà của mình nha.",
+    "Nhớ nha, 10:00 ngày 10 tháng 11."
+  ],
+  "cta_type": [
+    "Follow kênh",
+    "Ăn cùng",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "cay",
+    "hấp dẫn",
+    "vừa",
+    "thông cảm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Có người nghèo mới đi ăn cắp, mà thiệt sự nha.",
+    "Không phải món hàng hay món Việt mình làm đúng cái công thức đó là nó sẽ ngon đâu. Tùy vào cái khẩu vị và cái sở thích của mọi người nữa.",
+    "Ngay từ đầu ngon thế á! Rất cay và ngon."
+  ],
+  "hook_content": "mình không có đi chơi nhà còn một mớ xương mình sẽ nấu một món từ xương này để cho cả nhà mình ăn tối nha mọi người.",
+  "hook_type": [
+    "Kể chuyện",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện"
+  ],
+  "summarization": "Video kể về việc nấu món xương hầm sốt miến cay, chia sẻ về những tranh cãi liên quan đến công thức nấu ăn, và thông báo về việc về Việt Nam để tổ chức Mega Live. Cuối video là cảnh mukbang món ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Khó chịu"
+  ]
+}

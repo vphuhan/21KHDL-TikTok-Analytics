@@ -1,0 +1,81 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu về bè cá",
+      "desc": "Giới thiệu bè cá của gia đình và cuộc sống sông nước.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Thay đồ và nhờ má bắt ốc để luộc sả.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Sơ chế ốc",
+      "desc": "Ngâm ốc với nước ớt và chia sẻ kinh nghiệm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chế biến món ăn",
+      "desc": "Luộc ốc và làm muối ớt chanh tươi.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức"
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Ăn ốc luộc sả và cảm nhận hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Chia sẻ cảm xúc",
+      "desc": "Cảm nhận hương vị quê nhà và phong cảnh hữu tình.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "đã",
+    "tứa nước miếng",
+    "thấy cưng",
+    "giòn giòn",
+    "mọng nước",
+    "không kìm lòng nổi",
+    "trúng ngay phóc",
+    "ăn hoài không chán"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nói thiệt nghe là chưa ăn nữa nhưng mà nhìn cái dĩa ốc với cái chén nước chấm là tứa nước miếng ra trước rồi đó.",
+    "Ta nói nó đã gì đâu luôn, bao nhiêu năm rồi mới tìm lại được cái hương vị này.",
+    "Chỉ cần ăn vô một phát là trúng ngay phóc cái hương vị quê nhà của mình luôn không có lẫn vào đâu được hết."
+  ],
+  "hook_content": "Sáng nay đi qua bè mà ba mình mất cho cá ăn nên thành ra là phải mượn chiếc xuồng của anh kế bên chứ đứng kêu hoài mà không thấy ai ra rước hết nên thôi là tự bơi xuồng ra luôn cho nó lẹ.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ về trải nghiệm tự tay bắt ốc và chế biến món ốc luộc sả trên bè cá của gia đình, kết hợp thưởng thức món ăn cùng phong cảnh sông nước hữu tình, mang lại cảm giác ngon miệng và gợi nhớ hương vị quê nhà.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

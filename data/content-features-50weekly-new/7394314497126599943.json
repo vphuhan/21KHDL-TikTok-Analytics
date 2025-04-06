@@ -1,0 +1,77 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Nêu sự nhầm lẫn về phô mai con bò cười và Vinamilk.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "So sánh hình thức",
+      "desc": "So sánh hình ảnh con bò trên bao bì hai loại phô mai.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Trải nghiệm",
+      "desc": "Ăn thử và so sánh hương vị, độ chua, mặn của hai loại.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Đánh giá độ phù hợp của từng loại với khẩu vị khác nhau.",
+      "impact_level": "2",
+      "viewer_emotion": "Gật gù"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Nhấn mạnh sự tương đồng và khả năng ăn nhiều của bản thân.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "dễ ăn",
+    "bớt chua",
+    "bớt mặn",
+    "đậm vị sữa"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nói chung quy thì nó lại nó là phô mai con đầu bò hết chó nhé.",
+    "Bây giờ thử bóc hẳn vỏ ra thì mình cũng chẳng phân biệt được loại nào là con bò cười mỉm và con bò cười hô hố đâu."
+  ],
+  "hook_content": "Ô thế hóa ra Vinamilk sẽ phô mai con bò cười nó khác nhau à?",
+  "hook_type": [
+    "Gây tò mò",
+    "Phản hồi bình luận",
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video so sánh phô mai Vinamilk và phô mai Con Bò Cười, tập trung vào sự khác biệt về hương vị và độ phù hợp với khẩu vị của từng người. Người nói đưa ra đánh giá chi tiết sau khi ăn thử cả hai loại.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

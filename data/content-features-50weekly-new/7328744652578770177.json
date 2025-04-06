@@ -1,0 +1,83 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu gỏi cuốn 6k và ý tưởng làm gỏi cuốn khổng lồ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ lớn của gỏi cuốn."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê các nguyên liệu và giá tiền để làm gỏi cuốn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, nắm bắt thông tin."
+    },
+    {
+      "step": "Hoàn thành",
+      "desc": "Gỏi cuốn khổng lồ hoàn thành, to bằng cánh tay.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với kích thước gỏi cuốn."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Ăn gỏi cuốn và nhận xét về hương vị và độ no.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn thử gỏi cuốn."
+    },
+    {
+      "step": "Tính toán chi phí",
+      "desc": "Tính toán chi phí làm gỏi cuốn khổng lồ hết 100k.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, nắm bắt thông tin."
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Khuyên làm cho bạn thân thích ăn gỏi cuốn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy ý tưởng thú vị, hài hước."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Tôi nghịch, bạn cũng thế."
+  ],
+  "cta_type": [],
+  "emotion_keywords": [
+    "đã",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "chiếc gỏi cuốn 6k mọi người ạ, nhưng mà ăn nó không có đã.",
+    "một chiếc gỏi cuốn 100.000 bằng cánh tay mình, nửa mét.",
+    "Ai mà thích ăn gỏi cuốn ấy làm cho một cái cuốn như thế này, đảm bảo ăn một phát là tưởng tới già luôn."
+  ],
+  "hook_content": "chiếc gỏi cuốn 6k mọi người ạ, nhưng mà ăn nó không có đã. Bây giờ làm thử một chiếc gỏi cuốn khổng lồ 100.000 xem thử nó to và nhiều như thế nào nha.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video làm gỏi cuốn khổng lồ với giá 100k. Người làm chia sẻ trải nghiệm và hướng dẫn cách làm gỏi cuốn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

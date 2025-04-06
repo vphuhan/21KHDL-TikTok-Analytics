@@ -1,0 +1,84 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu phô mai con bò cười để trong ngăn đá.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Nguồn gốc",
+      "desc": "Học cách ăn này từ một bạn trên TikTok.",
+      "impact_level": "1",
+      "viewer_emotion": "Tin tưởng vào thông tin được chia sẻ."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Phô mai để ngăn đá có vị ngon như kem phô mai.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng, muốn thử ngay."
+    },
+    {
+      "step": "Cảm nhận",
+      "desc": "Phô mai lạnh, mát, dẻo, bớt ngấy hơn bình thường.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với cách ăn mới."
+    },
+    {
+      "step": "So sánh",
+      "desc": "Ăn được nhiều hơn so với phô mai thông thường.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với khả năng ăn nhiều."
+    },
+    {
+      "step": "Tiếc nuối",
+      "desc": "Tiếc vì đã không để thêm phô mai vào.",
+      "impact_level": "1",
+      "viewer_emotion": "Đồng cảm với sự tiếc nuối."
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Khuyên những ai ghét ăn phô mai nên thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử để thay đổi khẩu vị."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "lạ",
+    "thật"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ăn như là kem phô mai ý. Uầy, đúng thật!",
+    "Ăn nó lại kiểu dẻo dẻo cơ. Đúng như là kiểu mình đang ăn kem ý.",
+    "Bình thường ấy ai mà ghét ăn phô mai con bò cười, mọi người thử ăn theo cách này đi, có khi lại quay ngoắt lại mê phô mai con bò cười luôn ý chứ."
+  ],
+  "hook_content": "Phô mai mà để vào ngăn đá, ôi nhìn nó có lạ không?",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video chia sẻ cách ăn phô mai con bò cười mới lạ bằng cách để vào ngăn đá, giúp phô mai ngon như kem, bớt ngấy và ăn được nhiều hơn. Chủ kênh khuyến khích những ai không thích ăn phô mai nên thử cách này.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món hào sữa ngâm mắm cà tắc và nhắc lại món cũ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới và nhớ lại món cũ."
+    },
+    {
+      "step": "Nhấn mạnh ưu điểm",
+      "desc": "Nêu bật ưu điểm của món ăn mới so với món cũ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy món ăn mới hấp dẫn hơn."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Hướng dẫn cách sơ chế hào sữa để khử mùi tanh.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhớ các bước sơ chế."
+    },
+    {
+      "step": "Chuẩn bị sốt mắm",
+      "desc": "Nhắc lại công thức sốt mắm nhĩ đã hướng dẫn trước đó.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy quen thuộc với công thức."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Quảng cáo cà phê Laura của Nhật Kim Anh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị và công dụng của cà phê."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Miêu tả hương vị của hào sữa ngâm mắm cà tắc.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử ngay."
+    },
+    {
+      "step": "Kêu gọi làm thử",
+      "desc": "Khuyến khích khán giả tự làm món ăn tại nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử làm theo công thức."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bữa nào mọi người có hào thì làm ăn thử nghe, giờ thì mời mọi người ăn chung với tui."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "béo mềm",
+    "đậm đà",
+    "cay cay",
+    "vừa ăn vừa hít hà"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Món này là dành cho ai không có ăn được xứa mà lại thích ăn sốp mắm nhĩ nè, vừa dễ ăn mà ngon không có kém cạnh gì xứa luôn.",
+    "Hào sữa thì béo mềm, kết hợp với mắm nhĩ đậm đà cay cay, nói chứ vừa ăn vừa hít hà, vậy mới đúng gu tui đó."
+  ],
+  "hook_content": "Hello mọi người, lại là tui mặt bự tính nấu ăn đây.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm món hào sữa ngâm mắm cà tắc, món ăn được giới thiệu là dễ ăn và ngon miệng, phù hợp cho những ai không ăn được xứa. Bên cạnh đó, video còn quảng cáo cà phê Laura của Nhật Kim Anh.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

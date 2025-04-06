@@ -1,0 +1,86 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bò nhúng ớt, nhấn mạnh dễ làm, phù hợp tụ tập",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách làm món ăn"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu phần nước nhúng",
+      "desc": "Liệt kê nguyên liệu làm nước nhúng: ớt chuông, cà chua, hành tây, ớt",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin cơ bản"
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Hướng dẫn sơ chế mướp đắng, thịt bò, cách cắt và thái",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích với hướng dẫn cụ thể"
+    },
+    {
+      "step": "Trình bày món ăn",
+      "desc": "Hướng dẫn cách bày trí thịt bò lên đĩa sao cho đẹp mắt",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt"
+    },
+    {
+      "step": "Làm sốt",
+      "desc": "Xay nhuyễn hỗn hợp ớt chuông, cà chua, hành tây đã nấu mềm",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với cách làm sốt mới"
+    },
+    {
+      "step": "Nêm nếm và hoàn thành",
+      "desc": "Xào tỏi, rễ ngò, thêm hỗn hợp xay, nêm gia vị, hoàn thành",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức muốn thử làm theo"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Nên là mọi người thử nha.",
+    "Và đây là công thức của mình, mọi người có thể tham khảo nhưng mà nhớ gia giảm để mà phù hợp với khẩu vị cá nhân nhé."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Chia sẻ công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "chua chua",
+    "cay cay",
+    "ngọt ngọt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Món này làm dễ mà ăn ngon lại phù hợp với những buổi tụ tập với gia đình và bạn bè nữa.",
+    "Thay vì dùng tương cà tương ớt thì mọi người làm cái sốt này nấu nó sẽ ngon hơn cũng như là thơm hơn."
+  ],
+  "hook_content": "mọi người đã thử món bò nhúng ớt chưa?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm món bò nhúng ớt đơn giản, phù hợp cho các buổi tụ tập. Món ăn có vị chua cay ngọt đặc trưng, thơm mùi ớt và được ăn kèm với mướp đắng, rau đắng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

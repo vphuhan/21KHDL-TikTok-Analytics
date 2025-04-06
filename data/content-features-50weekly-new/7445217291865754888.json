@@ -1,0 +1,90 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Vivi giới thiệu món ăn hôm nay là bơ thực vật chấm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự kết hợp kỳ lạ."
+    },
+    {
+      "step": "Chấm socola",
+      "desc": "Vivi chấm bơ thực vật vào socola và ăn thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với hương vị béo ngậy."
+    },
+    {
+      "step": "Đánh giá lần 1",
+      "desc": "Nhận xét bơ thực vật chấm socola ngon, thơm, béo.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình với nhận xét ban đầu."
+    },
+    {
+      "step": "Nhược điểm",
+      "desc": "Chỉ ra nhược điểm của món ăn: dính và khó nuốt.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy hơi thất vọng."
+    },
+    {
+      "step": "Chấm sữa",
+      "desc": "Vivi chuyển sang chấm bơ thực vật với sữa đặc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị mới."
+    },
+    {
+      "step": "So sánh",
+      "desc": "So sánh và kết luận chấm socola ngon hơn chấm sữa.",
+      "impact_level": "2",
+      "viewer_emotion": "Gật gù đồng ý."
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Khuyên ai sợ béo thì không nên thử.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy được cảnh báo."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mời mọi người ăn cùng Vivi nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "béo",
+    "dính",
+    "khó nuốt",
+    "ngán"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ngon nha.",
+    "Thơm, béo.",
+    "Ăn ít thì cũng ngon á, nhưng mà ăn nhiều giống Vy là ngán à."
+  ],
+  "hook_content": "Hello mọi người, hôm nay Vivi sẽ ăn bơ thực vật, chấm sữa chấm sô-cô-la.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang của Vivi ăn bơ thực vật chấm sữa và socola, Vivi review hương vị và cảm nhận cá nhân về món ăn này.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

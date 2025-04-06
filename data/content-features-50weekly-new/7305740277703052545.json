@@ -1,0 +1,71 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu xúc xích vòng hun khói, giá và thông tin từ người bán.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin cơ bản về sản phẩm."
+    },
+    {
+      "step": "Ăn thử nguyên bản",
+      "desc": "Ăn và mô tả hương vị, độ giòn của xúc xích.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị khi khám phá hương vị mới."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Nhận xét về độ ngấy và các thành phần khác.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, đánh giá khách quan."
+    },
+    {
+      "step": "Ăn kèm tương ớt",
+      "desc": "Ăn cùng tương ớt và đánh giá sự khác biệt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với sự kết hợp mới."
+    },
+    {
+      "step": "Nhận xét hình dáng",
+      "desc": "Nhận xét về hình dáng cong của xúc xích.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, liên tưởng hài hước."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thích",
+    "đúng đỉnh"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mình rất thích cái vỏ này bởi vì khi ăn nó rất là giòn các bạn ạ.",
+    "Và sau khi mà chấm với tương ớt Chin-su thì mình thấy ăn nó đúng đỉnh luôn.",
+    "Cái này mình thấy giống kiểu mấy người hay đi lặn biển ấy, người ta hay đeo một cái mặt nạ có cái ống như này xong rồi bơi bơi."
+  ],
+  "hook_content": "Chào mọi người nha. Hôm nay thì mình sẽ ăn xúc xích vòng hun khói.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review xúc xích vòng hun khói vị heo, người nói thử ăn nguyên bản và chấm với tương ớt, đánh giá hương vị, độ giòn và độ ngấy của sản phẩm. Cuối cùng đưa ra nhận xét về hình dáng của xúc xích.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

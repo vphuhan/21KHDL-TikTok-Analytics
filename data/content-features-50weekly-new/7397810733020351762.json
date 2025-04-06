@@ -1,0 +1,94 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu bánh Takosenbei và các loại topping khác nhau.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các loại bánh và giá cả."
+    },
+    {
+      "step": "Phản ánh trải nghiệm chờ đợi",
+      "desc": "Chia sẻ trải nghiệm chờ đợi bánh lâu và so sánh với shipper khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Thông cảm với shipper và sự bất công."
+    },
+    {
+      "step": "Đánh giá bánh Takosenbei",
+      "desc": "Đánh giá độ ngon và hương vị của bánh, đặc biệt là lớp vỏ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thất vọng vì bánh không ngon như mong đợi."
+    },
+    {
+      "step": "Thử các loại topping",
+      "desc": "Thử thịt bò, khủng long, bạch tuộc và đánh giá hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của các loại topping."
+    },
+    {
+      "step": "Đánh giá đồ uống",
+      "desc": "Thử ly nước Khủng Long và đưa ra nhận xét.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có ấn tượng đặc biệt."
+    },
+    {
+      "step": "Nhận xét về clip Yoshi",
+      "desc": "Nhận xét về clip của Yoshi và cách che mặt.",
+      "impact_level": "1",
+      "viewer_emotion": "Không liên quan đến món ăn, gây xao nhãng."
+    },
+    {
+      "step": "Kết luận và từ chối chấm điểm",
+      "desc": "Không chấm điểm đồ ăn và cảm ơn người xem.",
+      "impact_level": "1",
+      "viewer_emotion": "Tôn trọng quyết định của người review."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "mọi người cứ tự tới đây mọi người ăn thử giùm em một cái, đừng có tin em nói nha",
+    "mình nghĩ là tất cả mọi người hãy tự tới quán này ăn và tự cảm nhận để đưa ra cái bình luận đúng nhất và đừng tin những gì mình review."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "cuốn",
+    "thắc mắc",
+    "tội nghiệp",
+    "tức",
+    "thật sự",
+    "nhạt",
+    "phản cảm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nhìn là muốn tuột luốt luôn. Nhìn là không muốn ngồi nói gì thêm luôn.",
+    "60 cành của mình là được một cái bánh nhạt cực kỳ.",
+    "Cái bạn nữ mà review cái bánh này á mà để mình phải ăn á, nợ mình một lời xin lỗi."
+  ],
+  "hook_content": "Trên mạng Taco Senpaitại Việt Nam. Tại Việt Nam, bánh này đơn giản ăn mà cuốn lắm.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review bánh Takosenbei và các loại topping tại một quán ăn. Người review không hài lòng về hương vị và giá cả, đồng thời chia sẻ trải nghiệm không tốt về thời gian chờ đợi và thái độ phục vụ.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Chân thành",
+    "Khó chịu"
+  ]
+}

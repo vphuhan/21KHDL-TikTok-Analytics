@@ -1,0 +1,83 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu vấn đề",
+      "desc": "Nấu bò kho tại nhà tốn thời gian và nguyên liệu đắt đỏ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về giải pháp."
+    },
+    {
+      "step": "Giải pháp",
+      "desc": "Cách nấu bò kho nhanh chóng, thịt mềm trong 15 phút.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú với bí quyết."
+    },
+    {
+      "step": "Chọn nguyên liệu",
+      "desc": "Chọn thịt bò vụn vừa nạc, vừa mỡ, vừa gân giá rẻ.",
+      "impact_level": "2",
+      "viewer_emotion": "Ghi nhớ thông tin hữu ích."
+    },
+    {
+      "step": "Sơ chế",
+      "desc": "Sả gừng khử mùi, cắt thịt bò miếng to, để ráo.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin cơ bản."
+    },
+    {
+      "step": "Ướp thịt bò",
+      "desc": "Công thức ướp với gói bột bò kho và nước khóm.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ hương vị."
+    },
+    {
+      "step": "Nấu bò kho",
+      "desc": "Xào thịt bò, thêm nước dừa, hớt bọt, nấu nhỏ lửa.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung quá trình nấu."
+    },
+    {
+      "step": "Hoàn thiện",
+      "desc": "Nêm nếm, thêm củ, bò viên, hành tây, thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng món ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "mềm",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "15 phút là cục bò nó mềm ú ụ ụ.",
+    "Bò teo heo nở nè là mấy bà cắt cục bò bự nha.",
+    "Nấu 15 phút bò mềm rồi thì mình cho cái phần củ vô mình nấu chừng 5 10 phút nữa là nó chín."
+  ],
+  "hook_content": "Mấy bà ngại nấu bò kho tại nhà tại vì bò nó mắc nè, với lại nấu nó lâu nó tốn ga đúng không?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách nấu bò kho nhanh và đơn giản tại nhà, chỉ trong 15 phút thịt bò sẽ mềm ngon. Bí quyết là ướp thịt bò với nước khóm và sử dụng thịt vụn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Nấu bún bò và làm chả quế để ăn bằng tô mới",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn và cách thực hiện."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Xay thịt gà, thịt heo và chuẩn bị các gia vị",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy quá trình chuẩn bị khá nhanh gọn."
+    },
+    {
+      "step": "Trộn và ướp thịt",
+      "desc": "Trộn thịt với gia vị, cho vào bọc và để ngăn đá",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Mua rau và nấu nước dùng",
+      "desc": "Đi siêu thị mua rau muống, nấu nước dùng bún bò",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với sự đảm đang của người nấu."
+    },
+    {
+      "step": "Quết chả",
+      "desc": "Lấy thịt ra quết bằng máy, chuẩn bị gói chả",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự tiện lợi của máy quết bột."
+    },
+    {
+      "step": "Gói và hấp chả",
+      "desc": "Gói chả bằng giấy nến và giấy bạc rồi hấp",
+      "impact_level": "1",
+      "viewer_emotion": "Lo lắng về việc dùng giấy nến."
+    },
+    {
+      "step": "Hoàn thiện và thưởng thức",
+      "desc": "Khoe chả tự làm và thưởng thức bún bò",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng món bún bò nóng hổi."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn bún bò chung cả nhà của bọn mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "nhức găn",
+    "mê",
+    "yên tâm",
+    "dẻo",
+    "dai"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Thời tiết giờ ấy thì mười mấy 12 13 độ, ở trong nhà có một tô bún bò như thế này ăn sao nhức găn luôn á.",
+    "Chả được làm tại nhà nhìn nó không có ngon bở ngoài nhưng cái độ dẻo độ dai nó hơi bị xịn luôn á."
+  ],
+  "hook_content": "hôm bữa mình có mua ba cái tô bự vậy để dành nấu bún bò ăn mà ta nói bận quá bữa nay mới có dịp rửa ba cái tô đó nè, nay mình sẽ làm chả quế rồi nấu thêm một nồi bún bò nữa ăn bằng cái tô mới mới được.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm chả quế và nấu bún bò tại nhà, bắt đầu bằng việc khoe tô mới mua, sau đó là các bước sơ chế, trộn nguyên liệu, nấu nước dùng và cuối cùng là thưởng thức món ăn nóng hổi.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng",
+    "Chân thành"
+  ]
+}

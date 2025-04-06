@@ -1,0 +1,87 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu tình huống",
+      "desc": "Đói bụng vào buổi chiều và tìm kiếm món ăn nhanh gọn.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm"
+    },
+    {
+      "step": "Phát hiện sản phẩm",
+      "desc": "Thấy em đang ăn xúc xích phô mai hấp dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Trải nghiệm thử",
+      "desc": "Xin ăn thử và đánh giá hương vị béo thơm.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Nhận xét chi tiết",
+      "desc": "Phô mai tan chảy, đầy ắp, lớp vỏ vàng óng.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng"
+    },
+    {
+      "step": "Thông tin sản phẩm",
+      "desc": "Xúc xích phô mai Mỹ, 30% trọng lượng là phô mai.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Gợi ý sử dụng",
+      "desc": "Ăn khi ngán món dầu mỡ hoặc mang đi chơi.",
+      "impact_level": "2",
+      "viewer_emotion": "Hữu ích"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Công nhận ăn cuốn và tranh thủ ăn hết.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "béo",
+    "ngon",
+    "khoái",
+    "thèm",
+    "cuốn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Xúc xích gì mà có nhân ngập tràn phô mai trong đây luôn vậy?",
+    "Nhìn chứ phô mai đầy ắp như này là khoái à.",
+    "Công nhận ăn cuốn ghê hay á."
+  ],
+  "hook_content": "Cứ mỗi lần tới giờ chiều là cái bụng lại đói cồn cào. Mà giờ đi nấu thì mất công quá, có cái nào ăn nhanh gọn lẹ hơn?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review xúc xích phô mai Rolling Key với nhân phô mai Mỹ béo ngậy, thơm ngon, phù hợp cho bữa ăn nhanh hoặc mang đi chơi. Người nói thể hiện sự thích thú và đánh giá cao hương vị của sản phẩm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

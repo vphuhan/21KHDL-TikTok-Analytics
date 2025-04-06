@@ -1,0 +1,91 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Xin số và mua há cảo",
+      "desc": "Xin số yêu thích và mua số lượng há cảo tương ứng từ bà.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự tương tác dễ thương."
+    },
+    {
+      "step": "Giới thiệu xe há cảo",
+      "desc": "Giới thiệu về xe há cảo súp cua xíu mại ở Quận 5.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, nắm bắt thông tin cơ bản."
+    },
+    {
+      "step": "Review súp cua",
+      "desc": "Đánh giá súp cua về giá cả, thành phần và hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thèm thuồng và muốn thử."
+    },
+    {
+      "step": "Hỗ trợ bà bán hàng",
+      "desc": "Hỗ trợ bà bán hàng, xin hành phi và chia sẻ khó khăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm động và muốn giúp đỡ."
+    },
+    {
+      "step": "Ăn thử há cảo, xíu mại",
+      "desc": "Đánh giá há cảo, xíu mại về giá cả, vỏ và nhân.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị và chất lượng."
+    },
+    {
+      "step": "Tâm sự về gánh hàng",
+      "desc": "Chia sẻ về sức khỏe của bà và sự vất vả khi bán hàng.",
+      "impact_level": "3",
+      "viewer_emotion": "Xúc động và thương cảm."
+    },
+    {
+      "step": "Ăn thêm bánh tráng",
+      "desc": "Ăn thêm bánh tráng nướng ở hàng kế bên vì thấy hấp dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đói bụng và thèm ăn."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Có gì thì mọi người ghé ủng hộ bà nghe."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "dễ thương",
+    "ngon",
+    "hấp dẫn",
+    "thèm",
+    "no no"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Chiếc xe há cảo súp cua xíu mại quá là dễ thương này ở Quận 5 chắc không còn xa lạ gì với mọi người nữa rồi đúng không?",
+    "Vậy là Hân đã hoàn thành xong hết 69 viên há cảo xíu mại trong vòng 14 phút 40 giây.",
+    "Ăn xong cũng hơi no no rồi nhưng nghía qua thấy bánh tráng nướng của chị kế bên cũng hấp dẫn quá nên tấp vô làm một cái."
+  ],
+  "hook_content": "Cho con xin một cái số mà bà thích đi. Số gì? Số nào cũng được. 69. 69. Vậy bây giờ bà bán cho con 69 viên nha.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review xe há cảo súp cua xíu mại ở Quận 5, TP.HCM, với điểm nhấn là trải nghiệm mua 69 viên há cảo theo số yêu thích và chia sẻ về gánh hàng của bà ngoại lớn tuổi. Hân cũng review thêm bánh tráng nướng ở hàng kế bên.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

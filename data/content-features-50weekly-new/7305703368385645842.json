@@ -1,0 +1,91 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bún cá và cách ăn hài hước, gây tò mò.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự hài hước."
+    },
+    {
+      "step": "Chuẩn bị nước dùng",
+      "desc": "Nấu nước dùng bằng nồi áp suất từ xương cá và xương lợn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin cơ bản."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Mua và sơ chế cá, cà chua, rau cần, hành.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Xào cà chua, sứa",
+      "desc": "Phi hành, xào cà chua và sứa để tạo màu cho nước dùng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, một bước trong nấu ăn."
+    },
+    {
+      "step": "Chiên cá",
+      "desc": "Lăn cá qua bột và chiên giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn vì cá giòn."
+    },
+    {
+      "step": "Hoàn thiện nước dùng",
+      "desc": "Thêm dứa, cà chua, nêm gia vị và mắm vào nước dùng.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi đói bụng."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Cho bún, cá, rau vào tô và thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bác nào có lỡ thèm tô bún cá giống em thì ăn online với nhà em nhá."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngọt",
+    "thơm",
+    "ngon",
+    "mặn mòi",
+    "ăn không thở nổi",
+    "bõ mồm",
+    "ngon vãi cả chưởng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ôi này chỉ ăn cơm với cá đã hôn má ai đâu?",
+    "bỏ má về theo anh luôn",
+    "em mà ăn bún chan kiểu gì cũng phải có bát hành ngâm sổi này, ăn cùng với bún. Nó ngon vãi cả chưởng, hết cả nước."
+  ],
+  "hook_content": "ôi này chỉ ăn cơm với cá đã hôn má ai đâu?",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn nấu bún cá tại nhà một cách nhanh gọn và hài hước, từ khâu chuẩn bị nguyên liệu đến khi hoàn thành món ăn hấp dẫn. Người xem được mời \"ăn online\" cùng người nấu.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

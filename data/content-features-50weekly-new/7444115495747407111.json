@@ -1,0 +1,86 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu cơm trộn Maika và các món ăn khác của quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn."
+    },
+    {
+      "step": "Đánh giá cơm trộn",
+      "desc": "Đánh giá chi tiết về hương vị và thành phần của cơm trộn.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến trải nghiệm thực tế."
+    },
+    {
+      "step": "Đánh giá bún Thái",
+      "desc": "Nhận xét về bún Thái hải sản và so sánh với mong đợi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thắc mắc về hương vị đặc trưng."
+    },
+    {
+      "step": "Review bánh",
+      "desc": "Mua và thử các loại bánh khác nhau từ bà Mai.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng của món ăn."
+    },
+    {
+      "step": "Kêu gọi ủng hộ",
+      "desc": "Kêu gọi mọi người ủng hộ quán bánh của bà Mai.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn giúp đỡ người bán."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Nói chung là cảm ơn mọi người đã coi clip của mình.",
+    "Bye bye và đây cũng chỉ là quan điểm cá nhân của tui thôi mọi người nên tự đi ăn và tự cảm nhận"
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "béo",
+    "cay",
+    "mặn",
+    "chua",
+    "ấn tượng",
+    "thích",
+    "lạ miệng",
+    "vừa phải",
+    "ổn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nóng hổi vừa thổi vừa ăn luôn đó bốc khói luôn.",
+    "Cái điểm mà tôi ấn tượng nhất ở quán này á là cái độ thơm bơ và cái độ béo.",
+    "Cái vị nó sẽ thuần Việt Nam một chút xíu nên là mình ăn mình cảm thấy rất là dễ chịu."
+  ],
+  "hook_content": "Trên mạng quán ăn Maika. Ngoài đời nha mọi người ơi, cơm Maika đây, mọi người nhìn qua bên kia em mới vừa mua luôn, mọi người kêu hả là ăn mấy cái món này phải ăn nóng khỏi ai ý kiến với cái kênh của tôi nữa.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quán cơm trộn Maika và các món ăn khác như bún Thái, bánh gối. Người review chia sẻ trải nghiệm cá nhân về hương vị, chất lượng món ăn và kêu gọi ủng hộ quán bánh của bà Mai.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

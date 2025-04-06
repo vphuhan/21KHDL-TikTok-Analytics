@@ -1,0 +1,57 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu tình huống",
+      "desc": "Giới thiệu về việc cắt giò ngày Tết và nỗi lo bị chê trách.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với cách diễn đạt hài hước."
+    },
+    {
+      "step": "Chia sẻ cách cắt giò",
+      "desc": "Hướng dẫn cắt giò kiểu to nhưng vẫn giữ được nét điệu đà.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thú vị với cách tạo hình sáng tạo."
+    },
+    {
+      "step": "Đặt tên cho kiểu cắt",
+      "desc": "Đặt tên cho kiểu cắt giò là 'Thiên Nga cụp cánh' và hỏi ý kiến.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị và muốn biết thêm các kiểu khác."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "điệu"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "nhỡ tôi cắt giò thành hoa thì các bác bảo là bố chồng chửi chết, mẹ chồng thì cầm đòn gánh đuổi",
+    "với cái tính điệu của tôi thì giò vẫn cứ phải là uốn lượn tí tẹo",
+    "Thiên Nga cụp cánh"
+  ],
+  "hook_content": "nhỡ tôi cắt giò thành hoa thì các bác bảo là bố chồng chửi chết, mẹ chồng thì cầm đòn gánh đuổi, ông bà thì mắng té tát.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ cách cắt giò ngày Tết một cách sáng tạo và hài hước, với kiểu cắt được đặt tên là 'Thiên Nga cụp cánh'. Người nói lo lắng về việc bị chê trách nếu cắt giò không đúng cách.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

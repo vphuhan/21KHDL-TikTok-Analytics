@@ -1,0 +1,90 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Mập Bự giới thiệu món mì trộn siêu cay tự làm tại nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món mì trộn."
+    },
+    {
+      "step": "Nêu lý do thực hiện",
+      "desc": "Chia sẻ lý do làm mì trộn vì đã ăn nhiều mì nước.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin thêm về sở thích."
+    },
+    {
+      "step": "Hướng dẫn trộn mì",
+      "desc": "Hướng dẫn trộn mì với lòng đỏ trứng, mayonnaise và sốt mì.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với công thức trộn mới."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhấn mạnh mì trộn béo thơm và không bị tanh.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi thèm thuồng, muốn thử ngay."
+    },
+    {
+      "step": "Giới thiệu topping",
+      "desc": "Giới thiệu các loại topping hấp dẫn cho món mì.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với sự đa dạng của topping."
+    },
+    {
+      "step": "Đánh giá tổng quan",
+      "desc": "Nhấn mạnh độ béo ngậy và ít cay của mì trộn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy món này rất đáng thử."
+    },
+    {
+      "step": "Mời thưởng thức",
+      "desc": "Mời mọi người cùng ăn và gợi ý thời điểm lý tưởng.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn được ăn cùng và thấy đói bụng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi nghen."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "béo ngậy",
+    "siêu béo thơm",
+    "hấp dẫn",
+    "đã"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "mì trộn siêu cay tại nhà",
+    "công thức béo ngậy tuyệt đối",
+    "tối tối mà có một tô mì cay full topping vừa ăn vừa xem phim kiểu này là quá xá đã luôn"
+  ],
+  "hook_content": "Hello mọi người, lại là tôi, Mập Bự thích nấu ăn đây.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn cách làm mì trộn siêu cay tại nhà với công thức béo ngậy, kèm theo các loại topping hấp dẫn. Người làm video mời mọi người cùng ăn và gợi ý thời điểm lý tưởng để thưởng thức món ăn này.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

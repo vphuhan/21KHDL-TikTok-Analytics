@@ -1,0 +1,69 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Út giới thiệu món đậu hũ cá phô mai và các nguyên liệu ăn kèm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Bắt đầu thưởng thức",
+      "desc": "Út bắt đầu ăn đậu hũ cá phô mai và mô tả hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Út tiếp tục ăn và miêu tả chi tiết hơn về hương vị và cảm nhận.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Kết hợp với cà chua",
+      "desc": "Út ăn đậu hũ cá phô mai với cà chua và nhận xét.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "béo",
+    "ngon",
+    "mềm",
+    "rạo rạo miệng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cái viên này ở ngoài khi mà chiên xong nó sẽ rất là thơm luôn á mọi người.",
+    "Nó nũng nà nũng nĩnh nữa.",
+    "Út thấy ăn kèm với cà chua thì nó sẽ rạo rạo miệng á."
+  ],
+  "hook_content": "Mời mọi người ăn cùng Út nghe.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video mukbang của Út Phụng Kim, mời mọi người ăn đậu hũ cá phô mai chiên kèm với ớt chuông, dưa leo, cà chua và sốt mayonnaise. Út mô tả chi tiết hương vị béo ngậy, mềm mại và cảm giác 'rạo rạo miệng' khi ăn kèm cà chua.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

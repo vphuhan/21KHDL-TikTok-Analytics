@@ -1,0 +1,95 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về việc đi thăm bè cá và chuẩn bị nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về loại cá lạ."
+    },
+    {
+      "step": "Mô tả cá",
+      "desc": "Miêu tả đặc điểm và sự thay đổi màu sắc của cá.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với thông tin."
+    },
+    {
+      "step": "Chế biến",
+      "desc": "Mô tả công đoạn chiên cá và chuẩn bị các món ăn kèm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, tập trung vào quá trình."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu và quảng cáo viên uống cung xạ hương.",
+      "impact_level": "1",
+      "viewer_emotion": "Không liên quan đến ẩm thực lắm."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Trải nghiệm ăn cá và mô tả hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng món ăn."
+    },
+    {
+      "step": "Cảm nhận",
+      "desc": "Chia sẻ cảm xúc no bụng và thỏa mãn sau bữa ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với sự hài lòng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "mạnh",
+    "dữ dằn",
+    "ngại miệng",
+    "mát rượi",
+    "đẹp",
+    "yên tâm",
+    "khỏe",
+    "vui vẻ",
+    "ngon miệng",
+    "vui lây",
+    "đói",
+    "chắc",
+    "dẻ",
+    "ngọt",
+    "giòn",
+    "béo",
+    "cay cay",
+    "đúng bài",
+    "mắt rượi",
+    "căng da bụng trùng da mắt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ba mình đem cái lồng lên mà nó rung lắc như là cái máy giặt vậy đó.",
+    "Lâu hết sức mới ăn được cái chén nước mắm me của mẹ làm nhưng mà phải là bốn trái ớt nha.",
+    "Ăn xong no nê ngủ một giấc tới chiều là im luôn."
+  ],
+  "hook_content": "Bữa giờ giờ luôn thì tới hôm nay mới có thời gian đi qua bè.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video ghi lại cảnh tác giả đi thăm bè cá nhà nuôi, chế biến và thưởng thức món cá chiên xù với nước mắm me cùng gia đình. Bên cạnh đó, tác giả cũng giới thiệu về một loại thực phẩm chức năng hỗ trợ sức khỏe.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

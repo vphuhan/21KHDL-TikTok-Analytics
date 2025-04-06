@@ -1,0 +1,92 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu về quán cháo sườn sụn ở phố cổ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán ăn."
+    },
+    {
+      "step": "Miêu tả công thức",
+      "desc": "Chia sẻ về công thức nấu cháo sườn gia truyền.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Gọi món và giới thiệu",
+      "desc": "Gọi hai bát cháo đầy đủ và miêu tả nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Trải nghiệm hương vị",
+      "desc": "Đánh giá hương vị cháo sườn sụn và cảm nhận.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn ăn thử ngay lập tức."
+    },
+    {
+      "step": "So sánh và đánh giá",
+      "desc": "So sánh với quán khác và đánh giá chất lượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến sự khác biệt."
+    },
+    {
+      "step": "Thông tin bổ sung",
+      "desc": "Nhấn mạnh về rúp nấm và quẩy giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với món ăn kèm."
+    },
+    {
+      "step": "Kết luận và địa điểm",
+      "desc": "Khuyến khích đến ăn và thông tin đặt hàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong muốn ghé thăm quán."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người mà không tiện qua thì có thể đặt trên app là cháo Thắng Phùng Hưng, nhưng mà nên đến ăn tại quán sẽ ngon hơn rất nhiều.",
+    "Bà bán từ sáng đến tối mọi người đi qua này và ăn thử xem."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Ăn cùng",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "cực ngon",
+    "thơm",
+    "cuốn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn xong cái bát cháo sườn ở đây thì những cái quán cháo sườn mình từng ăn chỉ còn là cái tên.",
+    "cháo sườn sụn cực ngon luôn. 35.000đ một bát này nó là quá nhiều ấy mà là rẻ.",
+    "rúp nấm cực thơm mà càng ăn lại càng cuốn"
+  ],
+  "hook_content": "Cái phố cổ là các cụ là cứ cháo sườn như này này, không phải nếm đâu, không phải nếm.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu quán cháo sườn sụn nổi tiếng ở phố cổ, Hà Nội, với công thức gia truyền và nguyên liệu tự làm. Người bán review hương vị món ăn, đặc biệt là rúp nấm, và khuyên nên đến quán ăn trực tiếp để trải nghiệm hương vị ngon nhất.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

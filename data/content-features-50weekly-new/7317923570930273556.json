@@ -1,0 +1,74 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bò cuộn nấm kim châm và giá thành khi mua.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự hấp dẫn của món ăn."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê và sơ chế các nguyên liệu cần thiết.",
+      "impact_level": "1",
+      "viewer_emotion": "Nắm bắt được các nguyên liệu cần thiết."
+    },
+    {
+      "step": "Cuộn nấm và bò",
+      "desc": "Hướng dẫn cuộn nấm kim châm với thịt bò.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được cách làm món ăn."
+    },
+    {
+      "step": "Áp chảo bò",
+      "desc": "Hướng dẫn áp chảo thịt bò cho chín.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung được cách chế biến món ăn."
+    },
+    {
+      "step": "Làm nước sốt",
+      "desc": "Hướng dẫn làm nước sốt cho món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của món ăn."
+    },
+    {
+      "step": "Hoàn thành và thưởng thức",
+      "desc": "Gợi ý thưởng thức món ăn với cơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đói bụng và thèm ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "hấp dẫn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ai mà cưỡng lại sức hút được của bò cuộn nấm kim châm đâu.",
+    "Bữa nay ở nhà làm bò cuộn nấm kim châm với tôi mà làm bằng bò tươi nha.",
+    "Này thì đi bới thêm tô cơm nữa là xong."
+  ],
+  "hook_content": "Bò cuộn nấm kim châm này mỗi lần ra ngoài ăn là ta nói một dĩa cả trăm nghìn.",
+  "hook_type": [
+    "So sánh"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món bò cuộn nấm kim châm tại nhà với nguyên liệu tươi ngon và chi phí tiết kiệm hơn so với ăn ở ngoài hàng.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

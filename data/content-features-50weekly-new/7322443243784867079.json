@@ -1,0 +1,86 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về bánh sữa và số lượng người xem livestream.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Lý do mua",
+      "desc": "Giải thích lý do mua ba loại bánh sữa độc lạ.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Thử bánh thượng hạng",
+      "desc": "Đánh giá bánh sữa thượng hạng, tập trung vào độ mềm dẻo.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Thử bánh hoa cúc",
+      "desc": "Đánh giá bánh sữa hoa cúc, hương vị cần cảm nhận kỹ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Thử bánh sữa non",
+      "desc": "Nhận xét về độ ngọt và béo của bánh sữa non.",
+      "impact_level": "2",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Khẳng định chất lượng bánh thượng hạng và khuyến khích thử.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mọi người nên thử một lần trong đời"
+  ],
+  "cta_type": [
+    "Ăn cùng",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "độc lạ",
+    "mềm",
+    "dẻo",
+    "tươi",
+    "ít ngọt",
+    "béo",
+    "chất lượng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mình xem trên livestream thì mình biết bánh sữa anh chị bán là loại độc quyền, được đặt với công thức riêng.",
+    "Mọi người có thể thấy thì bánh sữa hảo hạng mềm và dẻo hơn bởi bánh sữa truyền thống.",
+    "Mình thấy loại thượng hạng đúng với cái tên của nó nhá."
+  ],
+  "hook_content": "Đây là loại truyền thống và đây là loại thượng hạng.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang bánh sữa thượng hạng, trong đó người bán review và ăn thử ba loại bánh sữa độc đáo, đặc biệt nhấn mạnh vào chất lượng của bánh sữa thượng hạng và khuyến khích người xem nên thử.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

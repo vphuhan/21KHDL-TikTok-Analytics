@@ -1,0 +1,92 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu gói thực phẩm nhân đạo của Mỹ, mục đích và giá.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về sản phẩm."
+    },
+    {
+      "step": "Mở hộp và giới thiệu các thành phần",
+      "desc": "Mở hộp và liệt kê các thành phần có trong gói.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Thử nghiệm đậu Hà Lan sốt cà chua",
+      "desc": "Nếm thử đậu Hà Lan sốt cà chua và mô tả hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị khi biết hương vị món ăn."
+    },
+    {
+      "step": "Thử nghiệm rau củ hầm lúa mạch",
+      "desc": "Nếm thử rau củ hầm lúa mạch và so sánh với mì tôm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn thử."
+    },
+    {
+      "step": "Thử nghiệm bánh mì cắt lát",
+      "desc": "Thử bánh mì cắt lát và so sánh với bánh quy.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với sự so sánh."
+    },
+    {
+      "step": "Thử nghiệm yến mạch",
+      "desc": "Thử gói yến mạch, mô tả vị ngọt và chua.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị."
+    },
+    {
+      "step": "Thử nghiệm bánh mì nướng đường nâu",
+      "desc": "Thử bánh mì nướng đường nâu, mô tả mùi vị lạ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về mùi vị lạ."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "ngon ghê",
+    "mặn",
+    "chua",
+    "ngọt",
+    "bùi",
+    "gắt",
+    "lạ"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cái này ăn ngon phết. Vị khá là giống với cả nước mì tôm nhưng mà nó nhiều vị chua.",
+    "Bánh này ngon nha. Cái bánh này thì nó cũng mềm dẻo. Khi mới ăn thì cảm giác cái vị ngọt nó thanh nhưng mà ăn về cuối thì mình lại thấy cái vị ngọt của nó khá là gắt. Và cái mùi của nó thì rất là lạ, mùi giống kiểu mùi thịt kho ấy.",
+    "Ăn vị nó hơi mặn mặn cộng với cả cái vị bùi bùi của bơ đậu phộng, ăn mình thấy rất là ngon luôn. Cái này ngon nhất đấy."
+  ],
+  "hook_content": "Đây là cái gói thực phẩm nhân đạo của Mỹ mọi người ạ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review gói thực phẩm nhân đạo của Mỹ, tập trung vào trải nghiệm và đánh giá hương vị của từng món ăn bên trong. Người nói đưa ra cảm nhận chi tiết về độ ngon, lạ của sản phẩm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

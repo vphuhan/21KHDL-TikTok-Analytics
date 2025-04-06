@@ -1,0 +1,95 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu xúc xích phô mai hot trend từ Thái Lan.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ hot của món ăn."
+    },
+    {
+      "step": "Địa điểm mua",
+      "desc": "Thông báo địa điểm bán xúc xích phô mai tại Sài Gòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến địa điểm ăn uống."
+    },
+    {
+      "step": "Mô tả sản phẩm",
+      "desc": "Miêu tả chi tiết về xúc xích phô mai và da gà chiên.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng khi nghe mô tả."
+    },
+    {
+      "step": "Lưu ý khi ăn",
+      "desc": "Nhắc nhở không nên ăn ngay khi mới chiên xong.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết thêm một mẹo nhỏ."
+    },
+    {
+      "step": "Nhấn mạnh trải nghiệm",
+      "desc": "Nhấn mạnh sự cuốn hút của món ăn khi ăn kèm phô mai.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử ngay lập tức."
+    },
+    {
+      "step": "Thông tin về giá",
+      "desc": "Thông báo về giá cả hợp lý so với hàng nhập từ Thái.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy có lợi khi mua."
+    },
+    {
+      "step": "Cam kết về giá",
+      "desc": "Cam kết bán giá tốt nếu hàng Thái rẻ hơn.",
+      "impact_level": "1",
+      "viewer_emotion": "Tin tưởng vào người bán."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bạn nào mà chưa qua Thái bắt chen được á thì ghé qua đây ăn nghe."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "hot",
+    "ầm ầm",
+    "cuốn",
+    "khủng khiếp",
+    "rẻ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ăn vô là bắn ầm ầm ầm ầm",
+    "ở Sài Gòn này không ai bắt chen nhanh như ở đây",
+    "Bẻ ra nó chảy tung tóe hết trơn á"
+  ],
+  "hook_content": "Đây, cái này là xúc xích phô mai, xúc xích phô mai nó hot ầm ầm bên Thái Lan á, ăn vô là bắn ầm ầm ầm ầm, rồi thêm bắn súng nữa đó.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu món xúc xích phô mai đang hot ở Thái Lan và địa điểm bán món này tại Sài Gòn, kèm theo da gà chiên giòn ăn kèm sốt phô mai. Chủ quán cam kết bán giá tốt cho học sinh, sinh viên.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

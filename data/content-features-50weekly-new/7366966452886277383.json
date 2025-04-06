@@ -1,0 +1,90 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ghẹ ngâm tương và ghẹ sốt cay tự làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Sơ chế ghẹ",
+      "desc": "Hướng dẫn rửa và ngâm ghẹ với rượu sochu, giấm để khử mùi.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến bí quyết khử mùi tanh."
+    },
+    {
+      "step": "Làm ghẹ sốt cay",
+      "desc": "Hướng dẫn làm sạch ghẹ và trộn với rượu để ghẹ tái.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với cách làm ghẹ tái nhanh chóng."
+    },
+    {
+      "step": "Pha sốt cay",
+      "desc": "Hướng dẫn pha sốt với nước tương, nước mơ, ớt bột, tỏi, gừng.",
+      "impact_level": "2",
+      "viewer_emotion": "Học được công thức pha sốt đơn giản."
+    },
+    {
+      "step": "Trộn ghẹ với sốt",
+      "desc": "Trộn ghẹ đã tái với ớt bột và gạch ghẹ, để tủ lạnh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món ghẹ trộn béo ngậy."
+    },
+    {
+      "step": "Làm ghẹ ngâm tương",
+      "desc": "Vớt ghẹ đã ngâm ra và chuẩn bị nước tương để ngâm ghẹ.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ món ghẹ ngâm tương."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Cả gia đình cùng ăn và đánh giá hai món ghẹ.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy vui vẻ và muốn thử làm theo."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Giờ mời mọi người bới tô cơm ra ăn chung với cả nhà của mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngọt",
+    "béo",
+    "cay",
+    "ngon",
+    "thơm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mình còn đang định mở quán bán ghẹ ngâm tương nữa mà.",
+    "Trời ơi ngọt nổi ơi.",
+    "Thịt ghẹ nó thấm tới bên trong luôn mà giở nắp kia nó thơm bát ngát gì á."
+  ],
+  "hook_content": "Nay mình đã vượt qua được cái món ghẹ ngâm tương này rồi nè mọi người.",
+  "hook_type": [
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm hai món ghẹ: ghẹ ngâm tương và ghẹ sốt cay. Người làm chia sẻ công thức chi tiết và mời mọi người cùng ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

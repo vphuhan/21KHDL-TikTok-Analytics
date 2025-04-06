@@ -1,0 +1,86 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán buffet",
+      "desc": "Nhấn mạnh giá rẻ và số lượng món ăn đa dạng tại quán buffet.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về chất lượng so với giá."
+    },
+    {
+      "step": "Đánh giá chất lượng",
+      "desc": "Khẳng định chất lượng đồ ăn và không gian của quán buffet.",
+      "impact_level": "3",
+      "viewer_emotion": "Tin tưởng vào lời khuyên."
+    },
+    {
+      "step": "Mô tả món ăn đặc biệt",
+      "desc": "Tập trung vào món lồng mỡ Hàn Quốc và cách thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử."
+    },
+    {
+      "step": "Đánh giá các món khác",
+      "desc": "Nhấn mạnh sự đa dạng và chất lượng của các loại thịt nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy an tâm về lựa chọn."
+    },
+    {
+      "step": "Ưu đãi và khuyến mãi",
+      "desc": "Giới thiệu các ưu đãi đi kèm và chi phí cuối cùng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn vì tiết kiệm."
+    },
+    {
+      "step": "Kết luận và địa điểm",
+      "desc": "Khuyến khích thử quán và cung cấp địa chỉ cụ thể.",
+      "impact_level": "2",
+      "viewer_emotion": "Sẵn sàng ghé thăm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Có gì mấy bà tham khảo thử nghe."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "rẻ",
+    "mê",
+    "thơm",
+    "béo",
+    "giòn giòn dai dai"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Với cái giá này mà ăn uống kiểu này tôi nói rẻ cũng không uổng nữa.",
+    "Nướng cái lồng này lên nè, nó giòn giòn dai dai. Cái lớp mỡ bên trong á nó tươm ra. Cắn một cái ha, ta nói nó xịt cái mỡ ra nó thơm mà nó béo lắm kìa.",
+    "Thiệt là ở Sài Gòn đối với bà kiếm được cái quán buffet giá 189k mà có cái món lồng mỡ Hàn Quốc này luôn á."
+  ],
+  "hook_content": "Giá buffet 189.000 á thì mấy bà đòi hỏi cái gì hơn nữa?",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán buffet Rakuen BBQ với giá 189k, nổi bật với món lồng mỡ Hàn Quốc. Người quay đánh giá cao chất lượng món ăn so với giá cả.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu các món ăn được chế biến từ cá vồ đém.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Giới thiệu nguyên liệu",
+      "desc": "Giới thiệu các nguyên liệu tươi ngon được bắt từ tự nhiên.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Nướng ốc",
+      "desc": "Nướng ốc gợi nhớ kỷ niệm tuổi thơ.",
+      "impact_level": "2",
+      "viewer_emotion": "Bồi hồi"
+    },
+    {
+      "step": "Ăn ốc nướng",
+      "desc": "Thưởng thức ốc nướng với muối tiêu chanh.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấm áp"
+    },
+    {
+      "step": "Giới thiệu bữa cơm",
+      "desc": "Giới thiệu bữa cơm gia đình với cá kho và canh chua.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Thưởng thức bữa cơm",
+      "desc": "Cả nhà quây quần bên mâm cơm.",
+      "impact_level": "3",
+      "viewer_emotion": "Hạnh phúc"
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Đánh giá hương vị và cảm nhận về món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "sướng",
+    "vui",
+    "ngon",
+    "thèm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nhà mình sẽ làm cá vồ đém hai món, nấu canh chua với lại là kho tộ.",
+    "Nồi canh chua dì nấu với rau muống rồng với tai tượng thôi mà tao nói ăn ngon nhất nách luôn á.",
+    "Rau nhút hồi xưa, rau nhút này ăn lại mà tưởng rồi nè."
+  ],
+  "hook_content": "Mấy bữa nay, sư huynh nhà mình nó về Việt Nam là nó sướng nhất luôn á mọi người.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại bữa cơm gia đình ấm cúng với món cá vồ đém hai món (canh chua và kho tộ) do dì nấu, cùng với các món ăn kèm khác như ốc nướng. Người làm video chia sẻ trải nghiệm ăn uống và kỷ niệm tuổi thơ.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hài hước"
+  ]
+}

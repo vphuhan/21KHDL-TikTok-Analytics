@@ -1,0 +1,93 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món chả cá quết bánh tráng, nhấn mạnh hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Cách làm chả cá",
+      "desc": "Hướng dẫn trộn chả cá với thì là, hành lá, tiêu, nước mắm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy công thức có vẻ đơn giản."
+    },
+    {
+      "step": "Mẹo quết chả cá",
+      "desc": "Hướng dẫn quết chả cá mỏng lên bánh tráng rồi gấp lại.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ với cách làm độc đáo."
+    },
+    {
+      "step": "Chiên chả cá",
+      "desc": "Hướng dẫn chiên chả cá với lửa nhỏ đến khi vàng giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy đói bụng khi nhìn chả cá chiên."
+    },
+    {
+      "step": "Pha nước chấm",
+      "desc": "Hướng dẫn pha nước mắm chấm đơn giản với ớt.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Miêu tả hương vị chả cá giòn, dai, ngọt khi chấm mắm.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn ăn thử ngay lập tức."
+    },
+    {
+      "step": "Nhận xét chung",
+      "desc": "Nhấn mạnh món ăn dễ làm, ngon để ăn vặt hoặc ăn cơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy món ăn phù hợp để thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Vậy thì mọi người thử nha."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "đỉnh nóc",
+    "giòn",
+    "dai",
+    "ngọt",
+    "lạ miệng",
+    "dễ làm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "làm mấy món chiên, miếng đầu vừa mới chiên xong nóng hổi, chấm thêm một ít nước mắm ngon vào nữa phải gọi là đỉnh nóc luôn",
+    "mấy món chiên này mà gặp mình á, miếng đầu lúc nào cũng được mong chờ nhất không bao giờ mà thoát khỏi được mình đâu",
+    "bên ngoài thì nó giòn, phần chả cá mình tự làm, tự quết nên là nó dai, nó ngọt, chấm thêm một ít nước mắm nữa, vừa lạ miệng"
+  ],
+  "hook_content": "Phải công nhận á là làm mấy món chiên, miếng đầu vừa mới chiên xong nóng hổi, chấm thêm một ít nước mắm ngon vào nữa phải gọi là đỉnh nóc luôn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu món chả cá quết bánh tráng chiên giòn, hướng dẫn cách làm đơn giản từ khâu trộn chả cá đến chiên và pha nước chấm, nhấn mạnh hương vị thơm ngon và dễ làm tại nhà.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

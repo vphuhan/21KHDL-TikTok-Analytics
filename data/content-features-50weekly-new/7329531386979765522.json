@@ -1,0 +1,88 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu sườn bò Úc mua từ kênh anh Nam Vlog.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món sườn bò."
+    },
+    {
+      "step": "Nướng sườn",
+      "desc": "Nướng sườn bằng nồi chiên không dầu ở 180 độ trong 20 phút.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin nấu nướng."
+    },
+    {
+      "step": "Trải nghiệm hương vị",
+      "desc": "Nhận xét về độ mềm của thịt và hương vị của sốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng, muốn ăn thử."
+    },
+    {
+      "step": "Gợi ý kết hợp",
+      "desc": "Gợi ý ăn kèm với bánh mì, khoai tây, rau củ luộc, cơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy có nhiều cách ăn hấp dẫn."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Đánh giá độ thấm của sốt và độ mềm của thịt bò.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy món ăn hấp dẫn."
+    },
+    {
+      "step": "Nhấn mạnh hương vị",
+      "desc": "Nhấn mạnh hương vị ngon như lúc ban đầu.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn tìm mua và ăn ngay."
+    },
+    {
+      "step": "Chấm điểm",
+      "desc": "Chấm điểm 10 cho món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Tin tưởng vào độ ngon của món ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "đã",
+    "thèm",
+    "ngon",
+    "vừa ăn",
+    "thơm",
+    "mềm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cái món này tha lấy cái bánh mì à xé ra mà quệt lên miếng sốt ăn, trời ơi nó đã dữ lắm luôn á mọi người.",
+    "Mọi người thấy mình cắn miếng bò mà nhẹ nhàng ghê không, tức là bò nó mềm vô cùng luôn á.",
+    "Cái bò này mình thấy ngon nhất á là cái sốt nó thấm từ bên trong ra tới bên ngoài rất là đều."
+  ],
+  "hook_content": "Ê mọi người! Cái miếng sườn bò mà kéo xương ra như vậy thấy đã ghê không?",
+  "hook_type": [
+    "Gây tò mò",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video mukbang món sườn bò Úc nướng bằng nồi chiên không dầu, người ăn đánh giá cao độ mềm của thịt và hương vị đậm đà của sốt, đồng thời gợi ý các cách kết hợp món ăn khác nhau.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

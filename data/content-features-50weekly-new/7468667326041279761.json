@@ -1,0 +1,89 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ngọc kê hấp hành gừng và cảm nhận ban đầu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị."
+    },
+    {
+      "step": "Chia sẻ trải nghiệm mua nguyên liệu",
+      "desc": "Chia sẻ về việc mua ngọc kê và nhận xét về kích thước.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Hướng dẫn sơ chế và ướp",
+      "desc": "Hướng dẫn rửa sạch, xắt nguyên liệu và ướp ngọc kê.",
+      "impact_level": "2",
+      "viewer_emotion": "Học hỏi được cách sơ chế."
+    },
+    {
+      "step": "Giới thiệu sản phẩm khác",
+      "desc": "Giới thiệu cà phê Laura và chương trình khuyến mãi.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến khuyến mãi."
+    },
+    {
+      "step": "Nếm thử và miêu tả",
+      "desc": "Miêu tả hương vị ngọc kê hấp và muối ớt.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng ăn ngọc kê hấp hành gừng.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thân thiện."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người tranh thủ hốt nha, hốt dữ lắm.",
+    "Giờ thì mời mọi người ăn chung với tôi nghen."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngọt",
+    "nóng",
+    "ngon",
+    "béo",
+    "tê tái tâm hồn",
+    "thanh thản thần",
+    "nóng môi",
+    "mê"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ăn ngọc kê nhiều rồi mà lần đầu tiên tôi hấp ngọc kê với hạnh gừng.",
+    "Mà nha ngọc kê mình hấp theo kiểu này là chỉ nghe được cái mùi thơm cực kỳ hấp dẫn.",
+    "Ngọc kê thì cái nào cái nấy, thanh thản thần mà nóng môi hỏi, làm một lần hai cái rồi quẫn tiêm miếng muối ớt, quất một cái nhập miệng, ta nói nó béo mà mình cắn tới đâu xịt nước tới đó đã gì đâu."
+  ],
+  "hook_content": "ăn ngọc kê nhiều rồi mà lần đầu tiên tôi hấp ngọc kê với hạnh gừng.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video giới thiệu món ngọc kê hấp hành gừng, chia sẻ trải nghiệm mua và chế biến, đồng thời miêu tả hương vị hấp dẫn và mời mọi người cùng thưởng thức. Bên cạnh đó, video còn giới thiệu sản phẩm cà phê và chương trình khuyến mãi.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

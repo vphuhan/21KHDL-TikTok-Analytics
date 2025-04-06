@@ -1,0 +1,89 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Mẹ của Nhợn tự pha nước rửa chén để tiết kiệm chi phí.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách làm nước rửa chén tự chế."
+    },
+    {
+      "step": "Phát hiện",
+      "desc": "Nhợn thấy mẹ xách về một bịch lạ sau khi đi đâu đó.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Giải thích",
+      "desc": "Mẹ Nhợn tiết lộ đó là bịch pha nước rửa chén.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với công dụng của gói pha chế."
+    },
+    {
+      "step": "Thực hiện",
+      "desc": "Mẹ Nhợn pha nước rửa chén theo hướng dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú khi thấy nước rửa chén dần hình thành."
+    },
+    {
+      "step": "Ủ và hoàn thiện",
+      "desc": "Nước rửa chén sau khi ủ trở nên đặc và sánh mịn.",
+      "impact_level": "2",
+      "viewer_emotion": "Hài lòng với kết quả sau khi ủ."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Mẹ Nhợn pha được 10 lít nước rửa chén.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với số lượng nước rửa chén làm ra."
+    },
+    {
+      "step": "Kiểm chứng",
+      "desc": "Mẹ Nhợn dùng thử và thấy rửa sạch, hài lòng.",
+      "impact_level": "3",
+      "viewer_emotion": "Tin tưởng vào chất lượng nước rửa chén tự pha."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "tiết kiệm",
+    "lạ",
+    "thắc mắc",
+    "tin",
+    "thơm",
+    "đã",
+    "sạch bon bóng",
+    "quá chừng đã"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "tao mới được bà Sáu cho cái bịch pha nước rửa chén. Bả nói cái bịch pha nước rửa chén này nè, pha ra cả 10 lít nước rửa chén lận. Pha một lần là xài cả năm luôn đó con.",
+    "Trời ơi, khúc này là khỏi tin cũng phải tin nữa nghe, nó ra cái màu nước rửa chén rồi nè, mà nó còn lên bọt nhiều nữa, ta nói nó đã dữ gì trời.",
+    "Bả châm xà bông bả đánh bọt lên bả rửa cái chảo sạch bon bóng hớ luôn."
+  ],
+  "hook_content": "Trời ơi, thấy có ai tiết kiệm giống mẹ của Nhợn không?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video kể về việc mẹ của Nhợn tự pha nước rửa chén từ một bịch nguyên liệu được cho, giúp tiết kiệm chi phí và có lượng lớn nước rửa chén để dùng lâu dài. Mẹ của Nhợn rất hài lòng với kết quả và chất lượng của nước rửa chén tự pha.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

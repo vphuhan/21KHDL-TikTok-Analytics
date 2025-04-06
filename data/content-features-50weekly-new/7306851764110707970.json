@@ -1,0 +1,89 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món hột vịt lộn um bầu, một đặc sản vùng miền.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn đặc sản."
+    },
+    {
+      "step": "Chuẩn bị nấu",
+      "desc": "Rủ mẹ làm theo công thức trên mạng, giới thiệu nguyên liệu.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, chờ đợi các bước tiếp theo."
+    },
+    {
+      "step": "Thực hiện nấu",
+      "desc": "Hướng dẫn các bước xào hành, cho bầu, nước dừa, hột vịt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với cách nấu khác lạ."
+    },
+    {
+      "step": "Thắc mắc về công thức",
+      "desc": "Băn khoăn về lượng nước, hỏi công thức chuẩn từ người địa phương.",
+      "impact_level": "1",
+      "viewer_emotion": "Tự hỏi liệu công thức có đúng không."
+    },
+    {
+      "step": "Hoàn thiện món ăn",
+      "desc": "Cho mồng tơi, nêm nếm gia vị đơn giản, hoàn thành món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức muốn nếm thử."
+    },
+    {
+      "step": "Thưởng thức và cảm nhận",
+      "desc": "Cảm nhận vị ngọt của món ăn, chia sẻ trải nghiệm ăn ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn ăn ngay."
+    },
+    {
+      "step": "Tổng kết và gợi ý",
+      "desc": "Nhấn mạnh sự bổ dưỡng, gợi ý làm món này vào mùa mưa.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích và muốn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "cho nên mọi người cứ tham khảo thử nha.",
+    "Bye bye."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngọt",
+    "ngán"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nói thiệt là cái món hột vịt lộn um bầu, không những mẹ mình mà nhiều người ở xóm còn không biết món này.",
+    "Công nhận cái nước nó ngọt ơi là ngọt luôn.",
+    "Mà cái này mùa mưa mưa lạnh lạnh làm món này ăn thì còn gì bằng ha."
+  ],
+  "hook_content": "Nói thiệt là cái món hột vịt lộn um bầu, không những mẹ mình mà nhiều người ở xóm còn không biết món này.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn nấu món hột vịt lộn um bầu, một món ăn đặc sản có thể ít người biết đến. Người nấu chia sẻ công thức học được trên mạng và trải nghiệm nấu cùng mẹ, đồng thời nêu cảm nhận về hương vị món ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

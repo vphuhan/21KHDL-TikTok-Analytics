@@ -1,0 +1,93 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán ăn",
+      "desc": "Giới thiệu quán bún bò Huế O Thủy và món bún bò thập cẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán ăn và món bún bò."
+    },
+    {
+      "step": "Miêu tả trải nghiệm tìm quán",
+      "desc": "Chia sẻ về việc tìm địa chỉ mới của quán và hương vị Huế.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm với khó khăn khi tìm quán."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Miêu tả chi tiết tô bún bò thập cẩm và các thành phần.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và muốn thử món bún bò."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét về nước lèo, bún, chả và đặc biệt là hành ngâm.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với hương vị đặc trưng của món ăn."
+    },
+    {
+      "step": "So sánh và làm nổi bật",
+      "desc": "So sánh bún bò Huế với bún bò Sài Gòn, nhấn mạnh đặc trưng.",
+      "impact_level": "2",
+      "viewer_emotion": "Hiểu rõ hơn về sự khác biệt của bún bò Huế."
+    },
+    {
+      "step": "Trò chuyện với chủ quán",
+      "desc": "Tương tác với chủ quán, khen ngợi hương vị Huế.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm nhận được sự chân thật của đánh giá."
+    },
+    {
+      "step": "Lời kêu gọi",
+      "desc": "Giới thiệu quán cho mọi người và chúc quán phát triển.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng và muốn ghé thăm quán."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết",
+    "Truyền thống"
+  ],
+  "cta_content": [
+    "Giới thiệu với toàn thể anh em bà con nhá. Đây là bún bò Huế O Thủy rất là ngon chuẩn vị Huế luôn nhá."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "thích",
+    "ưng",
+    "hương của Huế nhẹ nhàng",
+    "hương thơm nồng nàn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Vừa mới bước tới cửa quán là tôi đã cảm nhận một cái hương vị rất chi là Huế rồi.",
+    "Ăn miếng hành ở đây thích cực kỳ luôn nó vừa có vị chua chua của giấm vừa có vị mặn mặn của mắm lại kèm thêm cả hương vị nồng nồng của hành nữa.",
+    "Giới thiệu với toàn thể anh em bà con nhá. Đây là bún bò Huế O Thủy rất là ngon chuẩn vị Huế luôn nhá."
+  ],
+  "hook_content": "ơi à? Em đi có một người thôi. Ok anh. Em thấy được bảo giới thiệu quán của chị ăn bún bò rất ngon.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán bún bò Huế O Thủy ở Sài Gòn, tập trung vào trải nghiệm cá nhân khi tìm quán, đánh giá hương vị đặc trưng của món bún bò và khen ngợi các thành phần như hành ngâm. Video kết thúc bằng lời giới thiệu quán cho mọi người.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

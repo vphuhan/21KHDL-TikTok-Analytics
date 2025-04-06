@@ -1,0 +1,81 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Tóc Vàng giới thiệu các món ăn cay sẽ ăn trong video.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn được giới thiệu."
+    },
+    {
+      "step": "Giới thiệu đồ uống",
+      "desc": "Giới thiệu các loại cocktail khác nhau để uống kèm đồ cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng của đồ uống."
+    },
+    {
+      "step": "Bắt đầu ăn",
+      "desc": "Tóc Vàng bắt đầu ăn các món cay và chia sẻ cảm nhận.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng và phấn khích."
+    },
+    {
+      "step": "Phản ứng với độ cay",
+      "desc": "Phản ứng với độ cay của món ăn và tìm cách giảm cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với cảm giác cay của người ăn."
+    },
+    {
+      "step": "Tiếp tục ăn và đánh giá",
+      "desc": "Tiếp tục ăn và đưa ra những đánh giá về món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung vào cảm nhận của người ăn."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Gửi lời chào tạm biệt và hẹn gặp lại trong video sau.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, sẵn sàng xem video khác."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Cảm ơn bạn đã xem video của Tóc Vàng, hẹn gặp lại bạn vào video lần sau."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "cay",
+    "hấp dẫn",
+    "ngon",
+    "đã"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cay quá bạn ơi. Mà bạn nên dùng nhiều đường các bạn, nó lấn át cái vị cay.",
+    "Wow, ngon quá."
+  ],
+  "hook_content": "Chào bạn, hôm nay Vàng sẽ ăn đồ cay nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang của Tóc Vàng ăn các món cay như hào, nấm kim châm, nấm đùi gà và măng, kết hợp với cocktail. Tóc Vàng vừa ăn vừa chia sẻ cảm nhận về độ cay và hương vị của món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

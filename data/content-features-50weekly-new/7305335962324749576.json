@@ -1,0 +1,88 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu buffet nướng 139k ở Bắc Từ Liêm với nhiều món.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy địa điểm ăn uống mới."
+    },
+    {
+      "step": "Đồ ăn",
+      "desc": "Liệt kê các món nướng đa dạng và quầy đồ chiên hấp dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng các món ăn."
+    },
+    {
+      "step": "Buffet phô mai",
+      "desc": "Giới thiệu buffet phô mai 15k với phô mai kéo sợi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về buffet phô mai."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Nhận xét về hương vị và chất lượng món nướng, sốt chấm.",
+      "impact_level": "2",
+      "viewer_emotion": "Cân nhắc xem có hợp khẩu vị không."
+    },
+    {
+      "step": "Tráng miệng",
+      "desc": "Đánh giá món tráng miệng bánh su kem, không quá ngọt.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn thử bánh su kem."
+    },
+    {
+      "step": "Kêu gọi",
+      "desc": "Rủ rê cuối tuần tụ tập bạn bè đến quán lẩu nướng.",
+      "impact_level": "1",
+      "viewer_emotion": "Tìm kiếm địa điểm tụ tập."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "anh em quận Bắc Từ Liêm lưu ngay địa chỉ này vào nhá.",
+    "Cuối tuần rồi mà chưa biết tụ tập bạn bè ở đâu thì các bác nhớ lưu lại địa chỉ lẩu nướng này vào nhá."
+  ],
+  "cta_type": [
+    "Lưu video",
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "hấp dẫn",
+    "ngon",
+    "béo",
+    "đa dạng",
+    "thơm thơm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Buffet 139 thôi mà quá trời đồ",
+    "lòng bò ở đây người ta để cả miếng to thật sự luôn ấy",
+    "lòng bò ăn không cũng đã béo rồi mà còn chấm thêm cả sốt phô mai nữa thì đúng là phải gọi là béo gấp đôi"
+  ],
+  "hook_content": "anh em quận Bắc Từ Liêm lưu ngay địa chỉ này vào nhá.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video giới thiệu buffet nướng 139k ở quận Bắc Từ Liêm với nhiều món ăn hấp dẫn, đặc biệt có buffet phô mai 15k. Người quay đánh giá các món ăn đa dạng, sốt chấm ngon và lòng bò miếng to.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

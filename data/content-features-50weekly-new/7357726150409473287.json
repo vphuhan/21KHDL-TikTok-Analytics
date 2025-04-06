@@ -1,0 +1,64 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món hột gà nướng và những khó khăn khi ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Khó khăn khi ăn",
+      "desc": "Diễn tả sự vất vả, khó khăn khi ăn hột gà nướng.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Quyết tâm",
+      "desc": "Thể hiện quyết tâm không bỏ cuộc để ăn hột gà nướng.",
+      "impact_level": "3",
+      "viewer_emotion": "Vui vẻ"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Drama",
+    "Sáng tạo"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "Khó khăn",
+    "Quyết tâm",
+    "Không bỏ cuộc"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Lần nào ăn hột gà nướng cũng gặp kiếp nạn",
+    "Không bỏ cuộc",
+    "Mọi chuyện sẽ về đi"
+  ],
+  "hook_content": "Trả lời @nhandeptrai123 ngo lần nào ăn hột gà nướng cũng gặp kiếp nạn",
+  "hook_type": [
+    "Phản hồi bình luận",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kịch hóa"
+  ],
+  "summarization": "Video ghi lại quá trình ăn hột gà nướng của một bạn trẻ, với nhiều khó khăn và quyết tâm không bỏ cuộc. Video mang tính giải trí cao.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

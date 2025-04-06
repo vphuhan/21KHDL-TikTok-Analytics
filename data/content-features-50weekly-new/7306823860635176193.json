@@ -1,0 +1,96 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu bữa trưa với xôi và gợi ý món uống kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn được giới thiệu."
+    },
+    {
+      "step": "Khám phá tủ lạnh",
+      "desc": "Tìm đồ uống trong tủ lạnh và chọn 7Up soda chanh.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Review gà hấp",
+      "desc": "Thưởng thức và đánh giá món gà hấp mía.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món gà hấp."
+    },
+    {
+      "step": "Kết hợp bánh mì",
+      "desc": "Ăn bánh mì chà bông với soda chanh.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy ngon miệng và thích thú."
+    },
+    {
+      "step": "Đánh giá bữa ăn",
+      "desc": "Nhận xét về sự hợp lý của combo bữa trưa.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình với nhận xét."
+    },
+    {
+      "step": "Uống hết soda",
+      "desc": "Uống hết 3 lon soda chanh và muốn mua thêm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thích thú và muốn thử."
+    },
+    {
+      "step": "Kết thúc video",
+      "desc": "Uống thêm một ngụm soda và kết thúc video.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "sảng khoái",
+    "thơm",
+    "đã",
+    "sảng khoái",
+    "ngọt",
+    "thơm",
+    "béo",
+    "cay cay",
+    "mát lạnh",
+    "ngập",
+    "béo béo",
+    "mặn mặn",
+    "đã",
+    "hợp lý"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "cắn miếng bánh ngập chà bông bơ béo béo mặn mặn, rồi khui thêm lon làm một ngụm soda chanh nữa là quá đã luôn",
+    "Để làm trước ngụm mà công nhận cái vị soda chanh này uống sảng khoái thiệt cả nhà.",
+    "Nhất là miếng da gà béo ừm chấm miếng muối ớt cay cay vậy nè."
+  ],
+  "hook_content": "người ta có câu sáng ăn xôi tối ăn sang, còn trưa nay thì ăn cái gì không biết.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ về bữa trưa với gà hấp mía và bánh mì chà bông, kết hợp uống soda chanh để tăng thêm sự sảng khoái. Người nói đánh giá cao sự kết hợp này và khuyến khích mọi người thử.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

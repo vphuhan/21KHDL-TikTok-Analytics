@@ -1,0 +1,87 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Lấy nguyên liệu còn sót lại trong tủ lạnh để nấu ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Nấu canh",
+      "desc": "Chế biến món canh đậu hũ non hải sản từ thịt xay.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Làm sốt tương đen",
+      "desc": "Xào thịt với hành và bột tương đen để làm sốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Nấu cơm rang",
+      "desc": "Rang cơm với trứng và tôm, không nêm gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Hoàn thiện và trình bày",
+      "desc": "Cho cơm ra tô, thêm sốt tương đen và canh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng thưởng thức bữa cơm gia đình.",
+      "impact_level": "1",
+      "viewer_emotion": "Ấm áp"
+    },
+    {
+      "step": "Tặng quà bất ngờ",
+      "desc": "Tặng quà cho người thân và xem phản ứng.",
+      "impact_level": "3",
+      "viewer_emotion": "Vui vẻ"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn cơm chung với cả nhà mình."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ghiền",
+    "mềm tan đã",
+    "ngon quá chừng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn cái canh đậu hũ non này kiểu bị ghiền luôn, nó mềm tan đã lắm.",
+    "Khoảng tầm 20 ngày mà bây giờ không dọn từ từ á thì mai mốt sau 20 ngày qua cái tủ lạnh dục luôn."
+  ],
+  "hook_content": "Hôm nay mình sẽ dọn tủ lạnh còn cái gì nấu đói nha mọi người, giờ tạo bất ngờ cho ông anh mình với ba tui.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình nấu cơm rang sốt tương đen và canh đậu hũ non hải sản từ những nguyên liệu còn lại trong tủ lạnh, sau đó tạo bất ngờ cho người thân bằng một món quà.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

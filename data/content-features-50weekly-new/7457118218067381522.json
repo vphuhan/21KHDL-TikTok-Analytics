@@ -1,0 +1,99 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu trứng gà nướng phô mai và lý do review.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn được giới thiệu."
+    },
+    {
+      "step": "Đánh giá trứng phô mai",
+      "desc": "Nhận xét về độ béo, vị vừa phải, và sự kết hợp quyện.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và muốn thử."
+    },
+    {
+      "step": "Đánh giá trứng Tứ Xuyên",
+      "desc": "Nhấn mạnh độ cay, không hợp khẩu vị cá nhân.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy món này quá cay."
+    },
+    {
+      "step": "Đánh giá trứng sa tế",
+      "desc": "So sánh với ốc sốt sa tế, vị cay chua đậm đà.",
+      "impact_level": "2",
+      "viewer_emotion": "Liên tưởng tới các món ăn quen thuộc."
+    },
+    {
+      "step": "Đánh giá trứng ngâm",
+      "desc": "Nhận xét về vị đậm đà vừa phải và sự ôn hòa.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đây là một món ăn dễ chịu."
+    },
+    {
+      "step": "So sánh các món",
+      "desc": "Thích trứng phô mai nhất vì sự cân bằng.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình với lựa chọn của người review."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Cảm ơn và xin lỗi nếu biểu cảm không chuẩn mực.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thoải mái và thân thiện."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người đã coi clip của em",
+    "Bái bai, cảm ơn mọi người đã coi clip của mình."
+  ],
+  "cta_type": [
+    "Chia sẻ công thức"
+  ],
+  "emotion_keywords": [
+    "béo",
+    "thơm",
+    "cay",
+    "ngon",
+    "dễ thương",
+    "đáng yêu",
+    "vừa phải",
+    "cân bằng",
+    "ngậy",
+    "ấm dề"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái trứng gà nó đã béo rồi mà cái phô mai nó còn béo!",
+    "Cái phô mai dễ thương quá mà biết sao không? Nó chua chua, trứng nó mặn mặn, rồi nó béo béo, nó sẽ kết hợp với thành là chua mặn béo.",
+    "Chúng ta thuộc về nhau, chúng ta không là của nhau, nhưng mà thật ra chúng ta cũng không không tệ."
+  ],
+  "hook_content": "Có đu mạ mạ ái Trời má! Trên mạng trứng gà nướng phô mai, ngoài đời trứng gà nướng phô mai nha mọi người ơi, mình đã coi cái bạn Coocvy này ăn cái món này cũng khá là lâu rồi, nhưng mà hôm nay cảm thấy là bị bí content đó mọi người nên mình bắt buộc là mình phải ăn cái món này thử, tại vì mình thấy cái món này nó cũng không phải nằm ở trong cái một đồ ăn độc lạ, với lại thật là đồ ăn quá quá quá là cái gì đó mà mình phải review, tại vì mình thấy món này khá là cơ bản.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review 4 loại trứng gà nướng: phô mai, Tứ Xuyên, sa tế và trứng ngâm. Chủ kênh đánh giá cao trứng phô mai nhất vì sự cân bằng hương vị.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

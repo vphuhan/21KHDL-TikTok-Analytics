@@ -1,0 +1,91 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu làm heo quay bằng chảo và nồi chiên không dầu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự khác biệt."
+    },
+    {
+      "step": "Sơ chế và tẩm ướp",
+      "desc": "Luộc thịt, khứa, tẩm ướp gia vị theo công thức.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với công thức."
+    },
+    {
+      "step": "Quảng cáo tương ớt",
+      "desc": "Giới thiệu chai tương ớt lớn mua ở Lotte.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Nướng bằng nồi chiên",
+      "desc": "Nướng thịt bằng nồi chiên không dầu hai lần.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến nhiệt độ và thời gian."
+    },
+    {
+      "step": "Chiên bằng chảo",
+      "desc": "Chiên thịt bằng chảo hai lần, lửa nhỏ.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi lo lắng về việc bị bắn dầu."
+    },
+    {
+      "step": "Làm nước chấm",
+      "desc": "Pha nước chấm từ tương ớt, đường, nước tương...",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn thử ngay công thức nước chấm."
+    },
+    {
+      "step": "Thưởng thức và so sánh",
+      "desc": "Ăn thử và so sánh hai cách làm, thích nồi chiên hơn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn làm theo."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Nhất định mọi người phải thử cái nước chấm này."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "cay",
+    "dễ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Công thức nước chấm này mà mọi người chấm heo quay á là đảm bảo ngon không lối về luôn.",
+    "Với mình á thì mình sẽ thích ăn nồi chiên không dầu hơn, tại vì đỡ tốn dầu mà rất là dễ nữa.",
+    "Nhất định mọi người phải thử cái nước chấm này. Đỉnh thiệt sự."
+  ],
+  "hook_content": "Heo quay mà làm bằng chảo với lại cả nồi chiên không dầu á thì theo như mọi người thì cái nào ăn sẽ ngon hơn?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "So sánh"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "So sánh"
+  ],
+  "summarization": "Video so sánh cách làm heo quay bằng nồi chiên không dầu và chảo, đồng thời hướng dẫn làm nước chấm. Người làm thấy thích heo quay bằng nồi chiên hơn vì dễ và đỡ tốn dầu.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

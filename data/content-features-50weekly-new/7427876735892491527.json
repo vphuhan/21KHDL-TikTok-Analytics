@@ -1,0 +1,80 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Tìm đường đến quán",
+      "desc": "Hỏi đường và mô tả đường đi vào quán khá hẹp.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về con đường"
+    },
+    {
+      "step": "Khám phá không gian",
+      "desc": "Đi lên cầu thang và ngạc nhiên với không gian quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi bất ngờ"
+    },
+    {
+      "step": "Trải nghiệm quán",
+      "desc": "Cảm nhận không gian chill và view đẹp của quán.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú, thư giãn"
+    },
+    {
+      "step": "Gợi ý thời điểm",
+      "desc": "Đề xuất thời điểm lý tưởng để đến quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong muốn đến thử"
+    },
+    {
+      "step": "Gợi ý chụp ảnh",
+      "desc": "Gợi ý chụp ảnh sống ảo tại quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn đến chụp ảnh"
+    },
+    {
+      "step": "Thông tin quán",
+      "desc": "Thông báo tên quán và vị trí.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "chill",
+    "đẹp mê",
+    "sợ"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đặc sản của Hà Nội là phải đi vào những chỗ ngóc ngách như này thì mới tìm được quán chất lượng nha.",
+    "Nhìn đường phố rồi là dòng người qua lại có khi quên cả lối về ấy chứ.",
+    "Bác nào mà có góc nhìn điện ảnh tí thì kiểu gì cũng cho ra được vài bức ảnh sống ảo siêu xịn sò luôn."
+  ],
+  "hook_content": "Cô ơi cho con hỏi đường vào quán cà phê ở đây đúng không ạ?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán cafe Nắng Coffee ở Hà Nội, tập trung vào trải nghiệm đường đi khó khăn nhưng thú vị, không gian chill và view đẹp của quán, đồng thời gợi ý thời điểm và góc chụp ảnh lý tưởng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

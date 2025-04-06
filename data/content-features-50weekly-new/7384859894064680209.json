@@ -1,0 +1,78 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Dẫn vào bàn",
+      "desc": "Nhân viên nhà hàng dẫn khách vào bàn đã đặt trước.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thủ tục cơ bản."
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Nhân viên xác nhận món đã order và gợi ý mang lên.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy lịch sự, chuyên nghiệp."
+    },
+    {
+      "step": "Phục vụ món ăn",
+      "desc": "Nhân viên mang món chân gà và đồ uống ra cho khách.",
+      "impact_level": "1",
+      "viewer_emotion": "Chờ đợi xem món ăn thế nào."
+    },
+    {
+      "step": "Thanh toán",
+      "desc": "Nhân viên thông báo hóa đơn và các hình thức thanh toán.",
+      "impact_level": "1",
+      "viewer_emotion": "Giá hơi cao so với mong đợi."
+    },
+    {
+      "step": "Đánh giá dịch vụ",
+      "desc": "Khách hàng đánh giá không hài lòng về chất lượng món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ, thất vọng."
+    },
+    {
+      "step": "Hứa hẹn quay lại",
+      "desc": "Khách hàng hứa hẹn sẽ quay lại dù không hài lòng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về lý do quay lại."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo",
+    "Kiến thức"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "không hài lòng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nếu như mà có sao âm ấy thì anh cho âm 10 điểm.",
+    "Anh anh order cái món chicken gì ấy nhưng mà mang ra thì cái gì giống như cái gói chân gà 10k ở ngoài quán ấy.",
+    "Để anh suy nghĩ nhưng mà chắc là có đấy."
+  ],
+  "hook_content": "Anh ơi cho em hỏi mình đặt bàn chưa ạ?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Kịch hóa",
+    "Đối thoại"
+  ],
+  "summarization": "Video hài hước về trải nghiệm đi ăn nhà hàng sang trọng nhưng chất lượng món ăn không tương xứng. Khách hàng không hài lòng nhưng vẫn hứa hẹn quay lại.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Châm biếm",
+    "Khó chịu"
+  ]
+}

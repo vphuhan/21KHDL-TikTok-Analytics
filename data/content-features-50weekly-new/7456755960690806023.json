@@ -1,0 +1,80 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu ba loại kem Celano: socola, sữa tươi trân châu, caramel muối.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các hương vị khác nhau."
+    },
+    {
+      "step": "Đánh giá kem socola",
+      "desc": "Đánh giá độ lạnh, chất kem mịn và hương thơm của kem socola.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự miêu tả hấp dẫn."
+    },
+    {
+      "step": "Đánh giá kem trân châu đường đen",
+      "desc": "Đoán vị, đánh giá trân châu dai, nhận xét vừa miệng và ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi thất vọng vì kem bị chảy."
+    },
+    {
+      "step": "Đánh giá kem caramel muối",
+      "desc": "Ăn kem với bánh mì, gợi nhớ tuổi thơ, khen ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thích thú và muốn thử."
+    },
+    {
+      "step": "Đánh giá tổng quan",
+      "desc": "Đánh giá kem Celano đẹp trai, chiến, hát hay, không cô đơn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hài hước và thú vị."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "cool",
+    "lạnh",
+    "mịn",
+    "thơm",
+    "ngon",
+    "ngon phết",
+    "vừa"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Review cực công tâm kem của CEO Hiếu thứ hai dưới góc độ là không muốn ngủ một mình đêm nay đâu.",
+    "Gọi là phải dám thử này, dám chơi này thì mới lại khơi được những cái món độc lạ như này chứ lị!",
+    "Tôi đánh giá là cái kem Celano này rất là đẹp trai, rất là chiến, hát rất là hay và đặc biệt là không ngủ một mình."
+  ],
+  "hook_content": "kem của chủ tịch Hiếu thứ hai.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review 3 vị kem Celano (socola, sữa tươi trân châu đường đen và caramel muối) một cách hài hước và công tâm. Người nói thử kem, đưa ra cảm nhận về hương vị, độ lạnh và kết hợp với bánh mì để tăng trải nghiệm.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

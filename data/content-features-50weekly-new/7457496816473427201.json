@@ -1,0 +1,68 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu tương ớt Vifon khi ăn sủi chiên, nhấn mạnh độ thơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn biết hương vị tương ớt."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Tương ớt Vifon hợp với món chiên, cay dịu, tôn vị món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn ăn thử ngay lập tức."
+    },
+    {
+      "step": "Miêu tả thành phần",
+      "desc": "Tương ớt có xác ớt tươi, vị tỏi, cà chua, tạo cảm giác mê.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng sản phẩm."
+    },
+    {
+      "step": "Thao tác ăn",
+      "desc": "Chấm nhiều tương ớt để tăng thêm hương vị đậm đà.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy ngon miệng, muốn bắt chước theo."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "ngon",
+    "cay dịu nhẹ",
+    "tê tê",
+    "mê"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ăn mấy món chiên này nè, phải có tương ớt vi phong nè, giống như mình ăn bánh mì mà có ba tê vậy đó.",
+    "Tương ớt vi phong này nè, nó cay dịu nhẹ. Nó tê tê ở đầu lưỡi thôi à, nhưng mà mình ăn vô mình cảm nhận được cái độ ngon của đồ ăn á.",
+    "Trong đây là nó có xác ớt tươi nè, rồi thêm vị tỏi và cà chua tươi nữa, ăn mê thật sự luôn á."
+  ],
+  "hook_content": "Rồi mời anh Tâm chiên sủi với em nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu và đánh giá tương ớt Vifon khi ăn kèm món chiên, nhấn mạnh vị cay dịu nhẹ, thơm ngon và thành phần tự nhiên.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

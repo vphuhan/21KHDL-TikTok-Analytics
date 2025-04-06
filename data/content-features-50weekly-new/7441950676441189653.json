@@ -1,0 +1,79 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món sò dương khổng lồ hấp muối đang gây sốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ lớn của sò."
+    },
+    {
+      "step": "Nguồn gốc và giá",
+      "desc": "Chia sẻ nơi mua sò uy tín và giá cả.",
+      "impact_level": "1",
+      "viewer_emotion": "Quan tâm đến địa chỉ mua."
+    },
+    {
+      "step": "Quá trình chế biến",
+      "desc": "Mô tả quá trình hấp sò và thời gian hấp.",
+      "impact_level": "1",
+      "viewer_emotion": "Hình dung về cách chế biến."
+    },
+    {
+      "step": "Thưởng thức và đánh giá",
+      "desc": "Trải nghiệm ăn và đánh giá hương vị, chất lượng sò.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn ăn thử."
+    },
+    {
+      "step": "Nhấn mạnh chất lượng",
+      "desc": "Khẳng định sò tươi ngon, không cát nhờ nguồn cung uy tín.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng sản phẩm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mời mọi người ăn chung với tôi nghen"
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "thèm",
+    "ngọt",
+    "dai",
+    "béo ngậy",
+    "đáng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Hồi đó giờ mọi người có thấy con sò dương nào mà bự chảng thần như vậy chưa?",
+    "ăn một cái là ngập miệng",
+    "ăn con nào là đáng con đó luôn"
+  ],
+  "hook_content": "Hồi đó giờ mọi người có thấy con sò dương nào mà bự chảng thần như vậy chưa?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món sò dương hấp muối siêu to khổng lồ, chia sẻ trải nghiệm ăn và đánh giá chất lượng sò tươi ngon, không cát, được mua từ địa chỉ uy tín. Người xem được mời ăn cùng để tăng tính tương tác.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

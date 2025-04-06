@@ -1,0 +1,80 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bánh cuốn canh Cao Bằng và sự khác biệt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự khác biệt của món ăn."
+    },
+    {
+      "step": "Mô tả chi tiết",
+      "desc": "Mô tả bánh cuốn, nhân thịt, nước hầm xương và cách ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng khi nghe mô tả."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá sự kết hợp hương vị và cảm giác khi ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm giác muốn thử ngay lập tức."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Đánh giá lượng bánh và giới thiệu món thạch đen.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy món ăn này khá hấp dẫn."
+    },
+    {
+      "step": "Xếp hạng và gợi ý",
+      "desc": "Chấm điểm và gợi ý món ăn tiếp theo của tỉnh khác.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về món ăn tiếp theo."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Tiếp theo là món ăn của tỉnh nào mọi người comment cho mình biết nhá."
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "mê",
+    "ngọt",
+    "mát",
+    "béo ngậy",
+    "vừa",
+    "muốn ăn thêm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bánh cuốn canh có nguồn gốc từ Cao Bằng, đặc trưng là bánh cuốn ăn cùng nước hầm xương chứ không phải là nước mắm như mình thường ăn.",
+    "Sự kết hợp của bánh cuốn với nước xương béo ngậy cùng chút rau thơm, ngọt ngọt của trứng và trả giò và mùi dịu nhẹ của quả mắc mật khiến cho mình càng ăn lại càng muốn ăn thêm.",
+    "Món này mình cho chín điểm nằm trong top một bảng xếp hạng."
+  ],
+  "hook_content": "Tiếp tục series xếp hạng và chấm điểm món ăn truyền thống của 63 tỉnh thành Việt Nam.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video giới thiệu và đánh giá món bánh cuốn canh Cao Bằng, một phiên bản bánh cuốn ăn cùng nước hầm xương thay vì nước mắm, với các thành phần đặc trưng như bánh tráng mịn, nhân thịt không mộc nhĩ và nước hầm xương béo ngậy. Người nói bày tỏ sự yêu thích và đánh giá cao món ăn này.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu gói bột pha bò húc và so sánh với bò húc thật.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm mới."
+    },
+    {
+      "step": "Pha chế và quan sát",
+      "desc": "Pha bột và quan sát màu sắc, so sánh với bò húc thật.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với quá trình so sánh màu sắc."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Uống thử và mô tả hương vị, so sánh với bò húc thật.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung lắng nghe đánh giá về hương vị."
+    },
+    {
+      "step": "Đánh giá chất lượng",
+      "desc": "Đánh giá chất lượng sản phẩm dựa trên giá cả và trải nghiệm.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thông tin hữu ích."
+    },
+    {
+      "step": "So sánh trực tiếp",
+      "desc": "Uống bò húc thật và so sánh sự khác biệt rõ rệt.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú với sự so sánh trực tiếp."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Tóm tắt trải nghiệm và đưa ra lời khuyên.",
+      "impact_level": "2",
+      "viewer_emotion": "Ghi nhớ lời khuyên từ người đánh giá."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngọt",
+    "thơm",
+    "kỳ kỳ",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "mình thấy vị của nó rất là ngọt nha. Nó không có cái vị chua kiểu như của bò húc",
+    "Bò húc uống khác hẳn, ngon hơn rất là nhiều mọi người ạ.",
+    "Uống cái này thì uống chơi uống vui, chứ còn mình nghĩ cái này không nên uống nhiều."
+  ],
+  "hook_content": "Trải nghiệm gói bột pha bò húc.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "So sánh",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video trải nghiệm và so sánh bột pha bò húc với bò húc thật, đánh giá về màu sắc, mùi vị và chất lượng, kết luận bột pha có vị ngọt hơn và mùi hóa học nhiều hơn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

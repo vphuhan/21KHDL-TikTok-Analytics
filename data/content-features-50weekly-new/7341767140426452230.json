@@ -1,0 +1,59 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu mì cay hải sản được người khác nấu cho ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Ăn và khen ngon, xin thêm tương cay.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Khen người nấu khéo, hải sản tươi ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với món ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "sướng",
+    "quá mà"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Con người nấu cho mì cay ăn rồi.",
+    "Con thằng em trai đúng là sướng quá mà.",
+    "Đứa điên tao còn được nấu cho tôm hải sản mẹ còn có topping hải sản luôn."
+  ],
+  "hook_content": "ăn đi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh một người ăn mì cay hải sản do người thân nấu, khen ngon và bày tỏ sự thích thú với món ăn. Video tập trung vào việc ăn uống và tận hưởng món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

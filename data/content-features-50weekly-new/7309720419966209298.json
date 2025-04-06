@@ -1,0 +1,81 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu da trâu muối chua Hoa Ban Food, đặc sản Tây Bắc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn đặc sản."
+    },
+    {
+      "step": "Mở hộp và miêu tả",
+      "desc": "Mở gói da trâu, miêu tả thành phần và mùi vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với các thành phần đặc biệt."
+    },
+    {
+      "step": "Nếm thử và đánh giá",
+      "desc": "Ăn thử da trâu, đánh giá hương vị, độ giòn và cảm nhận.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn nếm thử ngay lập tức."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Đánh giá độ dày, độ sạch và cách chế biến của da trâu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng sản phẩm."
+    },
+    {
+      "step": "Gợi ý cách ăn",
+      "desc": "Đề xuất chấm với mắc khén, hạt dổi để tăng hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong muốn trải nghiệm hương vị đậm đà hơn."
+    },
+    {
+      "step": "Nhận xét chung",
+      "desc": "Nhận xét về món ăn, gợi ý dịp phù hợp để thưởng thức.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy đây là món ăn phù hợp để nhậu."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "ngon",
+    "hay phết",
+    "giòn giòn",
+    "chua nhẹ"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ăn hay phết mọi người ạ. Cái da kiểu nó giòn giòn, không quá dai đâu. Và khi mình ăn thì nó tan trong miệng nha.",
+    "Cái vị của cái nước măng chua thì nó sẽ chua nhẹ và thơm mùi mắc khén hạt dổi.",
+    "Nói chung cái món này thì để nhậu là hợp, với cả ăn chơi được, một đặc sản của Tây Bắc người ta hay ăn."
+  ],
+  "hook_content": "Chào mọi người nha. Hôm nay mình sẽ ăn đặc sản Tây Bắc, da trâu muối chua đến từ Hoa Ban Food.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món da trâu muối chua đặc sản Tây Bắc từ Hoa Ban Food, với các thành phần như măng chua, mắc khén, hạt dổi. Người review đánh giá cao độ giòn, hương vị thơm ngon và gợi ý cách ăn kèm để tăng thêm trải nghiệm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

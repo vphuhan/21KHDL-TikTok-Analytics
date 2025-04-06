@@ -1,0 +1,92 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món mì tương đen và mì champong tự nấu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy tò mò muốn xem cách nấu hai món này."
+    },
+    {
+      "step": "Đi chợ mua nguyên liệu",
+      "desc": "Đi chợ mua mì tươi và các nguyên liệu khác dưới trời mưa.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy hơi vất vả nhưng cũng bình thường."
+    },
+    {
+      "step": "Gỡ đồ trang trí Tết",
+      "desc": "Gỡ đồ trang trí Tết và nhắc đến việc ăn Tết.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thời gian trôi nhanh, Tết đã qua."
+    },
+    {
+      "step": "Chuẩn bị nấu mì tương đen",
+      "desc": "Cắt thịt ba chỉ và chia sẻ cách thắng mỡ để làm sốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy có mẹo hay, đáng để thử."
+    },
+    {
+      "step": "Nấu mì tương đen",
+      "desc": "Xào tương đen, thịt, rau củ và nêm nếm gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thèm món mì tương đen."
+    },
+    {
+      "step": "Nấu mì champong",
+      "desc": "Xào dầu ớt, rau củ, hải sản và nêm nếm gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn và muốn ăn thử."
+    },
+    {
+      "step": "Hoàn thành và ăn tối",
+      "desc": "Cho mì vào và mời mọi người cùng ăn tối.",
+      "impact_level": "3",
+      "viewer_emotion": "Thấy ngon miệng và ấm cúng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người, mọi người thích champong hay là mọi người thích tương đen nhiều nhất?",
+    "Thôi bây giờ mời mọi người cùng ăn tối chung với cả nhà mình nha"
+  ],
+  "cta_type": [
+    "Ăn cùng",
+    "So sánh",
+    "Đặt câu hỏi"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "ngon",
+    "hấp dẫn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cách này của mình chút nữa lấy thịt làm sốt tương đen ngon lắm á, mọi người thử đi.",
+    "Sau này mà có gì Việt Nam bán mì tương đen coi bộ có lý à, mọi người nhớ ủng hộ mình nha",
+    "Mọi người mà đói có hay bị quạo không chứ mình mà đói là mình hay quạo lắm nha"
+  ],
+  "hook_content": "Chào mọi người thấy mì tương đen hay là mì champong.",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn nấu mì tương đen và mì champong tại nhà, từ khâu chuẩn bị nguyên liệu đến khi hoàn thành món ăn. Người nấu chia sẻ các mẹo nhỏ và mời mọi người cùng ăn tối.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

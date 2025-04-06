@@ -1,0 +1,81 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu các loại ốc",
+      "desc": "Người bán giới thiệu giá và loại ốc, nhấn mạnh ốc gạo ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các loại ốc và giá cả."
+    },
+    {
+      "step": "Tình hình quán ốc",
+      "desc": "Người bán hàng vắng khách, người quay muốn giới thiệu quán ốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thương người bán ốc."
+    },
+    {
+      "step": "Thông tin chi tiết về ốc gạo",
+      "desc": "Hỏi giá ốc gạo, biết được người bán đã bán 10 mấy năm.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin về ốc gạo và thâm niên của quán."
+    },
+    {
+      "step": "Nhấn mạnh ốc gạo đặc sản",
+      "desc": "Khẳng định ốc gạo là đặc sản, giá cả biến động theo mùa.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với thông tin về ốc gạo."
+    },
+    {
+      "step": "Kêu gọi ủng hộ",
+      "desc": "Mong mọi người ủng hộ quán ốc của bà lão.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn đến ủng hộ quán ốc."
+    },
+    {
+      "step": "Địa điểm quán ốc",
+      "desc": "Thông báo địa điểm quán đối diện cổng Mỹ Trà.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết được địa điểm quán."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mọi người có ghé qua ủng hộ bà nghe"
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "đặc sản",
+    "béo"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ốc gạo đây nhiều khi là 90, 100 một lon mà cũng không có mà ăn luôn á mọi người",
+    "ốc to thì nó rải nó đi nước nó rần nó đi bết được á, thì nó còn hơn ốc chục",
+    "Bả hôm nay bả mơi rồi cũng cố gắng ủng hộ bà đi"
+  ],
+  "hook_content": "Cái ốc kêu đây là một tô đây 30 ngàn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu quán ốc vắng khách của một bà lão, tập trung vào món ốc gạo đặc sản và kêu gọi mọi người đến ủng hộ quán. Người quay chia sẻ thông tin về giá cả và địa điểm của quán.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

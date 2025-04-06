@@ -1,0 +1,78 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu món thịt heo nướng Bắcoa nổi tiếng trên TikTok.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn đang hot."
+    },
+    {
+      "step": "Đánh giá cảm quan",
+      "desc": "Nhận xét về số lượng vị và mùi của thịt heo nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng của sản phẩm."
+    },
+    {
+      "step": "Thử vị và đánh giá",
+      "desc": "Ăn thử các vị trứng muối và siêu cay, so sánh độ cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn biết hương vị thực tế của sản phẩm."
+    },
+    {
+      "step": "Nhận xét chung",
+      "desc": "Đánh giá về mùi vị, độ dai và cách nêm nếm của sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung rõ hơn về sản phẩm."
+    },
+    {
+      "step": "Tổng kết và gợi ý",
+      "desc": "Đưa ra kết luận về sản phẩm và gợi ý cách ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích với thông tin được cung cấp."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Và mình có gắn link giỏ hàng ấy, bạn nào mà muốn ăn thử thì có thể bấm vào để xem thông tin để mình mua ăn thử.",
+    "Cái này thì mọi người có thể mua thông qua link của kênh mình hoặc là của TikToker khác hoặc là mua trực tiếp từ nhãn hàng cũng vậy."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "vừa ăn",
+    "thích ăn cay"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái thịt heo nướng Bắcoa này thì nổi tiếng trên TikTok cũng lâu rồi. Nhưng mà thật sự là đợt này mình mới ăn thử.",
+    "Khi ăn thì nó sẽ hơi dai dai giòn giòn. Kiểu như lạp xưởng ấy, hoặc là salami mốc hoặc là xúc xích khô ấy, kiểu kiểu như vậy.",
+    "thật ra mình thấy vị cay ngon nhất, tại vì mình là một người thích ăn cay."
+  ],
+  "hook_content": "món này thì vừa có thể ăn chơi, vừa có thể ăn cơm được. Đêm mà đói thì dậy làm ba miếng này và một bát cơm là xong.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review thịt heo nướng Bắcoa với nhiều hương vị khác nhau, từ trứng muối đến siêu cay. Người review đánh giá cao hương vị và độ dai ngon của sản phẩm, đồng thời gợi ý cách ăn và địa điểm mua.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

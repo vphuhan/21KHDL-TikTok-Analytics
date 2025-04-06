@@ -1,0 +1,94 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu trái lạ",
+      "desc": "Giới thiệu quả màu tím lạ mắt và sự tò mò muốn thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về loại quả mới."
+    },
+    {
+      "step": "Chọn trái",
+      "desc": "Chọn trái dựa trên kinh nghiệm của người bán.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích."
+    },
+    {
+      "step": "So sánh các loại trái",
+      "desc": "So sánh trái tím với các loại hồng khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị về sự đa dạng."
+    },
+    {
+      "step": "Nguồn gốc tên gọi",
+      "desc": "Tìm hiểu về tên gọi của trái cây bằng tiếng Nhật và Việt.",
+      "impact_level": "1",
+      "viewer_emotion": "Tăng thêm kiến thức."
+    },
+    {
+      "step": "Miêu tả hình dáng",
+      "desc": "Miêu tả chi tiết hình dáng bên ngoài và bên trong.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung rõ hơn."
+    },
+    {
+      "step": "Thử nghiệm hương vị",
+      "desc": "Thử ăn và diễn tả hương vị đặc biệt của trái.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn được nếm thử."
+    },
+    {
+      "step": "Cảm nhận và so sánh",
+      "desc": "Đánh giá cảm nhận và so sánh với các trái khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với trải nghiệm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người nếu biết cái trái tím tím này còn có cái tên gì nữa thì nói cho mình biết với ha."
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Đặt câu hỏi"
+  ],
+  "emotion_keywords": [
+    "mát",
+    "ngọt nhẹ",
+    "ngon",
+    "lạ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trái này thì được cái là có một cái đường kẻ để cho mình dễ tách ra giống như là sầu riêng vậy đó.",
+    "Mình thấy ăn cái trái này thì nó cũng ngon á nhưng mà có điều là lừa hột mỏi miệng quá.",
+    "Ta nói nó mỏi y chang như là đang ăn cái trái bình bát vậy đó."
+  ],
+  "hook_content": "Bữa giờ đi chợ thì mình gặp cái trái này rất là nhiều luôn hả mọi người, nên để bữa nay mình ăn thử để coi nó như thế nào ha.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review trái cây màu tím lạ mắt, người bán chia sẻ kinh nghiệm chọn trái ngon, người mua ăn thử và miêu tả hương vị, so sánh với các loại trái khác.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

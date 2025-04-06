@@ -1,0 +1,93 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Thèm bún bò, liệt kê nguyên liệu và mua sắm tại siêu thị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các nguyên liệu được sử dụng."
+    },
+    {
+      "step": "Khám phá thùng đồ",
+      "desc": "Mở thùng đồ ăn vặt và nguyên liệu bún bò từ Thái Dương Mart.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú khi xem các món ăn được giới thiệu."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Trụng bắp bò, giò heo với sả, chuẩn bị nước hầm với gia vị.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, tập trung vào công đoạn chuẩn bị."
+    },
+    {
+      "step": "Đi chợ online",
+      "desc": "Giới thiệu app Thái Dương Max để mua sắm nguyên liệu online.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy tiện lợi với việc mua sắm online."
+    },
+    {
+      "step": "Nấu nước dùng",
+      "desc": "Nêm gói bún bò và sa tế vào nồi nước dùng đang hầm.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi đói bụng khi thấy nồi nước dùng."
+    },
+    {
+      "step": "Chuẩn bị rau",
+      "desc": "Chuẩn bị rau sống ăn kèm như bắp chuối, giá, hành tây.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thấy sự chuẩn bị đầy đủ."
+    },
+    {
+      "step": "Thưởng thức bún bò",
+      "desc": "Trình bày và ăn tô bún bò full topping tự nấu.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn ăn thử ngay lập tức."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ai mà có thèm bún bò thì cứ lên Thái Dương Mắc mà gom về nấu nghe."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "thèm",
+    "ngon tê tái",
+    "đã",
+    "vừa vị",
+    "mê"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Gắp thử đũa ăn trước mà tôi nói nó ngon tê tái hết, cái cục gân bò mà chấm vô cái chén nước mắm có bốn trái ớt tôi nói nó đã.",
+    "Tính ra cái nồi bún bò này mình không có cho đường vô luôn á, nhưng mà ăn vô thì cực kỳ vừa vị luôn.",
+    "Mình bắt đầu mê cái chả lụa bên đây rồi đó nghe. Gắp đũa bốn cắn thêm miếng chả lụa tao nói không có còn gì diễn tả được hết."
+  ],
+  "hook_content": "đang học trong lớp cái tự nhiên thèm tôi bún bò ngan xương, thế là phải ghi nguyên liệu ra giấy rồi ghé ngang siêu thị gần nhà kiếm cái nồi to to, chứ ở nhà không có được cái nồi nào mà ra hồn hết trơn.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video ghi lại quá trình tự nấu bún bò huế tại nhà, từ khâu chuẩn bị nguyên liệu, sơ chế, nấu nước dùng đến khi hoàn thành và thưởng thức món ăn. Đồng thời, video cũng giới thiệu app Thái Dương Max để mua sắm nguyên liệu online một cách tiện lợi.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hài hước"
+  ]
+}

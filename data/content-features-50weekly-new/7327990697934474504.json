@@ -1,0 +1,81 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Đón con và đi chợ",
+      "desc": "Đón con sớm, đi chợ mua sò huyết vì trời lạnh, ít hàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thương người mẹ đảm đang, lo cho gia đình."
+    },
+    {
+      "step": "Sơ chế sò huyết",
+      "desc": "Luộc sò huyết để dễ bóc vỏ, tùy độ chín mong muốn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, một công đoạn nấu ăn đơn giản."
+    },
+    {
+      "step": "Pha nước trộn",
+      "desc": "Pha nước trộn chua ngọt từ tỏi, gừng, ớt, nước tương.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị món trộn."
+    },
+    {
+      "step": "Trộn sò huyết",
+      "desc": "Trộn đều sò huyết với nước trộn và các nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món trộn hấp dẫn."
+    },
+    {
+      "step": "Chuẩn bị thịt nướng",
+      "desc": "Thịt nướng không cần ướp, ăn kèm kim chi.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thịt nướng đơn giản."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Kẹp sò huyết trộn với thịt nướng và rau, ăn cùng gia đình.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn ăn ngay món này cùng gia đình."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mọi người ăn chung với cả nhà mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "vui",
+    "thích",
+    "ghiền",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Một tháng có bốn tuần thôi mà tuần nào nhà mình cũng ăn món này rồi.",
+    "Nướng đơn giản như thế này thôi mà ăn bị ghiền luôn."
+  ],
+  "hook_content": "Bữa nay lâu lắm rồi mình mới đi đón Tũn Hớn sớm một bữa như thế này.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ cách làm món sò huyết trộn ăn kèm thịt nướng và rau, món ăn được yêu thích của gia đình. Người làm video kể về việc đi chợ và chuẩn bị món ăn một cách đơn giản, gần gũi.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

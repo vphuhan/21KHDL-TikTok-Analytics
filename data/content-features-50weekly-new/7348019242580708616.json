@@ -1,0 +1,84 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món lẩu khổ qua cá thác lác, phù hợp ngày nóng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của món lẩu"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Hướng dẫn chuẩn bị nguyên liệu nấu món lẩu cá thác lát.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, chờ đợi các bước tiếp theo"
+    },
+    {
+      "step": "Hầm xương",
+      "desc": "Hầm xương để lấy nước ngọt, có thể thay bằng nước dừa.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, cung cấp thêm lựa chọn"
+    },
+    {
+      "step": "Trộn chả cá",
+      "desc": "Nêm gia vị vào chả cá và nhồi đến khi dai giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với bí quyết làm chả cá ngon"
+    },
+    {
+      "step": "Chuẩn bị rau",
+      "desc": "Các loại rau ăn kèm tùy sở thích, không thể thiếu khổ qua.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về vị khổ qua khi nhúng lẩu"
+    },
+    {
+      "step": "Nấu lẩu",
+      "desc": "Cho nấm rơm, nhóc hành vào nước lẩu, nêm nếm vừa ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn với nồi lẩu đang sôi"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Cho chả cá vào và thưởng thức món lẩu.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn được ăn thử ngay lập tức"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngọt thanh",
+    "dai giòn",
+    "ngon",
+    "thanh mát",
+    "tốt cho sức khỏe"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Chả cá mình có ngon hay không thì là ở khúc này nè nha. Các bạn nhồi càng lâu thì chả cá sẽ càng dai càng giòn.",
+    "Bản chất của khổ qua là nó đắng á, mà khi các bạn xắt mỏng rồi nhúng lẩu như thế này là Trang thấy nó không có đắng miếng nào luôn á."
+  ],
+  "hook_content": "Nếu các bạn thèm ăn lẩu trong những ngày thời tiết nắng nóng như thế này thì lẩu khổ hoa cá thác lát là sự lựa chọn hợp lý nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn nấu món lẩu khổ qua cá thác lác thanh mát, phù hợp cho ngày nóng. Các bước bao gồm hầm xương, trộn chả cá, chuẩn bị rau và thưởng thức.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

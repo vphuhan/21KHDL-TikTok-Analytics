@@ -1,0 +1,89 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về quê ngoại ở Gò Công và lý do về quê.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về chuyến về quê của người này."
+    },
+    {
+      "step": "Khám phá vườn nhà",
+      "desc": "Khám phá các loại trái cây trong vườn nhà ngoại.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với các loại quả quê."
+    },
+    {
+      "step": "Chuẩn bị cua",
+      "desc": "Sơ chế cua và chuẩn bị nấu hai món cua.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức xem hai món cua được chế biến."
+    },
+    {
+      "step": "Chế biến món ăn",
+      "desc": "Chế biến món cua luộc nước dừa và cua rang me.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy đói bụng khi xem món ăn được chế biến."
+    },
+    {
+      "step": "Thưởng thức bữa ăn",
+      "desc": "Thưởng thức bữa ăn cùng gia đình và ngoại.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấm áp khi thấy gia đình quay quần bên nhau."
+    },
+    {
+      "step": "Tráng miệng",
+      "desc": "Hái chùm ruột và mía sau bữa ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Nhớ lại hương vị của các loại quả quê."
+    },
+    {
+      "step": "Tạm biệt",
+      "desc": "Cảm xúc buồn khi phải chia tay gia đình.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với cảm xúc của người nói."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "nôn nao",
+    "ngọt",
+    "đã",
+    "thèm",
+    "hấp dẫn",
+    "ngon",
+    "thoải mái",
+    "vui",
+    "buồn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mùa này ở dưới đây thì có mận, cóc, xoài, thấy mấy cái trái mận non non nhỏ nhỏ vậy đó ha, chứ nó ngọt kinh khủng khiếp luôn, nhưng mà có điều là hơi bị sâu xíu thôi.",
+    "Cua này thì mọi người nhớ đem đi luộc nước dừa thì cái thịt của nó sẽ ngọt càng thêm ngọt.",
+    "Chiều chiều gió hiu hiu nằm cái võng đông đưa mà có cây mía gạp vậy nữa thì còn gì bằng."
+  ],
+  "hook_content": "Bây giờ thì tới hôm nay mới có dịp đi về quê.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại hành trình về quê ngoại ở Gò Công của một người cháu, cùng gia đình thưởng thức các món ăn đặc biệt từ cua biển và trải nghiệm những hoạt động giản dị ở vùng quê. Chuyến đi mang đến những khoảnh khắc ấm áp và đáng nhớ.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

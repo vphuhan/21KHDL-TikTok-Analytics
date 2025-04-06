@@ -1,0 +1,57 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sở thích",
+      "desc": "Tự nhận là người thích ăn ngon, đặc biệt thích món ăn vặt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Mô tả món ăn",
+      "desc": "Mô tả món ăn vặt yêu thích mỗi khi đói bụng, dễ tính.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Nhấn mạnh sự đơn giản",
+      "desc": "Khẳng định sự đơn giản trong việc lựa chọn món ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thèm",
+    "dễ tính"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "bạn là đứa thích ăn ngon",
+    "Bạn thèm mỗi khi hơi chướng đói chính là món gì cũng được",
+    "Bạn không bao giờ vòng vo suy nghĩ"
+  ],
+  "hook_content": "Bây giờ tôi mới biết bạn là đứa thích ăn ngon.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ về sở thích ăn uống của người nói, đặc biệt là món ăn vặt yêu thích mỗi khi đói bụng và sự dễ tính trong việc lựa chọn.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

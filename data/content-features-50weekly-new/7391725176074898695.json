@@ -1,0 +1,72 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Con giới thiệu món ăn tuổi thơ và mời mẹ ăn thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Mô tả món ăn",
+      "desc": "Mẹ nhận xét món ăn giống kẹo bạch nha và kể về tuổi thơ.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thích thú và nhớ về tuổi thơ."
+    },
+    {
+      "step": "So sánh",
+      "desc": "Mẹ so sánh kẹo bạch nha ngày xưa và bây giờ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị khi so sánh."
+    },
+    {
+      "step": "Cảm xúc",
+      "desc": "Mẹ nhớ về kỷ niệm xưa và cảm thấy vui.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm động và đồng cảm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Truyền thống",
+    "Kiến thức"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "vui",
+    "khó tả",
+    "nhớ lại",
+    "tuổi thơ"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ăn cái món này cái mẹ nhớ lại trường lớp, nhớ lại bạn học đồ ngày xưa con.",
+    "Mẹ không ngờ á, bây giờ mẹ già, mẹ đầu bạc hết rồi mà mẹ được ăn lại cái món tuổi thơ ngày xưa á con.",
+    "Trong lòng mình nó vui lắm nha, nó khó tả lắm đó."
+  ],
+  "hook_content": "Họ chấm cây que vậy đó, họ bán một đồng bạc.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện",
+    "Đối thoại"
+  ],
+  "summarization": "Video ghi lại cảnh người con mời mẹ ăn món kẹo bạch nha tuổi thơ. Người mẹ chia sẻ những kỷ niệm gắn liền với món ăn này, từ đó gợi nhớ về những ký ức đẹp thời học sinh.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

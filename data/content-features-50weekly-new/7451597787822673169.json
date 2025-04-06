@@ -1,0 +1,97 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu râu mực và gợi ý món nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Chia sẻ về nguyên liệu dễ kiếm và tươi ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy dễ thực hiện theo."
+    },
+    {
+      "step": "Tẩm ướp",
+      "desc": "Hướng dẫn cách ướp râu mực.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến công thức."
+    },
+    {
+      "step": "Nướng mực",
+      "desc": "Chia sẻ về quá trình nướng và sự cố.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị và hài hước."
+    },
+    {
+      "step": "Pha nước chấm",
+      "desc": "Giới thiệu món nước chấm.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thèm thuồng."
+    },
+    {
+      "step": "Giới thiệu vòng trầm",
+      "desc": "Giới thiệu về vòng trầm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không liên quan đến ẩm thực."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Đánh giá hương vị và mời mọi người cùng ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng và muốn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Còn ai mà muốn thỉnh vòng trầm thì qua bên vòng tay Thanh Nhàn nha.",
+    "Giờ thì mời mọi người ăn chung với tôi."
+  ],
+  "cta_type": [
+    "Ăn cùng",
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "mê",
+    "ngon",
+    "tê tái tâm hồn",
+    "siêu thơm",
+    "bự chẵn",
+    "dai giòn",
+    "sần sật",
+    "thơm cay",
+    "cay cay"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "đảm bảo ăn một lần là mê chữ ê kéo dài luôn",
+    "ăn râu mực ngon như vậy thì không có thể nào thiếu một chén muối ớt đâm, cây sương sương mà tê tái tâm hồn",
+    "Râu mực thì cực kỳ dai giòn, sần sật áo đều sốt nướng thơm cay, ăn cùng với muối ớt đâm, cay cay của tôi nữa."
+  ],
+  "hook_content": "Có mấy cái râu mực, mọi người thường làm món gì ăn?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ cách làm món râu mực nướng đơn giản tại nhà, từ khâu sơ chế, tẩm ướp đến nướng và thưởng thức. Đồng thời, video cũng giới thiệu thêm về một loại vòng trầm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

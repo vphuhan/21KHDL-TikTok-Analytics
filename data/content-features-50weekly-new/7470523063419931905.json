@@ -1,0 +1,79 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món mì cay full topping tự làm tại nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn biết công thức làm món mì cay."
+    },
+    {
+      "step": "Tự làm kim chi",
+      "desc": "Hướng dẫn cách tự làm kim chi tại nhà đơn giản.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thú vị với công thức làm kim chi."
+    },
+    {
+      "step": "Chuẩn bị topping",
+      "desc": "Liệt kê các loại topping xịn sò cho món mì cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn với các loại topping đa dạng."
+    },
+    {
+      "step": "Nấu mì và thưởng thức",
+      "desc": "Nấu mì cay và thưởng thức cùng các loại topping.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn làm ngay một chảo mì cay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Thiệt tình coi tới đây ai mà tứa mồ hôi lưỡi thì làm liền một chảo cho tôi.",
+    "Giờ thì mời mọi người ăn chung với tôi nghe."
+  ],
+  "cta_type": [
+    "Ăn cùng",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "mê",
+    "ngon",
+    "đã",
+    "hấp dẫn",
+    "béo ngậy",
+    "ngon đỉnh",
+    "tứa mồ hôi lưỡi",
+    "ngon ghê"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đặc biệt mình nấu mì theo kiểu này là ăn nó siêu ngon, bao nóng bao hấp dẫn nha.",
+    "Ăn cùng với mực trứng giòn giòn bùi bùi rồi xúc xích phô mai béo ngậy.",
+    "Quất thêm miếng kim chi chua chua là ngon đỉnh nữa."
+  ],
+  "hook_content": "Là một chảo mì cay full topping nóng tại chỗ, vừa thổi vừa ăn như vầy có ai mê không?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn cách nấu mì cay full topping tại nhà, bắt đầu từ việc tự làm kim chi, chuẩn bị các loại topping hấp dẫn và thưởng thức món ăn nóng hổi. Video tạo cảm giác thèm ăn và khuyến khích người xem tự làm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

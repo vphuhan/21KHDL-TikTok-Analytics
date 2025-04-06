@@ -1,0 +1,84 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Tới quán bánh rán, hỏi thăm bà chủ quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Gọi món",
+      "desc": "Đặt bánh số lượng lớn, hỏi giá tiền.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Miêu tả bánh",
+      "desc": "Bánh nhỏ, nóng hổi, giòn tan.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Gọi điện thoại",
+      "desc": "Gọi điện đặt bánh số lượng lớn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Nhận xét",
+      "desc": "Bánh rán ngon, không ngọt gắt, dễ ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Thông tin thêm",
+      "desc": "Bánh rán bán rất nhanh hết.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Nói lời tạm biệt bà chủ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "nhẹ nhàng",
+    "dễ chịu"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Bánh rán mật thế nhưng mà không bị ngọt quá, kiểu rất là nhẹ nhàng mà ăn được mấy cái liền một lúc mà không bị ngán.",
+    "Bánh rán của nhà bà là khác hẳn so với tất cả các quán bánh rán mà em từng ăn."
+  ],
+  "hook_content": "Bánh rán ơi, bà có nhớ phần cho con 10 cái không?",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán bánh rán mật thời bao cấp, bánh nhỏ xinh, không ngọt gắt, bán rất nhanh hết. Người mua thường mua từ 10 cái trở lên.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

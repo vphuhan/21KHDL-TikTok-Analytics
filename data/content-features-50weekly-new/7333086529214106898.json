@@ -1,0 +1,96 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu bánh chưng không nhân và nỗi khổ khi tìm mua.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món bánh đặc biệt."
+    },
+    {
+      "step": "Quyết tâm tự làm",
+      "desc": "Quyết định tự làm bánh để thỏa mãn sở thích.",
+      "impact_level": "2",
+      "viewer_emotion": "Khâm phục sự kiên trì."
+    },
+    {
+      "step": "Quá trình gói bánh",
+      "desc": "Mô tả các bước gói bánh và những khó khăn gặp phải.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị và đồng cảm."
+    },
+    {
+      "step": "Sự cố và giải pháp",
+      "desc": "Gặp sự cố quên lót lá và cố gắng khắc phục.",
+      "impact_level": "3",
+      "viewer_emotion": "Hồi hộp và buồn cười."
+    },
+    {
+      "step": "Thành phẩm và so sánh",
+      "desc": "Bánh bị chê xấu và so sánh với bánh của bố.",
+      "impact_level": "2",
+      "viewer_emotion": "Thương cảm và hài hước."
+    },
+    {
+      "step": "Vớt bánh và cảm nhận",
+      "desc": "Cảm xúc khi vớt bánh và không khí Tết.",
+      "impact_level": "3",
+      "viewer_emotion": "Hạnh phúc và ấm áp."
+    },
+    {
+      "step": "Thưởng thức và đánh giá",
+      "desc": "Cắt bánh, ăn thử và đánh giá hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và thỏa mãn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Vì thế mà ai muốn ăn không, đặt trước mình đi. Năm sau mình bán cho."
+  ],
+  "cta_type": [
+    "Đặt câu hỏi"
+  ],
+  "emotion_keywords": [
+    "yêu thích",
+    "mệt",
+    "vui",
+    "thích mắt",
+    "ngon",
+    "sướng",
+    "đã"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đây chính là cái bánh chưng mà mình ao ước từ lâu lắm rồi. Đấy là một cái bánh chưng không nhân.",
+    "Và trong một dàn hoa khôi thì lại có một em hoa hậu hơi xấu tí nhưng mà xinh xinh của mình đây nè.",
+    "Ôi giời ơi ăn sướng cái miệng dã man."
+  ],
+  "hook_content": "Đây chính là cái bánh chưng mà mình ao ước từ lâu lắm rồi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn",
+    "Kể chuyện"
+  ],
+  "summarization": "Video kể về hành trình tự làm bánh chưng không nhân của một người, từ việc tìm kiếm không thành công đến quyết tâm tự gói, gặp nhiều khó khăn và cuối cùng thưởng thức thành quả. Video thể hiện niềm yêu thích với bánh chưng và không khí Tết.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

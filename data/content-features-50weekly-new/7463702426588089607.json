@@ -1,0 +1,81 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu cách gói bánh",
+      "desc": "Tự nhận cách gói bánh của mình không chuyên nghiệp và hơi khác lạ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với sự khác biệt trong cách gói bánh."
+    },
+    {
+      "step": "Chia sẻ trải nghiệm",
+      "desc": "Kể về những lần gói bánh chưng không thành công và những thiếu sót.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đồng cảm với những sai sót thường gặp khi gói bánh."
+    },
+    {
+      "step": "Tái hiện không khí Tết",
+      "desc": "Miêu tả không khí gia đình sum vầy bên nồi bánh chưng ngày Tết.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy hào hứng và nhớ về không khí Tết ấm cúng."
+    },
+    {
+      "step": "So sánh thực tế và ký ức",
+      "desc": "So sánh việc gói bánh ngày xưa và việc mua bánh ngày nay.",
+      "impact_level": "2",
+      "viewer_emotion": "Suy ngẫm về sự thay đổi của truyền thống gói bánh chưng."
+    },
+    {
+      "step": "Đề xuất giải pháp",
+      "desc": "Khuyến khích mọi người tự gói bánh để có trải nghiệm Tết ý nghĩa.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy được truyền cảm hứng để thử tự gói bánh chưng."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Nhấn mạnh niềm vui khi gói bánh và hỏi về hình dáng bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn biết ý kiến của mọi người về bánh chưng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Truyền thống",
+    "Gen Z"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thích",
+    "vui",
+    "hào hứng",
+    "vui vãi chưởng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đầy năm gói năm không không lòi nhân lòi ruột là may lắm rồi.",
+    "Có cái nồi bánh chưng một cái cái không khí Tết nó ùa về khắp nhà luôn ấy.",
+    "Tết thì chính là như thế đấy. Vừa làm xong rồi vừa buôn chuyện."
+  ],
+  "hook_content": "Tất cả cả TikTok này tôi thấy là không ai gói bánh chưng như tôi.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện"
+  ],
+  "summarization": "Video chia sẻ về trải nghiệm gói bánh chưng ngày Tết của một người, từ những khó khăn, thiếu sót đến niềm vui và không khí ấm cúng bên gia đình. Video khuyến khích mọi người tự gói bánh để cảm nhận rõ hơn ý nghĩa của Tết truyền thống.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước",
+    "Chân thành"
+  ]
+}

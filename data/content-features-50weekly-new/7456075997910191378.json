@@ -1,0 +1,55 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Mời mọi người ăn ớt với lời chào ngắn gọn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Cảnh báo",
+      "desc": "Khuyến cáo không nên ăn theo vì không tốt cho sức khỏe.",
+      "impact_level": "2",
+      "viewer_emotion": "Lo lắng"
+    },
+    {
+      "step": "Giải thích",
+      "desc": "Lý giải việc ăn ớt là do công việc, mong mọi người thông cảm.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "ăn ớt như vậy nhiều thì không tốt",
+    "Mọi người không nên làm theo mình nhá",
+    "Mình làm vì công việc thôi"
+  ],
+  "hook_content": "Mời các bạn ăn ớt cho đỏ nhá.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang ăn ớt, người thực hiện khuyến cáo người xem không nên bắt chước theo vì lý do sức khỏe và giải thích rằng việc này chỉ là vì công việc.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

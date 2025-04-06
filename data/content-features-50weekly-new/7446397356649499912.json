@@ -1,0 +1,72 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Mời mọi người cùng ăn xúc xích phô mai Thái Lan",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Miêu tả cảm quan",
+      "desc": "Miêu tả phô mai tràn trề và sốt có vẻ ngon",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét về vị mặn, dẻo của phô mai và vị ngọt",
+      "impact_level": "3",
+      "viewer_emotion": "Háo hức muốn thử"
+    },
+    {
+      "step": "Thông tin giá cả",
+      "desc": "Chia sẻ về giá cả và chi phí vận chuyển",
+      "impact_level": "1",
+      "viewer_emotion": "Quan tâm đến giá"
+    },
+    {
+      "step": "Thưởng thức và đánh giá",
+      "desc": "Ăn và khen ngon khi chấm cùng sốt",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy hấp dẫn"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "đã",
+    "nóng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Trời ơi phô mai có trừng luôn mọi người.",
+    "Chấm với cái sốt này ngon. Đã."
+  ],
+  "hook_content": "Mời mọi người búp ba xúc xích phô mai Thái Lan cùng với Dung nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review xúc xích phô mai Thái Lan, tập trung vào miêu tả ngoại hình hấp dẫn, hương vị đặc trưng và cảm xúc thích thú khi thưởng thức.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

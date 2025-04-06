@@ -1,0 +1,76 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu sầu riêng được bán trên livestream của chị Hằng Du",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm"
+    },
+    {
+      "step": "Thông tin sản phẩm",
+      "desc": "Thông tin về cân nặng và giá cả sau khi áp dụng các ưu đãi",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm về giá"
+    },
+    {
+      "step": "Đánh giá ban đầu",
+      "desc": "So sánh giá sầu riêng ở Sài Gòn và giá mua online",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường"
+    },
+    {
+      "step": "Kiểm tra ngoại hình",
+      "desc": "Nhận xét về hình dáng bên ngoài của trái sầu riêng",
+      "impact_level": "1",
+      "viewer_emotion": "Tập trung quan sát"
+    },
+    {
+      "step": "Hướng dẫn",
+      "desc": "Hướng dẫn cách nhận biết sầu riêng chín",
+      "impact_level": "2",
+      "viewer_emotion": "Học hỏi kiến thức"
+    },
+    {
+      "step": "Trạng thái sầu riêng",
+      "desc": "Sầu riêng chưa chín và cần phải đợi",
+      "impact_level": "1",
+      "viewer_emotion": "Hụt hẫng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "hoàn hồn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Gì giao nhanh mà tôi hoàn hồn luôn má.",
+    "Sầu riêng á mà muốn là trái ngon á thì nó phải tròn thì nó mới ngon.",
+    "Giao nhanh nhưng mà chưa được ăn nha."
+  ],
+  "hook_content": "Review sầu riêng của chị Hằng Du mà bán trên livestream.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review sầu riêng mua trên livestream của chị Hằng Du, người bán nhận xét về tốc độ giao hàng, hình dáng bên ngoài và hướng dẫn cách nhận biết sầu riêng chín.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

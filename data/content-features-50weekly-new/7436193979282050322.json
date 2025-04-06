@@ -1,0 +1,87 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu sai lầm thường gặp và hứa hẹn cách làm đúng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Sơ chế",
+      "desc": "Hướng dẫn sơ chế cà chua bằng nước sôi và cắt hạt lựu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Chuẩn bị trứng",
+      "desc": "Đập và khuấy trứng, chia sẻ về việc chia sẻ món ngon.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Xào cà chua",
+      "desc": "Xào cà chua với lửa nhỏ để tạo nước sốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Nấu canh",
+      "desc": "Thêm nước, nêm gia vị và bột năng vào cà chua.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức"
+    },
+    {
+      "step": "Hoàn thiện",
+      "desc": "Đổ trứng vào, khuấy đều và đun sôi.",
+      "impact_level": "2",
+      "viewer_emotion": "Hài lòng"
+    },
+    {
+      "step": "Trình bày",
+      "desc": "Thêm ngò, hành lá, tôm khô và tiêu vào bát.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Thích thì lưu lại và làm thử nhé."
+  ],
+  "cta_type": [
+    "Lưu video",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon miệng",
+    "bổ dưỡng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nhiều người ở nhà nấu canh trứng cà chua, thường cho cà chua vào nồi nấu ngay. Điều đó là sai lầm lớn.",
+    "Hôm nay mình sẽ chỉ mọi người cách làm đơn giản, chỉ cần biết đun nước sôi là có thể dễ dàng làm được.",
+    "Món canh trứng cà chua bổ dưỡng và ngon miệng đã hoàn thành."
+  ],
+  "hook_content": "Nhiều người ở nhà nấu canh trứng cà chua, thường cho cà chua vào nồi nấu ngay. Điều đó là sai lầm lớn.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách nấu canh trứng cà chua đơn giản và ngon miệng tại nhà, bắt đầu bằng việc chỉ ra sai lầm thường gặp và sau đó đưa ra các bước thực hiện chi tiết để có món canh bổ dưỡng.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món mì trà sữa trân châu bắp bò đang hot.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới lạ."
+    },
+    {
+      "step": "Liệt kê nguyên liệu",
+      "desc": "Liệt kê các nguyên liệu cần thiết và cách chuẩn bị.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích để chuẩn bị."
+    },
+    {
+      "step": "Nấu nước dùng",
+      "desc": "Hướng dẫn cách nấu nước dùng nhanh chóng và đậm đà.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với bí quyết nấu ăn nhanh."
+    },
+    {
+      "step": "Hoàn thiện món ăn",
+      "desc": "Đổ nước dùng và hoàn thành món mì trà sữa trân châu.",
+      "impact_level": "1",
+      "viewer_emotion": "Háo hức muốn thử món ăn."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Thưởng thức và đánh giá hương vị của món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy ngon miệng theo người ăn."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người xem video của mình.",
+    "Hẹn mọi người ở video sau."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "ngậy",
+    "ngọt tự nhiên",
+    "ngon cực"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Kiểu nó rất nó thơm nhẹ mùi trà xong rồi có sữa nó sẽ ngậy.",
+    "Cá nhân mình thấy nó không những không khó ăn mà còn ngon ấy mọi người ạ.",
+    "À, bây giờ nấu cái nước dùng kiểu này nhá, ngon cực luôn mọi người, thử nấu đi."
+  ],
+  "hook_content": "Ôi ngon đấy chứ mọi người.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video mukbang món mì trà sữa trân châu bắp bò đang hot, người làm giới thiệu công thức nấu nhanh và chia sẻ cảm nhận hương vị độc đáo.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

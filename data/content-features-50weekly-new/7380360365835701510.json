@@ -1,0 +1,62 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu sản phẩm Panprope giúp hạn chế tích mỡ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm mới."
+    },
+    {
+      "step": "Miêu tả hương vị",
+      "desc": "Miêu tả hương vị ngọt, chua, tươi mát của đồ uống.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng đồ uống giải khát."
+    },
+    {
+      "step": "Liệt kê món ăn",
+      "desc": "Liệt kê một vài món ăn vặt không có đánh giá.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc sắc."
+    },
+    {
+      "step": "Cảm nhận chung",
+      "desc": "Thể hiện sự yêu thích đồ uống.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình với cảm xúc của người nói."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "sảng khoái",
+    "mê"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Uống nó thì ngọt ngọt chua chua tươi mát và mình cho thêm đá vô thì uống nó cực kỳ sảng khoái luôn ấy.",
+    "Càng uống là càng mê."
+  ],
+  "hook_content": "Thời gian buổi trưa quá, rồi để uống mới được.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình người nói uống một loại đồ uống có tác dụng hạn chế tích mỡ, đồng thời ăn kèm một vài món ăn vặt khác. Người nói cảm thấy rất thích thú với loại đồ uống này.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Chia sẻ bí quyết chiên chả giò giòn lâu và công thức đặc biệt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về bí quyết làm chả giò giòn."
+    },
+    {
+      "step": "Bí quyết 1: Nguyên liệu",
+      "desc": "Sử dụng khoai môn sống bào sợi và ba loại lá thơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Ghi nhớ các nguyên liệu đặc biệt."
+    },
+    {
+      "step": "Bí quyết 2: Trứng",
+      "desc": "Đánh bông lòng trắng trứng để tạo độ xốp cho chả giò.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với mẹo đánh bông trứng."
+    },
+    {
+      "step": "Bí quyết 3: Tỉ lệ",
+      "desc": "Tỉ lệ thịt và rau 1-1 để chả giò không bị ngán.",
+      "impact_level": "1",
+      "viewer_emotion": "Lưu ý về tỉ lệ nguyên liệu."
+    },
+    {
+      "step": "Bí quyết 4: Bún tàu",
+      "desc": "Sử dụng bún tàu bóp giòn để hút ẩm và làm giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử mẹo mới với bún tàu."
+    },
+    {
+      "step": "Cuốn chả giò",
+      "desc": "Cuốn lỏng tay và dùng trứng để cố định mép bánh.",
+      "impact_level": "1",
+      "viewer_emotion": "Hình dung cách cuốn chả giò đúng cách."
+    },
+    {
+      "step": "Chiên chả giò",
+      "desc": "Chiên lửa riu riu và để ráo trên rây.",
+      "impact_level": "2",
+      "viewer_emotion": "Chú ý đến nhiệt độ và cách làm ráo dầu."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Làm mà không ngon không giòn kiếm Quang Khải đi."
+  ],
+  "cta_type": [
+    "Lưu video",
+    "Chia sẻ công thức",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "thèm",
+    "thơm",
+    "ngậy",
+    "xốp",
+    "giòn",
+    "ngon",
+    "không ngán"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "giờ hai bí quyết đơn giản như thế này thôi mà cái món chả giò của em chiên lúc nào nó cũng giòn tới tận 8 tiếng đồng hồ luôn.",
+    "Quan trọng trong cái phần chả giò này muốn nó thơm nó ngậy và nó dậy lên cái mùi á thì mình phải bào khoai môn sống nha mấy anh mấy chị bào sợi sợi như vậy nè.",
+    "Mấy chị cuốn chả giò nhớ giùm em nha mình đừng cuốn chắc tay, mình cuốn lỏng lỏng thì thịt với lại khoai môn nó nở ra là nó vừa nghe, bị lúc mình chiên nó không có bị tét cái nhân ra."
+  ],
+  "hook_content": "giờ hai bí quyết đơn giản như thế này thôi mà cái món chả giò của em chiên lúc nào nó cũng giòn tới tận 8 tiếng đồng hồ luôn.",
+  "hook_type": [
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ kiến thức"
+  ],
+  "summarization": "Video chia sẻ bí quyết chiên chả giò giòn lâu với các mẹo chọn nguyên liệu, tỉ lệ, cách cuốn và chiên. Đặc biệt, video nhấn mạnh việc sử dụng khoai môn sống, lá thơm, lòng trắng trứng đánh bông và bún tàu để tạo độ giòn xốp.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

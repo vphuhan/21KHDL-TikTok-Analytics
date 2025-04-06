@@ -1,0 +1,85 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về chuyến thăm nhà bà nội và món canh ghẹ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Tặng quà",
+      "desc": "Tặng quà cho bà nội, bao gồm áo và An cung xạ hương.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp"
+    },
+    {
+      "step": "Nấu ăn",
+      "desc": "Nấu canh ghẹ và giới thiệu về món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Ăn uống",
+      "desc": "Cả nhà cùng ăn cơm và thưởng thức món canh ghẹ.",
+      "impact_level": "3",
+      "viewer_emotion": "Vui vẻ"
+    },
+    {
+      "step": "Chia sẻ",
+      "desc": "Chia sẻ canh ghẹ cho người thân và dặn dò.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm"
+    },
+    {
+      "step": "Tạm biệt",
+      "desc": "Tạm biệt bà nội và chia sẻ cảm xúc.",
+      "impact_level": "3",
+      "viewer_emotion": "Xúc động"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z"
+  ],
+  "cta_content": [
+    "Mọi người có thể tham khảo bên An cung xạ hương nha.",
+    "Ngày của ba mẹ cũng như những ngày bình thường, chúng ta nên yêu ba mẹ nhiều hơn nha."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm",
+    "Chia sẻ"
+  ],
+  "emotion_keywords": [
+    "vui vẻ",
+    "thương",
+    "ngon",
+    "căng bụng",
+    "khóc",
+    "sướt mướt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bà nội 10 điểm luôn.",
+    "Ngày của ba mẹ cũng như những ngày bình thường, chúng ta nên yêu ba mẹ nhiều hơn nha."
+  ],
+  "hook_content": "nay bọn mình về nhà bà nội Tùng Hân chơi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh gia đình về thăm bà nội, tặng quà và cùng nhau nấu ăn món canh ghẹ. Cuối video là khoảnh khắc chia tay xúc động và lời nhắn nhủ yêu thương đến cha mẹ.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

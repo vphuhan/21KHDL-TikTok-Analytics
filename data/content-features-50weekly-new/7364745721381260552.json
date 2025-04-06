@@ -1,0 +1,90 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người ăn chay, ăn healthy"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món đậu hũ sốt chà bông nấm hương chay.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Ngâm nấm hương, nướng bánh mì, cắt nấm, lăn đậu hũ.",
+      "impact_level": "2",
+      "viewer_emotion": "Chú ý các bước chuẩn bị."
+    },
+    {
+      "step": "Xào nấm hương",
+      "desc": "Xào nấm hương với hành baro, nêm gia vị chay.",
+      "impact_level": "2",
+      "viewer_emotion": "Bắt đầu thấy hấp dẫn."
+    },
+    {
+      "step": "Chiên đậu hũ",
+      "desc": "Chiên giòn đậu hũ đã lăn vụn bánh mì.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm ăn đậu hũ chiên."
+    },
+    {
+      "step": "Trình bày món ăn",
+      "desc": "Trình bày đậu hũ, sốt nấm, ớt, ngò, chà bông.",
+      "impact_level": "3",
+      "viewer_emotion": "Món ăn trông rất đẹp mắt."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Mô tả hương vị đậu hũ giòn, sốt đậm đà.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn nếm thử ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Mọi người muốn mình hướng dẫn làm thì cũng ok luôn, tại vì món này cũng đơn giản.",
+    "Chỉ cần thủ sẵn một gói hạt nêm cà no nấm hương organic tại nhà làm mọi thứ đơn giản, chuẩn nhà hàng Michelin luôn."
+  ],
+  "cta_type": [
+    "Chia sẻ công thức",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "bắt mắt",
+    "ngọt thấm đậm đà",
+    "ăn rất dính",
+    "giòn",
+    "mềm",
+    "đậm đà",
+    "mặn mặn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Món chay tuy đơn giản nhưng khéo léo trình bày thì rất là sang và ăn ngon như nhà hàng vậy đó.",
+    "Chỉ cần thủ sẵn một gói hạt nêm cà no nấm hương organic tại nhà làm mọi thứ đơn giản, chuẩn nhà hàng Michelin luôn.",
+    "Nấu chay tại nhà ngon chuẩn nhà hàng, ngọt thấm đậm đà, ăn chay không chán như bạn nghĩ."
+  ],
+  "hook_content": "Vào nhà hàng gọi bún chay kiểu Mình đùa đó, thật ra thì có rất là nhiều bạn yêu cầu mình làm món chay.",
+  "hook_type": [
+    "Kể chuyện",
+    "Phản hồi bình luận"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món đậu hũ sốt chà bông nấm hương chay đơn giản tại nhà, với cách trình bày đẹp mắt và hương vị ngon như nhà hàng. Người làm video khuyến khích sử dụng hạt nêm nấm hương organic để món ăn thêm đậm đà.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

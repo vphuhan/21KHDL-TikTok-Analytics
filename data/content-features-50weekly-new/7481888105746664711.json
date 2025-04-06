@@ -1,0 +1,90 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Xếp hàng để ăn lẩu Ta Huu nổi tiếng từ Trung Quốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ nổi tiếng của quán."
+    },
+    {
+      "step": "Đánh giá không gian",
+      "desc": "Quán rộng, khu nước chấm bất tiện, cần nhờ nhân viên.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin cơ bản về quán."
+    },
+    {
+      "step": "Gọi món và nước",
+      "desc": "Thử bốn loại nước lẩu, topping và nước uống hợp vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thích thú với các lựa chọn đa dạng."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Review chi tiết các món nhúng lẩu và nước chấm.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng khi nghe mô tả."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Nước lẩu đậm đà, no nhưng muốn đem về ăn tiếp.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình với nhận xét về hương vị."
+    },
+    {
+      "step": "Nhấn mạnh địa điểm",
+      "desc": "Nhắc lại địa điểm quán lẩu Ta Huu với hình con hổ.",
+      "impact_level": "1",
+      "viewer_emotion": "Nhận biết được thương hiệu."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "cay tê",
+    "sướng rơn",
+    "ngon",
+    "giòn",
+    "mềm",
+    "bồng bền",
+    "cuốn",
+    "đã miệng",
+    "mềm",
+    "thơm",
+    "bắt mắt",
+    "toe toét",
+    "đậm đà"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Càng nhai nó càng thấm vô miệng sướng rơn á.",
+    "Nhìn cục tôm với cái mỏ mình đỏ chót y chang nhau là biết cay rồi đó. Nhưng mà tại nó cuốn quá đâu dừng lại được đâu.",
+    "Công nhận mấy cái vị nước lẩu ở Ta Huu này khá là đặc sắc hẳn rất là đậm đà mà cũng thơm nữa."
+  ],
+  "hook_content": "Đi ăn lẩu mà cũng phải xếp hàng nữa hả?",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán lẩu Ta Huu với món lẩu dầu cay đặc trưng. Người này đã thử nhiều loại nước lẩu, topping và chia sẻ cảm nhận chi tiết về hương vị, độ tươi ngon của món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

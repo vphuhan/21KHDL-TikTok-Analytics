@@ -1,0 +1,72 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu xúc xích phô mai và chuẩn bị thưởng thức.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Uống nước và bắt đầu ăn xúc xích phô mai.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhấn mạnh vị ngon, béo của xúc xích phô mai.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Thưởng thức thêm",
+      "desc": "Ăn thêm xúc xích với tương ớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Tiếp tục ăn và khen ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn thử"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "béo"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "ngon đấy",
+    "ngon béo lắm luôn",
+    "ngon quá"
+  ],
+  "hook_content": "Đây hôm nay ăn xúc xích phô mai nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video này ghi lại quá trình người nói ăn và đánh giá xúc xích phô mai. Người nói liên tục khen ngon và thể hiện sự thích thú với món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Chia sẻ về việc nấu cơm nhà với món cá và thơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp"
+    },
+    {
+      "step": "Tình cảm gia đình",
+      "desc": "Thể hiện mong muốn về bữa cơm gia đình hạnh phúc.",
+      "impact_level": "3",
+      "viewer_emotion": "Xúc động"
+    },
+    {
+      "step": "Tình yêu đôi lứa",
+      "desc": "Khẳng định tình yêu và sự quan tâm đến người yêu.",
+      "impact_level": "3",
+      "viewer_emotion": "Ngọt ngào"
+    },
+    {
+      "step": "Lời hứa",
+      "desc": "Lời hứa về sự chung thủy và bên nhau mãi mãi.",
+      "impact_level": "3",
+      "viewer_emotion": "Tin tưởng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Truyền thống"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "yêu thương",
+    "hạnh phúc"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mình về cùng mỗi bữa cơm chào nhau bằng những cái thơm mãi cho đến già.",
+    "Mãi đây anh luôn bên em, thương em.",
+    "Lời hứa anh nói phải nhớ không nuốt lời."
+  ],
+  "hook_content": "Mai này em sẽ nấu cơm, học kho cá với thơm.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Kể chuyện"
+  ],
+  "summarization": "Video chia sẻ về mong muốn nấu cơm nhà với món cá và thơm, thể hiện tình cảm gia đình và tình yêu đôi lứa, cùng những lời hứa về sự chung thủy.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu chem chép luộc sả và bày tỏ sự yêu thích.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Mua nguyên liệu",
+      "desc": "Chia sẻ quá trình mua chem chép ở chợ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Sơ chế",
+      "desc": "Hướng dẫn cách ngâm, rửa chem chép với ớt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chế biến",
+      "desc": "Luộc chem chép với sả đến khi vừa há miệng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Miêu tả hương vị và cảm nhận khi ăn chem chép.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi nghe."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "mê",
+    "thèm",
+    "béo nhẹ",
+    "dai dai",
+    "siêu thơm",
+    "ngon nhứt nhói"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nhìn cái con chem chép luộc sả ú nu như vầy không biết có ai thấy mê không?",
+    "Vì chứ mấy món luộc như vậy thì làm lẹ mà ăn ngon không có đùa được đâu.",
+    "Chem chép thì dai ngon chấm cùng với muối ớt đâm cay sương sương. Quện thêm một sâu siêu nhiều rồi quất vô một cái ta nói ngon nhứt nhói luôn."
+  ],
+  "hook_content": "Nhìn cái con chem chép luộc sả ú nu như vầy không biết có ai thấy mê không?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ về món chem chép luộc sả, từ khâu mua nguyên liệu, sơ chế, chế biến đến thưởng thức. Người làm video bày tỏ sự yêu thích với món ăn này và mời mọi người cùng ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

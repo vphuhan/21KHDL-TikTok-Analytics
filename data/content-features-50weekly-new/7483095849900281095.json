@@ -1,0 +1,87 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món gà rán sốt tắc giòn ngon, dễ làm tại nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn biết cách làm."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê nguyên liệu và gia vị cần thiết cho món gà.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy cần chuẩn bị để làm theo."
+    },
+    {
+      "step": "Ướp gà",
+      "desc": "Hướng dẫn cách ướp gà với gia vị cho thấm đều.",
+      "impact_level": "1",
+      "viewer_emotion": "Lưu ý để thực hiện đúng."
+    },
+    {
+      "step": "Pha bột chiên gà",
+      "desc": "Hướng dẫn pha bột chiên gà sao cho hỗn hợp sánh mịn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị vì có bí quyết riêng."
+    },
+    {
+      "step": "Chiên gà",
+      "desc": "Hướng dẫn chiên gà với lửa vừa để gà vàng giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Hồi hộp chờ đợi thành phẩm."
+    },
+    {
+      "step": "Làm sốt tắc",
+      "desc": "Hướng dẫn làm sốt tắc chua ngọt để rưới lên gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn nếm thử ngay."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Trình bày món ăn và mời mọi người cùng thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy đói và thèm thuồng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "giòn",
+    "mọng nước",
+    "ngọt",
+    "dễ ăn",
+    "không ngán"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Vỏ ngoài thì siêu giòn, bên trong thì mọng nước",
+    "bên trên sẽ có một lớp sốt tắc chua chua ngọt ngọt, rất là dễ ăn luôn",
+    "món này ăn không có bị ngán nha"
+  ],
+  "hook_content": "Đây là món gà rán sốt tắc.",
+  "hook_type": [
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm món gà rán sốt tắc với lớp vỏ giòn rụm, bên trong mọng nước và phần sốt tắc chua ngọt hấp dẫn, không gây ngán. Các bước thực hiện được trình bày chi tiết, dễ làm theo tại nhà.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

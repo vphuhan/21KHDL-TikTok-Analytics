@@ -1,0 +1,77 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Chào khán giả và giới thiệu món ăn cá khô giã ớt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chuẩn bị cá",
+      "desc": "Làm sạch cá và nướng trên bếp than củi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Giã ớt và trộn cá",
+      "desc": "Giã ớt gió vùng cao với cá đã nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Nếm thử",
+      "desc": "Ăn thử cá giã ớt và thể hiện cảm xúc.",
+      "impact_level": "3",
+      "viewer_emotion": "Phấn khích"
+    },
+    {
+      "step": "Xào cá",
+      "desc": "Xào lại cá đã giã trên chảo cho khô và thơm hơn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Bếp củi",
+      "desc": "Giới thiệu về việc sử dụng bếp củi.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "cay"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "ăn cá đi ngon lắm",
+    "Ngon quá"
+  ],
+  "hook_content": "Em coi xin chào các bác ạ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video mukbang về món cá khô giã ớt cay đặc trưng của vùng Tây Bắc, từ khâu chuẩn bị, chế biến đến thưởng thức, thể hiện sự hấp dẫn của món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

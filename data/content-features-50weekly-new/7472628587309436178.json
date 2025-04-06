@@ -1,0 +1,76 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Gọi món và giới thiệu",
+      "desc": "Khách gọi món lẩu đại bổ và người bán giới thiệu thành phần.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các nguyên liệu đặc biệt."
+    },
+    {
+      "step": "Nấu lẩu",
+      "desc": "Người bán thêm gia vị và thảo dược vào nồi lẩu.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, quan sát quá trình nấu."
+    },
+    {
+      "step": "Xác nhận cách ăn",
+      "desc": "Khách hỏi về cách ăn và người bán giải thích.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy được giải đáp thắc mắc."
+    },
+    {
+      "step": "Giá cả và số lượng",
+      "desc": "Khách hỏi giá và số lượng bán được mỗi ngày.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với số lượng bán ra."
+    },
+    {
+      "step": "Thưởng thức và đánh giá",
+      "desc": "Khách ăn thử và khen ngon, kêu gọi mọi người ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ai muốn ăn mau giơ tay!"
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "bổ",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trong này có những gì vậy anh?",
+    "Nó ngon đúng đỉnh luôn ý",
+    "Ai muốn ăn mau giơ tay!"
+  ],
+  "hook_content": "Cho em một nồi lẩu đại bổ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Đối thoại",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu món lẩu đại bổ Quảng Đông với nhiều nguyên liệu bổ dưỡng, được bán rất chạy. Người bán hàng giới thiệu các thành phần và khách hàng ăn thử, đánh giá cao hương vị.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món khoai lang Creme Brulee dễ làm và ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách làm món ăn."
+    },
+    {
+      "step": "Luộc và nướng khoai lang",
+      "desc": "Luộc khoai lang 8 phút, sau đó nướng ở 200 độ trong 20 phút.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy đây là một công đoạn quan trọng."
+    },
+    {
+      "step": "Làm sốt trứng",
+      "desc": "Trộn lòng đỏ trứng, đường và sữa, khuấy đều trên lửa nhỏ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy sốt trứng có vẻ béo ngậy."
+    },
+    {
+      "step": "Nướng lại khoai lang",
+      "desc": "Nhúng khoai vào nước, nướng lại ở 180 độ trong 15 phút.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về kết quả cuối cùng."
+    },
+    {
+      "step": "Phủ sốt và caramel",
+      "desc": "Bào khoai, cho sốt trứng và đường lên, khò caramel.",
+      "impact_level": "3",
+      "viewer_emotion": "Thấy hấp dẫn và muốn thử ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Mọi người nhớ thử nha."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "dễ làm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nghe tên thì có vẻ cầu kỳ nhưng món này làm rất là dễ và quan trọng hơn là nó rất ngon.",
+    "Khoai lang từ lúc nước sôi luộc đúng 8 phút vớt ra và cho vào trong nồi chiên.",
+    "Cho sốt trứng lên đây và mọi người phủ lên đây một lớp đường tương đối dày nha, rồi chúng ta sẽ khò cho cái lớp đường này chảy caramel ra."
+  ],
+  "hook_content": "Đây là khoai lang Creamy Brulee.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món khoai lang Creme Brulee đơn giản tại nhà với các nguyên liệu dễ kiếm và các bước thực hiện nhanh gọn. Món ăn được đánh giá là ngon và đáng để thử.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

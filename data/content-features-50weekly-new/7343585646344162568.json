@@ -1,0 +1,90 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Thể hiện sự mong chờ và giới thiệu món quà hải sản.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món quà."
+    },
+    {
+      "step": "Kiểm tra quà",
+      "desc": "Mô tả chi tiết các loại hải sản nhận được.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng."
+    },
+    {
+      "step": "Sơ chế bạch tuộc",
+      "desc": "Chia sẻ mẹo rửa bạch tuộc bằng đường.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên về mẹo hay."
+    },
+    {
+      "step": "Luộc bạch tuộc",
+      "desc": "Thử nghiệm cách luộc bạch tuộc cho đẹp mắt.",
+      "impact_level": "1",
+      "viewer_emotion": "Tập trung theo dõi."
+    },
+    {
+      "step": "Giới thiệu vòng",
+      "desc": "Chia sẻ về chiếc vòng tay phong thủy.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, ít liên quan."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Trải nghiệm ăn bạch tuộc chấm muối tiêu.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng món ăn."
+    },
+    {
+      "step": "Nhận xét",
+      "desc": "Đánh giá độ tươi ngon và độ no của bạch tuộc.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đói bụng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cái vòng tay thì mình làm bên chị Thanh Nhàn nên mọi người có gì nhắn cho chị nghe chứ bữa giờ thì ai cũng hỏi mình hết."
+  ],
+  "cta_type": [
+    "Truy cập trang cá nhân"
+  ],
+  "emotion_keywords": [
+    "nôn nao",
+    "trong ngóng",
+    "yếu yếu",
+    "giòn",
+    "no"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bữa nay trong lòng nôn nao trong ngóng từng ngày.",
+    "Lúc đầu thì mình thấy nó to quá nên tưởng là nó sẽ bị dai, nhưng mà không ngờ là nó không dai mà lại giòn nữa chứ.",
+    "Cái con bạch tuộc này thì tầm hai ba người mà làm cái lẩu ăn thì nó mới hết nổi, chứ cái râu nào cái râu nấy của nó to tổ bố chứ có nhỏ đâu."
+  ],
+  "hook_content": "Bữa nay trong lòng nôn nao trong ngóng từng ngày. Sao lâu tới quá dữ không biết nữa.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video ghi lại quá trình một người nhận được quà là một con bạch tuộc lớn, sau đó sơ chế, luộc và ăn thử, đồng thời chia sẻ cảm nhận về độ tươi ngon và no bụng của món ăn này. Bên cạnh đó, người này cũng khoe về chiếc vòng tay phong thủy đang đeo.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

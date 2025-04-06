@@ -1,0 +1,89 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Người bán giới thiệu sản phẩm tóp mỡ rim mắm tỏi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm."
+    },
+    {
+      "step": "Mô tả chi tiết",
+      "desc": "Mô tả hình dáng, mùi vị của tóp mỡ rim mắm tỏi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng, muốn ăn thử."
+    },
+    {
+      "step": "Trải nghiệm sản phẩm",
+      "desc": "Người bán ăn thử và diễn tả cảm nhận về hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy kích thích vị giác."
+    },
+    {
+      "step": "Đề xuất cách dùng",
+      "desc": "Gợi ý các cách ăn khác nhau với tóp mỡ rim.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích, có thêm gợi ý."
+    },
+    {
+      "step": "Đánh giá sản phẩm",
+      "desc": "Đánh giá sản phẩm phù hợp với người thích khẩu vị nào.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá."
+    },
+    {
+      "step": "Thông tin sản phẩm",
+      "desc": "Hướng dẫn nơi mua sản phẩm tóp mỡ rim mắm tỏi.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết cách mua sản phẩm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người thử bấm vào góc màn hình xem là cái sản phẩm này nó có đang được trợ giá không nhá.",
+    "Sản phẩm ở đâu thì mọi người biết ở đấy, ở góc màn hình mọi người thể bấm vào và tham khảo nhá."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "giòn",
+    "thơm",
+    "hấp dẫn",
+    "mặn mặn ngọt ngọt",
+    "cay nhẹ",
+    "cuốn",
+    "không ngán"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "người ta bán tóp mỡ rim mắm tỏi cực kỳ ngon luôn",
+    "bên ngoài tóp mỡ được áo một cái lớp sốp mắm tỏi ấy, khi mình mở ra nó rất là thơm luôn",
+    "tóp mỡ mà không có gia vị ấy, mình ăn khoảng mấy miếng là mình ngán rồi. Nhưng mà cái này có gia vị và người ta làm nó hài hòa nó ngon. Mình ăn không thấy ngán một chút nào nha"
+  ],
+  "hook_content": "Chào mọi người nhá. Mình biết là ăn tóp mỡ nhiều thì không tốt một chút nào. Thế nhưng mà cái shop này ấy, người ta bán tóp mỡ rim mắm tỏi cực kỳ ngon luôn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review sản phẩm tóp mỡ rim mắm tỏi, người bán giới thiệu sản phẩm, mô tả hương vị, trải nghiệm ăn thử và gợi ý cách dùng, sản phẩm phù hợp với người thích ăn giòn, mặn ngọt.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

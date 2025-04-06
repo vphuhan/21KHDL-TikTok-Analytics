@@ -1,0 +1,79 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bún cá định nấu và lý do lựa chọn món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món bún cá."
+    },
+    {
+      "step": "Chia sẻ trải nghiệm mua sắm",
+      "desc": "Chia sẻ trải nghiệm mua nguyên liệu và khó khăn khi mua ở Nhật.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị với khó khăn mua sắm ở nước ngoài."
+    },
+    {
+      "step": "Nhờ sự giúp đỡ",
+      "desc": "Chia sẻ việc phải nhờ mẹ giúp làm cá do không biết cách.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    },
+    {
+      "step": "Hướng dẫn công thức",
+      "desc": "Thông báo công thức được để trên màn hình và kêu gọi góp ý.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong muốn học hỏi công thức."
+    },
+    {
+      "step": "Kết thúc và chúc mừng",
+      "desc": "Thông báo món ăn đã hoàn thành và chúc mọi người thành công.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ và mong muốn thử làm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cách làm và công thức thì mình có để sẵn trên màn hình, mọi người tham khảo và góp ý cho mình nha.",
+    "Ta da, vậy là món bún cá của mình xong rồi, chúc mọi người thành công nha."
+  ],
+  "cta_type": [
+    "Chia sẻ công thức",
+    "Thử làm theo công thức",
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "thèm",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Hôm nào mà mình thử nấu món mới nào, y như rằng gia đình mình sẽ chụp ảnh lại.",
+    "rau củ ở Nhật đắt gì đâu, mỗi vài cọng thì là này thôi mà bốn năm chục cành.",
+    "mua cá xong quên không mua thì là, để hôm nay mưa gió bão bùng như thế này bắt tội mẹ đi mua"
+  ],
+  "hook_content": "Hôm nào mà mình thử nấu món mới nào, y như rằng gia đình mình sẽ chụp ảnh lại.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ về quá trình nấu món bún cá tại Nhật, từ việc mua nguyên liệu khó khăn đến công đoạn nấu và công thức được chia sẻ trên màn hình, đồng thời khuyến khích người xem thử làm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

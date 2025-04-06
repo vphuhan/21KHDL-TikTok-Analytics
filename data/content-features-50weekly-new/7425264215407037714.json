@@ -1,0 +1,90 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Than thở việc không biết nấu món gì khi được hỏi.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món gà om rau củ và nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Sơ chế gà, cà rốt, khoai tây, hành tây.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Xào gà và rau củ",
+      "desc": "Xào gà với ớt bột và các loại gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Thêm khoai tây bào",
+      "desc": "Thêm khoai tây bào để tạo độ sệt cho món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Nấu trứng hấp và miến",
+      "desc": "Nấu thêm món trứng hấp và miến ăn kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Hoàn thiện và mời ăn",
+      "desc": "Trộn cơm với rong biển và mời mọi người ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mời mọi người ăn cơm chung với cả nhà mình nha"
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "ghét"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Việt Nam mình vẫn là chân ái, đi xa cửa nào vẫn nhớ hương vị quê nhà.",
+    "Nhiều lúc mọi người đi làm hết, ở nhà mình làm biếng nấu, toàn ăn vặt không à."
+  ],
+  "hook_content": "Vậy ba tụi nhỏ đầu hàng rồi, không ăn gì cũng được nữa rồi nha.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình nấu ba món ăn tại nhà: gà om rau củ, trứng hấp và cơm trộn rong biển. Chủ वीडियो chia sẻ về việc nấu ăn cho gia đình và gợi nhớ kỷ niệm về hương vị quê nhà.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

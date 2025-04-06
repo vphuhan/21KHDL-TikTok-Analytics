@@ -1,0 +1,87 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu địa điểm",
+      "desc": "Giới thiệu suối nước nóng Kusatsu ở tỉnh Gunma, Nhật Bản.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về địa điểm."
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món trứng gà luộc từ suối nước nóng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Gọi món",
+      "desc": "Đặt 80 trứng gà luộc và giải thích lý do.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Chuẩn bị",
+      "desc": "Dán băng keo do bị trầy và chuẩn bị luộc trứng.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Lột trứng, chấm muối tiêu chanh và ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Miêu tả hương vị",
+      "desc": "Miêu tả hương vị trứng gà béo, không ngán.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn."
+    },
+    {
+      "step": "Lưu ý",
+      "desc": "Nhắc nhở ăn trứng khi còn nóng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thèm",
+    "béo",
+    "không ngán"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ở đây thì nổi tiếng là có một cái món trứng gà luộc từ suối nước nóng.",
+    "Cái trứng gà này thì bên trong của nó y chang như là tàu hủ non hay là bính lăng hồi bé bở vậy đó.",
+    "Bình thường mọi người ăn vài cái là thấy ngán rồi đúng không? Còn cái này mọi người ăn mười mấy cái cũng không ngán nữa."
+  ],
+  "hook_content": "Hôm nay thì mình có đi một cái suối nước nóng được mệnh danh là đệ nhất suối nước nóng tại Nhật.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu món trứng gà luộc từ suối nước nóng Kusatsu ở Nhật Bản, miêu tả hương vị béo nhẹ, không ngán và khuyên nên ăn khi còn nóng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu thử thách",
+      "desc": "Thông báo về thử thách 7 ngày ăn khuya với bún đậu mắm tôm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về thử thách và món ăn."
+    },
+    {
+      "step": "Ngày 2",
+      "desc": "Bắt đầu ngày thứ hai của thử thách, mời mọi người cùng ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy ngon miệng, thèm ăn."
+    },
+    {
+      "step": "Ngày 3",
+      "desc": "Cảm thấy hơi ngán sau 3 ngày ăn bún đậu mắm tôm.",
+      "impact_level": "1",
+      "viewer_emotion": "Đồng cảm với cảm giác ngán."
+    },
+    {
+      "step": "Ngày 4",
+      "desc": "Ăn bún đậu ở một địa điểm khác, nhận xét về món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị quán mới."
+    },
+    {
+      "step": "Ngày 6",
+      "desc": "Thực sự ngán và cố gắng ăn hết phần bún đậu.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm với sự ngán ngẩm."
+    },
+    {
+      "step": "Ngày cuối",
+      "desc": "Bữa ăn cuối cùng, muốn vứt luôn vì quá ngán.",
+      "impact_level": "2",
+      "viewer_emotion": "Vừa buồn cười vừa thấy tội."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "ngán",
+    "ớn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Hôm qua giờ ăn bún nhiều quá, ngán luôn á.",
+    "3 ngày ăn bắm tôm rồi đó.",
+    "Giờ mình cầm cái cuốn này mình muốn quăng luôn anh em ơi."
+  ],
+  "hook_content": "7 ngày ăn khuya với lại bún đậu mắm tôm hả.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện"
+  ],
+  "summarization": "Video ghi lại thử thách ăn bún đậu mắm tôm 7 ngày liên tiếp vào buổi khuya của một người. Ban đầu thấy ngon miệng nhưng sau đó càng ngày càng ngán.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành",
+    "Khó chịu"
+  ]
+}

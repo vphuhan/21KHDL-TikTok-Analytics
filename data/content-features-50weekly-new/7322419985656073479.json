@@ -1,0 +1,92 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Hỏi giá chuối nếp nướng, xôi mít và nhận xét về độ béo.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về giá cả và hương vị."
+    },
+    {
+      "step": "Chia sẻ trải nghiệm",
+      "desc": "Nhấn mạnh đây là lần đầu ăn chuối nếp nướng ở Hà Nội.",
+      "impact_level": "1",
+      "viewer_emotion": "Ngạc nhiên vì chưa thử món này trước đây."
+    },
+    {
+      "step": "Miêu tả không gian",
+      "desc": "Ấn tượng với gian hàng nhỏ xinh, màu sắc và lịch sử 7 năm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự độc đáo và lâu đời."
+    },
+    {
+      "step": "Phân tích thành phần",
+      "desc": "Nêu các thành phần tự nhiên và cách chế biến đặc biệt.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với nguyên liệu tự nhiên."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhấn mạnh sự kết hợp hoàn hảo của các thành phần.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử ngay."
+    },
+    {
+      "step": "Gợi ý món khác",
+      "desc": "Khuyên thử xôi mít với màu sắc hấp dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn thử món xôi mít."
+    },
+    {
+      "step": "Thông tin bổ sung",
+      "desc": "Nhận xét về vệ sinh, kích cỡ và tính tiện lợi khi mua mang về.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng và thấy tiện lợi."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Và đây là số một hàng đường mọi người tham khảo thử xem sao."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "béo ngậy",
+    "ngon",
+    "thơm",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nó béo ngậy luôn ấy",
+    "Ý là mình ở Hà Nội từ bé mà chưa đi ăn chuối nếp nướng bao giờ luôn",
+    "Mà không ăn này thật là có lỗi gì ý"
+  ],
+  "hook_content": "Cho em hỏi bao nhiêu tiền một hộp đấy ạ? là 40 em ạ. nướng bao nhiêu tiền ạ? 20 em ạ. nó béo ngậy luôn ấy.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu và đánh giá món chuối nếp nướng và xôi mít tại một quán ăn ở Hà Nội, với những nhận xét về hương vị, thành phần và không gian quán. Người làm video khuyến khích mọi người nên thử.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

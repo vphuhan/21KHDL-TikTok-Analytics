@@ -1,0 +1,96 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bánh",
+      "desc": "Giới thiệu bánh chưng cá hồi và bánh chưng truyền thống.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá ngoại hình",
+      "desc": "Đánh giá vẻ ngoài của bánh, so sánh hai loại.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Hấp bánh và kiểm tra",
+      "desc": "Hấp bánh nhưng bên trong vẫn lạnh, vỏ bánh nhão.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Thử nếm bánh cá hồi",
+      "desc": "Không cảm nhận rõ vị cá hồi, vỏ bánh quá nhão.",
+      "impact_level": "2",
+      "viewer_emotion": "Hụt hẫng"
+    },
+    {
+      "step": "Thử nếm bánh truyền thống",
+      "desc": "Bánh truyền thống bị ngấy, thịt mỡ ít.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Không chấm điểm bánh truyền thống vì không hợp gu.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Kết luận và CTA",
+      "desc": "Mong mọi người góp ý nếu có sai sót.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "có gì thì mọi người cứ comment a thí dụ góp ý nha, lỡ như có bất kỳ một công đoạn nào mình làm sai thì mình cứ góp ý nha."
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Ghé thăm địa điểm",
+    "So sánh",
+    "Đặt câu hỏi"
+  ],
+  "emotion_keywords": [
+    "hôi",
+    "lạnh tanh",
+    "không cảm nhận được vị",
+    "nhão",
+    "ngấy"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cá hồi thì đã hồi rồi mà phước của em thì hồi chưa tới.",
+    "Ở ngoài cái vỏ thì nó bị ái! Đây, nó bị nhão quá.",
+    "Với tui thì à cái bánh này ăn khá là ổn nói chung là nó không hề dở."
+  ],
+  "hook_content": "Bây giờ đang hot nhức mắt nhức chính là gì Mẹ gốm, 250 cành một cái.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review bánh chưng cá hồi và bánh chưng truyền thống, tập trung vào trải nghiệm cá nhân về hương vị và chất lượng sản phẩm. Người review đưa ra nhận xét chi tiết về ngoại hình, độ dẻo, và hương vị, đồng thời so sánh hai loại bánh.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

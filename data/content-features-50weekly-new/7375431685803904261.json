@@ -1,0 +1,68 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu số lượng kem và loại kem cà phê Oreo.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Ăn và miêu tả",
+      "desc": "Miêu tả hương vị kem cà phê giống bánh Oreo và thơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Cảm nhận",
+      "desc": "Miêu tả độ dẻo của kem và so sánh với thạch.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Nếm thử",
+      "desc": "Nếm và miêu tả hương vị kem thanh mai chua ngọt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "dẻo",
+    "chua chua ngọt ngọt",
+    "cay cay"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Í chang cái bánh Oreo luôn ý.",
+    "Cắn rất là dẻo nha. Có cảm giác cắn hơi giống mình cắn thạch ấy.",
+    "Chua chua ngọt ngọt như ô mai ý. Cay cay như hạt muối vậy."
+  ],
+  "hook_content": "Kem của em đâu? Ok đây là tôi có 1 2 3 4 5 cái kem nhé.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang kem Trung Quốc, người ăn giới thiệu và miêu tả hương vị, độ dẻo của các loại kem khác nhau như kem cà phê Oreo và kem thanh mai.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

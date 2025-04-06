@@ -1,0 +1,94 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu chân gà sốt thái và sự yêu thích với món ăn này.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị khi thấy món ăn hấp dẫn."
+    },
+    {
+      "step": "Diễn tiểu phẩm mua bán",
+      "desc": "Tái hiện cảnh mua bán chân gà với diễn viên 'non kinh nghiệm'.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi hài hước, diễn xuất chưa đạt."
+    },
+    {
+      "step": "Chia sẻ công thức",
+      "desc": "Làm chân gà sốt thái theo công thức trên TikTok, nhấn mạnh độ ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về công thức bí mật."
+    },
+    {
+      "step": "Thực hiện công thức",
+      "desc": "Xay nguyên liệu, nấu sốt, thêm tương ớt 'bí mật'.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với quá trình làm."
+    },
+    {
+      "step": "Phục vụ khách",
+      "desc": "Bán chân gà và sữa chua cho 'khách hàng' đặc biệt.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ, nhưng hơi nghi ngờ."
+    },
+    {
+      "step": "Phát hiện 'bùng' tiền",
+      "desc": "Nhận ra khách hàng khen để không phải trả tiền.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ, hơi bực mình."
+    },
+    {
+      "step": "Kết thúc bán ế",
+      "desc": "Không có khách, tự ăn và mời mọi người 'ăn online'.",
+      "impact_level": "2",
+      "viewer_emotion": "Thông cảm, hơi buồn cười."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mời cả nhà ăn online nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "dính",
+    "ngon",
+    "thích",
+    "cảm tình"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Diễn viên yếu nghề nên là nhầm nhọt một tí.",
+    "Thuê được anh Nguyên chạy ca đóng vai người mua chân gà nhưng mà non mà tồ tề quá như kiểu học sinh mẫu giáo đi học vậy đó.",
+    "Ơ về sau ngứa đít mới nhớ là làm gì đã trả tiền chân gà với cả sinh tố đâu."
+  ],
+  "hook_content": "Ai em chân gà sả tắc không ạ? Có tơi có tơi. Chân gà sốt Thái nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện",
+    "Kịch hóa"
+  ],
+  "summarization": "Video kể về quá trình làm và bán chân gà sốt thái của một người bán hàng online. Cô vừa chia sẻ công thức, vừa diễn tiểu phẩm mua bán, nhưng cuối cùng lại bị khách 'bùng' tiền.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

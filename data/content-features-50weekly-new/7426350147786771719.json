@@ -1,0 +1,79 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Nhắc lại trải nghiệm cũ và giới thiệu trải nghiệm mới.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về trải nghiệm mới."
+    },
+    {
+      "step": "Nếm thử",
+      "desc": "Nếm thử socola và mô tả cảm nhận ban đầu về sản phẩm.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú với hương vị socola."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Đánh giá kết cấu, hương vị và sự kết hợp của socola.",
+      "impact_level": "2",
+      "viewer_emotion": "Hiểu rõ hơn về sản phẩm."
+    },
+    {
+      "step": "So sánh & Đánh giá",
+      "desc": "So sánh trải nghiệm trước và đánh giá giá trị sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình với đánh giá."
+    },
+    {
+      "step": "Khuyến nghị",
+      "desc": "Đưa ra lời khuyên cho người xem muốn thử sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Cân nhắc mua sản phẩm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Ai chưa trải nghiệm giống như mình ý thì có thể mua về trải nghiệm nha.",
+    "Mình được trải nghiệm rồi, mọi người thử nha, ăn cũng được, rất là ngon luôn, sản phẩm ở góc."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "hơi đắng đắng",
+    "ngọt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái này mà bỏ tủ lạnh nữa thì nó sẽ rất là giòn luôn nha mọi người.",
+    "Bên ngoài viên socola này sẽ được bọc một cái lớp cacao và vị của nó đắng. Và khi mình ăn cùng với vị ngọt của socola thì rất là ngon nha.",
+    "Cá nhân mình thấy thì nó ngon so với giá tiền mọi người bỏ ra."
+  ],
+  "hook_content": "Những hình ảnh vừa rồi mà các bạn nhìn thấy đấy là khi mình trải nghiệm socola Nama vào mùa hè. Và bây giờ thì thời tiết nó đã mát hơn rất là nhiều rồi. Và ngày hôm nay mình sẽ được trải nghiệm socola Nama một cách trọn vẹn hơn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review socola Nama, tập trung vào trải nghiệm hương vị và chất lượng sản phẩm so với giá thành. Người nói khuyến khích người xem nên thử sản phẩm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

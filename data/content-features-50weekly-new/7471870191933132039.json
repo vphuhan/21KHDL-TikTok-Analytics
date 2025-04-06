@@ -1,0 +1,101 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món trân châu chanh leo tự làm vì không ai bán.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Nêu các nguyên liệu cần thiết và tỉ lệ ước chừng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Hướng dẫn thực hiện",
+      "desc": "Hướng dẫn các bước nhào bột, tạo hình và luộc trân châu.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Hoàn thành",
+      "desc": "Trân châu hoàn thành có hình thức hấp dẫn.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Gợi ý các loại đồ uống kết hợp với trân châu chanh leo.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Đánh giá hương vị, độ ngon và độ an toàn của món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Đồng tình"
+    },
+    {
+      "step": "Lưu ý",
+      "desc": "Ăn nhiều trân châu có thể làm mỏi quai hàm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Các quán trà sữa với cả các quán nước ơi, làm ơn là có thể cho thêm cái món trân châu chanh leo này vào menu của quán được không ạ?"
+  ],
+  "cta_type": [
+    "Chia sẻ công thức",
+    "Đặt câu hỏi"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thèm",
+    "dẻo",
+    "dai",
+    "thơm",
+    "chua chua",
+    "ngon hơn hẳn",
+    "đảm bảo",
+    "ngon",
+    "thanh",
+    "mát",
+    "ngon lắm",
+    "mỏi"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Vì chanh leo nó chua ấy cho nên mình sẽ phải đun chanh leo cùng với đường và một ít nước.",
+    "Mà mình nói thật những cái loại trân trâu hoa quả này nhá, uống cùng với nước dừa sao nó ngon thế nhỉ?",
+    "Ăn nó còn có cái vị chua chua của chanh leo nữa. Mà đúng là ăn cái cục trân trâu tươi mà mình tự làm có khác."
+  ],
+  "hook_content": "Các quán trà sữa với cả các quán nước ơi, làm ơn là có thể cho thêm cái món trân châu chanh leo này vào menu của quán được không ạ?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn cách làm trân châu chanh leo tại nhà vì không có quán nào bán, đồng thời gợi ý kết hợp với nước dừa tắc để tăng thêm hương vị và giảm độ ngấy.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

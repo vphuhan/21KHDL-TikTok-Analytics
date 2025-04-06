@@ -1,0 +1,95 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Cắt xoài, dưa cốc, luộc chân gà và ngâm đá.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với các nguyên liệu tươi ngon."
+    },
+    {
+      "step": "Pha chế nước sốt",
+      "desc": "Pha nước mắm, me, đường, bột ngọt, sả tế, tương ớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về công thức nước sốt đặc biệt."
+    },
+    {
+      "step": "Nấu và trộn",
+      "desc": "Khuấy đều nước sốt, trộn với chân gà và các nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi quá trình chế biến tỉ mỉ."
+    },
+    {
+      "step": "Trình bày món ăn",
+      "desc": "Bày món chân gà sốt thái ra đĩa hấp dẫn.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng khi nhìn thành phẩm."
+    },
+    {
+      "step": "Chuẩn bị bữa tiệc",
+      "desc": "Hái đu đủ, ớt, tưới hoa và chuẩn bị bàn tiệc.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thể hiện sự chuẩn bị chu đáo."
+    },
+    {
+      "step": "Mời mọi người",
+      "desc": "Mời mọi người ăn chân gà sốt thái cùng nhau.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp, cảm nhận được sự vui vẻ, thân thiện."
+    },
+    {
+      "step": "Chúc mừng sinh nhật",
+      "desc": "Chúc mừng sinh nhật bạn quay phim và bạn Trình.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ, cảm nhận được không khí sinh nhật."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mời cả nhà ăn chân gà sốt thái với anh em tứng nhà."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "chua",
+    "cay",
+    "thơm",
+    "đã",
+    "mừng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bài thấy xòi chua y là chua.",
+    "Tương ớt Chinsu thơm cay cho vạn món ngon bùng vị.",
+    "Khoan đã, món này phải cay cay mới đã."
+  ],
+  "hook_content": "Bài thấy xòi chua y là chua, mình cắt vuông vuông ra vậy nè rồi cho hết vào thao.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm món chân gà sốt thái chua cay thơm ngon, từ khâu chuẩn bị nguyên liệu, pha chế nước sốt đến trộn và bày ra đĩa. Cuối video là cảnh mọi người cùng nhau thưởng thức và chúc mừng sinh nhật.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

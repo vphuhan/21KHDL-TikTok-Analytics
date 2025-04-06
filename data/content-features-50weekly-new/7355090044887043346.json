@@ -1,0 +1,73 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Xin lỗi vì phải mukbang ở bếp do combo đồ ăn vặt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Liệt kê các món ăn vặt trong combo: bim bim, thạch dừa,...",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Bim bim gợi nhớ tuổi thơ, combo giá tốt sản xuất ở Thái Bình.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Kêu gọi mua hàng",
+      "desc": "Khuyến khích mua combo giá rẻ ở góc trái màn hình.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mọi người hãy tranh thủ mọi người ấn vào góc trái màn hình để mọi người mua với mức giá 155.000 sáu gói to như thế này và được tặng thêm 20 gói thạch dừa như này nhá, mọi người tranh thủ nhá."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ăn",
+    "thật",
+    "đặc biệt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Vì cái combo đồ ăn vặt này mà mình phải múc ban ở ngoài phòng bếp đây này.",
+    "Bim bim tuổi thơ ngày xưa mẹ hay mua cho ăn.",
+    "Mình đã săn được combo này với giá 155.000 mà điều đặc biệt là nó được sản xuất ở Thái Bình luôn."
+  ],
+  "hook_content": "Xin lỗi tất cả mọi người bởi vì clip này mình không thể múc ban trong phòng được.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang combo đồ ăn vặt Thái Bình, giới thiệu các loại bim bim, thạch dừa và đánh giá hương vị, giá cả, đồng thời kêu gọi người xem mua hàng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

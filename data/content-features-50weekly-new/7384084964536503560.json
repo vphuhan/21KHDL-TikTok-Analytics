@@ -1,0 +1,73 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mô tả món ăn",
+      "desc": "Giới thiệu món viên phô mai và hương vị ngọt ngào.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị."
+    },
+    {
+      "step": "Đánh giá chất lượng",
+      "desc": "Nhận xét về độ nóng và ngon của viên phô mai.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món ăn."
+    },
+    {
+      "step": "Trải nghiệm cá nhân",
+      "desc": "Chia sẻ về việc thỏa mãn ước nguyện ăn viên phô mai.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Lời khen",
+      "desc": "Nhấn mạnh hương vị ngon của viên phô mai.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn các bạn đã theo dõi video nhé. Chào các bạn."
+  ],
+  "cta_type": [
+    "Follow kênh",
+    "Thích video",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngọt",
+    "nóng",
+    "ngon",
+    "tuyệt vời",
+    "sướng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Hôm nay là mình đã thực sự thỏa ước nguyện chỉ ăn mỗi viên mai thôi.",
+    "Và chỉ có một mình mình ăn thôi.",
+    "Nóng và ngon anh em ạ."
+  ],
+  "hook_content": "Ưm.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình ăn viên phô mai của một người, tập trung vào việc thể hiện sự thỏa mãn và hương vị ngon của món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

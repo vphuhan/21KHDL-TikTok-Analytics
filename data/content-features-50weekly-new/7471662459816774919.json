@@ -1,0 +1,69 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu lạp xưởng",
+      "desc": "Giới thiệu số lượng và hình dáng của lạp xưởng nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về số lượng và hình dáng."
+    },
+    {
+      "step": "Ăn và miêu tả",
+      "desc": "Ăn lạp xưởng và miêu tả độ mọng nước.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá lạp xưởng quá ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình với đánh giá."
+    },
+    {
+      "step": "Kêu gọi mua hàng",
+      "desc": "Hướng dẫn mua lạp xưởng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ấn vào góc trái màn hình để tham khảo nhá."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "mọng nước"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Hơn 90 cành 10 cái lạp xưởng nha các bác",
+    "mọng nước nứt cả ra",
+    "Quá ngon"
+  ],
+  "hook_content": "nhìn với cạch 10 cái nhá, mọng nước nứt cả ra như vậy các bạn.",
+  "hook_type": [
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu và ăn thử lạp xưởng nướng, miêu tả độ mọng nước và hương vị ngon, đồng thời hướng dẫn cách mua.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

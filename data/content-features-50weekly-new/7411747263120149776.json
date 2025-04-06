@@ -1,0 +1,96 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Chuẩn bị",
+      "desc": "Mua đồ ăn dự trữ vì nghe tin bão sắp đến, lo siêu thị hết đồ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy sự chuẩn bị chu đáo và cẩn thận."
+    },
+    {
+      "step": "Bất ngờ",
+      "desc": "Đến siêu thị thấy vẫn còn nhiều đồ, trời nắng nóng.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy nhẹ nhõm và vui vẻ vì không cần lo lắng."
+    },
+    {
+      "step": "Ăn sáng",
+      "desc": "Ăn bánh mì tươi kem lạnh và sữa gạo.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy đói bụng và tò mò về món bánh."
+    },
+    {
+      "step": "Giới thiệu bánh",
+      "desc": "Review bánh mì tươi kem lạnh của Hà Nội, có 2 vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn biết thêm về bánh và hương vị."
+    },
+    {
+      "step": "Đánh giá bánh",
+      "desc": "Nhấn mạnh về độ ngon, tiện lợi và bảo quản lâu của bánh.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn mua bánh để thử."
+    },
+    {
+      "step": "Kỷ niệm",
+      "desc": "Nhớ lại kỷ niệm hồi bé thèm bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đồng cảm và nhớ về tuổi thơ."
+    },
+    {
+      "step": "Thời tiết",
+      "desc": "Cảnh báo thời tiết sắp có bão.",
+      "impact_level": "1",
+      "viewer_emotion": "Hơi lo lắng về thời tiết."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "hơi hơi hốt hoảng",
+    "lo lắng hơi quá",
+    "ưng quá trời",
+    "nhẹ nhõm",
+    "thong thả",
+    "ngon",
+    "béo ngậy",
+    "mê",
+    "ngon thật",
+    "thích",
+    "thoải mái",
+    "phù phê",
+    "sợ quá"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cái bánh này là cái bánh mì tươi kem lạnh của Hà Nội nha xịn đét luôn.",
+    "Ta nói là ước gì hồi đi học mẹ cũng mua cái bánh này xong rồi dúi vào cặp cho mình mỗi sáng để đến lớp ăn thì chắc là bây giờ mình cũng cố gắng học lên thạc sĩ rồi đấy.",
+    "Giờ lớn rồi là thoải mái tung bay khắp phương trời cuối đất, ăn sáng là thoải mái phù phê thích ăn gì cũng được."
+  ],
+  "hook_content": "Tối hôm qua là nghe tin bão vào, sáng ra là cũng bày đặt dậy sớm xuống dưới mua đồ sợ hết.",
+  "hook_type": [
+    "Gây tò mò",
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video kể về trải nghiệm đi mua đồ ăn dự trữ khi nghe tin bão, sau đó review bánh mì tươi kem lạnh, nhấn mạnh về độ ngon và tiện lợi của sản phẩm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

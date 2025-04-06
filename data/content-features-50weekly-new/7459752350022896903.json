@@ -1,0 +1,90 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người ăn chay, ăn healthy",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu mở đầu",
+      "desc": "Giới thiệu bản thân và lịch trình chiêu cuối năm gần Tết.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự chuẩn bị cho ngày Tết."
+    },
+    {
+      "step": "Thói quen buổi sáng",
+      "desc": "Chia sẻ thói quen uống nước buổi sáng và giới thiệu nước LaVie.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến sản phẩm và thói quen tốt."
+    },
+    {
+      "step": "Giới thiệu chương trình khuyến mãi",
+      "desc": "Giới thiệu chương trình khuyến mãi của nước LaVie.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin về khuyến mãi."
+    },
+    {
+      "step": "Ăn trưa tại nhà hàng chay",
+      "desc": "Đi ăn trưa tại nhà hàng chay mới mở Hồi Chay.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về nhà hàng chay mới."
+    },
+    {
+      "step": "Tham gia workshop cắm hoa",
+      "desc": "Tham gia workshop cắm hoa bàn tiệc cuối năm.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với không gian và hoạt động."
+    },
+    {
+      "step": "Nhắc nhở uống nước",
+      "desc": "Nhắc nhở về cách uống nước đúng cách.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhớ thông tin hữu ích."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Kết thúc một ngày chiêu cuối năm và lời chúc.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy được truyền cảm hứng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Gần Tết bận rộn, mọi người nhớ giữ sức khỏe, nhớ uống Lavi trong những khoảnh khắc nghỉ ngơi để cùng tái tạo tâm trí và cơ thể để có thể cân trọn ngày Tết náo nhiệt sắp tới nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "thư thái",
+    "tái tạo tâm trí",
+    "sảng khoái",
+    "yên"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Năm nay Tết đến sớm cho nên là bận ghê á, nhưng mà mình vẫn phải dành ra một ngày chậm lại chiêu một chút để sạc pin không thì đuối lắm và cũng là để tìm khoảnh khắc tái tạo tâm trí và cơ thể nữa.",
+    "Ngồi trên ban công tầng hai này nghe tiếng chuông gió, nghe nhạc thiền rồi là thưởng thức các món chay cảm thấy thật là thư thái.",
+    "Mọi người có biết là cách uống nước tốt nhất là cứ 30 cho đến 45 phút là uống một ngụm chứ không phải là đến khi thấy rất là khát thì mới uống nhiều không?"
+  ],
+  "hook_content": "Lịch trình một ngày chiêu cuối năm gần Tết của mình sẽ có ngủ nướng, đi ăn một quán đồ chay mới mở và tham gia lớp workshop cắm hoa bàn tiệc.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ về lịch trình một ngày chiêu cuối năm của người nói, bao gồm ngủ nướng, ăn chay tại nhà hàng mới, tham gia workshop cắm hoa và uống nước LaVie để tái tạo năng lượng. Video khuyến khích mọi người dành thời gian nghỉ ngơi và chăm sóc bản thân trước Tết.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

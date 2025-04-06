@@ -1,0 +1,94 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Gọi món",
+      "desc": "Khách hàng gọi nhiều món trứng mai, nem chua nướng và món khác.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thủ tục order phổ biến."
+    },
+    {
+      "step": "Giới thiệu địa điểm",
+      "desc": "Giới thiệu địa điểm quán trứng chén nướng Út Hiền.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin cơ bản về địa điểm."
+    },
+    {
+      "step": "Review trứng chén nướng",
+      "desc": "Miêu tả chi tiết thành phần và hương vị trứng chén nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng với mô tả món ăn."
+    },
+    {
+      "step": "Review nem chua nướng",
+      "desc": "Nhận xét về độ mềm dẻo và hương vị lá chuối của nem.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị đặc biệt."
+    },
+    {
+      "step": "Review bánh tráng cuộn",
+      "desc": "Miêu tả nhân bánh tráng đầy đặn và lớp sốt bơ hấp dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với sự đầy đặn của món ăn."
+    },
+    {
+      "step": "Nhận xét nước ép",
+      "desc": "Đề cập đến nước ép dưa hấu ngon.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin thêm về đồ uống."
+    },
+    {
+      "step": "Tổng kết",
+      "desc": "Đánh giá chung là ok la và khuyến khích mọi người trải nghiệm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá tổng quan."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người có thể đến trải nghiệm và dùng thử nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "béo ngậy",
+    "thơm",
+    "mềm",
+    "dẻo",
+    "đã",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn nó béo ngậy mà nó thơm. Mọi người mà qua thì nhất định phải thử nha.",
+    "Món này hình như chỉ có Hà Nội có chứ ở Hải Phòng thì tôi chưa thấy ở chỗ nào bán.",
+    "Nhân nó đầy ú ụ luôn. Có xoài, bò khô, trứng, rau răm. Bên ngoài thì được phủ lớp sốt bơ, ăn nó đã thực sự luôn."
+  ],
+  "hook_content": "Chị ơi, em thêm năm trứng mai nữa nhá.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán trứng chén nướng Út Hiền ở Đào Duy Từ, nổi tiếng với trứng chén nướng, nem chua nướng và bánh tráng cuộn. Người nói đánh giá cao hương vị và khuyên mọi người nên thử.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

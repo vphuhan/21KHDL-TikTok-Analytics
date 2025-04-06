@@ -1,0 +1,59 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món mực nhồi thịt siêu to giá 300k.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về kích cỡ và giá cả."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá độ ngon và trải nghiệm ăn món mực nhồi thịt.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử."
+    },
+    {
+      "step": "Nhận xét chung",
+      "desc": "Đưa ra nhận xét về việc có muốn thử lại hay không.",
+      "impact_level": "2",
+      "viewer_emotion": "Cân nhắc về giá trị."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "đã",
+    "phê"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mực nhồi thịt siêu to này ăn rất đã luôn.",
+    "Bên trong thì thịt nhiều, bên ngoài thì mực giòn.",
+    "Ăn phải nói quá là phê nhưng mà chắc chỉ dám thử một lần."
+  ],
+  "hook_content": "review cả thế giới thử mực nhồi thịt siêu to giá 300k.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review món mực nhồi thịt siêu to với giá 300k, người review đánh giá cao về độ ngon và sự đã miệng nhưng cân nhắc về giá cả.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

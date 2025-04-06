@@ -1,0 +1,78 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Người bán giới thiệu món gỏi cuốn giá 40.000đ ở Hội An.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Miêu tả hình thức",
+      "desc": "Miêu tả cuốn gỏi cuốn có bốn con tôm, hấp dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hình thức món ăn khá hấp dẫn."
+    },
+    {
+      "step": "Bất ngờ",
+      "desc": "Cảm thấy bất ngờ khi gỏi cuốn bị cắt thành từng miếng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy lạ và tò mò về cách ăn."
+    },
+    {
+      "step": "Trải nghiệm hương vị",
+      "desc": "Nhận xét gỏi cuốn không ngon, nước chấm lạc lẽo.",
+      "impact_level": "3",
+      "viewer_emotion": "Thất vọng về hương vị."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Cảm thấy 40.000đ mất đi vô nghĩa.",
+      "impact_level": "3",
+      "viewer_emotion": "Tiếc tiền khi trải nghiệm không tốt."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "vô tri",
+    "ngon",
+    "hấp dẫn",
+    "đam mê",
+    "lạ lạ",
+    "không liên quan",
+    "lạc lẽo",
+    "không có sự liên kết",
+    "vô tri"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cứ đi đâu mà nhìn thấy gỏi cuốn nhìn nó ngon ngon xíu là mình mua à.",
+    "Rồi mình ăn vô trời ta nói ai vậy y chang luôn.",
+    "Mọi thứ nó dường như không có sự liên kết luôn á."
+  ],
+  "hook_content": "Có lẽ đây là cái món ăn mà mình cảm thấy nó vô tri nhất khi mà đi Hội An á.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review món gỏi cuốn ở Hội An với giá 40k, nhưng người nói không hài lòng về hương vị và cách trình bày của món ăn, cảm thấy tiền mất vô ích.",
+  "tone_of_voice": [
+    "Chân thành",
+    "Khó chịu",
+    "Bốc phốt"
+  ]
+}

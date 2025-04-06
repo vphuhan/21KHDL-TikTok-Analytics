@@ -1,0 +1,99 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món cá tai tượng chiên xù và các loại nước chấm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn và cách thưởng thức."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Cả hai cùng nhau ăn và cuốn cá với rau, chấm nước chấm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với cách ăn và cuốn cá."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Nhận xét về độ giòn của da cá và hương vị của món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy món ăn có vẻ hấp dẫn."
+    },
+    {
+      "step": "Tương tác hài hước",
+      "desc": "Trêu chọc nhau về việc ăn phần ngon nhất của cá.",
+      "impact_level": "3",
+      "viewer_emotion": "Vui vẻ và thích thú với sự hài hước."
+    },
+    {
+      "step": "Quan tâm, chăm sóc",
+      "desc": "Ảnh gắp và lóc thịt cá cho Bảo Ngọc.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với sự quan tâm lẫn nhau."
+    },
+    {
+      "step": "Trêu ghẹo",
+      "desc": "Trêu chọc về việc kén ăn và thích ăn xương cá.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với tính cách trái ngược."
+    },
+    {
+      "step": "Kết thúc video",
+      "desc": "Cả hai chào tạm biệt và cảm ơn người xem.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy video đã kết thúc trọn vẹn."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cám ơn mọi người đã coi clip của tụi mình.",
+    "Cám ơn mọi người đã xem clip."
+  ],
+  "cta_type": [
+    "Thích video",
+    "Bình luận",
+    "Chia sẻ"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "giòn",
+    "đắng",
+    "ngọt",
+    "thơm",
+    "khó chịu",
+    "tiết kiệm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đắng giống như là cái cách mà Ảnh đối xử với Bảo Ngọc vậy á.",
+    "Cái phần đó đó là ăn tốt cho sức khỏe lắm á! Có nghĩa là nó sẽ chắp cánh ước mơ của mình đi á.",
+    "Ăn vẩy cá vậy chứ ngon."
+  ],
+  "hook_content": "Đắng giống như là cái cách mà Ảnh đối xử với Bảo Ngọc vậy á.",
+  "hook_type": [
+    "Gây tò mò",
+    "Gây tranh cãi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại",
+    "Kịch hóa"
+  ],
+  "summarization": "Video ghi lại cảnh Bảo Ngọc và Ảnh cùng nhau ăn món cá tai tượng chiên xù, vừa ăn vừa trêu đùa nhau tạo không khí vui vẻ, thân thiện. Cả hai đánh giá món ăn và tương tác hài hước về sở thích ăn uống.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Phát hiện trà lam mốc",
+      "desc": "Người con phát hiện trà lam bị mốc và báo cho mẹ.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên và lo lắng"
+    },
+    {
+      "step": "Mẹ không tin",
+      "desc": "Mẹ không tin trà lam mốc và vẫn muốn ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bất ngờ"
+    },
+    {
+      "step": "Thuyết phục",
+      "desc": "Người con cố gắng thuyết phục mẹ không ăn trà lam mốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thương cảm"
+    },
+    {
+      "step": "So sánh",
+      "desc": "Con so sánh với cà chua thối để thuyết phục mẹ.",
+      "impact_level": "2",
+      "viewer_emotion": "Hài hước"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Người con than thở về thói quen tiết kiệm của mẹ.",
+      "impact_level": "1",
+      "viewer_emotion": "Đồng cảm"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Drama"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "mốc",
+    "tiết kiệm",
+    "chịu",
+    "thối"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cái trà lam này nó mốc như thế này này mẹ này.",
+    "Mẹ mẹ tiết kiệm không phải đường.",
+    "Người già ăn rẻ mộc túm các bạn ạ."
+  ],
+  "hook_content": "Ư, cái gì đấy? Cái này này. Ôi thôi thôi con lạy mẹ ạ.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video ghi lại cảnh người con phát hiện trà lam của mẹ bị mốc và cố gắng ngăn mẹ ăn, đồng thời than thở về thói quen tiết kiệm quá mức của người già.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Khó chịu"
+  ]
+}

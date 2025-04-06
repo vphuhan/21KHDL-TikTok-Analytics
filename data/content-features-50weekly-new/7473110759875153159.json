@@ -1,0 +1,92 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về Maze Bar Đà Lạt và trải nghiệm lạc lối.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về trải nghiệm lạc lối."
+    },
+    {
+      "step": "Khám phá đường đi",
+      "desc": "Khám phá các ngã rẽ và đường lên xuống trong Maze Bar.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với sự phức tạp của mê cung."
+    },
+    {
+      "step": "Tìm kiếm nhà vệ sinh",
+      "desc": "Nỗ lực tìm kiếm nhà vệ sinh trong mê cung.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với sự khó khăn khi tìm đường."
+    },
+    {
+      "step": "Đầu thai",
+      "desc": "Uống chanh mật ong để 'đầu thai' sau khi lạc lối.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hài hước với cách ví von."
+    },
+    {
+      "step": "Lên đỉnh",
+      "desc": "Cuối cùng cũng lên được đỉnh của Maze Bar.",
+      "impact_level": "3",
+      "viewer_emotion": "Vui mừng khi đạt được mục tiêu."
+    },
+    {
+      "step": "Khám phá khu vườn",
+      "desc": "Khám phá khu vườn trên sân thượng và ngắm cảnh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với khu vườn độc đáo."
+    },
+    {
+      "step": "Check-in",
+      "desc": "Check-in tại đỉnh của Maze Bar.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn đến check-in tại đây."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Check-in nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Lưu video"
+  ],
+  "emotion_keywords": [
+    "hú hồn",
+    "chill",
+    "đã",
+    "sợ",
+    "ghê",
+    "thúi"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tôi đố ai mà xuống được cái đường này luôn ấy, cái này 108kg vô là kẹt chết.",
+    "Ở trong á đi ra ngoài nó hầm nó nóng nha, nhưng mà lên đây gió nó thổi mình thấy lạnh.",
+    "Ở trong nó thiết kế như là cái ổ chuột vậy đó, nó thông thông nhau nên mọi người đi mọi người bị rối á."
+  ],
+  "hook_content": "để cái ông Pháp sư nào ở Đà Lạt thiết kế cái quán cà phê như cái mê cung vậy đó, đi lần thứ hai rồi vẫn lầm đường lạc lối.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review Maze Bar ở Đà Lạt, nơi mà người xem có thể lạc lối trong mê cung. Người review đã cố gắng lên đến đỉnh của Maze Bar và khám phá những điều thú vị ở đó.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu về bản thân và mối quan hệ",
+      "desc": "Tác giả giới thiệu về mình và mối quan hệ với người yêu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị khi nghe về mối quan hệ đặc biệt."
+    },
+    {
+      "step": "Khen ngợi sở thích ăn uống của người yêu",
+      "desc": "Khen người yêu dễ ăn và đảm đang trong việc nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp khi thấy sự quan tâm lẫn nhau."
+    },
+    {
+      "step": "Giới thiệu món ăn và nguyên liệu",
+      "desc": "Giới thiệu món bún trộn Nam Bộ và nước ngâm rau.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn và sản phẩm được giới thiệu."
+    },
+    {
+      "step": "Chia sẻ về quá khứ",
+      "desc": "Kể về sự khác biệt giữa hai người thời đi học.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị khi nghe về sự thay đổi trong mối quan hệ."
+    },
+    {
+      "step": "So sánh hiện tại",
+      "desc": "So sánh về sự thay đổi giao diện giữa hai người.",
+      "impact_level": "2",
+      "viewer_emotion": "Hài hước khi nghe về sự so sánh ngoại hình."
+    },
+    {
+      "step": "Kết luận về người yêu",
+      "desc": "Khen ngợi những đức tính tốt đẹp của người yêu.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm động trước tình cảm chân thành."
+    },
+    {
+      "step": "Giới thiệu sản phẩm nước rửa bát",
+      "desc": "Giới thiệu nước rửa bát lành tính và sạch kin kít.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, nhưng hữu ích cho người quan tâm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "quý",
+    "yên tâm",
+    "thích"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Thế mà chỉ vì cái bát nước chấm mình pha bữa ăn gà nướng ở nhà thằng Hùng hồi năm hai đại học mà trúng tiếng sét ái tình.",
+    "Đấy trông mình đảm đang như thế này mà 3 năm cấp 3 anh Nguyên không hề nhận ra.",
+    "Boy cute phô mai que của mình thôi, đảm đang tháo vát có trách nhiệm, đặc biệt là luôn luôn hoàn thành tốt nghĩa vụ rửa bát của mình."
+  ],
+  "hook_content": "Mình là hồi cấp ba học chung lớp với cả anh Nguyên, mà 3 năm trời anh Nguyên không thích mình một tẹo nào.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện",
+    "So sánh"
+  ],
+  "summarization": "Video kể về câu chuyện tình yêu của tác giả và người yêu, từ những ngày cấp ba cho đến hiện tại, đồng thời giới thiệu món bún trộn Nam Bộ và các sản phẩm chăm sóc sức khỏe.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu cách ăn gà ngon nhất với muối tiêu chanh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Chuẩn bị chân gà để hấp và giới thiệu nguyên liệu làm muối.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Công thức muối tiêu chanh",
+      "desc": "Hướng dẫn chi tiết công thức làm muối tiêu chanh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "Xay và trộn nguyên liệu",
+      "desc": "Xay các nguyên liệu ướt và trộn với tiêu đã rang.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Hoàn thành và thưởng thức",
+      "desc": "Đảo đều, thêm lá chanh và thưởng thức cùng gà.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Bảo quản",
+      "desc": "Hướng dẫn cách bảo quản muối tiêu chanh.",
+      "impact_level": "1",
+      "viewer_emotion": "Ổn định"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Sáng tạo"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thần thánh",
+    "đảm bảo"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cách đơn giản nhất để có thể ăn hết một con gà, đó là chỉ cần một chén muối tiêu chấm thiệt là ngon.",
+    "Chấm một lần á đảm bảo gà với hải sản không biết bao nhiêu cho đủ nữa.",
+    "Cái này thì mọi người để tủ lạnh cả tháng luôn nha."
+  ],
+  "hook_content": "Cách đơn giản nhất để có thể ăn hết một con gà, đó là chỉ cần một chén muối tiêu chấm thiệt là ngon.",
+  "hook_type": [
+    "Cho thấy kết quả trước",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm muối tiêu chanh chấm gà và hải sản siêu ngon, có thể bảo quản lâu trong tủ lạnh. Công thức đơn giản, dễ làm và có thể điều chỉnh theo khẩu vị cá nhân.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Người bán giới thiệu món phong nhục và số lượng khách gọi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn và số lượng lớn."
+    },
+    {
+      "step": "Trình bày món ăn",
+      "desc": "Mô tả cách món phong nhục được chế biến và phục vụ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với cách trình bày độc đáo."
+    },
+    {
+      "step": "Ăn và cảm nhận",
+      "desc": "Cô gái ăn liên tục và thể hiện sự thích thú.",
+      "impact_level": "3",
+      "viewer_emotion": "Ngạc nhiên trước khả năng ăn của cô gái."
+    },
+    {
+      "step": "Gọi thêm món",
+      "desc": "Cô gái tiếp tục gọi thêm nhiều phong nhục và cơm.",
+      "impact_level": "3",
+      "viewer_emotion": "Kinh ngạc và thán phục trước sức ăn."
+    },
+    {
+      "step": "Kết thúc bữa ăn",
+      "desc": "Cô gái ăn gần hết mọi thứ và thanh toán.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy no bụng dù không ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "phấn khích",
+    "đỉnh",
+    "đáng yêu",
+    "thèm",
+    "mở mang tầm mắt",
+    "tuyệt",
+    "vui"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Em đúng thật ăn được hết năm miếng kìa. Không phục khâm phục, lấy thêm cho em 10 miếng nữa đi chị.",
+    "Quán này mười mấy năm rồi em ấy là người ăn khỏe nhất tôi từng thấy.",
+    "Vốn dĩ chúng tôi cũng định thử phong nhục, kết quả hết cơ hội luôn rồi."
+  ],
+  "hook_content": "nay dẫn bạn đi ăn món mà tôi cũng chưa từng ăn đồ ăn phong nhục, đây chính là cảm giác phấn khích trước khi ăn thì sao.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh một cô gái ăn rất nhiều món phong nhục tại một quán ăn ở Trung Quốc, khiến những người xung quanh kinh ngạc. Nội dung tập trung vào việc ăn uống và biểu cảm của cô gái.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

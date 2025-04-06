@@ -1,0 +1,88 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu các loại bánh pía sầu riêng với nhiều hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các hương vị bánh."
+    },
+    {
+      "step": "Đánh giá bánh truyền thống",
+      "desc": "Mô tả chi tiết hương vị, độ ngọt, và lượng sầu riêng.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử."
+    },
+    {
+      "step": "Đánh giá bánh khoai môn",
+      "desc": "Nhấn mạnh hương thơm và vị ngọt vừa phải của khoai môn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hấp dẫn với hương vị khoai môn."
+    },
+    {
+      "step": "Đánh giá bánh dứa",
+      "desc": "Tập trung vào mùi vị đặc trưng của dứa kết hợp sầu riêng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự kết hợp mới lạ."
+    },
+    {
+      "step": "Đánh giá bánh sôcôla",
+      "desc": "Mô tả vị đắng nhẹ của sôcôla và hạnh nhân.",
+      "impact_level": "3",
+      "viewer_emotion": "Tưởng tượng được hương vị đặc biệt."
+    },
+    {
+      "step": "Đánh giá bánh mini",
+      "desc": "Cho thấy phần sầu riêng bên trong bánh mini.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn thử ngay lập tức."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Gen Z"
+  ],
+  "cta_content": [
+    "Nếu mà bạn thèm bánh pía sầu riêng thì có thể tham khảo bánh pía của nhà chính sạch nha."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "béo",
+    "ngọt",
+    "ngon",
+    "hấp dẫn",
+    "chất lượng",
+    "tuyệt vời",
+    "đậm đà"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Vàng ăn vào thấy vị sầu riêng thơm nè bạn, vị ngọt béo tự nhiên, vị ngọt vừa phải rồi sầu nhiều nữa bạn.",
+    "Khoai môn thơm á bạn, nhưng mà không bị ngọt quá nè, vị ngọt vừa phải á bạn ăn ngon lắm luôn á bạn. Tuyệt vời!",
+    "Bạn thấy cái vị đắng nhẹ của Choco nè. Rồi kết hợp với cái sự ngọt bùi bùi của sầu riêng nữa bạn. Ngon lắm luôn á bạn."
+  ],
+  "hook_content": "Hai bạn, hôm nay Vàng sẽ mút bánh pía sầu riêng nhà chính sạch nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu và đánh giá các loại bánh pía sầu riêng của nhà Chính Sạch với nhiều hương vị khác nhau như truyền thống, khoai môn, dứa, sôcôla, và bánh mini, tập trung vào hương vị, độ ngọt và chất lượng sản phẩm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

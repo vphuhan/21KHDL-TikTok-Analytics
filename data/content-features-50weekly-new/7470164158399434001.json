@@ -1,0 +1,89 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu quán bún chả hot ở Hải Phòng",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán ăn"
+    },
+    {
+      "step": "Gọi món",
+      "desc": "Gọi 3 suất bún chả đầy đủ tại quán",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Thông tin về thời gian bán và lịch sử quán",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích"
+    },
+    {
+      "step": "Đánh giá nước dùng",
+      "desc": "Nhận xét về độ chua ngọt và độ cay của nước dùng",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn nếm thử"
+    },
+    {
+      "step": "Đánh giá thịt",
+      "desc": "Nhận xét về cách tẩm ướp và độ ngon của thịt",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm ăn"
+    },
+    {
+      "step": "Đánh giá chả",
+      "desc": "Nhận xét về độ đậm đà và độ giòn của chả",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Đánh giá nem",
+      "desc": "Nhận xét về lượng thịt cua và thành phần của nem",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Tổng kết lại là ngon và mọi người ở quán rất là vui vẻ nhiệt tình, mọi người có thể ghé qua trải nghiệm và dùng thử nhé."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "vừa phải",
+    "thích",
+    "vui vẻ nhiệt tình"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Độ chua mặn ngọt rất là vừa phải. Còn về độ cay thì nó sẽ nhỉnh hơn những cái quán khác một xíu nha.",
+    "Ăn cảm giác nó rất là săn mà không bị ngấy.",
+    "Ăn cảm nhận được rõ cái vị cua bể luôn."
+  ],
+  "hook_content": "Chị ơi!Cái bát này của em thì đựng đựng mấy suất?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quán bún chả nổi tiếng ở Hải Phòng, tập trung vào đánh giá hương vị nước dùng, thịt, chả và nem cua bể. Người review đánh giá cao hương vị và sự nhiệt tình của chủ quán, khuyến khích mọi người ghé thăm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

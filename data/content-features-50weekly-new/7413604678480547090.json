@@ -1,0 +1,64 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán bánh tằm bì miền Tây và lời khẳng định chất lượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị"
+    },
+    {
+      "step": "Miêu tả món ăn",
+      "desc": "Mô tả chi tiết về bánh tằm bì, bì sỏi, và nước cốt dừa.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Thông tin địa điểm và giá",
+      "desc": "Thông tin về địa điểm, giá cả và các món ăn khác.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết thêm thông tin hữu ích"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "hợp vị",
+    "chua ngọt béo",
+    "béo thơm",
+    "đã ghê"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "khách nào vô đây mà cảm thấy ăn không ngon cứ nói thẳng anh anh trả tiền lại liền",
+    "Ngày nào mà bán không hết là anh bỏ luôn. Chứ anh hỏi em là cái bánh tầm bì của anh nó không có chất bảo quản",
+    "Sợi bánh nhỏ ăn với lại bì thịt chan nước cốt dừa béo thơm, thêm nước mắm pha chua chua ngọt ngọt, chút cay cay đúng kiểu miền tây nam bộ ăn đã ghê á"
+  ],
+  "hook_content": "khách nào vô đây mà cảm thấy ăn không ngon cứ nói thẳng anh anh trả tiền lại liền anh rất là tâm huyết với cái món bánh tôm bì bên anh.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu quán bánh tằm bì miền Tây với món bánh tằm bì làm thủ công, nguyên liệu tươi ngon, đậm đà hương vị miền Tây. Quán nằm ở đường Phan Huy Ích, không gian thoáng mát và có nhiều món ăn khác.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

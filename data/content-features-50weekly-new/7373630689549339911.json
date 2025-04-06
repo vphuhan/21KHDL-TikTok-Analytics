@@ -1,0 +1,82 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Chọn số lượng",
+      "desc": "Người bán hàng chọn số lượng tô cháo mà người ăn phải ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về số lượng cháo sẽ ăn."
+    },
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu về lịch sử của quán cháo sườn Ông Tạ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, cung cấp thông tin."
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Miêu tả chi tiết về tô cháo sườn và các thành phần.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng, muốn ăn thử."
+    },
+    {
+      "step": "Ăn và đánh giá",
+      "desc": "Bắt đầu ăn và đưa ra cảm nhận về hương vị cháo.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú, hào hứng với món ăn."
+    },
+    {
+      "step": "Ăn hết số lượng",
+      "desc": "Ăn hết số lượng cháo đã chọn ban đầu.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với khả năng ăn."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Thông báo thời gian ăn và chào tạm biệt người xem.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, kết thúc video."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Hẹn mọi người những video sau nhen."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "siêu ngon",
+    "đậm đà"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Vậy là Hân đã ăn hết bảy tô cháo sườn Ông Tạ trong vòng 17 phút 21 giây."
+  ],
+  "hook_content": "cho con một con số đi.",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video ghi lại cảnh Hân ăn 7 tô cháo sườn Ông Tạ theo yêu cầu của người bán, đồng thời miêu tả hương vị và không gian quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

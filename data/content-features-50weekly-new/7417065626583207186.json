@@ -1,0 +1,75 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Quyết tâm đi tìm món mỡ luộc vì đã lâu chưa được ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn được nhắc đến."
+    },
+    {
+      "step": "Miêu tả nguyên liệu",
+      "desc": "Mỡ nguyên miếng, có loại miếng và loại cục, có cả tảng mỡ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Cách chế biến",
+      "desc": "Đem mỡ đi luộc để đỡ dầu mỡ, luộc đến khi đục lại.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy lạ vì mỡ thường chiên chứ ít ai luộc."
+    },
+    {
+      "step": "Trải nghiệm ăn uống",
+      "desc": "Ăn kèm nước chấm đặc biệt, miếng mỏng ăn ngon hơn miếng dày.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn biết nước chấm đặc biệt là gì."
+    },
+    {
+      "step": "Đánh giá cảm quan",
+      "desc": "Mỡ giòn sần sật, tuôn ra ngập ngụa, ăn nửa mâm là ngán.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi ngấy khi nghe miêu tả."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "đỡ ngán",
+    "giòn sần sật",
+    "ngán"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Chỉ có mỡ luộc là ăn nó đỡ ngán thôi.",
+    "Ăn miếng mỏng thì nó ít mỡ hơn chứ miếng dày thì nó nhiều mỡ quá.",
+    "Ăn một cái tôi nói mỡ nó tuôn ra coi như là cản không kịp."
+  ],
+  "hook_content": "Không hiểu sao tính tới hôm nay gần cả tuần rồi nhưng mà mình vẫn chưa có đi được nên hôm nay nhất định phải quyết tâm đi siêu thị để tìm được cái món này.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video chia sẻ trải nghiệm ăn món mỡ luộc, từ khâu tìm mua nguyên liệu đến cách chế biến và cảm nhận hương vị. Người nói nhấn mạnh mỡ luộc ăn đỡ ngán hơn các cách chế biến khác và miếng mỏng sẽ ngon hơn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

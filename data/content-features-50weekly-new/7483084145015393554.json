@@ -1,0 +1,107 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu bằng review",
+      "desc": "Giới thiệu việc đi ăn buffet vì không biết ăn gì.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Nhận xét về gà rán, tokbokki và các món ăn kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Nhấn mạnh ưu điểm",
+      "desc": "Không giới hạn thời gian, có nhiều món ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Gợi ý món nên thử",
+      "desc": "Chả cá sợi, lẩu tokbokki tự pha, mì trộn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Đề cập trải nghiệm",
+      "desc": "Ăn cay uống trà sữa, ăn no vẫn muốn ăn tiếp.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm"
+    },
+    {
+      "step": "Thông tin giảm giá",
+      "desc": "Giảm 20% khi áp dụng voucher nhà hàng.",
+      "impact_level": "3",
+      "viewer_emotion": "Vui vẻ"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Khẳng định lại sự hài lòng về buffet tokbokki.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Lên ráp lượng vô vouche nhà hàng là có giảm 20% buffet Tokki Spicy Box này nè.",
+    "Mà áp dụng ở Sài Gòn Centre nha. Mà nhớ là khoan lấy mã trước ăn xong nhờ mấy bạn nhân viên lấy nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Lưu video"
+  ],
+  "emotion_keywords": [
+    "ghiền",
+    "giòn rụm",
+    "mặn mặn ngọt ngọt",
+    "ê hề",
+    "đã thèm",
+    "khoái nhất",
+    "béo béo",
+    "ngọt ngọt",
+    "cuốn",
+    "thơm",
+    "dai dai sần sật",
+    "cay hít hà",
+    "thơm thơm ngọt ngọt",
+    "dính",
+    "ngon",
+    "nhiều",
+    "hợp lý"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tao nói lúc nào ăn buffet Tokki ở Spicy Box, lúc nào cũng là cái giao diện ê hề thêm cái vòng phô mai bắp.",
+    "Ăn chung với cái vòng phô mai bắp này là hết bài.",
+    "Lâu lâu mới ăn buffet Tokki đã ăn ngon, ăn nhiều mà còn được giảm nhiều nữa hợp lý ghê."
+  ],
+  "hook_content": "Sao mỗi ngày hỏi nhỏ em ăn cái gì thì nhỏ em cũng không biết ăn cái gì. Mà không biết ăn cái gì thì mình tế lệ vô buffet thôi chứ để gì nữa.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review buffet tokbokki Spicy Box ở Sài Gòn Centre, tập trung vào trải nghiệm ăn uống, các món ăn hấp dẫn như gà rán, tokbokki phô mai, chả cá sợi, mì trộn và thông tin khuyến mãi giảm giá 20% khi sử dụng voucher.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

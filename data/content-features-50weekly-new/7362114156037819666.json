@@ -1,0 +1,88 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu kem viên vani caramel mới của Walls, mua 2 tặng 1.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm mới."
+    },
+    {
+      "step": "Mô tả chi tiết",
+      "desc": "Mô tả hình dáng, thành phần và hương vị của kem viên.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và muốn thử."
+    },
+    {
+      "step": "Trải nghiệm cá nhân",
+      "desc": "Chia sẻ cảm giác mát lạnh, ngon miệng khi ăn kem.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với trải nghiệm."
+    },
+    {
+      "step": "Dự đoán xu hướng",
+      "desc": "Dự đoán học sinh, sinh viên, dân văn phòng sẽ thích.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về độ phổ biến."
+    },
+    {
+      "step": "Kêu gọi mua hàng",
+      "desc": "Nhấn mạnh ưu đãi mua 2 tặng 1 và địa điểm mua.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức với khuyến mãi."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "nên là bà nào mà cũng muốn ăn kem ngon mà tiết kiệm thì biết phải làm gì rồi đó nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "siêu lạ",
+    "quá đỉnh",
+    "dễ thương",
+    "béo béo bùi bùi",
+    "ngọt mịn",
+    "ngon nhất cái nách",
+    "mát lạnh",
+    "đã",
+    "ngon",
+    "lạ xịn sò",
+    "tiết kiệm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bên ngoài có lớp vỏ sô côla dày cộng với vụng đậu phộng nghiền béo béo bùi bùi, còn bên trong á thì là lõi kem đậm vị vani hòa quyện với caramel ngọt mịn nên là ăn nó ngon nhất cái nách luôn.",
+    "Bữa chiều xế xế đang nghỉ giải lao mà có mấy viên kem này ăn nó mát lạnh mà nó đã gì đâu á.",
+    "Kem vừa ngon vừa lạ xịn sò quá chừng mà lại còn được mua hai tặng một nữa."
+  ],
+  "hook_content": "Lần đầu ăn thử kem viên vani caramel siêu lạ mà còn được mua hai tặng một nữa nè, quá đỉnh mọi người ơi.",
+  "hook_type": [
+    "Gây tò mò",
+    "Khuyến mãi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu kem viên vani caramel mới của Walls đang có chương trình mua 2 tặng 1 tại WinMart, với lớp vỏ socola đậu phộng và lõi kem vani caramel ngon miệng, mát lạnh, phù hợp để chia sẻ cùng bạn bè, đồng nghiệp.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

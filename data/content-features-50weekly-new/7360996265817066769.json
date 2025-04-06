@@ -1,0 +1,84 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Reviewer chia sẻ về việc thèm ăn sau những ngày lười biếng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị khi bắt đầu bằng sự thèm ăn."
+    },
+    {
+      "step": "Giải khát",
+      "desc": "Rủ người thân đi uống nước giải khát và thưởng thức dừa.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy sảng khoái cùng reviewer."
+    },
+    {
+      "step": "Gà luộc",
+      "desc": "Ghé thăm bếp của ngoại và thưởng thức món gà luộc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món gà luộc hấp dẫn."
+    },
+    {
+      "step": "Gỏi chuối cây",
+      "desc": "Ăn gỏi chuối cây đặc biệt chỉ có ở quê nhà.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với món gỏi lạ miệng."
+    },
+    {
+      "step": "Chanh muối và vú sữa",
+      "desc": "Uống chanh muối và ăn vú sữa tại quán cà phê.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn trải nghiệm không gian quán."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Reviewer tận hưởng không gian và kết thúc chuyến đi.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, khép lại video."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thèm ăn",
+    "khát nước",
+    "mát rười rượi",
+    "ngọt nước",
+    "ngon",
+    "dính",
+    "dễ thương",
+    "nhiệt tình",
+    "dễ thương",
+    "chill"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ta nói đang khát nước mà được chiêu đãi nguyên đống dừa này là mát rười rượi luôn.",
+    "Ăn cái miếng gà mới luộc xong còn nóng hổi mà nó chắc thịt ngọt nước.",
+    "Ăn nó giòn giòn sần sần thêm cái vị gỏi chua ngọt đậm đà."
+  ],
+  "hook_content": "Kể cho các bạn nghe sau bao ngày lười ăn thì rốt cuộc ngày này cũng đã tới.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video kể về hành trình thỏa mãn cơn thèm ăn của một người sau những ngày lười biếng, bắt đầu từ việc uống nước dừa giải khát ở quê ngoại, thưởng thức gà luộc và gỏi chuối cây, đến uống chanh muối và ăn vú sữa tại một quán cà phê.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu món chân gà sốt thái mix trứng non tự làm tại nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Nêu vấn đề",
+      "desc": "Chia sẻ khó khăn khi tự làm sốt thái tại nhà.",
+      "impact_level": "1",
+      "viewer_emotion": "Đồng cảm với khó khăn."
+    },
+    {
+      "step": "Giới thiệu giải pháp",
+      "desc": "Review sốt thái mua từ Suka Vũng Tàu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sản phẩm mới."
+    },
+    {
+      "step": "Đánh giá sản phẩm",
+      "desc": "Nhận xét về độ sánh, mùi thơm và vị của sốt thái.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn mua sản phẩm ngay."
+    },
+    {
+      "step": "Đánh giá sản phẩm kèm theo",
+      "desc": "Giới thiệu và đánh giá muối ớt xanh, muối ớt đỏ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Ăn thử chân gà chấm muối ớt xanh và trứng non.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng món ăn."
+    },
+    {
+      "step": "Đề xuất",
+      "desc": "Khuyên mọi người nên mua sốt thái Suka.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào lời khuyên."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "vừa ăn",
+    "đã",
+    "béo",
+    "không ngán",
+    "mê"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ai mà khoái ăn chân gà chắc là mê món này dữ lắm phải không?",
+    "Mà gu tôi ăn món này phải là chân gà rút xương xài khủng tôi mới chịu, mít thêm trứng non hồng đào nữa thì ta nói nhức nách nha.",
+    "Mọi người coi nè, cái chân gà thì ú nu mà chấm vô chén muối ớt xanh một cái giòn giòn cay cay ta nói đã gì đâu"
+  ],
+  "hook_content": "Hello mọi người, lại là tôi Mặc Mỡ thích nấu ăn đây.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video giới thiệu cách làm chân gà sốt thái mix trứng non tại nhà một cách nhanh chóng bằng cách sử dụng sốt thái mua sẵn từ Suka Vũng Tàu, đồng thời review thêm muối ớt xanh và muối ớt đỏ để chấm kèm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

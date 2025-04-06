@@ -1,0 +1,99 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món lẩu hột vịt lộn và gợi ý nên thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món lẩu hột vịt lộn."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Luộc và tách vỏ hột vịt lộn, giữ lại phần nước.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thao tác quen thuộc."
+    },
+    {
+      "step": "Nấu nước lẩu",
+      "desc": "Nấu nước lẩu từ xương, củ cải, nấm rơm và nước hột vịt lộn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy nước lẩu có vẻ ngọt và hấp dẫn."
+    },
+    {
+      "step": "Chuẩn bị topping",
+      "desc": "Chuẩn bị mẹt rau ăn kèm lẩu.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, rau là thành phần quen thuộc của lẩu."
+    },
+    {
+      "step": "Giới thiệu đồ uống",
+      "desc": "Giới thiệu cà phê Laura của Nhật Kim Anh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị và công dụng của cà phê."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Ăn lẩu hột vịt lộn với muối ớt.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn ăn thử ngay."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Nhận xét nước lẩu ngọt thanh, topping xịn sò.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy món ăn có vẻ ngon và đáng thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ai mà là team hột vịt lộn thì phải triển liền món này nha."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "siêu bổ mát",
+    "ngon",
+    "ngọt",
+    "đã",
+    "ngon",
+    "khỏe",
+    "mê đắm đuối",
+    "cay sương sương",
+    "tê tái tâm hồn",
+    "bài bản",
+    "ngọt thanh",
+    "ngon bá cháy bồ chét"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đảm bảo siêu bổ mát mà ngon lắm nha.",
+    "Ăn lẩu là tôi phải dứt một mẹt rau bành ki như vậy ăn nó mới đã.",
+    "Ta nói nó ngon bá cháy bồ chét luôn."
+  ],
+  "hook_content": "Hello mọi người lại là tôi, Mật Bự thích nấu ăn đây.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video giới thiệu món lẩu hột vịt lộn tự nấu, chia sẻ cách nấu nước lẩu và các nguyên liệu ăn kèm, đồng thời review thêm cà phê linh chi của Nhật Kim Anh và kêu gọi mọi người cùng làm thử.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

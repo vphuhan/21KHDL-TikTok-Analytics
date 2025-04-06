@@ -1,0 +1,92 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về tình trạng mắt bị sưng và lý do không đi đón con.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về nguyên nhân sưng mắt."
+    },
+    {
+      "step": "Nấu canh",
+      "desc": "Ba nấu canh tương đậu với thịt ba chỉ nướng thay cho mẹ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với món ăn gia đình."
+    },
+    {
+      "step": "Chuẩn bị",
+      "desc": "Mẹ giành nấu ăn và giới thiệu nguyên liệu nấu canh.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy gần gũi, thân quen."
+    },
+    {
+      "step": "Nêm nếm",
+      "desc": "Nêm nếm gia vị cho vừa ăn và kể về phản ứng của bà ngoại.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với sự hài hước."
+    },
+    {
+      "step": "Chia sẻ",
+      "desc": "Chia sẻ về tình trạng dị ứng và nỗi sợ của con.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm và lo lắng."
+    },
+    {
+      "step": "Hoàn thiện",
+      "desc": "Chuẩn bị kim chi và cơm tối đã sẵn sàng để ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ bữa ăn tối."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Mời mọi người ăn tối và thưởng thức món thịt nướng.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy đói bụng và thèm thuồng."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "mời mọi người ăn tối chung với cả nhà mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "chua",
+    "cay",
+    "sợ",
+    "mắc cười",
+    "vừa ăn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "mình ăn bánh xèo chứ không phải ăn trứng cá tuyết đâu mà sáng ngủ dậy hai con mắt nó sưng hết hồn luôn á mọi người.",
+    "Bữa ăn trứng cá tuyết á thì nó đâu có sưng mà bữa nay ăn bánh xèo với bánh khọt không mà nó cũng sưng nữa ghê thiệt chứ.",
+    "Tụ Hân thấy mẹ cái nó là u Mú Xù à Mú Xù là sợ quá mọi người."
+  ],
+  "hook_content": "mình ăn bánh xèo chứ không phải ăn trứng cá tuyết đâu mà sáng ngủ dậy hai con mắt nó sưng hết hồn luôn á mọi người.",
+  "hook_type": [
+    "Gây tò mò",
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ về việc mẹ bị sưng mắt do dị ứng và ba vào bếp nấu canh tương đậu thịt ba chỉ nướng. Cả gia đình cùng nhau ăn tối và thưởng thức món ăn ngon.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước",
+    "Chân thành"
+  ]
+}

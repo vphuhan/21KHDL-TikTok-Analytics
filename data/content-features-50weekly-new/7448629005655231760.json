@@ -1,0 +1,94 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ốc bươu đen, ốc lát luộc sả.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Mua nguyên liệu",
+      "desc": "Đi mua ốc ở địa điểm quen thuộc, giá cả.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin tham khảo."
+    },
+    {
+      "step": "Sơ chế ốc",
+      "desc": "Ngâm ốc với ớt để nhả sạch nhớt.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích."
+    },
+    {
+      "step": "Luộc ốc",
+      "desc": "Luộc ốc với sả, lá chanh và gia vị.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Uống thử cà phê của ca sĩ Nhật Kim Anh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm."
+    },
+    {
+      "step": "Pha nước chấm",
+      "desc": "Pha muối ớt để chấm ốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Ăn và cảm nhận hương vị của ốc.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn ăn ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi nghen."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "đã",
+    "mê",
+    "ngon",
+    "tê tê tâm hồn",
+    "giòn ngọt",
+    "cay sương sương",
+    "ưng cái bụng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ta nói ăn một con là đã tới nóc luôn.",
+    "ăn ốc ngon thì làm sao thiếu được một chén muối ớt đâm cay sương sương mà tê tê tâm hồn của tui hen.",
+    "Ốc luộc thì ta nói nó ú nu, giòn ngọt rồi quện vô chén muối ớt đâm cay sương sương đậm vị nữa, trời ơi nó đã gì đâu."
+  ],
+  "hook_content": "Hồi đó giờ mọi người có thấy con ốc nào mà bự như vậy chưa? Ta nói ăn một con là đã tới nóc luôn.",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video giới thiệu món ốc bươu đen và ốc lát luộc sả, chia sẻ quá trình mua, sơ chế, luộc ốc và pha nước chấm, sau đó mời mọi người cùng ăn và cảm nhận hương vị.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

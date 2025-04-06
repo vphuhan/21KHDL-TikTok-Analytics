@@ -1,0 +1,96 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Tóc Vàng giới thiệu món sứa ngâm mắm nhĩ đang hot trên TikTok.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Tóc Vàng ăn và miêu tả hương vị của sứa ngâm mắm nhĩ.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Kết hợp với rau sống",
+      "desc": "Tóc Vàng cuốn sứa với rau sống và cà pháo.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với sự kết hợp."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Tóc Vàng khen ngon và chia sẻ cảm xúc khi ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú."
+    },
+    {
+      "step": "Chia sẻ cách bảo quản",
+      "desc": "Tóc Vàng chia sẻ cách bảo quản và ăn món sứa.",
+      "impact_level": "2",
+      "viewer_emotion": "Ghi nhớ thông tin."
+    },
+    {
+      "step": "Tiếp tục ăn",
+      "desc": "Tóc Vàng tiếp tục ăn và tận hưởng món sứa.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn ăn theo."
+    },
+    {
+      "step": "Lời chào tạm biệt",
+      "desc": "Tóc Vàng chào tạm biệt và hẹn gặp lại.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn bạn đã xem video của Tóc Vàng.",
+    "Hẹn gặp lại bạn vào video lần sau."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngon xỉu",
+    "tuyệt vời",
+    "mát",
+    "ngon dữ vậy",
+    "bùng vị",
+    "hạnh phúc",
+    "quá đã"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ngon xỉu luôn bạn ơi.",
+    "Trời ơi bạn không nghĩ là nó ngon như vậy.",
+    "1000 điểm, 1 tỷ điểm không có nhân nha bạn."
+  ],
+  "hook_content": "Đây bạn. Hôm nay Tóc Vàng sẽ ăn xứa ngâm mắm nhĩ nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang món sứa ngâm mắm nhĩ đang hot trên TikTok của Tóc Vàng, chia sẻ cảm nhận về hương vị và cách ăn kèm với rau sống, đồng thời không quên kêu gọi người xem cùng thưởng thức.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

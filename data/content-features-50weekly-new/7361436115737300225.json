@@ -1,0 +1,90 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Người nói giới thiệu món cháo đậu cà và sự bất ngờ khi ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn biết món ăn có gì đặc biệt."
+    },
+    {
+      "step": "Miêu tả món ăn",
+      "desc": "Nhấn mạnh sự độc đáo của cháo nguội và các thành phần.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự khác lạ của món ăn."
+    },
+    {
+      "step": "Phỏng vấn chủ quán",
+      "desc": "Chia sẻ về nguồn gốc và sự tâm huyết của chủ quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy tin tưởng vào chất lượng của quán."
+    },
+    {
+      "step": "Giới thiệu các món khác",
+      "desc": "Giới thiệu bánh gối, bánh tôm và chè của quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử các món ăn khác của quán."
+    },
+    {
+      "step": "Nhấn mạnh chất lượng",
+      "desc": "Đề cập đến nguyên liệu chất lượng và quy trình làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với sự chỉn chu của quán."
+    },
+    {
+      "step": "Địa điểm quán",
+      "desc": "Hướng dẫn địa chỉ quán để người xem có thể đến.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết được địa chỉ quán."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Đây thì các bạn đi đến một 39 Thâm Trinh ở dừng ngay tấm biển màu đỏ này nhé."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "mê",
+    "thú vị",
+    "béo ngậy",
+    "thơm",
+    "rực rỡ",
+    "khéo tay",
+    "chỉn chu",
+    "tử tế"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tôi bây giờ mới được khai sáng món cháo đậu cà này mấy bác ơi.",
+    "Quá ngon cho nên là vừa ăn hết bát này rồi phải làm bát nữa.",
+    "Đậu của nó ở đây được rán lửa lớn, bên ngoài thì giòn như bim bim còn bên trong thì béo ngậy."
+  ],
+  "hook_content": "Ôi giời ơi… tôi bây giờ mới được khai sáng món cháo đậu cà này mấy bác ơi 😆 Đó giờ chưa ăn ạ, xem nhiều nhưng giờ mới ăn và ngã ngửa vì những điều thú vị này.",
+  "hook_type": [
+    "Gây tò mò",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu món cháo đậu cà đặc sản ở Hà Nội, người nói chia sẻ trải nghiệm ăn uống và phỏng vấn chủ quán về các món ăn khác như bánh gối, bánh tôm. Video nhấn mạnh chất lượng và sự tâm huyết của quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

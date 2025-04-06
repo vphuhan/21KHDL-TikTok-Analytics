@@ -1,0 +1,94 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Món mắt cá ngừ đại dương hấp hành gừng thơm ngon, bổ dưỡng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chia sẻ nguyên liệu",
+      "desc": "Mắt cá ngừ tươi ngon, giá rẻ, dễ mua tại địa phương.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với thông tin giá cả."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Rửa sạch mắt cá với nước trà để khử mùi tanh.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Quá trình chế biến",
+      "desc": "Hấp mắt cá cùng hành gừng và gia vị trong 30 phút.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Giới thiệu vòng trầm",
+      "desc": "Giới thiệu vòng trầm hương mang lại may mắn và bình an.",
+      "impact_level": "1",
+      "viewer_emotion": "Không liên quan đến ẩm thực."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Mắt cá ngừ hấp hành gừng thơm ngon, béo ngậy.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Lời kêu gọi",
+      "desc": "Mời mọi người cùng ăn và ghé thăm vòng tay Thanh Nhàn.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với sự thân thiện."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "À à, ai mà muốn thỉnh vòng trầm thì nhớ ghé vòng tay Thanh Nhàn nha.",
+    "Giờ thì mời mọi người ăn chung với tôi."
+  ],
+  "cta_type": [
+    "Ăn cùng",
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "siêu bổ",
+    "siêu rẻ",
+    "thơm",
+    "béo",
+    "cay",
+    "ngọt thanh",
+    "đã"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "mắt cá ngừ này thì phải gọi là siêu siêu béo",
+    "ăn là bao ngập miệng kết hợp với nước mắm cay cay rồi húp một miếng nước ngọt thanh, thánh thần ơi đúng là vừa bổ vừa rẻ quá xá đã"
+  ],
+  "hook_content": "Có một mớ mắt cá ngừ đại dương ngon như vậy thì mọi người đem làm món gì ta?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video giới thiệu món mắt cá ngừ đại dương hấp hành gừng, chia sẻ cách chế biến đơn giản và cảm nhận hương vị thơm ngon, béo ngậy, đồng thời giới thiệu vòng trầm hương phong thủy.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

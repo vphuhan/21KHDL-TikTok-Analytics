@@ -1,0 +1,92 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người đi làm, dân văn phòng",
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán và mục đích",
+      "desc": "Vợ chồng đến quán Cô Linh ăn thử sau khi có việc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán ăn."
+    },
+    {
+      "step": "Thời điểm và sự chuẩn bị",
+      "desc": "Đến vào giờ trưa, khách đông nên đã đặt bàn trước.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích."
+    },
+    {
+      "step": "Giới thiệu menu và món ăn",
+      "desc": "Giá cả và các món đã gọi: trứng chiên, hẹ xào, tôm bầu,...",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Thử món cá bông lau kho tộ",
+      "desc": "Đánh giá món cá bông lau kho tộ, món yêu thích nhất.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn thử ngay món cá."
+    },
+    {
+      "step": "Thử các món khác",
+      "desc": "Đánh giá tôm bầu cháy cạnh, trứng chiên hành, hẹ xào, canh tôm.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đói bụng."
+    },
+    {
+      "step": "Đánh giá chung về quán",
+      "desc": "Đồ ăn ngon, menu đa dạng, không gian đẹp, nhân viên nhiệt tình.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá."
+    },
+    {
+      "step": "Nhận xét về giá cả",
+      "desc": "Giá cả phù hợp với không gian và chất lượng.",
+      "impact_level": "1",
+      "viewer_emotion": "Đồng ý với nhận xét."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "béo",
+    "đậm đà",
+    "vừa ăn",
+    "thơm",
+    "giòn",
+    "thanh mát",
+    "the the"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Món này rất ngon nha, cá thì đậm đà béo béo, nước sốt sệt ăn chung với cơm là hết bài luôn.",
+    "ăn ngon mà kiểu không dừng lại miệng được luôn á.",
+    "Với một cái không gian như này á thì bill này cũng phù hợp mà đúng không mọi người?"
+  ],
+  "hook_content": "Review quán cơm Cô Linh có gì ngon?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán cơm Cô Linh với các món ăn từ Bắc tới Nam, không gian đẹp và nhân viên nhiệt tình. Các món ăn được đánh giá cao về hương vị và độ tươi ngon.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

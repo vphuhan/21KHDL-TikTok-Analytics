@@ -1,0 +1,85 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bánh mì chảo bò sốt tiêu đen và nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Sơ chế thịt bò",
+      "desc": "Hướng dẫn lọc gân và cắt thịt bò đúng cách.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "Sơ chế hành tây",
+      "desc": "Hướng dẫn cách cắt hành tây đẹp mắt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Ướp thịt bò",
+      "desc": "Hướng dẫn ướp thịt bò mềm và đậm đà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Làm salad và khoai tây chiên",
+      "desc": "Giới thiệu dụng cụ bào đa năng và cách cắt khoai tây lưới.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Chiên khoai tây",
+      "desc": "Hướng dẫn chiên khoai tây lưới bằng nồi chiên không dầu.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức"
+    },
+    {
+      "step": "Xào thịt bò và làm nước sốt",
+      "desc": "Hướng dẫn xào thịt bò với bơ và làm sốt tiêu đen.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "đậm đà",
+    "vị tiêu",
+    "cay",
+    "chua"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Thịt bò các bạn mua về nếu mà có gân thì cho các bạn phải lọc ra ha. Sau đó mình cắt theo sớ ngang ha. Nếu mà cắt sớ dọc là thành khô bò nè.",
+    "Bò rất là ưa nước cho nên khi mà các bạn đổ vô thì nó sẽ hút hết.",
+    "Cái khoai tây hình lưới này nó không chỉ lạ mắt mà cái tác dụng của nó là giòn rất là nhanh."
+  ],
+  "hook_content": "Ủa sao làm được miếng khoai tây hình lưới vậy Dợ?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món bánh mì chảo bò sốt tiêu đen, từ sơ chế nguyên liệu đến chế biến và chia sẻ công thức dầu giấm, sốt tiêu đen.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

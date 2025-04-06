@@ -1,0 +1,90 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu buffet hải sản với nhiều loại hải sản.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các loại hải sản."
+    },
+    {
+      "step": "Giới thiệu hải sản",
+      "desc": "Liệt kê và mô tả sự đa dạng của hải sản tươi sống.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự phong phú."
+    },
+    {
+      "step": "Món ăn sẵn",
+      "desc": "Giới thiệu các món nấu sẵn và tráng miệng.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với sự đa dạng món."
+    },
+    {
+      "step": "Đánh giá giá cả",
+      "desc": "Nhấn mạnh giá cả phải chăng so với đồ ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy hấp dẫn vì giá tốt."
+    },
+    {
+      "step": "Các loại lẩu",
+      "desc": "Giới thiệu các loại lẩu và sự thoải mái khi ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử các loại lẩu."
+    },
+    {
+      "step": "Lưu ý cuối tuần",
+      "desc": "Nhắc về phụ phí cuối tuần và tráng miệng.",
+      "impact_level": "1",
+      "viewer_emotion": "Nắm bắt thông tin chi tiết."
+    },
+    {
+      "step": "Lời kêu gọi",
+      "desc": "Kêu gọi đến buffet Đại Dương để ăn hải sản.",
+      "impact_level": "2",
+      "viewer_emotion": "Có hứng thú ghé thăm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ai mà khoái cua tôm càng thả ga thì cứ quẹo búp phê Đại Dương nè."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "thoải mái",
+    "khoái",
+    "đã"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "cua nó gắp thoải mái một chục ký luôn cũng được nữa",
+    "búp phê có 270 cành mà đồ ăn thoải mái tôm cua hải sản cỡ vậy thì hỏi sao mà không khoái cho được",
+    "Tôm cua đồ lấy thả ga không có giới hạn thời gian số lượng gì hết trơn á"
+  ],
+  "hook_content": "của búp phê đâu mà đã dữ vậy trời.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu buffet hải sản Đại Dương với nhiều loại hải sản tươi sống, món ăn nấu sẵn và tráng miệng hấp dẫn. Người nói nhấn mạnh về giá cả phải chăng và sự thoải mái khi ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

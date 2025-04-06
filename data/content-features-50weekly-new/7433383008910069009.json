@@ -1,0 +1,91 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món xôi xéo gà nướng sẽ thực hiện để chiêu đãi gia đình.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Sơ chế gà",
+      "desc": "Làm sạch gà và chia sẻ về sự thay đổi ngoại hình của bản thân.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Tẩm ướp gà",
+      "desc": "Ướp gà với gia vị, chia sẻ kinh nghiệm và kỷ niệm về món gà nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với công thức ướp gà."
+    },
+    {
+      "step": "Nấu xôi",
+      "desc": "Nấu xôi bằng nồi cơm điện, sử dụng nghệ tươi để tạo màu.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với cách nấu xôi mới lạ."
+    },
+    {
+      "step": "Chuẩn bị đậu xanh và hành phi",
+      "desc": "Nấu đậu xanh, phi hành tím để ăn kèm với xôi.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Nướng gà",
+      "desc": "Nướng gà trong lò, chia sẻ kinh nghiệm canh nhiệt độ.",
+      "impact_level": "2",
+      "viewer_emotion": "Hồi hộp chờ đợi món gà nướng."
+    },
+    {
+      "step": "Trình bày và thưởng thức",
+      "desc": "Xé gà, trình bày món ăn và mời cả nhà cùng thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mời mọi người ăn chung nha mọi người nha.",
+    "Cứ uống mỗi sáng sau ăn nha mọi người nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "đói bụng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Vậy đơn giản vậy thôi á, nhưng mà mình ướp từ Việt Nam sang tới bên hàng ai cũng khen ngon hết á.",
+    "Công nhận là xôi nấu bằng nồi cơm điện khéo thiệt ta ơi. Đều, màu đẹp, xôi tơi ngon quá trời luôn.",
+    "Cái da gà xé tới đâu là muốn đổ mồ hôi biện tới đó luôn á. thơm làm đói bụng mà xé muốn không kịp luôn á."
+  ],
+  "hook_content": "Bữa nay mình sẽ trổ tài để bả tụi hơn cái món xôi xéo mới được.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn nấu món xôi xéo gà nướng tại nhà, chia sẻ các bí quyết và kinh nghiệm để món ăn thêm ngon và hấp dẫn. Video cũng lồng ghép quảng cáo sản phẩm nghệ nano.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

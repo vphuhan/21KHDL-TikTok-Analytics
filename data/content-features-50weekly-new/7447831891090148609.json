@@ -1,0 +1,84 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu tô bún mắm nêm full topping giá 35.000 và bày tỏ ý định bán.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn và giá cả."
+    },
+    {
+      "step": "Chia sẻ công thức",
+      "desc": "Khuyến khích lưu lại công thức để tự nấu khi thèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích và muốn thử."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Hướng dẫn sơ chế tay heo và chia sẻ kỷ niệm với mẹ.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy bình thường, không đặc biệt."
+    },
+    {
+      "step": "Luộc nguyên liệu",
+      "desc": "Luộc tay heo, thịt, tôm với hành tím, đầu ngò, gừng.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy dễ thực hiện theo."
+    },
+    {
+      "step": "Sơ chế mít non",
+      "desc": "Nhấn mạnh tầm quan trọng của mít non trong bún mắm nêm miền Trung.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị vì biết thêm mẹo."
+    },
+    {
+      "step": "Làm mắm nêm",
+      "desc": "Hướng dẫn làm mắm nêm với thơm, tỏi, ớt, đường.",
+      "impact_level": "2",
+      "viewer_emotion": "Học được cách làm mắm nêm ngon."
+    },
+    {
+      "step": "Hoàn thiện món ăn",
+      "desc": "Trình bày món ăn và kể về việc người yêu không ăn được mắm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy món ăn hấp dẫn và thú vị với câu chuyện."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thèm",
+    "bất lực",
+    "bùi bùi"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đây á là cái cách làm bún mắm nêm có gì mấy chị lưu lại cái công thức này nha, để bữa nào mà thèm á thì mở ra coi cho nó đỡ thèm nè.",
+    "Mắm nêm mà thiếu khóm á là giống như là đi chợ mà thiếu tiền vậy đó mấy chị.",
+    "Cái bún mắm nêm mà có chuẩn gốc miền Trung hay không á là phải có cái mít non này nè."
+  ],
+  "hook_content": "một cái tô bún mắm nêm full topping như vậy á 35.000 thì có mắc không mấy chị?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách nấu bún mắm nêm chuẩn vị miền Trung với đầy đủ topping, từ sơ chế nguyên liệu đến pha mắm nêm và chia sẻ những lưu ý để món ăn thêm ngon.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

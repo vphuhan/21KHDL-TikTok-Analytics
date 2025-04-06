@@ -1,0 +1,72 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu làm bánh bột lọc vì mẹ thích món mới",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món bánh bột lọc"
+    },
+    {
+      "step": "Review app mua sắm",
+      "desc": "Giới thiệu app Day to day để mua nguyên liệu nấu ăn",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy tiện lợi khi mua sắm online"
+    },
+    {
+      "step": "Chia sẻ công thức",
+      "desc": "Thông báo công thức bánh bột lọc được để trên màn hình",
+      "impact_level": "3",
+      "viewer_emotion": "Mong muốn xem công thức chi tiết"
+    },
+    {
+      "step": "Hoàn thành món ăn",
+      "desc": "Thông báo bánh bột lọc đã hoàn thành và chúc mọi người thành công",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ và muốn thử làm theo"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ở các video trước có rất nhiều bạn hỏi mình là mua nguyên liệu ở đâu thì mình thường mua trên app Day to day này nha.",
+    "App còn tặng 500 yên cho những ai mới đăng ký nữa, free ship cho đơn hàng từ 6 cent trở lên."
+  ],
+  "cta_type": [
+    "Chia sẻ công thức",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "thích"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Từ hôm nấu thử bánh đúc cho mẹ ăn đến giờ, thấy mẹ thích thử món mới hơn hẳn.",
+    "Từ ngày biết đến app này thì mình thấy nhàn hẳn luôn ấy.",
+    "Nói nhỏ với các bạn là mình loay hoay trong app cả tiếng đồng hồ rồi, nhìn cái gì cũng muốn mua luôn ý."
+  ],
+  "hook_content": "Từ hôm nấu thử bánh đúc cho mẹ ăn đến giờ, thấy mẹ thích thử món mới hơn hẳn.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ về quá trình làm bánh bột lọc cho mẹ ăn và giới thiệu app mua sắm nguyên liệu nấu ăn online. Video cũng cung cấp công thức làm bánh bột lọc.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Chuẩn bị đón khách",
+      "desc": "Cắm hoa, dọn dẹp nhà cửa để đón cô Tường Hân đến chơi.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thấy được sự chuẩn bị chu đáo."
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu hàu hấp và gỏi cá, món cô Tường Hân thích.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy tò mò về món ăn."
+    },
+    {
+      "step": "Khách đến nhà",
+      "desc": "Cô Tường Hân đến, được mọi người yêu quý, nịnh nọt.",
+      "impact_level": "1",
+      "viewer_emotion": "Ấm áp, thấy được tình cảm gia đình."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Chia sẻ cách ăn món Hàn với tương ớt, người Việt với muối tiêu chanh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị với sự khác biệt trong cách ăn."
+    },
+    {
+      "step": "Giới thiệu cà phê",
+      "desc": "Giới thiệu cà phê Dora của Nhật Kim Anh, cô Tường Hân thích.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị cà phê."
+    },
+    {
+      "step": "Pha cà phê cho khách",
+      "desc": "Pha cà phê đông trùng hạ thảo cho cô Tường Hân.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thấy được sự quan tâm."
+    },
+    {
+      "step": "Pha cà phê cho ba",
+      "desc": "Pha cà phê đá cho ba Tường Hân sau khi gỡ chén.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm cúng, thấy được sự quan tâm lẫn nhau."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "khoái",
+    "thương",
+    "mến",
+    "thơm",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cô Tường Hân khó ăn lắm mọi người, kiểu món gì không hợp khẩu vị hay sao á. Cái này là hào hấp á, còn có thêm gỏi cá nữa. Món này thì bữa nay cô Tường Hân khoái luôn.",
+    "Ăn mấy món này người Hàn thích chấm tương ớt lắm, còn mình thì một chén muối tiêu ớt chanh nha. Như vậy thôi là mình cũng đã thấy đủ ngon rồi mọi người.",
+    "Dora cà phê hầu như ai cũng thích, ở chơi xíu nữa cái Tường Hân đưa cô về, chiều cô sẽ đưa qua lại."
+  ],
+  "hook_content": "Cô Tường Hân qua nhà bọn mình ăn tết nè.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh gia đình đón cô Tường Hân đến chơi Tết, giới thiệu các món ăn và thức uống mà cô Tường Hân yêu thích, đặc biệt là món hàu hấp gỏi cá và cà phê Dora của ca sĩ Nhật Kim Anh.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

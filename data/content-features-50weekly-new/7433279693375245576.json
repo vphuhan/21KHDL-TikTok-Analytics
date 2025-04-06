@@ -1,0 +1,77 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Mở đầu bằng việc giới thiệu túi mù các quốc gia.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn."
+    },
+    {
+      "step": "Thử xúc xích Đức",
+      "desc": "Ăn xúc xích Đức và đánh giá hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thích thú với món ăn."
+    },
+    {
+      "step": "Bánh xoắn cờ Đức",
+      "desc": "Thưởng thức bánh xoắn có cờ Đức và đánh giá.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thú vị với hình dáng bánh."
+    },
+    {
+      "step": "Fanta Đức",
+      "desc": "Uống Fanta và chia sẻ về nguồn gốc.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Socola",
+      "desc": "Ăn socola và mong đợi hương vị ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Háo hức chờ đợi vị ngon."
+    },
+    {
+      "step": "Kẹo dẻo Haribo",
+      "desc": "Thưởng thức kẹo dẻo Haribo.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy vui vẻ."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "cảm ơn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Thề là kiếm mấy cái món của nước Đức này khó điên, nó vậy còn mắc nữa chứ.",
+    "Mắc lắm, mong mà nó ngon.",
+    "ôi, ngon chứ."
+  ],
+  "hook_content": "Mút bàn tối màu theo các quốc gia phần 6.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang túi mù các quốc gia, tập trung vào các món ăn của Đức như xúc xích, bánh xoắn, Fanta và kẹo dẻo Haribo. Người nói đánh giá hương vị và chia sẻ cảm xúc khi ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

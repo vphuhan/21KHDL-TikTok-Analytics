@@ -1,0 +1,68 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu bánh mì thịt nướng Samchi có bò và heo.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về bánh mì thịt nướng."
+    },
+    {
+      "step": "Miêu tả thành phần",
+      "desc": "Liệt kê thành phần bánh mì: pate, bơ, thịt heo, bò.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng vì sự hấp dẫn của các thành phần."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhấn mạnh độ thơm ngon, béo ngậy của bánh mì.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm giác đói bụng và muốn ăn thử ngay lập tức."
+    },
+    {
+      "step": "Trải nghiệm ăn",
+      "desc": "Thực hiện ăn thử và bày tỏ cảm xúc thích thú.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú và muốn được trải nghiệm hương vị."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "ngon",
+    "béo"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Bơ và bơ tơ rất là béo luôn.",
+    "Có mùi bò nướng rất là thơm luôn.",
+    "Wow!"
+  ],
+  "hook_content": "Ăn bánh mì thịt nướng, Samchi với anh nha mọi người.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang bánh mì thịt nướng Campuchia với các thành phần như thịt bò, thịt heo, pate và bơ. Người ăn đánh giá cao hương vị thơm ngon và béo ngậy của món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

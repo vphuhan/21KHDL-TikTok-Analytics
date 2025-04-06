@@ -1,0 +1,77 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu dừa sáp giá rẻ bất ngờ, gây tò mò cho người xem.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Gọt vỏ và kiểm tra",
+      "desc": "Gọt vỏ dừa, thấy nước loãng, nghi ngờ nhưng vẫn mở ra xem.",
+      "impact_level": "2",
+      "viewer_emotion": "Hồi hộp"
+    },
+    {
+      "step": "Đánh giá chất lượng",
+      "desc": "Thịt dẻo, giống dừa sáp, rẻ hơn nhiều so với dừa thường.",
+      "impact_level": "3",
+      "viewer_emotion": "Ngạc nhiên"
+    },
+    {
+      "step": "Thưởng thức và kết luận",
+      "desc": "Dằm dừa với đá bào, đậu phộng, sữa và đưa ra nhận xét.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z",
+    "Nhanh gọn",
+    "Sáng tạo",
+    "Truyền thống"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "bất ngờ",
+    "dẻo",
+    "ngon",
+    "rẻ",
+    "hết hồn",
+    "lạ",
+    "xu ca na"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "bình thường trái dừa sáp 200 cành, bây giờ tôi mua được trái dừa sáp 20 cành",
+    "Cái thịt bên trong của nó cũng sáp sáp ná ná với lại trái dừa sáp luôn nè",
+    "mà cái trái này nó rẻ lắm có 20, 25 cành à mà ăn được cái trái dừa sáp luôn nè"
+  ],
+  "hook_content": "Độc lạ Bình Dương, bình thường trái dừa sáp 200 cành, bây giờ tôi mua được trái dừa sáp 20 cành.",
+  "hook_type": [
+    "Gây tò mò",
+    "Giật tít"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review trái dừa sáp giá rẻ bất ngờ, chỉ 20 cành, được mua ở Bình Dương. Mặc dù có vẻ ngoài không hoàn hảo như dừa sáp thường, nhưng bên trong vẫn có phần thịt dẻo và hương vị tương tự.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Ngạc nhiên",
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu địa điểm mới",
+      "desc": "Thông báo chi nhánh mới của quán cơm chiên ở Gò Vấp.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về địa điểm mới."
+    },
+    {
+      "step": "Miêu tả không gian quán",
+      "desc": "Nhấn mạnh sự chuẩn bị lớn với thao cơm chiên.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "So sánh sự khác biệt",
+      "desc": "Giá không đổi nhưng món ăn và cách chế biến khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Thắc mắc về sự thay đổi."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Nhận xét về vị ngon, độ no và giá cả hợp lý.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thèm ăn."
+    },
+    {
+      "step": "Chỉ ra điểm trừ",
+      "desc": "Cơm bị cục do không chiên lại như ở chi nhánh cũ.",
+      "impact_level": "1",
+      "viewer_emotion": "Hơi thất vọng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "no"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cái vị thì cũng y như vậy cũng ngon với lại một dĩa rất là nhiều ăn no lắm.",
+    "Ăn no ư ử luôn á một hộp có 35 cành à."
+  ],
+  "hook_content": "Thông báo với mấy anh em Gò Vấp là cái anh bán cơm chiên cây điệp ở Quận Nhất chuyển về Gò Vấp rồi nha mọi người.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review chi nhánh mới của quán cơm chiên Cây Điệp ở Gò Vấp, so sánh với chi nhánh cũ về món ăn, cách chế biến và giá cả, đồng thời đưa ra đánh giá về hương vị và độ no.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

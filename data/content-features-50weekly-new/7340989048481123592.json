@@ -1,0 +1,82 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu công việc bận rộn",
+      "desc": "Than thở về việc nhà bận rộn, không có đủ thời gian.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm"
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu hôm nay sẽ làm bánh xèo miền Trung.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Chia sẻ về cuộc sống",
+      "desc": "Chia sẻ về công việc hằng ngày và khó khăn trong cuộc sống.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấu hiểu"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Chuẩn bị nguyên liệu làm bánh xèo và bánh khọt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Pha bột bánh xèo",
+      "desc": "Pha bột bánh xèo theo cảm tính và chia sẻ sự hồi hộp.",
+      "impact_level": "2",
+      "viewer_emotion": "Hài hước"
+    },
+    {
+      "step": "Đổ bánh xèo",
+      "desc": "Bắt đầu đổ bánh xèo và chia sẻ kết quả không như mong đợi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thông cảm"
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người ăn bánh xèo cùng gia đình.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấm áp"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "tuyệt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Bánh xèo miền Tây á thì mình ăn mấy chục năm nay rồi, còn bánh xèo miền Trung á thì bữa nay là lần đầu tiên mình đổ.",
+    "Tới khúc này là hơi bị gối loạn chút xíu rồi đó, hồi nữa là bánh xèo Trung Tây luôn.",
+    "Thợ người ta đổ cái nào ra nó cũng giòn, còn mình á thì cái giòn cái mỏng."
+  ],
+  "hook_content": "một ngày mọi người cần bao nhiêu tiếng để làm được hết việc nhà, còn mình chắc phải 48 tiếng mới đủ á.",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video ghi lại một ngày bận rộn của một người phụ nữ vừa chăm con, bán hàng online, vừa làm việc nhà và nấu ăn. Hôm nay, cô ấy thử làm món bánh xèo miền Trung và chia sẻ quá trình thực hiện món ăn này.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

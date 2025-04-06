@@ -1,0 +1,72 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Vivi giới thiệu món ăn hôm nay là trứng đà điểu trắng và xanh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hình dáng và màu sắc của trứng."
+    },
+    {
+      "step": "Thưởng thức trứng trắng",
+      "desc": "Vivi tách và ăn thử trứng đà điểu trắng, mô tả hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự khác biệt của lòng trắng."
+    },
+    {
+      "step": "Đánh giá trứng xanh",
+      "desc": "Vivi ăn và nhận xét về độ mềm dẻo của trứng xanh.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với độ dày của vỏ trứng."
+    },
+    {
+      "step": "So sánh và kết luận",
+      "desc": "Vivi so sánh hai loại trứng và chia sẻ sở thích cá nhân.",
+      "impact_level": "2",
+      "viewer_emotion": "Gợi ý nên thử trứng đà điểu xanh."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Mời mọi người ăn cùng Vivi nhá."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "mềm",
+    "dẻo",
+    "thơm",
+    "béo",
+    "ngán"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nhìn nó giống cục đá quá mọi người ơi.",
+    "Chắc ăn hai cái trứng này Vi no qua tới năm sau á mọi người.",
+    "So với hai trứng thì cái nào cũng có ngon riêng, nhưng mà Vi thích ăn trứng đà điểu xanh."
+  ],
+  "hook_content": "Hello mọi người, hôm nay Vivi sẽ ăn trứng đà điểu trắng và trứng đà điểu xanh.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Vivi mukbang hai quả trứng đà điểu trắng và xanh, mô tả hương vị và so sánh sự khác biệt giữa chúng. Cô ấy thích trứng đà điểu xanh hơn vì nó ít ngán và béo hơn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

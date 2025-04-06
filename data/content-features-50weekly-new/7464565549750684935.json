@@ -1,0 +1,65 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu mứt lạc là món ít người thích ngày Tết.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn này."
+    },
+    {
+      "step": "Miêu tả hình thức",
+      "desc": "Miêu tả mứt lạc giống viên sỏi, lớp đường cứng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với hình dáng kỳ lạ."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá mứt lạc ngon, lạc thơm, lớp đường cứng.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi thèm thuồng."
+    },
+    {
+      "step": "Cảnh báo",
+      "desc": "Cảnh báo mứt lạc cứng, dễ gãy răng.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy cần cẩn thận khi ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thơm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Bên ngoài là một cái lớp đường siêu cứng kiểu cứng như đá luôn.",
+    "Cắn vào bên trong ấy cái hạt lạc nó thơm ngon cực luôn mọi người ạ."
+  ],
+  "hook_content": "ban món mà ít người thích vào những ngày tết.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang món mứt lạc ngày Tết, món ăn mà người nói cho là ít người thích. Người nói vừa ăn vừa miêu tả hình dáng, hương vị và đưa ra cảnh báo.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

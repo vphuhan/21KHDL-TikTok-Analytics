@@ -1,0 +1,81 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về ngày 8/3 \"lộn\" của ba Tùng Hân và món ăn",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Chia sẻ",
+      "desc": "Chia sẻ về gia đình và cuộc sống thường ngày ở Hàn",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Chuẩn bị nước dùng và sốt cho món mì cay hải sản",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu Laura cà phê của ca sĩ Nhật Kim Anh",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Cả nhà cùng ăn mì cay hải sản và uống cà phê",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mời mọi người ăn tối chung với cả nhà mình."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "thương",
+    "ngon",
+    "thèm",
+    "khoái",
+    "thơm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nhiều lúc tính tào lao tào lao thấy ghét chứ lúc nào cũng thấy thương lắm mọi người",
+    "Bữa thấy mình ăn cái nồi mì cay hải sản từ bữa đó tới bữa nay còn thèm á",
+    "Trời ơi màu tím nữa mấy chịu à đúng cái gu luôn rồi"
+  ],
+  "hook_content": "Đôi chuyện Tùng Hân 8 tháng 3 lộn ngày của ba Tùng Hân và nồi mì cay hải sản.",
+  "hook_type": [
+    "Kể chuyện",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ về một ngày của gia đình Tùng Hân ở Hàn Quốc, với món mì cay hải sản và giới thiệu sản phẩm Laura cà phê. Nội dung mang tính đời thường, gần gũi.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

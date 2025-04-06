@@ -1,0 +1,70 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Tìm được quán bánh mì Sài Gòn ở Hà Nội, giới thiệu món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán bánh mì Sài Gòn ở Hà Nội."
+    },
+    {
+      "step": "Trình bày",
+      "desc": "Cắt bánh mì ra để thấy rõ nhân, phết thêm sốt bơ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với cách trình bày và giới thiệu món ăn."
+    },
+    {
+      "step": "Miêu tả chi tiết",
+      "desc": "Miêu tả vỏ bánh mì giòn xốp, nhân đầy đặn với nhiều loại.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đói bụng khi nghe miêu tả chi tiết về bánh mì."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Nhấn mạnh bánh mì ngon, ăn no, giới thiệu địa chỉ quán.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn thử ngay quán bánh mì được giới thiệu."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người ai mà ở Hà Nội ấy muốn ăn bánh mì Sài Gòn kiểu style bình hoa thì có thể thử ở đây nha.",
+    "Mình nghĩ sẽ không làm mọi người thất vọng đâu."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Kiểu siêu nhiều nhân ngập ngụa nhân luôn ý.",
+    "Ở cái sốt bơ đây ngon lắm mọi người ạ. Kiểu nó béo béo mà lại thơm thơm ý, chứ nó không kiểu có mùi tanh của dầu trứng đâu.",
+    "Mọi người ai mà ở Hà Nội ấy muốn ăn bánh mì Sài Gòn kiểu style bình hoa thì có thể thử ở đây nha. Mình nghĩ sẽ không làm mọi người thất vọng đâu."
+  ],
+  "hook_content": "cũng thì mình cũng tìm được quán bánh mì style Sài Gòn Hà Nội rồi mọi người ạ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu quán bánh mì Sài Gòn ở Hà Nội với nhiều nhân và hương vị đặc trưng, khuyến khích mọi người đến thử. Người nói đánh giá cao hương vị và độ no của bánh mì.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

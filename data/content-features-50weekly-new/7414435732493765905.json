@@ -1,0 +1,93 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu thử thách",
+      "desc": "Con thông báo thử thách mukbang đồ ăn màu hồng theo yêu cầu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về những món ăn màu hồng được chọn."
+    },
+    {
+      "step": "Liệt kê các món",
+      "desc": "Mẹ liệt kê các món ăn màu hồng đã chuẩn bị cho thử thách.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng của các món ăn."
+    },
+    {
+      "step": "Ăn kem hồng",
+      "desc": "Mẹ con cùng ăn kem dâu tây, mô tả hương vị thơm ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm giác thèm thuồng hương vị kem dâu tây."
+    },
+    {
+      "step": "Ăn gừng hồng",
+      "desc": "Mẹ con ăn gừng muối hồng, miêu tả vị cay mặn ngọt.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về hương vị đặc biệt của gừng muối hồng."
+    },
+    {
+      "step": "Ăn bánh trung thu hồng",
+      "desc": "Mẹ cắn bánh trung thu nhân trứng muối, khen bánh mềm ngọt.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi bánh trung thu có màu sắc độc đáo."
+    },
+    {
+      "step": "Ăn thạch hồng và socola hồng",
+      "desc": "Mẹ con ăn thạch mịn mát và socola bị chảy, nhận xét.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, có chút thất vọng vì socola bị chảy."
+    },
+    {
+      "step": "Ăn bánh que hồng và uống sữa dừa dâu",
+      "desc": "Mẹ con ăn bánh que giòn ngọt và uống sữa dừa vị dâu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự kết hợp của các hương vị."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Các bạn còn thử thách nào nữa không? Mang ra đây mẹ con mình chiều nốt."
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "chua",
+    "ngọt",
+    "ngon",
+    "cay",
+    "mặn",
+    "mát",
+    "giòn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Các bạn bảo mẹ con mình múc bang đồ màu hồng mà mẹ.",
+    "Mẹ con mình chiều các bạn hết nấc rồi đấy nhá.",
+    "Ăn chiếc bánh này mềm, ngọt."
+  ],
+  "hook_content": "Ôi trời ơi trời ơi thôi, con đang làm cái gì đấy?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh hai mẹ con thực hiện thử thách mukbang các món ăn màu hồng theo yêu cầu của người xem, bao gồm kem, gừng, bánh trung thu, thạch, socola, bánh que và sữa dừa.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

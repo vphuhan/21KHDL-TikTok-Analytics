@@ -1,0 +1,84 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu về món xiên bẩn và âm thanh ASMR.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn và âm thanh."
+    },
+    {
+      "step": "Miêu tả cảm quan",
+      "desc": "Miêu tả độ giòn, phô mai và vị ngon của món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn ăn thử."
+    },
+    {
+      "step": "Đề cập đồ uống",
+      "desc": "Giới thiệu viên sủi Tanpobo Bean để hạn chế tích mỡ.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến sản phẩm hỗ trợ sức khỏe."
+    },
+    {
+      "step": "Miêu tả sản phẩm",
+      "desc": "Miêu tả màu sắc, hương vị và cảm giác khi uống.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với trải nghiệm sản phẩm."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Đánh giá về độ chua và sự kết hợp của các thành phần.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị đặc biệt."
+    },
+    {
+      "step": "Nhận xét chung",
+      "desc": "Nhận xét về hương thơm và nguyên liệu thanh cua.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không quá đặc biệt."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "giòn",
+    "ngon khủng khiếp",
+    "xinh xỉu",
+    "sảng khoái",
+    "dẻo quánh quánh",
+    "thơm ghê"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Vì nó ngon khủng khiếp luôn, ăn xem phần này phần siêu đỉnh",
+    "Cái màu hồng nó xinh xỉu, uống vô thì sảng khoái ghê",
+    "Cái này nhai nó dẻo quánh quánh, ngon thế"
+  ],
+  "hook_content": "Cùng làm một vị giòn bật với tôi đi",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video này ghi lại quá trình người nói thưởng thức món xiên bẩn và chia sẻ cảm nhận về hương vị, độ giòn của món ăn, đồng thời giới thiệu thêm một loại viên sủi hỗ trợ giảm cân.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

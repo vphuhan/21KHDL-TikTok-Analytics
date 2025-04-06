@@ -1,0 +1,100 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu chân gà hấp hành và khơi gợi sự thèm thuồng.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi thèm thuồng"
+    },
+    {
+      "step": "Nêu lý do thực hiện",
+      "desc": "Chia sẻ lý do làm món chân gà hấp hành vì quá thèm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Miêu tả nguyên liệu",
+      "desc": "Miêu tả chân gà to, tươi ngon, tạo sự hấp dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn"
+    },
+    {
+      "step": "Sơ chế và luộc gà",
+      "desc": "Hướng dẫn sơ chế, luộc chân gà với gừng và ngâm đá.",
+      "impact_level": "1",
+      "viewer_emotion": "Ổn"
+    },
+    {
+      "step": "Ướp và hấp chân gà",
+      "desc": "Hướng dẫn ướp gia vị và hấp chân gà trong 15 phút.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy nhanh gọn"
+    },
+    {
+      "step": "Pha chế nước chấm",
+      "desc": "Hướng dẫn làm muối ớt cay để chấm chân gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn"
+    },
+    {
+      "step": "Thưởng thức và mời",
+      "desc": "Miêu tả hương vị món ăn và mời mọi người cùng ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Coi tới đây ai mà thèm không chịu nổi thì đi làm một mẻ như tôi liền.",
+    "Giờ thì mời mọi người ăn chung với tôi nghe."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "siêu to khổng lồ",
+    "thèm",
+    "đã cái nư",
+    "mê",
+    "ngon",
+    "cay sương sương",
+    "tê tái tâm hồn",
+    "mê",
+    "ú nu",
+    "dai giòn sần sật",
+    "đã"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Giờm cái móng chân gà siêu to khổng lồ như này, mọi người có thấy thèm không?",
+    "Ta nói chân nào chân nấy nó cũng bự chảng thần nhìn mê gì đâu.",
+    "Chân gà hấp hành cái nào cái nấy cũng ú nu mà dai giòn sần sật, ăn cùng với muối ớt đâm cay cay rồi quất vô một cái, ta nói nó đã thì thôi nhé luôn."
+  ],
+  "hook_content": "Giờm cái móng chân gà siêu to khổng lồ như này, mọi người có thấy thèm không?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm món chân gà hấp hành đơn giản tại nhà, từ khâu sơ chế đến khi thưởng thức, kèm theo lời mời gọi người xem cùng làm và thưởng thức.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

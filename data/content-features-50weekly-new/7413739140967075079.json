@@ -1,0 +1,89 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu ớt",
+      "desc": "Giới thiệu các loại ớt được bày bán ở siêu thị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các loại ớt."
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món hột gà lộn và cách ăn kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món ăn."
+    },
+    {
+      "step": "Thử thách ăn cay",
+      "desc": "Bắt đầu thử thách ăn hột gà lộn với ớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Hồi hộp chờ đợi."
+    },
+    {
+      "step": "Nếm thử lần 1",
+      "desc": "Ăn ớt với muối tiêu và cảm thấy không cay.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không bất ngờ."
+    },
+    {
+      "step": "Nếm thử lần 2",
+      "desc": "Ăn trực tiếp ớt và bắt đầu cảm thấy cay.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ và cay."
+    },
+    {
+      "step": "Vật lộn với vị cay",
+      "desc": "Người ăn bị cay đến đổ mồ hôi và ù tai.",
+      "impact_level": "3",
+      "viewer_emotion": "Đồng cảm và buồn cười."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Uống sữa tươi nhưng không giúp giảm cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Thương cảm và bất lực."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "béo",
+    "cay",
+    "cay đắng",
+    "thất vọng",
+    "lùng bùng",
+    "khó chịu"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ớt này nó sẽ không có cay liền mà phải đợi một lúc sau thì nó mới cay.",
+    "Mồ hôi mẹ mồ hôi con nó đổ ra mà hai cái lỗ tai thì nó lùng bùng.",
+    "Thật sự lúc đầu chấm vào thì cái độ cay của nó làm mình thất vọng tại vì là không có đúng như những gì mà đang kỳ vọng á."
+  ],
+  "hook_content": "Còn đi siêu thị á thì mình sẽ hay nhìn vô cái quầy rau này.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình một người thử ăn hột gà lộn với loại ớt cay nhất thế giới, ban đầu không thấy cay nhưng sau đó lại bị cay đến mức phải uống sữa tươi.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Ngạc nhiên",
+    "Chân thành"
+  ]
+}

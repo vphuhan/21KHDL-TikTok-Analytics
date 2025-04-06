@@ -1,0 +1,86 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bánh mì",
+      "desc": "Liệt kê và giới thiệu các loại bánh mì Việt Nam.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các loại bánh mì."
+    },
+    {
+      "step": "Ăn bánh mì xíu mại",
+      "desc": "Thưởng thức và đánh giá hương vị bánh mì xíu mại.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử bánh mì xíu mại."
+    },
+    {
+      "step": "Ăn bánh mì bò tảng",
+      "desc": "Ăn và nhận xét về bánh mì bò tảng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung vào món ăn."
+    },
+    {
+      "step": "Giới thiệu cà phê",
+      "desc": "Giới thiệu cà phê Laura của ca sĩ Nhật Kim Anh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tìm hiểu thêm về cà phê."
+    },
+    {
+      "step": "Ăn bánh mì chả cá",
+      "desc": "Thưởng thức bánh mì chả cá Nha Trang.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung vào món ăn."
+    },
+    {
+      "step": "Ăn bánh mì pate",
+      "desc": "Ăn và giới thiệu bánh mì pate chả bông.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị."
+    },
+    {
+      "step": "Ăn bánh mì trứng",
+      "desc": "Thưởng thức bánh mì trứng chả bông và kết thúc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thỏa mãn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "vừa miệng",
+    "khỏe",
+    "đông đầy"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Bánh mì Việt Nam vẫn là số một.",
+    "Ngon không chịu được.",
+    "Ăn sáng mà làm ổ bánh mì ú nu như thế này và làm ly cà phê thì đúng là đông đầy."
+  ],
+  "hook_content": "Mút bạn năm loại bánh mì Việt Nam.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang giới thiệu và ăn 5 loại bánh mì Việt Nam, kết hợp với cà phê Laura của ca sĩ Nhật Kim Anh. Người ăn đánh giá hương vị và chia sẻ cảm nhận.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

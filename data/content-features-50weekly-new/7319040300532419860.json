@@ -1,0 +1,88 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người ăn chay, ăn healthy",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Nhấn mạnh nấm chiên giòn đắt tiền ở nhà hàng và giới thiệu món.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách làm món ăn đắt tiền."
+    },
+    {
+      "step": "Nguyên liệu",
+      "desc": "Nấm kim châm thừa từ lẩu, bột chiên giòn, gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy nguyên liệu dễ kiếm và đơn giản."
+    },
+    {
+      "step": "Sơ chế nấm",
+      "desc": "Cắt gốc nấm kim châm và chẻ thành lát mỏng.",
+      "impact_level": "1",
+      "viewer_emotion": "Chú ý thao tác sơ chế nấm."
+    },
+    {
+      "step": "Pha bột chiên",
+      "desc": "Pha bột chiên giòn với nước, muối và ớt khô.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến tỷ lệ pha bột để chiên ngon."
+    },
+    {
+      "step": "Làm sốt me",
+      "desc": "Phi tỏi, đổ sốt chua ngọt đã pha sẵn vào.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với công thức sốt me hấp dẫn."
+    },
+    {
+      "step": "Chiên nấm",
+      "desc": "Nhúng nấm vào bột, vũ bớt bột thừa rồi chiên giòn.",
+      "impact_level": "3",
+      "viewer_emotion": "Mong chờ thành phẩm nấm chiên giòn rụm."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Nấm dai ngọt bên trong, giòn bên ngoài chấm sốt me.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng hương vị của món nấm chiên."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "giòn",
+    "dai",
+    "ngọt",
+    "chua chua"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mấy bà chấm cái nấm này ăn chay nè, ăn mặn tùy thích.",
+    "Tôi mua một đống nấm này á có 20.000đ mấy bà làm ăn thấy mẹ luôn.",
+    "Tận đi cái nấm kim châm thì nó dai dai ngọt ngọt, bên ngoài thì nó giòn chấm với cái sốt chua chua ngon."
+  ],
+  "hook_content": "mà ra cái nhà hàng kêu cái dĩa nấm chiên giòn như vậy lúc nào cũng trăm mấy chục ngàn hết trơn.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món nấm kim châm chiên giòn sốt me chua ngọt tại nhà, tận dụng nguyên liệu thừa sau các bữa tiệc. Món ăn này vừa ngon, giòn, lại có thể ăn chay hoặc mặn tùy thích.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

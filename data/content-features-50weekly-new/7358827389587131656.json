@@ -1,0 +1,92 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Người nấu giới thiệu món mì cay tự nấu tại nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách nấu"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê các nguyên liệu có sẵn và mua thêm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Nấu mì",
+      "desc": "Nhấn mạnh dễ làm, hợp khẩu vị, nhiều topping.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Chia sẻ sở thích",
+      "desc": "Chia sẻ về việc thích ăn mì cay thường xuyên.",
+      "impact_level": "1",
+      "viewer_emotion": "Đồng cảm"
+    },
+    {
+      "step": "Giới thiệu topping",
+      "desc": "Giới thiệu các loại topping hấp dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Nhấn mạnh hương vị",
+      "desc": "Tập trung vào hương vị của nấm kim châm.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng thưởng thức món mì cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn cùng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mời mọi người ăn chung với tui ngen."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "mê",
+    "hợp",
+    "giòn",
+    "ngọt",
+    "đưa miệng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Vừa hợp khẩu vị, mà topping thì ngập ngụi luôn.",
+    "Trời ơi sao mà nó hợp với mì cay ghê luôn á.",
+    "Vừa giòn vừa ngọt, nấm thấm cùng với nước của mì. Ăn cực kỳ đưa miệng luôn."
+  ],
+  "hook_content": "Hello mọi người, lại là tui mập bự thích nấu ăn đây.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ cách nấu mì cay tại nhà với topping ngập ngụi, hợp khẩu vị. Người nấu đặc biệt nhấn mạnh sự kết hợp tuyệt vời giữa nấm kim châm và nước mì cay.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

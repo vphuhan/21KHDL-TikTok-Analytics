@@ -1,0 +1,99 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món sốt bơ mật ong ăn kèm bánh mì và ruốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê nguyên liệu và hướng dẫn cách đánh tan trứng gà.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, cần thiết cho việc nấu ăn."
+    },
+    {
+      "step": "Kể chuyện cũ",
+      "desc": "Chia sẻ kỷ niệm về việc nuôi gà và thu hoạch trứng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với câu chuyện."
+    },
+    {
+      "step": "Thừa nhận lan man",
+      "desc": "Tự nhận đã nói lan man và hứa sẽ bổ sung phụ đề.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thông cảm."
+    },
+    {
+      "step": "Trình bày thành phẩm",
+      "desc": "Giới thiệu bánh mì nướng giòn phết sốt bơ mật ong.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn, muốn thử."
+    },
+    {
+      "step": "Thêm topping",
+      "desc": "Thêm ruốc vào bánh mì và chia sẻ cảm nhận về món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn ăn ngay."
+    },
+    {
+      "step": "Thông tin thêm",
+      "desc": "Hướng dẫn bảo quản sốt và gợi ý các cách ăn khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Hữu ích, muốn làm theo."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Lưu video",
+    "Thử làm theo công thức",
+    "Chia sẻ công thức"
+  ],
+  "emotion_keywords": [
+    "mướt mịn",
+    "hấp dẫn",
+    "béo",
+    "thơm",
+    "ngọt nhẹ",
+    "dịu",
+    "thanh thanh",
+    "không ngán",
+    "ăn trôi",
+    "đậm đà",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Trời ơi nhìn cái kết cấu của nó này, mướt mịn.",
+    "Sốt này ăn nó sẽ có cái độ béo, tất nhiên rồi, không béo hơi phí, nhưng mà ngược lại cũng rất là thơm cái mùi mật ong, không có bị tanh hay là nồng cái mùi trứng đâu.",
+    "Người ta đạo bún bò, đạo cơm tấm, đạo phở, còn riêng mình là đạo bánh mì, mình thích ăn bánh mì lắm."
+  ],
+  "hook_content": "Trời ơi nhìn cái kết cấu của nó này, mướt mịn.",
+  "hook_type": [
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm sốt bơ mật ong ăn kèm bánh mì và ruốc, chia sẻ thêm kỷ niệm về việc nuôi gà và gợi ý bảo quản sốt. Thành phẩm có kết cấu mướt mịn, vị béo thơm ngọt dịu và đậm đà.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Gọi người yêu dậy và hỏi muốn ăn gì.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Từ chối mì tôm",
+      "desc": "Không cho người yêu ăn mì tôm, bảo ăn bánh mì.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Mua bánh mì",
+      "desc": "Đi mua bánh mì thập cẩm về cho người yêu.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Bóc bánh mì",
+      "desc": "Đưa bánh mì và trêu người yêu chọn bánh không ớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Cùng ăn bánh mì và nhận xét về tình yêu.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấm áp"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "yêu",
+    "hạnh phúc",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Tình yêu thật ra đơn giản, chỉ cần được ở bên cạnh nhau, được đi đến những nơi thật vui, được cùng ăn những cái món thật ngon.",
+    "Anh mua bánh mì yêu em.",
+    "Không phải là người ta đâu, là anh bảo người ta ghi đấy."
+  ],
+  "hook_content": "Sẽ ăn ngay mua bánh mì về thôi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại",
+    "Kịch hóa"
+  ],
+  "summarization": "Video ghi lại cảnh cặp đôi cùng nhau ăn bánh mì. Anh chàng mua bánh mì cho người yêu và cả hai cùng nhau tận hưởng món ăn, qua đó diễn tả tình yêu là những điều giản dị trong cuộc sống.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu chuyến đi",
+      "desc": "Giới thiệu về chuyến bay đêm tới Mông Cổ và series vlog.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về trải nghiệm du lịch."
+    },
+    {
+      "step": "Quá cảnh ở Hàn Quốc",
+      "desc": "Chia sẻ trải nghiệm quá cảnh ở sân bay Incheon, Hàn Quốc.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thông tin hữu ích."
+    },
+    {
+      "step": "Ăn uống trên máy bay",
+      "desc": "Kể về bữa ăn khuya trên chuyến bay của Korean Air.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với đồ ăn trên máy bay."
+    },
+    {
+      "step": "Nhập cảnh nhanh chóng",
+      "desc": "Nhấn mạnh việc nhập cảnh nhanh chóng nhờ chính phủ Mông Cổ.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với sự hỗ trợ đặc biệt."
+    },
+    {
+      "step": "Sữa truyền thống Mông Cổ",
+      "desc": "Giới thiệu và đánh giá hương vị sữa tươi truyền thống.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử loại sữa này."
+    },
+    {
+      "step": "Di chuyển về thủ đô",
+      "desc": "Miêu tả cảnh quan trên đường từ sân bay về Ulaanbaatar.",
+      "impact_level": "1",
+      "viewer_emotion": "Hình dung về đất nước Mông Cổ."
+    },
+    {
+      "step": "Khám phá cửa hàng tiện lợi",
+      "desc": "Thăm quan cửa hàng tiện lợi và thất vọng vì đồ ăn Hàn.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với sự thất vọng."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người hãy đón xem nhé",
+    "mọi người hãy chờ đón xem My Pete sẽ khám phá gì ở Mông Cổ nha."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo",
+    "Follow kênh"
+  ],
+  "emotion_keywords": [
+    "buồn ngủ",
+    "thanh mát",
+    "ngon cực",
+    "mê"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trời ơi, ta nói nó buồn ngủ gần chết, nhưng mà cái mồm vẫn ăn.",
+    "Mình cứ tưởng là chuyến bay đêm thì không có ăn uống chứ. Nhà quê oải cả trưởng ạ.",
+    "vừa hạ cánh cái là được mời vào phòng chờ siêu xịn VIP Pro"
+  ],
+  "hook_content": "Chuyến bay 11 tiếng của Pete tới Mông Cổ, có gì?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video ghi lại hành trình bay đến Mông Cổ của Pete, bắt đầu từ chuyến bay đêm 11 tiếng, quá cảnh ở Hàn Quốc, trải nghiệm nhập cảnh nhanh chóng nhờ sự hỗ trợ của chính phủ Mông Cổ và khám phá những điều thú vị ban đầu ở thủ đô Ulaanbaatar.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

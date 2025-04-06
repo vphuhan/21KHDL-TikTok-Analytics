@@ -1,0 +1,86 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán ăn",
+      "desc": "Giới thiệu quán bún đậu giá rẻ trên phố và view đẹp.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về địa điểm."
+    },
+    {
+      "step": "Trình bày chi tiết",
+      "desc": "Mô tả chất lượng và giá cả của các suất bún đậu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn, muốn thử."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Nhấn mạnh vào tóp mỡ và độ tươi ngon của nguyên liệu.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn ăn ngay."
+    },
+    {
+      "step": "Khẳng định chất lượng",
+      "desc": "Đảm bảo chất lượng món ăn so với giá cả.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá."
+    },
+    {
+      "step": "Cung cấp địa chỉ",
+      "desc": "Chia sẻ địa chỉ quán để mọi người tham khảo.",
+      "impact_level": "1",
+      "viewer_emotion": "Muốn ghé thăm quán."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Địa chỉ quán thì mình để ở đây cho anh em tham khảo nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "rẻ",
+    "ngon",
+    "đầy đặn",
+    "chắc",
+    "ngậy",
+    "béo ngậy",
+    "giòn tan",
+    "cực kỳ hợp",
+    "không ngán",
+    "tự tin"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Thật sự là đến bây giờ vẫn còn hơi hoài nghi, vì ở ngay trên phố mà vẫn còn tồn tại một quán bún đậu giá chỉ 35 đến 40k.",
+    "Xuất 40k thì sẽ có thêm tóp mỡ và đây cũng chính là thứ đỉnh cao nhất ở quán này đấy. Miếng to bản, giòn tan và được cho siêu nhiều luôn.",
+    "Bảo sao cô chủ tự tin khẳng định không ngon thì không lấy tiền."
+  ],
+  "hook_content": "Xuất đầy đủ tóp mỡ là 40 hả cô?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quán bún đậu giá rẻ trên Hồ Tây với giá chỉ 35-40k một suất đầy đủ, đặc biệt nổi tiếng với món tóp mỡ giòn tan. Cô chủ quán tự tin khẳng định chất lượng, không ngon không lấy tiền.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

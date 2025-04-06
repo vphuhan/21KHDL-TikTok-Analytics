@@ -1,0 +1,86 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "So sánh món thịt hầm kim chi Hàn với thịt kho trứng Việt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự khác biệt giữa hai món."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu kim chi Chongga, thương hiệu nổi tiếng từ Hàn Quốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng sản phẩm."
+    },
+    {
+      "step": "Hướng dẫn nấu ăn",
+      "desc": "Hướng dẫn các bước áp chảo thịt và hầm kim chi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy công thức đơn giản, dễ thực hiện."
+    },
+    {
+      "step": "Trải nghiệm sản phẩm",
+      "desc": "Chia sẻ trải nghiệm cá nhân khi ăn kim chi Chongga.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú với hương vị đặc biệt."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Miêu tả hương vị món thịt hầm kim chi.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng và muốn thử."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Đánh giá thịt mềm, kim chi ngon, món ăn xuất sắc.",
+      "impact_level": "3",
+      "viewer_emotion": "Hoàn toàn bị thuyết phục bởi món ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Có gì thì mọi người thử làm món này xem có thích không nha."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ưa là cuốn í",
+    "xuất sắc",
+    "yummy",
+    "thích"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Kim chi Hàn Quốc ăn trắng quên quả.",
+    "Thịt thì mềm, kim chi thì ngon, xuất sắc.",
+    "Phần thịt được hầm mềm nhừ thấm đẫm gia vị, dưới nước sốt hầm chua cay đậm đà lên ăn cuốn ơi là cuốn í."
+  ],
+  "hook_content": "Nghe nói người Việt mình có món thịt kho với trứng thì người Hàn có món thịt hầm với kim chi này.",
+  "hook_type": [
+    "So sánh"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu món thịt hầm kim chi của Hàn Quốc, so sánh với món thịt kho trứng của Việt Nam, đồng thời hướng dẫn cách nấu món ăn này với kim chi Chongga và chia sẻ cảm nhận về hương vị món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

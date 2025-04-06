@@ -1,0 +1,72 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu bim bim vị sữa chua dâu và nguồn gốc của nó.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thực hiện thử thách",
+      "desc": "Thực hiện thử thách 'bắn vỡ bim bim' trước khi ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Đánh giá sản phẩm",
+      "desc": "Đánh giá màu sắc, độ giòn và hương vị của bim bim.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Nhấn mạnh trải nghiệm",
+      "desc": "Nhấn mạnh trải nghiệm hương vị và cảm xúc khi ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Các bạn muốn mình chỉ cách bắn vỡ bim bim ý thì hãy ủng hộ kênh của mẹ con mình nhá."
+  ],
+  "cta_type": [
+    "Follow kênh"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "ngọt ngào",
+    "ngon ngọt",
+    "yummy"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Màu sắc thì bắt mắt.",
+    "Ăn thì rất giòn.",
+    "Hương vị dâu tây và sữa chua hòa quyện với nhau ăn rất chi là hấp dẫn các bạn ạ."
+  ],
+  "hook_content": "Thích cái cách mà mẹ mình ra trưởng. Mẹ ơi! Mua.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review bim bim vị sữa chua dâu, tập trung vào trải nghiệm ăn và hương vị đặc trưng. Mẹ con cùng nhau thực hiện thử thách và đưa ra đánh giá.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

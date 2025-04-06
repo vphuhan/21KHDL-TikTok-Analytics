@@ -1,0 +1,87 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu khô mỡ cá gây tranh cãi, nói về tên gọi sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm."
+    },
+    {
+      "step": "Thông tin giá cả",
+      "desc": "Nửa cân khô mỡ giá 65k, ship 107k, khoảng 10 miếng.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin về giá cả rõ ràng."
+    },
+    {
+      "step": "Chế biến",
+      "desc": "Chiên khô mỡ và miêu tả mùi vị béo ngậy.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi mùi vị."
+    },
+    {
+      "step": "Nếm thử",
+      "desc": "Nếm thử khô mỡ, nhận xét vị mặn và béo.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị thực tế."
+    },
+    {
+      "step": "Kết hợp mắm me",
+      "desc": "Chấm mắm me, nhưng vẫn thấy mặn và ngán.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    },
+    {
+      "step": "Tổng kết",
+      "desc": "Khô mỡ nhiều mỡ, mặn, hợp ăn cơm, béo.",
+      "impact_level": "2",
+      "viewer_emotion": "Đánh giá khách quan."
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Gợi ý món này chỉ dành cho người thích mỡ cá.",
+      "impact_level": "1",
+      "viewer_emotion": "Lời khuyên hữu ích."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "béo",
+    "mặn",
+    "ngán"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đây là cái món ăn mà gây rất là nhiều sự tranh cãi trong thời gian vừa qua.",
+    "Tổng kết lại thì cái món này đúng với tên gọi của nó đấy là khô mỡ cá nha. Có nghĩa là nó rất là nhiều mỡ luôn",
+    "Món này dành cho những người thích mỡ cá và phải thích béo, thực sự béo nha. Món này rất rất béo luôn, rất là nhiều mỡ luôn."
+  ],
+  "hook_content": "Chào mọi người. Đây là cái món ăn mà gây rất là nhiều sự tranh cãi trong thời gian vừa qua.",
+  "hook_type": [
+    "Gây tranh cãi",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm",
+    "Đối thoại"
+  ],
+  "summarization": "Video review khô mỡ cá, món ăn gây tranh cãi về tên gọi. Người review đánh giá sản phẩm này béo, mặn và phù hợp để ăn với cơm hơn là ăn không.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

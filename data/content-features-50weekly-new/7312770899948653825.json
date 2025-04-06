@@ -1,0 +1,92 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán ăn",
+      "desc": "Reviewer bất ngờ khi biết bạn làm chủ nhà hàng A Chóe.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Xin ưu đãi",
+      "desc": "Xin 'thầu' bàn và được nướng thịt miễn phí.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Thịt bò A Chóe chất lượng, được người đẹp nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Nhận xét dịch vụ",
+      "desc": "Nhân viên/quản lý nướng thịt và hướng dẫn khách hàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng"
+    },
+    {
+      "step": "Miêu tả trải nghiệm",
+      "desc": "Nướng thịt xong phải để thịt nghỉ như ăn bít tết.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên"
+    },
+    {
+      "step": "Giao lưu với chủ quán",
+      "desc": "Reviewer ngạc nhiên khi chủ quán trẻ tuổi và thành đạt.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngưỡng mộ"
+    },
+    {
+      "step": "Kêu gọi ủng hộ",
+      "desc": "Mời mọi người ghé ủng hộ quán của em Ly.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Anh em mà có thời gian rảnh có thể qua ủng hộ em Ly nhá."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "hết nấc",
+    "mừng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Thịt bò ngon lại còn được người đẹp nướng cho này đúng là hết nấc.",
+    "Nhà hàng hay ở chỗ là phần thịt nướng đợt đầu luôn có quản lý hoặc nhân viên ra nướng cho.",
+    "Nghe phong phanh cứ như đi ăn bít tết ở nhà hàng không bằng ấy."
+  ],
+  "hook_content": "Bây giờ mới biết là có cái đứa em nó làm cùng công ty mình là chủ của cái nhà hàng nướng ở Chùa Láng.",
+  "hook_type": [
+    "Gây tò mò",
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quán nướng A Chóe ở Chùa Láng, Hà Nội, với điểm nhấn là thịt bò ngon và trải nghiệm được nhân viên xinh đẹp nướng cho. Reviewer bất ngờ khi biết bạn làm cùng công ty là chủ nhà hàng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

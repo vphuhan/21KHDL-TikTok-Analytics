@@ -1,0 +1,93 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món chân gà sốt thái mix trứng non lòng đào.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Liệt kê nguyên liệu",
+      "desc": "Liệt kê các nguyên liệu cần có để làm món ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Cách chế biến",
+      "desc": "Hướng dẫn sơ chế và trộn các nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với món trộn."
+    },
+    {
+      "step": "Thưởng thức và cảm nhận",
+      "desc": "Trải nghiệm món ăn và đưa ra cảm nhận.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng món ăn."
+    },
+    {
+      "step": "Giới thiệu sản phẩm liên quan",
+      "desc": "Giới thiệu sốt thái và muối ớt của Thái Châu.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến sản phẩm được giới thiệu."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Còn ai mà muốn mua muối ớt đỏ, sốt Thái và muối chấm trái cây thì kiếm anh hai tôi Thái Châu 0808 nhen.",
+    "Giờ thì mời mọi người ăn chung với tôi nhen."
+  ],
+  "cta_type": [
+    "Ăn cùng",
+    "Truy cập trang cá nhân"
+  ],
+  "emotion_keywords": [
+    "hấp dẫn",
+    "ngon lành",
+    "cực kỳ lẹ",
+    "đỉnh",
+    "ngon",
+    "xịn",
+    "bá chất lượng",
+    "mê",
+    "giòn",
+    "thấm đẫm",
+    "đậm đà",
+    "cay thơm",
+    "béo ngậy",
+    "chua chua",
+    "ngon bá cháy"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Siêu hấp dẫn ngon lành mà làm thì phải gọi là cực kỳ lẹ luôn.",
+    "Tinh hoa hội tụ, vị thì đậm đà nên đem trộn một cái ăn vô sốc liền tại nó quá đỉnh.",
+    "Chân gà thì giòn thật sặt, thấm đẫm sốt đậm đà cay thơm, quất thêm miếng trứng non béo ngậy rồi xoài chua chua đúng là ngon bá cháy mọi người ơi."
+  ],
+  "hook_content": "Một món khoái khẩu mà một tháng mọi người phải ăn ba bốn lần mới chịu là món gì?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu món chân gà rút xương mix trứng non sốt thái, hướng dẫn cách làm nhanh gọn và chia sẻ cảm nhận về hương vị hấp dẫn, đậm đà. Đồng thời, video cũng giới thiệu sản phẩm sốt thái và muối ớt của Thái Châu.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

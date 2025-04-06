@@ -1,0 +1,89 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món đọt mây ba món ăn cùng thịt ba chỉ xào tương ớt",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới lạ."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Giới thiệu nguyên liệu và cách sơ chế đọt mây và thịt",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức muốn xem cách chế biến."
+    },
+    {
+      "step": "Chế biến món 1",
+      "desc": "Hướng dẫn làm món đọt mây trộn tương đậu và các gia vị",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn ăn thử ngay."
+    },
+    {
+      "step": "Chế biến món 2",
+      "desc": "Hướng dẫn làm món đọt mây tẩm bột chiên xù",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy quen thuộc, gợi nhớ món ăn ngày lễ."
+    },
+    {
+      "step": "Chế biến món 3",
+      "desc": "Hướng dẫn làm món đọt mây chấm tương ớt đơn giản",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy món này quá dễ làm."
+    },
+    {
+      "step": "Chế biến thịt ba chỉ",
+      "desc": "Hướng dẫn xào thịt ba chỉ với sốt cay đặc biệt",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn biết công thức sốt cay."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Cả nhà cùng ăn và đánh giá món ăn",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn làm theo."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bây giờ mời mọi người ăn cơm tối chung với cả nhà của bọn mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngon xuất sắc",
+    "ngon tuyệt",
+    "ngon ghê",
+    "ngon quá"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đột mây này ăn nhiều tưởng ngán ai ngờ đâu ăn gie bị ghiền.",
+    "Ngon hay không là ở cái sốt á, chứ cái món này làm nó cũng đơn giản lắm mọi người.",
+    "Hồi nữa mà ăn với cơm hay là gói với rau sống thì đều ngon nhất cái nách luôn."
+  ],
+  "hook_content": "mình làm một ký hai thịt ba chỉ xào cay mà ba người ăn hết trơn luôn. Ừ.",
+  "hook_type": [
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm ba món từ đọt mây Hàn Quốc kết hợp với thịt ba chỉ xào cay, từ khâu chuẩn bị nguyên liệu đến chế biến và thưởng thức món ăn cùng gia đình.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

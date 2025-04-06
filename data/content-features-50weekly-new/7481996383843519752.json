@@ -1,0 +1,77 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món đậu hũ sốt cay giòn lâu và cuốn hút.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Sơ chế và chiên đậu",
+      "desc": "Cắt đậu hũ, chiên hai lần với mẹo ngâm nước đá.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy lạ và muốn thử."
+    },
+    {
+      "step": "Làm sốt sa tế cay",
+      "desc": "Hướng dẫn làm sốt sa tế cay với tương ớt Chin-su.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn và muốn làm theo."
+    },
+    {
+      "step": "Trộn đậu hũ với sốt",
+      "desc": "Trộn đậu hũ đã chiên với sốt và rau thơm.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm ăn."
+    },
+    {
+      "step": "Thưởng thức và đánh giá",
+      "desc": "Thưởng thức món ăn và đánh giá độ ngon, giòn.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn nếm thử ngay lập tức."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nhất định á là mọi người phải thử cái món này mới được."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "cuốn",
+    "hấp dẫn",
+    "cay cay",
+    "chua chua",
+    "ngọt ngọt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Không biết ai á là người nghĩ ra cái cách chiên đậu hũ một lần xong rồi ngấm với nước đá, mang đi chiên lần thứ hai thì miếng đậu hũ nó sẽ giòn lâu hơn.",
+    "Bỏ bên ngoài á thì giòn, thêm cái nước sốt cay cay, chua chua, ngọt ngọt, nhất định á là mọi người phải thử cái món này mới được."
+  ],
+  "hook_content": "Còn không biết ai á là người nghĩ ra cái cách chiên đậu hũ một lần xong rồi ngấm với nước đá, mang đi chiên lần thứ hai thì miếng đậu hũ nó sẽ giòn lâu hơn.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm món đậu hũ sốt cay giòn lâu bằng cách chiên hai lần và ngâm nước đá, sau đó trộn với sốt sa tế cay tự làm. Món ăn có vị cay, chua, ngọt hấp dẫn và rất đáng thử.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu tình trạng sức khỏe",
+      "desc": "Chia sẻ về tình trạng sức khỏe sau 5 ngày bị sưng môi.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đồng cảm và lo lắng."
+    },
+    {
+      "step": "Tình hình ăn uống những ngày qua",
+      "desc": "Đề cập đến việc ăn uống khó khăn và sụt cân do bệnh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thương cảm cho người chia sẻ."
+    },
+    {
+      "step": "Kể về sự giúp đỡ",
+      "desc": "Nhấn mạnh sự giúp đỡ của người thân trong thời gian bệnh.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp và biết ơn."
+    },
+    {
+      "step": "Tình hình công việc",
+      "desc": "Chia sẻ về công việc bận rộn và những ngày nghỉ ngơi.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thông cảm."
+    },
+    {
+      "step": "Đính chính thông tin",
+      "desc": "Giải thích nguyên nhân sưng môi không phải do ăn gỏi cuốn.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về nguyên nhân thực sự."
+    },
+    {
+      "step": "Giới thiệu bữa ăn",
+      "desc": "Giới thiệu bữa ăn với thịt nướng, thịt luộc và rau tự trồng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và muốn thử."
+    },
+    {
+      "step": "Đánh giá đồ ăn",
+      "desc": "Nhận xét về các món ăn và mời mọi người cùng ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy đói bụng và thích thú."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "mời mọi người ăn chung với nhà mình"
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "cay",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn cơm nhà phải ăn.",
+    "Nay mình cũng hái rau ăn nữa nhưng mà không có ăn với gỏi cuốn, ăn với thịt nướng thịt luộc.",
+    "Thật là ngon."
+  ],
+  "hook_content": "Ké môi của mình sau 5 ngày bị sưng chù dù đây, nó hết khoảng 80% rồi đó mọi người.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video chia sẻ về tình trạng sức khỏe của người tạo nội dung sau khi bị sưng môi, đồng thời giới thiệu bữa cơm nhà với các món thịt nướng, thịt luộc và bạch tuộc xào cay, mời mọi người cùng ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

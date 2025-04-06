@@ -1,0 +1,61 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quả lạ",
+      "desc": "Người nói giới thiệu về một loại quả lạ và siêu cứng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về loại quả được nhắc đến."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Người nói mô tả hương vị của quả: ngọt, thanh, chua.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với những mô tả về hương vị."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Người nói kết luận quả này khá ngon và đáng để thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá của người nói."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "ngọt",
+    "thanh",
+    "chua",
+    "ok"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Quả này thì người ta thường dùng phơi khô hơn là ăn tươi, nhưng ăn tươi cũng khá là ngon nha, ngọt ngọt, thanh thanh, chua chua, khá là ok luôn."
+  ],
+  "hook_content": "Review cả thế giới, quả lạ siêu cứng.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review một loại quả lạ siêu cứng, thường được phơi khô nhưng ăn tươi cũng rất ngon với vị ngọt, thanh, chua.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

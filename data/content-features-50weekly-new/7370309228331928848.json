@@ -1,0 +1,75 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Nhắc lại kỷ niệm ăn hoa phượng thời nhỏ khi không có tiền.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú khi nhớ lại kỷ niệm tuổi thơ."
+    },
+    {
+      "step": "Cách chọn hoa",
+      "desc": "Hướng dẫn chọn lá màu sáng nhất của hoa phượng để ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về cách chọn hoa để ăn."
+    },
+    {
+      "step": "Nếm thử",
+      "desc": "Ăn thử lá hoa phượng và đưa ra cảm nhận ban đầu.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi bất ngờ và chờ đợi đánh giá."
+    },
+    {
+      "step": "Ăn nụ hoa",
+      "desc": "Hướng dẫn ăn nụ hoa già và chọn cánh hoa sáng màu.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy lạ về cách ăn nụ hoa."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Miêu tả vị chua, ít ngọt, chát và béo của hoa phượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung được hương vị đặc biệt."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thú vị",
+    "chua chua",
+    "ngọt",
+    "chát",
+    "béo béo"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Trong một cái bông hoa Phượng thì mình chỉ ăn duy nhất cái lá mà có màu sáng nhất này thôi.",
+    "Cái hoa Phượng này thì ăn nó có vị hơi chua chua một chút, rất là ít vị ngọt và một chút vị chát. Ngoài ra khi ăn thì nó còn một chút xíu cái vị gì đấy nó hơi béo béo ấy."
+  ],
+  "hook_content": "Hoa Phượng này thì hồi còn nhỏ mình rất là hay ăn luôn mọi người ạ.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review trải nghiệm ăn hoa phượng, gợi nhớ kỷ niệm tuổi thơ và mô tả hương vị đặc biệt của hoa.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

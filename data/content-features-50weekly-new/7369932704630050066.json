@@ -1,0 +1,92 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món kim chi củ cải nhỏ ăn với mì.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Chia sẻ về việc mua nhiều củ cải và các nguyên liệu khác.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Sơ chế củ cải",
+      "desc": "Hướng dẫn rửa và ngâm củ cải với muối.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "Làm sốt kim chi",
+      "desc": "Hướng dẫn trộn các gia vị làm sốt kim chi.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Trộn kim chi",
+      "desc": "Trộn củ cải đã ngâm với sốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ"
+    },
+    {
+      "step": "Ủ kim chi",
+      "desc": "Hướng dẫn ủ kim chi trong 1 ngày.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Nấu mì và ăn kèm với kim chi tự làm.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Mời mọi người ăn chung với cả nhà mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thèm",
+    "khoái",
+    "khen ngon",
+    "siêu ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Hôm nay mình làm lại kim chi củ cải nhỏ này ăn với mì là ngon hết sẩy luôn.",
+    "Lúc trước chưa biết ăn á thì nhìn còn không thấy thèm, còn bây giờ biết ăn rồi thấy ngon đi trời, thấy người ta bán là mình phải mua về để làm liền.",
+    "Mình chờ từ hôm qua đến nay mới có 1 ngày thôi mà nó dài giống như 1 tuần vậy."
+  ],
+  "hook_content": "Hôm nay mình làm lại kim chi củ cải nhỏ này ăn với mì là ngon hết sẩy luôn.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn cách làm kim chi củ cải nhỏ để ăn kèm với mì cay. Tác giả chia sẻ kinh nghiệm và các bước làm chi tiết để có món kim chi ngon.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

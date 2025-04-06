@@ -1,0 +1,78 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món lẩu gà lá é và sự cố hết gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn và thích thú với tình huống."
+    },
+    {
+      "step": "Gọi thêm món",
+      "desc": "Quyết định gọi thêm lẩu gà lá é và các món khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thèm thuồng và muốn ăn thử."
+    },
+    {
+      "step": "Nhận xét món ăn",
+      "desc": "Nhận xét về lá é, nước lẩu và gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đói bụng và muốn nếm thử."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Miêu tả cách ăn gà chấm muối tiêu.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng và kích thích vị giác."
+    },
+    {
+      "step": "Gọi thêm topping",
+      "desc": "Gọi thêm trứng non, lòng gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn và muốn thử các món thêm."
+    },
+    {
+      "step": "Địa điểm quán",
+      "desc": "Nhắc lại địa chỉ quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhớ địa điểm để ghé thăm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "ngọt",
+    "đã"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nhỏ em quay qua nói nãy có gà mẹ mà chạy vô bụng em rồi giờ còn gà con thôi.",
+    "Nói chứ mỗi lần ăn lẩu gà lá é là phải đầy đủ như vậy nó mới ngon.",
+    "Nhưng đỉnh nhất vẫn là cái trứng non chấm muối ớt béo đã luôn."
+  ],
+  "hook_content": "anh không biết ăn cái gì chị đẹp nói có chường nguyên con gà trong cái nồi nè.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quán lẩu gà lá é quen thuộc, chia sẻ trải nghiệm ăn uống và cảm nhận về món ăn, đặc biệt là hương vị thơm ngon của lẩu gà lá é và các món ăn kèm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

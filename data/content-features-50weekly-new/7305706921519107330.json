@@ -1,0 +1,93 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Chia sẻ cảm giác lạc lõng và thèm ăn lòng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu các món ăn như nỏn đuôi, lòng trần.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Miêu tả chi tiết hương vị, độ ngon của món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Nhận xét chung",
+      "desc": "Nhấn mạnh độ ngon và chất lượng của quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng"
+    },
+    {
+      "step": "Trải nghiệm thêm",
+      "desc": "Thử thêm gỏi, canh măng tiết và giồi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Đồ uống và lẩu",
+      "desc": "Giới thiệu nước sấu và lẩu riêu.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Nhấn mạnh sự hài lòng và địa chỉ quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Ghi nhớ"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ấm lòng",
+    "ấm dạ",
+    "ngon",
+    "giòn",
+    "béo",
+    "đã",
+    "mềm",
+    "dai",
+    "khoái",
+    "chuẩn",
+    "chất lượng",
+    "hợp khẩu vị"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ở Sài Gòn mỗi lần nhắc tới lòng xe điếu là thấy người ta tới đây ăn cũng nhiều á. Nhưng phải công nhận là ngon với chất lượng thiệt nha.",
+    "Công nhận mấy món ở đây rất là vừa ăn luôn á nha. Món nào cũng nêm nếm đậm đà mà hợp gu nữa chứ.",
+    "Ta nói trời mưa mà ngồi đẩy cái nồi lẩu này là hết bài luôn."
+  ],
+  "hook_content": "Mới sáng mở mắt ra thấy nhà không có ai mà cũng không biết ăn cái gì.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán lòng xe điếu, giới thiệu nhiều món ăn như lòng trần, nỏn đuôi, gỏi, canh măng tiết và lẩu riêu, đồng thời đánh giá cao hương vị và chất lượng của quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

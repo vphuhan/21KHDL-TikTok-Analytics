@@ -1,0 +1,67 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bột lộn khoái tuổi thơ, gợi sự tò mò.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Giải thích về bột lộn",
+      "desc": "Giải thích bột lộn là gì và cách tạo ra nó.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "So sánh các loại bột",
+      "desc": "So sánh sự khác biệt giữa bột lọc và bột lộn.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên"
+    },
+    {
+      "step": "Cách thưởng thức",
+      "desc": "Hướng dẫn cách ăn bột lộn ngon nhất với nước mắm.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Kiến thức",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "chua"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Bột lộn khoái tuổi thơ thì nhiều bạn đã từng ăn rồi nè, nhưng mà bột lộn khoái thì có lẽ các bạn sẽ chưa bao giờ ăn món này.",
+    "Bột lộn thì nó sẽ có một cái sự chua nhiều hơn so với bột lọc.",
+    "Bột lộn sau khi mà khoáy xong thì chấm với nước mắm riêng, cắt vào một chút ớt trái nữa, ăn cũng rất là ngon, đặc biệt là vào những ngày trời mưa."
+  ],
+  "hook_content": "Bột lọc khoái tuổi thơ thì nhiều bạn đã từng ăn rồi nè, nhưng mà bột lộn khoái thì có lẽ các bạn sẽ chưa bao giờ ăn món này hoặc là thậm chí chưa bao giờ nghe về tên của loại bột này.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "So sánh"
+  ],
+  "summarization": "Video giới thiệu về món bột lộn khoái tuổi thơ, giải thích về nguồn gốc, cách làm và hương vị đặc trưng của món ăn này so với bột lọc thông thường.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

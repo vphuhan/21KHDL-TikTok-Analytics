@@ -1,0 +1,84 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Tìm quán phở",
+      "desc": "Tìm quán phở cô Hạnh ở chợ Thái Bình, phải đợi đến 9h",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về quán phở"
+    },
+    {
+      "step": "Gọi món",
+      "desc": "Gọi một tô phở thập cẩm và trò chuyện với chủ quán",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự nhiệt tình"
+    },
+    {
+      "step": "Miêu tả món ăn",
+      "desc": "Phở làng đơn giản, đủ vị, quán nhỏ phục vụ dân địa phương",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng về phở"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Phở nóng hổi, nước lèo béo ngậy, ăn kèm rau thơm hài lòng",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món phở"
+    },
+    {
+      "step": "Nhận xét chung",
+      "desc": "Phở không đặc sắc nhưng ngon miệng cho bữa sáng",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào quán"
+    },
+    {
+      "step": "Kết thúc review",
+      "desc": "Chào tạm biệt và hứa hẹn quay lại quán phở cô Hạnh",
+      "impact_level": "1",
+      "viewer_emotion": "Mong muốn đến quán"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nếu như có dịp hãy ghé qua nhá.",
+    "Giới thiệu toàn thể anh em bà con nhá, đây là phở mang tên là Cô Hạnh ở một địa chỉ cạnh chợ Thái Bình."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ấm cúng",
+    "ngon",
+    "hài lòng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đây là một quán phở bò của Sài Gòn mà không dành cho những người dậy sớm.",
+    "Gọi là phở làng bởi vì nó rất đơn giản, nhưng lại có đủ tất cả các yếu tố để tạo ra một bát phở bò thật ngon.",
+    "Nếu như để bảo là phở ở đây đặc sắc hẳn ấy thì là không phải, nhưng mà là để dành cho một bữa sáng ăn ngon thì như thế là đủ rồi."
+  ],
+  "hook_content": "Cô ơi cho con hỏi đây có phải phở ở cô Hạnh không ạ?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán phở bò Cô Hạnh ở chợ Thái Bình, Sài Gòn. Quán phở này phục vụ những người dậy muộn, phở ở đây tuy đơn giản nhưng ngon và ấm cúng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

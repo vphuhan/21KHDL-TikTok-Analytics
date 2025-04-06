@@ -1,0 +1,64 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món xiên bẩn, cá viên chiên và đậu hũ phô mai",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Thưởng thức đậu hũ phô mai",
+      "desc": "Ăn và khen ngon cục đậu hũ phô mai",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Thưởng thức xiên que",
+      "desc": "Ăn thêm xiên que phô mai và khen ngon",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Ăn hai cây và tận hưởng món ăn",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn thử"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ăn mấy nước chết à.",
+    "Ngon quá.",
+    "Ngon lành."
+  ],
+  "hook_content": "Hôm nay ăn xiên bẩn nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video quay cảnh ăn xiên bẩn, cá viên chiên và đậu hũ phô mai, tập trung vào việc thưởng thức và khen ngon món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

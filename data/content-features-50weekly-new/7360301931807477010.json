@@ -1,0 +1,74 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Tưởng bị lừa vì giá khác trên mạng, nhưng hóa ra là nhầm lẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự nhầm lẫn giá cả."
+    },
+    {
+      "step": "Tìm kiếm sản phẩm",
+      "desc": "Nhân viên giúp tìm đúng quầy, may mắn còn đúng ba cái.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ mở hộp sản phẩm."
+    },
+    {
+      "step": "Mở hộp và đánh giá",
+      "desc": "Mở ba móc khóa bọc biển, bày tỏ sự thích thú với từng cái.",
+      "impact_level": "3",
+      "viewer_emotion": "Phấn khích trước vẻ đẹp của móc khóa."
+    },
+    {
+      "step": "Kết luận và thông tin",
+      "desc": "Khẳng định sự hài lòng, giới thiệu nơi mua và các sản phẩm khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng về sản phẩm và địa điểm mua."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Hẹn mọi người clip sau tôi sẽ review nha."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "thích",
+    "đẹp",
+    "dễ thương",
+    "phê",
+    "hài"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bọc biển, bọc biển, bọc biển hài vãi.",
+    "Đúng là tao thích luôn.",
+    "Mặc nó phê lắm."
+  ],
+  "hook_content": "Tôi còn tưởng tôi bị lừa không đó chứ.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review ba móc khóa bọc biển mua tại Miniso, chia sẻ trải nghiệm tìm mua và bày tỏ sự thích thú với thiết kế độc đáo, dễ thương của sản phẩm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

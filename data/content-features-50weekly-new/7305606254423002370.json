@@ -1,0 +1,93 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món trà sữa thố đất nung",
+      "desc": "Giới thiệu món trà sữa thố đất nung đang hot ở Sài Gòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Miêu tả sự độc đáo",
+      "desc": "Cách pha trà sữa thủ công và sử dụng nguyên liệu đặc biệt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Đánh giá về hình thức",
+      "desc": "Ấn tượng về cách bày trí và các nguyên liệu trang trí.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên"
+    },
+    {
+      "step": "Trải nghiệm uống trà",
+      "desc": "Miêu tả trải nghiệm uống trà như đang ở trong cung.",
+      "impact_level": "2",
+      "viewer_emotion": "Hài hước"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhấn mạnh hương vị đậm đà và béo ngậy của trà sữa.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Khen ngợi",
+      "desc": "Khen ngợi món trà sữa và khuyến khích thử.",
+      "impact_level": "3",
+      "viewer_emotion": "Tin tưởng"
+    },
+    {
+      "step": "Địa điểm quán",
+      "desc": "Thông tin về địa chỉ quán trà chanh bánh tráng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Có gì mấy bà tham khảo thử nè."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "đẹp",
+    "lạ",
+    "béo"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Uống trà sữa mà khi bưng ra là người ta bưng ra cho mình một cái bộ vậy nè, một cái nồi, hai cái chén, thêm một cái vá, một cái rây nữa.",
+    "Uống cái trà sữa này màu mè bày vẽ như đang ở trong cung vậy á.",
+    "Cái này là thơm nồng luôn chứ không phải là thơm thoang thoảng đâu."
+  ],
+  "hook_content": "Trà sữa thố đất nung ở Vân Nam Trung Quốc hot hồn hợt mà bữa nay đã có mặt ở Sài Gòn rồi nè mấy bà.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu món trà sữa thố đất nung đang hot ở Sài Gòn, từ cách pha chế độc đáo đến hương vị đậm đà và trải nghiệm uống trà như trong cung. Người nói đánh giá cao và khuyến khích mọi người nên thử.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

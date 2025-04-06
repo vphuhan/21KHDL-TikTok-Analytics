@@ -1,0 +1,67 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món thịt kho heo Peppa và nhận xét về màu sắc.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét về độ ngán của thịt kho và đề xuất giải pháp.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu cà phê Laura của Nhật Kim Anh, thành phần và công dụng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Kết hợp món ăn",
+      "desc": "Đề xuất kết hợp thịt kho với sốt cay và cà phê.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "béo",
+    "ngọt",
+    "đã"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "thịt này màu hồng rất là nam tính",
+    "uống thì vừa ngon mà lại còn khỏe bảo sao thấy ai cũng dùng cà phê laora luôn",
+    "siêu béo và ngọt thịt chấm cùng sốt cay, uống thêm chút cà phê lao ra nữa là quá đã"
+  ],
+  "hook_content": "review cả thế giới thịt kho heo Peppa.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review món thịt kho heo Peppa, nhận xét về độ béo và gợi ý kết hợp với cà phê Laura để tăng thêm hương vị và tốt cho sức khỏe.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

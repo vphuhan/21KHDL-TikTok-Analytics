@@ -1,0 +1,79 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Chào mừng đến với kênh và giới thiệu món ăn hôm nay.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn được giới thiệu."
+    },
+    {
+      "step": "Uống Kombucha",
+      "desc": "Giới thiệu và uống thử Star Kombucha với các vị khác nhau.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng của sản phẩm."
+    },
+    {
+      "step": "Thưởng thức chân gà",
+      "desc": "Bắt đầu ăn chân gà sốt cay và nấm kim châm.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm giác thèm thuồng khi thấy món ăn hấp dẫn."
+    },
+    {
+      "step": "Ăn và cảm nhận",
+      "desc": "Miêu tả hương vị và độ giòn của chân gà, nấm.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung được hương vị của món ăn."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Cảm ơn người xem và hẹn gặp lại ở video sau.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thoải mái sau khi xem."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn bạn đã xem video của Tóc Vàng.",
+    "Hẹn gặp lại bạn vào video lần sau."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "cay",
+    "béo",
+    "ngon",
+    "giòn",
+    "thơm",
+    "chua"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Chân gà Vàng à luộc xong đó bạn. Vàng bỏ vào đá nên nó rất là giòn.",
+    "Cái này á uống mình ăn cái gì mình uống cũng ngon hết trơn bạn."
+  ],
+  "hook_content": "Hai bạn, chào mừng bạn đã đến với kênh Tóc Vàng Hoe và mình là Tóc Vàng.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang của Tóc Vàng Hoe tập trung vào việc ăn chân gà sốt cay Hàn Quốc và nấm, kết hợp uống Star Kombucha. Cô ấy mô tả hương vị, độ giòn của món ăn và chia sẻ cảm xúc khi thưởng thức.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

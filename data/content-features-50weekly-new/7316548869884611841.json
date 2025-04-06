@@ -1,0 +1,93 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Thông báo đạt một củ follow và ăn mừng bằng món gà luộc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mừng của người nổi tiếng."
+    },
+    {
+      "step": "Chia sẻ trải nghiệm",
+      "desc": "So sánh việc ăn uống ở Việt Nam và Nhật Bản.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Đi chợ",
+      "desc": "Mua gà nguyên con ở Nhật để chuẩn bị cho món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị về giá cả và loại gà ở Nhật."
+    },
+    {
+      "step": "Sơ chế",
+      "desc": "Mô tả quá trình luộc gà và các nguyên liệu phụ gia.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung vào quá trình nấu ăn và nguyên liệu."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Đánh giá chất lượng và hương vị của món gà luộc.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn thử món gà luộc này."
+    },
+    {
+      "step": "Mẹo ăn ngon",
+      "desc": "Gợi ý cách ăn gà luộc ngon hơn với rau răm và nước chấm.",
+      "impact_level": "2",
+      "viewer_emotion": "Ghi nhớ để áp dụng khi ăn gà."
+    },
+    {
+      "step": "Cảm ơn và CTA",
+      "desc": "Cảm ơn người xem và kêu gọi bình luận món muốn ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy bình thường, không có gì đặc biệt."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ai muốn mình ăn món gì thì hãy nói bên dưới cho mình biết ha."
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "ngọt ngon",
+    "mềm",
+    "dai nhẹ",
+    "ngon",
+    "bắt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mà người khác ăn đâu có bị gì đâu mà tới mình ăn sao mà nó lạ lùng dữ không biết nữa.",
+    "Phải em là cái người ăn trứng cá tuyết sưng mắt hay không?",
+    "Gà này á thì nó có một cái độ mềm mà dai nhẹ."
+  ],
+  "hook_content": "Sau bao ngày ăn uống miệt mài từ Việt Nam qua tới Nhật Bản thì kênh mình hôm nay cũng đã được một củ follow.",
+  "hook_type": [
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video ghi lại quá trình ăn mừng kênh TikTok đạt một củ follow của một người Việt ở Nhật bằng món gà luộc. Video chia sẻ trải nghiệm ăn uống, cách chế biến món gà và kêu gọi người xem bình luận.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

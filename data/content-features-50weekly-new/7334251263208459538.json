@@ -1,0 +1,66 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán ốc",
+      "desc": "Giới thiệu các loại ốc và giá cả tại quán ốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các loại ốc."
+    },
+    {
+      "step": "Thao tác ăn ốc",
+      "desc": "Hướng dẫn cách ăn ốc bằng cách lể và rút.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với cách ăn."
+    },
+    {
+      "step": "Trải nghiệm ăn ốc",
+      "desc": "Thưởng thức ốc ruốc kèm mắm gừng, khen ốc bưu sông.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn thử ốc ruốc."
+    },
+    {
+      "step": "Thông tin địa điểm",
+      "desc": "Thông báo địa chỉ quán ốc đối diện cổng Mỹ Trà.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết thêm địa điểm ăn ốc."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "béo",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ưng thì rút, ưng thì cầm vậy, rút ra.",
+    "Vừa hút vừa vừa lễ.",
+    "Ốc các loại đối diện cổng Mỹ Trà nha mọi người."
+  ],
+  "hook_content": "Rút ăn liền không cần tăm luôn !",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu một quán ốc với nhiều loại ốc khác nhau và hướng dẫn cách ăn ốc. Người bán hàng giới thiệu các loại ốc và giá cả, đồng thời hướng dẫn cách ăn ốc bằng cách lể hoặc rút.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

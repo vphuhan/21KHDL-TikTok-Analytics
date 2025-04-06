@@ -1,0 +1,80 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu tình huống",
+      "desc": "Bà ngoại đến chăm sóc con gái chuẩn bị sinh em bé.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp, cảm động"
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Pha cà phê cho chồng uống trước khi đi tập.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm"
+    },
+    {
+      "step": "Miêu tả sản phẩm",
+      "desc": "Cà phê mix đông trùng hạ thảo và nấm linh chi.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến thành phần"
+    },
+    {
+      "step": "Chia sẻ cuộc sống",
+      "desc": "Giới thiệu về bầu 38 tuần và chị gái giúp việc.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Review sản phẩm",
+      "desc": "Pha cà phê cho mẹ uống và nhận xét hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với trải nghiệm"
+    },
+    {
+      "step": "Đánh giá sản phẩm",
+      "desc": "Mẹ khen cà phê ngon và yên tâm khi uống.",
+      "impact_level": "3",
+      "viewer_emotion": "Tin tưởng vào sản phẩm"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "sướng",
+    "hấp dẫn",
+    "ngon",
+    "ngon cực ngon",
+    "ghiền",
+    "yên tâm",
+    "đậm đà"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đi xanh mà có bà ngoại là sướng nhất luôn đó nha con gái yêu.",
+    "Sau bao nhiêu lần pha cho chồng uống thì nay tôi mới phát hiện là pha cùng với sữa tươi cực kỳ ngon luôn đó.",
+    "Lâu ra cà phê đậm đà sánh kẹo thơm ngon thì khỏi phải bàn rồi cho mẹ tôi uống có một lần là bắt đầu thấy ghiền ghiền rồi đó."
+  ],
+  "hook_content": "Gần xanh rồi nên bà ngoại vô canh bé chào đời nè.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ về cuộc sống của một bà bầu được bà ngoại chăm sóc, đồng thời giới thiệu và review cà phê sức khỏe của Nhật Kim Anh. Người mẹ pha cà phê cho chồng và mẹ uống, nhận được những phản hồi tích cực về hương vị và chất lượng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

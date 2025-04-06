@@ -1,0 +1,64 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Liệt kê các món ăn đã mua: gà rán, mỳ ý, bánh xoài đào.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn được giới thiệu."
+    },
+    {
+      "step": "Thưởng thức mỳ ý",
+      "desc": "Bắt đầu ăn mỳ ý và nhận xét về lượng tương ớt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có nhiều cảm xúc."
+    },
+    {
+      "step": "Thưởng thức bánh xoài đào",
+      "desc": "Ăn bánh xoài đào và đánh giá độ giòn của bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với nhận xét về độ giòn."
+    },
+    {
+      "step": "Kết thúc video",
+      "desc": "Cảm ơn người xem và hẹn gặp lại ở video sau.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy video kết thúc nhanh chóng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người xem video của mình, hẹn mọi người video sau."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mình có gà rán, mỳ ý và bánh xoài đào.",
+    "Cái bánh này đến một lúc cũng không bị ỉu mọi người ạ.",
+    "Giòn khá là lâu ấy."
+  ],
+  "hook_content": "Ta da. Mình có gà rán, mỳ ý và bánh xoài đào.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang nhanh gọn giới thiệu và ăn các món gà rán, mỳ ý và bánh xoài đào. Người nói tập trung vào trải nghiệm ăn uống và đưa ra nhận xét ngắn gọn.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

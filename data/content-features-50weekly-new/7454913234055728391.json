@@ -1,0 +1,73 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu khách mời là những người chuyên về hải sản.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Khai thùng hải sản",
+      "desc": "Mở thùng hải sản và giới thiệu các loại hải sản có.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Chế biến món ăn",
+      "desc": "Mô tả quá trình chế biến các món ăn từ hải sản.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Ăn thử và đánh giá hương vị của các món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Quậy sông",
+      "desc": "Ăn uống xong, mọi người cùng nhau quậy đục nước sông.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngọt",
+    "kinh khủng khiếp",
+    "ngọt lịm",
+    "nứt mũi",
+    "ê hề"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "mấy ông này mà sáp lại là coi như lúc nào là hải sản đem xuống cũng quá trời quá đất",
+    "ăn uống coi như là sông nước hữu tình luôn đó",
+    "tôm tích coi như là cái thịt của nó dày cui mà ngọt lịm luôn á"
+  ],
+  "hook_content": "Bữa nay thì có mấy ông anh chuyên về hải sản ghé nhà chơi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh nhóm bạn tụ tập ăn hải sản do người quen mang đến, cùng nhau chế biến và thưởng thức các món ăn ngon bên sông nước.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

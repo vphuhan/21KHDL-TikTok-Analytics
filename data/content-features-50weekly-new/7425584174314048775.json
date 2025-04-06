@@ -1,0 +1,90 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu bản thân và mục đích đến Sài Gòn để review.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán ăn được giới thiệu."
+    },
+    {
+      "step": "Khám phá menu",
+      "desc": "Tỏ ra ngạc nhiên trước menu 300 món và gọi món.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng của menu."
+    },
+    {
+      "step": "Trải nghiệm và phỏng vấn",
+      "desc": "Thưởng thức combo cơm tam bảo và phỏng vấn chủ quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với bí quyết của quán."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Miêu tả chi tiết hương vị và cảm nhận về món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử ngay."
+    },
+    {
+      "step": "Kết luận và kêu gọi",
+      "desc": "Nhấn mạnh sự yêu thích và kêu gọi mọi người đến thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào review và muốn ghé thăm."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "nếu mọi người có cơ hội đến Sài Gòn thì nhất định phải đến cơm gà Hải Nam order combo cơm tam bảo kết hợp cùng với Coca-Cola Zero kèm thêm canh củ sen nữa nha, nhất định nhất định là phải order combo này nha",
+    "đừng quên theo dõi series Pit Hăm Ăn Du Hí cùng Coca-Cola Foodmark nha, đảm bảo sẽ còn rất nhiều những quán ăn hấp dẫn có trong danh sách Coca-Cola Foodmark sẽ được Pit giới thiệu trong những tập tiếp theo"
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Follow kênh",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "mềm",
+    "ngọt",
+    "béo ngậy",
+    "khác biệt",
+    "cay ngọt",
+    "dậy vị",
+    "hợp lý",
+    "thanh nhẹ",
+    "mê"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "thịt heo tươi thơm ba chỉ nạc mỡ xen kẽ mềm ngọt béo ngậy",
+    "gà luộc vàng óng này chấm cùng với nước mắm gừng cay ngọt dậy vị còn nhất cái nách",
+    "uống cùng với Coca-Cola Zero nữa nó lại hợp lý luôn"
+  ],
+  "hook_content": "mọi người hay bảo là mấy bạn làm review sướng lắm, toàn ăn không à, ừ mà cũng đúng, mình ăn hết cả cái Hải Phòng rồi, lên đến Hà Nội bây giờ còn bay hẳn vào Sài Gòn nữa, sướng nhất là hôm nay được trải nghiệm cơm gà Hải Nam ngon tổ Trác này đây",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Pit review quán cơm gà Hải Nam 30 năm tuổi ở Sài Gòn với menu hơn 300 món, đặc biệt là combo cơm tam bảo ăn kèm Coca-Cola Zero và canh củ sen. Pit đánh giá cao hương vị món ăn, sự phục vụ và khuyên mọi người nên thử.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

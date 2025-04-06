@@ -1,0 +1,88 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Chia sẻ về việc chuẩn bị sinh em bé và những lo lắng.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với những lo lắng của người mẹ."
+    },
+    {
+      "step": "Trải nghiệm ăn uống ở viện",
+      "desc": "Đánh giá món mì gà ở viện, khen ngon và hợp khẩu vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn và cảm thấy đói bụng."
+    },
+    {
+      "step": "Lo lắng cuối thai kỳ",
+      "desc": "Miêu tả những lo lắng và căng thẳng khi gần đến ngày sinh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấu hiểu sự căng thẳng của mẹ bầu."
+    },
+    {
+      "step": "Nhận xét về dịch vụ",
+      "desc": "Nhận xét về gói sinh và chất lượng phòng ốc ở bệnh viện.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng về chất lượng dịch vụ tốt."
+    },
+    {
+      "step": "Đánh giá đồ ăn ở viện",
+      "desc": "Xác nhận đồ ăn ở viện ngon, trừ một vài món hơi ngọt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng đồ ăn ở viện."
+    },
+    {
+      "step": "Quyết định sinh chủ động",
+      "desc": "Chia sẻ lý do chọn sinh chủ động và quan điểm cá nhân.",
+      "impact_level": "2",
+      "viewer_emotion": "Tôn trọng quyết định cá nhân của người mẹ."
+    },
+    {
+      "step": "Sự cố và chuyển dạ",
+      "desc": "Kể về sự cố nhầm phòng và quá trình chuyển dạ bất ngờ.",
+      "impact_level": "3",
+      "viewer_emotion": "Hồi hộp và lo lắng cho người mẹ."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Kiến thức",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "thanh dịu",
+    "béo",
+    "ngon miệng",
+    "vui vui",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Miếng gà bảo đảm người ta chiên lên rồi mới nấu nè, khiến cho cái lớp da và thịt nó hơi săn chắc và giòn giòn.",
+    "Vừa hóng được gặp em bé mà còn vừa trong mà được trở về cơ thể của mình nữa.",
+    "Bởi vì cái thứ tốt nhất phải là thứ phù hợp nhất mà."
+  ],
+  "hook_content": "Cuối cùng thì ngày này cũng tới. Đi sanh em bé thôi chứ hóng lắm rồi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện"
+  ],
+  "summarization": "Video kể về trải nghiệm đi sinh em bé của một mẹ bầu, từ những lo lắng, ăn uống ở viện đến sự cố nhầm phòng và cuối cùng là chuyển dạ bất ngờ. Mẹ bầu đánh giá cao chất lượng đồ ăn và dịch vụ ở bệnh viện.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

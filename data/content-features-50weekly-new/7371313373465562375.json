@@ -1,0 +1,94 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu hoàn cảnh",
+      "desc": "Trời mưa, không đi ăn mì cay được nên quyết định ăn mì gói.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đồng cảm vì ai cũng từng trải qua."
+    },
+    {
+      "step": "Chế biến mì",
+      "desc": "Mở gói mì, cho gói gia vị, đổ nước sôi và đợi mì chín.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy đói bụng và thèm ăn mì."
+    },
+    {
+      "step": "Thêm topping",
+      "desc": "Cho thêm chả cá vào mì để tăng thêm hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn và muốn thử."
+    },
+    {
+      "step": "Hướng dẫn ăn mì",
+      "desc": "Mì có thể ăn dạng trộn hoặc dạng nước tùy thích.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích cho người chưa ăn mì này."
+    },
+    {
+      "step": "Đánh giá mì",
+      "desc": "Mì cay và ngon, ăn vào trời mưa rất thỏa mãn.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng và muốn mua ăn ngay."
+    },
+    {
+      "step": "Giới thiệu chương trình khuyến mãi",
+      "desc": "Săn rồng trúng thưởng với nhiều giải thưởng hấp dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hứng thú và muốn thử vận may."
+    },
+    {
+      "step": "Lưu ý khi ăn",
+      "desc": "Mì nguội có thể nhúng vào nước siêu cay để ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Mẹo nhỏ hữu ích."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "thử mì siêu cay ngay nha các đồng chí"
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "lạnh",
+    "siêu cay",
+    "ngon",
+    "đã",
+    "thỏa mãn",
+    "nóng",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái miếng bé tẹo đấy 180k đấy mà có gì đâu.",
+    "mình thì mình thích ăn dạng nước mì dạng nước ấy nó cay rất là đã",
+    "Ăn xong gói mì toát hết cả mồ hôi."
+  ],
+  "hook_content": "Ôi! Lạnh lạnh đang định phi đi ăn mì cay thì trời nó như thế này đây.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video review mì cay ăn liền trong thời tiết mưa, chia sẻ trải nghiệm ăn mì và cách chế biến mì đơn giản, đồng thời giới thiệu chương trình khuyến mãi của nhãn hàng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

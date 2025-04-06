@@ -1,0 +1,94 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món gà rán giòn tan, cách làm đơn giản tại nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về công thức."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Hướng dẫn rửa sạch cánh gà và làm ráo nước.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin cơ bản."
+    },
+    {
+      "step": "Tẩm ướp",
+      "desc": "Hướng dẫn trộn cánh gà với trứng, gia vị và bột chiên giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với cách tẩm ướp đơn giản."
+    },
+    {
+      "step": "Chiên lần 1",
+      "desc": "Hướng dẫn chiên sơ cánh gà ở lửa vừa trong 5-6 phút.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ món gà được chiên vàng."
+    },
+    {
+      "step": "Pha trà",
+      "desc": "Pha trà trái cây Will uống kèm với gà rán.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, giới thiệu sản phẩm."
+    },
+    {
+      "step": "Chiên lần 2",
+      "desc": "Chiên cánh gà lần hai ở lửa lớn trong 2 phút.",
+      "impact_level": "3",
+      "viewer_emotion": "Hào hứng với màu sắc hấp dẫn."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Thưởng thức gà rán với mayonnaise, tương ớt và trà trái cây.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn ăn ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Có gì mấy chị lưu lại cái cách này để bữa nào mình làm ăn thử nhe."
+  ],
+  "cta_type": [
+    "Lưu video",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "giòn",
+    "thơm",
+    "khoái",
+    "dễ chịu",
+    "dễ sợ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "đập trứng gà vô cái cánh gà rồi đem đi chiên lên là mình sẽ làm ra được một cái món gà rán hơi bị ngon luôn nha",
+    "cực kỳ giòn luôn mà cái vỏ bên ngoài ha, rất là mỏng luôn",
+    "cánh gà mà chấm với lại mayonnaise tương ớt là còn cái gì bằng nữa, uống thêm một ngụm trà trái cây Will nữa là ta nói hết bài luôn á"
+  ],
+  "hook_content": "Bữa nay em mới biết á đập trứng gà vô cái cánh gà rồi đem đi chiên lên là mình sẽ làm ra được một cái món gà rán hơi bị ngon luôn nha.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn cách làm gà rán giòn, vỏ mỏng bằng phương pháp đơn giản, dễ thực hiện tại nhà, kết hợp giới thiệu trà trái cây uống kèm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

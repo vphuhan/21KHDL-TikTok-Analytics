@@ -1,0 +1,76 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giải thích lý do mua đồ cho người thân và giới thiệu món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Giới thiệu các nguyên liệu hải sản và cách sơ chế.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ món ăn."
+    },
+    {
+      "step": "Ướp và nướng",
+      "desc": "Thực hiện ướp hải sản với sa tế và chuẩn bị nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Nướng hải sản",
+      "desc": "Cả nhà quây quần nướng hải sản trên sân thượng.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấm cúng, vui vẻ."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Cả nhà cùng ăn và nhận xét về món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "ghê",
+    "chảy nước miếng",
+    "ngọt",
+    "giòn",
+    "đỏ"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nấm đùi gà mini ốp sa tế nướng ăn kiểu này nó ngon hơn bào ngư nữa.",
+    "Hai ông này được cái là hộp ý nhau lắm.",
+    "Trời ơi mọi người nhìn trái muối nó đỏ nè mọi người."
+  ],
+  "hook_content": "Mình có đăng cái video mua quần áo cho ba Tùng hơn xong cái tối lại mình nhận được mấy cái bình luận của mấy chị gửi cho mình tại sao không mua quần áo cho anh Bình một hai cái để thôi anh Bình buồn thì thật ra có hết nha mọi người mua cho anh Bình còn trước ba Tùng hơn nữa",
+  "hook_type": [
+    "Phản hồi bình luận"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh gia đình cùng nhau làm món hải sản nướng sa tế. Mọi người quây quần bên nhau, chia sẻ công thức và thưởng thức món ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

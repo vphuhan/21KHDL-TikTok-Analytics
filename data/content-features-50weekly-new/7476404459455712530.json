@@ -1,0 +1,92 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Thèm gà quay và phát hiện quán quen có ưu đãi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán và món ăn."
+    },
+    {
+      "step": "Miêu tả món ăn",
+      "desc": "Gà nướng giòn rụm, sốt đặc biệt, combo hấp dẫn.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng, muốn ăn ngay."
+    },
+    {
+      "step": "Thông tin khuyến mãi",
+      "desc": "Quán mới khai trương giảm giá, cơ hội có hạn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy có động lực để đến quán."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Da gà giòn, thơm, mỏng; sườn nướng tươi ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm nhận được độ ngon qua lời miêu tả."
+    },
+    {
+      "step": "Giới thiệu thêm món",
+      "desc": "Ngoài gà còn có sườn nướng sốt đặc biệt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị, muốn thử cả hai món."
+    },
+    {
+      "step": "Thông tin địa điểm",
+      "desc": "Chi nhánh mới ở quận 3, dễ tìm.",
+      "impact_level": "1",
+      "viewer_emotion": "Quan tâm đến địa điểm nếu muốn ghé."
+    },
+    {
+      "step": "Chương trình khuyến mãi",
+      "desc": "Mua hàng có cơ hội trúng iPhone.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy vui vẻ, tò mò."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "thèm",
+    "ngon",
+    "giòn",
+    "thơm",
+    "mặn mặn",
+    "ngọt ngọt",
+    "cay cay",
+    "cuốn",
+    "béo béo"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Tranh thủ cắn nhẹ cái lớp da mới nướng xong nóng hổi mà giòn rụm.",
+    "Bình thường đã ngon nay càng thêm ngon.",
+    "Ăn nó cứ mằn mặn, ngọt ngọt, cay cay, cuốn kiểu gì á."
+  ],
+  "hook_content": "Sáng chưa tỉnh ngủ mà lại thèm gà.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán gà quay, sườn nướng mới khai trương, có chương trình giảm giá và cơ hội trúng iPhone. Người nói review hương vị món ăn hấp dẫn, đặc biệt là lớp da gà giòn rụm và sốt đặc trưng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ốc hương cồ và kích thước lớn của nó.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ tươi ngon của ốc."
+    },
+    {
+      "step": "Thao tác ăn ốc",
+      "desc": "Thực hiện các thao tác để lấy phần thịt ốc ra.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi hồi hộp không biết có thành công không."
+    },
+    {
+      "step": "Thưởng thức ốc",
+      "desc": "Cảm nhận vị biển và độ béo của ốc hương.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn ăn thử ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "hấp dẫn",
+    "béo",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cắn con ốc hương mà nghe vị biển cả luôn ý."
+  ],
+  "hook_content": "Lên lên lên lên lên lên lên lên lên lên lên lên.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang món ốc hương cồ, tập trung vào việc ăn và miêu tả cảm nhận về hương vị tươi ngon, béo ngậy của món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

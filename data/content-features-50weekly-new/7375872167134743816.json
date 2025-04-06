@@ -1,0 +1,106 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán và món",
+      "desc": "Giới thiệu quán mì cay Vy Anh và các món nước",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán ăn"
+    },
+    {
+      "step": "Review mì cay",
+      "desc": "Đánh giá mì cay về topping, vị cay và giá cả",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm ăn mì cay"
+    },
+    {
+      "step": "Góp ý về lượng thịt",
+      "desc": "Phàn nàn về lượng thịt trong mì cay",
+      "impact_level": "1",
+      "viewer_emotion": "Không hài lòng"
+    },
+    {
+      "step": "Review trà mãng cầu",
+      "desc": "Đánh giá trà mãng cầu về độ đậm đà và vị mãng cầu",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử trà mãng cầu"
+    },
+    {
+      "step": "Review các loại trà sữa",
+      "desc": "Đánh giá trà sữa thái, trân châu đường đen, socola, truyền thống",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị"
+    },
+    {
+      "step": "Review trà trái cây",
+      "desc": "Đánh giá trà trái cây tứ quý về độ chua và hương vị",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Góp ý về sự phân biệt",
+      "desc": "Phản ánh về sự phân biệt đối xử của chủ quán",
+      "impact_level": "1",
+      "viewer_emotion": "Không đồng tình"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người coi clip của mình và hãy tin những gì mà hôm nay mình review tại mình thấy hôm nay mình cũng rất là dễ thương."
+  ],
+  "cta_type": [
+    "Thích video",
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "chua chua cay cay",
+    "vừa phải",
+    "okay",
+    "vừa phải",
+    "thơm",
+    "vừa phải",
+    "cân bằng",
+    "dễ chịu",
+    "thơm thơm",
+    "dẻo dẻo",
+    "ngọt",
+    "hài hòa",
+    "thích",
+    "tươi",
+    "đậm đà",
+    "dễ thương"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Vị á rất là vừa phải luôn, không có thua mấy cái gọi là nhà hàng mà mình ăn luôn á.",
+    "Thật sự với cái giá 25 cành đừng có đòi hỏi quá nhiều nhưng mà mình cảm thấy nó đã vượt qua giá 25 cành rồi.",
+    "Tại sao á là cộng á thì lại là bội thu mà bèo là thiệt hại chị, ai cũng mua ủng hộ chị hết trơn mà sao rồi chị phân biệt quá vậy"
+  ],
+  "hook_content": "Chị ơi, có hai lát thịt vậy chị ơi. Bán cho tôi tôi cho thêm một miếng đi. Trên mạng mì cay Vi Anh.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review mì cay Vy Anh và các loại đồ uống của quán. Người review đánh giá hương vị, chất lượng và giá cả của các món ăn, đồng thời đưa ra nhận xét về không gian quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

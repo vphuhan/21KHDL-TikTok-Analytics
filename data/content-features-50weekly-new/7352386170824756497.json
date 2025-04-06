@@ -1,0 +1,89 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Gọi món",
+      "desc": "Khách hàng gọi một tô bún bò đầy đủ và yêu cầu thêm hành.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thủ tục thường thấy khi đi ăn."
+    },
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Được giới thiệu quán bún bò ngon nên đến ăn thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán bún bò được giới thiệu."
+    },
+    {
+      "step": "Trải nghiệm",
+      "desc": "Chia sẻ trải nghiệm ăn bún bò tại quán trong hẻm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với trải nghiệm ăn uống này."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Đánh giá về các thành phần và hương vị của bún bò.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đói bụng và thèm ăn."
+    },
+    {
+      "step": "Nhận xét về không gian",
+      "desc": "Quán nằm trong hẻm nhưng có mái che, không sợ mưa nắng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin hữu ích."
+    },
+    {
+      "step": "Tổng kết",
+      "desc": "Nhận xét quán bún bò Huế ngon, bổ, rẻ, không bị nặng mùi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá của người review."
+    },
+    {
+      "step": "Giới thiệu địa điểm",
+      "desc": "Giới thiệu quán bún bò Huế của chú Huy ở quận Tân Bình.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết thêm một địa điểm ăn uống."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giới thiệu toàn thể anh em bà con nhá. Đây là quán bún bò Huế của chú Huy ở quận Tân Bình, rất ngon."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thích thú",
+    "béo ngậy",
+    "thơm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "bún bò Huế ngon bổ rẻ",
+    "ăn rau thì thoải mái hả hê",
+    "không bị nặng cái mùi mắm ruốc quá, nó nhẹ nhàng hơn"
+  ],
+  "hook_content": "nó con chào chú Huy. Chú cho con một tô bún bò đầy đủ cái gì cũng có, đặc biệt là phải có nhiều hành nhá.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán bún bò Huế trong hẻm ở Sài Gòn, tập trung vào trải nghiệm ăn uống và đánh giá hương vị món ăn. Người quay phim giới thiệu quán chú Huy ở quận Tân Bình và chia sẻ cảm nhận về món bún bò tại đây.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

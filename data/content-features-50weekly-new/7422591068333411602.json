@@ -1,0 +1,87 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu nhà hàng mới",
+      "desc": "Á hậu Thủy Tiên khai trương nhà hàng Hàn Quốc thứ ba.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về nhà hàng mới của Á hậu."
+    },
+    {
+      "step": "Đánh giá món gà rán",
+      "desc": "Nhấn mạnh sự khác biệt và tâm đắc với món gà rán.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử món gà rán đặc biệt."
+    },
+    {
+      "step": "Giới thiệu không gian",
+      "desc": "Khu vực bạc và đèn hộp là điểm nhấn không gian.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với không gian và muốn chụp ảnh."
+    },
+    {
+      "step": "Đánh giá các món ăn khác",
+      "desc": "Review gà sốt kem, khay phô mai, bánh xèo hải sản.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn ăn thử."
+    },
+    {
+      "step": "Thẩm định món mới",
+      "desc": "Đánh giá mì lạnh cay, chân giò hầm, đậu hũ hầm cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị món mới."
+    },
+    {
+      "step": "Nhận xét chung",
+      "desc": "Đánh giá hương vị và không gian quán, khuyến khích ghé thăm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng và muốn đến trải nghiệm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "đồ hàng mà còn là fan của Thủy Tiên thì nhất định ghé thử nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "vui",
+    "xịn sò",
+    "thích",
+    "cuốn",
+    "thơm",
+    "mát",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Sợ cuốn vào miếng gà nhức cái nách luôn 100 điểm.",
+    "Bột gà là được custom riêng, chiên cũng theo cái phong cách của mình.",
+    "Trong tháng 10 Tiên sẽ có mặt thường xuyên ở tại chi nhánh quận 3 lận quận 2."
+  ],
+  "hook_content": "mong muốn mọi người tới đây, ví dụ như hai, ba người cầm 400 500 ăn no căng là vui.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review chi nhánh mới của nhà hàng Pacho Pocha do Á hậu Thủy Tiên khai trương, tập trung vào đánh giá các món ăn như gà rán, mì lạnh, chân giò hầm và không gian quán theo phong cách Hàn Quốc.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

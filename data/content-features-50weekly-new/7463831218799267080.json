@@ -1,0 +1,88 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu hoàn cảnh",
+      "desc": "Tốt nghiệp và chuyển chỗ ở, đi chợ mua mắt cá ngừ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Ngâm mắt cá ngừ với nước gạo lên men để khử tanh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với mẹo khử tanh."
+    },
+    {
+      "step": "Chia sẻ thông tin",
+      "desc": "Mắt cá ngừ là đặc sản Phú Yên, cần luộc kỹ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tăng kiến thức về đặc sản vùng miền."
+    },
+    {
+      "step": "Nấu món ăn",
+      "desc": "Nấu canh chua đơn giản với nguyên liệu có sẵn.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường vì quá trình nấu đơn giản."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Mời mọi người ăn cùng và miêu tả hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy đói bụng và thèm ăn."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Miêu tả chi tiết vị dẻo, béo của mỡ mắt cá.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị đặc biệt."
+    },
+    {
+      "step": "Xin ý kiến",
+      "desc": "Hỏi cách chế biến mắt cá ngừ ngon hơn.",
+      "impact_level": "1",
+      "viewer_emotion": "Không có cảm xúc đặc biệt."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người còn có cái cách nào mà làm cho nó bớt tanh hay nữa thì có gì chỉ cho mình biết với ha."
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Chia sẻ công thức"
+  ],
+  "emotion_keywords": [
+    "cay cay",
+    "béo",
+    "dẻo"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ta nói bữa giờ thì mình canh me quá trời luôn, thì bữa nay mới thấy có cái mắt cá ngừ đại dương này lại.",
+    "Cái mỡ của cái bọng mắt cá này khi mà mọi người ăn vào thì nó sẽ có một cái độ dẻo dẻo và béo rất là nhẹ nha. Đã vậy mà còn chấm thêm cái chén nước mắm ớt cay cay nữa thì ta nói còn gì bằng nữa chứ.",
+    "Mọi người nhìn thử cái bọng mắt cá nè, nó to kinh khủng khiếp luôn không?"
+  ],
+  "hook_content": "2 tháng nữa khi mà mình tốt nghiệp xong thì mình sẽ chuyển qua chỗ khác ở rồi.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ về trải nghiệm mua và chế biến món mắt cá ngừ đại dương, từ sơ chế khử tanh bằng nước gạo lên men đến nấu canh chua và thưởng thức, đồng thời xin ý kiến về cách chế biến ngon hơn.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

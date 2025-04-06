@@ -1,0 +1,89 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Nhấn mạnh sự nổi tiếng của bánh croissant và trải nghiệm cá nhân.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Giới thiệu địa điểm",
+      "desc": "Mô tả địa điểm mua bánh và hình thức bán hàng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá tổng quan",
+      "desc": "Miêu tả chi tiết về vỏ bánh, nhân kem và cảm nhận chung.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Review chi tiết các vị",
+      "desc": "Đánh giá hương vị của từng loại bánh đã mua.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Nhận xét của người khác",
+      "desc": "Quan sát và đánh giá bánh qua biểu cảm của em gái.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng"
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Nhấn mạnh về giá cả và chất lượng của bánh.",
+      "impact_level": "1",
+      "viewer_emotion": "Tin tưởng"
+    },
+    {
+      "step": "Thông tin địa chỉ",
+      "desc": "Cung cấp địa chỉ cụ thể của xưởng bánh.",
+      "impact_level": "1",
+      "viewer_emotion": "Tiện lợi"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "ngậy",
+    "ngọt",
+    "thơm",
+    "vừa mồm",
+    "ưng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ở đây anh chị chỉ bán mang về thôi. Ai mua lúc đấy mới xịt kem vào bánh.",
+    "Mọi người nhìn con em gái tôi ăn là hiểu bánh nó ngon, nhiều kem như thế nào rồi đấy.",
+    "Vì là xưởng nên mọi người yên tâm về giá cả cũng như chất lượng của bánh."
+  ],
+  "hook_content": "Cái bánh Croissant này xong mới hiểu tại sao dạo này cực nhiều người mua.",
+  "hook_type": [
+    "Gây tò mò",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review bánh croissant đang hot ở Hà Nội, tập trung vào trải nghiệm cá nhân khi mua và thưởng thức các loại bánh khác nhau tại xưởng bánh Nguyễn Lương Bằng, Đống Đa.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

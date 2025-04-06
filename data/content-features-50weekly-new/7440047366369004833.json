@@ -1,0 +1,83 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mời gọi",
+      "desc": "Mời ra vườn rau và gợi ý làm bún chả.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Phân công",
+      "desc": "Phân công người nấu bún, người trồng rau.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thu hoạch",
+      "desc": "Ra vườn rau thu hoạch rau sống để ăn kèm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Nấu nướng",
+      "desc": "Khoe thành quả làm bún chả, mùi thơm hấp dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Thử món bún chả tự làm và đánh giá hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Nhận xét",
+      "desc": "Nhận xét về việc tăng cân khi ở quê.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Ăn hết bún chả và lên kế hoạch cho bữa tối.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "ngon",
+    "mềm mắp"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "2 tháng, 2 tháng ở quê này chắc khả năng cũng phải lên được 5 7 cân đấy.",
+    "Chiều tối lại kiếm món ngon ngon khác để nấu tiếp.",
+    "Thôi 2 tháng về không biết vợ nó nhận ra công nhở."
+  ],
+  "hook_content": "Ừm, ra đây.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video ghi lại quá trình hai anh em cùng nhau làm món bún chả tại quê nhà, từ việc trồng rau, chuẩn bị nguyên liệu đến thưởng thức món ăn và trò chuyện về cuộc sống ở quê.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

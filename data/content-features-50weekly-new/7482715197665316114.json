@@ -1,0 +1,62 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu đang mukbang trên xe ghép ở miền Nam.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời một chị ăn kẹo dồi, đặc sản miền Bắc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Miêu tả món ăn",
+      "desc": "Miêu tả kẹo dồi giống kẹo kéo ngoài Bắc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Tương tác hài hước",
+      "desc": "Nói đùa với chú tài xế về việc làm rơi đồ ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "Ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mong là chú tài xế không biết mình ăn rơi ra xe.",
+    "Con đùa thôi, con không làm rơi miếng nào đâu. Chú đừng giận con nhé."
+  ],
+  "hook_content": "Phúc băng trên ô tô phần 4. Mình đang đi xe ghép ở trong miền Nam nha mọi người.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang trên xe ghép ở miền Nam, người nói chia sẻ kẹo dồi với người đi cùng và tương tác hài hước với tài xế.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

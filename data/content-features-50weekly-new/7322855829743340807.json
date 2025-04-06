@@ -1,0 +1,81 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món đuông chà là có giá tận 100 cành một con.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về món ăn đắt tiền."
+    },
+    {
+      "step": "Mở hộp và bất ngờ",
+      "desc": "Mở hộp và phát hiện ra đuông đã tiêu biến thành dòi.",
+      "impact_level": "3",
+      "viewer_emotion": "Ghê sợ và thất vọng."
+    },
+    {
+      "step": "Giải thích nguyên nhân",
+      "desc": "Giải thích nguyên nhân đuông bị tiêu biến và lời khuyên.",
+      "impact_level": "2",
+      "viewer_emotion": "Thông tin hữu ích, cảnh giác hơn."
+    },
+    {
+      "step": "Chia sẻ trải nghiệm",
+      "desc": "Chia sẻ trải nghiệm cá nhân và cảm xúc thất vọng.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với sự thất vọng."
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Lời khuyên nên ăn đuông ngay sau khi mua.",
+      "impact_level": "2",
+      "viewer_emotion": "Lời khuyên hữu ích."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Drama",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mốt là nhớ mua mấy con là về phải ăn liền nha."
+  ],
+  "cta_type": [
+    "Lưu video",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "bất ngờ",
+    "tiêu biến",
+    "thất vọng",
+    "ghê"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Review con đuông chà là tận 100 cành một con và cái kết bất ngờ.",
+    "Bốn năm ngày sau về mở ra, nó tiêu biến mất tiêu luôn á mọi người ơi mà trong đây nó toàn là mấy con giòi không mà.",
+    "mốt là nhớ mua mấy con là về phải ăn liền nha."
+  ],
+  "hook_content": "Review con đuông chà là tận 100 cành một con và cái kết bất ngờ.",
+  "hook_type": [
+    "Gây tò mò",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện"
+  ],
+  "summarization": "Video review món đuông chà là đắt tiền nhưng người mua đã gặp phải tình huống dở khóc dở cười khi đuông bị tiêu biến thành dòi do không ăn ngay sau khi mua. Video đưa ra lời khuyên nên ăn đuông ngay sau khi mua để tránh tình trạng tương tự.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Ngạc nhiên",
+    "Khó chịu"
+  ]
+}

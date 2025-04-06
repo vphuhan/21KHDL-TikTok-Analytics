@@ -1,0 +1,93 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Dì sẽ đổ bánh xèo đãi cả nhà, món ăn yêu thích.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy một món ăn quen thuộc của vùng quê."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Cả nhà đi chợ sớm mua nguyên liệu làm bánh xèo.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm nhận được sự háo hức của gia đình."
+    },
+    {
+      "step": "Trải nghiệm đi chợ",
+      "desc": "Chia sẻ trải nghiệm đi chợ ở Việt Nam và so sánh.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy được sự khác biệt văn hóa chợ."
+    },
+    {
+      "step": "Tham gia làm bếp",
+      "desc": "Phụ giúp dì nhặt rau, rửa rau chuẩn bị đổ bánh.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm nhận không khí gia đình ấm cúng."
+    },
+    {
+      "step": "Giới thiệu món ăn vặt",
+      "desc": "Giới thiệu món tàu hũ, bánh lọt ăn từ nhỏ.",
+      "impact_level": "2",
+      "viewer_emotion": "Nhớ lại những món ăn vặt tuổi thơ."
+    },
+    {
+      "step": "Đổ bánh xèo",
+      "desc": "Dì đổ bánh xèo bằng bếp củi, bánh to và ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy bánh xèo hấp dẫn và thèm ăn."
+    },
+    {
+      "step": "Thưởng thức bánh xèo",
+      "desc": "Mời mọi người ăn bánh xèo cùng gia đình.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy vui vẻ khi xem gia đình quây quần."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Truyền thống"
+  ],
+  "cta_content": [
+    "giờ thì mời mọi người ăn bánh xèo chung với cả nhà của mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "yêu thích",
+    "khoái",
+    "thích",
+    "ngon",
+    "ngon quá trời"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn từ cái hồi chưa có đứa nào mà bây giờ mình hai đứa luôn rồi.",
+    "Đúng là ở đâu không bằng nhà mình thiệt mà, muốn cái gì là có cái đó.",
+    "Nhìn cái bánh xèo này chưa ăn thôi đã thấy chất lượng"
+  ],
+  "hook_content": "Hôm nay dì mình sẽ trổ tài đổ bánh xèo miền Tây đãi bàn tụi hơn một bữa.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video ghi lại cảnh gia đình về quê và cùng nhau làm bánh xèo nhân củ sắn. Tác giả chia sẻ trải nghiệm đi chợ, phụ giúp làm bếp và thưởng thức món bánh xèo đặc trưng miền Tây do dì làm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

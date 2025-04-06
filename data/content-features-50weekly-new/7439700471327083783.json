@@ -1,0 +1,91 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu cua lạ",
+      "desc": "Lần đầu thấy loại cua vỏ mỏng ăn được cả vỏ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về loại cua mới lạ."
+    },
+    {
+      "step": "Chuẩn bị và thắc mắc",
+      "desc": "Không biết làm món gì ngon, đem hấp và lo lắng.",
+      "impact_level": "1",
+      "viewer_emotion": "Hơi lo lắng, hồi hộp."
+    },
+    {
+      "step": "Khui thùng hàng",
+      "desc": "Giới thiệu dịch vụ vận chuyển từ Việt Nam.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không cảm xúc."
+    },
+    {
+      "step": "Đánh giá sau hấp",
+      "desc": "Cua có thịt và gạch, chuẩn bị muối tiêu sữa.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn hơn."
+    },
+    {
+      "step": "Trải nghiệm ăn cua",
+      "desc": "Ăn thử cua ít gạch, vỏ mềm ăn được.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú, tò mò về hương vị."
+    },
+    {
+      "step": "Ăn cua gạch trứng muối",
+      "desc": "Gạch béo ngậy như sầu riêng, tràn ngập.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, phấn khích."
+    },
+    {
+      "step": "Kết luận và hỏi ý kiến",
+      "desc": "Hấp chấm muối tiêu đã ngon, hỏi món khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử thêm nhiều cách chế biến."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "có gì chỉ cho mình biết với ha."
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Chia sẻ công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "béo",
+    "thơm",
+    "kinh khủng khiếp"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ăn vô mà cái gạch của nó nhiều tới nỗi mà nó tràn ra liên tục",
+    "gạch trứng muối mà ngập tràn luôn",
+    "nó béo kinh khủng khiếp. Nó thơm nó béo tới nỗi mà mình cảm nhận giống như là đang ăn một cái múi sầu riêng vậy đó"
+  ],
+  "hook_content": "Lần đầu tiên mình mới thấy cái loại cua này luôn đó mọi người.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video review một loại cua lạ có vỏ mềm ăn được, đặc biệt ấn tượng với gạch trứng muối béo ngậy. Chủ kênh chia sẻ trải nghiệm ăn và hỏi ý kiến về các món ngon khác từ loại cua này.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

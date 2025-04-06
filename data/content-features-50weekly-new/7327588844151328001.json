@@ -1,0 +1,94 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món cháo sò lông và gợi ý nấu món này cho dịp Tết.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món cháo sò lông."
+    },
+    {
+      "step": "Giá cả và mẹo sơ chế",
+      "desc": "Giá sò lông và mẹo ngâm sò không bị teo bằng sả gừng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích với mẹo sơ chế."
+    },
+    {
+      "step": "Sơ chế sò",
+      "desc": "Hướng dẫn chi tiết cách làm sạch sò lông.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy dễ thực hiện."
+    },
+    {
+      "step": "Nấu cháo",
+      "desc": "Hướng dẫn rang gạo để cháo thơm ngon hơn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với bí quyết rang gạo."
+    },
+    {
+      "step": "Xào sò",
+      "desc": "Xào sò lông với hành tím, ớt bột và gia vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng."
+    },
+    {
+      "step": "Hoàn thành cháo",
+      "desc": "Cho cà rốt, nấm rơm, sò lông vào cháo đã chín.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức muốn thử."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Miêu tả hương vị món cháo và gợi ý ăn kèm.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy ấm lòng và muốn nấu ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Nên nếu Tết này chưa biết làm món gì thì mấy bà nấu thử cái này nghe.",
+    "Dở bắt đền tui nè."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "thèm",
+    "cực kỳ",
+    "ấm",
+    "mập ú nu"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Con này là con sò lông, mà ở ngoài quán ốc người ta hay làm cái món sò lông nướng mỡ hành đó. Nhưng mà bữa nay đừng có làm sò lông nữa, nấu cháo ngon hơn.",
+    "Tôi thấy ở trên mạng bày á là muốn lấy sò không có bị teo á thì nấu một cái nồi nước sả gừng rồi ngâm sò trong vòng 10 phút, thì sò mở miệng mà con sò nó không có bị teo mấy bà. Mà cái mùi nước sả gừng ngâm con sò á làm thịt con sò nó còn thơm hơn nữa.",
+    "Kiểu cuối năm nè trời nó cứ lạnh lạnh mà mình húp chén cháo thì còn cái gì bằng nữa."
+  ],
+  "hook_content": "Đố mấy bà con này là con gì? Ai mà đoán đúng là bữa nay tôi thưởng cho tôi cháu nè.",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách nấu cháo sò lông thơm ngon, bổ dưỡng, phù hợp cho ngày Tết. Người nấu chia sẻ bí quyết chọn sò tươi, sơ chế không bị teo và cách nấu cháo thơm ngon.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

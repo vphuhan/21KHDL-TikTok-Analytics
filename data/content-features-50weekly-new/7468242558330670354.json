@@ -1,0 +1,79 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Tự hỏi có nên ăn hột vịt lộn đầu năm và quyết định ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Chuẩn bị",
+      "desc": "Mua 49 trứng, pha nước sốt Thái từ nước tương, đường, bột ngọt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Thực hiện",
+      "desc": "Luộc trứng, ngâm nguội, tách vỏ, chiên sơ cho khỏi nát.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Trình bày",
+      "desc": "Đổ sốt lên trứng, thêm nước luộc, khoe vườn có rau.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Ăn thử và mời mọi người cùng ăn món hột vịt lộn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mời cả nhà ăn cùng với Tuấn nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "thèm",
+    "cay cay",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ta xả xui ăn có ba trứng hoặc năm trứng mà tôi tới 49 trứng lận.",
+    "Ăn Tết xong có ai dám leo lên cây cân chưa, chứ tôi là thua rồi đó, không dám nhìn mặt cây cân luôn.",
+    "Nó vừa thơm vừa cay cay ăn rất ngon luôn."
+  ],
+  "hook_content": "Đầu năm mình ăn hột vịt lộn có nên không ta? Nên hay không thì chưa biết nhưng mà thèm qua là phải ăn thôi.",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ về món hột vịt lộn sốt Thái xả xui đầu năm. Anh chàng review lại quá trình làm món ăn này và mời mọi người cùng thưởng thức.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

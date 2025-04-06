@@ -1,0 +1,114 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Liệt kê 5 món ăn 'hot' trên TikTok mà người này review.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Viên sữa ong chúa",
+      "desc": "Đánh giá chi tiết về mùi vị và cảm quan sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Bánh gạo và sữa đặc",
+      "desc": "Đánh giá trải nghiệm và so sánh với bánh mì.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Bánh tráng dăm dăm",
+      "desc": "Đánh giá chi tiết các vị và trải nghiệm sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Bim bim 'pha ke'",
+      "desc": "Đánh giá sản phẩm và sự sáng tạo của người bán.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên"
+    },
+    {
+      "step": "Sô cô la Dubai",
+      "desc": "Đánh giá kết cấu và hương vị, cảnh báo hàng 'pha ke'.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảnh giác"
+    },
+    {
+      "step": "Tổng kết",
+      "desc": "Nhấn mạnh về việc chọn hàng chính hãng để đảm bảo chất lượng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Hãy comment cho tôi biết cũng như là like và follow để xem tôi tiếp tục review tiền cho bạn nhé."
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Thích video",
+    "Follow kênh",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "khắm",
+    "bột bột",
+    "sạn sạn",
+    "bụi bụi",
+    "ngọt",
+    "nghệ",
+    "mạnh",
+    "lấn át",
+    "giận dữ",
+    "bần cùng",
+    "nhạt thếch",
+    "khó nuốt",
+    "phí tiền",
+    "chu đáo",
+    "mặn",
+    "cay",
+    "nhạt nhẽo",
+    "vụn",
+    "dầu",
+    "toan",
+    "bình thường",
+    "giòn giòn",
+    "scam",
+    "may rủi",
+    "sợ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Không biết là người Hàn xem có thấy giận dữ như kiểu người Ý xem pizza dứa không?",
+    "Thực sự thứ duy nhất người ta làm chỉ là bóc vỏ và cho vào một cái vỏ khác. Thế mà cũng kinh doanh được thì tôi thấy tài thật đấy.",
+    "Cái sô cô la này chính xác là sô cô la đồng tiền, mẹ bị scam ạ."
+  ],
+  "hook_content": "Review năm món ăn xuất hiện đầu tiên trên TikTok.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video review 5 món ăn nổi trên TikTok, từ viên sữa ong chúa đến sô cô la Dubai, với những đánh giá chi tiết về hương vị, trải nghiệm và lời khuyên nên chọn hàng chính hãng.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

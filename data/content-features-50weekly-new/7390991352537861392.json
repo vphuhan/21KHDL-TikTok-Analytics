@@ -1,0 +1,96 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người ăn chay, ăn healthy",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bản thân và vấn đề",
+      "desc": "Chia sẻ về việc không thích ăn rau thơm nhưng vẫn đi ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị khi có sự mâu thuẫn trong sở thích."
+    },
+    {
+      "step": "Giới thiệu địa điểm",
+      "desc": "Giới thiệu quán buffet Mê Rau ở quận 7, hơi xa nhà.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin địa điểm."
+    },
+    {
+      "step": "Trình bày trải nghiệm",
+      "desc": "Miêu tả các loại rau tươi ngon, đặc biệt là cải keo.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn, muốn thử các loại rau."
+    },
+    {
+      "step": "Đánh giá các món ăn",
+      "desc": "Review lẩu chao, tàu hũ ky, chả giò chay và bánh xếp.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị các món chay."
+    },
+    {
+      "step": "Nhấn mạnh món yêu thích",
+      "desc": "Tập trung vào lẩu chao và cảm giác ngon miệng khi ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng món lẩu chao."
+    },
+    {
+      "step": "Đánh giá thêm về buffet",
+      "desc": "Nhận xét về nước lẩu tom yum và các món tráng miệng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy đa dạng món ăn."
+    },
+    {
+      "step": "Thông tin về địa điểm",
+      "desc": "Giới thiệu chi nhánh quận 7 rộng rãi và chi nhánh quận 1.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin hữu ích."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "mê",
+    "xứng đáng",
+    "hoa cả mắt",
+    "thèm",
+    "ngon",
+    "cuốn",
+    "sướng",
+    "thơm não nùng",
+    "đậm đà",
+    "vui"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đáng nhất là có cải ngũ sắc với lại cải keo nữa mắc tiền lắm mà giá vé buffet có 99 xiên thôi.",
+    "Cái mùi chao mà nó thơm não nùng luôn.",
+    "Đến một cái đứa nhìn rau là né như mình vô đây cũng ăn mệt mỏi luôn."
+  ],
+  "hook_content": "ở đây có ai không thích ăn rau không? Nhất là rau có mùi thơm á là mình ngại lắm luôn.",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Tạo sự đồng cảm"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review buffet Mê Rau, tập trung vào trải nghiệm ăn lẩu chay với nhiều loại rau tươi ngon và các món ăn kèm hấp dẫn. Đặc biệt, người nói rất thích lẩu chao và chia sẻ cảm xúc chân thật về hương vị.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

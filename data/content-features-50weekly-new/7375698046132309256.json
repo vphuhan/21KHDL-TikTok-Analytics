@@ -1,0 +1,86 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món gà nướng và xôi bắp sẽ thực hiện hôm nay",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Ướp gà",
+      "desc": "Trộn các loại gia vị có sẵn để ướp gà, massage đều",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Chuẩn bị xôi bắp",
+      "desc": "Trộn bắp với nếp và gia vị, thêm lá dứa để hấp",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Nướng gà",
+      "desc": "Trong lúc chờ xôi chín thì tranh thủ nướng gà",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thành phẩm",
+      "desc": "Gà nướng vàng ươm và xôi bắp thơm ngon",
+      "impact_level": "3",
+      "viewer_emotion": "Hào hứng"
+    },
+    {
+      "step": "Cả nhà ăn tối",
+      "desc": "Mời mọi người cùng ăn tối với gà nướng và xôi bắp",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp"
+    },
+    {
+      "step": "Nếm thử",
+      "desc": "Nếm thử gà nướng và xôi bắp, cảm nhận hương vị",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "hấp dẫn",
+    "ưng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Không uổng công 2 tiếng mình đợi cái con gà này lên cái màu quá chừng là ưng luôn, chín một mười với mấy cái ông bán gà quay luôn chứ bùa giỡn à.",
+    "Cái này mà mình rưới ớt bột lên nữa là y chang như gà nướng muối ớt ngoài tiệm luôn á.",
+    "Nay tuy là không có cơm lam nhưng mà có cái xôi bắp này là cũng ngon rồi."
+  ],
+  "hook_content": "Bữa nay mọi người thấy kênh mình có gì mới không? Mình mới thay cái avatar mới á, nói cho mọi người nghe chứ để thôi mọi người nhìn lại lạ, tưởng đâu kênh fake kìa, chết tui luôn.",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm món gà nướng và xôi bắp tại nhà, chia sẻ cách ướp gà với các gia vị có sẵn và trộn xôi bắp thơm ngon. Thành phẩm là món ăn hấp dẫn để cả gia đình cùng thưởng thức.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

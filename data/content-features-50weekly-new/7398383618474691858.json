@@ -1,0 +1,72 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ăn kèm cà pháo mắm tôm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Nếm thử cà pháo",
+      "desc": "Ăn và cảm nhận hương vị cà pháo ngậm.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Nhận xét về combo cà pháo mắm tôm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Thưởng thức cùng thịt",
+      "desc": "Ăn thịt chấm mắm tôm cùng cà pháo.",
+      "impact_level": "3",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Đánh giá độ giòn",
+      "desc": "Nhấn mạnh độ giòn của cà pháo.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "vừa ăn",
+    "ngon ghê"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đặt được hũ cà pháo ngậm siêu ngon.",
+    "Combo nhức nách.",
+    "Cà tôi mua ba ngày rồi mà. Cỡ tủ lạnh mà vẫn còn giòn. Ngon ghê á."
+  ],
+  "hook_content": "ăn cơm cà pháo mắm tôm nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video mukbang món cơm cà pháo mắm tôm, tập trung vào trải nghiệm ăn và đánh giá độ ngon, giòn của cà pháo.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

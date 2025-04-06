@@ -1,0 +1,80 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu và thử bánh Fromee",
+      "desc": "Giới thiệu bánh Tiramisu Fromee và ăn thử, đánh giá hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của bánh."
+    },
+    {
+      "step": "Thử bánh Renesip",
+      "desc": "Mở hộp và ăn thử bánh Tiramisu Renesip, tập trung vào mùi rượu.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với mùi rượu đặc trưng."
+    },
+    {
+      "step": "Thử bánh The 350F",
+      "desc": "Thử bánh Tiramisu The 350F, so sánh độ ngọt và độ ẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hơi thất vọng về độ ẩm."
+    },
+    {
+      "step": "So sánh và xếp hạng",
+      "desc": "So sánh tổng quan ba loại bánh và đưa ra xếp hạng cuối cùng.",
+      "impact_level": "3",
+      "viewer_emotion": "Đồng ý với lựa chọn của người review."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Nói chung là cám ơn tất cả mọi người đã coi clip của mình.",
+    "Rồi bye bye mọi người rất là nhiều nha."
+  ],
+  "cta_type": [
+    "Follow kênh",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngọt",
+    "thơm",
+    "béo",
+    "dễ thương",
+    "ấn tượng",
+    "quằn quại",
+    "mê",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cắn vô là mình nổi da gà luôn á.",
+    "Đây là một cái bánh Tiramisu mà ăn vô một cái là mình ấn tượng liền. Mẹ ơi ngon quá.",
+    "Ăn vô là biết là Tiramisu mê."
+  ],
+  "hook_content": "Ăn vô là biết là Tiramisu.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review ba loại bánh Tiramisu hộp thiết từ các thương hiệu khác nhau, so sánh hương vị, độ ngọt, độ béo và đưa ra đánh giá xếp hạng cuối cùng. Renesip được đánh giá cao nhất vì hương vị rượu đặc trưng và bánh mềm mịn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

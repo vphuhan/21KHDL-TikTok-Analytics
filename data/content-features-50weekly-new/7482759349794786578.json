@@ -1,0 +1,81 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu các món ăn đặc sản vùng cao như rau rừng, cá khô.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò, thích thú với món ăn vùng cao"
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Trực tiếp ăn và cảm nhận hương vị của món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn được ăn thử"
+    },
+    {
+      "step": "Miêu tả hương vị",
+      "desc": "Miêu tả chi tiết hương vị của rau rừng và cá khô.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung được hương vị đặc trưng"
+    },
+    {
+      "step": "Chia sẻ cảm xúc",
+      "desc": "Chia sẻ cảm xúc về món ăn và kỷ niệm tuổi thơ.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm, nhớ về tuổi thơ"
+    },
+    {
+      "step": "Mời ăn cùng",
+      "desc": "Mời mọi người cùng thưởng thức món ăn vùng cao.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thân thiện, gần gũi"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Truyền thống"
+  ],
+  "cta_content": [
+    "Mà khoan mọi người đi ngang qua đây em mời làm miếng cơm nắm cá khô rau rừng nhé"
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "chua thanh",
+    "giòn",
+    "cay",
+    "thơm",
+    "đói",
+    "ngon",
+    "cuốn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn chua thanh , giòn món này là cả bầu trời tuổi thơ của em luôn đó ạ.",
+    "Cá nó quyện vào rau này mới ngon.",
+    "Nói chấp về ăn cay thì em là số hai thì không ai là số một luôn."
+  ],
+  "hook_content": "Miếng rau nào.Chua thanh thôi nó không có chua quá.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh một người đi rừng tìm rau và ăn cơm nắm với cá khô nướng và rau rừng. Người này vừa ăn vừa giới thiệu, miêu tả hương vị và mời mọi người cùng ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

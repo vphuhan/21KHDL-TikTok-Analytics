@@ -1,0 +1,96 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu buffet chen và các món mới như sầu riêng nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy tò mò về các món mới."
+    },
+    {
+      "step": "Liệt kê món",
+      "desc": "Liệt kê các món buffet chen 2023 vẫn đang bán.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy nhiều món hấp dẫn."
+    },
+    {
+      "step": "Đánh giá món",
+      "desc": "Đánh giá sầu riêng phô mai, bánh đồng xu, lê hầm.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử sầu riêng phô mai."
+    },
+    {
+      "step": "Nhấn mạnh ưu điểm",
+      "desc": "Quán luôn cập nhật món mới, đồ ăn chất lượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy quán đáng để ghé thăm."
+    },
+    {
+      "step": "So sánh cơ sở",
+      "desc": "Cơ sở 1 và 2 có đồ ăn giống nhau, không gian rộng.",
+      "impact_level": "1",
+      "viewer_emotion": "Yên tâm khi đi nhóm đông."
+    },
+    {
+      "step": "Thông tin thêm",
+      "desc": "Quán mở xuyên lễ, gửi xe miễn phí.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy tiện lợi."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Giới thiệu địa chỉ quán và khuyến khích tham khảo.",
+      "impact_level": "1",
+      "viewer_emotion": "Sẵn sàng tìm hiểu thêm."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mọi người tham khảo thử xem sao"
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "béo",
+    "ngon",
+    "cay phồng môi",
+    "vẫn muốn ăn",
+    "siêu nhiều hoa quả",
+    "không bị ngọt sắc"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Sầu riêng phô mai.",
+    "Đóng đầy sầu, nó béo, cộng với phô mai kéo sợi nữa ok.",
+    "Đúng là quán này triệu chi số hai thì không ai là số một luôn."
+  ],
+  "hook_content": "Cô ơi sắp sang 2025 rồi nhà mình còn bán buffet chen không ạ?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại",
+    "Liệt kê"
+  ],
+  "summarization": "Video review quán ăn vặt Jenhan với món mới sầu riêng nướng phô mai và các món buffet chen khác. Người nói đánh giá cao sự đa dạng, chất lượng món ăn và không gian rộng rãi của quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

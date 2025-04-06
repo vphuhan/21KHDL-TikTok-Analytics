@@ -1,0 +1,96 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món sò huyết sốt thái mù tạt và nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Giới thiệu địa điểm mua",
+      "desc": "Giới thiệu địa điểm mua sò huyết uy tín, chất lượng.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích."
+    },
+    {
+      "step": "Sơ chế sò huyết",
+      "desc": "Hướng dẫn cách luộc sơ sò huyết vừa chín tới.",
+      "impact_level": "2",
+      "viewer_emotion": "Ghi nhớ thông tin."
+    },
+    {
+      "step": "Pha chế sốt",
+      "desc": "Hướng dẫn pha chế sốt thái mù tạt đậm đà.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú làm theo."
+    },
+    {
+      "step": "Trình bày và thưởng thức",
+      "desc": "Trình bày món ăn hấp dẫn và thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Nhấn mạnh hương vị",
+      "desc": "Miêu tả hương vị món ăn ngon, đậm đà, bùng nổ.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng hương vị."
+    },
+    {
+      "step": "Kêu gọi mua hàng",
+      "desc": "Kêu gọi mua hải sản chất lượng ở địa điểm đã giới thiệu.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhớ địa điểm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Còn ai muốn kiếm hải sản chất lượng thì qua bên chị Thái nhà biển nha.",
+    "Giờ thì mời mọi người ăn chung với tui."
+  ],
+  "cta_type": [
+    "Ăn cùng",
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "mê",
+    "ngon",
+    "ngọt",
+    "đậm đà",
+    "nồng",
+    "đã",
+    "hấp dẫn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ăn một con là đã tới nóc",
+    "sò huyết thì ú nu siêu ngon ngọt, kết hợp với sốt thái mù tạt đậm đà nồng lên tới óc, thiệt tình nó đã dữ thần ôm luôn",
+    "vừa rưới cái sốt lên nhìn dĩa sò huyết của mình hấp dẫn chanh xả liền, tui là tui cầm lòng không có đặng rồi đó"
+  ],
+  "hook_content": "Mở con sò huyết ra mà ú nu chất lượng như vậy mọi người có thấy mê không? Bữa nay cùng tôi làm sò huyết cồ sốt thái mù tạt, ăn một con là đã tới nóc nhen.",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm món sò huyết cồ sốt thái mù tạt, từ khâu chọn nguyên liệu tươi ngon đến cách pha chế sốt đậm đà, hấp dẫn. Người xem được mời cùng thưởng thức món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

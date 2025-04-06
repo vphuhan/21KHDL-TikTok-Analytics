@@ -1,0 +1,103 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu combo",
+      "desc": "Giới thiệu combo mới của Texas Chicken với nhiều món hấp dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món trong combo."
+    },
+    {
+      "step": "Miêu tả món gà",
+      "desc": "Miêu tả chi tiết về miếng gà rán to, giòn, mềm ẩm.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn ăn ngay."
+    },
+    {
+      "step": "Review bánh cuộn",
+      "desc": "Đánh giá bánh cuộn gà không xương với nhân đầy đặn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự kết hợp của rau và sốt."
+    },
+    {
+      "step": "Giới thiệu món kèm",
+      "desc": "Giới thiệu khoai tây nghiền và nước ngọt đi kèm combo.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy combo rất đầy đặn."
+    },
+    {
+      "step": "Ưu đãi thêm",
+      "desc": "Giới thiệu ưu đãi khi mua thêm bánh quy bơ mật ong.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến ưu đãi hấp dẫn."
+    },
+    {
+      "step": "Tính hợp lý",
+      "desc": "Nhấn mạnh tính hợp lý khi đi hai người ăn combo này.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy phù hợp cho nhóm nhỏ."
+    },
+    {
+      "step": "Thông tin địa điểm",
+      "desc": "Thông báo địa điểm ăn tại Texas Chicken Aeon Xuân Thủy.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết thêm địa điểm ăn uống."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mọi người tranh thủ đi ăn ngay thôi."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "hời",
+    "siêu to",
+    "giòn tan",
+    "thơm phức",
+    "mềm mọng",
+    "đã",
+    "siêu ngon",
+    "mê",
+    "cuốn",
+    "ưu đãi",
+    "hợp lý",
+    "no",
+    "đã miệng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "miếng gà ở đây siêu to luôn ấy mọi người. bằng hai miếng gà ở những cái brand khác ấy.",
+    "cắn một miếng thôi mà ta nói nó đã.",
+    "Trông cái bánh nhỏ nhỏ xinh xinh mà ú ụ nhân."
+  ],
+  "hook_content": "mọi người ơi phải tranh thủ ngay thôi.",
+  "hook_type": [
+    "Khuyến mãi",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu combo mới của Texas Chicken gồm nhiều món hấp dẫn với giá ưu đãi, nhấn mạnh vào độ lớn của miếng gà, hương vị ngon của bánh cuộn và tính hợp lý khi đi ăn cùng bạn bè. Địa điểm ăn tại Texas Chicken Aeon Xuân Thủy.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

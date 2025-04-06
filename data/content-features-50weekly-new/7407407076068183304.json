@@ -1,0 +1,82 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu dép chống trơn trượt được bán trên livestream.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm."
+    },
+    {
+      "step": "Đánh giá sản phẩm",
+      "desc": "Đánh giá độ nhẹ, êm chân của dép.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy sản phẩm có vẻ thoải mái."
+    },
+    {
+      "step": "Thử nghiệm sản phẩm",
+      "desc": "Thử nghiệm khả năng chống trơn trượt với nước xà phòng.",
+      "impact_level": "3",
+      "viewer_emotion": "Hồi hộp chờ đợi kết quả."
+    },
+    {
+      "step": "Kết quả thử nghiệm",
+      "desc": "Xác nhận khả năng chống trơn trượt của dép.",
+      "impact_level": "3",
+      "viewer_emotion": "Tin tưởng vào công dụng của sản phẩm."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Đánh giá lại độ êm chân, màu sắc và tính thẩm mỹ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy sản phẩm có vẻ đẹp và hữu ích."
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Khuyên dùng dép trong mùa mưa.",
+      "impact_level": "2",
+      "viewer_emotion": "Gợi ý hữu ích cho mùa mưa."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "rẻ",
+    "nhẹ chân",
+    "bám chắc",
+    "êm chân",
+    "đẹp"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Tôi nhúng, nhảy, nhúng, nhảy liên tục luôn, nhưng mà độ bám rất là chắc luôn nha mọi người.",
+    "Mà dép thì cực kỳ êm chân mà giá chỉ có 69.000 thôi.",
+    "Mùa mưa này là phải mang mấy đôi dép này cho tôi."
+  ],
+  "hook_content": "Đây là tôi coi livestream của chị Hằng Du Mục quá 180 phút.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn",
+    "So sánh"
+  ],
+  "summarization": "Video review dép chống trơn trượt được bán trên livestream của Hằng Du Mục, với giá rẻ, êm chân và khả năng bám dính tốt, đặc biệt phù hợp cho mùa mưa.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

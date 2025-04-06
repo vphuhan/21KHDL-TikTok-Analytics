@@ -1,0 +1,89 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bún đậu chả cốm tự làm tại nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê và sơ chế các nguyên liệu làm chả cốm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, cần thiết để theo dõi công thức."
+    },
+    {
+      "step": "Làm chả cốm",
+      "desc": "Hướng dẫn chi tiết các bước làm chả cốm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị, muốn thử làm theo."
+    },
+    {
+      "step": "Chuẩn bị các thành phần khác",
+      "desc": "Luộc thịt và trụng bún để ăn kèm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, các bước cơ bản."
+    },
+    {
+      "step": "Pha nước chấm",
+      "desc": "Pha nước mắm chua ngọt để chấm bún đậu.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn, muốn nếm thử."
+    },
+    {
+      "step": "Trình bày món ăn",
+      "desc": "Sắp xếp bún đậu và chả cốm ra đĩa.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với cách trình bày."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Mời mọi người cùng ăn và cảm nhận món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn được ăn cùng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Truyền thống",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mời mọi người ăn chung với cả nhà mình nha"
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "tức quá hane",
+    "xuất sắc"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ăn bún đậu với nước mắm thôi cũng xuất sắc rồi nha",
+    "mình thấy bún đậu ăn với nước mắm, mắm tôm hoặc là nước tương miễn sao hợp khẩu vị là ngon mà mọi người. Sao cũng được, mình thấy ngon là được hen",
+    "chả mình làm á hay là bình thường ít ăn lắm nhưng mà chả cốm thì lại ăn nhiều nha mọi người"
+  ],
+  "hook_content": "Người người ăn bún đậu, thèm đi nước mắm hay là mắm tôm.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm món bún đậu chả cốm tại nhà, chia sẻ công thức và cách thưởng thức món ăn cùng gia đình. Người làm video nhấn mạnh sự ngon miệng khi ăn bún đậu với nước mắm và niềm yêu thích đặc biệt với chả cốm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

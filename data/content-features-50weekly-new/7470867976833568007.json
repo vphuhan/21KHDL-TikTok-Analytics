@@ -1,0 +1,80 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu súp cua được người khác giới thiệu trên TikTok.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị."
+    },
+    {
+      "step": "Giá cả và topping",
+      "desc": "Thông tin về giá cả các size và các loại topping.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin chi tiết."
+    },
+    {
+      "step": "Nhận xét chung",
+      "desc": "Đánh giá về sự kết hợp topping, độ cay và thời điểm ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Thử thách ăn",
+      "desc": "Tự hỏi về việc bỏ ra 40k cho một tô súp cua.",
+      "impact_level": "1",
+      "viewer_emotion": "Tự hỏi về giá trị."
+    },
+    {
+      "step": "Cảm nhận",
+      "desc": "Cảm nhận về độ cay và topping trứng bách thảo.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về trải nghiệm."
+    },
+    {
+      "step": "Địa điểm",
+      "desc": "Hướng dẫn địa điểm quán súp cua.",
+      "impact_level": "1",
+      "viewer_emotion": "Tiện lợi cho người muốn đến."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "cay",
+    "đậm đà",
+    "thích hợp"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Trong súp cua mà có tóc luôn nè, tóc tiên.",
+    "Mọi người có sẵn sàng bỏ ra 40.000 ăn một tô súp cua?",
+    "Sa tế này cay lắm mọi người ơi."
+  ],
+  "hook_content": "Em thấy là trên TikTok người ta chỉ dẫn chị súp cua Anh, súp cua Anh xong nó bảo chắc là ngon lắm, em phải tới thử.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quán súp cua trên đường Nguyễn Triệu, tập trung vào trải nghiệm cá nhân về hương vị, giá cả và địa điểm. Người xem được dẫn dắt qua các đánh giá về topping, độ cay và gợi ý thời điểm ăn phù hợp.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

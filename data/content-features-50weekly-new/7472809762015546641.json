@@ -1,0 +1,72 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu các loại hải sản ngâm tương đã mua để ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "So sánh giá cả",
+      "desc": "So sánh giá giữa ghẹ và cua, cua mắc hơn vì to hơn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thử và đánh giá bầu ngư",
+      "desc": "Ăn bầu ngư và nhận xét về độ tươi, giòn, dai, thấm vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Thử và đánh giá cua, ghẹ",
+      "desc": "Ăn cua và ghẹ, so sánh gạch và trứng giữa hai loại.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Đưa ra lời khuyên",
+      "desc": "Khuyên nên trộn cơm để đỡ béo khi ăn phần gạch, trứng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "đã",
+    "tươi",
+    "thơm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Về bầu ngư thì mình thấy rất là tươi luôn, ăn giòn giòn dai dai nè.",
+    "Mình cảm nhận là tương rất là thấm luôn, vừa thơm nhưng mà không hề tanh tí nào nha mọi người."
+  ],
+  "hook_content": "Hi mọi người. Đây có hải sản ngâm tương nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video mukbang về hải sản ngâm tương, bao gồm ghẹ, cua và bầu ngư. Người nói thử từng loại và đưa ra đánh giá về hương vị, độ tươi ngon.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

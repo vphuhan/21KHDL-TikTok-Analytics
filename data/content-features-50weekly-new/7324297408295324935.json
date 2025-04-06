@@ -1,0 +1,93 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về việc lần đầu làm mứt dừa với số lượng lớn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quá trình làm mứt dừa."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Gọt vỏ dừa non và ngâm vào nước muối chanh loãng.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy đây là bước chuẩn bị cần thiết."
+    },
+    {
+      "step": "Luộc và rửa dừa",
+      "desc": "Luộc dừa trong 10 phút, sau đó rửa lại nhiều lần.",
+      "impact_level": "1",
+      "viewer_emotion": "Nhận thấy sự kỹ lưỡng trong khâu làm sạch."
+    },
+    {
+      "step": "Pha màu và ngâm dừa",
+      "desc": "Pha màu tự nhiên và ngâm dừa trong 5 tiếng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với màu sắc tự nhiên của mứt dừa."
+    },
+    {
+      "step": "Sên mứt dừa",
+      "desc": "Sên mứt dừa trên bếp với lửa lớn rồi hạ nhỏ.",
+      "impact_level": "2",
+      "viewer_emotion": "Hồi hộp theo dõi quá trình mứt dừa khô lại."
+    },
+    {
+      "step": "Hoàn thành và nếm thử",
+      "desc": "Bày mứt ra mâm và nếm thử, cảm nhận vị ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với thành quả và muốn nếm thử."
+    },
+    {
+      "step": "Lời kết",
+      "desc": "Chia sẻ kinh nghiệm và xin bí quyết làm mứt dừa.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy gần gũi và muốn chia sẻ kinh nghiệm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Nếu mọi người có bí quyết hay là cái tips gì để làm mứt dừa nữa thì có thể là nói cho mình biết với nha."
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Chia sẻ công thức"
+  ],
+  "emotion_keywords": [
+    "vui",
+    "ngon",
+    "mềm",
+    "thơm",
+    "mệt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Lần đầu làm mứt dừa mà dám làm 7 cân.",
+    "Ai đang quá rảnh rỗi ai đang muốn thời gian trôi nhanh hơn hoặc đơn giản là nhàm chán muốn giải trí thì hãy mua mứt về làm dừa à nhầm. Hãy mua dừa về làm mứt.",
+    "Tớ khúc này là vui như mở cờ trong bụng vì mình đã từng xem một cái clip video ở trên mạng đấy là càng sên thì nó càng chảy nước không thể nào mà khô lại như thế này được."
+  ],
+  "hook_content": "thật sự luôn đấy. Lần đầu làm mứt dừa mà dám làm 7 cân.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình lần đầu làm mứt dừa với số lượng lớn của một cô gái. Mặc dù gặp nhiều khó khăn và phải làm trong điều kiện thời tiết không thuận lợi, nhưng cuối cùng cô đã thành công và chia sẻ kinh nghiệm của mình.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

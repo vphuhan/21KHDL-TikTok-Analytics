@@ -1,0 +1,52 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món sữa luộc 4 tiếng và giá thành.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Đánh giá mùi vị và chi phí.",
+      "impact_level": "2",
+      "viewer_emotion": "Cân nhắc về giá trị."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Sữa này mình đã luộc 4 tiếng.",
+    "Sữa này luộc lên thì cực thơm luôn.",
+    "Ăn thì ngon đó nhưng mà tốn ga."
+  ],
+  "hook_content": "review cả thế giới.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review món sữa luộc 4 tiếng, tập trung vào hương vị thơm ngon nhưng chi phí tốn kém do tốn ga.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bánh mì chảo làm cho mẹ chồng người Việt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn xem cách làm."
+    },
+    {
+      "step": "Chia sẻ trải nghiệm",
+      "desc": "So sánh sự tiện lợi khi ăn uống ở Việt Nam và Nhật Bản.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy có sự khác biệt văn hóa."
+    },
+    {
+      "step": "Hướng dẫn nấu ăn",
+      "desc": "Nấu bánh mì chảo, công thức trên màn hình.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử làm theo."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu An cung xạ hương, mua tặng mẹ chồng.",
+      "impact_level": "1",
+      "viewer_emotion": "Quan tâm đến sản phẩm."
+    },
+    {
+      "step": "Chia sẻ công dụng",
+      "desc": "Công dụng của An cung xạ hương với sức khỏe người lớn tuổi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích."
+    },
+    {
+      "step": "Hướng dẫn sử dụng",
+      "desc": "Cách dùng An cung xạ hương để đạt hiệu quả tốt nhất.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhớ thông tin."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "20 tháng 10 này mà chưa biết mua gì tặng mẹ thì các bạn nên thử cái thực phẩm chức năng này nhá."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm",
+    "Chia sẻ công thức"
+  ],
+  "emotion_keywords": [
+    "thích",
+    "sướng",
+    "yên tâm",
+    "khen",
+    "khỏe",
+    "ngon",
+    "dễ uống"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ở Nhật lâu mình lại thấy ở Việt Nam mình sướng dã man luôn ý. Thèm ăn một cái là gọi ship ship cho tận nhà luôn.",
+    "Mẹ chồng mình thì rất rất là thích bánh mì của Việt Nam, nhưng mà bánh mì chảo thì chưa ăn bao giờ.",
+    "Có con dấu của chính phủ nữa nên là cực kỳ yên tâm luôn ý."
+  ],
+  "hook_content": "Mẹ chồng mình thì rất rất là thích bánh mì của Việt Nam, nhưng mà bánh mì chảo thì chưa ăn bao giờ.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ về việc làm bánh mì chảo cho mẹ chồng người Việt ở Nhật Bản và giới thiệu sản phẩm An cung xạ hương như một món quà ý nghĩa cho mẹ nhân dịp 20 tháng 10.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

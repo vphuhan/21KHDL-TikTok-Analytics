@@ -1,0 +1,96 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu tôm",
+      "desc": "Tìm mua tôm sú nữ hoàng khó, 1kg khoảng 5 con.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ hiếm của loại tôm này."
+    },
+    {
+      "step": "Pha nước chấm",
+      "desc": "Làm nước mắm kiểu Thái nhưng lại dùng nước mắm thường.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy lạ về cách pha nước chấm."
+    },
+    {
+      "step": "Chuẩn bị tôm",
+      "desc": "Sơ chế tôm và ướp đá để giữ độ tươi ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với cách sơ chế giữ độ tươi của tôm."
+    },
+    {
+      "step": "Thưởng thức tôm",
+      "desc": "Nhúng tôm vào nước chấm và bắt đầu ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng khi thấy ăn tôm sống."
+    },
+    {
+      "step": "Đánh giá tôm",
+      "desc": "Tôm hơi tanh, thịt dai và ngọt, đầu tôm có thể chế biến.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị thật sự của tôm."
+    },
+    {
+      "step": "Gợi ý món ăn",
+      "desc": "Gợi ý món tôm ngâm tương kiểu Trung Quốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ video về món tôm ngâm tương."
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Điều chỉnh độ cay của nước chấm và bổ sung topping.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy hữu ích với lời khuyên này."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Để bữa nào mình làm thử cái món tôm sú nữ hoàng ngâm tương này nha.",
+    "chung ngon sẽ thử lại nếu có dịp nè."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "cay cay",
+    "mặn mặn",
+    "chua chua",
+    "đã",
+    "hơi tanh",
+    "ngọt thịt",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Khi mọi người nói ban đêm đi tìm con sú nữ hoàng này khó ghê luôn á.",
+    "Nhúng cái nước mắm này lâu lâu tí xíu để cho nó tái con tôm nha mọi người. Nó sẽ cay cay mặn mặn chua chua rất là đã luôn á.",
+    "tôm mà ngâm tương á trời tao nói là vỏ tôm cực kỳ đã luôn."
+  ],
+  "hook_content": "Khi mọi người nói ban đêm đi tìm con sú nữ hoàng này khó ghê luôn á.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video mukbang về tôm sú nữ hoàng ăn sống với nước mắm tự pha. Người làm video chia sẻ cảm nhận về độ tươi ngon, hương vị của tôm và gợi ý các cách chế biến khác.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

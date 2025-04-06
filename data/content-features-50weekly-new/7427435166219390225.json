@@ -1,0 +1,66 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu mở đầu",
+      "desc": "Giới thiệu túi mù các quốc gia và món ăn Hàn Quốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn được giới thiệu."
+    },
+    {
+      "step": "Thưởng thức mì cay",
+      "desc": "Nấu và ăn mì cay Samyang, cảm thấy cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với trải nghiệm ăn cay."
+    },
+    {
+      "step": "Thưởng thức đồ uống và snack",
+      "desc": "Uống sữa gạo và ăn bánh, snack Ostar.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy ngon miệng và thỏa mãn."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Cảm ơn người xem.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có cảm xúc đặc biệt."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn quý vị khán"
+  ],
+  "cta_type": [],
+  "emotion_keywords": [
+    "cay",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "cay thế",
+    "Ngon"
+  ],
+  "hook_content": "ban tối mờ theo các quốc gia.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang túi mù các quốc gia, tập trung vào các món ăn Hàn Quốc như mì cay Samyang, bánh gà xé, bim bim Ostar và sữa gạo. Người thực hiện vừa ăn vừa chia sẻ cảm nhận về hương vị.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

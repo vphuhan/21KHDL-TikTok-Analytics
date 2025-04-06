@@ -1,0 +1,81 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu xô thạch mát lạnh với nhiều loại topping hấp dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thèm thuồng và muốn thử ngay."
+    },
+    {
+      "step": "Hướng dẫn làm thạch",
+      "desc": "Hướng dẫn các bước làm thạch các loại như cam, việt quất.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thú vị và muốn làm theo."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Khoe các loại thạch tự làm và giới thiệu thức uống Nutriboost.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của thức uống mới."
+    },
+    {
+      "step": "Đánh giá sản phẩm",
+      "desc": "Đánh giá hương vị, kết cấu của thức uống sữa chua Nutriboost.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy tin tưởng vào đánh giá của người review."
+    },
+    {
+      "step": "Kết hợp và thưởng thức",
+      "desc": "Kết hợp thạch và thức uống, đưa ra đánh giá cuối cùng.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn tự tay làm và thưởng thức ngay lập tức."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Có gì mọi người cũng thử xem sao nhé."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "mát lạnh",
+    "thích cực",
+    "thơm",
+    "háo hức",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Để có hai cái xô thạch ú ụ này thì tui đã làm bao nhiêu loại topping.",
+    "Sữa chua Hy Lạp sánh hơn sữa chua thông thường nhiều.",
+    "Ăn hợp phết mà cả chất lượng lẫn họa hình đều không thua kém ngoài hàng luôn."
+  ],
+  "hook_content": "mọi người biết nhá, để có hai cái xô thạch ú ụ này thì tui đã làm bao nhiêu loại topping.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu cách làm xô thạch mát lạnh với nhiều loại topping, kết hợp cùng thức uống sữa chua Nutriboost mới. Người làm video đánh giá cao hương vị và chất lượng của sự kết hợp này, khuyến khích mọi người thử làm theo.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

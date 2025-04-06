@@ -1,0 +1,82 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu hoàn cảnh",
+      "desc": "Người mẹ bận rộn không có thời gian đi chợ và nấu ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm với sự vất vả của người mẹ."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Sử dụng nguyên liệu có sẵn để nấu cơm rang kim chi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự khéo léo và đảm đang."
+    },
+    {
+      "step": "Nấu món ăn",
+      "desc": "Nấu canh tương đậu và cơm rang kim chi rong biển phô mai.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị món ăn."
+    },
+    {
+      "step": "Hoàn thành món ăn",
+      "desc": "Trình bày món ăn hấp dẫn và bắt mắt.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy đói bụng và thèm ăn."
+    },
+    {
+      "step": "Cả nhà ăn cơm",
+      "desc": "Cả gia đình cùng nhau thưởng thức bữa cơm ngon miệng.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấm áp và hạnh phúc khi thấy gia đình sum vầy."
+    },
+    {
+      "step": "Nhận xét món ăn",
+      "desc": "Các thành viên trong gia đình khen món ăn ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng món ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mời mọi người ăn cơm chung cả nhà mình."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngon ghê",
+    "đói bụng",
+    "hết hồn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cơm á nó đánh từng mảng từng mảng rồi ăn ngon không?",
+    "Cơm ai nó kéo sợi sợi mọi người ơi."
+  ],
+  "hook_content": "ổng anh mà ổng đi làm lại rồi mình giữ hai đứa nhỏ này từ sáng tới chiều là không có thời gian đi chợ luôn rồi.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ về bữa cơm gia đình với món cơm rang kim chi rong biển phô mai và canh tương đậu do người mẹ đảm đang nấu. Mọi người cùng nhau ăn uống vui vẻ và khen ngon.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

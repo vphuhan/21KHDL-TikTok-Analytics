@@ -1,0 +1,86 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu bằng sự cố",
+      "desc": "Chia sẻ về sự cố xe đạp hỏng và quyết định đi chợ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thông cảm"
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu mắt cá ngừ đại dương và quyết định mua hết.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Kể về trải nghiệm",
+      "desc": "Chia sẻ kỷ niệm du học và lý do thích ăn món này.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm"
+    },
+    {
+      "step": "Cách nấu",
+      "desc": "Mô tả cách nấu đơn giản và bí quyết khử tanh.",
+      "impact_level": "2",
+      "viewer_emotion": "Học hỏi"
+    },
+    {
+      "step": "Ăn thử và đánh giá",
+      "desc": "Mời ăn, mô tả hương vị béo ngậy, không ngán.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Khẳng định độ ngon",
+      "desc": "Khẳng định độ ngon và khả năng ăn hết một mình.",
+      "impact_level": "3",
+      "viewer_emotion": "Ngạc nhiên"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z",
+    "Sáng tạo"
+  ],
+  "cta_content": [
+    "Còn bây giờ thì mình sẽ mời mọi người ăn mắt cá ngừ chung với mình ha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "béo",
+    "khoái",
+    "áp lực",
+    "kinh khủng",
+    "cơm chan nước mắt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Gắn có cái dây sên thôi đó mà mắt mũi tao nói nó muốn tối sầm đi luôn vậy đó.",
+    "Mình nghe nói mắt cá ngừ đại dương này là đặc sản của Phú Yên đúng không mọi người?",
+    "Mà cái món này phải nói là nó béo kinh khủng khiếp luôn, ai mà ăn được rồi là coi như là khoái luôn đó."
+  ],
+  "hook_content": "nói còn đi học mấy bữa cuối nữa thôi là đi về rồi đó mà bữa nay cái xe đạp nó chứng lên.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video chia sẻ về trải nghiệm ăn mắt cá ngừ đại dương sau những ngày du học vất vả, kèm theo cách chế biến đơn giản và cảm nhận hương vị béo ngậy đặc trưng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

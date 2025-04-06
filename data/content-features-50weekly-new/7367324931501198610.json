@@ -1,0 +1,80 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món miến dong nấu lòng gà tràng trứng thơm ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Sơ chế miến",
+      "desc": "Hướng dẫn ngâm miến dong sợi to trước khi nấu.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin hữu ích."
+    },
+    {
+      "step": "Xào lòng gà",
+      "desc": "Phi thơm hành tỏi rồi xào lòng gà tràng trứng.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi mùi thơm."
+    },
+    {
+      "step": "Nấu miến",
+      "desc": "Cho nước vào đun sôi, hớt bọt rồi thả miến vào.",
+      "impact_level": "1",
+      "viewer_emotion": "Theo dõi quá trình nấu."
+    },
+    {
+      "step": "Hoàn thiện",
+      "desc": "Đun miến đến khi trong, thêm hành hoa rau thơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn thử ngay."
+    },
+    {
+      "step": "Gợi ý",
+      "desc": "Miến phù hợp ăn sáng, trưa, tối.",
+      "impact_level": "1",
+      "viewer_emotion": "Gợi ý hữu ích."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "các bác cứ mạnh dạn đặt vài cân khi TikTok trợ giá nha"
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "thơm ngon",
+    "cuốn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Miến dong sợi to nhà bạn Xung bầu này quá báo các bác ạ.",
+    "từ năm ngoái đến năm nay cứ hết bó này đến bó khác",
+    "nấu ở nhà là chỉ 15 phút là có bát miến thơm ngon"
+  ],
+  "hook_content": "Miến dong sợi to nhà bạn Xung bầu này quá báo các bác ạ.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video giới thiệu cách nấu miến dong sợi to với lòng gà và tràng trứng một cách nhanh chóng và thơm ngon tại nhà, đồng thời khuyến khích người xem mua sản phẩm miến dong từ nhà bạn Sùng Bầu.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

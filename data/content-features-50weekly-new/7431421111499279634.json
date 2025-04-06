@@ -1,0 +1,74 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu nguyên liệu",
+      "desc": "Giới thiệu cách thái sung và khế để làm món sung muối.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách làm."
+    },
+    {
+      "step": "Sơ chế",
+      "desc": "Hướng dẫn rửa sung, khế và ngâm trong nước đường.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích."
+    },
+    {
+      "step": "Chuẩn bị gia vị",
+      "desc": "Băm sả, tỏi và giới thiệu các loại gia vị.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Trộn",
+      "desc": "Hướng dẫn trộn các nguyên liệu và gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy ngon miệng."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Nhấn mạnh món sung muối ăn kèm gì cũng ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn ăn thử ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "giòn",
+    "hết chát",
+    "chua gắt",
+    "cay cay",
+    "thơm cay"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Sung này muối sổi ăn ngay nên các bác thái mỏng ra rồi thả luôn vào chậu nước nha.",
+    "Khâu này cực kỳ quan trọng mà nó là bí kíp thì cái sung nó sẽ rất giòn và hết chat.",
+    "Trời ơi cái sung này trộn xong ăn với cái gì cũng ngon mà ăn ốc luộc thì gọi là hết bài."
+  ],
+  "hook_content": "lòng được cái cách muối sung của ông anh bán ốc mà đúng là đẳng cấp các bác ạ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách muối sung ngon và giòn như ngoài hàng ốc với các nguyên liệu đơn giản, dễ làm. Món này có thể ăn kèm với nhiều món khác, đặc biệt là ốc luộc.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu khách mời",
+      "desc": "Giới thiệu diễn viên Khánh Huyền là vợ trong phim của Tuấn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Chia sẻ về cân nặng",
+      "desc": "Khánh Huyền trêu Tuấn béo lên vì nấu ăn cho vợ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Tiết lộ món ăn",
+      "desc": "Tuấn làm món xôi sườn đãi Khánh Huyền.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Mô tả quá trình nấu",
+      "desc": "Tuấn chia sẻ công đoạn làm sạch, ướp sườn và nấu xôi.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Kể về áp lực",
+      "desc": "Tuấn nói về việc bị Khánh Huyền kiểm tra khi nấu ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Chia sẻ niềm vui",
+      "desc": "Tuấn vui khi gặp lại bạn diễn và nấu ăn cho mọi người.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp"
+    },
+    {
+      "step": "Mời mọi người ăn",
+      "desc": "Tuấn dọn xôi sườn và mời mọi người cùng thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Háo hức"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bây giờ mời cả nhà ăn cùng Tuấn nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "vui",
+    "tự ái",
+    "áp lực"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đây. Cái này mới gọi là vợ chồng chứ ai chơi cái kiểu mặc áo đen đứng góc Chồng là cái mệt nó đẹp hẳn lên đấy.",
+    "Định là cho nhịn đói luôn nhưng thôi không đành.",
+    "Bữa nay nhe là tôi được công nhận khả năng nấu nướng thật sự rồi nhe. Ai cũng khen mà vui quá trời luôn, chứ à tới bây giờ nhiều người vẫn còn nghi ngờ các món ăn á không phải do chính tay tôi nấu đó."
+  ],
+  "hook_content": "Đây. Cái này mới gọi là vợ chồng chứ ai chơi cái kiểu mặc áo đen đứng góc Chồng là cái mệt nó đẹp hẳn lên đấy.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh diễn viên Tuấn nấu xôi sườn đãi diễn viên Khánh Huyền (vai vợ trong phim) và bạn bè đồng nghiệp. Anh chia sẻ về quá trình chuẩn bị món ăn, niềm vui khi gặp lại bạn diễn và mời mọi người cùng thưởng thức.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

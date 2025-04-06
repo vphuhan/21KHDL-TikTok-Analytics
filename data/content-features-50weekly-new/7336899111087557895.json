@@ -1,0 +1,100 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu vấn đề",
+      "desc": "Than thở về việc ăn quá nhiều thịt kho ngày Tết.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị vì sự hài hước, đồng cảm với nỗi ngán thịt."
+    },
+    {
+      "step": "Liệt kê món ăn",
+      "desc": "Kể tên các món thịt kho mẹ nấu, nhấn mạnh sự lặp lại.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy ngán ngẩm thay cho người nói."
+    },
+    {
+      "step": "Giải thích",
+      "desc": "Lý giải việc không nấu món Tết cho mẹ và khen mẹ nấu ngon.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích để hiểu rõ hơn về tình huống."
+    },
+    {
+      "step": "Tình huống hài hước",
+      "desc": "Khách đến nhà đều bị ép ăn thịt và không ai dám chê.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy buồn cười vì sự 'khó xử' của khách."
+    },
+    {
+      "step": "Mô tả bữa ăn",
+      "desc": "Giới thiệu mâm cơm với các món thịt kho quen thuộc.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Phát hiện sự thật",
+      "desc": "Mẹ cũng ngán thịt và thịt bắt đầu bị thiu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị vì sự thật trớ trêu."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Tả mẹ mặc quần áo ngược và dùng dây chun buộc nem chua.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy rất hài hước và bất ngờ."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "tự tin",
+    "giải cứu",
+    "ế",
+    "ngán",
+    "ngon",
+    "vừa phải",
+    "hân hoan",
+    "sốt sắng",
+    "buồn",
+    "sành điệu",
+    "tự tin",
+    "ngại"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ế đến tận bây giờ đã là mùng chín Tết rồi còn chưa hết.",
+    "Trước là có thêm cái nồi gà nấu măng nữa nhưng mà nấu ít là chưa có kịp ế chứ không là cũng cho vào cái danh sách đen này rồi.",
+    "Dây buộc tóc là mình mua cả tấn cả thùng, treo đầy trong nhà tắm nhưng mà không biết kiếm đâu ra cái dây chun buộc nem chua Thanh Hóa buộc lên trên đầu như này."
+  ],
+  "hook_content": "Đợt trước về quê là tự tin làm cái series cải thiện bữa ăn cho gia đình, nhưng mà riêng cái đợt này thì chính bản thân mình cũng cần được cư dân mạng giải cứu bởi ba cái nồi thịt kho Tết của mẹ.",
+  "hook_type": [
+    "Kể chuyện",
+    "Gây tò mò",
+    "Tạo sự đồng cảm"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video kể về nỗi khổ của một người khi phải ăn quá nhiều thịt kho do mẹ nấu vào dịp Tết, với nhiều tình huống hài hước xoay quanh việc này và những thói quen độc đáo của mẹ.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành",
+    "Châm biếm"
+  ]
+}

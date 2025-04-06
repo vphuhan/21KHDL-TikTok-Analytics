@@ -1,0 +1,84 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu về cuộc sống ở Nhật",
+      "desc": "Chia sẻ về thời tiết và dự định mua xe hơi để tiện di chuyển.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu nguyên liệu",
+      "desc": "Giới thiệu hàu đông lạnh mua ở siêu thị, nhấn mạnh độ tươi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Sơ chế và nấu",
+      "desc": "Đổ hàu ra đĩa, khoe số lượng nhiều và chuẩn bị luộc.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu quà từ gia đình",
+      "desc": "Khoe thùng quà từ ba mẹ gửi, giới thiệu dịch vụ vận chuyển.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp"
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Mời mọi người ăn hàu luộc kèm chẳm chéo và măng.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhấn mạnh độ tươi của hàu đông lạnh và vị ngon của chẳm chéo.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "đã",
+    "tươi",
+    "đậm",
+    "cay cay mặn mặn",
+    "quá hợp"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "mấy cái rìa ở ngoài ăn cực kỳ giòn luôn, đã dữ lắm",
+    "ăn rất là đậm luôn á",
+    "cái tay gắp không ngừng mà chấm chung với chẳm chéo cay cay mặn mặn nữa, quá là ngon"
+  ],
+  "hook_content": "Ở Nhật mà cái điều mà làm mình ngán nhất đó chính là thời tiết.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ về cuộc sống ở Nhật, đặc biệt là trải nghiệm ăn hàu đông lạnh luộc kèm chẳm chéo. Mặc dù là hàu đông lạnh, người làm video vẫn cảm nhận được độ tươi và hương vị đậm đà của món ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu các loại gà rán và Chibo chuẩn bị thưởng thức.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giải đáp thắc mắc",
+      "desc": "Chia sẻ kinh nghiệm quay video nét bằng điện thoại và app chỉnh sửa.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Trải nghiệm món ăn",
+      "desc": "Thưởng thức gà rán và đưa ra cảm nhận cá nhân.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người xem video của mình, hẹn gặp video sau. Tạm biệt."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "siêu sung mê",
+    "xinh cực"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "mình quay bằng cái gì mà ăn video nét thế",
+    "chuyển đổi các thước phim anime chỉ trong tích tắc thôi ấy, kiểu cảm giác như là thấy mình ở một vũ trụ khác ấy, xinh cực luôn"
+  ],
+  "hook_content": "Xin chào mọi người, hôm nay mình sẽ ăn gà rán mời mọi người cùng mình nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang gà rán, người nói chia sẻ kinh nghiệm quay video nét bằng điện thoại và app chỉnh sửa, đồng thời trải nghiệm và đánh giá các loại gà rán khác nhau.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

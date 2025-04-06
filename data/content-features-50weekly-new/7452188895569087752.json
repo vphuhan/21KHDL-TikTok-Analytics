@@ -1,0 +1,84 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu bằng tranh cãi",
+      "desc": "Nhấn mạnh việc quán bị chê nhưng vẫn đông khách.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Giải thích về nguyên liệu",
+      "desc": "Phản hồi về việc sử dụng gà công nghiệp, nhấn mạnh số lượng bán.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên"
+    },
+    {
+      "step": "Phân tích chi phí",
+      "desc": "Chia sẻ về giá nhập và lãi suất trên mỗi suất.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chứng minh chất lượng",
+      "desc": "Khẳng định nguồn gốc gà tươi và giấy tờ đầy đủ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng"
+    },
+    {
+      "step": "Thực tế tại quán",
+      "desc": "Cho thấy quán đông khách vào thời điểm hiện tại.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Tiết lộ doanh thu",
+      "desc": "Đề cập đến số lượng suất bán ra mỗi ngày và doanh thu.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng"
+    },
+    {
+      "step": "Phủ nhận tin đồn",
+      "desc": "Khẳng định không sử dụng mì chính trong chế biến.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngọt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "cứ chê cơ nhà mình gà công nghiệp với cả nhiều mì chính nhưng mà hàng ngày nhà mình vẫn bán được nghìn với hơn nghìn suất",
+    "Mình dùng gà công nghiệp này nó mà lãi, mỗi suất chỉ được lãi 2 3 nghìn thôi.",
+    "Nó ngọt, nó ngọt là xương Bắc với cả gà chứ làm gì có mì chính đâu."
+  ],
+  "hook_content": "các bạn cứ chê cơ nhà mình gà công nghiệp với cả nhiều mì chính nhưng mà hàng ngày nhà mình vẫn bán được nghìn với hơn nghìn suất.",
+  "hook_type": [
+    "Gây tranh cãi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video review một quán ăn bị chê dùng gà công nghiệp và nhiều mì chính, nhưng vẫn bán được số lượng lớn mỗi ngày. Chủ quán giải thích về nguồn gốc nguyên liệu, chi phí và khẳng định không sử dụng mì chính.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

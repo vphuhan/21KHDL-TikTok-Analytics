@@ -1,0 +1,68 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Hân thông báo đã đến ăn súp cua khổng lồ, không cần tag.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn được nhắc đến."
+    },
+    {
+      "step": "Mô tả topping",
+      "desc": "Liệt kê các loại topping hấp dẫn của tô súp cua.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và ấn tượng với sự đầy đặn."
+    },
+    {
+      "step": "Hướng dẫn",
+      "desc": "Hướng dẫn cách ăn súp cua ngon hơn với sa tế.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử ngay cách ăn được gợi ý."
+    },
+    {
+      "step": "Kết quả thử thách",
+      "desc": "Thông báo hoàn thành thử thách và khuyến khích người khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngưỡng mộ và tò mò muốn thử thách bản thân."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "chất lượng",
+    "dễ ăn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ăn hết tô súp cua khổng lồ trong vòng 20 phút.",
+    "Chưa ăn mà nhìn mấy cái topping là thấy chất lượng rồi nha, nhất là cái mai cua này nè, bên trong thì thịt ú u luôn.",
+    "Tới đây là mọi người nhất định phải làm một chén sa tế chấm giống Hân nha. Trời ơi sa tế siêu ngon luôn."
+  ],
+  "hook_content": "Ăn hết tô súp cua khổng lồ trong vòng 20 phút, mọi người không cần tát hơn đi ăn súp nữa, tại vì bây giờ Hân đã tự đi rồi nè.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình Hân ăn tô súp cua khổng lồ và đưa ra những đánh giá về hương vị, chất lượng của món ăn. Hân khuyến khích mọi người tới ăn thử và tham gia thử thách ăn súp cua.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

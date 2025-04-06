@@ -1,0 +1,75 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Hỏi giá và bất ngờ",
+      "desc": "Người bán báo giá 30k/bó, người mua ngạc nhiên về giá rẻ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò, thích thú với mức giá rẻ."
+    },
+    {
+      "step": "So sánh và địa điểm",
+      "desc": "Nhận xét xe hoa này là đối thủ của xe hoa giá rẻ khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự cạnh tranh và địa điểm mới."
+    },
+    {
+      "step": "Giá các loại hoa",
+      "desc": "Hỏi giá cúc cầu, tuyết mai và thông tin bán hàng qua Tết.",
+      "impact_level": "1",
+      "viewer_emotion": "Nắm bắt thông tin về giá cả và thời gian bán."
+    },
+    {
+      "step": "Đánh giá về bó hoa",
+      "desc": "Nhận xét về kích thước và cách bó hoa cẩm tú cầu.",
+      "impact_level": "2",
+      "viewer_emotion": "Có cái nhìn chi tiết hơn về sản phẩm."
+    },
+    {
+      "step": "Điểm trừ",
+      "desc": "Chê cách bó hoa chưa được đẹp mắt, cần cải thiện hơn.",
+      "impact_level": "1",
+      "viewer_emotion": "Nhận thấy điểm cần cải thiện của dịch vụ."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "giá rẻ",
+    "mê",
+    "siêu to khổng lồ"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cuối cùng thì cũng có đối thủ cạnh tranh với xe hoa giá rẻ của hai cô chú dưới Bình Thạnh rồi mọi người ơi.",
+    "Cẩm tú cầu một bó như này là 100k thì có rẻ hay không ta. Nói chung là mê.",
+    "Ôi siêu to khổng lồ to hơn cái đầu tôi luôn cơ mà."
+  ],
+  "hook_content": "Cái này là bao nhiêu đây? 30.000đ. 30.000đ một bó này á? Thật không cô? Để để cô coi.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review một xe hoa giá rẻ ở quận 10, so sánh với xe hoa nổi tiếng ở Bình Thạnh, đồng thời đánh giá giá cả và chất lượng của các loại hoa.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

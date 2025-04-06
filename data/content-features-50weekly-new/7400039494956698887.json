@@ -1,0 +1,83 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Cậu tư đi chợ mua nồi đất lớn, cả nhà làm món gà tre nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món gà nướng nồi đất."
+    },
+    {
+      "step": "Chuẩn bị gà và gia vị",
+      "desc": "Ướp gà với các loại gia vị, chuẩn bị thêm hành tây, sả.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú với công thức ướp gà."
+    },
+    {
+      "step": "Lót nồi và nướng gà",
+      "desc": "Lót nồi bằng muối, sả, hành tây, thêm lá chuối rồi nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn biết kết quả món gà nướng."
+    },
+    {
+      "step": "Làm muối chấm",
+      "desc": "Thái lá chanh, làm muối ớt mặn ngọt chua cay để chấm gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món gà nướng và muối chấm."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Gà nướng chín vàng ươm, cả nhà cùng nhau thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy ngon miệng và muốn thử ngay."
+    },
+    {
+      "step": "Nhận xét của người thân",
+      "desc": "Mọi người khen ngon, đặc biệt là món gà mềm và thơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào độ ngon của món ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "ăn chung với cả nhà mình nha"
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "mặn mặn ngọt ngọt chua chua",
+    "ngon gì đâu luôn á",
+    "mềm mại bóng bẩy",
+    "khoái",
+    "vui"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nhìn cái con gà da vàng ươm mềm mại bóng bẩy ta nói nó ngon gì đâu luôn á.",
+    "Xé ra cho mỗi người một cái đùi nè, ta nói xé tới đâu là mùi hương nó đổ tới đó."
+  ],
+  "hook_content": "Bữa nay cậu tư mình đi chợ mang theo cái nồi đất về quá trời là bự luôn, dự là sẽ có cái món gì lạ lạ đây.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình làm món gà tre nướng nồi đất của một gia đình. Từ khâu chuẩn bị nguyên liệu, ướp gà, nướng gà đến khi cả nhà cùng nhau thưởng thức món ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

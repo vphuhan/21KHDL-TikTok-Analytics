@@ -1,0 +1,97 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán ăn",
+      "desc": "Giới thiệu quán ăn của anh Adin và lý do đến review.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán ăn và chủ quán."
+    },
+    {
+      "step": "Đánh giá cơm trộn",
+      "desc": "Đánh giá chi tiết các thành phần và hương vị của cơm trộn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và muốn thử."
+    },
+    {
+      "step": "So sánh và chấm điểm",
+      "desc": "So sánh các thành phần và chấm điểm cơm trộn của quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình với đánh giá."
+    },
+    {
+      "step": "Đánh giá mì trộn",
+      "desc": "Đánh giá mì trộn đặc biệt và sự cố với thịt bị cháy.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về món mì trộn."
+    },
+    {
+      "step": "Đánh giá nước chấm",
+      "desc": "Đánh giá cao nước chấm và sự kết hợp với bò viên.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với nước chấm."
+    },
+    {
+      "step": "Đánh giá đồ uống",
+      "desc": "Đánh giá các loại đồ uống signature của quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử các loại đồ uống."
+    },
+    {
+      "step": "Lời khuyên và CTA",
+      "desc": "Khuyên đến quán ủng hộ và đừng quá tin vào review.",
+      "impact_level": "1",
+      "viewer_emotion": "Gợi ý hữu ích."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Mình nghĩ là mọi người tới quán thử, mọi người ủng hộ Adin nha.",
+    "Chúc mọi người coi clip vui vẻ và mọi người cũng đừng quá tin tất cả những gì mà Panda review, tại Panda có cái khẩu vị của Panda còn mọi người có khẩu vị của mọi người, nên là mọi người thích thì mọi người có thể tới ủng hộ còn không thích thì mọi người có thể thích cái clip này."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Follow kênh"
+  ],
+  "emotion_keywords": [
+    "vừa phải",
+    "thích",
+    "đậm đà",
+    "ngon",
+    "thơm",
+    "béo",
+    "dễ thương"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Vì Adin nấu nên mình xin được chấm là 9 điểm.",
+    "Mềm giống như cái mặt Adin nói chuyện vậy đó, mỗi lần Adin mở miệng ra nói chuyện thấy sao mà đàn ông dễ thương trời.",
+    "Cái này giống như là tình cảm của anh dành cho em vậy đó, không có một chút mà gọi là ánh sáng mà để cuối con đường."
+  ],
+  "hook_content": "bự quá em ăn không có nổi, nhưng mà của anh Adin bự thì em ăn được nha. Ý là cơm của anh Adin á.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review quán ăn của Adin, tập trung vào đánh giá các món cơm trộn, mì trộn và đồ uống. Người review đưa ra nhận xét chi tiết về hương vị, thành phần và giá cả, đồng thời thể hiện sự yêu thích đối với Adin.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

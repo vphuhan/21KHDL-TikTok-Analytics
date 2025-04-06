@@ -1,0 +1,84 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Chia sẻ về việc làm phở bò viên tại nhà cho gia đình.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quá trình làm phở bò viên."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Ghé chợ mua nguyên liệu và chia sẻ về khó khăn tìm việc.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm với khó khăn của người thân."
+    },
+    {
+      "step": "Ướp thịt bò",
+      "desc": "Hướng dẫn ướp thịt bò và để tủ lạnh trong 2-3 tiếng.",
+      "impact_level": "2",
+      "viewer_emotion": "Ghi chú lại công thức ướp thịt bò."
+    },
+    {
+      "step": "Quết bò viên",
+      "desc": "Hướng dẫn quết thịt bò và lưu ý giữ lạnh trong quá trình làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Học được mẹo làm bò viên dai ngon."
+    },
+    {
+      "step": "Luộc bò viên",
+      "desc": "Luộc bò viên và vớt ra nước lạnh để giữ độ dai.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với bí quyết luộc bò viên."
+    },
+    {
+      "step": "Nấu nước dùng",
+      "desc": "Sử dụng nước luộc bò viên để nấu nước dùng phở.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với cách tận dụng nước luộc bò viên."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Cả nhà cùng ăn phở bò viên và chia sẻ cảm nhận.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy ấm áp và hạnh phúc."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "khoái",
+    "nóng hổi",
+    "cay"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Hồi đó đi học là phải ăn bò viên chiên, cá viên chiên, nhưng mà đâu có được ăn hoài đâu mọi người. Lâu lâu mới được ăn một lần.",
+    "Trời lạnh mà ăn phở bò thì quá ngon luôn."
+  ],
+  "hook_content": "Bữa nay đang ngủ mà tưởng nằm mơ không á mọi người. Bà ở dưới bóp chân, còn ở trên thì bóp tay làm mình sợ nha.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn cách làm phở bò viên tại nhà, từ khâu chuẩn bị nguyên liệu, ướp thịt, quết bò viên, luộc đến nấu nước dùng và thưởng thức cùng gia đình. Món ăn được cả nhà yêu thích, đặc biệt là bé Tùng Hon.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

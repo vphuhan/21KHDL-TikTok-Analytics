@@ -1,0 +1,73 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu mở đầu",
+      "desc": "Bóc phốt bà Tuyết đóng hộp bi bim cân, review cùng Xoăn Trần.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về nội dung review."
+    },
+    {
+      "step": "Phản biện",
+      "desc": "Phủ nhận việc review đồ ăn/xưởng bà Tuyết, hé lộ công việc thật.",
+      "impact_level": "2",
+      "viewer_emotion": "Bất ngờ, muốn biết công việc thật là gì."
+    },
+    {
+      "step": "Quay quy trình",
+      "desc": "Review nhanh quy trình sản xuất: cắt, cán, chiên, đảo gia vị.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin cơ bản."
+    },
+    {
+      "step": "Tiết lộ sản phẩm",
+      "desc": "Gia vị mới vị tê cay ra mắt ngày 20/8/2024.",
+      "impact_level": "2",
+      "viewer_emotion": "Hóng chờ sản phẩm mới."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Khẳng định bà Tuyết tự làm bi bim cân, đảm bảo sạch sẽ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng về chất lượng."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm ngon",
+    "tuyệt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đây là đùi gà vị mới nhà bà Tuyết mà chắc chắn tất cả mọi người ở đây chưa một ai được ăn.",
+    "Bật mí: vị tê cay.",
+    "Kết luận là bà Tuyết đóng bi bim cân vào hộp thật nhưng mà là tự nhà mình làm ra để cân, tự nhà mình đóng vào hộp. Sạch sẽ, an toàn, thơm ngon tuyệt."
+  ],
+  "hook_content": "bả ra bả Tuyết lấy bi bim cân về đóng hộp à? Chúng tôi biết rồi nha.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm",
+    "Kịch hóa"
+  ],
+  "summarization": "Video review quy trình sản xuất bi bim cân của bà Tuyết, đồng thời giới thiệu về loại gia vị mới vị tê cay sẽ ra mắt. Người nói khẳng định bi bim cân được làm sạch sẽ, an toàn.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

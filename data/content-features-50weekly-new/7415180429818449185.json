@@ -1,0 +1,69 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mua hàng",
+      "desc": "Người bán hàng đưa các món ăn vặt theo yêu cầu của khách.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy những món ăn vặt tuổi thơ hấp dẫn."
+    },
+    {
+      "step": "Thanh toán",
+      "desc": "Khách hàng trả tiền mua đồ ăn vặt và nhận lại.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    },
+    {
+      "step": "Xin tiền mẹ",
+      "desc": "Khách hàng nhõng nhẽo xin tiền mẹ mua bút chì.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hành động quen thuộc, gợi nhớ kỷ niệm."
+    },
+    {
+      "step": "Mua bánh",
+      "desc": "Khách hàng mua bánh và cảm ơn người bán hàng.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thích thú",
+    "vui vẻ",
+    "hồi tưởng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "ăn vặt tuổi thơ",
+    "kỷ niệm tuổi thơ",
+    "những món ăn quen thuộc"
+  ],
+  "hook_content": "轻轻地碰着你的脸\n为你把眼泪擦干\n这颗心永远属于你\n告诉我不再孤单",
+  "hook_type": [
+    "Kể chuyện",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện"
+  ],
+  "summarization": "Video ghi lại cảnh mua đồ ăn vặt ở một quán quen, gợi nhớ về tuổi thơ với những món ăn như ô mai, kẹo kéo, bánh,... Video có lồng ghép các đoạn hội thoại hài hước.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước",
+    "Chân thành"
+  ]
+}

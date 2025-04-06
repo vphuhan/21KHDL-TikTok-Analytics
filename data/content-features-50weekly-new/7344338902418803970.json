@@ -1,0 +1,80 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món chem chép xào, khẳng định ngon hơn nghêu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn biết món này ngon đến đâu."
+    },
+    {
+      "step": "Miêu tả hương vị",
+      "desc": "Nhấn mạnh thịt chem chép ngọt, dày và ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng hương vị của món ăn."
+    },
+    {
+      "step": "Chia sẻ bí quyết",
+      "desc": "Cách xào chem chép với sả và lá húng quế.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy hữu ích vì biết thêm mẹo nấu ăn."
+    },
+    {
+      "step": "Cảm nhận cá nhân",
+      "desc": "Mô tả mùi thơm, vị béo ngọt và khả năng ăn hết.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm nhận được sự ngon miệng của món ăn."
+    },
+    {
+      "step": "Thông tin về giá",
+      "desc": "Giá cả hợp lý, rẻ như nghêu, khoảng 450 ngàn/kg.",
+      "impact_level": "1",
+      "viewer_emotion": "Quan tâm vì giá cả phải chăng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Hôm nào mọi người thử đi nha."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngọt",
+    "ngon",
+    "thơm",
+    "béo",
+    "ngọt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Từ khi em ăn cái con chim chích này là em nghĩ chắc không bao giờ em ăn con nghêu nữa đâu mọi người.",
+    "Em thấy thịt nó ngọt mà nó dày thịt nữa, ăn ngon lắm luôn.",
+    "Cái mùi nó thơm mà nó béo béo ngọt ngọt nữa, em ăn một mình là hết nhiêu đó luôn á."
+  ],
+  "hook_content": "Từ khi em ăn cái con chim chích này là em nghĩ chắc không bao giờ em ăn con nghêu nữa đâu mọi người.",
+  "hook_type": [
+    "Gây tò mò",
+    "So sánh"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video này chia sẻ trải nghiệm về món chem chép xào sả húng quế, được đánh giá là ngon hơn nghêu hấp sả. Người nói nhấn mạnh hương vị thơm ngon, thịt dày và giá cả phải chăng của món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

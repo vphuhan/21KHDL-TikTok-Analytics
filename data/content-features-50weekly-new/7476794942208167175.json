@@ -1,0 +1,86 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Nhận nhiệm vụ",
+      "desc": "Nhân vật nhận nhiệm vụ bí mật để phanh phui sự thật.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về nhiệm vụ được giao."
+    },
+    {
+      "step": "Thâm nhập xưởng",
+      "desc": "Bí mật thâm nhập xưởng sản xuất chân gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Hồi hộp theo dõi quá trình."
+    },
+    {
+      "step": "Báo cáo quy trình",
+      "desc": "Báo cáo chi tiết các công đoạn sản xuất chân gà.",
+      "impact_level": "1",
+      "viewer_emotion": "Cập nhật thông tin về quy trình."
+    },
+    {
+      "step": "Báo cáo marketing",
+      "desc": "Báo cáo về hoạt động marketing rầm rộ.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết thêm về chiến lược marketing."
+    },
+    {
+      "step": "Cảm xúc cá nhân",
+      "desc": "Chia sẻ cảm xúc lo lắng và nhớ gia đình.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với nhân vật."
+    },
+    {
+      "step": "Nhiệm vụ thất bại",
+      "desc": "Nhân vật báo cáo không tìm thấy sai phạm.",
+      "impact_level": "2",
+      "viewer_emotion": "Bất ngờ vì kết quả."
+    },
+    {
+      "step": "Gặp đồng nghiệp",
+      "desc": "Tình cờ gặp người quen trong xưởng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị với sự trùng hợp."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Drama",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "nguy hiểm",
+    "cố gắng",
+    "thất bại"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ở đây nói trước là không dễ đâu đấy nhá.",
+    "Chưa bao giờ mình nhớ mẹ, nhớ vợ, nhớ con như lúc này, không biết là mình có về được không?",
+    "Nhiệm vụ thất bại rồi, em tìm không ra một cái lỗi nào."
+  ],
+  "hook_content": "Mật đi!",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kịch hóa"
+  ],
+  "summarization": "Video theo chân một người thâm nhập xưởng sản xuất chân gà để tìm lỗi quy trình nhưng thất bại. Cuối cùng, người này gặp một người quen làm cùng ngành.",
+  "tone_of_voice": [
+    "Bí ẩn",
+    "Chân thành",
+    "Hài hước"
+  ]
+}

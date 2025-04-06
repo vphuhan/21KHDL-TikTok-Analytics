@@ -1,0 +1,89 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Sơ chế thịt, rau củ và pha bột để chiên thịt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách làm."
+    },
+    {
+      "step": "Chiên thịt",
+      "desc": "Chiên thịt hai lần để đạt độ giòn hoàn hảo.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức với thành phẩm."
+    },
+    {
+      "step": "Làm sốt chua ngọt",
+      "desc": "Pha sốt chua ngọt với các nguyên liệu và gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng hương vị."
+    },
+    {
+      "step": "Xào rau củ",
+      "desc": "Xào rau củ với hành gừng phi thơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng bởi mùi vị."
+    },
+    {
+      "step": "Nấu mì tương đen",
+      "desc": "Nấu mì tương đen theo hướng dẫn.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy bình thường."
+    },
+    {
+      "step": "Trình bày món ăn",
+      "desc": "Trình bày thịt chiên, sốt và mì.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn ngay."
+    },
+    {
+      "step": "Thưởng thức và đánh giá",
+      "desc": "Ăn thử và đánh giá hương vị món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy đói bụng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "là có gì các bác có thể thử nhá"
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "giòn",
+    "ngán",
+    "chua chua",
+    "ngọt ngọt",
+    "dễ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "phi hành gừng cho thơm điếc mũi nhà hàng xóm",
+    "Vỏ bột bên ngoài của thịt rất là giòn, nhưng mà không quá dày, ăn không hề bị ngán.",
+    "Công thức này gần như là công thức dễ nhất trong mấy công thức tôi tìm rồi"
+  ],
+  "hook_content": "Đêm nay Pít nấu. Thịt chiên sốt chua ngọt kiểu Hàn Quốc.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn nấu món thịt chiên sốt chua ngọt kiểu Hàn Quốc, từ khâu chuẩn bị nguyên liệu, chiên thịt, làm sốt đến trình bày món ăn và thưởng thức. Người nấu chia sẻ kinh nghiệm và đánh giá hương vị món ăn.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

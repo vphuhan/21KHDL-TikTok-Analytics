@@ -1,0 +1,85 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán và món ăn",
+      "desc": "Giới thiệu quán Châu Ngọc Thảo và các món ăn nổi bật.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn được giới thiệu."
+    },
+    {
+      "step": "Đánh giá gà ủ muối",
+      "desc": "Đánh giá hương vị, độ tươi ngon của gà ủ muối.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến chất lượng gà ủ muối."
+    },
+    {
+      "step": "Đánh giá bánh tráng trộn",
+      "desc": "Đánh giá bánh tráng trộn về topping, nước sốt và độ ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với bánh tráng trộn nhiều topping."
+    },
+    {
+      "step": "Đánh giá cơm cháy",
+      "desc": "Đánh giá cơm cháy về độ giòn, ngọt và cảm nhận.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử độ giòn và ngọt của cơm cháy."
+    },
+    {
+      "step": "Nhận xét chung",
+      "desc": "Nhận xét về chất lượng, giá cả và độ sạch sẽ của quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá tổng quan."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người đã coi clip của mình.",
+    "Cảm ơn mọi người đã say sóng, say xe cùng mình nha."
+  ],
+  "cta_type": [
+    "Thích video",
+    "Bình luận",
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "mềm",
+    "ngon",
+    "dễ thương",
+    "cơ bản",
+    "giòn",
+    "ngọt",
+    "chóng mặt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ta nói á ai mà say xe là mà, mà ngồi trên cái chuyến xe này của em. Nhiều khi mọi người coi trên clip thôi là mọi người say xe online luôn á.",
+    "Ai mà đang mà gọi là sắp mà gọi là sắp đẻ đó, đi vô cái xe giúp em nha. Ta nói là khỏi cần tới bệnh viện luôn á.",
+    "Nói chung á ở đây cũng chỉ là cảm nhận cá nhân của tôi thôi nên là mọi người đừng có tin gì hết trơn á chưa. Mọi người cứ tự đi ăn, tự cảm nhận đi."
+  ],
+  "hook_content": "Trên mạng gào, muối, của Châu Ngọc Thảo!Ngoài đời, gào, muối, Châu Ngọc Thảo nha mọi người ơi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review quán Gà ủ muối Châu Ngọc Thảo, đánh giá các món gà ủ muối, bánh tráng trộn và cơm cháy. Người quay phim so sánh chất lượng gà hiện tại với 2 năm trước và đưa ra cảm nhận cá nhân về hương vị, độ tươi ngon và giá cả.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

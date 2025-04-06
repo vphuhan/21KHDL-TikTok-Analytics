@@ -1,0 +1,72 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Ngâm cà tím, cắt nhỏ cà chua và rau thơm, rán đậu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung theo dõi các bước sơ chế."
+    },
+    {
+      "step": "Xào thịt và rau củ",
+      "desc": "Đảo thịt ba chỉ, thêm hành tỏi, cà chua và cà tím.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hấp dẫn bởi mùi thơm."
+    },
+    {
+      "step": "Thêm nước và đun",
+      "desc": "Cho nước vào nồi, đun nhỏ lửa cho cà mềm.",
+      "impact_level": "1",
+      "viewer_emotion": "Chờ đợi món ăn hoàn thành."
+    },
+    {
+      "step": "Hoàn thành món ăn",
+      "desc": "Thêm đậu rán, rau thơm và tắt bếp.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy món ăn hấp dẫn hơn."
+    },
+    {
+      "step": "Dọn mâm và mời ăn",
+      "desc": "Mời mọi người cùng ăn cơm tối.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy ấm cúng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "mời các bác ăn cơm tối cùng với nhà tôi nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trời lạnh mà có một bát canh nóng hổi, vừa ăn vừa húp xì sụp thì đúng là 10 điểm.",
+    "Cà tím sau khi cắt miếng thì tôi sẽ ngâm cùng với nước muối pha loãng và chanh để cho cà không bị thâm.",
+    "Thịt ba chỉ thì tôi sẽ cho vào đảo cho đến khi mặt miếng thịt vàng xém cạnh lại và ra bớt mỡ thì mới cho hành và tỏi vào đảo phi thơm."
+  ],
+  "hook_content": "Ở ngoài Bắc thì chắc là ai cũng đều ăn canh cá bung rồi các bác nhỉ?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn nấu món canh cà bung đậu thịt, một món ăn quen thuộc của miền Bắc. Người nấu chia sẻ các mẹo để món ăn ngon hơn.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

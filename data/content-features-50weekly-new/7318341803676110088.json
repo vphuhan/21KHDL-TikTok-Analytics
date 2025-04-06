@@ -1,0 +1,91 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món há cảo tôm tự làm và câu chuyện cảm động.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về câu chuyện và món ăn."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Hướng dẫn chuẩn bị tôm và gia vị cho nhân há cảo.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin rõ ràng, dễ theo dõi."
+    },
+    {
+      "step": "Làm vỏ há cảo",
+      "desc": "Hướng dẫn nhồi và ủ bột làm vỏ há cảo.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị với cách làm vỏ há cảo."
+    },
+    {
+      "step": "Gói há cảo",
+      "desc": "Hướng dẫn cán vỏ và gói nhân tôm vào há cảo.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn với hình ảnh gói há cảo."
+    },
+    {
+      "step": "Hấp há cảo",
+      "desc": "Hấp há cảo và chia sẻ về việc làm một mình.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin về thời gian hấp."
+    },
+    {
+      "step": "Cảm động lạnh",
+      "desc": "Kể câu chuyện 'cảm động lạnh' của ba Tùng Hân.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm động và thích thú với tình huống hài hước."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Mời mọi người ăn tối và nhận xét về món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Thôi bây giờ mời mọi người ăn tối chung với hai vợ chồng mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "chân thật",
+    "ngon quá"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Có chút bột tầm này làm ra được mấy cục há cảo mà mất gần cả tiếng đồng hồ luôn á.",
+    "Đi làm về không vô nhà đồ ha. Tự nhiên cái bị cảm động lạnh luôn, là vừa cảm động mà vừa cảm lạnh đó mọi người.",
+    "Dù gái hay trai, khỏe hay ốm thì nhà mình hai em bé này thôi là đủ rồi."
+  ],
+  "hook_content": "Lần đầu mình làm há cảo tôm tại nhà và câu chuyện cảm động lạnh của ba Tùng Hân.",
+  "hook_type": [
+    "Kể chuyện",
+    "Gây tò mò",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện"
+  ],
+  "summarization": "Video hướng dẫn làm há cảo tôm tại nhà, chia sẻ các bước làm chi tiết từ chuẩn bị nguyên liệu đến hấp chín, kèm theo câu chuyện hài hước về gia đình. Cuối video, người làm mời mọi người cùng ăn tối và thưởng thức món ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

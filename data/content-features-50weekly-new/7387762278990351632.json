@@ -1,0 +1,88 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu làm bánh xèo miền Trung cho người Hàn Quốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự kết hợp ẩm thực."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Pha bột bánh xèo, bột gạo, sinh tố lứt mạch.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin cơ bản."
+    },
+    {
+      "step": "Thu hoạch dưa hấu",
+      "desc": "Hái dưa hấu trên sân thượng, kiểm tra độ chín.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với hoạt động thu hoạch."
+    },
+    {
+      "step": "Nếm thử dưa hấu",
+      "desc": "Chẻ dưa hấu và nếm thử độ ngọt tại chỗ.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng, muốn ăn."
+    },
+    {
+      "step": "Chuẩn bị nhân bánh xèo",
+      "desc": "Bằm tỏi, ớt làm nước mắm, sơ chế tôm, mực.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, các bước chuẩn bị quen thuộc."
+    },
+    {
+      "step": "Tráng bánh xèo",
+      "desc": "Đổ bánh xèo, thêm nhân và trình bày.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi hình ảnh bánh xèo vàng giòn."
+    },
+    {
+      "step": "Thưởng thức bánh xèo",
+      "desc": "Mời mọi người ăn bánh xèo cùng gia đình.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấm áp, vui vẻ khi cả nhà cùng ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mời mọi người ăn chung với cả nhà của bọn mình nha"
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngọt",
+    "ngon",
+    "nóng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Hai người miền Tây sẽ làm bánh xèo miền Trung cho người Hàn Quốc ăn thử nha mọi người.",
+    "Bữa trước tụi bạn kia chỉ cái lá chỗ cái cuốn héo là chín, công nhận hay thiệt.",
+    "Chưa biết ăn ra làm sao chứ, nhìn hình thức như thế này là cũng ngon rồi đó."
+  ],
+  "hook_content": "Hai người miền Tây sẽ làm bánh xèo miền Trung cho người Hàn Quốc ăn thử nha mọi người.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình làm bánh xèo miền Trung của hai người miền Tây để cho người Hàn Quốc ăn thử, bắt đầu từ việc chuẩn bị nguyên liệu, hái dưa hấu trên sân thượng, đến khi hoàn thành món bánh xèo và mời mọi người cùng thưởng thức.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

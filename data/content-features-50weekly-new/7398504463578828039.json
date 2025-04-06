@@ -1,0 +1,53 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Thèm trân châu và đồ uống đi kèm",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Giới thiệu món",
+      "desc": "Giới thiệu các món ăn và đồ uống",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Ăn uống",
+      "desc": "Ăn và cảm nhận hương vị món ăn",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thèm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nó giòn tan..."
+  ],
+  "hook_content": "Lại thèm trân vi nữa rồi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang món gà rán Jollibee, mở đầu bằng việc thèm trân châu, sau đó giới thiệu món ăn và thưởng thức.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu việc nấu mì cay với một chút hài hước.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Nêu vấn đề",
+      "desc": "Đặt câu hỏi về việc tại sao bỏ đá vào mì cay lại ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "So sánh chi phí",
+      "desc": "So sánh chi phí tự nấu mì cay và mua ngoài.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm"
+    },
+    {
+      "step": "Giới thiệu công thức",
+      "desc": "Hứa hẹn chia sẻ công thức mì cay ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Háo hức"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Hướng dẫn chuẩn bị mì, sốt, topping.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "Nấu mì",
+      "desc": "Hướng dẫn các bước nấu mì chi tiết.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Hoàn thành",
+      "desc": "Thêm thịt bò, kim chi, hành và thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Hài lòng"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "vui"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "nấu mì cay bỏ đá vô thì nó sẽ rất là ngon",
+    "nếu mà mua mì cay ở ngoài chỉ có bốn mấy ngàn thôi mà tự nấu mì cay cái nồi mì cay tới 2 300.000",
+    "công thức mì cay này ngon bất bại luôn"
+  ],
+  "hook_content": "trên đời 23 năm, giờ tôi mới biết là nấu mì cay bỏ đá vô thì nó sẽ rất là ngon cộng mì.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn cách nấu mì cay ngon bất bại tại nhà với các nguyên liệu dễ kiếm, đồng thời chia sẻ trải nghiệm cá nhân về việc nấu mì cay.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

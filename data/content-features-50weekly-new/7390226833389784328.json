@@ -1,0 +1,78 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Phản bác các review không đúng sự thật về giá cả.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán bún bò, phở dùng thịt nóng ở Tân Phú.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Đánh giá tô bún bò 45k và 35k, phở trộn.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Nhấn mạnh chất lượng",
+      "desc": "Nhấn mạnh bò viên gân ngon, sần sật, không bị tanh.",
+      "impact_level": "3",
+      "viewer_emotion": "Kích thích vị giác"
+    },
+    {
+      "step": "Trải nghiệm cá nhân",
+      "desc": "Trộn và nêm nếm bún bò theo khẩu vị cá nhân.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Tổng kết",
+      "desc": "Nhấn mạnh lại chân giò siêu to và giờ bán.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "béo ngậy",
+    "phê"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Bún bò mà thấy nồi mỡ nổi là thấy chịu hong nổi",
+    "Sống trên đời làm ơn có niềm tin với tôi một chút xíu đi.",
+    "Trời ơi ta nói ăn bún bò bình thường nó đã ngon rồi, ăn bún bò trộn nó còn ngon nhiều hơn."
+  ],
+  "hook_content": "Mấy đứa này nó đi review giống vậy thôi chứ tới làm gì có.",
+  "hook_type": [
+    "Gây tranh cãi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán bún bò, phở ở Tân Phú với điểm nhấn là thịt nóng, bò viên gân và mỡ nổi. Người review chia sẻ trải nghiệm cá nhân và đánh giá chất lượng món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

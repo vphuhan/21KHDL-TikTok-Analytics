@@ -1,0 +1,76 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món sữa bắp thạch lá dứa và công dụng giải nhiệt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món nước mới."
+    },
+    {
+      "step": "Nấu thạch lá dứa",
+      "desc": "Hướng dẫn chi tiết cách làm thạch lá dứa xanh mướt, dai ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú với màu xanh bắt mắt của thạch."
+    },
+    {
+      "step": "Nấu sữa bắp",
+      "desc": "Hướng dẫn nấu sữa bắp thơm ngon, béo ngậy, không bị tách lớp.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến bí quyết nấu sữa bắp không bị tách lớp."
+    },
+    {
+      "step": "Kết hợp và thưởng thức",
+      "desc": "Hướng dẫn cách kết hợp sữa bắp và thạch, gợi ý thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Háo hức muốn thử món sữa bắp thạch lá dứa."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Cuối tuần này á thì cả nhà mua nguyên liệu về á mình nấu thử đi nha.",
+    "Hưng bảo đảm á là ngon dữ lắm."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "mát",
+    "ngon",
+    "xuất sắc",
+    "hài lòng",
+    "tốt cho sức khỏe",
+    "ngon dữ lắm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Với cái thời tiết này á mình kinh doanh nước uống mát này hoặc là nước trái cây á là đúng bài luôn á cả nhà.",
+    "Cái màu xanh của lá dứa, nhìn xuất sắc quá chừng luôn cả nhà ha.",
+    "Phần thạch lá dứa mà nấu theo công thức vừa rồi của Hưng á nó vừa mềm, vừa dai, ăn rất là ngon."
+  ],
+  "hook_content": "Hổm rài á thời tiết nắng nóng quá chừng cho nên á bữa nay Hưng nấu nguyên nồi sữa bắp thạch lá dứa nè, uống cho nó mát.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn nấu sữa bắp thạch lá dứa giải nhiệt mùa hè, chia sẻ bí quyết để thạch xanh mướt, dai ngon và sữa bắp không bị tách lớp. Người nấu khuyến khích người xem tự làm tại nhà.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

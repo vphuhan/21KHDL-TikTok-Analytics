@@ -1,0 +1,94 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bánh mì",
+      "desc": "Giới thiệu các loại bánh mì hot trên mạng và giá cả.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự khác biệt giữa các loại."
+    },
+    {
+      "step": "So sánh chả",
+      "desc": "So sánh độ dày, màu sắc và hương vị của các loại chả.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự so sánh chi tiết."
+    },
+    {
+      "step": "Thử thách bịt mắt",
+      "desc": "Bịt mắt và đoán bánh mì để kiểm tra hương vị thật.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thú vị với thử thách."
+    },
+    {
+      "step": "Đánh giá tổng quan",
+      "desc": "Đánh giá bánh mì không thêm sốt và nêu cảm nhận.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ kết luận cuối cùng."
+    },
+    {
+      "step": "So sánh pate",
+      "desc": "So sánh hương vị pate của các loại bánh mì khác nhau.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị pate đặc trưng."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Đưa ra kết luận về loại bánh mì ấn tượng nhất.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình với kết luận."
+    },
+    {
+      "step": "Lời nhắn nhủ",
+      "desc": "Gửi lời đến quán Bơ Cốm và nhắn nhủ mọi người.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thông điệp tích cực."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người rất là nhiều."
+  ],
+  "cta_type": [
+    "Chia sẻ"
+  ],
+  "emotion_keywords": [
+    "ngọt",
+    "chua",
+    "béo",
+    "thơm",
+    "đậm đà",
+    "ngon",
+    "giòn",
+    "ấn tượng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trên mạng những ổ bánh mì hot nhất TikTok. Ngoài đời bánh mì Huỳnh Hoa, bánh mì Bà Huynh, bánh mì Bơ Cốm, bánh mì Hoàng Lam.",
+    "Nếu nhưng mà giống nhau á, cùng nhập một xưởng thì đôi khi là cái xưởng nó cũng có nhiều loại, loại 1 loại 2 loại 3 thì sao hay gì đó mà mình cũng chưa chắc là cùng nhập một chỗ nữa bạn bên đây nói vậy thôi.",
+    "Với mình thì chỉ cần sai là mình xin lỗi, chỉ cần cảm thấy nó có trục trặc mình sẽ sẵn sàng quay lại và cái gì drama ẩn được thì ẩn. Nên là mọi người không cần phải tìm nữa đâu."
+  ],
+  "hook_content": "Thì mình còn chèn thêm hai lớp giấy nữa. Trên mạng những ổ bánh mì hot nhất TikTok.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "So sánh",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review và so sánh các loại bánh mì hot nhất trên TikTok như Huỳnh Hoa, Bà Huynh, Bơ Cốm, tập trung vào hương vị chả, pate và độ giòn của bánh mì, đồng thời thử thách bịt mắt để đánh giá khách quan hơn. Cuối cùng, người làm video đưa ra cảm nhận cá nhân và nhắn nhủ đến một nhãn hàng.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

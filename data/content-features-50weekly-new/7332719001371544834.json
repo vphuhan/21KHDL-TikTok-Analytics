@@ -1,0 +1,99 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán hủ tiếu nổi tiếng ở chợ Bà Chiểu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán ăn."
+    },
+    {
+      "step": "Trải nghiệm hủ tiếu nước",
+      "desc": "Reviewer thử món hủ tiếu nước và miêu tả hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng hương vị."
+    },
+    {
+      "step": "Khám phá hủ tiếu khô",
+      "desc": "Thấy nhiều người ăn khô nên reviewer cũng gọi thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn thử."
+    },
+    {
+      "step": "Đánh giá hủ tiếu khô",
+      "desc": "Miêu tả chi tiết hương vị và topping của hủ tiếu khô.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy đói bụng."
+    },
+    {
+      "step": "Nhận xét topping",
+      "desc": "Đánh giá cao miếng sườn mềm và đậm vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn thử miếng sườn."
+    },
+    {
+      "step": "So sánh và xếp hạng",
+      "desc": "Reviewer đánh giá hủ tiếu trộn ngon hơn hủ tiếu nước.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình với đánh giá."
+    },
+    {
+      "step": "Thông tin quán",
+      "desc": "Giới thiệu về quán hủ tiếu gia truyền gần chợ Bà Chiểu.",
+      "impact_level": "2",
+      "viewer_emotion": "Ghi nhớ địa chỉ quán."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giới thiệu toàn thể anh em bà con nhá. Đây là quán hủ tiếu của cô Phúc ở gần chợ Bà Chiểu. Bao đỉnh bao ngon."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "nghi ngút khói",
+    "thơm phưng phức",
+    "chất lượng",
+    "cực kỳ đậm đà",
+    "ướt át",
+    "thơm",
+    "ấn tượng",
+    "mềm",
+    "ngon",
+    "đầy đặn",
+    "đỉnh",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "7 ngày ở Sài Gòn thì kiểu gì cũng sẽ phải có 3 ngày là tôi đi ăn hủ tiếu",
+    "Cái nước hủ tiếu ở đây nó là một cái điểm nhấn cực kỳ hút khách luôn. Kiểu nó thơm, nghi ngút khói, hòa quyện với cả cái mùi nước xương trần tôm nữa thơm phưng phức.",
+    "Giới thiệu toàn thể anh em bà con nhá. Đây là quán hủ tiếu của cô Phúc ở gần chợ Bà Chiểu. Bao đỉnh bao ngon."
+  ],
+  "hook_content": "cho con một tô hủ tiếu nước ạ. Đầy đủ nhá, cái gì cũng có ạ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán hủ tiếu Nam Vang nổi tiếng gần chợ Bà Chiểu, tập trung vào trải nghiệm ăn thử cả hủ tiếu nước và hủ tiếu khô, đồng thời giới thiệu về lịch sử lâu đời của quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

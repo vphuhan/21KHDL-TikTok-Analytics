@@ -1,0 +1,89 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu hộp mắc ca đặc sản Tây Nguyên, size chung.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Mở hộp và nhận xét ban đầu",
+      "desc": "Mở hộp mắc ca, nhận xét về dụng cụ tách hạt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về chất lượng hạt mắc ca."
+    },
+    {
+      "step": "Thao tác tách hạt",
+      "desc": "Dùng dụng cụ tách hạt mắc ca, có vẻ hơi khó khăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự vất vả khi tách hạt."
+    },
+    {
+      "step": "Nếm thử và đánh giá",
+      "desc": "Ăn thử hạt mắc ca và đưa ra cảm nhận: bùi, giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn biết hương vị thật sự của hạt mắc ca."
+    },
+    {
+      "step": "Kết hợp với sữa đặc",
+      "desc": "Ăn hạt mắc ca với sữa đặc và đánh giá hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với cách kết hợp mới lạ."
+    },
+    {
+      "step": "Nhấn mạnh dinh dưỡng",
+      "desc": "Nhấn mạnh giá trị dinh dưỡng của hạt mắc ca.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy được lợi ích của việc ăn hạt mắc ca."
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Khuyên nên ăn hạt mắc ca để đầy đủ dinh dưỡng.",
+      "impact_level": "1",
+      "viewer_emotion": "Gợi ý hữu ích về chế độ ăn uống."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Các bạn nên thử nhá."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "bùi",
+    "giòn",
+    "béo",
+    "ngậy",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Hạt Macca là đặc sản của Tây Nguyên, nó chứa nhiều dinh dưỡng.",
+    "Thỉnh thoảng ăn sang một tí cho đầy đủ dinh dưỡng các bạn nhỉ?"
+  ],
+  "hook_content": "ăn thử với sữa đặc nha các bạn ơi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video review hạt mắc ca đặc sản Tây Nguyên, từ khâu mở hộp, tách hạt đến ăn thử và đánh giá hương vị khi ăn riêng và kết hợp với sữa đặc. Video cũng đề cập đến giá trị dinh dưỡng của hạt mắc ca và khuyến khích người xem nên thử.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

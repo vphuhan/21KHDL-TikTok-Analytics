@@ -1,0 +1,91 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Nêu lý do nên ăn đậu đen và giới thiệu món đậu đen ngâm giấm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về lợi ích của đậu đen."
+    },
+    {
+      "step": "Chuẩn bị đậu đen",
+      "desc": "Rửa sạch và ngâm đậu đen trong nước bốn tiếng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thao tác chuẩn bị nguyên liệu."
+    },
+    {
+      "step": "Hấp đậu đen",
+      "desc": "Hấp đậu đen trong nửa tiếng đến khi bóp nát được.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, tiếp tục làm theo hướng dẫn."
+    },
+    {
+      "step": "Đánh trứng",
+      "desc": "Đánh tan hai quả trứng gà.",
+      "impact_level": "1",
+      "viewer_emotion": "Ngạc nhiên vì có trứng gà trong công thức."
+    },
+    {
+      "step": "Ngâm đậu đen với giấm",
+      "desc": "Cho đậu đen, đường phèn, giấm táo vào hũ và đậy kín.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với công thức mới."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Bảo quản 3 ngày rồi ăn mỗi sáng một muỗng nhỏ.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong muốn thử làm và trải nghiệm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Kiến thức",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "xứng đáng cho bạn nhấn nút thích và lưu lại",
+    "mời bạn cùng lưu lại và trổ tài nhé"
+  ],
+  "cta_type": [
+    "Thích video",
+    "Lưu video",
+    "Chia sẻ công thức",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "chua ngọt",
+    "hương đậu phong phú",
+    "bất ngờ",
+    "khỏe mạnh",
+    "hạnh phúc",
+    "phát tài",
+    "tốt bụng",
+    "yêu thương"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Vì đậu đen là vua của các loại đậu, chất dinh dưỡng thật sự rất phong phú.",
+    "một loạt món ăn chứa chất bổ sung, cũng chẳng thể bằng một nắm đậu đen, đậu đen chứa rất nhiều protein và khoáng chất, ăn thường xuyên rất nhiều lợi ích.",
+    "Ngâm đậu đen trong giấm như thế này, khi xong nó có vị chua ngọt, hương đậu phong phú, mỗi sáng ăn một muỗng nhỏ, ăn trong một thời gian, bạn sẽ có những phát hiện bất ngờ đó"
+  ],
+  "hook_content": "Bạn có biết người trung niên, tại sao nên ăn nhiều đậu đen không?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm đậu đen ngâm giấm, món ăn dưỡng sinh tốt cho sức khỏe, đặc biệt là người trung niên. Món ăn này có vị chua ngọt, hương đậu phong phú và mang lại nhiều lợi ích bất ngờ.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

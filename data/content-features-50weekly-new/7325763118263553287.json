@@ -1,0 +1,76 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu combo salami như một món ăn sang chảnh ngày Tết.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm được giới thiệu."
+    },
+    {
+      "step": "Trải nghiệm sản phẩm",
+      "desc": "Bắt đầu thử từng vị salami và chia sẻ cảm nhận.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với phần review chi tiết."
+    },
+    {
+      "step": "So sánh các vị",
+      "desc": "So sánh mùi vị và kết cấu của từng loại salami.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung vào phần so sánh hương vị."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Đưa ra kết luận về các loại salami đã thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình hoặc không đồng tình với đánh giá."
+    },
+    {
+      "step": "Nhấn mạnh dịp sử dụng",
+      "desc": "Gợi ý đây là món quà biếu sang trọng dịp Tết.",
+      "impact_level": "1",
+      "viewer_emotion": "Lưu ý về gợi ý quà biếu."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "ngậy",
+    "béo",
+    "mặn",
+    "chua"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Thế nên tôi đã tìm được một thứ giúp Tết này tranh sản mà đỡ phải ngủ gầm cầu. Combo salami.",
+    "Mọi người ơi, cái vị này ấy giống như kiểu mình đang ăn giò ấy, giò ăn giò của Việt Nam vãi.",
+    "Cái món này thì mình nghĩ là để ăn Tết nó sẽ cực kỳ là sang chảnh mà đặc biệt là nếu như đem đi biếu ấy thì nó là một cái món quà gọi là kiểu quý tộc, kiểu xịn xịn ấy mọi người."
+  ],
+  "hook_content": "Tôi đã chi đến 30 triệu chỉ để mua một cái đùi lợn.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review combo salami gồm nhiều vị khác nhau, người nói thử và đưa ra cảm nhận về từng loại, so sánh với các món ăn Việt Nam quen thuộc và gợi ý đây là món quà biếu sang trọng dịp Tết.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

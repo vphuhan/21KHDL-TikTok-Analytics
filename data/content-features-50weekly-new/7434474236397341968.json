@@ -1,0 +1,90 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Mô tả món nộm bò cà pháo và gợi ý nên thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chọn nguyên liệu",
+      "desc": "Hướng dẫn chọn thịt bò và sơ chế cà pháo.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích."
+    },
+    {
+      "step": "Ướp và xào thịt bò",
+      "desc": "Hướng dẫn ướp và xào thịt bò đúng cách.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ món ăn hoàn thành."
+    },
+    {
+      "step": "Pha nước chấm",
+      "desc": "Hướng dẫn pha nước chấm hoặc dùng sản phẩm có sẵn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy tiện lợi."
+    },
+    {
+      "step": "Trộn gỏi",
+      "desc": "Hướng dẫn trộn gỏi theo thứ tự để thấm vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử ngay."
+    },
+    {
+      "step": "Trình bày và thưởng thức",
+      "desc": "Gợi ý cách bày trí và các món ăn kèm.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Lời kêu gọi",
+      "desc": "Khuyến khích thử món ăn nếu chưa biết ăn gì.",
+      "impact_level": "1",
+      "viewer_emotion": "Gợi ý nhẹ nhàng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Nếu mà bữa nay chưa có biết ăn cái gì thì mấy bà tham khảo thử cái món này nhen."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "chua chua ngọt ngọt cay the",
+    "đã",
+    "hấp dẫn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trời ơi, nó ăn ngon nhất cái nách luôn á.",
+    "Linh hồn của cái món nộm gỏi bò này chính là cái nước chấm.",
+    "Trời ơi em nói cái gỏi này nó chua chua ngọt ngọt cay the ăn đã lắm đó mấy chị ơi."
+  ],
+  "hook_content": "Thịt bò này mua về á, mấy chị đừng có làm cái gì phức tạp hết trơn á. Thử làm cái nộm bò cà pháo này ăn thử đi.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món nộm bò cà pháo đơn giản tại nhà, từ khâu chuẩn bị nguyên liệu, ướp thịt bò, pha nước chấm đến trộn gỏi và thưởng thức. Món ăn có vị chua ngọt cay hấp dẫn, thích hợp để ăn chơi hoặc lai rai.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

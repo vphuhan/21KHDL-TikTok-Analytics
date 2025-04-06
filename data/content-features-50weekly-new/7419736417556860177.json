@@ -1,0 +1,89 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu thử thách",
+      "desc": "Thách cộng đồng mạng ăn mì cay cấp độ 7 và giới thiệu món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ cay của món mì."
+    },
+    {
+      "step": "Trải nghiệm ăn uống",
+      "desc": "Ăn mì cay cấp độ 7 và uống Sprite để giải cay.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm giác cay nồng và sảng khoái."
+    },
+    {
+      "step": "Đánh giá sản phẩm",
+      "desc": "Đánh giá hương vị của mì cay và Sprite.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với sự kết hợp hương vị."
+    },
+    {
+      "step": "Kêu gọi hành động",
+      "desc": "Khuyến khích xem tuyển tập ăn cay có Sprite trên Grab Food.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không quá ấn tượng."
+    },
+    {
+      "step": "Nhấn mạnh trải nghiệm",
+      "desc": "Khẳng định ăn đồ cay có Sprite rất ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình với trải nghiệm."
+    },
+    {
+      "step": "Hướng dẫn đặt hàng",
+      "desc": "Hướng dẫn đặt hàng combo cay trên Grab Food.",
+      "impact_level": "1",
+      "viewer_emotion": "Không có cảm xúc đặc biệt."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Vô xem thử liền đi cả nhà.",
+    "Cả nhà muốn ăn cay mà ngon miệng thì lên thử Grab Food order liền với spicy combo để dặn ngay một lo Sprite cho mỗi lần order nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "cay",
+    "ngon",
+    "đã",
+    "mát lạnh",
+    "bùng vị"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn cay, xong uống miếng Sprite hương chanh kiểu bùng vị.",
+    "Đây đúng kiểu là ăn cay ngon hơn khi có Sprite nha mọi người.",
+    "Sprite tạo hẳn một cái tuyển tập là ăn cay có Sprite, càng cay càng đã cả nhà ơi"
+  ],
+  "hook_content": "Ổ thách cộng đồng mạng ăn mì cay cấp độ 7. Cay vãi nhờ.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kịch hóa"
+  ],
+  "summarization": "Video mukbang thử thách ăn mì cay cấp độ 7 kết hợp với Sprite để tăng thêm hương vị và giảm độ cay. Người ăn đánh giá cao sự kết hợp này và khuyến khích mọi người thử.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

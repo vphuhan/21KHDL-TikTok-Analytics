@@ -1,0 +1,88 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu quán trà trái cây và sự khác biệt giá online/offline.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự chênh lệch giá."
+    },
+    {
+      "step": "Đánh giá ly đầu tiên",
+      "desc": "Nhận xét ly trà nho mẫu đơn nhạt nhẽo, trái cây không tươi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thất vọng về chất lượng."
+    },
+    {
+      "step": "Đánh giá ly thứ hai",
+      "desc": "Nhận xét trà lựu chất lượng, giá cả hợp lý.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự khác biệt."
+    },
+    {
+      "step": "Đánh giá trà sữa thái xanh",
+      "desc": "Ngạc nhiên với sự kết hợp sầu riêng, hương vị độc đáo.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ và thích thú."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Đưa ra quan điểm review cá nhân, khuyên nên thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chuyên nghiệp",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Và okay, ai cảm thấy thích thì nên thử những cái món đây.",
+    "Và những cái bình luận của mình mọi người cũng đừng nên tin, hãy tự đến tự cảm nhận."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Chia sẻ"
+  ],
+  "emotion_keywords": [
+    "thắc mắc",
+    "buồn",
+    "lạc nhách",
+    "chua",
+    "chất lượng",
+    "vừa",
+    "ổn định",
+    "dễ thương",
+    "lạ miệng",
+    "thơm",
+    "dễ thương"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trà sữa có thêm múi sầu riêng như vậy thì bốn chục băm thôi.",
+    "Với mình một review, là phải nói đúng trọng tâm, thứ hai là phải nói đúng sự thật, thứ ba là không đánh tráo khái niệm.",
+    "Xin lỗi vì clip hơi ồn."
+  ],
+  "hook_content": "Cái ly này nó nó lạc nhách hả.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review quán trà trái cây Lúc Anh Lúc Ánh, tập trung vào trải nghiệm thực tế và so sánh giá cả online/offline. Người review đánh giá các loại trà khác nhau, đặc biệt ấn tượng với trà sữa thái xanh sầu riêng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

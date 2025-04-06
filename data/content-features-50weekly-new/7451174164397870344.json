@@ -1,0 +1,85 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu đào ngâm của chị Hằng Du Mục, đựng trong thùng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm mới."
+    },
+    {
+      "step": "Mô tả chi tiết",
+      "desc": "Mô tả miếng đào, dụng cụ ăn kèm và số lượng miếng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy rõ ràng, chi tiết về sản phẩm."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá vị đào tươi, ngọt thanh, không ngọt công nghiệp.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn ăn thử."
+    },
+    {
+      "step": "Thử nước ngâm",
+      "desc": "Thử nước ngâm đào, đánh giá vị thanh, chua ngọt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tưởng tượng về hương vị."
+    },
+    {
+      "step": "Gợi ý sử dụng",
+      "desc": "Gợi ý pha trà, làm bánh với đào ngâm.",
+      "impact_level": "2",
+      "viewer_emotion": "Có thêm ý tưởng sử dụng."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Nhấn mạnh đào ngon, khuyên nên thử.",
+      "impact_level": "3",
+      "viewer_emotion": "Tin tưởng vào đánh giá."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bạn nào thích ăn đào thì nên thử.",
+    "Cảm ơn mọi người xem video của mình. Hẹn mọi người video sau, tạm biệt."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thanh",
+    "tươi",
+    "ngọt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cảm giác nó còn nguyên vị đào tươi ấy.",
+    "Nó vị ngọt rất là thanh ấy.",
+    "Nó không giống đào ngâm đâu, nó giống đào tươi."
+  ],
+  "hook_content": "Đây là như kiểu là nửa của đào.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review đào ngâm của chị Hằng Du Mục, tập trung vào hương vị tươi ngon, ngọt thanh, khác biệt so với đào ngâm thông thường và gợi ý cách sử dụng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

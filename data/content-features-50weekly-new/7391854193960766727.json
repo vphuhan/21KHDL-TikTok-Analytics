@@ -1,0 +1,86 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Mở đầu bằng lời chào và giới thiệu về món bún đậu mắm tôm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hứng thú vì món ăn quen thuộc được làm tại nhà."
+    },
+    {
+      "step": "Nêu vấn đề",
+      "desc": "Nhắc đến nem chua rán và việc khó tìm được món ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với khó khăn khi tìm nem chua rán ngon."
+    },
+    {
+      "step": "Quảng cáo",
+      "desc": "Giới thiệu set bún đậu mắm tôm từ Vị Phố và nem chua rán.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm và thương hiệu được nhắc đến."
+    },
+    {
+      "step": "Nhấn mạnh",
+      "desc": "Nhấn mạnh công thức gia truyền và sự đa dạng sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng nhờ thông tin về công thức gia truyền."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Đánh giá mẹt bún đậu xịn sò và nem chua rán ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng khi nghe mô tả về hương vị và hình thức món ăn."
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng ăn và kết thúc video.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử ngay món ăn được giới thiệu."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "giờ thì mời mọi người ăn chung với tui."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "mê",
+    "ngon",
+    "hấp dẫn",
+    "xịn sò",
+    "xuất sắc",
+    "ngon khỏi bàn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "nem chua rán thì dai giòn vừa vị, ăn cùng với tương ớt Bắc cay cay lạ miệng mà bà chị tui gửi kèm chèn ơi xuất sắc luôn",
+    "mọi người nhìn cái chén mắm tôm sủi bọt như vầy là biết ngon cỡ nào rồi hen"
+  ],
+  "hook_content": "Hello mọi người, lại là tui Mập Bự thích nấu ăn đây.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu và đánh giá set bún đậu mắm tôm, đặc biệt là nem chua rán từ Vị Phố Food, với những lời khen về hương vị và chất lượng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

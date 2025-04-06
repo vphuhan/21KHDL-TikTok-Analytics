@@ -1,0 +1,90 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món kim chi cải thảo ăn liền và nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách làm kim chi nhanh gọn."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Sơ chế cải thảo và chuẩn bị hỗn hợp gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy quá trình chuẩn bị khá đơn giản."
+    },
+    {
+      "step": "Trộn kim chi",
+      "desc": "Trộn cải thảo với hỗn hợp gia vị làm kim chi.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung được hương vị của món kim chi."
+    },
+    {
+      "step": "Chuẩn bị bún ốc",
+      "desc": "Rửa ốc và chuẩn bị nước dùng cho bún ốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy đói bụng và thèm ăn bún ốc."
+    },
+    {
+      "step": "Làm bún tươi",
+      "desc": "Tự làm bún tươi tại nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Khâm phục sự khéo tay của người nấu."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu sản phẩm bổ khớp cho ba.",
+      "impact_level": "1",
+      "viewer_emotion": "Quan tâm đến sản phẩm chăm sóc sức khỏe."
+    },
+    {
+      "step": "Hoàn thiện món ăn",
+      "desc": "Cho bún, chả cá và ốc vào nước dùng.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn được ăn ngay tô bún ốc nóng hổi."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "mặn mặn ngọt ngọt",
+    "siêu nhanh",
+    "siêu tiết kiệm",
+    "ăn ngon",
+    "ngủ ngon",
+    "bổ sức khỏe",
+    "tăng cường sức đề kháng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cái loại kim chi cải thảo ăn liền này là một lần ăn là dính luôn.",
+    "Với cái công thức này của mình làm ra là đảm bảo ăn ngon luôn. Riêng này thì nó không có chua, vì nó sẽ mặn mặn ngọt ngọt.",
+    "Như vậy là mình có thể ăn được liền luôn rồi đó, nhưng mà bạn nào thích ăn kim chi thì chua thì không nên làm cách này nha."
+  ],
+  "hook_content": "Nay mình sẽ làm lại cái loại kim chi cải thảo ăn liền này là một lần ăn là dính luôn.",
+  "hook_type": [
+    "Cho thấy kết quả trước",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm kim chi cải thảo ăn liền và nấu bún ốc tại nhà, đồng thời giới thiệu sản phẩm bổ khớp cho người lớn tuổi. Người làm video chia sẻ công thức kim chi nhanh gọn, cách nấu bún ốc hấp dẫn và kinh nghiệm chọn mua sản phẩm chăm sóc sức khỏe.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Khách du lịch, người Việt ở nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu mùa thu Hà Nội",
+      "desc": "Mô tả thời tiết mát mẻ và trải nghiệm hát quốc ca buổi sáng.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thư thái và muốn trải nghiệm."
+    },
+    {
+      "step": "Ăn phở Thìn",
+      "desc": "Giới thiệu quán phở Thìn ở Đinh Tiên Hoàng và trải nghiệm ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán phở và muốn thử."
+    },
+    {
+      "step": "Thưởng thức cốm",
+      "desc": "Gợi ý mua cốm ở nhà thờ lớn và thưởng thức cà phê trứng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn và muốn thử các món đặc sản."
+    },
+    {
+      "step": "Ăn cháo đậu cà",
+      "desc": "Giới thiệu món cháo đậu cà và gợi ý nên thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy lạ và muốn tìm ăn thử."
+    },
+    {
+      "step": "Ngắm hoàng hôn Hồ Tây",
+      "desc": "Gợi ý ngắm hoàng hôn Hồ Tây và ăn vặt bỏ bía.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy lãng mạn và muốn đến Hồ Tây."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Các bác nhớ lưu list này lại để trải nghiệm một ngày mùa thu Hà Nội thật là chill và lãng mạn nhá."
+  ],
+  "cta_type": [
+    "Lưu video",
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "mát mẻ",
+    "trong lành",
+    "hào hùng",
+    "béo ngậy",
+    "ngon",
+    "mát",
+    "ngọt",
+    "lãng mạn",
+    "nhức nách",
+    "chill"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Hà Nội đang bước vào mùa đẹp nhất rồi nên là các bác nhất định phải dành ra một ngày để trải nghiệm mùa thu Hà Nội ngay đi thôi.",
+    "Trong cái không khí mát mẻ chớm thu này thật sự là ngắm Hồ Tây nó lãng mạn vô cùng ý.",
+    "Trên tay lại còn cầm thêm cái bỏ bía Thanh Kiều nữa thì đúng là nhức nách, thề luôn các bác mà ăn cái 15.000đ ở đây ý, no đến tối luôn."
+  ],
+  "hook_content": "Hà Nội đang bước vào mùa đẹp nhất rồi nên là các bác nhất định phải dành ra một ngày để trải nghiệm mùa thu Hà Nội ngay đi thôi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video chia sẻ lịch trình một ngày trải nghiệm mùa thu Hà Nội với các hoạt động như ăn phở Thìn, thưởng thức cốm, cà phê trứng, cháo đậu cà và ngắm hoàng hôn Hồ Tây. Kêu gọi người xem lưu lại để trải nghiệm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

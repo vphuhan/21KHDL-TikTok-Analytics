@@ -1,0 +1,76 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu dụng cụ",
+      "desc": "Giới thiệu chasen, chawan và các loại matcha khác nhau.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin cơ bản về dụng cụ."
+    },
+    {
+      "step": "Chuẩn bị matcha",
+      "desc": "Đong matcha, ray bột và thêm nước ấm để hòa tan.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị khi thấy cách chuẩn bị matcha."
+    },
+    {
+      "step": "Đánh matcha",
+      "desc": "Hướng dẫn cách đánh matcha đúng cách để tạo bọt mịn.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với kỹ thuật đánh matcha."
+    },
+    {
+      "step": "Làm mịn bọt",
+      "desc": "Loại bỏ bọt lớn để matcha mịn và hấp dẫn hơn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị khi thấy cách làm mịn bọt."
+    },
+    {
+      "step": "Pha chế đồ uống",
+      "desc": "Thêm nước đường, sữa và đá để hoàn thành đồ uống.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy ngon miệng với cách pha chế."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Giới thiệu cách uống matcha cơ bản và ngon nhất.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử ngay cách uống này."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Kiến thức",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Hôm nay mình sẽ tập trung vào cái cách đánh matcha thôi thay vì là công thức.",
+    "Giai đoạn đánh thì rất là quan trọng trong cái việc là kích hoạt được cái vị umami từ matcha cũng như là tăng cái độ thơm và cái độ mịn khi mà mọi người đổ ở trong sữa ấy.",
+    "Và đây là cách uống matcha cơ bản nhất cũng là cách uống ngon nhất."
+  ],
+  "hook_content": "Mọi người đừng vội bỏ cuộc nếu như mà làm matcha tại nhà không có được như ý nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn chi tiết cách đánh matcha đúng chuẩn để tạo ra matcha latte thơm ngon tại nhà, tập trung vào kỹ thuật đánh và làm mịn bọt để tăng hương vị.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

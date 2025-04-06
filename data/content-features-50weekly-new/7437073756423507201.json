@@ -1,0 +1,90 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món thịt heo ngâm bia chiên và hải sản hấp.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy món ăn hấp dẫn, muốn xem cách làm."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Hướng dẫn chọn và sơ chế thịt heo, tôm, ghẹ.",
+      "impact_level": "2",
+      "viewer_emotion": "Nắm được các bước chuẩn bị nguyên liệu."
+    },
+    {
+      "step": "Giới thiệu nồi chiên hấp",
+      "desc": "Giới thiệu và khoe nồi chiên hấp mới mua.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy sản phẩm tiện lợi và hiện đại."
+    },
+    {
+      "step": "Hấp hải sản",
+      "desc": "Thực hiện hấp tôm, ghẹ bằng nồi chiên hấp.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được tính năng hấp của nồi."
+    },
+    {
+      "step": "Pha nước chấm",
+      "desc": "Hướng dẫn làm nước chấm Thái.",
+      "impact_level": "2",
+      "viewer_emotion": "Ghi lại công thức nước chấm."
+    },
+    {
+      "step": "Chiên thịt heo ngâm bia",
+      "desc": "Chiên thịt heo đã ngâm bia bằng nồi.",
+      "impact_level": "3",
+      "viewer_emotion": "Thấy món thịt chiên vàng ruộm hấp dẫn."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Thưởng thức và đánh giá món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng và muốn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bữa nào mà mấy bà chưa biết nấu cái gì mấy bà tham khảo thử cái món này đi.",
+    "Nếu mà dở hen, bắt đền em cái gì em cũng chịu nè."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "mê",
+    "đã"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Từ ngày em biết cái thịt heo mà ngâm với bia rồi đem đi chiên lên ăn ngon hơn bình thường á là cứ một tuần em làm một hai lần em ăn vậy mấy chị ơi.",
+    "Đâu có cần mấy bà phải mua một cái nồi hấp riêng rồi một cái nồi chiên không dầu riêng đâu, tích hợp vô trong một cái nồi luôn, vừa đẹp, vừa gọn mà càng vừa sang nữa.",
+    "Thịt đem đi chiên lên á không có dầu mỡ nha, mà em không có trở thịt luôn, miếng thịt nó mềm, ngọt từ bên trong luôn á."
+  ],
+  "hook_content": "từ ngày em biết cái thịt heo mà ngâm với bia rồi đem đi chiên lên ăn ngon hơn bình thường á là cứ một tuần em làm một hai lần em ăn vậy mấy chị ơi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ cách làm món thịt heo ngâm bia chiên và hải sản hấp bằng nồi chiên hấp đa năng, đồng thời giới thiệu và đánh giá về sản phẩm nồi chiên hấp.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán lòng ngon ba đời, địa điểm bán đến 4h sáng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán ăn lâu đời."
+    },
+    {
+      "step": "Gọi món và giá",
+      "desc": "Đi năm người gọi nhiều món hết gần 700k, giá cả phải chăng.",
+      "impact_level": "1",
+      "viewer_emotion": "Quan tâm đến giá cả và số lượng món."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Nhận xét các món ăn đều được trau chuốt, hương vị ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với đánh giá tích cực."
+    },
+    {
+      "step": "Mô tả chi tiết",
+      "desc": "Mô tả chi tiết lòng trần thập cẩm, dồi, nộm tai heo.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung được hương vị các món."
+    },
+    {
+      "step": "Nhấn mạnh đặc biệt",
+      "desc": "Ngầm chấm sốt ớt là món nên thử.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn thử ngay món ngầm chấm sốt ớt."
+    },
+    {
+      "step": "Thông tin thêm",
+      "desc": "Cháo lòng được nhiều người ưa thích, không gian quán thoải mái.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết thêm thông tin hữu ích."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Giới thiệu lại tên quán và khuyến khích mọi người tham khảo.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhớ địa điểm để tham khảo."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mọi người tham khảo thử xem sao"
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "mềm mịn",
+    "hợp",
+    "ngon nha",
+    "thoải mái"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn không khác gì thạch luôn, cực kì mềm mịn.",
+    "Không biết dùng từ gì để diễn tả hết độ ngon của miếng ngầm chấm cùng sốt ớt ấy mọi người, highly recommend mọi người gọi đĩa này.",
+    "nắm giữ kha khá bí mật của các anh em đấy"
+  ],
+  "hook_content": "Chị à, tên là Thảo, chị sinh năm 95.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu quán lòng ngon có tuổi đời 3 đời, mở đến 4h sáng. Quán có nhiều món ngon như lòng trần thập cẩm, dồi, nộm tai heo, đặc biệt là món ngầm chấm sốt ớt.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

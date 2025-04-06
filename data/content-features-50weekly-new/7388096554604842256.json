@@ -1,0 +1,83 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ba chỉ sốt tắc và khuyến khích làm thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Sơ chế và ướp thịt",
+      "desc": "Hướng dẫn cắt thịt và ướp với gia vị, trứng gà.",
+      "impact_level": "1",
+      "viewer_emotion": "Chú ý các bước thực hiện."
+    },
+    {
+      "step": "Pha sốt tắc",
+      "desc": "Hướng dẫn pha nước sốt với các nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với công thức đơn giản."
+    },
+    {
+      "step": "Chuẩn bị chiên thịt",
+      "desc": "Trộn thịt đã ướp với bột bắp.",
+      "impact_level": "1",
+      "viewer_emotion": "Tập trung vào công đoạn chiên."
+    },
+    {
+      "step": "Chiên thịt",
+      "desc": "Chiên thịt trong chảo nóng.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ thành phẩm."
+    },
+    {
+      "step": "Hoàn thiện món ăn",
+      "desc": "Phi thơm hành tỏi, cho sốt và thịt vào đảo đều.",
+      "impact_level": "3",
+      "viewer_emotion": "Hấp dẫn bởi màu sắc và hương vị."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Nhấn mạnh món ăn rất ngon khi ăn với cơm.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn làm thử ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "cay cay",
+    "đã"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Bạn nào nghĩ ra món ba chỉ sốt tắc này ngon quá trời ngon luôn.",
+    "Cái công thức sốt tắc này á thì dễ lắm, có bốn nguyên liệu chính à.",
+    "Mấy món sốt mà cho sa tế hay là tương ớt vô, nó phải cay cay vậy á, ăn nó mới đã."
+  ],
+  "hook_content": "Công nhận, bạn nào nghĩ ra món ba chỉ sốt tắc này ngon quá trời ngon luôn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm món ba chỉ sốt tắc đơn giản tại nhà với công thức sốt tắc dễ làm và các bước chiên thịt không bị dính.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

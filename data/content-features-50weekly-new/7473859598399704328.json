@@ -1,0 +1,98 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Yêu cầu Miliket làm marketing, review mì trộn ba vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm được nhắc đến."
+    },
+    {
+      "step": "Miêu tả bao bì",
+      "desc": "Đánh giá thiết kế bao bì giấy lạ mắt, hiện đại.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự khác biệt của sản phẩm."
+    },
+    {
+      "step": "Miêu tả sợi mì",
+      "desc": "Sợi mì to, dài, dai, có gói sốt và rau củ.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ được thưởng thức sợi mì dai ngon."
+    },
+    {
+      "step": "Trộn và nếm thử",
+      "desc": "Trộn mì và nếm thử vị đầu tiên: thịt xông khói.",
+      "impact_level": "3",
+      "viewer_emotion": "Háo hức muốn biết hương vị của mì."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Mì béo, cay, thơm, ngon hơn nhiều loại khác.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn ăn thử ngay lập tức."
+    },
+    {
+      "step": "Nếm thử vị khác",
+      "desc": "Nếm thử vị phô mai, đánh giá sợi mì ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy tò mò và muốn thử vị phô mai."
+    },
+    {
+      "step": "Nếm thử vị cuối",
+      "desc": "Nếm thử vị chua cay chanh, sợi mì ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm vị chua cay hấp dẫn."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Ngon nha mọi người nên thử nha nhưng mà cay nha, lưu ý là cả ba loại này đều rất là cay."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "béo",
+    "cay",
+    "thơm",
+    "thèm",
+    "ấn tượng",
+    "ngon điên"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tao nói mua cái mì này giống như là lặn xuống biển mà tìm viên ngọc của Long Vương luôn á má.",
+    "Mình ấn tượng cái sốt là là là chín nhưng mà cái sợi mì này là 10.",
+    "Thật sự là ngon điên á."
+  ],
+  "hook_content": "Bi yêu cầu Miliket lập tức cho người tiêu dùng một câu trả lời. Tại sao cái mì giấy này làm ra mà không chịu marketing vậy?",
+  "hook_type": [
+    "Gây tò mò",
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review mì Miliket với bao bì giấy độc đáo và ba hương vị khác nhau. Người review đánh giá cao sợi mì dai ngon, đậm đà hương vị và khuyến khích mọi người nên thử.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

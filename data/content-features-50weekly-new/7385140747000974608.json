@@ -1,0 +1,84 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu thử thách",
+      "desc": "Giới thiệu về thử thách ăn hết mâm cơm để nhận thưởng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về thử thách."
+    },
+    {
+      "step": "Mô tả chi tiết",
+      "desc": "Thông tin chi tiết về thể lệ, khối lượng và thành phần món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thú vị với thông tin chi tiết."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá hương vị nước sốt, cơm và thịt hầm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món ăn."
+    },
+    {
+      "step": "So sánh",
+      "desc": "So sánh trứng kho với trứng luộc trong mukbang Trung Quốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung rõ hơn về món ăn."
+    },
+    {
+      "step": "Thông báo kết quả",
+      "desc": "Thông báo đã hoàn thành thử thách và nhận phần thưởng.",
+      "impact_level": "3",
+      "viewer_emotion": "Chúc mừng người chiến thắng."
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu về công thức gia truyền của món cơm thịt hầm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị độc đáo."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người nhanh tay tới ngay Hey Lu Lu để trải nghiệm thử thách này nhen"
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "dễ chịu",
+    "mềm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bạn nào mà ăn khỏe thì nhất định phải xem hết cái video này nha.",
+    "Đã tới Hay Lulu rồi thì mọi người không được bỏ qua cái nước sốt này nha, mặn mặn ngọt ngọt, thơm mùi tỏi chan với cơm ăn ngon số zách luôn.",
+    "Vậy thì còn chần chừ gì nữa mà không mau đến Hay Lulu để vừa được trải nghiệm một món ăn ngon vừa nhận ngay phần thưởng giá trị"
+  ],
+  "hook_content": "Bạn nào mà ăn khỏe thì nhất định phải xem hết cái video này nha.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu thử thách ăn hết mâm cơm thịt hầm Singapore tại Hay Lulu để nhận thưởng 1 triệu đồng. Người tham gia đánh giá cao hương vị và trải nghiệm tại quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

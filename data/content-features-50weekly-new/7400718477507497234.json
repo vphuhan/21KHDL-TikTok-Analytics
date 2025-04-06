@@ -1,0 +1,97 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bún chả và khẳng định độ ngon khó cưỡng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự hấp dẫn của món ăn"
+    },
+    {
+      "step": "Nhấn mạnh yếu tố quan trọng",
+      "desc": "Nhấn mạnh sự quan trọng của ướp thịt và pha nước mắm.",
+      "impact_level": "1",
+      "viewer_emotion": "Tập trung vào các yếu tố chính."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Review nước mắm táo Maggi và chia sẻ trải nghiệm cá nhân.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm được giới thiệu."
+    },
+    {
+      "step": "Chia sẻ bí quyết ướp thịt",
+      "desc": "Hướng dẫn cách ướp thịt và sơ chế nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích với bí quyết được chia sẻ."
+    },
+    {
+      "step": "Nướng thịt và pha mắm",
+      "desc": "Hướng dẫn nướng thịt bằng nồi chiên không dầu và pha mắm.",
+      "impact_level": "2",
+      "viewer_emotion": "Học hỏi quy trình chế biến món ăn."
+    },
+    {
+      "step": "Trình bày và thưởng thức",
+      "desc": "Trình bày món ăn và chia sẻ trải nghiệm thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với món ăn hấp dẫn."
+    },
+    {
+      "step": "Xin ý kiến",
+      "desc": "Hỏi ý kiến người thân về món ăn và giới thiệu sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với phản ứng của người thân."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người nên mua thử cái nước mắm táo Maggi này nha, chay hay mặn dùng đều ngon luôn, mua về rim kho hay là pha nước chấm vô cùng hợp lý.",
+    "Mọi người có thể mua ở siêu thị hay là tạp hóa này đều có."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "yêu",
+    "ngon",
+    "hiếu kỳ",
+    "vừa vặn",
+    "ấm ấm",
+    "ngon",
+    "ngớ người",
+    "quen thuộc",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "phải gọi là mỹ vị nhân gian, tinh hoa hội tụ, nam nữ đều yêu",
+    "10 điểm không có nhưng",
+    "có công mài sắt có ngày nên kim, có công phấn đấu này có ngày nấu cũng ngon"
+  ],
+  "hook_content": "Sẽ thật là thiếu sót nếu như mà trong cái bộ sưu tập bún của mình thiếu đi cái món bún chả, phải gọi là mỹ vị nhân gian, tinh hoa hội tụ, nam nữ đều yêu.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn nấu món bún chả tại nhà, tập trung vào cách ướp thịt và pha nước mắm ngon, đặc biệt là giới thiệu nước mắm táo Maggi. Người nấu chia sẻ bí quyết và kinh nghiệm để món ăn thêm phần hấp dẫn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu xúc xích phô mai đang hot và khó mua.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ hot của sản phẩm."
+    },
+    {
+      "step": "Chế biến",
+      "desc": "Chiên xúc xích với lửa nhỏ cho vàng đều.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ món ăn sau khi chiên."
+    },
+    {
+      "step": "Trải nghiệm vị giác",
+      "desc": "Đánh giá hương vị xúc xích và đặc biệt là phô mai.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung hương vị sản phẩm."
+    },
+    {
+      "step": "Đề xuất cách ăn",
+      "desc": "Gợi ý chấm kèm tương ớt/mayonnaise để tăng vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Ghi nhớ cách ăn ngon hơn."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Nhận xét về giá cả và chất lượng, nên thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Cân nhắc có nên mua thử hay không."
+    },
+    {
+      "step": "Lưu ý khi ăn",
+      "desc": "Ăn khi còn nóng sẽ ngon hơn, xúc xích khá to.",
+      "impact_level": "2",
+      "viewer_emotion": "Note lại tip để trải nghiệm tốt nhất."
+    },
+    {
+      "step": "Show cận cảnh",
+      "desc": "Cho xem cận cảnh phô mai bên trong xúc xích.",
+      "impact_level": "2",
+      "viewer_emotion": "Tăng sự hấp dẫn của sản phẩm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "bất ngờ",
+    "bình thường",
+    "mặn",
+    "thơm",
+    "béo",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cái màu á thì như sữa đặc vậy nha. mà nó rất là sệt nè, nó mặn mặn thơm thơm.",
+    "Ăn tới đâu là cái phô mai nó chảy ra tới đó nha. là đều luôn từ trên đầu xuống tới cái chân luôn á.",
+    "Nói chung thì nhìn xong thì mình chỉ biết cười nhẹ thôi."
+  ],
+  "hook_content": "Hay mọi người, hôm nay mình sẽ thử ăn cái xúc xích ở ngoài Hà Lan này nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review xúc xích phô mai Thái Lan đang hot, tập trung vào hương vị đặc biệt của phô mai và đưa ra đánh giá khách quan về sản phẩm. Người nói cũng chia sẻ kinh nghiệm ăn và bảo quản để có trải nghiệm tốt nhất.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

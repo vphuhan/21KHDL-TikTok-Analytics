@@ -1,0 +1,89 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món hột vịt lộn hấp muối và sự phổ biến của nó.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Chà rửa trứng, chuẩn bị chảo, sả, rau răm và muối hột.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Hướng dẫn cách hấp",
+      "desc": "Hướng dẫn thời gian hấp trứng và lý do nên hấp đúng thời gian.",
+      "impact_level": "2",
+      "viewer_emotion": "Học được mẹo nhỏ để món ăn ngon hơn."
+    },
+    {
+      "step": "Giới thiệu nước chấm",
+      "desc": "Giới thiệu chén muối ớt cay để ăn kèm với hột vịt lộn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng vì có món chấm hấp dẫn."
+    },
+    {
+      "step": "Trải nghiệm món ăn",
+      "desc": "Miêu tả hương vị thơm ngon, nóng hổi của hột vịt lộn hấp muối.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm ăn và muốn thử ngay."
+    },
+    {
+      "step": "Đánh giá và khuyến khích",
+      "desc": "Đánh giá cao món ăn và khuyến khích mọi người nên thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào lời khuyên và muốn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mời mọi người ăn chung với tôi nghe."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngọt ngất ngay",
+    "ngon xuất sắc",
+    "cay sương sương",
+    "tê tái tâm hồn",
+    "thơm",
+    "nóng hổi",
+    "đã quá xá",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tưởng không ngon ai về ngọt ngất ngay con gà tây luôn.",
+    "Ăn trứng ngon như vậy thì làm sao thiếu được một chén muối ớt đâm cay sương sương mà tê tái tâm hồn của tôi hen.",
+    "quẹt thêm miếng muối ớt cay cay nữa là chỉ có đã quá xá thôi."
+  ],
+  "hook_content": "một vịt lộn mà đem đi hấp muối mọi người có ăn thử chưa?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video giới thiệu món hột vịt lộn hấp muối, hướng dẫn cách làm và chia sẻ trải nghiệm hương vị thơm ngon, đậm đà khi ăn kèm với muối ớt. Người làm video khuyến khích mọi người nên thử món ăn này.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

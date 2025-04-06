@@ -1,0 +1,91 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món miến gà ăn theo Tina Thảo Thi và trứng lòng gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn và cách ăn."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Đánh giá tổng quan về miến gà và các thành phần đi kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy món ăn hấp dẫn nhưng cần thêm nước chấm."
+    },
+    {
+      "step": "Thử trứng lòng đào",
+      "desc": "Thử ăn trứng lòng đào và so sánh với clip của Tina.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm giác thích thú khi trứng bắn nhưng hơi tanh."
+    },
+    {
+      "step": "Trộn và ăn thử",
+      "desc": "Trộn trứng lòng đào với miến và đánh giá hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy món ăn vừa vị nhưng dầu hơi nhiều."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Đánh giá chi tiết về thịt gà, tóp mỡ và chất lượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thịt gà chắc và tóp mỡ tự nhiên."
+    },
+    {
+      "step": "So sánh và chấm điểm",
+      "desc": "So sánh với cách ăn của Tina và chấm điểm quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình với việc cần có nước chấm đặc biệt."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Thôi cảm ơn mọi người đã coi clip của mình nha.",
+    "Bye bye."
+  ],
+  "cta_type": [
+    "Thích video",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thích",
+    "vừa phải",
+    "đam mê",
+    "tức",
+    "giòn",
+    "mộc mạc"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tui là thích cái gì mà nó bắn bắn lắm đó, nên là tui phải ăn thử.",
+    "Trời ơi tao nói ăn tới đâu hả đụng vô cái mỏ mà tới đâu rồi nó bắn tới đó. Tui thấy là lần lâu lắm mà tui mới ăn được cái trứng non mà kiểu bắn bắn vậy đó tui thích vậy đó.",
+    "Ăn vô cảm giác rất là đơn giản mộc mạc."
+  ],
+  "hook_content": "Trời ơi, nó bắn quá trời luôn mọi người ơi. Ê, nghe má.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món miến gà và trứng lòng đào theo phong cách Tina Thảo Thi, tập trung vào trải nghiệm ăn trứng lòng đào 'bắn' và đánh giá hương vị tổng quan, đồng thời so sánh với cách ăn của Tina. Người review chấm điểm 7 cho quán vì chất lượng món ăn nhưng thiếu nước chấm đặc biệt.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

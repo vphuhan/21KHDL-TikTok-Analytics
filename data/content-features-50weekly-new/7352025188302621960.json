@@ -1,0 +1,72 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu lọ kẹo trái cây nhập khẩu từ Đức và giá cả.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về sản phẩm"
+    },
+    {
+      "step": "Mô tả chi tiết",
+      "desc": "Mô tả màu sắc, hình dáng, mùi thơm và các vị khác nhau.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với hình thức"
+    },
+    {
+      "step": "Trải nghiệm vị giác",
+      "desc": "Nếm thử từng vị và chia sẻ cảm nhận về hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú muốn thử"
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Nhấn mạnh cảm giác thư giãn và đáng tiền khi ăn kẹo.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "ngon",
+    "chua ngọt",
+    "thư giãn",
+    "bùng nổ"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "khi ăn đồ ngon giảm stress",
+    "ăn bùng nổ và thư giãn thực sự",
+    "thực sự luôn là đáng tiền mua mọi người ạ"
+  ],
+  "hook_content": "Đây là cái lọ kẹo mà khi mình đi siêu thị mình cũng chỉ dám cầm lên sau đấy ngậm ngùi đặt xuống, bởi vì giá của lọ kẹo này không phù hợp với thu nhập của mình.",
+  "hook_type": [
+    "Gây tò mò",
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm",
+    "Đối thoại"
+  ],
+  "summarization": "Video review lọ kẹo trái cây nhập khẩu từ Đức, tập trung vào trải nghiệm hương vị và cảm giác thư giãn khi ăn. Người review đánh giá cao chất lượng và cho rằng đáng tiền.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

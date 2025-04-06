@@ -1,0 +1,85 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món mì cay tự nấu và các nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị với món mì tự nấu."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Hướng dẫn sơ chế các nguyên liệu như xúc xích, hành, bông cải.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung vào hướng dẫn."
+    },
+    {
+      "step": "Pha trộn gia vị",
+      "desc": "Hướng dẫn trộn các gói gia vị với lòng đỏ trứng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị."
+    },
+    {
+      "step": "Luộc và xào",
+      "desc": "Luộc bông cải, trứng lòng đào và xào xúc xích.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm ăn."
+    },
+    {
+      "step": "Nấu mì",
+      "desc": "Xào tỏi, hành, thêm nước, gia vị và mì vào nấu.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức chờ đợi."
+    },
+    {
+      "step": "Thêm topping",
+      "desc": "Thêm phô mai, xúc xích, rau củ và trứng lòng đào.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy hấp dẫn."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Mời mọi người ăn và chia sẻ cảm nhận.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử ngay."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "dính",
+    "ngon",
+    "hợp"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mọi người thử nấu mì cay theo cách này đi, đảm bảo dính nha.",
+    "Mình mix hai gói này lại á, nó không có quá cay đâu mọi người."
+  ],
+  "hook_content": "Mọi người thử nấu mì cay theo cách này đi, đảm bảo dính nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách nấu mì cay kết hợp mì nước và mì phô mai, với các nguyên liệu như xúc xích, hành baro, bông cải và trứng lòng đào. Người nấu chia sẻ các bước sơ chế, pha trộn gia vị, nấu mì và thêm topping để tạo ra món ăn hấp dẫn.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

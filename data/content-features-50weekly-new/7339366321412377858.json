@@ -1,0 +1,90 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu canh bún",
+      "desc": "Giới thiệu quán canh bún rẻ và nhiều topping ở Sài Gòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Đánh giá các thành phần của tô canh bún: óc, chả, riêu,...",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Địa điểm và thời gian",
+      "desc": "Thông tin về địa điểm và thời gian bán của quán canh bún.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu nem lụi",
+      "desc": "Giới thiệu quán nem lụi bánh hỏi trong chợ Nguyễn Văn Trỗi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Đánh giá nem lụi và các thành phần ăn kèm, đặc biệt là đồ chua.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Thông tin thêm",
+      "desc": "Giá cả, thời gian bán và điểm đặc biệt của quán nem lụi.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu bún bò",
+      "desc": "Giới thiệu quán bún bò tốp mỡ sa tế trong chợ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nếu mấy bà biết mấy bà chỉ tui đi nghe."
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "chất lượng",
+    "dễ tính",
+    "thơm mềm",
+    "đậm đà"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nói đây là cái tô canh bún rẻ nhất Sài Gòn cũng không có uổng nữa.",
+    "Ăn cái nem ở đây á nó khác mấy cái chỗ khác á là nạc mỡ xen kẽ, ăn không có bị khô.",
+    "Ở Sài Gòn mà thèm đồ ăn á là cứ vô chợ Nguyễn Văn Trỗi đi."
+  ],
+  "hook_content": "Nói đây là cái tô canh bún rẻ nhất Sài Gòn cũng không có uổng nữa.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video giới thiệu 3 món ăn ngon và rẻ ở chợ Nguyễn Văn Trỗi, bao gồm canh bún, nem lụi bánh hỏi và bún bò tốp mỡ sa tế, kèm theo đánh giá chi tiết và thông tin về địa điểm, giá cả.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

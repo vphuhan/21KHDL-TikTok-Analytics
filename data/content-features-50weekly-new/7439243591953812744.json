@@ -1,0 +1,88 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán Bánh Canh Chìa Hoàng Vũ ở Tân Phú.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về địa điểm quán."
+    },
+    {
+      "step": "Đặc điểm món ăn",
+      "desc": "Mô tả chi tiết về xương chìa và các loại topping.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và muốn thử."
+    },
+    {
+      "step": "Quy trình sơ chế",
+      "desc": "Chia sẻ quy trình sơ chế xương chìa công phu.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với sự tỉ mỉ."
+    },
+    {
+      "step": "Chất lượng nguyên liệu",
+      "desc": "Nhấn mạnh nguyên liệu tươi ngon và cách chế biến.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng."
+    },
+    {
+      "step": "Thời điểm đông khách",
+      "desc": "Thông tin về thời điểm quán đông khách nhất.",
+      "impact_level": "1",
+      "viewer_emotion": "Nắm bắt thông tin hữu ích."
+    },
+    {
+      "step": "Dịch vụ",
+      "desc": "Giới thiệu dịch vụ bán trên app và lượng đơn lớn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tiện lợi và đáng tin cậy."
+    },
+    {
+      "step": "Lời mời",
+      "desc": "Mời khách hàng đến quán để thưởng thức.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn đến trải nghiệm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Xin mời mọi người tới ơ quán của mình, để mà thưởng thức cái món bánh canh chìa.",
+    "Địa chỉ của mình là 385A Tân Sơn Nhì, Phường Tân Thành, Quận Tân Phú, Thành phố Hồ Chí Minh."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon miệng",
+    "vui vẻ",
+    "hài lòng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái xương chìa của mình á là được hầm rất là mềm. Nó gần rục luôn rồi.",
+    "Chìa này là phần bắp sau của con heo, mỗi một con sẽ có hai chìa Tâm và hai chìa Ống, mềm hơn xương ống, mềm hơn cả giò.",
+    "Nước lèo của mình á được được hầm từ rất là nhiều xương và các loại rau củ. Cái vị của nó sẽ rất là ngọt thanh. Ai ăn vào là biết liền."
+  ],
+  "hook_content": "Chạy và chuộng nhất là bánh canh chìa.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu quán Bánh Canh Chìa Hoàng Vũ ở Tân Phú, món bánh canh đặc biệt với xương chìa mềm rục, nước lèo ngọt thanh và nhiều loại topping hấp dẫn, quán mở cửa 24/7 và có bán trên các ứng dụng giao đồ ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán phở",
+      "desc": "Giới thiệu về quán phở Bắc ở Sài Gòn không rau giá.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán phở"
+    },
+    {
+      "step": "Đánh giá không gian",
+      "desc": "Quán có hai tiệm cạnh nhau, đến sớm vẫn phải đợi.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá món phở",
+      "desc": "Tô phở đầy đặn, có tái, tái nạm, tái lăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nước lèo ngon, cảm nhận hương vị bò đậm đà.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng"
+    },
+    {
+      "step": "Nhận xét chung",
+      "desc": "Phở ngon, đậm vị Bắc đến 80%.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử"
+    },
+    {
+      "step": "Địa điểm quán",
+      "desc": "Giới thiệu địa chỉ quán phở Phú Gia ở quận 3.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhớ địa điểm"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Giới thiệu tất cả anh em bà con nhá.",
+    "Đây là phở bò Phú Gia ở quận 3 nhá, rất ngon."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thích",
+    "uy tín"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tôi đánh giá nước lèo ở đây ngon, thề với các bạn chứ khi mà tôi húp một thìa nước lèo nào là tôi phải nhắm mắt lại để cảm nhận feeling, cảm nhận hết tất cả hương vị của con bò từ mũi cho tới đầu lưỡi, xuống tới họng rồi vào trong cả dạ dày.",
+    "Đây là quán phở bò đầu tiên tôi ăn ở Sài Gòn mà dùng quẩy giòn.",
+    "Ôi ngon quá ngon quá phở ơi. I love phở."
+  ],
+  "hook_content": "hai quán là một hả chú? Đúng rồi đúng rồi. Hai bên là một đúng ạ? Dạ vâng.",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán phở bò Phú Gia ở quận 3, Sài Gòn, một quán phở hiếm hoi giữ được hương vị Bắc chuẩn với nước lèo đậm đà và quẩy giòn. Chủ kênh đánh giá cao hương vị và giới thiệu địa điểm cho mọi người.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bánh flan",
+      "desc": "Giới thiệu bánh flan 300k và so sánh kích thước với bánh cũ",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự khác biệt giữa hai bánh flan."
+    },
+    {
+      "step": "Thử matcha latte",
+      "desc": "Uống thử matcha latte và chia sẻ cảm nhận về hương vị",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hơi thất vọng vì vị matcha quá tanh."
+    },
+    {
+      "step": "Nhận xét về bánh flan",
+      "desc": "Đánh giá hình thức và chất lượng bánh flan, so sánh với bánh khác",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy bánh khá ổn nhưng không quá đặc biệt."
+    },
+    {
+      "step": "Thưởng thức bánh flan",
+      "desc": "Thưởng thức bánh flan với cà phê và nêu cảm nhận chi tiết",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy bánh mịn, béo vừa phải, có độ chắc nhất định."
+    },
+    {
+      "step": "So sánh và chấm điểm",
+      "desc": "So sánh bánh flan với bánh khác, chấm điểm và đưa ra lời khuyên",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đánh giá công bằng, khách quan."
+    },
+    {
+      "step": "Giải thích về review",
+      "desc": "Giải thích sự khác biệt giữa review và mukbang, hạ tiêu chuẩn",
+      "impact_level": "1",
+      "viewer_emotion": "Đồng tình với quan điểm về sự khác biệt trong review."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Kết thúc video và hẹn gặp lại trong các video tiếp theo",
+      "impact_level": "1",
+      "viewer_emotion": "Mong chờ các video review tiếp theo."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Và mọi người hãy đón chờ tập bánh flan của Tina nha, bye bye."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "vô lý",
+    "khó xuống",
+    "quảng hồn",
+    "dễ thương",
+    "vừa phải",
+    "tanhtanh",
+    "hoan hỷ",
+    "dễ chịu"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "tao nói trời trời đất ơi, té re",
+    "tao nhắc đến bánh flan là tao muốn quẹo người luôn mà",
+    "review là tôi luôn luôn để cho nó ở một cái mức bình thường, không chấm quá cao cũng không quá khen để cho mọi người không kỳ vọng."
+  ],
+  "hook_content": "Hôm qua tao nói ăn cái bánh flan của Tina, tao nói trời trời đất ơi, té re.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review bánh flan 300k và matcha latte, so sánh với các sản phẩm khác, đồng thời chia sẻ quan điểm về sự khác biệt giữa review và mukbang để người xem có cái nhìn khách quan hơn. Bà Panda đánh giá bánh flan ở mức ổn, không quá đặc biệt và matcha latte có vị tanh.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

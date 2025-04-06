@@ -1,0 +1,83 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món thịt đông má đào và lý do thực hiện.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Thay thế thịt má đào bằng thịt nạc dăm và da heo.",
+      "impact_level": "2",
+      "viewer_emotion": "Học được cách thay thế nguyên liệu."
+    },
+    {
+      "step": "Sơ chế và ướp thịt",
+      "desc": "Luộc sơ thịt, ướp gia vị với nước mắm, tiêu, hạt nêm.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhớ các bước sơ chế."
+    },
+    {
+      "step": "Xào và nấu thịt",
+      "desc": "Xào thịt, thêm nước, da heo, đun nhỏ lửa trong 90 phút.",
+      "impact_level": "1",
+      "viewer_emotion": "Nắm được thời gian nấu."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu khác",
+      "desc": "Ngâm mộc nhĩ, nấm hương, nêm nếm nước dùng.",
+      "impact_level": "2",
+      "viewer_emotion": "Học được bí quyết nêm nếm."
+    },
+    {
+      "step": "Hoàn thành món ăn",
+      "desc": "Cho nấm vào, đun thêm 10 phút, đổ khuôn và làm lạnh.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ kết quả."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Cắt thịt đông và thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "lạ miệng",
+    "thèm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nó món này được cái á là làm lần đầu á kiểu gì cũng thành công liền à.",
+    "Không những phần hình thức á vừa độc đáo, vừa lạ, vừa đẹp mà khi ăn á mình cắt ra thành từng miếng như thế này nè, cũng dễ ăn hơn là món thịt đông truyền thống nữa."
+  ],
+  "hook_content": "Máy này lướt đọc cũng thấy cái món thịt đông má đào này, mình thấy nó vừa hay, vừa lạ mà tưởng tượng thôi là đã thấy ngon rồi.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn nấu món thịt đông má đào phiên bản đơn giản với các nguyên liệu dễ kiếm. Người nấu chia sẻ bí quyết để món ăn vừa ngon vừa dễ thành công ngay lần đầu.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

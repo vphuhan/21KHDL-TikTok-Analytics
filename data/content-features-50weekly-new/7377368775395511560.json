@@ -1,0 +1,74 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu tình hình sức khỏe của con",
+      "desc": "Thông báo con đã khỏe hơn sau khi bị ốm, kể lại sự việc.",
+      "impact_level": "2",
+      "viewer_emotion": "Lo lắng và đồng cảm với tình trạng của con."
+    },
+    {
+      "step": "Đi chợ mua nguyên liệu",
+      "desc": "Đi chợ mua mực tươi ngon, kể về việc con gọi điện liên tục.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự quan tâm của con dành cho mẹ."
+    },
+    {
+      "step": "Chuẩn bị nấu mì cay",
+      "desc": "Quyết định nấu mì cay bạch tuộc vì con thèm ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy ấm áp và yêu thương gia đình."
+    },
+    {
+      "step": "Bày biện và ăn mì cay",
+      "desc": "Cả nhà cùng ăn mì cay với kim chi, củ cải.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn được ăn cùng gia đình."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Các thành viên trong gia đình cùng nhau đánh giá món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự vui vẻ của gia đình."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "sợ",
+    "thương",
+    "ngon",
+    "wow",
+    "ngọt",
+    "thấy ngon",
+    "ngon thiệt luôn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Thấy cái tướng ảnh bự lớn vậy thôi nha, không ẩm được em thôi chứ kéo em là ào ào luôn á.",
+    "Nói chứ thằng Tùng Hân nó bị ốm vậy cái mình canh ngày canh đêm luôn, bây giờ mà kêu mình nấu món gì khác thôi thà mình nhịn ăn luôn á chứ.",
+    "mì có ba gói à mà còn mực tới 25 con, ta nói cái nồi mì này mà ăn với hai loại kim chi, củ cải kim chi cải thảo nữa, trời ơi nhức cái nách luôn á"
+  ],
+  "hook_content": "Hôm qua nay mọi người hả thăm Tùng Hân nhà mình quá trời luôn, bữa nay nó khỏe nhiều rồi mọi người, tỉnh táo hơn hôm qua nữa.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh mẹ nấu mì cay bạch tuộc cho con trai đang ốm, sau đó cả nhà cùng nhau ăn uống vui vẻ. Món ăn được đánh giá là ngon và phù hợp khẩu vị.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

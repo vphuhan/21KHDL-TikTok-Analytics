@@ -1,0 +1,69 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu phô mai sữa nướng mua với giá 215.000 VNĐ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm."
+    },
+    {
+      "step": "Thưởng thức và miêu tả",
+      "desc": "Ăn thử phô mai nướng với sữa đặc và miêu tả hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Đánh giá hương vị và độ ngon của phô mai khi ăn kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến đánh giá."
+    },
+    {
+      "step": "So sánh và kết luận",
+      "desc": "So sánh với lạp xưởng và đưa ra lời khuyên.",
+      "impact_level": "2",
+      "viewer_emotion": "Cân nhắc có nên mua."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "bác nào tò mò thì vẫn có thể thử nhá"
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon mồm",
+    "tạ tạ vui mồm",
+    "ngán",
+    "tò mò"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái vỏ bên ngoài giòn giòn này chấm cùng với sữa đặc, ăn ngon mồm phết luôn.",
+    "Chấm với sữa đặc thì nó có vị sữa đặc, mà chấm với Milo thì nó có vị Milo, hết.",
+    "phần nào nướng xém xém ấy thì ăn cũng được, tạ tạ vui mồm, nhưng mà một hai cái thôi, chứ nhiều thì ngán."
+  ],
+  "hook_content": "Lan đầu thử phô mai sữa nướng ngay tại nhà.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review món phô mai sữa nướng mua với giá 215k, người nói đã ăn thử và đưa ra đánh giá về hương vị cũng như so sánh với các món ăn khác.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

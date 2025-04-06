@@ -1,0 +1,72 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu thử thách",
+      "desc": "Chị gái làm thử thách đi ăn cùng người lạ tại trường FPT.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về người được chọn."
+    },
+    {
+      "step": "Gặp gỡ sinh viên",
+      "desc": "Gặp gỡ các bạn sinh viên và rủ đi ăn quán xiên bẩn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự ngẫu nhiên."
+    },
+    {
+      "step": "Đến quán ăn",
+      "desc": "Đến quán xiên nướng ở đường Đà Nẵng và gọi món.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, giới thiệu quán ăn."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Các bạn sinh viên ăn uống và trò chuyện vui vẻ.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ, thích thú với đồ ăn."
+    },
+    {
+      "step": "Kết thúc bữa ăn",
+      "desc": "Thanh toán và kết thúc buổi ăn cùng người lạ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc sắc."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "rẻ"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đi ăn với chị không chị bao?",
+    "Cái gì đắt nhất em ăn.",
+    "Mấy xiên thịt này mà có 5.000đ thôi á?"
+  ],
+  "hook_content": "Viết này mà lên xu hướng làm sao mà lấy chồng.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video ghi lại hành trình chị gái làm thử thách đi ăn cùng người lạ, cụ thể là các bạn sinh viên trường FPT. Cả nhóm đã cùng nhau đi ăn xiên nướng và trò chuyện vui vẻ.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

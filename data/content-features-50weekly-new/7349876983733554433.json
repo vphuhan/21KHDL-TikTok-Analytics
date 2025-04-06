@@ -1,0 +1,75 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bánh",
+      "desc": "Giới thiệu hai loại bánh Doraemon và cách ăn khác nhau.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với cách giới thiệu hài hước."
+    },
+    {
+      "step": "Báo giá",
+      "desc": "Báo giá bánh lẻ và bánh chục, sẵn sàng giảm giá cho khách.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy vui vẻ vì sự nhiệt tình của người bán."
+    },
+    {
+      "step": "Giải đáp thắc mắc",
+      "desc": "Giải đáp hài hước về các hình dạng bánh có thể làm.",
+      "impact_level": "3",
+      "viewer_emotion": "Cười vì sự hài hước và duyên dáng."
+    },
+    {
+      "step": "Thông tin địa điểm",
+      "desc": "Chia sẻ cảm nhận về bánh và địa điểm mua bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hứng thú và muốn thử."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "vui tính",
+    "ngon",
+    "mềm mềm",
+    "giòn tan",
+    "thơm",
+    "béo béo",
+    "ngậy ngậy",
+    "mặn mặn",
+    "bon mồm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cái bánh tròn này á là bánh rắn Doraemon, còn cái bánh dài dài này là Doraemon bánh rắn.",
+    "Anh không đi thi thôi chứ anh thi cỡ Trấn Thành ở lại á. Ờ Trường Giang cũng ở lại luôn.",
+    "Bột bánh thơm lắm xong rồi nhân bên trong thì có bơ đậu phộng béo béo ngậy ngậy mà nó kiểu hơi có chút vị mặn mặn ấy, không bị ngọt quá đâu, ăn bon mồm cực."
+  ],
+  "hook_content": "Cái bánh tròn này á là bánh rắn Doraemon, còn cái bánh dài dài này là Doraemon bánh rắn.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu và review một quán bánh rán Doraemon vỉa hè với chủ quán vui tính, bánh có hai loại nhân và được miêu tả hương vị hấp dẫn. Người bán hàng rất hài hước và nhiệt tình.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Mở đầu bằng tiếng 'Á chà, chòi oi!' gây tò mò.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Người ăn bắt đầu ăn và thể hiện cảm xúc 'ngon'.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Kết thúc video bằng một tiếng 'Ừm' đơn giản.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Á chà, chòi oi!",
+    "ngon"
+  ],
+  "hook_content": "Á chà, chòi oi!",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ngắn ghi lại cảnh một người ăn gà ủ muối và cảm nhận hương vị.",
+  "tone_of_voice": [
+    "Hào hứng"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Cảnh báo",
+      "desc": "Khuyên không nên cho tiền trẻ em để tránh bị lợi dụng.",
+      "impact_level": "2",
+      "viewer_emotion": "Lo lắng"
+    },
+    {
+      "step": "Di chuyển",
+      "desc": "Thuê xe điện để di chuyển và khám phá Sapa.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu",
+      "desc": "Khám phá và bất ngờ với đồ ăn rẻ ở chợ đêm Sapa.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Thử phá lấu, tàu phớ, bánh tráng nướng và khoai lang nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Nhấn mạnh",
+      "desc": "Đặc biệt khen bánh tráng nướng và khoai lang nướng rất ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Ăn no và về khách sạn, hẹn gặp lại ở tập sau.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "lạ",
+    "ngọt",
+    "bùi",
+    "thơm",
+    "đã",
+    "béo"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đồ ăn trong Sapa thì rất rẻ rất không.",
+    "Ăn thì ngon thiệt đó nhưng mà tối về là ôm toilet luôn.",
+    "Ăn cái này mà thở ra khói luôn á."
+  ],
+  "hook_content": "Tuyệt đối không làm điều này khi lên Sapa, là nhất định các bạn không cho tiền các bạn nhỏ này, vì đây là công cụ kiếm tiền của các người trang giác trẻ em.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video chia sẻ về những điều cần tránh khi đến Sapa, đặc biệt là việc cho tiền trẻ em, sau đó giới thiệu và review các món ăn vặt ở chợ đêm Sapa như tàu phớ, bánh tráng nướng và khoai lang nướng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

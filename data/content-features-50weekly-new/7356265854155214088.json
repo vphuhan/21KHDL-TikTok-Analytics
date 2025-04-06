@@ -1,0 +1,88 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bột khuấy Bình Định và nguyên liệu làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Hướng dẫn nấu bột",
+      "desc": "Hướng dẫn chi tiết cách nấu bột khuấy, khuấy đều tay.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích."
+    },
+    {
+      "step": "Lưu ý khi nấu",
+      "desc": "Chia sẻ bí quyết để bột không bị vón cục và cháy.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được kinh nghiệm hay."
+    },
+    {
+      "step": "Hướng dẫn làm nước mắm",
+      "desc": "Hướng dẫn cách pha nước mắm chua ngọt ăn kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn làm theo ngay."
+    },
+    {
+      "step": "Trình bày và thưởng thức",
+      "desc": "Trình bày món ăn và thưởng thức, khen ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Chia sẻ trải nghiệm",
+      "desc": "Chia sẻ trải nghiệm làm hỏng và tìm ra công thức đúng.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm."
+    },
+    {
+      "step": "Lời khuyên và gợi ý",
+      "desc": "Gợi ý về chi phí và đối tượng phù hợp với món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích và thiết thực."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "đói bụng",
+    "ngon",
+    "mê",
+    "ngon gì đâu á",
+    "nhứt cái nách"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nhớ ăn món này một lần thôi cái bị mê tới giờ luôn.",
+    "Một xíu bột thôi, một chén nước mắm chua ngọt trời ơi tao nói ăn nhứt cái nách luôn.",
+    "Cái món này đúng ra mình chỉ tốn tầm 5 tới 10k là mình đã ăn được rồi đó."
+  ],
+  "hook_content": "Êy mọi người tối nay đói bụng không biết ăn gì thì mình ăn cái bột khuấy Bình Định này nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn cách nấu món bột khuấy Bình Định đơn giản tại nhà, từ khâu chuẩn bị nguyên liệu đến cách pha nước chấm và chia sẻ kinh nghiệm cá nhân để món ăn thêm ngon miệng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu món xúc xích bò lạ và so sánh với salami.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Ăn thử",
+      "desc": "Mời mọi người cùng thưởng thức xúc xích bò.",
+      "impact_level": "1",
+      "viewer_emotion": "Chờ đợi đánh giá."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Nhận xét về mùi vị, độ giòn và so sánh với salami.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Đánh giá chung về độ thơm ngon của xúc xích.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cái xúc xích bò này thì mình thấy nó có cái mùi giống như kiểu mùi thịt muối ấy, và nó còn có mùi hun khói nữa.",
+    "Ăn thì nó giòn, nó có vị mặn của muối và một chút vị ngọt của thịt.",
+    "Tóm lại là mình thấy ăn cũng thơm ngon phết mọi người ạ."
+  ],
+  "hook_content": "Chào mọi người, hôm nay thì mình sẽ ăn thử một cái xúc xích bò trông khá là lạ.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review xúc xích bò lạ, so sánh hương vị với salami, tập trung vào mùi vị, độ giòn và kết luận là thơm ngon.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

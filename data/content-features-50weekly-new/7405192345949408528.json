@@ -1,0 +1,74 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món lạp sưởng Hà Khẩu và mời mọi người ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Mô tả cách chế biến",
+      "desc": "Tự chiên bằng nước nên không vàng và so sánh.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Trải nghiệm vị giác",
+      "desc": "Chấm bột ớt cay và đánh giá hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "So sánh cách chiên",
+      "desc": "Chiên bằng nước đỡ khô hơn chiên không dầu.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Cảm ơn và hẹn gặp lại ở video sau.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người đã xem video của mình, hẹn gặp video sau, tạm biệt."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "cay"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn lần nào cũng cắn tiều cả môi ý nhưng mà ngon.",
+    "Chiên bằng nước thế này nó sẽ đỡ khô hơn chiên bằng chiên không dầu mọi người ạ.",
+    "Nên sẽ chấm cùng với cái bột ớt, cái này cay lắm."
+  ],
+  "hook_content": "Xin chào mọi người, hôm nay mình sẽ ăn lạp sưởng hạt khẩu, mời mọi người ăn cùng mình nhá.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang lạp sưởng Hà Khẩu chiên bằng nước, chấm bột ớt cay. Người ăn chia sẻ cảm nhận về hương vị và so sánh cách chiên khác nhau.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

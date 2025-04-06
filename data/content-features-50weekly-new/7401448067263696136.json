@@ -1,0 +1,92 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu bất ngờ",
+      "desc": "Người nói được dặn mở nắp và bất ngờ vì có tôm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò, thích thú"
+    },
+    {
+      "step": "Thưởng thức tôm",
+      "desc": "Chấm tôm với nước chấm thần thánh và cảm nhận.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Khám phá tiếp",
+      "desc": "Tiếp tục mở các nắp khác để tìm thêm đồ chấm.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức"
+    },
+    {
+      "step": "Chấm muối ớt",
+      "desc": "Mở cửa thần kỳ và chấm tôm hùm với muối ớt.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng, thèm thuồng"
+    },
+    {
+      "step": "Cảm nhận",
+      "desc": "Đánh giá độ ngon của tôm và muối ớt.",
+      "impact_level": "3",
+      "viewer_emotion": "Gợi cảm giác ngon miệng"
+    },
+    {
+      "step": "Thưởng thức gạch tôm",
+      "desc": "Ăn gạch tôm béo ngậy và tận hưởng.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú, thỏa mãn"
+    },
+    {
+      "step": "Tìm kiếm thêm",
+      "desc": "Hỏi xin thêm đồ chấm từ chị đẹp.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "chua cay",
+    "đậm đà",
+    "đã",
+    "ngon",
+    "béo",
+    "béo ngậy",
+    "ngọt ngọt",
+    "cay"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "chua cay đậm đà đã thiệt",
+    "ăn là nguyên con tôm vậy nó mới đã cái nư",
+    "chấm miếng nào là dính miếng đó"
+  ],
+  "hook_content": "Nãy chị đẹp dặn xuống bếp nhớ mở cái nắp ra có cái này bất ngờ lắm nè.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video ghi lại quá trình người nói khám phá các món tôm bất ngờ trong bếp và thưởng thức chúng với nhiều loại muối chấm khác nhau, đặc biệt nhấn mạnh trải nghiệm hương vị đậm đà và cảm giác thỏa mãn khi ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

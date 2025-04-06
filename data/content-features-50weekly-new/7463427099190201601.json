@@ -1,0 +1,90 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bún mọc sườn chua dễ làm cho bữa sáng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về công thức."
+    },
+    {
+      "step": "Sơ chế sườn",
+      "desc": "Hướng dẫn rửa sạch, trần sườn và xào với gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến bí quyết khử mùi sườn."
+    },
+    {
+      "step": "Hầm sườn",
+      "desc": "Chia sẻ mẹo hầm sườn nhanh mềm, tiết kiệm thời gian.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú với mẹo hay."
+    },
+    {
+      "step": "Làm mọc",
+      "desc": "Hướng dẫn trộn thịt xay, giò sống và nêm gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung vào các nguyên liệu và tỉ lệ."
+    },
+    {
+      "step": "Sơ chế rau củ",
+      "desc": "Thái cà chua, khóm và xào thơm với tỏi.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Nấu nước dùng",
+      "desc": "Cho cà chua, khóm, mọc vào nồi sườn và nêm nếm.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ hương vị cuối cùng."
+    },
+    {
+      "step": "Hoàn thiện và thưởng thức",
+      "desc": "Trình bày món ăn và mời mọi người cùng thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn thử ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Nếu mà không có ngon á ha, bắt đền em nè."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "hấp dẫn",
+    "ngọt",
+    "đậm đà"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mấy chị em nào mà không biết ăn sáng món gì á thì mấy chị làm thử cái bún mọc sườn chua này cho nhà ăn đi mấy chị ơi.",
+    "Sườn mua về á thì mình sẽ rửa cho thiệt là sạch, xong á thì nhớ trần sơ qua nước sôi nha.",
+    "Ở đâu cũng ăn được cái món mà vị nhà như vậy cùng với gia đình mình là Tết rồi đó."
+  ],
+  "hook_content": "Mấy chị em nào mà không biết ăn sáng món gì á thì mấy chị làm thử cái bún mọc sườn chua này cho nhà ăn đi mấy chị ơi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách nấu bún mọc sườn chua đơn giản tại nhà, với các mẹo nhỏ giúp sườn mềm nhanh và nước dùng đậm đà, ngọt thanh. Món ăn này phù hợp cho bữa sáng hoặc các dịp lễ Tết, mang lại hương vị ấm cúng của gia đình.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

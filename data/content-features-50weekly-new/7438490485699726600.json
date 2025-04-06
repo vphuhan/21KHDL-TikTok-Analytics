@@ -1,0 +1,87 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu cơm trộn, kimbap và trà, bày tỏ thích ăn cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn và đồ uống."
+    },
+    {
+      "step": "Thông báo thời tiết",
+      "desc": "Thông báo thời tiết miền Bắc chuyển lạnh, gợi ý ăn lẩu.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, như một câu chuyện phiếm."
+    },
+    {
+      "step": "Bắt đầu ăn",
+      "desc": "Bắt đầu ăn cơm trộn và kimbap, tập trung vào ASMR.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với âm thanh ASMR."
+    },
+    {
+      "step": "Cảm nhận món ăn",
+      "desc": "Nhận xét về thìa và việc đổ mồ hôi khi ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Tập trung vào trải nghiệm cá nhân của người ăn."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Khen ngon và uống nước.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và đồng tình."
+    },
+    {
+      "step": "Ăn tiếp",
+      "desc": "Ăn m bắp và nhận xét no.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thỏa mãn."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Cảm ơn người xem và chúc may mắn.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ và cảm thấy được trân trọng."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn các bạn đã xem video đến đoạn này. Cảm ơn các bạn rất nhiều. Chúc các bạn 8386 thần tài dắt lối đỉnh nóc kịch trần nghệ tuyệt đối mãi đỉnh mãi đỉnh luôn."
+  ],
+  "cta_type": [
+    "Thích video",
+    "Chia sẻ"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "no"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ôi mãi tôi mới đọc được một cái comment bình thường trong những chuỗi ngày bất bình thường của tôi.",
+    "Chúc các bạn 8386 thần tài dắt lối đỉnh nóc kịch trần nghệ tuyệt đối mãi đỉnh mãi đỉnh luôn."
+  ],
+  "hook_content": "cơm trộn đi ăn. ôi mãi tôi mới đọc được một cái comment bình thường trong những chuỗi ngày bất bình thường của tôi. thế nên là",
+  "hook_type": [
+    "Phản hồi bình luận"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang về cơm trộn và kimbap, người ăn vừa ăn vừa trò chuyện về thời tiết và cảm xúc cá nhân, kết thúc bằng lời cảm ơn và chúc may mắn đến người xem.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

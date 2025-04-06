@@ -1,0 +1,82 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Chia sẻ lại series cơm gia đình và gợi ý món đãi khách",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự trở lại của series quen thuộc."
+    },
+    {
+      "step": "Canh gà hầm nấm",
+      "desc": "Hướng dẫn hầm canh gà với nấm, gừng, kỷ tử và táo đỏ",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy ấm áp và muốn thử nấu."
+    },
+    {
+      "step": "Trứng chiên thịt cua",
+      "desc": "Hướng dẫn chiên trứng với thịt cua và sữa Vinamilk",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy lạ và tò mò về vị sữa trong món trứng."
+    },
+    {
+      "step": "Cải bó xôi xào trứng",
+      "desc": "Hướng dẫn xào cải bó xôi với ba loại trứng kiểu nhà hàng",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với món rau xào lạ mắt."
+    },
+    {
+      "step": "Kiểm tra món canh",
+      "desc": "Kiểm tra canh gà sau khi hầm và nêm nếm gia vị",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy món ăn đã hoàn thành."
+    },
+    {
+      "step": "Nếm thử món ăn",
+      "desc": "Nếm thử các món ăn và nhận xét hương vị",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và muốn được ăn thử."
+    },
+    {
+      "step": "Hỏi ý kiến",
+      "desc": "Hỏi ý kiến người thân về món ăn",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy gần gũi và ấm cúng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "béo",
+    "thơm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Về phần trứng thì mình sẽ sử dụng ba hoặc bốn trứng, tùy vào lượng cua của các bạn ha. Mình nêm vô đây muối, đường, bột nêm, cứ một trứng là nửa muỗng cà phê.",
+    "Và có một cái mẹo để cho cái món trứng này nó xốp mịn mà vẫn có vị béo ngon á thì các bạn cho vô đây một ít sữa.",
+    "Các bạn xem thịt gà nó mềm tới độ tự động nó rớt ra luôn nè."
+  ],
+  "hook_content": "Có ai thuộc team giọng xương như tôi không?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ công thức nấu 3 món cơm gia đình đơn giản, dễ làm gồm canh gà hầm nấm, trứng chiên thịt cua với sữa Vinamilk và cải bó xôi xào ba loại trứng.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu về việc nấu mì cay tại nhà và niềm đam mê.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Kể chuyện nấu ăn",
+      "desc": "Kể về việc chuẩn bị mì cay khi bạn bè không đến.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chia sẻ bí quyết",
+      "desc": "Chia sẻ cách nấu mì cay đơn giản, không cần công thức.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Đánh giá sản phẩm",
+      "desc": "Đánh giá và gợi ý các loại sốt mì cay nên dùng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Nhấn mạnh sự yêu thích",
+      "desc": "Nhấn mạnh việc thường xuyên sử dụng sốt mì cay.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Lưu ý sức khỏe",
+      "desc": "Khuyên không nên ăn quá nhiều mì cay.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thưởng thức mì cay",
+      "desc": "Mời mọi người ăn thử mì cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mời mọi người mỗi người một thìa không topping nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "đam mê",
+    "nhớ",
+    "thèm",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ăn mì cay đúng là đam mê khó bỏ luôn, càng cố quên thì lại càng nhớ thêm thôi",
+    "Mấy má xem đến đây chắc là hóng công thức mì cay của mình lắm, nhưng mà làm gì có công thức đâu.",
+    "Ai mà thích ăn mì cay thì cũng xác định tư tưởng sẵn là hết cái sốt mì cay một phát kiểu gì cũng sẽ mua chai thứ hai như mình luôn."
+  ],
+  "hook_content": "Từ cái lúc mà mình nấu được mì cay thì mình không thể ăn cái gói mì Koreno một cách bình thường được nữa.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ về niềm đam mê ăn mì cay và cách nấu mì cay đơn giản tại nhà với các loại topping hấp dẫn. Đồng thời, video cũng đưa ra lời khuyên không nên ăn quá nhiều mì.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

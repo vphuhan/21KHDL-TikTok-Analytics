@@ -1,0 +1,76 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu suất cơm 30k thường được bán ở chợ phiên.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn địa phương."
+    },
+    {
+      "step": "Miêu tả thành phần",
+      "desc": "Miêu tả các thành phần đơn giản của suất cơm, bao gồm thịt và cơm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Hướng dẫn pha nước chấm",
+      "desc": "Hướng dẫn cách tự pha nước chấm sao cho vừa miệng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự tùy biến."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhấn mạnh vị ngon của món ăn dù đơn giản.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá."
+    },
+    {
+      "step": "Thông báo về điều kiện quay",
+      "desc": "Thông báo về chất lượng quay không tốt do trời tối.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm."
+    },
+    {
+      "step": "Miêu tả cách ăn ưa thích",
+      "desc": "Miêu tả cách ăn ưa thích với ớt và cơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy ngon miệng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nó rất đơn giản thôi nhưng mà chấm cực kỳ là ngon luôn.",
+    "Ăn đúng cái kiểu đúng theo sở thích của mình luôn.",
+    "Đấy mình thích ăn cay thì cho thêm ít ớt chan chan vào cái cơm."
+  ],
+  "hook_content": "Đây là suất cơm 30k, suất cơm mà bà con hay xuống chợ phiên hay ăn đấy mọi người, cũng chỉ có 30k thôi, nó mấy món đơn giản thôi mọi người ạ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu và đánh giá suất cơm 30k phổ biến ở chợ phiên, bao gồm thịt và cơm, với hướng dẫn tự pha nước chấm. Người nói chia sẻ cách ăn ưa thích và nhận xét về hương vị ngon miệng.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Nấu món gà hầm để vợ vui, đảm bảo thành công",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Khẳng định hiệu quả",
+      "desc": "Vợ sẽ không cằn nhằn khi đang ăn món gà hầm",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với ý tưởng"
+    },
+    {
+      "step": "Khoe thành quả",
+      "desc": "Món ăn làm mọi người vui vẻ, hạnh phúc",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ, đồng tình"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "vui"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mọi người mà thử nấu kiểu này, đảm bảo vợ lúc nào cũng vui luôn.",
+    "Như thế này thì ai rảnh đâu mà cằn nhằn. Tại vì bả đang ăn thịt gà rồi.",
+    "Kiểu gì á vợ cũng vui hơn, mình cũng vui hơn. Cả nhà đều vui."
+  ],
+  "hook_content": "Mọi người mà thử nấu kiểu này, đảm bảo vợ lúc nào cũng vui luôn. Các bạn vợ cho xác nhận nha.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ cách nấu món gà hầm đơn giản để làm vợ vui, đảm bảo hiệu quả và mang lại niềm vui cho cả gia đình.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

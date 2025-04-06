@@ -1,0 +1,90 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Đề cập việc đi ăn phở bị đuổi và giới thiệu nấu ăn tại nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về lý do bị đuổi và cách giải quyết."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu gói sốt phở Chinsu tiện lợi và các loại khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy sản phẩm tiện lợi, có thể thử."
+    },
+    {
+      "step": "Hướng dẫn nấu phở",
+      "desc": "Hướng dẫn nhanh cách dùng gói sốt để nấu phở.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy dễ thực hiện."
+    },
+    {
+      "step": "Đánh giá chất lượng",
+      "desc": "Đánh giá vị nước phở giống ngoài hàng, tiết kiệm chi phí.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng sản phẩm."
+    },
+    {
+      "step": "Thưởng thức và đánh giá",
+      "desc": "Ăn phở và đánh giá hương vị, độ ngon của món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn ăn thử."
+    },
+    {
+      "step": "Mẹo ăn ngon",
+      "desc": "Chia sẻ mẹo để bát phở ngon hơn, nhấn mạnh ăn nhiều thịt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích và muốn áp dụng."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Nhấn mạnh sự tiện lợi của gia vị sẵn và giá trị sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy sản phẩm đáng mua."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mọi người có thể tham khảo nhá"
+  ],
+  "cta_type": [
+    "Chia sẻ công thức"
+  ],
+  "emotion_keywords": [
+    "ngon ngọt tự nhiên",
+    "ngon",
+    "ngọt sâu"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nếu bạn đi ăn phở mà bị đuổi ra khỏi quán thì đừng vội về đăng bài, mình về nhà mình ăn phở cho nó rộng rãi.",
+    "Vua của các loại phở, đấy là phở thật nhiều thịt.",
+    "Lại một gói gia vị nó làm được nhiều hơn những gì mà mình phải bỏ ra."
+  ],
+  "hook_content": "Nếu bạn đi ăn phở mà bị đuổi ra khỏi quán thì đừng vội về đăng bài, mình về nhà mình ăn phở cho nó rộng rãi.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn",
+    "So sánh"
+  ],
+  "summarization": "Video review gói sốt phở ăn liền của Chinsu, hướng dẫn cách nấu phở đơn giản tại nhà chỉ với gói sốt, bánh phở và thịt. Người nói đánh giá cao tính tiện lợi, hương vị giống phở ngoài hàng và chia sẻ mẹo để ăn phở ngon hơn.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

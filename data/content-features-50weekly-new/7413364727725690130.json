@@ -1,0 +1,58 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Người nói kéo bao và nói \"Nói gì rồi\"",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thử thách",
+      "desc": "Đưa ra lời thách đố ăn hết đồ ăn",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Ăn",
+      "desc": "Bắt đầu ăn và thể hiện thái độ ngạc nhiên",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Kết thúc video bằng một hành động đấm",
+      "impact_level": "1",
+      "viewer_emotion": "Bất ngờ"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngạc nhiên"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [],
+  "hook_content": "kéo bao\nNói gì rồi",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình ăn uống của một người, kèm theo những lời thách đố và biểu cảm ngạc nhiên.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Ngạc nhiên"
+  ]
+}

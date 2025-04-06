@@ -1,0 +1,65 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Gọi món",
+      "desc": "Khách hàng nhí gọi các món ăn vặt quen thuộc ở quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy món ăn tuổi thơ quen thuộc."
+    },
+    {
+      "step": "Thương lượng",
+      "desc": "Khách hàng nhí đòi thêm bánh nhưng hết hàng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Đòi quà",
+      "desc": "Khách hàng nhí đòi kẹo mút nhưng được làm cho.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hành động dễ thương của chủ quán."
+    },
+    {
+      "step": "Thanh toán",
+      "desc": "Khách hàng nhí mua thêm đồ và được tặng kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy chủ quán nhiệt tình, tốt bụng."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "vui vẻ",
+    "háo hức"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "老闆要一毛錢的辣條，一毛錢的瓜子。",
+    "不要，我給你做一個。",
+    "謝謝老闆。"
+  ],
+  "hook_content": "老闆要一毛錢的辣條，一毛錢的瓜子。",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Kịch hóa",
+    "Đối thoại"
+  ],
+  "summarization": "Video ghi lại cảnh một nhóm trẻ em mua đồ ăn vặt tại một quán nhỏ, với những yêu cầu dễ thương và tương tác thân thiện với chủ quán.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

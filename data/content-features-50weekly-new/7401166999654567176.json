@@ -1,0 +1,92 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về việc thèm cơm nhà và kế hoạch ăn gà rán.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Hồi tưởng",
+      "desc": "Nhớ con và kể về việc ở Sài Gòn trông con hộ.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp"
+    },
+    {
+      "step": "Di chuyển về quê",
+      "desc": "Mô tả hành trình về quê bằng đường cao tốc.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Gặp gỡ",
+      "desc": "Gặp lại các con và niềm vui khi về đến nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ"
+    },
+    {
+      "step": "Thưởng thức sầu riêng",
+      "desc": "Cả nhà cùng ăn sầu riêng sau khi mua trên đường về.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Chia sẻ",
+      "desc": "Chia sẻ về công việc bận rộn và sự mệt mỏi.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm"
+    },
+    {
+      "step": "Bữa cơm gia đình",
+      "desc": "Ăn gà hấp mướp và trò chuyện cùng gia đình.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm cúng"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Thôi bây giờ mời mọi người ăn cơm chung cả nhà mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "thèm",
+    "nhớ",
+    "vui",
+    "ngọt",
+    "thơm",
+    "béo",
+    "cuốn",
+    "mệt",
+    "nhiều năng lượng",
+    "vui"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Sau 3 tiếng hơn tụi nó đã gặp được đồng bọn của nó rồi nè mọi người, vui quá trời vui luôn.",
+    "Ta nói nhìn sầu riêng mấy có ba bốn bữa nay à, mà chưa kịp đưa sầu riêng vô miệng nữa mà mồ hôi miệng nó đổ muôn nhiễu ra ngoài luôn, ngọt nó thơm, nó béo, cuốn dữ thiệt chứ.",
+    "Ta nói gà hấp mướp ngọt nhất luôn á, rồi lại là gà che nữa chứ."
+  ],
+  "hook_content": "bữa nay hai mẹ con mình nói Sài Gòn liên tục luôn á, thèm bữa cơm nhà quá trời quá đất rồi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại hành trình hai mẹ con từ Sài Gòn về quê, ghé mua sầu riêng và ăn bữa cơm nhà với món gà hấp mướp. Người mẹ chia sẻ niềm vui khi con được gặp lại người thân và cảm giác hạnh phúc khi cả gia đình sum vầy.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

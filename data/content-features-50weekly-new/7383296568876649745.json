@@ -1,0 +1,90 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu các loại kem yêu thích và mời mọi người ăn cùng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Kem phô mai",
+      "desc": "Miêu tả độ ngon và cảm xúc khi ăn kem phô mai.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Sữa tươi trân châu đường đen",
+      "desc": "Nhận xét về độ ngọt và trải nghiệm ăn trân châu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Kem đậu đỏ",
+      "desc": "Miêu tả lớp đậu đỏ và vị bùi của kem.",
+      "impact_level": "2",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Kem gấu",
+      "desc": "Đề cập đến hình dáng xinh xắn và hương vị búng xôi lá dứa.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Kem dưa hấu",
+      "desc": "So sánh với kem cây Hàn Quốc và kem ly.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Kem sầu riêng",
+      "desc": "Giới thiệu kem sầu riêng hộp với lớp sầu riêng ở giữa.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người xem hết video của mình.",
+    "Hẹn mọi người video sau. Tạm biệt."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "siêu ngon",
+    "mê",
+    "thích"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mình ăn một lần thôi mình thấy ngon quá xong mỗi lần mình ăn cả hai cây này.",
+    "Ăn cái trân trâu xong ấy ăn siêu mê luôn.",
+    "Ăn xong đống cái đống này là calo vô cực luôn mọi người ạ."
+  ],
+  "hook_content": "Xin chào mọi người. Hôm nay mình sẽ ăn kem mọi người ạ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video này là một buổi mukbang kem, trong đó người tạo nội dung thử nhiều loại kem khác nhau như kem phô mai, sữa tươi trân châu đường đen, đậu đỏ, kem gấu, dưa hấu và sầu riêng, đồng thời chia sẻ cảm nhận về hương vị của chúng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

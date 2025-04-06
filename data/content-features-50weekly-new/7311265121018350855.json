@@ -1,0 +1,56 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về món cháo sườn đặc sản",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Miêu tả",
+      "desc": "Miêu tả cháo cháy và cách bán đặc biệt",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Giải thích",
+      "desc": "Giải thích lý do không phải ai cũng mua được",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "cháo à đặc sản ngon đấy",
+    "ít cháy, ít cháo này phải đặt trước",
+    "nhiều người người ta bảo là sao người ta bán cho người ta mà tôi không bán"
+  ],
+  "hook_content": "cháo à đặc sản ngon đấy.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu về món cháo sườn đặc sản và cách bán đặc biệt, phải đặt trước mới có cháo cháy.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

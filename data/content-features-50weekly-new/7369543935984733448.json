@@ -1,0 +1,81 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về việc mua thùng đồ ăn vặt trên TikTok Shop.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về nội dung bên trong thùng đồ ăn."
+    },
+    {
+      "step": "Liệt kê",
+      "desc": "Liệt kê các món ăn vặt có trong thùng hàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng của đồ ăn vặt."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Thử và đánh giá chất lượng của các món ăn vặt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung xem món ăn nào ngon."
+    },
+    {
+      "step": "Ăn thử",
+      "desc": "Quấn vòi rồng vào tăm cay để ăn thử.",
+      "impact_level": "3",
+      "viewer_emotion": "Tò mò về sự kết hợp lạ của món ăn."
+    },
+    {
+      "step": "Thông tin thêm",
+      "desc": "Chia sẻ thông tin về người bán và khuyến khích mua.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt hứng thú."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người tranh thủ mua cái lúc mà đang cần lượt bán nhá."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "mạo hiểm",
+    "cay cay",
+    "cực kỳ có duyên",
+    "rẻ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mình đã mạo hiểm sử dụng 150.000 để đặt cái thùng hàng chỉ có 38 lượt đặt ở trên TikTok shop này về để xem có gì ở bên trong.",
+    "Mình không hiểu sao mà mình cực kỳ có duyên với những cái combo đồ ăn vặt kiểu học sinh sinh viên rẻ như thế này ấy.",
+    "Hình như cái combo này là của một bạn nữ đang khởi nghiệp nên bạn đang cần lấy lượt bán nên mới có cái giá rẻ như thế này."
+  ],
+  "hook_content": "Vòi rồng mà cuốn tăm cay thì sẽ như thế nào?",
+  "hook_type": [
+    "Gây tò mò",
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video mukbang thùng đồ ăn vặt được mua trên TikTok Shop, người review thử và đánh giá các món ăn, đồng thời chia sẻ thông tin về người bán và khuyến khích mua.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

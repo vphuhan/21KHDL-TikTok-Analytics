@@ -1,0 +1,78 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu về sự thay đổi tích cực của bố và món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự thay đổi và món ăn."
+    },
+    {
+      "step": "Giải thích",
+      "desc": "Lý do sử dụng rau củ đông lạnh ở Nhật và bột chiên giòn.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích về nguyên liệu."
+    },
+    {
+      "step": "Nguồn gốc công thức",
+      "desc": "Chia sẻ về nguồn gốc công thức gà rang muối.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào công thức."
+    },
+    {
+      "step": "Giới thiệu công thức",
+      "desc": "Công thức làm món gà rang muối đơn giản, ngon như ngoài hàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức muốn thử làm theo."
+    },
+    {
+      "step": "Hứa hẹn",
+      "desc": "Nhấn mạnh món ăn ngon và phản ứng của gia đình.",
+      "impact_level": "3",
+      "viewer_emotion": "Mong chờ kết quả và phản ứng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Công thức và cách làm thì em có nốt sẵn hết ở trên màn hình ý, mọi người cứ tham khảo nha.",
+    "Và nhớ xem đến cuối để xem phản ứng của gia đình em khi lần đầu được ăn gà rang muối của Việt Nam sẽ như thế nào nha mọi người."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "thích",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "chắc chắn là ngon đỉnh nóc kịch trần luôn"
+  ],
+  "hook_content": "Dạo này bố em được mọi người khen là hiền với lại cười nhiều hơn trước, chứ ngày trước là hay bị nhận xét là cục cằn với lại nhìn có vẻ khó tính ấy.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ về cách làm món gà rang muối do người Việt ở Nhật thực hiện. Cô ấy kể về sự thay đổi của bố, lý do dùng nguyên liệu đông lạnh và hứa hẹn món ăn sẽ rất ngon.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

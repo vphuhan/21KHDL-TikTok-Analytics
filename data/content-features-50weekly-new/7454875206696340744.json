@@ -1,0 +1,89 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món gà rán tự làm và ưu điểm so với cách thông thường",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về công thức"
+    },
+    {
+      "step": "Chuẩn bị và sơ chế",
+      "desc": "Hướng dẫn chuẩn bị nguyên liệu và sơ chế thịt gà",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường"
+    },
+    {
+      "step": "Ướp gà",
+      "desc": "Hướng dẫn cách ướp gà với sữa và gia vị",
+      "impact_level": "1",
+      "viewer_emotion": "Lưu ý về thời gian ướp"
+    },
+    {
+      "step": "Pha bột chiên",
+      "desc": "Hướng dẫn pha bột mì và gia vị để chiên gà",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với công thức bột"
+    },
+    {
+      "step": "Nhúng bột",
+      "desc": "Hướng dẫn nhúng gà qua bột ướt và bột khô",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung quy trình"
+    },
+    {
+      "step": "Chiên gà",
+      "desc": "Hướng dẫn chiên gà ngập dầu với lửa nhỏ và tăng nhiệt",
+      "impact_level": "2",
+      "viewer_emotion": "Hóng chờ thành phẩm"
+    },
+    {
+      "step": "Lời chúc",
+      "desc": "Lời chúc thành công từ người làm video",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy được động viên"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Mọi người chỉ cần đọc kỹ phần lưu ý của Sămy là được nha.",
+    "Chúc mọi người thành công."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "giòn",
+    "thơm",
+    "mọng nước",
+    "không khô"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Gà rán thông thường thì sẽ chiên hai lần, nhưng mà công thức này mọi người chỉ cần chiên một lần thôi thì vỏ gà vẫn giòn, thơm, bên trong thì mọng nước, không hề bị khô đâu nha.",
+    "Ướp qua đêm thì sẽ ngon hơn nha.",
+    "Lúc chiên mọi người để cho Sămy lửa nhỏ thôi, lúc gần gắp ra thì tăng nhiệt lên cho ráo dầu."
+  ],
+  "hook_content": "Gà rán thông thường thì sẽ chiên hai lần, nhưng mà công thức này mọi người chỉ cần chiên một lần thôi thì vỏ gà vẫn giòn, thơm, bên trong thì mọng nước, không hề bị khô đâu nha.",
+  "hook_type": [
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm gà rán tại nhà chỉ với một lần chiên mà vẫn đảm bảo vỏ giòn, thơm và bên trong mọng nước. Người làm video chia sẻ chi tiết các bước từ chuẩn bị, ướp gà đến pha bột và chiên.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

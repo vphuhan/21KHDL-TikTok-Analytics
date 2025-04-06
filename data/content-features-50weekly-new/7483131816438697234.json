@@ -1,0 +1,84 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món mì trộn khô nước nêm và giải đáp thắc mắc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách làm món mì trộn."
+    },
+    {
+      "step": "Chuẩn bị tóp mỡ",
+      "desc": "Hướng dẫn làm tóp mỡ giòn tan với hành tím và muối.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với bí quyết làm tóp mỡ giòn."
+    },
+    {
+      "step": "Chuẩn bị topping",
+      "desc": "Trình bày các loại topping như tôm, thịt, viên và cật heo.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Hầm nước lèo",
+      "desc": "Dùng hành phi hầm nước lèo với xương ống, nêm muối, đường.",
+      "impact_level": "1",
+      "viewer_emotion": "Không có gì đặc biệt, hầm nước lèo thông thường."
+    },
+    {
+      "step": "Pha nước nêm",
+      "desc": "Hướng dẫn pha nước nêm từ muối hạt, đường phèn, bột ngọt.",
+      "impact_level": "3",
+      "viewer_emotion": "Háo hức với công thức nước nêm đặc biệt."
+    },
+    {
+      "step": "Trộn mì",
+      "desc": "Trộn mì với mỡ heo, nước nêm, topping và nước lèo.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng khi thấy món mì được trộn đều."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Người làm video ăn thử và đưa ra cảm nhận về món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn được ăn thử ngay lập tức."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "quá đã",
+    "tuyệt vời"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Thật ra tất cả các gia vị mà làm nên cái nước nêm đó thì trong nhà bạn cũng đã có sẵn rồi.",
+    "Thông thường á trộn mì khô, các bạn sẽ cho một muỗng. Còn mì nước á thì các bạn cho hai muỗng.",
+    "Ăn thử miếng cật coi có hôi không? Không. Anh ngâm rượu rồi."
+  ],
+  "hook_content": "cái phần nước trong trong mà người ta hay trộn vô mì ở những cái xe hủ tiếu người hoa thì người ta làm như thế nào vậy anh?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Phản hồi bình luận"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm mì trộn khô nước nêm (hay còn gọi là con sủi) kiểu người Hoa, từ cách làm tóp mỡ, chuẩn bị topping đến pha nước nêm đặc trưng. Người làm video cũng ăn thử và chia sẻ cảm nhận.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu món ăn và độ cay của ớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ cay."
+    },
+    {
+      "step": "Thử độ cay",
+      "desc": "Thử thách độ cay của ớt và mì cay.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy kích thích."
+    },
+    {
+      "step": "Cảm nhận",
+      "desc": "Diễn tả cảm nhận về độ cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với người ăn."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Kết thúc phần ăn và chia sẻ cảm xúc.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thỏa mãn."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "cay",
+    "nóng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cảm giác mình nuốt đến đâu là nó nóng đến đấy nhá các bạn."
+  ],
+  "hook_content": "thử độ cay của ớt trước nhá.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang thử thách độ cay của ớt và mì cay, tập trung vào việc diễn tả cảm giác cay nóng khi ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Ngạc nhiên"
+  ]
+}

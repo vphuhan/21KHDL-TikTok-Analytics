@@ -1,0 +1,65 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Gọi món và trò chuyện",
+      "desc": "Khách đến mua cá kho và trò chuyện với cô chủ quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món cá kho."
+    },
+    {
+      "step": "Giới thiệu về cá kho",
+      "desc": "Cô chủ giới thiệu về nguyên liệu và cách chế biến cá kho.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với cách làm truyền thống."
+    },
+    {
+      "step": "Thưởng thức và đánh giá",
+      "desc": "Khách ăn thử cá kho và khen ngon, thịt mềm tan.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng."
+    },
+    {
+      "step": "Chia sẻ cảm nhận",
+      "desc": "Khách chia sẻ cảm nhận về món cá và hỏi mua thêm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng sản phẩm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "mềm tan",
+    "được"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Thịt nó mềm tan ra trong miệng luôn cô ạ.",
+    "Cá này nếu mà để thì phải được ba bốn ngày, năm ngày vẫn được, bởi vì khách người ta nói với cô thôi, càng để lâu thì ăn càng ngon.",
+    "Đồ thích nhà hàng năm sao giá giá bình dân."
+  ],
+  "hook_content": "Cô ơi, nay con đặt một hộp cá kho, cô cho con lấy với.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video ghi lại cảnh khách đến mua và review món cá kho của một quán ăn. Khách khen cá ngon, thịt mềm tan và muốn mua thêm.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

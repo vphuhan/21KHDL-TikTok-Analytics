@@ -1,0 +1,75 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu hoàn cảnh",
+      "desc": "Tuyết rơi, mua được quýt giá rẻ và quyết định thử món mới.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn sắp được giới thiệu."
+    },
+    {
+      "step": "Chuẩn bị",
+      "desc": "Làm mắm tôm với tỏi để chấm quýt, gợi nhớ món đặc sản.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy lạ và có chút e dè."
+    },
+    {
+      "step": "Nếm thử và đánh giá",
+      "desc": "Thử món quýt chấm mắm tôm và chia sẻ cảm nhận hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ và thích thú với sự kết hợp độc đáo."
+    },
+    {
+      "step": "Cảm nhận sau khi ăn",
+      "desc": "Bụng kêu sau khi ăn vài trái, nhấn mạnh sự ngon miệng.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với cảm giác thèm ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mình nghĩ là mọi người nên thử cái món này nghe, tại vì ăn vô nó lạ lạ nhưng mà thật sự là ăn rất là ngon mà cuốn luôn á.",
+    "Mới ăn được có ba trái thôi mà không biết sao mà cái bụng mình nó kêu ọt ọt dữ vậy trời."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "rẻ",
+    "ngọt",
+    "thơm",
+    "ngon",
+    "cuốn",
+    "lạ lạ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mình là một đứa đạo quýt mà nên thành ra là mỗi lần ăn 10 kg vậy cho nó đã.",
+    "Quýt ngọt ngọt mà chấm chung với mắm tôm mặn mặn kết hợp lại coi như là đúng bài luôn đó."
+  ],
+  "hook_content": "Nó vừa mới trong siêu thị bước ra thì thấy tuyết nó rơi trắng giả hết trơn.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ trải nghiệm ăn quýt chấm mắm tôm, bắt đầu từ việc mua được quýt giá rẻ và quyết định thử món ăn lạ này. Sau khi ăn, người nói cảm thấy ngon miệng và khuyến khích mọi người nên thử.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

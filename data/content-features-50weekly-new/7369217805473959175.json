@@ -1,0 +1,82 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu bản thân và món ăn tôm hùm bông hấp sả.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Nguồn gốc",
+      "desc": "Chia sẻ về việc mua tôm hùm từ Thái nhà biển.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Đánh giá chất lượng và độ tươi của tôm hùm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng."
+    },
+    {
+      "step": "Trải nghiệm",
+      "desc": "Mô tả trải nghiệm ăn tôm hùm và lớp vỏ đặc biệt.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và thích thú."
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy được mời tham gia."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thích",
+    "hên",
+    "yên tâm",
+    "cuốn",
+    "siêu hời",
+    "chắc nụi",
+    "tươi",
+    "ngọt",
+    "sực sực",
+    "thích miệng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Hải sản thì thường tôi thích ăn hấp hơn, để cảm nhận rõ độ ngọt của thịt hơn là đem đi chế biến nhiều gia vị.",
+    "Nhưng mà tôm hùm lột thì vỏ mỏng hơn mà thịt còn nhiều hơn nữa.",
+    "Đặc biệt cái lớp vỏ bên trong còn ăn được luôn nha mọi người, ăn như cua lột vậy á."
+  ],
+  "hook_content": "Hello mọi người, lại là tôi, mập bự thích nấu ăn đây.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video này là một bài review về món tôm hùm bông hấp sả, trong đó người tạo nội dung chia sẻ trải nghiệm ăn tôm hùm mua từ Thái nhà biển, đặc biệt là loại tôm hùm lột hiếm có và lớp vỏ ăn được.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu ốc đắng/ốc gạo, mô tả hình dáng hấp dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò, thèm thuồng"
+    },
+    {
+      "step": "Thông tin về giá",
+      "desc": "Chia sẻ giá mua ốc và so sánh với nơi khác.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Sơ chế",
+      "desc": "Hướng dẫn cách ngâm, rửa ốc trước khi luộc.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm"
+    },
+    {
+      "step": "Cách luộc ốc",
+      "desc": "Hướng dẫn thời gian luộc và cách luộc với sả, ớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Ghi nhớ"
+    },
+    {
+      "step": "Pha nước chấm",
+      "desc": "Nhấn mạnh tầm quan trọng của chén muối ớt.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Trải nghiệm ăn ốc",
+      "desc": "Mô tả chi tiết cảm giác khi ăn ốc luộc.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Đặt câu hỏi",
+      "desc": "Hỏi khán giả về loại ốc và mời ăn cùng.",
+      "impact_level": "2",
+      "viewer_emotion": "Gần gũi"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "giờ thì mời mọi người ăn chung với tui."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "giòn ngọt",
+    "đắng nhẹ",
+    "cuốn",
+    "đã"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "nhìn nó ú nu mà trắng phau như vầy là đảm bảo ngon rồi.",
+    "ăn vô thì cực kỳ giòn ngọt mà hơi đắng nhẹ, nhưng mà cái đắng này là ăn cuốn nha.",
+    "mấy con ốc này thì an toàn nhất là cứ auto đem đi luộc xả với ớt cho tui, vừa ngon vừa lẹ mà không có lo bị teo."
+  ],
+  "hook_content": "Chào mọi người, con này là con ốc đắng hay là con ốc gạo, chưa rõ ốc nào, chứ nhìn nó ú nu mà trắng phau như vầy là đảm bảo ngon rồi.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ cách luộc ốc đắng/ốc gạo với sả ớt, từ khâu sơ chế đến thưởng thức, kèm theo mô tả hương vị và cảm xúc khi ăn. Người làm video cũng hỏi khán giả về loại ốc và mời mọi người cùng ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

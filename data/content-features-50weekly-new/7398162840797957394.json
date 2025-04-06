@@ -1,0 +1,76 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món cá trích ép trứng ba màu mới mua.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Miêu tả sản phẩm",
+      "desc": "Miêu tả chi tiết về vẻ ngoài và chất lượng cá trích.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá độ tươi ngon, giòn và không tanh của món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Trải nghiệm ăn",
+      "desc": "Trải nghiệm ăn cùng lúc cả ba màu cá trích.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn trúng với tôi nhen."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "siêu ngon",
+    "hấp dẫn",
+    "ngon",
+    "béo ngọt",
+    "giòn",
+    "đã"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ta nói ba cái thanh cá trích ép trứng nhìn kêu lì ghê chưa.",
+    "Phần trứng cá thì giòn tanh tách, ta nói cắn cái nào là đã cái đó luôn.",
+    "Ngon quá nên tôi cầm ba màu ăn một lượt luôn cho đã nè."
+  ],
+  "hook_content": "Hello mọi người, lại là tôi Mật Bòi Tích nấu ăn đây.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món cá trích ép trứng ba màu, tập trung vào miêu tả hương vị, chất lượng sản phẩm và trải nghiệm ăn uống của người làm video. Video sử dụng ngôn ngữ đời thường, gần gũi.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mô tả thời tiết và địa điểm",
+      "desc": "Thời tiết lạnh, sương mù dày đặc, trốn trong siêu thị.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu chân cua 9L, to gấp đôi lần trước.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Đề cập đến quà tặng",
+      "desc": "Chị gái gửi cung xạ hương từ Hàn Quốc.",
+      "impact_level": "1",
+      "viewer_emotion": "Ấm áp"
+    },
+    {
+      "step": "Chuẩn bị chế biến",
+      "desc": "Rã đông cua và chuẩn bị hấp.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu sản phẩm khác",
+      "desc": "Giới thiệu hộp cung xạ hương và công dụng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Thưởng thức cua",
+      "desc": "Bắt đầu ăn cua với muối tiêu chanh.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Đánh giá và kết luận",
+      "desc": "Thịt cua dày, ngọt, đáng để thử.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thèm",
+    "ngon",
+    "chắc thịt",
+    "ngọt",
+    "đã"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ăn hai cái chân cua thôi là no khỏi ăn cơm luôn",
+    "Ăn xong là coi như bay hơi một ngày công đi làm rồi đó",
+    "Cái chân cua kỳ này cắn cái là lên tới nú luôn"
+  ],
+  "hook_content": "Hôm qua sương mù âm u dày đặc thì cũng nghi bữa nay có tuyết dữ lắm mà, gặp mình là một đứa chịu lạnh dở nữa chứ.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video ghi lại cảnh một người đang đi siêu thị mua chân cua hoàng đế cỡ lớn ở Nhật Bản và thưởng thức món ăn này tại nhà, đồng thời giới thiệu thêm về một sản phẩm chăm sóc sức khỏe được gửi từ Hàn Quốc.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

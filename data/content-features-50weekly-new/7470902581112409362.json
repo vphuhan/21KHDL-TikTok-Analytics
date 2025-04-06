@@ -1,0 +1,88 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu gà đẻ trứng",
+      "desc": "Giới thiệu về con gà nhỏ đẻ nhiều trứng và sự nhầm lẫn ban đầu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về giống gà đặc biệt."
+    },
+    {
+      "step": "Khám phá giống gà Rutti",
+      "desc": "Tìm hiểu về giống gà Rutti và đặc điểm của trứng gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với thông tin mới."
+    },
+    {
+      "step": "Chuẩn bị trứng gà",
+      "desc": "Luộc trứng và so sánh với trứng khủng long socola.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, tập trung vào quá trình chuẩn bị."
+    },
+    {
+      "step": "Thưởng thức trứng gà",
+      "desc": "Nếm thử và mô tả hương vị béo ngậy của trứng.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm giác thèm ăn và tò mò."
+    },
+    {
+      "step": "Đánh giá dinh dưỡng",
+      "desc": "Nhấn mạnh hàm lượng dinh dưỡng cao trong trứng gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến giá trị dinh dưỡng."
+    },
+    {
+      "step": "So sánh với trứng cút",
+      "desc": "So sánh hương vị và chất lượng với trứng cút.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú với sự so sánh hương vị."
+    },
+    {
+      "step": "Mô tả đặc điểm gà",
+      "desc": "Miêu tả đặc điểm của gà Rutti và cách chăm sóc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về đặc tính của giống gà."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "béo",
+    "ngon",
+    "ghiền"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Má ơi, mới biết nó là cái con gà nhỏ nhất thế giới.",
+    "Ê nhưng mà tự nhiên nhìn quả trứng giống mấy cái quả trứng khủng long socola mà hồi nhỏ hay ăn á mọi người ha.",
+    "Lần đầu tiên ăn cái quả trứng gà này á mà mình bị ghiền luôn."
+  ],
+  "hook_content": "Trời ơi, con gà này nó đẻ trứng nhiều tới nỗi Bi ăn không có kịp luôn á mọi người.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm",
+    "So sánh"
+  ],
+  "summarization": "Video ghi lại cảnh mukbang trứng gà Rutti, một giống gà nhỏ đẻ nhiều trứng. Người review chia sẻ trải nghiệm ăn trứng gà Rutti, so sánh hương vị với trứng cút và mô tả đặc điểm của giống gà này.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

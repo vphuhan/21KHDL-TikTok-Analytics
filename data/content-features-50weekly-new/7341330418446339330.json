@@ -1,0 +1,89 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Thèm ăn vặt và tìm đồ ăn trong tủ lạnh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị vì sự gần gũi, đời thường."
+    },
+    {
+      "step": "Review bánh dính",
+      "desc": "Ăn bánh dính và cảm thấy hơi dính quá.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Review bánh thuyền phô mai",
+      "desc": "Thử bánh thuyền phô mai và khen sốt phô mai.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thèm thuồng vì bánh ngon."
+    },
+    {
+      "step": "Review bánh thuyền hạt",
+      "desc": "Ăn bánh thuyền hạt và nhận xét độ giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị."
+    },
+    {
+      "step": "Chuyển sang súp cua",
+      "desc": "Tìm món mềm và quyết định nấu súp cua.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi bất ngờ vì sự chuyển đổi."
+    },
+    {
+      "step": "Nấu súp cua",
+      "desc": "Giới thiệu súp cua và công thức bất bại.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn và muốn thử."
+    },
+    {
+      "step": "Ăn súp cua",
+      "desc": "Ăn súp cua trứng bắc thảo và khen ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng và muốn ăn."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "chán",
+    "thèm",
+    "dính",
+    "giòn",
+    "thơm",
+    "béo",
+    "ngon",
+    "đã"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Công nhận từ ngày GoNuts ra cái thuyền phô mai này ăn dính dễ sợ.",
+    "Tại làm từ phô mai Emmental cao cấp mà chuột Jerry khoái lắm á.",
+    "Nè súp cua quá trời ghẹ luôn nhưng mà phải là ghẹ tươi thì ăn mới như súp cua."
+  ],
+  "hook_content": "Nhịp một ngày chán cơm thèm ăn vặt, khi nhà cũng không có gì ngoài cái tủ lạnh mà tủ lạnh cũng không có gì ngoài cái bánh này.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình một bạn trẻ tìm đồ ăn vặt trong tủ lạnh, review bánh thuyền hạt và bánh thuyền phô mai của GoNuts, sau đó nấu và ăn súp cua ghẹ.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

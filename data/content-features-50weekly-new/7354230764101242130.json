@@ -1,0 +1,100 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu mì tương đen Hàn Quốc và các thành phần đi kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn và cách thưởng thức."
+    },
+    {
+      "step": "Trộn mì",
+      "desc": "Trộn mì với tương đen và thể hiện sự mong chờ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy đói bụng và muốn ăn thử."
+    },
+    {
+      "step": "Thưởng thức mì",
+      "desc": "Ăn mì và diễn tả cảm giác thỏa mãn, ngon miệng.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn ăn ngay lập tức."
+    },
+    {
+      "step": "Ăn kèm",
+      "desc": "Ăn kèm hành tây và củ cải, đánh giá hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự kết hợp các hương vị."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Nhận xét về các thành phần và cảm giác no bụng.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thỏa mãn sau khi ăn."
+    },
+    {
+      "step": "Nguồn gốc",
+      "desc": "Đề cập đến nguồn gốc của mì tương đen và địa điểm mua.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về nguồn gốc món ăn."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Cảm ơn người xem và hẹn gặp lại.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, sẵn sàng xem video khác."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn bạn đã xem video của Tóc Vàng nha.",
+    "Hẹn gặp lại bạn vào video lần sau."
+  ],
+  "cta_type": [
+    "Follow kênh",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "đói bụng",
+    "béo",
+    "ngậy",
+    "thỏa mãn",
+    "ngọt",
+    "đã",
+    "no bụng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái cảm giác mà mình nuốt vào các bạn, nó thỏa mãn ngập tràn luôn các bạn ơi.",
+    "Cái hành tây sống này nó không có hăng như bạn nghĩ mà nó có vị ngọt ngọt bạn.",
+    "Wow, bây giờ là V thấy no rồi đó bạn. Béo quá."
+  ],
+  "hook_content": "các bạn, hôm nay bạn có order một phần mì tương đen Hàn Quốc và để mút ăn cho bạn xem nè.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video mukbang mì tương đen Hàn Quốc, Tóc Vàng vừa ăn vừa miêu tả hương vị béo ngậy, ngon miệng và cảm giác thỏa mãn khi ăn. Cô cũng chia sẻ về các thành phần ăn kèm và nguồn gốc của món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

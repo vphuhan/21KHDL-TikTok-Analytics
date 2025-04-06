@@ -1,0 +1,80 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán kem",
+      "desc": "Giới thiệu quán kem yêu thích, hương vị tự nhiên, không gian xanh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị và không gian quán."
+    },
+    {
+      "step": "Miêu tả không gian",
+      "desc": "Không gian nhiều cây xanh, có hồ cá Koi, nhiều người nước ngoài.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với không gian xanh mát."
+    },
+    {
+      "step": "Đánh giá kem",
+      "desc": "Kem đa dạng vị, chất kem mềm mịn, giá hơi nhỉnh hơn.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến chất lượng và giá cả."
+    },
+    {
+      "step": "Giới thiệu các món",
+      "desc": "Giới thiệu lẩu kem, kem ba viên, kem ly và kem hũ.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử các loại kem khác nhau."
+    },
+    {
+      "step": "Kêu gọi trải nghiệm",
+      "desc": "Kêu gọi lưu clip và đến trải nghiệm quán kem.",
+      "impact_level": "1",
+      "viewer_emotion": "Cân nhắc việc ghé thăm quán."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Vậy sao mà mọi người không lưu clip của Tín lại để đến trải nghiệm ta?"
+  ],
+  "cta_type": [
+    "Lưu video",
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "siêu ngon",
+    "thích",
+    "mát mẻ",
+    "nghiện",
+    "thơm ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Kem ở đây hương vị rất tự nhiên mà không quá ngọt, siêu ngon luôn mọi người.",
+    "Không gian ở đây có nguyên một cái hồ cá Koi ở giữa, cây có nhiều nữa, cảm giác như hòa mình với thiên nhiên luôn, rất là mát nè.",
+    "Kem Laciote ăn một lần là nghiện đó nha. Bởi khi ăn các bạn sẽ cảm giác được hương vị tự nhiên, chất kem mềm mịn, khác biệt hẳn so với nhiều quán kem trên thị trường"
+  ],
+  "hook_content": "Đây là tiệm kem yêu thích nhất của mình từ quận 2.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu tiệm kem Laciôté ở Quận 2 với không gian xanh mát, kem hương vị tự nhiên và đa dạng món. Người xem được khuyến khích lưu video để ghé thăm quán.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

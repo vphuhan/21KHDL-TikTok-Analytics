@@ -1,0 +1,84 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu mở đầu",
+      "desc": "Giới thiệu các loại bánh quê miền Tây hấp dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các loại bánh được giới thiệu."
+    },
+    {
+      "step": "Thưởng thức bánh bò",
+      "desc": "Nếm thử bánh bò thốt nốt với nước cốt dừa.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng muốn được ăn thử."
+    },
+    {
+      "step": "Thưởng thức bánh da lợn",
+      "desc": "Ăn bánh da lợn và bày tỏ sự yêu thích.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy ngon miệng và thích thú."
+    },
+    {
+      "step": "Thưởng thức bánh chuối",
+      "desc": "Nếm bánh chuối và đưa ra đánh giá tích cực.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn biết hương vị bánh chuối ra sao."
+    },
+    {
+      "step": "Thưởng thức bánh sô vịt",
+      "desc": "Ăn bánh sô vịt kèm với dưa.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự kết hợp bánh và dưa."
+    },
+    {
+      "step": "Thưởng thức bánh cam",
+      "desc": "Thử bánh cam và bánh bò nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng của bánh."
+    },
+    {
+      "step": "Thưởng thức bánh xu xê",
+      "desc": "Ăn bánh xu xê và khen ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy hấp dẫn và muốn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "ngon quá",
+    "ngon thiệt á"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Trời ơi ngon thiệt á, lâu rồi không ăn nha.",
+    "Ngon ngon quá.",
+    "Bánh quê miền tây ăn ngon lắm nha cả nhà, ngon đấy!"
+  ],
+  "hook_content": "nè ăn bánh quê miền tây nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu và review các loại bánh quê miền Tây như bánh bò thốt nốt, bánh da lợn, bánh chuối, bánh sô vịt, bánh cam, bánh bò nướng và bánh xu xê, với những đánh giá tích cực về hương vị.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mô tả sự cố",
+      "desc": "Người nói chia sẻ về việc lấy quá nhiều thạch dừa.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự bất ngờ và có chút hài hước."
+    },
+    {
+      "step": "Khắc phục",
+      "desc": "Nấu hết chỗ thạch dừa đã nở quá nhiều.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "May mắn vì thạch dừa ngon nên có thể ăn hết.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy nhẹ nhõm và có chút vui vẻ."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "giòn giòn dai dai",
+    "may mắn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Em sai lầm to rồi!",
+    "thạch dừa nở to ơi là to",
+    "May quá đi mất!"
+  ],
+  "hook_content": "Em sai lầm to rồi!",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video kể về việc người làm video lỡ lấy quá nhiều thạch dừa khiến thạch nở ra rất nhiều. May mắn là thạch dừa ngon nên có thể ăn hết.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Chân thành"
+  ]
+}

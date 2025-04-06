@@ -1,0 +1,89 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mời cô bán hàng",
+      "desc": "Xin cô bán sắn và mời cô ăn món khác thay vì trả tiền.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với cách trả giá độc đáo."
+    },
+    {
+      "step": "Hỏi về món ăn",
+      "desc": "Hỏi cô bán hàng về cách ăn sắn và các món khác.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin cần thiết."
+    },
+    {
+      "step": "Đánh giá quán ăn",
+      "desc": "Nhận xét quán ăn ngon, sạch sẽ, rẻ và hợp lý.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá."
+    },
+    {
+      "step": "Miêu tả món ăn",
+      "desc": "Miêu tả chi tiết miếng cá to dày và cách chấm mắm tôm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món ăn."
+    },
+    {
+      "step": "Thông tin chi phí",
+      "desc": "Chia sẻ chi phí ăn uống cho ba người chỉ hơn trăm nghìn.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với giá cả phải chăng."
+    },
+    {
+      "step": "Giới thiệu địa điểm",
+      "desc": "Giới thiệu địa chỉ quán chả cá lăng Nguyễn Văn Tuyết.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhớ địa điểm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nay mình ăn được chả cá lăng 144 Nguyễn Văn Tuyết nhá, mọi người mà đi qua đây và ăn thử xem."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "sạch sẽ",
+    "rẻ",
+    "hợp lý",
+    "hết sảy",
+    "thoải mái"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Người lớn đi đa số là ăn uống rất khó tính, nhưng mà phải thốt lên hai cái từ hợp lý thì mọi người biết như nào rồi đấy.",
+    "Cái miếng cá nó to dày thịt chấm cùng mắm tôm thì hết sảy luôn.",
+    "Nay mình đi ba người cả bàn này tính ra mỗi người có hơn trăm, ăn no căng từ ếch rang muối rồi sụn gà chiên mắm, canh cá thì đủ cả."
+  ],
+  "hook_content": "Cô ơi cô còn sắn không cô?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán chả cá lăng ở Nguyễn Văn Tuyết, Hà Nội, với các món ăn như sắn, sụn gà chiên mắm, ếch rang muối và canh cá. Người review đánh giá quán ngon, sạch sẽ, rẻ và hợp lý, đồng thời khuyến khích mọi người ghé thăm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

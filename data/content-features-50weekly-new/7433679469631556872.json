@@ -1,0 +1,81 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu về mối quan hệ mẹ con hay nói ngược",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị khi thấy sự đáng yêu này"
+    },
+    {
+      "step": "Kể chuyện",
+      "desc": "Chia sẻ những hành động quan tâm của mẹ khi về thăm",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy ấm áp và gần gũi"
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Review mặt nạ dưỡng thể ban đêm Vaseline Gluta-Hya",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm"
+    },
+    {
+      "step": "Công dụng sản phẩm",
+      "desc": "Nêu cảm nhận khi sử dụng sản phẩm dưỡng da",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào hiệu quả"
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Nhắc nhở việc bôi dưỡng da thường xuyên",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy hữu ích"
+    },
+    {
+      "step": "Đặt câu hỏi",
+      "desc": "Hỏi khán giả về trải nghiệm với phụ huynh",
+      "impact_level": "1",
+      "viewer_emotion": "Muốn chia sẻ"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thích",
+    "khen",
+    "mềm",
+    "ẩm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "tan như nước trên da thấm rất là nhanh rồi không có thấy bết rít gì hết",
+    "Bôi và một cái là thấy da nó mềm mềm ẩm ẩm rất là thích",
+    "mình mua cho riêng á là không có xài nha. Giống kiểu thích xài chung xong rồi mình phải bôi cho nữa không"
+  ],
+  "hook_content": "Phụ huynh là hay ngoài lạnh trong nóng lắm.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video chia sẻ về mối quan hệ mẹ con \"ngoài lạnh trong nóng\" và giới thiệu mặt nạ dưỡng thể Vaseline Gluta-Hya, đồng thời nêu cảm nhận và công dụng của sản phẩm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

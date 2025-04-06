@@ -1,0 +1,84 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu bánh mochi kem lạnh và các vị khác nhau.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm"
+    },
+    {
+      "step": "Đánh giá vị sầu riêng",
+      "desc": "Miêu tả chi tiết hương vị và cảm nhận khi ăn vị sầu riêng.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Đánh giá vị đậu nành",
+      "desc": "Nhấn mạnh độ béo, ngậy và mức độ ngọt của vị đậu nành.",
+      "impact_level": "2",
+      "viewer_emotion": "Cân nhắc"
+    },
+    {
+      "step": "Đánh giá vị khoai môn",
+      "desc": "So sánh với các loại mochi khác và đánh giá độ ngọt.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử"
+    },
+    {
+      "step": "So sánh độ ngọt",
+      "desc": "So sánh độ ngọt của bánh mochi với các loại bánh khác.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "dẻo",
+    "ít ngọt",
+    "không bị bột",
+    "đã",
+    "thích",
+    "mềm",
+    "mịn",
+    "thơm",
+    "béo",
+    "ngậy",
+    "ngon",
+    "không bị bở",
+    "ít ngọt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Bánh ăn rất là dẻo, không bị bột. Cái nhân kem thì nó mịn, nó mềm, nó giống như nhân kem trong bánh crepe sầu ấy.",
+    "Trong các cái loại bánh mochi đóng túi như thế này mà mình đã từng ăn thì cá nhân mình thấy đây là cái loại ngon nhất.",
+    "Mình thấy cái bánh này là cái bánh mà ít ngọt nhất."
+  ],
+  "hook_content": "Cái bánh mochi kem lạnh này ăn nó dẻo, nó ít ngọt, nó không bị bột, ăn đã luôn mọi người ạ.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review bánh mochi kem lạnh với ba vị khác nhau: sầu riêng, đậu nành và khoai môn, tập trung vào độ dẻo, ít ngọt và hương vị đặc trưng của từng loại. Người nói đánh giá cao sản phẩm so với các loại mochi khác trên thị trường.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

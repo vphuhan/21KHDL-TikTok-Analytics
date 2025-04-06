@@ -1,0 +1,94 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món mì cay chòi lá tự nấu tại nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách làm món ăn này."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê các nguyên liệu tươi ngon và đa dạng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn với sự phong phú của nguyên liệu."
+    },
+    {
+      "step": "Nấu nước lèo",
+      "desc": "Hướng dẫn nấu nước lèo ngọt nước từ tôm khô và gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn biết bí quyết nấu nước lèo ngon."
+    },
+    {
+      "step": "Xào kim chi",
+      "desc": "Hướng dẫn xào kim chi với tỏi, sả và các loại gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thơm ngon và kích thích vị giác."
+    },
+    {
+      "step": "Trụng nguyên liệu",
+      "desc": "Trụng tôm, mực, bò viên, xúc xích trong nước lèo.",
+      "impact_level": "1",
+      "viewer_emotion": "Lo lắng liệu hải sản có chín kỹ không."
+    },
+    {
+      "step": "Nấu mì cay",
+      "desc": "Cho kim chi xào vào nước lèo, nêm nếm lại gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức muốn nếm thử vị cay nồng."
+    },
+    {
+      "step": "Hoàn thiện và thưởng thức",
+      "desc": "Cho mì, rau củ, hải sản, thịt bò vào thố đất và nấu.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng món mì cay nóng hổi."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cả nhà hãy xem Tuấn trổ tài này nha.",
+    "Bây giờ xin mời cả nhà nha."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "cay",
+    "nóng",
+    "đã",
+    "sướng",
+    "hấp dẫn",
+    "đói bụng",
+    "mát mẻ",
+    "dễ chịu"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mì cay chảo lá bằng giá nhà hàng, duy nhất một cấp độ cay không thấy đường về luôn.",
+    "Tuấn giả tâm khô để nấu nước lèo cho ngọt nước, tôm khô nhà làm sẵn.",
+    "Làm một đũa nóng hổi, ta thổi nó sướng gì đâu đó."
+  ],
+  "hook_content": "Mì cay chảo lá bằng giá nhà hàng, duy nhất một cấp độ cay không thấy đường về luôn.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn nấu món mì cay chòi lá tại nhà với các nguyên liệu tươi ngon và cách chế biến đơn giản, mang đến món ăn cay nồng, hấp dẫn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

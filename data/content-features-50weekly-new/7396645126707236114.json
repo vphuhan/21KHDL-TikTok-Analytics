@@ -1,0 +1,101 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mô tả tình trạng",
+      "desc": "Mỏi cổ vai gáy do ngồi nhiều, quyết định đi tập Pilates.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với tình trạng của nhân vật."
+    },
+    {
+      "step": "Chia sẻ trải nghiệm",
+      "desc": "Háo hức buổi đầu, đau nhức toàn thân sau đó.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị với sự tương phản trong trải nghiệm."
+    },
+    {
+      "step": "Giải pháp",
+      "desc": "Chọn phở gói để ăn thay vì nấu cơm sau buổi tập.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy gần gũi và dễ hiểu."
+    },
+    {
+      "step": "Review sản phẩm",
+      "desc": "Giới thiệu phở bò Đệ Nhất, khen ngon chuẩn vị Hà Nội.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến sản phẩm được giới thiệu."
+    },
+    {
+      "step": "Thao tác nấu ăn",
+      "desc": "Trần bò tái, thêm hành, pha nước và thưởng thức.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có nhiều cảm xúc."
+    },
+    {
+      "step": "Nhấn mạnh trải nghiệm",
+      "desc": "Khen sợi phở dai mềm ngon, nước súp đậm đà.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món phở."
+    },
+    {
+      "step": "Tương tác hài hước",
+      "desc": "Nũng nịu kể với chồng, dặn dò chuyện tập luyện.",
+      "impact_level": "3",
+      "viewer_emotion": "Vui vẻ, thích thú với sự hài hước."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ai mà gu đậm đà thì ăn phở bò Đệ Nhất nha."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "háo hức",
+    "ngủ ngon",
+    "sâu giấc",
+    "ê ẩm",
+    "cố gắng",
+    "ngon",
+    "ấm",
+    "đậm đà",
+    "chuẩn quán Hà Nội",
+    "đầy đặn",
+    "dai",
+    "mềm",
+    "ngon",
+    "nũng nịu",
+    "đểu"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nếu như không có sự ràng buộc về mặt tiền bạc thì chắc là cũng từ bỏ để ở nhà nằm dài hát karaoke rồi đấy.",
+    "Mình là có thể ăn phở một mình thiếu Anh Nguyên nhưng mà không thể thiếu giấm tỏi.",
+    "Đợi chị tập 12 tháng nữa đi cưng, lúc đấy chị sẽ cho em biết như thế nào là lễ độ."
+  ],
+  "hook_content": "Mình ở nhà nằm với ngồi nhiều nên là mình bị mỏi cái cổ vai gáy này này. Nên đợt vừa rồi mình đăng ký đi tập Pilates.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video chia sẻ về trải nghiệm đi tập Pilates và giải pháp ăn phở gói sau buổi tập. Đồng thời, video review phở bò Đệ Nhất với những đánh giá về sợi phở và nước súp.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

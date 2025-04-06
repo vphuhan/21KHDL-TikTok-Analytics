@@ -1,0 +1,77 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu về quán ăn món Âu giá Việt có đầu bếp kinh nghiệm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán ăn và kinh nghiệm của đầu bếp."
+    },
+    {
+      "step": "Đảm bảo chất lượng",
+      "desc": "Khẳng định chất lượng món ăn và cam kết hoàn tiền nếu không ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Tin tưởng vào chất lượng món ăn."
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu các món ăn đặc trưng như cơm chiên, bò đút chảo,...",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và muốn thử các món ăn."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Đánh giá chi tiết về nguyên liệu và hương vị của từng món.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy món ăn hấp dẫn và chất lượng."
+    },
+    {
+      "step": "Thông tin về quán",
+      "desc": "Cung cấp thông tin về giờ mở cửa và địa điểm của quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết thêm thông tin để ghé thăm quán."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "vừa miệng",
+    "thơm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nếu mà các bạn mà tới ăn mà cảm thấy không ngon là báo mình không tính tiền gì cái món cơm chiên đó.",
+    "Từ khi mở đến giờ 10.000 người ăn chưa bao giờ biết chê.",
+    "giữ gì sao lại tiếp tục một cái quán bán món Âu nhưng mà giá Việt"
+  ],
+  "hook_content": "Anh hứa luôn, nếu mà các bạn mà tới ăn mà cảm thấy không ngon là báo mình không tính tiền gì cái món cơm chiên đó.",
+  "hook_type": [
+    "Khuyến mãi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu quán ăn món Âu giá Việt, có đầu bếp kinh nghiệm làm tại Lãnh sự Pháp. Quán nổi tiếng với các món như cơm chiên, bò đút chảo, sử dụng nguyên liệu chất lượng và có nhiều đánh giá tích cực.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

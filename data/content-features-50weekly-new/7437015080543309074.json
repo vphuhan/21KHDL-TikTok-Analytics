@@ -1,0 +1,83 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người ăn chay, ăn healthy"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu các loại socola đen với phần trăm đắng khác nhau.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Thử nghiệm socola 35%",
+      "desc": "Thử socola 35% và nhận xét vẫn còn vị ngọt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị."
+    },
+    {
+      "step": "Thử nghiệm socola 58%",
+      "desc": "Thử socola 58% và nhận xét ít ngọt hơn, chưa đắng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với các mức độ khác nhau."
+    },
+    {
+      "step": "Thử nghiệm socola 72%",
+      "desc": "Thử socola 72% và cảm nhận vị đắng nhẹ.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi tò mò và muốn thử."
+    },
+    {
+      "step": "Thử nghiệm socola 85%",
+      "desc": "Thử socola 85% và nhận xét đắng hơn, ngọt ít.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy vị đắng tăng lên."
+    },
+    {
+      "step": "Thử nghiệm socola 100%",
+      "desc": "Thử socola 100% và cảm thấy rất đắng, không ngọt.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ vì quá đắng."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Đánh giá và so sánh độ ngọt, đắng của các loại socola.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích vì có so sánh."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "Đắng",
+    "Ngọt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "85% nè, hơi đắng thôi, còn 100% . Trời ơi 100% là hơi bị đắng á, không thấy ngọt luôn.",
+    "Cái 300% là ngọt nhất.",
+    "Ai đủ đô thì ăn lại 100 nha."
+  ],
+  "hook_content": "Ê! Đắng thế.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "So sánh",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review các loại socola đen không đường với phần trăm đắng khác nhau, từ 35% đến 100%, và đưa ra đánh giá về độ ngọt, đắng của từng loại. Người nói chia sẻ trải nghiệm cá nhân khi thử từng loại socola.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Chân thành"
+  ]
+}

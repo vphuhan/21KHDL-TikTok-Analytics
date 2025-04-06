@@ -1,0 +1,88 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về việc review các món ăn trong đám cưới.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Khai vị",
+      "desc": "Đánh giá món bánh Paté So, nhận xét bên ngoài giòn, bên trong nhiều thịt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Món gỏi",
+      "desc": "Nhận xét gỏi bò bóp thấu đậm đà, thịt bò mềm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Súp hải sản",
+      "desc": "Đánh giá súp hải sản ngon, nhưng thiếu trứng cút.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Món chính",
+      "desc": "Review cá chẽm sốt Sambal, thịt cá ngọt nhưng sốt không đậm đà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Món rau",
+      "desc": "Nhận xét cải thìa xào nấm mềm, tươi.",
+      "impact_level": "2",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Món hầm",
+      "desc": "Gà hầm nấm rau củ hơi nhạt, rau củ ngọt.",
+      "impact_level": "2",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "ngọt",
+    "đậm đà",
+    "mềm",
+    "giòn",
+    "fresh",
+    "lạ lạ ngon ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Khúc này ai nói tao nhà quê tao chịu chứ tao thích đi ăn đám tiệc kiểu là mình tự gắp hơn nha.",
+    "Ê, kiểu tui với cái má Quỳnh Phụng này gặp là nói quá trời nói luôn nói không biết nói gì mà trong clip lúc nào cũng vẫn giỡn.",
+    "Với khẩu vị tui thì nó sẽ hơi nhạt rau củ thì ngọt nha."
+  ],
+  "hook_content": "Review tất cả các món đồ ăn trong đám cưới của cô dâu Headger trứng rán cần mỡ bắp cần bơ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video review 7 món ăn trong đám cưới, từ khai vị đến tráng miệng, đưa ra các nhận xét về hương vị, cách chế biến và trải nghiệm cá nhân khi thưởng thức các món ăn này.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

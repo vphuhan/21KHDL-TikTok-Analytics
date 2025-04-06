@@ -1,0 +1,60 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu cách làm ly Harry Potter bằng lò vi sóng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách làm và hương vị."
+    },
+    {
+      "step": "Thực hiện",
+      "desc": "Hướng dẫn các bước làm chi tiết, ngắn gọn, dễ thực hiện.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thú vị và muốn thử."
+    },
+    {
+      "step": "Nếm thử",
+      "desc": "Uống thử và nêu cảm nhận về hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ về hương vị mặn và đắng."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "mặn",
+    "đắng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nó mặn!",
+    "Xong rồi nó đắng."
+  ],
+  "hook_content": "Xin bạn hãy khoáng một miếng bơ vào cốc bia kiểu.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn cách làm \"sinh tố lúa mạch Harry Potter\" bằng lò vi sóng, sau đó người làm tự uống thử và nhận xét món đồ uống này mặn và đắng.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Ngạc nhiên"
+  ]
+}

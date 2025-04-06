@@ -1,0 +1,78 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu cửa hàng",
+      "desc": "Giới thiệu cửa hàng giá rẻ ở quận 6, mua không cần nhìn giá.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về những món đồ rẻ được giới thiệu."
+    },
+    {
+      "step": "Review sản phẩm",
+      "desc": "Review các sản phẩm đa dạng như quà Tết, đồ gia dụng, bánh kẹo.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hứng thú với nhiều sản phẩm giá rẻ."
+    },
+    {
+      "step": "Kiểm tra chất lượng",
+      "desc": "Kiểm tra hạn sử dụng sản phẩm, trấn an người xem về chất lượng.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy an tâm hơn về sản phẩm."
+    },
+    {
+      "step": "Ưu đãi",
+      "desc": "Giới thiệu các ưu đãi khi mua số lượng lớn như tặng thêm sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hấp dẫn bởi các ưu đãi."
+    },
+    {
+      "step": "Thanh toán",
+      "desc": "Thông báo về chương trình quà tặng khi mua trên 300 cành.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy vui vẻ và có động lực mua sắm hơn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "rẻ",
+    "quất",
+    "dữ",
+    "lụm",
+    "quá rẻ"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "mua đồ không cần nhìn giá",
+    "toàn là giá sốc không à",
+    "rinh về chắc cả bao tải luôn quá"
+  ],
+  "hook_content": "ngày hôm nay tôi đã biết cái cảm giác mua đồ không cần nhìn giá là như thế nào.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video giới thiệu một cửa hàng giá rẻ ở quận 6, nơi người mua có thể thoải mái lựa chọn các mặt hàng đa dạng như đồ gia dụng, bánh kẹo, nước ngọt với giá cả phải chăng và nhiều ưu đãi hấp dẫn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

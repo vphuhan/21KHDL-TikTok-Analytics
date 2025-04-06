@@ -1,0 +1,80 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mua sắm đồ dùng",
+      "desc": "Cả nhà đi siêu thị mua quần áo mới tặng Sơ Hân.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Chuẩn bị các loại nguyên liệu tươi và làm sốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Trình bày món ăn",
+      "desc": "Sắp xếp các loại rau, topping và thịt lên trên.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Hoàn thiện món ăn",
+      "desc": "Đổ nước hầm và sốt lên trên cùng để nấu.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức"
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Hai vợ chồng cùng nhau ăn và cảm nhận món lẩu.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Rồi mọi người ăn chung với hai chồng mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngọt",
+    "mặn",
+    "cay",
+    "hấp dẫn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Để cho có mùi đồ mới á thì mình phải mặc đồ mới trước khi giặt thì nó mới gọi là đồ mới nha.",
+    "Nhà sáng tạo nội dung mà cái nội dung của mình nó không được lạ thì nó phải đẹp đúng không mọi người?",
+    "Vị của cái món này nó sẽ ngọt ngọt mặn mặn cay cay nhưng mà cái hậu vị ngọt nó sẽ thiên về nhiều hơn."
+  ],
+  "hook_content": "Hôm nay mình mới nhớ là bữa trưa chỉ làm sinh nhật thôi chứ chưa có mua gì cho Sơ Hân.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình chuẩn bị và nấu món lẩu thịt bò bạch tuộc Bunaksae tại nhà. Sau đó cả gia đình cùng nhau thưởng thức món ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

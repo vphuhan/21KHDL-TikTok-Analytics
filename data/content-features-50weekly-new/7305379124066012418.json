@@ -1,0 +1,56 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu hột vịt lộn và trứng cút lộn ăn vào nửa đêm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn khuya."
+    },
+    {
+      "step": "Bắt đầu ăn",
+      "desc": "Bắt đầu ăn hột vịt lộn với ớt.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng khi thấy ăn ngon."
+    },
+    {
+      "step": "Tiếp tục ăn",
+      "desc": "Ăn liên tục và khen ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thích thú."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ăn vậy mới ngon chứ."
+  ],
+  "hook_content": "Nè, bữa nay mình vừa có hột vịt lộn với lại trứng cút lộn, phải không?",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang ăn hột vịt lộn và trứng cút lộn vào đêm khuya, tập trung vào trải nghiệm ăn uống và cảm nhận về món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

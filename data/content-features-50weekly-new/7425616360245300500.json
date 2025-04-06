@@ -1,0 +1,97 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Đi chợ mua hải sản và ướp chân gà để nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự chuẩn bị kỹ lưỡng, mong chờ món ăn."
+    },
+    {
+      "step": "Chia sẻ kỷ niệm",
+      "desc": "Nhớ lại kỷ niệm với bạn thân và thói quen ăn chân gà nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy ấm áp và gần gũi với tình bạn."
+    },
+    {
+      "step": "Đón khách và chuẩn bị",
+      "desc": "Khách đến nhà, chuẩn bị sân thượng để nướng và ăn uống.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức và mong chờ buổi tiệc nướng."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Uống viên sủi giảm tích mỡ và chia sẻ về sản phẩm.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin về sản phẩm không quá nổi bật."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Nướng và thưởng thức chân gà, hải sản trên sân thượng.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng và muốn tham gia."
+    },
+    {
+      "step": "Thổi nến và tâm sự",
+      "desc": "Thổi nến sinh nhật, hai anh em quấn quýt.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp, dễ thương."
+    },
+    {
+      "step": "Kết thúc buổi tiệc",
+      "desc": "Tạm biệt khách và hẹn gặp lại vào tuần sau.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy tiếc nuối khi buổi tiệc kết thúc."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Sáng tạo"
+  ],
+  "cta_content": [
+    "Mọi người hỏi có bán không thì mình không có bán nha. Mình tìm lại chỗ bán rồi mình sẽ để dưới comment cho mọi người nha."
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Chia sẻ"
+  ],
+  "emotion_keywords": [
+    "mát",
+    "thích hợp",
+    "vừa ăn, vừa ngắm cảnh",
+    "chiu chiu",
+    "mừng",
+    "ngon",
+    "nhức nách",
+    "mừng hơn trúng cả nhà mình"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trời ơi mà nhìn cái hôi sa tế này mình mới nhớ ra là mình làm nó từ cái hồi mình mới bắt đầu làm top top luôn.",
+    "Nhìn đồ ăn như thế này rồi lại ngồi với không cảnh như thế này nữa, mừng hơn trúng cả nhà mình nha.",
+    "Không gặp nhau thì thôi chứ mỗi lần mà gặp nhau là hai anh em nó quấn quýt dễ thương thiệt chứ."
+  ],
+  "hook_content": "nhà mình sẽ có chị bạn qua chơi nên là từ sáng cả nhà mình sẽ đi chợ, nấu ăn, dọn nhà.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình chuẩn bị và tổ chức tiệc nướng chân gà, hải sản tại nhà để đón bạn thân, chia sẻ những kỷ niệm và giới thiệu sản phẩm viên sủi giảm cân. Buổi tiệc diễn ra vui vẻ với nhiều món ăn ngon và không khí ấm cúng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

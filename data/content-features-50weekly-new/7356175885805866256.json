@@ -1,0 +1,59 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Mời mọi người cùng ăn trứng vịt lộn và giới thiệu số lượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn và số lượng."
+    },
+    {
+      "step": "Ăn và miêu tả",
+      "desc": "Ăn trứng vịt lộn và nhận xét về độ ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thèm thuồng."
+    },
+    {
+      "step": "Đánh giá kích thước",
+      "desc": "Nhận xét về kích thước của trứng vịt lộn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Giới thiệu chi tiết",
+      "desc": "Cho xem phần lòng của trứng vịt lộn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hình dạng bên trong."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "ngon quá",
+    "Cái này con hơi to nha mọi người."
+  ],
+  "hook_content": "Mời mọi người ăn trứng vịt lộn với em nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang về trứng vịt lộn, người nói giới thiệu số lượng trứng, ăn và đánh giá hương vị, kích thước của trứng.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

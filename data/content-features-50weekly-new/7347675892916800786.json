@@ -1,0 +1,93 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Thèm bạch tuộc nướng nên phải đi chợ mua nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Gỡ sơ bạch tuộc, hái bông lục bình để ăn kèm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Ướp bạch tuộc",
+      "desc": "Ướp bạch tuộc với sa tế và ngũ vị hương đơn giản.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Nướng bạch tuộc",
+      "desc": "Nướng bạch tuộc trên lò nướng than hoa.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức"
+    },
+    {
+      "step": "Pha nước chấm",
+      "desc": "Pha muối tiêu chanh ớt để chấm bạch tuộc nướng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Trình bày món ăn",
+      "desc": "Trang trí bạch tuộc nướng ra đĩa với rau răm, dưa leo.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Thưởng thức và review",
+      "desc": "Thưởng thức bạch tuộc nướng sa tế và review cảm nhận.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "ai có dùng thì có gì nhắn mình nghe",
+    "ai biết cái món gì làm từ lục bình thì chỉ cho mình biết với ha"
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Chia sẻ công thức"
+  ],
+  "emotion_keywords": [
+    "thèm",
+    "ngon",
+    "khoái",
+    "cay",
+    "giòn",
+    "cuốn",
+    "bắt vị"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tôi nói thèm bạch tuột từ hôm qua tới bây giờ nên là sáng nay phải chạy ra chợ kiếm cho bằng được.",
+    "Trong tất cả các món nướng thì cái bạch tuột nướng chắc là cái món mà mình yêu thích nhất.",
+    "Kiểu nướng sa tế thì ăn nó cay cay mà cái chân bạch tuột nó giòn giòn nữa nên thành ra là cái món này ăn cuốn dữ thần lắm."
+  ],
+  "hook_content": "Tôi nói thèm bạch tuột từ hôm qua tới bây giờ nên là sáng nay phải chạy ra chợ kiếm cho bằng được.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ về món bạch tuộc nướng sa tế, từ khâu đi chợ mua nguyên liệu, sơ chế, ướp gia vị, nướng và thưởng thức. Người làm video chia sẻ cảm nhận về món ăn yêu thích này và gợi ý cách ăn kèm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

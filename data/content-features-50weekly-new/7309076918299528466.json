@@ -1,0 +1,89 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món gà rán Hàn Quốc, tokbokki và trứng hấp.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chuẩn bị gà",
+      "desc": "Rửa và ướp gà với muối, rượu, bột ngọt, tiêu trong 1-2 tiếng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin cơ bản."
+    },
+    {
+      "step": "Pha bột chiên gà",
+      "desc": "Trộn bột chiên, bột đậu và bột cà ri Hàn Quốc.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, công thức đơn giản."
+    },
+    {
+      "step": "Nấu tokbokki",
+      "desc": "Nấu tokbokki với nước dùng, ớt bột, tương ớt, nước tương, đường.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với cách nấu."
+    },
+    {
+      "step": "Chiên gà",
+      "desc": "Chiên gà trong chảo dầu nóng đến khi chín vàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi hình ảnh chiên gà."
+    },
+    {
+      "step": "Thêm chả cá vào tokbokki",
+      "desc": "Cho chả cá vào tokbokki và đun nhỏ lửa.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thao tác nấu ăn."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Mời mọi người ăn và mô tả hương vị món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn ăn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "mời mọi người ăn chung với cả nhà mình nha"
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "béo",
+    "ngọt",
+    "mặn",
+    "cay"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái vỏ ở bên ngoài nó giòn, còn bên trong nó thấm ngon lắm mọi người.",
+    "Vừa béo béo mà ngọt ngọt ăn với tokbokki mặn mặn cay cay rồi dính cà dính luôn."
+  ],
+  "hook_content": "Bữa ăn mà được ba tụi Hân nấu thì sẽ như thế nào hen?",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình chuẩn bị bữa tối với món gà rán Hàn Quốc, tokbokki và trứng hấp. Người làm video chia sẻ công thức, kinh nghiệm và mời mọi người cùng ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

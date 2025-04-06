@@ -1,0 +1,84 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Người nói tự giới thiệu và thông báo về món ăn hôm nay.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Bàn luận về độ hot",
+      "desc": "Nhấn mạnh độ hot của món trứng gà giữa nước.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy món này có vẻ hot."
+    },
+    {
+      "step": "Lưu ý khi mua",
+      "desc": "Dặn dò khi mua trứng gà giữa nước.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích."
+    },
+    {
+      "step": "Miêu tả cảm quan",
+      "desc": "Miêu tả trứng gà giữa nước sau khi luộc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Thưởng thức trứng gà giữa nước với muối tiêu ớt.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn ăn ngay lập tức."
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thân thiện."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tui nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "béo",
+    "đã"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Hột gà tui ra ngoài mua có 15 cành hoa một chục thôi.",
+    "Mọi người nhìn cái trứng của tui núng nính coi giống đậu hũ chưa nè.",
+    "Rưới lên một miếng muối tiêu ớt, húp vô một cái, ta nói nó béo mà đã gì đâu á chàng."
+  ],
+  "hook_content": "Hello mọi người, lại là tui, mặt bự thích ăn ngon đây.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món trứng gà giữa nước đang hot, chia sẻ trải nghiệm ăn và lưu ý khi mua. Người nói miêu tả hương vị béo ngậy và mời mọi người cùng ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

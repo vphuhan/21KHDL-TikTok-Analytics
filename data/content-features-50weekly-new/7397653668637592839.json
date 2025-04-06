@@ -1,0 +1,90 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Tự hỏi bánh ngải nhỏ do mua phải hàng đểu?",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "So sánh kích thước",
+      "desc": "So sánh bánh thực tế với bánh trên video.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên"
+    },
+    {
+      "step": "Mô tả chi tiết",
+      "desc": "Giá cả, thành phần và so sánh với quảng cáo.",
+      "impact_level": "2",
+      "viewer_emotion": "Cân nhắc"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét về mùi vị và chất lượng bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Đặt câu hỏi",
+      "desc": "Hỏi ý kiến về bánh ngải thật.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Đánh giá cuối cùng về giá cả và trải nghiệm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giải thích thêm",
+      "desc": "Chia sẻ lý do vẫn mua và quay video.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Bình luận",
+    "Đặt câu hỏi"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "dẻo dai"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Bánh ngải Lạng Sơn nó bé tí thật hay do mình mua phải bánh đểu ạ",
+    "35.000đ cho một cái xô này thì quá đắt",
+    "ăn hết cả cái xô này mình thấy nó chẳng bõ dính răng ấy"
+  ],
+  "hook_content": "Hello mọi người, cái bánh ngải mình thấy mọi người quay ở trên video sao nó to.",
+  "hook_type": [
+    "Gây tò mò",
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh",
+    "Đối thoại"
+  ],
+  "summarization": "Video review bánh ngải Lạng Sơn với thắc mắc về kích thước nhỏ bé so với quảng cáo, đồng thời đánh giá về hương vị và giá cả.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

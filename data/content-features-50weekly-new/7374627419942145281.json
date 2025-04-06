@@ -1,0 +1,90 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ốc bươu hấp Thái và hỏi người xem có thích không",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Ngâm ốc với nước vo gạo và sữa, chuẩn bị sả, lá chanh",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Pha cà phê",
+      "desc": "Pha cà phê Nhật Kim Anh để uống, giới thiệu về cà phê",
+      "impact_level": "1",
+      "viewer_emotion": "Không liên quan lắm"
+    },
+    {
+      "step": "Làm nước sốt",
+      "desc": "Xắt cà chua, khóm, riềng, sả để làm nước sốt Thái",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Luộc ốc",
+      "desc": "Vớt ốc ra và đem đi luộc với sả, lá chanh, riềng",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Hấp ốc",
+      "desc": "Xốc ốc với nước sốt, lá chanh rồi đậy nắp hấp",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Mời mọi người ăn ốc bu hấp Thái và cảm nhận",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn ăn ngay lập tức"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "còn giờ á thì hai mời mọi người cùng ăn ốc bu hấp Thái với nhà hai nè."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "vừa mát",
+    "đã"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ăn hấp thái là nó đã ngon rồi mà hai không ngờ ốc pô hấp Thái nó ngon dữ nữa.",
+    "Chèn ơi ta nói tới khúc này hen, nó thơm ngào ngạt bát ngát luôn.",
+    "Ốc hấp cũng chín rồi nè, giờ hai vít nó ra hen, chấm vô trong cái chén nước mắm thần thánh nữa ta nói nó ngon."
+  ],
+  "hook_content": "ăn hấp thái là nó đã ngon rồi mà hai không ngờ ốc pô hấp Thái nó ngon dữ nữa.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn cách làm món ốc bươu hấp Thái, từ khâu chuẩn bị nguyên liệu, làm nước sốt đến khi hoàn thành và thưởng thức. Người làm chia sẻ trải nghiệm cá nhân và mời mọi người cùng ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món kho quẹt và cơm trắng, món ăn dân dã.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Ăn kho quẹt với cơm và tóp mỡ, diễn tả cảm nhận.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Đánh giá món ăn, độ mặn và sự kết hợp với cơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Nói về lượng ăn và hẹn gặp lại ở video sau.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người xem video của mình. Hẹn gặp mọi người video sau."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "cuốn",
+    "mặn mặn",
+    "béo béo"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn với cái tom mỡ này mọi người, nó ngon lắm ấy.",
+    "Cho thêm mỡ vào nó kiểu nó mặn mặn béo béo ấy.",
+    "Ăn rất là cuốn luôn ấy."
+  ],
+  "hook_content": "Hết sạch rồi bát cơm rồi mọi người ạ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang món kho quẹt ăn kèm cơm trắng và tóp mỡ, người ăn vừa ăn vừa diễn tả cảm xúc ngon miệng, cuốn hút.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

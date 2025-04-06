@@ -1,0 +1,97 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu mèn mén và lý do lựa chọn món ăn này.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Hướng dẫn xay ngô và lọc để có được mèn mén.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với công đoạn chuẩn bị"
+    },
+    {
+      "step": "Chế biến",
+      "desc": "Trộn mèn mén với nước và hấp trong 15 phút.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ kết quả"
+    },
+    {
+      "step": "Đánh giá lần 1",
+      "desc": "Nhận xét về độ khô của mèn mén sau khi hấp.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy hơi thất vọng"
+    },
+    {
+      "step": "Chế biến lại",
+      "desc": "Thêm nước và hấp lại mèn mén.",
+      "impact_level": "2",
+      "viewer_emotion": "Kỳ vọng món ăn ngon hơn"
+    },
+    {
+      "step": "Đánh giá lần 2",
+      "desc": "Ăn thử mèn mén và mô tả hương vị, độ khô.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung lắng nghe miêu tả"
+    },
+    {
+      "step": "Kết hợp với canh",
+      "desc": "Ăn mèn mén với canh và so sánh với cơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với cách ăn mới"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người đã coi clip của em nha.",
+    "Lỡ như trong clip này có cái biểu cảm gì của em mà nó làm cho mọi người khó chịu thì em rất là xin lỗi, bye bye, cảm ơn mọi người rất là nhiều."
+  ],
+  "cta_type": [
+    "Chia sẻ"
+  ],
+  "emotion_keywords": [
+    "thương",
+    "thơm",
+    "béo",
+    "ngọt",
+    "khô",
+    "dễ nuốt",
+    "ngon",
+    "khó chịu"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mèn mén ta nói khô lắm.",
+    "Thật sự là mọi người phải ăn cái món này xong mọi người mới trân trọng được cái cái cái những hạt gạo.",
+    "Mỗi cái đặc sản của mỗi vùng á nó sẽ có cái cách ăn và cũng như là cái cách cảm nhận rất là khác."
+  ],
+  "hook_content": "Trên mạng mèn mén.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn",
+    "So sánh"
+  ],
+  "summarization": "Video review món mèn mén, một món ăn làm từ ngô của người dân tộc thiểu số, tập trung vào trải nghiệm ăn thử và đánh giá hương vị, độ khô của món ăn, đồng thời so sánh với cơm và cách ăn của người dân địa phương.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu mẹt bánh dân gian miền Tây và sữa Nutriboost.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món bánh và đồ uống."
+    },
+    {
+      "step": "Trải nghiệm sản phẩm",
+      "desc": "Uống sữa Nutriboost và mô tả hương vị, cảm nhận.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng, muốn thử."
+    },
+    {
+      "step": "Kết hợp và cảm nhận",
+      "desc": "Ăn bánh cùng sữa và chia sẻ cảm giác ngon miệng.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng về sự kết hợp."
+    },
+    {
+      "step": "Công dụng khác",
+      "desc": "Chia sẻ về việc dùng sữa để chống đói buổi sáng.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhận thông tin hữu ích."
+    },
+    {
+      "step": "Tổng kết",
+      "desc": "Nhấn mạnh sự thơm ngon và dễ uống của sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình, thấy hấp dẫn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người xem video của mình, hẹn mọi video sau."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngọt",
+    "thơm",
+    "ngọt ngào",
+    "quyến rũ",
+    "ngon mắt",
+    "chua",
+    "ngậy",
+    "ngọt thanh",
+    "thanh mát",
+    "nghiền",
+    "thơm ngon",
+    "bắt vị",
+    "dễ uống"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Xong rồi kiểu có thêm sữa nó kiểu ngọt ngào quyến rũ ấy.",
+    "Vị chua của dâu này, vị ngậy, ngọt thanh của sữa kiểu uống thanh mát ấy, uống là nghiền luôn ấy.",
+    "Nói chung là thơm ngon bắt vị lại dễ uống cực kỳ luôn ấy."
+  ],
+  "hook_content": "Xin chào mọi người, hôm nay mình có một mẹt bánh mì miền Tây, mời mọi người ăn cùng mình nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu và ăn thử mẹt bánh dân gian miền Tây kết hợp với sữa trái cây Nutriboost, miêu tả hương vị và cảm nhận khi ăn, đồng thời chia sẻ về công dụng của sữa trong việc cung cấp năng lượng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món cơm trộn thịt nướng và kể về gia đình.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy bình dị, ấm cúng."
+    },
+    {
+      "step": "Chuẩn bị rau",
+      "desc": "Rửa rau, luộc rau chân vịt và giá đậu nành để trộn cơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món trộn."
+    },
+    {
+      "step": "Xào rau củ",
+      "desc": "Bào bí ngòi, thái cà rốt và xào sơ cà rốt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Trộn cơm",
+      "desc": "Trộn cơm với rau, tương ớt, trứng ốp la, dầu mè.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn, thèm ăn."
+    },
+    {
+      "step": "Nấu canh và nướng thịt",
+      "desc": "Nấu canh tương đậu và nướng thịt để ăn cùng.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn ngay."
+    },
+    {
+      "step": "Hoàn thiện món ăn",
+      "desc": "Trộn cơm và mời mọi người cùng ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thấy đói bụng."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "giờ mời mọi người ăn cơm chung với hai vợ chồng mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "hấp dẫn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mà nói đi cũng phải nói lại con cái là cái duyên của ba mẹ mà đến như thế nào á thì mình cũng chấp nhận hết.",
+    "Cái cơm trộn này không cần giống đâu mọi người, mình thích ăn rau gì á thì mình cho vô rau đó cũng được.",
+    "không màu mè thì đâu phải là mình đâu mọi người."
+  ],
+  "hook_content": "Bữa nay mình sẽ làm cơm trộn để ăn chung với thịt nướng.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm món cơm trộn ăn kèm thịt nướng và canh tương đậu theo phong cách Hàn Quốc. Người làm chia sẻ quá trình chuẩn bị các nguyên liệu rau củ, cách trộn cơm và nướng thịt, đồng thời mời mọi người cùng thưởng thức.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Chia sẻ ý định ban đầu làm mực ngâm mắm nhưng chuyển sang tai heo.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về lý do thay đổi và món mới."
+    },
+    {
+      "step": "Sơ chế tai heo",
+      "desc": "Hướng dẫn chi tiết cách sơ chế và làm sạch tai heo.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích với hướng dẫn chi tiết."
+    },
+    {
+      "step": "Chuẩn bị mắm ngâm",
+      "desc": "Chia sẻ công thức mắm ngâm và lưu ý khi sử dụng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với công thức và những lưu ý."
+    },
+    {
+      "step": "Ngâm và chờ đợi",
+      "desc": "Hướng dẫn ngâm tai heo và chia sẻ thời gian chờ đợi.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy cần kiên nhẫn để có món ăn ngon."
+    },
+    {
+      "step": "Thưởng thức thành phẩm",
+      "desc": "Mô tả hương vị và cảm nhận về món tai heo ngâm mắm.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử ngay món ăn."
+    },
+    {
+      "step": "Ăn kèm cà",
+      "desc": "Thử ăn tai heo với cà và chia sẻ cảm nhận.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự kết hợp mới lạ."
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Khuyên dùng nước mắm Chinsu và chia sẻ địa điểm mua.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhớ thông tin hữu ích."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mình mất bốn ngày để làm được cái món này, mọi người chỉ mất khoảng nửa giây để tim cái video này."
+  ],
+  "cta_type": [
+    "Thích video"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "chảy nước miếng",
+    "giòn",
+    "chắc",
+    "vừa",
+    "ngon",
+    "xuất sắc",
+    "hơi ngọt",
+    "hăng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nếu như mà mắm ngon ấy thì ngâm cái gì cũng được.",
+    "Mình mất bốn ngày để làm được cái món này, mọi người chỉ mất khoảng nửa giây để tim cái video này.",
+    "Uầy, bố của xuất sắc."
+  ],
+  "hook_content": "Video này tốn nước miếng lắm đây.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ cách làm món tai heo ngâm mắm và ăn kèm với cà, từ khâu sơ chế, chuẩn bị mắm ngâm đến khi thưởng thức thành phẩm, đồng thời đưa ra những đánh giá về hương vị và lời khuyên hữu ích.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Xin phép và gọi món",
+      "desc": "Xin phép quay phim, gọi một tô phở bò tái nạm gân viên.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu quán phở",
+      "desc": "Được giới thiệu quán ngon nổi tiếng, hỏi về ông già tóc bạc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Trải nghiệm phở Sài Gòn",
+      "desc": "Ngày đầu ở Sài Gòn, thưởng thức phở bò thập cẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "So sánh phở",
+      "desc": "So sánh phở Sài Gòn với phở bò Nam Định, Hà Nội.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét nước dùng ngọt, đậm đà, béo ngậy thịt bò.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi đói"
+    },
+    {
+      "step": "Hướng dẫn ăn phở",
+      "desc": "Hướng dẫn chấm tương, trộn nước chấm, đổi tương.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Nhận xét chi tiết",
+      "desc": "Sợi phở dai, thịt tái mềm ngọt, không gian quán xinh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Giới thiệu với tất cả anh em bà con nhá, đây là quán phở của ông tóc bạc ở Nguyễn Văn Nguyễn, Tân Định, Quận Nhất nhá.",
+    "Ăn ok."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "tuyệt vời",
+    "hài lòng",
+    "ngọt",
+    "đậm đà",
+    "béo ngậy",
+    "thơm",
+    "mềm",
+    "ngọt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ngọt như là Ngọc Trinh thời trẻ í.",
+    "Điểm tuyệt vời hơn cả là sự nhiệt tình của người Sài Gòn.",
+    "Tôi rất hài lòng với cái quán phở bé bé nhỏ nhỏ xinh xinh này."
+  ],
+  "hook_content": "Con xin phép con quay tí nhá. Cho con một tô phở với ạ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán phở bò Sài Gòn nổi tiếng, tập trung vào hương vị đặc trưng của phở, so sánh với phở ở các vùng khác, và đánh giá cao sự nhiệt tình của người bán. Người quay phim đã có trải nghiệm hài lòng tại quán.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

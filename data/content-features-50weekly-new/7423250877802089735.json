@@ -1,0 +1,102 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món lòng bò sữa nướng và sự hấp dẫn của món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò, muốn xem tiếp"
+    },
+    {
+      "step": "Quá trình nướng",
+      "desc": "Cho lòng bò lên nướng và thêm sốt, gợi sự thèm thuồng.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi đói bụng"
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Bắt đầu ăn lòng bò nướng kèm kim chi và ớt.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn ăn ngay"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Miêu tả hương vị béo ngậy của mỡ và độ giòn của lòng.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy ngon miệng"
+    },
+    {
+      "step": "Cảm nhận độ ngấy",
+      "desc": "Nhấn mạnh độ ngấy của món ăn dù ăn kèm rau và uống nước.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi lo lắng"
+    },
+    {
+      "step": "Tương tác với người xem",
+      "desc": "Hỏi người xem có ăn hết được không, tăng tính tương tác.",
+      "impact_level": "1",
+      "viewer_emotion": "Tự hỏi bản thân"
+    },
+    {
+      "step": "Lời chào tạm biệt",
+      "desc": "Cảm ơn người xem và hẹn gặp lại ở video sau.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nếu mà bạn muốn vàng ăn món gì á thì comment ở dưới cho bạn biết nha."
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "hấp dẫn",
+    "ngon",
+    "ngấy",
+    "hào hứng",
+    "chảy nước miếng",
+    "phê",
+    "béo",
+    "dai dai giòn giòn",
+    "chua",
+    "sướng sướng",
+    "ngon quá",
+    "cuốn",
+    "vui miệng",
+    "đã"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ngửi cái mùi là ngấy cái não luôn rồi đó bạn.",
+    "Cắn vào nó tươm mỡ ra bạn.",
+    "Mỡ nó béo, cái vỏ ở bên ngoài nó dai dai giòn giòn bạn."
+  ],
+  "hook_content": "Xin chào các bạn, hôm nay Vàng sẽ ăn lòng bò sữa nướng nha các bạn ơi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video mukbang lòng bò nướng, tập trung vào trải nghiệm ăn uống và cảm nhận hương vị béo ngậy, dai giòn của món ăn. Người xem được mời tham gia bằng cách bình luận món ăn yêu thích.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

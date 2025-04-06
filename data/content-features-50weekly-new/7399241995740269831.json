@@ -1,0 +1,100 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu nho mẫu đơn",
+      "desc": "Giới thiệu về độ hot và giá cả của nho mẫu đơn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về loại nho và giá cả."
+    },
+    {
+      "step": "Nguồn gốc và nỗi lo",
+      "desc": "Nghi ngờ về nguồn gốc và chất lượng sản phẩm.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy hoài nghi về chất lượng."
+    },
+    {
+      "step": "Thử nghiệm nho",
+      "desc": "Ngâm rửa và ăn thử nho mẫu đơn.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ hương vị đặc biệt."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét về hương vị nhạt nhòa của nho.",
+      "impact_level": "2",
+      "viewer_emotion": "Thất vọng vì hương vị không như mong đợi."
+    },
+    {
+      "step": "Thử nghiệm chà là",
+      "desc": "Thử nghiệm và so sánh chà là gọt vỏ và không gọt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị chà là."
+    },
+    {
+      "step": "So sánh và kết luận",
+      "desc": "So sánh nho và chà là, đưa ra kết luận.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thông tin hữu ích."
+    },
+    {
+      "step": "Đánh giá lại nho",
+      "desc": "Phát hiện chùm nho khác ngọt hơn, thay đổi đánh giá.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ và vui vẻ."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người đã coi clip của mình.",
+    "Bye bye!"
+  ],
+  "cta_type": [
+    "Follow kênh",
+    "Thích video",
+    "Bình luận",
+    "Chia sẻ"
+  ],
+  "emotion_keywords": [
+    "khó tin",
+    "nhạt",
+    "chát",
+    "ngọt thanh",
+    "dễ thương",
+    "vui vẻ",
+    "hên"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Sao lạt nhách vậy?",
+    "Bảy chục cành mà!",
+    "Mấy cái quán mà em đã từng review mà em nói nói nhạt nói dở là tắng vô em."
+  ],
+  "hook_content": "Bảy chục cành nho mẫu đơn. Trên mạng nho mẫu đơn. Ngoài đời nho mẫu đơn nha mọi người ơi.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review nho mẫu đơn giá rẻ và chà là tươi. Ban đầu reviewer thấy nho nhạt nhẽo nhưng sau đó phát hiện một chùm khác ngọt hơn, còn chà là thì giống củ hủ dừa.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

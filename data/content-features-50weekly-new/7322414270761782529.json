@@ -1,0 +1,77 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quầy hàng",
+      "desc": "Giới thiệu quầy hàng đặc sản Đà Lạt và mời khách ăn thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món đặc sản."
+    },
+    {
+      "step": "Thử các loại mứt",
+      "desc": "Khách hàng được mời thử nhiều loại mứt khác nhau.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng."
+    },
+    {
+      "step": "Uống trà và thử bánh",
+      "desc": "Khách hàng uống trà, thử bánh và cảm nhận hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với sự chu đáo."
+    },
+    {
+      "step": "Đánh giá quầy hàng",
+      "desc": "Đánh giá quầy hàng có nhiều đồ ăn thử, giá cả hợp lý.",
+      "impact_level": "3",
+      "viewer_emotion": "Tin tưởng và muốn ghé thăm."
+    },
+    {
+      "step": "Thông tin địa điểm",
+      "desc": "Cung cấp địa chỉ quầy hàng để mọi người dễ tìm.",
+      "impact_level": "2",
+      "viewer_emotion": "Biết được địa chỉ cụ thể."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "giòn giòn chua chua ngon lắm luôn á",
+    "niềm nở",
+    "hợp lý phải chăng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Các bạn cứ được ăn thử thoải mái rồi mình thích cái món nào thì mình mới mua món đó.",
+    "Hàng chính hãng là nó có giá niêm yết ở đây luôn.",
+    "Mọi người thấy cái mâm đồ ăn thử của chị nha quá trời luôn nè."
+  ],
+  "hook_content": "Nếu bạn nào mà thích ăn vặt đó, thả hồ ăn, cứ ăn thử thoải mái, mình cảm thấy cái vị nào hợp với mình thì mình hãy mua cái vị đó.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review một quầy đặc sản ở chợ Đà Lạt, nơi khách hàng có thể thoải mái ăn thử các loại mứt, trà, bánh và được chủ quán tư vấn nhiệt tình, giá cả niêm yết rõ ràng. Người quay đánh giá cao sự đa dạng của sản phẩm và thái độ phục vụ của chủ quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

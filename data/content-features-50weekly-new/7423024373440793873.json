@@ -1,0 +1,92 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu sò huyết size khủng long trộn mắm thái.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "So sánh kích cỡ",
+      "desc": "So sánh kích cỡ sò huyết hiện tại với sò đã ăn trước đây.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với sự khác biệt kích thước."
+    },
+    {
+      "step": "Mô tả giá cả",
+      "desc": "Đề cập đến giá cả của sò huyết và nhận xét về giá.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có cảm xúc đặc biệt."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Luộc sò huyết và chia sẻ mẹo luộc.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích với mẹo luộc sò."
+    },
+    {
+      "step": "Pha chế mắm thái",
+      "desc": "Hướng dẫn pha mắm thái.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với công thức mắm thái."
+    },
+    {
+      "step": "Quảng cáo sản phẩm",
+      "desc": "Quảng cáo cà phê.",
+      "impact_level": "1",
+      "viewer_emotion": "Không quan tâm đến quảng cáo."
+    },
+    {
+      "step": "Trộn và thưởng thức",
+      "desc": "Trộn sò huyết với mắm thái và thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn ăn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi nhen."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "đã",
+    "ngon tê tái",
+    "thơm ngất ngây",
+    "ngon đỉnh",
+    "siêu cay",
+    "thơm phức"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ăn mắm thái là phải ăn với đũa keo nó mới keo liền",
+    "Thánh thần ơi con sò huyết con nào con nấy nó cũng bự bằng cái lòng bàn tay",
+    "Trộn đều cùng mắm thái đậm đà siêu cay mà thơm phức vậy bạn ơi."
+  ],
+  "hook_content": "Hello hello, lại là tôi mặt bự thích ăn ăn đây.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu cách làm món sò huyết trộn mắm thái với sò huyết kích cỡ lớn, từ khâu sơ chế, pha mắm đến trộn và thưởng thức. Người làm video cũng chia sẻ cảm xúc thích thú khi ăn món này.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu các món ăn đã mua và chuẩn bị cho bữa ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Bắt đầu ăn và thể hiện sự thích thú với các món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đói bụng."
+    },
+    {
+      "step": "Thông báo phiên live",
+      "desc": "Thông báo về phiên live sắp tới và cơ hội săn thưởng.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ phiên live."
+    },
+    {
+      "step": "Lời chào tạm biệt",
+      "desc": "Lời chào tạm biệt và mời gọi tiếp tục theo dõi.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "nhớ vào phiên live lúc 0 giờ ngày 24 tháng 12 để săn săn cùng anh em chúng tôi nhá trên kênh của ăn cùng Bà Tuyết.",
+    "Năm chỉ vàng nhớ nhá."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo",
+    "Follow kênh"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "giòn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cá kho Vũ Đại Cá kho này, canh măng nhà làm, thịt ba chỉ nướng giòn bì",
+    "Đang nạp năng lượng chuẩn bị cho phiên live tối ngày 24 0 giờ ngày 24 tháng 12.",
+    "Năm chỉ vàng nha mọi người á."
+  ],
+  "hook_content": "Mời anh em nhá. Mời anh em đưa hơn nhá.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình người đàn ông thưởng thức bữa ăn với cá kho, canh măng, thịt ba chỉ nướng và thông báo về phiên live sắp tới trên kênh Ăn cùng Bà Tuyết, nơi người xem có cơ hội săn năm chỉ vàng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

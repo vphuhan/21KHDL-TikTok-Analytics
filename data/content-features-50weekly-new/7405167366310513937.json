@@ -1,0 +1,95 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu video review mì Hảo Hảo và chi phí mua.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Review mì tôm chua cay",
+      "desc": "Đánh giá hương vị mì tôm chua cay cơ bản và chấm điểm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Review mì gà vàng",
+      "desc": "Đánh giá mì gà, so sánh với mì tôm chua cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Review mì lẩu kim chi",
+      "desc": "Nhận xét hương vị kim chi và chấm điểm.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Review mì tôm xào chua ngọt",
+      "desc": "Đánh giá mì xào, so sánh với phở.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Review các vị khác",
+      "desc": "Đánh giá mì tôm hành, hải sản, chay, sườn heo, sa tế.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Tổng kết",
+      "desc": "So sánh Hảo Hảo với Omachi, đưa ra lời khuyên.",
+      "impact_level": "2",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "gói nào bạn yêu thích nhất, hãy để lại phía dưới comment cũng như là like và follow để xem tôi tiếp tục phí tiền cho bạn nhé"
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Thích video",
+    "Follow kênh"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "hài hòa",
+    "bình thường",
+    "ổn",
+    "thơm ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "vị chủ đạo cũng chỉ là vị mặn thôi, không có độ chua cay gì cả",
+    "Tên anh là Hảo Hảo, tại sao anh lại không nhận vị tôm chua cay?",
+    "thay bao bì để marketing, cũng Spider man meme"
+  ],
+  "hook_content": "Xếp hạng tất cả các hương vị mì Hảo Hảo.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh",
+    "Liệt kê"
+  ],
+  "summarization": "Video xếp hạng các hương vị mì Hảo Hảo, đánh giá chi tiết từng loại và so sánh với các nhãn hiệu khác. Người nói đưa ra cảm nhận cá nhân và chấm điểm cho từng hương vị.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

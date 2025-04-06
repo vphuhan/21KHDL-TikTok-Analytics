@@ -1,0 +1,89 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán buffet ăn vặt giá rẻ với nhiều món.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn vặt."
+    },
+    {
+      "step": "Giá cả và ưu đãi",
+      "desc": "Phân tích giá cả buffet so với gọi món lẻ, nhấn mạnh tính hời.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú với sự tiết kiệm."
+    },
+    {
+      "step": "Địa điểm",
+      "desc": "Nhấn mạnh vị trí thuận lợi của quán trong khu ẩm thực.",
+      "impact_level": "2",
+      "viewer_emotion": "Tiện lợi cho người ở gần."
+    },
+    {
+      "step": "Menu đa dạng",
+      "desc": "Liệt kê các món ăn vặt có trong buffet và buffet nước.",
+      "impact_level": "2",
+      "viewer_emotion": "Choáng ngợp trước sự đa dạng."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Đánh giá chất lượng món ăn ở mức ổn, gợi ý món nên thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào trải nghiệm thực tế."
+    },
+    {
+      "step": "Thông tin chi tiết",
+      "desc": "Cung cấp địa chỉ, không gian quán và lời khuyên khi ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Biết thêm thông tin hữu ích."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người tham khảo thử nhá."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "đã",
+    "thoải mái",
+    "đam mê",
+    "tiện",
+    "rẻ",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ăn vặt phải ăn buffet cỡ này nó mới đã",
+    "ai mà đam mê ăn vặt bánh tráng, bánh cá, bánh mì muối ớt rồi xiên chiên các kiểu thì mọi người nhất định phải phải biết đến quán này",
+    "ăn đến đâu thì mình mới nên gọi thêm về đấy để ăn được ngon nhất nhá"
+  ],
+  "hook_content": "của ý nghì nồi muối ớt đấy ạ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video giới thiệu quán buffet ăn vặt 69k với nhiều món hấp dẫn như bánh tráng nướng, bánh mì nướng, tokbokki,... Quán nằm ngay trong ngõ 130 Xuân Thủy, Cầu Giấy, phù hợp cho team hảo ngọt.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

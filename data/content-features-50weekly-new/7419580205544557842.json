@@ -1,0 +1,75 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu địa điểm",
+      "desc": "Xuống xe và hỏi thăm đường đến quán xôi nhà chị Thảo.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về địa điểm quán xôi."
+    },
+    {
+      "step": "Gọi món và giới thiệu món ăn",
+      "desc": "Gọi xôi đuling gâu và xôi mèn mén, giới thiệu đặc sản.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với tên gọi độc đáo."
+    },
+    {
+      "step": "Miêu tả chi tiết món ăn",
+      "desc": "Miêu tả nguyên liệu và giá cả của các loại xôi.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với giá cả phải chăng."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét về độ dẻo, thơm của xôi, đặc biệt xôi dừa.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng hương vị xôi."
+    },
+    {
+      "step": "Gửi lời chúc",
+      "desc": "Chúc anh chị chủ quán mạnh khỏe và công việc thuận lợi.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy ấm áp, thân thiện."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "dẻo",
+    "mẩy",
+    "thơm",
+    "ngọt",
+    "thích"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Một gói xôi to oạch như này, có cả ruốc nữa mà chỉ có 10.000đ thôi.",
+    "Cái hạt xôi nó dẻo, nó mẩy mà nó thơm.",
+    "Hôm nay hữu duyên đến làng gió tai ăn xôi của anh chị Dương Thảo ơi, em chúc anh chị mạnh khỏe, bình an, công việc thuận lợi."
+  ],
+  "hook_content": "Xuống xe xuất trình giấy tờ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu quán xôi ở làng Gió Tai, đặc biệt là món xôi mèn mén và xôi đuling gâu. Người review đánh giá cao hương vị và giá cả của xôi.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

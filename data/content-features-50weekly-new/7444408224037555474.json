@@ -1,0 +1,89 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món thịt kho rệu và lý do chia sẻ công thức.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về bí quyết làm món thịt kho."
+    },
+    {
+      "step": "Chọn nguyên liệu",
+      "desc": "Hướng dẫn chọn thịt và sơ chế để món ăn ngon hơn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích với mẹo sơ chế thịt."
+    },
+    {
+      "step": "Công thức ướp thịt",
+      "desc": "Liệt kê chi tiết các nguyên liệu và tỉ lệ để ướp thịt.",
+      "impact_level": "2",
+      "viewer_emotion": "Ghi chú lại công thức để thử làm."
+    },
+    {
+      "step": "Bí quyết kho thịt",
+      "desc": "Chia sẻ bí quyết dùng nước dừa, nước lạnh và cách kho.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú với bí quyết lên màu và giữ độ mềm của thịt."
+    },
+    {
+      "step": "Vớt bọt và ủ lá mít",
+      "desc": "Hướng dẫn vớt bọt và ủ lá mít để thịt thơm ngon hơn.",
+      "impact_level": "2",
+      "viewer_emotion": "Học được thêm một mẹo nhỏ để món ăn hấp dẫn hơn."
+    },
+    {
+      "step": "Nêm nếm",
+      "desc": "Nhắc nhở nêm nếm lại cho vừa khẩu vị gia đình.",
+      "impact_level": "1",
+      "viewer_emotion": "Nhớ điều chỉnh gia vị theo sở thích."
+    },
+    {
+      "step": "Thành phẩm và tạm biệt",
+      "desc": "Chúc mọi người thành công và tạm biệt khán giả.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy được động viên để thử làm món ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Và Hưng chúc cả nhà sẽ thành công với món thịt kho này."
+  ],
+  "cta_type": [
+    "Chia sẻ công thức",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "tự nhiên",
+    "núng na núng nính",
+    "hot rần rần"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Và đây là bí quyết để món thịt kho rượu lên màu tự nhiên, còn miếng thịt á thì núng na núng nính.",
+    "Hương vị đặc trưng của món này á là mình dùng nước dừa để kho.",
+    "Sau khi ủ lá mít lên rồi á thì Hưng sẽ kho với lửa nhỏ riu riu."
+  ],
+  "hook_content": "Và đây là bí quyết để món thịt kho rượu lên màu tự nhiên, còn miếng thịt á thì núng na núng nính.",
+  "hook_type": [
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ công thức món thịt kho rệu với bí quyết lên màu tự nhiên và miếng thịt mềm ngon. Hưng hướng dẫn chi tiết từ khâu chọn thịt, ướp gia vị đến cách kho và nêm nếm để món ăn hợp khẩu vị gia đình.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

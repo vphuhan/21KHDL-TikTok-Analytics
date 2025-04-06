@@ -1,0 +1,95 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu cháo xe là đặc sản Hoài Đức, Đan Phượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món cháo lạ"
+    },
+    {
+      "step": "Mô tả món ăn",
+      "desc": "Miêu tả sợi cháo xe làm từ gạo đặc biệt, ăn bằng đũa.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự độc đáo"
+    },
+    {
+      "step": "So sánh",
+      "desc": "So sánh cháo xe với cháo sườn và cháo canh.",
+      "impact_level": "1",
+      "viewer_emotion": "Tự hỏi hương vị ra sao"
+    },
+    {
+      "step": "Nguồn gốc món ăn",
+      "desc": "Kể về sự tích cháo xe từ thời Vạn Xuân.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên về lịch sử"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá hương vị và topping của cháo xe.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món ăn"
+    },
+    {
+      "step": "Giới thiệu đồ uống",
+      "desc": "Giới thiệu trà mãng cầu và cà phê muối.",
+      "impact_level": "1",
+      "viewer_emotion": "Muốn thử đồ uống"
+    },
+    {
+      "step": "Lời chúc",
+      "desc": "Chúc mọi người có trải nghiệm đẹp tại quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thân thiện"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nhớ đọc bass anh Vũ ơi để nhận combo cháo quẩy trả con 48 xu nha.",
+    "Chúc mọi người có một trải nghiệm đẹp tại cháo xe nghệ nhân."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ấn tượng",
+    "mềm",
+    "thơm",
+    "vừa miệng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Lần đầu tiên trải nghiệm cháo se mà nó bùng nổ vị giác trong con miệng luôn các bạn ơi!",
+    "Món này xuất hiện đây đúng là tuyên bố là cháo sườn Hà Nội và cháo canh không có cửa so sánh luôn.",
+    "Trông cái xe này như sợi bánh canh nhưng mà không nha, nó trơn và dai hơn."
+  ],
+  "hook_content": "Ô anh anh cháo này bị hư hả anh? Không em đây là cháo xe mà.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm",
+    "So sánh",
+    "Kể chuyện"
+  ],
+  "summarization": "Video review món cháo se đặc sản Hoài Đức, Hà Nội, với sợi cháo làm từ gạo đặc biệt và các loại topping hấp dẫn. Người review đánh giá cao hương vị và trải nghiệm tại quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

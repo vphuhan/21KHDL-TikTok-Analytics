@@ -1,0 +1,101 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Dẫn mẹ đi ăn nhà hàng sang trọng, giấu bill vì sợ mẹ xót tiền.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự hiếu thảo và chịu chi của bạn."
+    },
+    {
+      "step": "Chọn món",
+      "desc": "Chọn buffet ở khách sạn 5 sao, ưu tiên món đặc sắc, đáng tiền.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn được lựa chọn trong buffet."
+    },
+    {
+      "step": "Review món ăn",
+      "desc": "Review chi tiết các món há cảo, bánh xếp, hải sản, bò, vịt quay.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng và muốn thử ngay các món ăn."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Đánh giá cao vị ngon, chất lượng món ăn, giá cả hợp lý.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá và cảm thấy an tâm."
+    },
+    {
+      "step": "Ăn tráng miệng",
+      "desc": "Thưởng thức các món tráng miệng như chè mè đen, pudding xoài.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn được thưởng thức các món tráng miệng hấp dẫn."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Mẹ nhận xét giá cả hợp lý và vui vẻ với trải nghiệm.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy vui lây với niềm vui của gia đình."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sang trọng",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "đẹp mắt",
+    "ngập tôm",
+    "tan chảy",
+    "tứa vị ngọt",
+    "béo thơm",
+    "ngậy",
+    "thơm",
+    "mềm tan",
+    "giòn",
+    "béo",
+    "thấm vị",
+    "mê",
+    "siêu cuốn",
+    "lạ miệng",
+    "dính",
+    "sệt sệt",
+    "nóng nóng",
+    "đã",
+    "ăn ngon",
+    "chất lượng",
+    "no căng",
+    "mềm",
+    "tứa ra",
+    "dẻo thơm",
+    "vui"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nhai tới đâu nó tứa cái vị ngọt ra tới đó. Chấm đẫm sốt vô có vị béo chua ngọt.",
+    "Chỉ có 600 xiền một người thôi mà ăn buffet có cả vịt quay. Lớp da quay rất ngon, giòn, béo mà thấm vị.",
+    "Không hiểu tại sao miếng này là thịt mà nó có thể tan được luôn á."
+  ],
+  "hook_content": "Đừng có tiết kiệm quá đi. Nói cỡ nào mẹ mình cũng vậy à.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review buffet món Hoa tại khách sạn 5 sao Nikko, tập trung vào trải nghiệm đi ăn cùng mẹ và đánh giá các món ăn đặc sắc như há cảo, vịt quay, xá xíu. Người làm video nhấn mạnh chất lượng món ăn so với giá cả và niềm vui khi cả gia đình cùng nhau thưởng thức.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món khô bãi đáy và bánh không rõ loại.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Đánh giá sản phẩm",
+      "desc": "Nhận xét bánh nhái không ngon bằng bánh thật.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng ý với nhận xét."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Bánh này bánh nhái rồi.",
+    "Bánh real nó trơn lắm, ăn nó không có khô như thế này đâu."
+  ],
+  "hook_content": "Một bàn phòng khách hoang tàn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang ngắn về món khô bãi đáy và bánh không rõ loại, trong đó người nói nhận xét bánh không ngon bằng bánh thật.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

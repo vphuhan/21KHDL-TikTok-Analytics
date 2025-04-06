@@ -1,0 +1,81 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu tôm hùm Tề Thiên và nguồn gốc trên mạng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Đánh giá ban đầu",
+      "desc": "Nhận xét về hình dáng bên ngoài của tôm hùm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy lạ mắt."
+    },
+    {
+      "step": "Nếm thử và đánh giá",
+      "desc": "Ăn thử và thất vọng về chất lượng thịt.",
+      "impact_level": "3",
+      "viewer_emotion": "Thất vọng theo người review."
+    },
+    {
+      "step": "Kiểm tra phần đầu",
+      "desc": "Mở phần đầu tôm và phát hiện không có gạch.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy tiếc nuối."
+    },
+    {
+      "step": "Thể hiện sự thất vọng",
+      "desc": "Than phiền về chất lượng và giá cả của tôm.",
+      "impact_level": "3",
+      "viewer_emotion": "Đồng cảm với sự bực bội."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Drama"
+  ],
+  "cta_content": [
+    "Okay, cảm ơn cả nhà theo dõi video của Thành. Hẹn gặp bạn ở video tiếp theo nha. Bye bye."
+  ],
+  "cta_type": [
+    "Follow kênh",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "lạ",
+    "hy vọng",
+    "bở",
+    "thơm",
+    "dở",
+    "tức"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tại tiếc tiền thì ăn thôi chứ không lẽ bỏ chứ.",
+    "Thành xem review trên TikTok á thì thấy khen con này thịt nó thơm.",
+    "Trời ơi uổng phí tiền quá."
+  ],
+  "hook_content": "tại tiếc tiền thì ăn thôi chứ không lẽ bỏ chứ. bây giờ tụi mình ăn nhen.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video review món tôm hùm Tề Thiên, người review thất vọng về chất lượng thịt bở và không có gạch, cảm thấy tiếc tiền.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Ngạc nhiên",
+    "Khó chịu"
+  ]
+}

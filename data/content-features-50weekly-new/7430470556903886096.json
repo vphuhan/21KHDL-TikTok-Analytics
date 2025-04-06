@@ -1,0 +1,70 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món mì trộn ớt và khẳng định độ cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Thử thách độ cay",
+      "desc": "Người nói thử ăn và cảm nhận độ cay của món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ"
+    },
+    {
+      "step": "Cảnh báo",
+      "desc": "Khuyến cáo người xem không nên thử món này ở nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Lo lắng"
+    },
+    {
+      "step": "Từ bỏ thử thách",
+      "desc": "Người nói xin lỗi và thông báo không thể ăn tiếp.",
+      "impact_level": "2",
+      "viewer_emotion": "Thông cảm"
+    },
+    {
+      "step": "Tuyên bố câu view",
+      "desc": "Thừa nhận video chỉ để câu view và nhắc lại lời khuyên.",
+      "impact_level": "1",
+      "viewer_emotion": "Hụt hẫng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "cay nóng",
+    "cay"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Út cay nóng luôn.",
+    "Các bạn đừng thử ở nhà nhá, cái món này cay lắm rồi đấy.",
+    "Mình nhắc lại nhá, đây là video câu view."
+  ],
+  "hook_content": "Mì trộn ớt cả nhà ơi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang mì trộn ớt, người ăn thử thách độ cay nhưng không thành công và khuyên mọi người không nên thử. Người này thừa nhận đây là video câu view.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

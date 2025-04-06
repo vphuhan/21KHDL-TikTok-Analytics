@@ -1,0 +1,90 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu combo",
+      "desc": "Giới thiệu combo gà rán 100k và sự thèm thuồng KFC.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về số lượng gà nhận được."
+    },
+    {
+      "step": "Mua hàng",
+      "desc": "Gọi combo 88k và thêm nước cho đủ 100k.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến cách mua combo."
+    },
+    {
+      "step": "Khám phá combo",
+      "desc": "Mở hộp, kiểm tra số lượng và các thành phần.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức muốn xem có gì."
+    },
+    {
+      "step": "Đánh giá gà",
+      "desc": "Ăn và so sánh gà cay với gà thường về hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn ăn thử."
+    },
+    {
+      "step": "Đánh giá ưu điểm",
+      "desc": "Nhấn mạnh độ giòn, giá rẻ và khuyến mãi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn vì giá tốt."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Khuyến khích thử combo và cảm nhận no nê.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn đi mua ngay lập tức."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nhanh chân chạy ra làm thử một combo này về ăn cho mọi người.",
+    "Đảm bảo siêu rẻ, quá hời."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "thèm",
+    "rẻ",
+    "ngon",
+    "thơm",
+    "giòn",
+    "mềm",
+    "đã",
+    "hời",
+    "no"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "trong combo này bây giờ là thành một miếng có 22.000 nè, và áp dụng dễ cực kỳ nha, chỉ cần tới quầy của bạn nhân viên ấy, đọc cái câu là khuyến mãi 88k là xong.",
+    "Sao tự nhiên mình thấy gà cay với gà thường cái màu nó giống nhau rồi ta. Nếu như mà ngoài hộp không ghi là mình không biết luôn đấy.",
+    "Miếng gà này ngoài nó giòn trong nó mềm nha, ăn đã."
+  ],
+  "hook_content": "Thèm KFC quá mà ở nhà không có bán với lý á. Nay lên Sài Gòn rồi làm thử một bữa 100.000 gà rán xem thử được bao nhiêu nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review combo gà rán KFC 100k, tập trung vào số lượng, giá cả và hương vị. Người nói đánh giá cao độ giòn, giá rẻ của combo và khuyến khích mọi người nên thử.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

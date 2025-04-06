@@ -1,0 +1,65 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu hộp canh kim chi siêu to khổng lồ và các nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Chia sẻ đồ ăn",
+      "desc": "Chia sẻ canh kim chi và các món ăn kèm cho đồng nghiệp.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp, thân thiện"
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Ăn và cảm nhận hương vị của canh kim chi và trứng.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Nhận xét món ăn",
+      "desc": "Đánh giá món ăn ngon và thể hiện sự thích thú.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "tuyệt vời",
+    "căng bụng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cái lạnh này làm tý cay kim chi, tuyệt vời",
+    "Wow, chúng ta thành đá thương quá",
+    "Quá tuyệt vời, căng bụng luôn"
+  ],
+  "hook_content": "cho những người cần",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh một người chia sẻ hộp canh kim chi lớn cho đồng nghiệp và cùng nhau thưởng thức bữa trưa. Người này liên tục khen ngon và thể hiện sự thích thú với món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

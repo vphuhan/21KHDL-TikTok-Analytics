@@ -1,0 +1,82 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Thử độ cay",
+      "desc": "Người nói thử độ cay của ớt trước khi ăn mì.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ cay của ớt."
+    },
+    {
+      "step": "Mời ăn mì",
+      "desc": "Mời mọi người cùng ăn mì tôm ớt.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thân thiện."
+    },
+    {
+      "step": "Giới thiệu lượng ớt",
+      "desc": "Nhấn mạnh số lượng ớt gấp đôi và loại ớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy ấn tượng với lượng ớt."
+    },
+    {
+      "step": "Ăn và cảm nhận",
+      "desc": "Thể hiện cảm giác rất cay khi ăn mì.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy cay thay cho người ăn."
+    },
+    {
+      "step": "Thú nhận câu view",
+      "desc": "Thừa nhận việc ăn cay chỉ là để câu view.",
+      "impact_level": "2",
+      "viewer_emotion": "Bất ngờ vì sự thật thà."
+    },
+    {
+      "step": "Xin lỗi và cảnh báo",
+      "desc": "Xin lỗi vì không ăn được nữa và khuyên không nên thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy được quan tâm."
+    },
+    {
+      "step": "Cảm ơn",
+      "desc": "Cảm ơn mọi người đã xem.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy lịch sự."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "cay"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cái này mình nói thật là mình câu view thôi, mọi người đừng thử ở nhà nhá.",
+    "Lần này mình nghĩ là số lượng ớt gấp đôi mọi khi đấy, ớt xanh nữa."
+  ],
+  "hook_content": "lúc đấy thì mình phải thử độ cay của ớt đã.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang mì tôm ớt với số lượng ớt gấp đôi, người nói thử độ cay và ăn, sau đó thú nhận chỉ là câu view và khuyên mọi người không nên thử.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

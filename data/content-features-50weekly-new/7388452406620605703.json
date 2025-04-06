@@ -1,0 +1,96 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món xôi bạch tuộc mít và cách ăn sáng tạo.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự kết hợp kì lạ."
+    },
+    {
+      "step": "Pha trà gạo lứt",
+      "desc": "Giới thiệu và pha trà gạo lứt đông trùng hạ thảo mới.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến sản phẩm mới."
+    },
+    {
+      "step": "Thử món bạch tuộc mít",
+      "desc": "Ăn bạch tuộc với mít chấm tương ớt và review.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với trải nghiệm ăn uống."
+    },
+    {
+      "step": "Bạch tuộc hột mít",
+      "desc": "Trộn bạch tuộc với hột mít, tỏi, dầu mè và review.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị."
+    },
+    {
+      "step": "Bạch tuộc siêu cay",
+      "desc": "Ăn bạch tuộc với gia vị siêu cay và biểu cảm.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy kích thích, hồi hộp."
+    },
+    {
+      "step": "Bạch tuộc và kẹo",
+      "desc": "Ăn bạch tuộc quấn kẹo nổ và review cảm giác.",
+      "impact_level": "3",
+      "viewer_emotion": "Thấy thú vị và bất ngờ."
+    },
+    {
+      "step": "Kết thúc và CTA",
+      "desc": "Mời mua trà gạo lứt và hẹn gặp lại.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo"
+  ],
+  "cta_content": [
+    "Sản phẩm này có trong TikTok Shop của bạn nha.",
+    "Bạn mời bạn vào phần trưng bày TikTok Shop của bạn để tậu một em trà gạo lứt PLUS của quê Việt nha."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "thích",
+    "ngon",
+    "ngọt",
+    "cay",
+    "béo",
+    "vui",
+    "tuyệt vời",
+    "lạ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nó ngọt ngọt, nhớt nhớt rồi cay cay bạn, ăn ngon á bạn.",
+    "Cái hột mít á bạn. Nó bùi bùi rồi nó ngọt ngọt nè. Có thêm cái vị cay cay của của tỏi á bạn. Xong rồi cái dầu mè nó béo béo rồi mặn mặn của muối nữa. Rồi cái bạch tuộc này á thì nó nhớt nhớt, nó ngọt ngọt bạn. Ăn ngon lắm bạn ơi.",
+    "Ngon không tưởng luôn bạn. Nó nổ lụp bụp lụp bụp. Xong rồi nó có cái vị chua chua ngọt ngọt các bạn. Ăn vừa ngon vừa vui nữa"
+  ],
+  "hook_content": "Em xem nó bám chắc vô luôn nè bạn.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video mukbang bạch tuộc sống kết hợp với mít và các loại topping khác nhau như hột mít, kẹo nổ. Tóc Vàng vừa ăn vừa review hương vị độc đáo và giới thiệu trà gạo lứt đông trùng hạ thảo.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu mục đích chuyến thăm",
+      "desc": "Thăm bà nội, kiểm tra sức khỏe, chuẩn bị cho dịp Tết.",
+      "impact_level": "1",
+      "viewer_emotion": "Ấm áp, quan tâm đến gia đình."
+    },
+    {
+      "step": "Tặng quà cho bà",
+      "desc": "Biếu quà trung thu sớm, thể hiện sự quan tâm.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm động trước tấm lòng của con cháu."
+    },
+    {
+      "step": "Mô tả chuyến đi",
+      "desc": "Di chuyển khó khăn, kẹt xe, Tùng Hân ngủ trên xe.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm với sự vất vả."
+    },
+    {
+      "step": "Giới thiệu về bà nội",
+      "desc": "Bà nội quan tâm, mua quà cho cháu, yêu thương.",
+      "impact_level": "3",
+      "viewer_emotion": "Xúc động, ngưỡng mộ tình cảm gia đình."
+    },
+    {
+      "step": "Giới thiệu An cung xạ hương",
+      "desc": "Khen an cung xạ hương tốt cho sức khỏe bà nội.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm."
+    },
+    {
+      "step": "Bữa cơm gia đình",
+      "desc": "Cả nhà ăn cơm, vui vẻ, ấm cúng.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ, cảm nhận sự hạnh phúc."
+    },
+    {
+      "step": "Tạm biệt",
+      "desc": "Hai bà cháu chia tay, hẹn gặp lại.",
+      "impact_level": "1",
+      "viewer_emotion": "Nhẹ nhàng, mong chờ lần gặp tới."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Như mà mọi người đang suy nghĩ quà biếu trung thu này á thì có thể tham khảo thử an cung xạ hương nha."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "thương",
+    "mến",
+    "thấm tình cảm",
+    "ăn ngon ngủ ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Không có tém tém lại miếng nào luôn á mọi người.",
+    "Bà nội tụi Hân như thế này làm sao mà nó không thương không mến được mọi người, vừa thấm tình cảm vừa thương con cháu nữa.",
+    "Ta nói lúc qua nhẹ nhàng bao nhiêu á thì lúc về cồng kềnh bấy nhiêu nha."
+  ],
+  "hook_content": "Bữa nay bọn mình đi qua thăm bà nội Tùng Hân coi tình hình ổn không để Tết rủ bà nội Tùng Hân về thêm chuyến nữa nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện"
+  ],
+  "summarization": "Video ghi lại chuyến thăm bà nội của gia đình Tùng Hân, vừa để kiểm tra sức khỏe bà, vừa biếu quà trung thu sớm. Trong chuyến thăm, gia đình đã cùng nhau ăn bữa cơm ấm cúng và giới thiệu sản phẩm an cung xạ hương mà bà nội Tùng Hân khen là có tác dụng tốt.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

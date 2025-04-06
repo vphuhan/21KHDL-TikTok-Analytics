@@ -1,0 +1,80 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu bánh mì thịt nướng Thảo Huyền ở Đức Trọng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn và địa điểm."
+    },
+    {
+      "step": "Miêu tả trải nghiệm",
+      "desc": "Di chuyển xa để mua bánh mì, nhấn mạnh độ ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự kỳ công."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhấn mạnh vị ngon của bánh mì và ớt sim.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Quảng cáo cà phê sức khỏe Laura Coffee của Nhật Kim Anh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về công dụng của sản phẩm."
+    },
+    {
+      "step": "Miêu tả lợi ích",
+      "desc": "Nhấn mạnh công dụng giúp tỉnh táo, thoải mái đầu óc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào sản phẩm."
+    },
+    {
+      "step": "Nhấn mạnh thành phần",
+      "desc": "Đề cập đến nấm linh chi và đông trùng hạ thảo.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy an tâm về chất lượng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "tuyệt vời",
+    "thoải mái"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ổ bánh mì này số một Lâm Đồng luôn.",
+    "Uống thì mình cảm thấy nó cực kỳ nó rất rất là tốt luôn nha.",
+    "Trời ơi, hai cái thứ này kết hợp lại với nhau uống quá là tốt cho sức khỏe luôn."
+  ],
+  "hook_content": "Trời, anh em biết đây là cái món gì không? Bánh mì thịt nướng Thảo Huyền ở Đức Trọng nha anh em.",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu bánh mì thịt nướng Thảo Huyền ở Đức Trọng và cà phê sức khỏe Laura Coffee của Nhật Kim Anh. Người nói chia sẻ trải nghiệm ăn bánh mì ngon và uống cà phê giúp tỉnh táo, thoải mái.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

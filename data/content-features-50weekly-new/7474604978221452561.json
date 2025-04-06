@@ -1,0 +1,82 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món trứng dữa nước hấp muối và công dụng của nó",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới"
+    },
+    {
+      "step": "Giá cả",
+      "desc": "Chia sẻ giá tiền mua trứng dữa nước",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin tham khảo hữu ích"
+    },
+    {
+      "step": "Thao tác hấp trứng",
+      "desc": "Diễn tả quá trình hấp trứng và so sánh với luộc",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự khác biệt"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Miêu tả cảm xúc khi ăn trứng dữa nước hấp muối",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú muốn thử ngay"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhấn mạnh trứng nóng, ngon và thơm hơn so với bình thường",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng về hương vị"
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng ăn và kết thúc video",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm giác thân thiện, gần gũi"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "ngon",
+    "giữa mê ly",
+    "núng na núng nính",
+    "béo ngậy",
+    "siêu nóng ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ăn trứng giữa nước nhiều rồi, mà tôi mới phát hiện mình đem đi hấp muối là nó thơm, nó ngon, giữ nóng lâu lắm luôn.",
+    "Hời ơi, trứng giữa nước bình thường đã núng na núng nính béo ngậy rồi. Mà bữa nay mình hấp muối theo kiểu này thì cái trứng nó siêu nóng ngon luôn.",
+    "Ăn món này tôi là tôi mê nhất cái khúc bóc cái trứng núng na núng nính đã dã thần luôn."
+  ],
+  "hook_content": "Ăn trứng giữa nước nhiều rồi, mà tôi mới phát hiện mình đem đi hấp muối là nó thơm, nó ngon, giữ nóng lâu lắm luôn.",
+  "hook_type": [
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video giới thiệu món trứng dữa nước hấp muối, chia sẻ cách làm và cảm nhận về hương vị thơm ngon, béo ngậy của món ăn này. Người làm video khuyến khích mọi người thử làm theo để trải nghiệm sự khác biệt.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

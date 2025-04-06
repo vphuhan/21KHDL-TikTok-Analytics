@@ -1,0 +1,86 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Gọi món",
+      "desc": "Khách hàng gọi món phở tái gầu, suất vang và trứng trần.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu phở bò Nhiên nổi tiếng gần đài truyền hình.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Đánh giá cảm quan",
+      "desc": "Nhận xét hương vị phở thơm ngon, thịt bò chất lượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "So sánh",
+      "desc": "So sánh với phở bò dùng bò tây rẻ tiền.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Thịt tái mềm ngọt, bánh phở mềm thấm nước, nước phở vừa.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Lưu ý khẩu vị",
+      "desc": "Nhấn mạnh khẩu vị phở nước béo khác nước trong.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu chủ quán",
+      "desc": "Giới thiệu quán phở bò của anh Nhiên và chị Ngạc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "ngọt",
+    "sướng",
+    "ngon",
+    "đạt quy chuẩn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đây đúng là cái thứ bò ta đỏ đắn luôn.",
+    "Chứ không như nhiều quán phở bò đểu bây giờ toàn dùng cái thứ bò tây rẻ tiền trắng ơn ởn ăn mà phát tởm.",
+    "Mà cái nước phở bò ở đây tôi thấy nó không có bị nặng mùi gừng quế hồi các thứ đâu."
+  ],
+  "hook_content": "ơi, cho cháu một tái gầu, một suất vang nhiều hành.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán phở bò Nhiên nổi tiếng ở Hà Nội, tập trung vào chất lượng thịt bò và nước phở, đồng thời so sánh với các quán phở khác. Người review nhấn mạnh trải nghiệm cá nhân và khẩu vị riêng khi ăn phở.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món mực xào cay và món chè thanh long.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị với món ăn mới lạ."
+    },
+    {
+      "step": "Luộc mực",
+      "desc": "Luộc sơ mực với rượu nấu ăn để khử mùi tanh.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thao tác quen thuộc."
+    },
+    {
+      "step": "Nấu chè",
+      "desc": "Nấu chè thanh long với bột nếp, tạo hình bông hoa.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị với cách tạo hình và màu sắc."
+    },
+    {
+      "step": "Trình bày chè",
+      "desc": "Xay sữa đông đá, thêm ông Thọ và bông chè.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị món chè."
+    },
+    {
+      "step": "Xào mực",
+      "desc": "Xào mực với hành tây, nấm hương, sốt và rau cần.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn với món mực xào."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Cả nhà cùng ăn tối và nhận xét món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mời mọi người ăn cơm tối chung với cả nhà mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngọt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trời ơi cái lúc làm là mình không nghĩ nó đẹp xuất sắc vậy đâu mọi người, quá là đẹp luôn á.",
+    "Mực xào này có nhiều cách xào lắm mà bữa nay xào thử lần này ngon ha."
+  ],
+  "hook_content": "Hôm nay cuối tuần ai cũng ở nhà nên là Bộng sẽ xắn lại để dọn nhà ăn Tết.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ cách làm món mực xào cay và chè thanh long tại nhà. Người làm giới thiệu nguyên liệu, công thức và mời mọi người cùng ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

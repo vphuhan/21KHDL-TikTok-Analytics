@@ -1,0 +1,84 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món hành muối xổi và khẳng định độ ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn biết món này ngon như thế nào."
+    },
+    {
+      "step": "Nhấn mạnh tính thời vụ",
+      "desc": "Nhấn mạnh món này chỉ có vào mùa đông.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hơi tiếc nuối vì không phải lúc nào cũng có."
+    },
+    {
+      "step": "Chia sẻ trải nghiệm",
+      "desc": "Chia sẻ trải nghiệm mua và ăn hành muối.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy gần gũi với người chia sẻ."
+    },
+    {
+      "step": "Mô tả quá trình sơ chế",
+      "desc": "Miêu tả việc thái hành gây cay mắt.",
+      "impact_level": "1",
+      "viewer_emotion": "Đồng cảm với khó khăn khi thái hành."
+    },
+    {
+      "step": "Hướng dẫn công thức",
+      "desc": "Hướng dẫn cách muối hành đơn giản.",
+      "impact_level": "3",
+      "viewer_emotion": "Thấy công thức thật dễ làm."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Miêu tả lại cảnh ăn hành muối.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng muốn ăn thử ngay."
+    },
+    {
+      "step": "Lời kết",
+      "desc": "Khẳng định ai thích ăn hành sẽ nghiện món này.",
+      "impact_level": "2",
+      "viewer_emotion": "Gật gù nếu cũng thích ăn hành."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thích",
+    "nghiện"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "chỉ cần một bát củ hành muối xổi như thế này thôi, cơm cá, cơm thịt bị ra rìa hết luôn",
+    "Cái nách nó cứ bật tanh tách thôi.",
+    "Một mình em hết một đĩa và ba bát cơm."
+  ],
+  "hook_content": "Nói thật với các bác chứ, chỉ cần một bát củ hành muối xổi như thế này thôi, cơm cá, cơm thịt bị ra rìa hết luôn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ cách làm món hành muối xổi đơn giản, món ăn kèm ngon miệng và đặc biệt vào mùa đông. Người làm video cũng chia sẻ trải nghiệm ăn món này rất ngon miệng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món thịt kho tàu và gợi ý thời điểm thích hợp.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách nấu."
+    },
+    {
+      "step": "Sơ chế và ướp thịt",
+      "desc": "Hướng dẫn cách ướp thịt với các gia vị cơ bản.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến bí quyết ướp thịt."
+    },
+    {
+      "step": "Chuẩn bị trứng vịt",
+      "desc": "Hướng dẫn cách làm trứng vịt thấm gia vị hơn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích với mẹo nhỏ."
+    },
+    {
+      "step": "Bí quyết kho thịt",
+      "desc": "Sử dụng nước dừa và lá chuối để thịt ngon hơn.",
+      "impact_level": "3",
+      "viewer_emotion": "Ngạc nhiên với mẹo khử bọt."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Gợi ý ăn thịt kho tàu với cải chua trộn tỏi ớt.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử ngay."
+    },
+    {
+      "step": "Đánh giá thành phẩm",
+      "desc": "Nhấn mạnh độ mềm rệu và hương vị đậm đà.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với món thịt kho tàu."
+    },
+    {
+      "step": "Lời mời và kết thúc",
+      "desc": "Mời mọi người ăn và khuyến khích thử công thức.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy được mời và thích thú."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Truyền thống",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "ai mà chưa biết làm thịt kho tàu sao thì thử ngay cách này của tui nha.",
+    "Giờ thì mời mọi người ăn chung với tui."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "mềm rệu",
+    "đậm đà",
+    "béo ngon",
+    "siêu thấm",
+    "ngon đỉnh",
+    "mắc thèm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Giờ mà cái nồi thịt kho tàu đỏ au, mềm rệu như vầy hổng biết có ai nôn tới Tết không ta?",
+    "Bỏ thêm miếng lá chuối hoặc lá mít ở trên kho chung là đảm bảo cái nồi thịt kho không có miếng bọt nào luôn.",
+    "Dưới miếng nước kho tàu vô ăn một miếng cơm nữa, ta nói hai từ thôi ngon đỉnh"
+  ],
+  "hook_content": "Giờ mà cái nồi thịt kho tàu đỏ au, mềm rệu như vầy hổng biết có ai nôn tới Tết không ta?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn cách nấu món thịt kho tàu mềm rệu, đậm đà hương vị, với những mẹo nhỏ giúp món ăn thêm ngon và hấp dẫn, đồng thời mời mọi người cùng thưởng thức.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

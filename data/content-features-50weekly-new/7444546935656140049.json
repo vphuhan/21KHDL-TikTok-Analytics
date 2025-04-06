@@ -1,0 +1,87 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu mắm chưng ăn cùng hẹ nước và bồn bồn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn đặc sản."
+    },
+    {
+      "step": "Chia sẻ cách làm mắm chưng",
+      "desc": "Hướng dẫn cách làm mắm chưng đơn giản tại nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy công thức dễ thực hiện."
+    },
+    {
+      "step": "Giới thiệu các loại rau ăn kèm",
+      "desc": "Giới thiệu hẹ nước và bồn bồn, rau đặc sản miền Tây.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của rau."
+    },
+    {
+      "step": "Trình bày và nếm thử",
+      "desc": "Trình bày món ăn hấp dẫn và nếm thử.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá hương vị của mắm chưng và các loại rau.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung được hương vị món ăn."
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng ăn mắm chưng với mình.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thân thiện và gần gũi."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi nghe."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm phức",
+    "nồng nàn",
+    "đậm đà",
+    "giòn sớp",
+    "ngọt nhẹ",
+    "hợp chấn động"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "mắm chưng hấp xong nó bay cái mùi thơm phức nồng nàn, là biết cái nồi cơm với rổ rau bữa nay xác định với tôi là sạch bách rồi",
+    "mắm chưng thì thơm nồng nàn đậm đà, quẩn thêm miếng hẹ nước, giòn sớp, rồi bồn bồn cũng giòn luôn, nhưng mà có cái bồn bồn này sẽ có vị ngọt nhẹ",
+    "kết hợp với mắm chưng nữa ta nói hợp chấn động luôn nha"
+  ],
+  "hook_content": "nhệ nước, bồn bồn đặc sản miền Tây. Tôi ở miền Tây mà mới thử lần đầu tiên luôn.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video giới thiệu món mắm chưng ăn kèm với hẹ nước và bồn bồn, chia sẻ cách làm mắm chưng đơn giản và cảm nhận về hương vị đặc biệt của món ăn này.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

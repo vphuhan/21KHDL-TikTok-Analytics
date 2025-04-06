@@ -1,0 +1,87 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu tủy bò dây và so sánh với mì căn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn được giới thiệu."
+    },
+    {
+      "step": "Chia sẻ trải nghiệm",
+      "desc": "Chia sẻ về việc mua tủy bò khó và giá cao.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thông tin hữu ích."
+    },
+    {
+      "step": "Mô tả cách chế biến",
+      "desc": "Mô tả quá trình ướp và hấp tủy bò dây.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Quảng cáo sản phẩm",
+      "desc": "Giới thiệu và quảng cáo cà phê của Nhật Kim Anh.",
+      "impact_level": "1",
+      "viewer_emotion": "Không mấy hứng thú."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Mô tả hương vị và cảm nhận khi ăn tủy bò.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và muốn thử."
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng ăn tủy bò dây.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thân thiện."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi nghe."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngọt nước",
+    "thơm",
+    "béo",
+    "dai",
+    "ngon",
+    "cuốn",
+    "tỉnh người"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn vô thì vị của nó sẽ béo béo, có độ dai nhẹ chứ không có tan như tủy bình thường và đặc biệt là không có miếng tanh nào hết luôn, nên ăn nó ngon mà cuốn dữ lắm.",
+    "Cà phê vừa ngon vừa khỏe như vậy hàng chi ai cũng mê đắm đuối.",
+    "Tui mà ra quán ăn lúc nào cũng phải kêu một chén tủy bò dây này ăn tui mới chịu."
+  ],
+  "hook_content": "Hello mọi người, lại là tôi Mặc Bếch thích nấu ăn đây. Đố mọi người, mấy sợi dài dài trắng phao này là cái gì?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu món tủy bò dây hấp hành gừng, chia sẻ trải nghiệm mua và chế biến, đồng thời đánh giá hương vị và mời mọi người cùng ăn. Bên cạnh đó, video còn quảng cáo thêm cà phê của ca sĩ Nhật Kim Anh.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

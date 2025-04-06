@@ -1,0 +1,74 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu gây sốc",
+      "desc": "Bắt đầu bằng một câu hỏi gây sốc về an toàn thực phẩm.",
+      "impact_level": "3",
+      "viewer_emotion": "Tò mò, hoang mang"
+    },
+    {
+      "step": "Giải thích quy trình",
+      "desc": "Giải thích quy trình sản xuất snack để trấn an người xem.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị, bớt lo lắng"
+    },
+    {
+      "step": "Nhấn mạnh vệ sinh",
+      "desc": "Khẳng định về việc vệ sinh sau mỗi ngày sản xuất.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng hơn"
+    },
+    {
+      "step": "Kêu gọi mua hàng",
+      "desc": "Kêu gọi mọi người yên tâm mua hàng của Ba Anh Em Food.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "nên mọi người cứ yên tâm và giỏ hàng Ba Anh Em Food mua đồ ăn vặt nha"
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "an toàn",
+    "yên tâm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "bẩn thế này mà cũng gọi là an toàn vệ sinh thực phẩm",
+    "Để có được gói snack vòi rồng cuộn tròn như thế này đến tay các bạn, thì các cô công nhân của Ba Anh Em Food sẽ phải cho sản phẩm vào máy để cuộn tròn như thế này.",
+    "Không có chuyện bột ớt cứ để từ ngày này qua ngày khác, nên mọi người cứ yên tâm"
+  ],
+  "hook_content": "Mọi người ơi, vào đây mà xem, bẩn thế này mà cũng gọi là an toàn vệ sinh thực phẩm.",
+  "hook_type": [
+    "Gây tranh cãi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Đối thoại",
+    "Kịch hóa"
+  ],
+  "summarization": "Video giải thích quy trình sản xuất snack vòi rồng của Ba Anh Em Food để trấn an người xem về vấn đề vệ sinh, đồng thời kêu gọi mua hàng.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

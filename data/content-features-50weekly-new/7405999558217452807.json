@@ -1,0 +1,62 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món lạp xưởng nướng đá rán trên chảo.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Thưởng thức và đánh giá",
+      "desc": "Ăn và đánh giá hương vị, độ cay, độ mỡ của lạp xưởng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú khi được nghe cảm nhận chân thật."
+    },
+    {
+      "step": "Chia sẻ trải nghiệm",
+      "desc": "Chia sẻ trải nghiệm lần đầu ăn và hỏi về độ hot của món.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "cay",
+    "mặn",
+    "ngán"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đây là lần đầu tiên mình ăn lạp xưởng nướng đá.",
+    "Cái vị đúng đặc trưng của Trung Quốc ấy, nó hơi mặn nữa."
+  ],
+  "hook_content": "Đêm rồi nè, các bác có đói hông? Cùng tui ăn lạp xưởng nướng đá nhưng rán trên chảo nha 😆😆😆",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình người dùng ăn thử món lạp xưởng nướng đá rán trên chảo, chia sẻ cảm nhận về hương vị, độ cay và độ mỡ của món ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

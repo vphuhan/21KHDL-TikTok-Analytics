@@ -1,0 +1,95 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu con nuốc và các nguyên liệu ăn kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn lạ."
+    },
+    {
+      "step": "Thưởng thức không",
+      "desc": "Ăn thử con nuốc không để cảm nhận hương vị gốc.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc sắc."
+    },
+    {
+      "step": "Thưởng thức với mắm ruốc",
+      "desc": "Chấm con nuốc với mắm ruốc và đánh giá.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy ngon hơn khi có mắm."
+    },
+    {
+      "step": "Thưởng thức đầy đủ",
+      "desc": "Kết hợp con nuốc với tất cả nguyên liệu.",
+      "impact_level": "3",
+      "viewer_emotion": "Thực sự phấn khích."
+    },
+    {
+      "step": "Tiếp tục ăn",
+      "desc": "Không ngừng ăn và khen ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm giác thèm thuồng."
+    },
+    {
+      "step": "Thêm ớt",
+      "desc": "Thêm ớt để tăng độ cay và trải nghiệm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về vị cay."
+    },
+    {
+      "step": "Tổng kết",
+      "desc": "Nhấn mạnh sự ngon miệng và hẹn gặp lại.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử món này."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn bạn đã xem video của Tóc Vàng nha.",
+    "Hẹn gặp lại bạn vào video lần sau."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "phấn khích",
+    "ngon",
+    "tuyệt vời",
+    "hạnh phúc",
+    "thỏa mãn",
+    "cay",
+    "ngon miệng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ngon tuyệt vời luôn á bạn.",
+    "Từ bây giờ chắc Vàng là fan của con nuốc. Năm nào có nuốc là Vàng cũng sẽ gặp nuốc một lần nha nuốc.",
+    "Gặp nhau rồi à cái gì khó lìa xa á bạn. Thật sự luôn, Vàng muốn gặp con nuốc này hoài luôn."
+  ],
+  "hook_content": "Hai bạn, hôm nay Vàng sẽ mút băn con nuốc nha bạn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang về món con nuốc Huế ăn kèm mắm ruốc và các loại rau sống. Tóc Vàng Hoe lần đầu thưởng thức món ăn này và bày tỏ sự yêu thích đặc biệt với hương vị độc đáo.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

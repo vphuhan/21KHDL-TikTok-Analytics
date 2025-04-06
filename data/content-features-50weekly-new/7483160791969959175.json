@@ -1,0 +1,78 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về việc mua hến phơi ở chợ và giá cả.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Quan sát",
+      "desc": "Miêu tả hình thức hến phơi và cách người bán hàng phơi.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Thử thách",
+      "desc": "Thử ăn hến phơi và cảm giác lo sợ về độ cứng.",
+      "impact_level": "3",
+      "viewer_emotion": "Hồi hộp, căng thẳng theo người review."
+    },
+    {
+      "step": "Đánh giá vị",
+      "desc": "Nhận xét về hương vị mặn, cay và độ ngon của hến phơi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú khi nghe mô tả hương vị."
+    },
+    {
+      "step": "Nhấn mạnh",
+      "desc": "Nhấn mạnh chỉ có mình dám ăn vì sợ hỏng răng.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hơi sợ khi ăn món này."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "hoang mang",
+    "sợ",
+    "ngon",
+    "mặn mặn",
+    "cay cay",
+    "ngọt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ê cái này mà bà nào mà răng thiệt á ừ mà yếu yếu tác nhận là đi thay lại bộ răng mới luôn nha.",
+    "Ăn cái là nó kêu bớp bớp luôn.",
+    "Người ta nói là chút nữa nhả là nhả nguyên cái răng ra luôn."
+  ],
+  "hook_content": "Lần đầu ăn thử hến phơi và cái kết.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video ghi lại trải nghiệm lần đầu ăn hến phơi của một người. Người này đã mua hến phơi ở chợ và chia sẻ cảm nhận về độ cứng, hương vị mặn cay và cảm giác lo sợ khi ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Hài hước",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

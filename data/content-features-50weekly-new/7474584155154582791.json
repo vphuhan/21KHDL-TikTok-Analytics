@@ -1,0 +1,93 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu về chuyến đi",
+      "desc": "Gia đình trở về Hàn Quốc sau 3 tháng ở Việt Nam.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin cơ bản về chuyến đi."
+    },
+    {
+      "step": "Thăm bà nội",
+      "desc": "Gia đình đến thăm bà nội và mừng sinh nhật cháu.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp, cảm động về tình cảm gia đình."
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu canh rong biển truyền thống trong sinh nhật.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú, tìm hiểu văn hóa ẩm thực."
+    },
+    {
+      "step": "Mừng sinh nhật",
+      "desc": "Cả nhà cùng nhau thổi nến và chúc mừng sinh nhật.",
+      "impact_level": "3",
+      "viewer_emotion": "Vui vẻ, cảm xúc dâng trào trong khoảnh khắc."
+    },
+    {
+      "step": "Bữa cơm gia đình",
+      "desc": "Cả nhà quây quần ăn cơm bà nội nấu.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm cúng, bữa cơm gia đình hạnh phúc."
+    },
+    {
+      "step": "Quà biếu bà",
+      "desc": "Biếu bà nội thực phẩm chức năng chăm sóc sức khỏe.",
+      "impact_level": "1",
+      "viewer_emotion": "Quan tâm, hành động báo hiếu ý nghĩa."
+    },
+    {
+      "step": "Tạm biệt",
+      "desc": "Gia đình tạm biệt bà nội và hứa hẹn gặp lại.",
+      "impact_level": "2",
+      "viewer_emotion": "Luyến tiếc, xúc động khi chia tay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Truyền thống",
+    "Chuyên nghiệp"
+  ],
+  "cta_content": [
+    "ưng ý, hài lòng và muốn mua hàng hàng chuẩn, xịn, chính hãng thì nhắn qua cho Mizu Shop nha."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "mừng",
+    "nhớ",
+    "thương",
+    "ấm",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Sinh nhật ở bên Hàn á là sẽ có canh rong biển nha.",
+    "Lâu lắm rồi mới được ăn cơm bà nội Tuần Hoan nấu.",
+    "Mong rằng bà nội Tuần Hoan có thật là nhiều sức khỏe để thấy Tuần Hoan với Sau Hoan trưởng thành."
+  ],
+  "hook_content": "Đây là hành trình dài lằng nhằng của cả nhà mình rồi đây mọi người.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Kể chuyện",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại hành trình gia đình trở về Hàn Quốc, thăm bà nội và tổ chức sinh nhật cho con trai với món canh rong biển truyền thống. Đồng thời giới thiệu sản phẩm chăm sóc sức khỏe biếu bà.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

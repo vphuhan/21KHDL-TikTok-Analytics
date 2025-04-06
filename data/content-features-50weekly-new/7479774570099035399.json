@@ -1,0 +1,79 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán xôi gà chiên giòn của cô bán 30 năm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Nguồn gốc tên gọi",
+      "desc": "Giải thích về tên gọi xôi gà rán KFC do học sinh đặt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giá cả và thành phần",
+      "desc": "Giá một hộp xôi gà và các thành phần nguyên liệu.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin"
+    },
+    {
+      "step": "Bí quyết của cô",
+      "desc": "Chia sẻ về việc chọn nguyên liệu xịn để bán cho học sinh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng"
+    },
+    {
+      "step": "Địa điểm bán",
+      "desc": "Thông tin về địa chỉ và thời gian bán xôi gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Hữu ích"
+    },
+    {
+      "step": "Tóm tắt đánh giá",
+      "desc": "Đánh giá chung về xôi gà và gợi ý nên thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "ok",
+    "thấy được"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cô nói là của cô là gà chiên bình thường vậy thôi đó, chứ không phải giống thương hiệu gì hết trơn á.",
+    "Nếp mắt á, chả cái gì cô cũng lấy hàng ngon hết á, tại vì cô bán khu vực học sinh cô sợ.",
+    "Xôi thì vẫn có topping này kia đồ các kiểu, nhưng mà có thêm gà, mình thấy cũng rất là ok nha."
+  ],
+  "hook_content": "Có nhiều người đồn câu này là bán xôi gà rán KFC.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu quán xôi gà chiên giòn của một cô bán lâu năm ở khu vực Lê Văn Sỹ, quận 3. Món xôi này đặc biệt ở phần gà chiên giòn và nguyên liệu chất lượng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

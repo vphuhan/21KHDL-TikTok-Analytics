@@ -1,0 +1,93 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu việc anh sắp về và chuẩn bị đồ cho em.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm động trước tình cảm gia đình."
+    },
+    {
+      "step": "Kỉ niệm",
+      "desc": "Chia sẻ về tuổi thơ thiếu thốn tình cảm gia đình.",
+      "impact_level": "2",
+      "viewer_emotion": "Xúc động, đồng cảm."
+    },
+    {
+      "step": "Nấu ăn",
+      "desc": "Bắt đầu làm món hành trộn để ăn kèm thịt nướng.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Công thức",
+      "desc": "Chia sẻ công thức làm hành trộn chua ngọt đơn giản.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy công thức hấp dẫn, muốn thử."
+    },
+    {
+      "step": "Trải nghiệm",
+      "desc": "Nhắc lại kỉ niệm về món thịt nướng và hành trộn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món ăn."
+    },
+    {
+      "step": "Nướng thịt",
+      "desc": "Nướng thịt cho anh trai ăn trước khi về nước.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Ăn trưa",
+      "desc": "Mời mọi người ăn trưa và thưởng thức món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy đói bụng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Truyền thống",
+    "Chuyên nghiệp"
+  ],
+  "cta_content": [
+    "Mời mọi người ăn cơm trưa với gia đình mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "thương",
+    "nhớ",
+    "ngon",
+    "thèm",
+    "ghiền",
+    "thơm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Hồi đó mà trộn lên nó ngọt ngọt chua chua rồi kẹp chung với thịt nướng ăn cái nữa trời ơi tao nói ngon nhức nách luôn.",
+    "Nhức nách với những người biết ăn hành thôi chứ những người nào mà không biết ăn hành thì nhìn cái thao này là bỏ chạy mất dép đúng không mọi người?"
+  ],
+  "hook_content": "Nay nữa thôi, mai là anh mình sẽ về Việt Nam á, đợi cho ba tuần hơn, cho nó ăn xong á rồi bộ mình sẽ đi siêu thị, mua ít bánh trái để cho anh mình mang về cho em mình ở Việt Nam.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video chia sẻ về tình cảm gia đình, quá trình chuẩn bị đồ và nấu món hành trộn chua ngọt ăn kèm thịt nướng để tiễn anh trai về nước. Người làm video hồi tưởng về tuổi thơ và chia sẻ công thức món ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

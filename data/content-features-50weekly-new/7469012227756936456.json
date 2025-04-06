@@ -1,0 +1,77 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu về socola Heri nổi tiếng và giá thành đắt đỏ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về loại socola này."
+    },
+    {
+      "step": "Thông tin chi tiết",
+      "desc": "Thông tin về trọng lượng, giá cả và nơi mua sản phẩm.",
+      "impact_level": "1",
+      "viewer_emotion": "Cung cấp thông tin hữu ích."
+    },
+    {
+      "step": "Đánh giá chất lượng",
+      "desc": "Đánh giá về chất lượng, hạn sử dụng và cách đóng gói.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng sản phẩm."
+    },
+    {
+      "step": "Miêu tả sản phẩm",
+      "desc": "Miêu tả chi tiết về hình thức và hương vị của socola.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử."
+    },
+    {
+      "step": "So sánh và kết luận",
+      "desc": "So sánh với sản phẩm gốc và đưa ra lời khuyên.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy may mắn khi có lựa chọn tốt hơn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "béo",
+    "bùi bùi",
+    "cuốn",
+    "chất lượng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Trời ơi nhìn cái viên sôcola nó óng ánh, nó mướt con mắt gì đâu.",
+    "Đúng là sôcola thượng hạng có khác, hàng chi mà Việt Kiều bên Mỹ á mà về Việt Nam là toàn là mua sôcola này làm quà không à mọi người.",
+    "Hên là có shop này là bán tách lẻ ra vầy cho mình trải nghiệm chứ cái hũ gốc á là nó bự lắm mọi người mà giá lại cao nữa."
+  ],
+  "hook_content": "thì ra đây là cái sôcola mà con bé Henry ở trong giai đoạn lịch sử số một đã liếm hết cái phần sôcola và nhả cái phần hạnh nhân ra cho người ta ăn.",
+  "hook_type": [
+    "Gây tò mò",
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review socola Heri nổi tiếng, phiên bản tách lẻ với giá cả phải chăng hơn. Người bán đánh giá cao chất lượng, hương vị thơm ngon và khuyên nên thử.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

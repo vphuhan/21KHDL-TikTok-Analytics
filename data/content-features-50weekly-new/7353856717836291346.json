@@ -1,0 +1,101 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món nấm và bào ngư sốt cay Hàn Quốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Uống nước",
+      "desc": "Uống Kombucha để giải cay và giảm nổi mụn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị về thức uống"
+    },
+    {
+      "step": "Ăn và cảm nhận",
+      "desc": "Ăn các loại nấm và bào ngư, cảm nhận vị cay.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng món ăn"
+    },
+    {
+      "step": "Miêu tả hương vị",
+      "desc": "Miêu tả chi tiết vị cay, ngọt, béo của món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy kích thích vị giác"
+    },
+    {
+      "step": "Chia sẻ công thức",
+      "desc": "Hướng dẫn cách pha sốt cay Hàn Quốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích"
+    },
+    {
+      "step": "Trình bày cách nấu",
+      "desc": "Cho nguyên liệu vào chảo và đun sôi.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Chúc mọi người nấu thành công và hẹn gặp lại.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy vui vẻ"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Bạn cũng thử nha!",
+    "Ở bio của Vàng có nha bạn."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "ngọt",
+    "cay",
+    "ngon",
+    "đắng",
+    "béo",
+    "cay xé lưỡi",
+    "cay điên đảo tâm hồn",
+    "đã",
+    "tuyệt vời",
+    "thỏa mãn",
+    "hạnh phúc"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Wow! Bào ngư thật ngọt rồi cay, ngon quá là bạn ơi.",
+    "Cái vị của xăm chang á bạn, là cái vị cay xé lưỡi luôn á bạn.",
+    "Ăn ngon quên bản thân mình là ai luôn."
+  ],
+  "hook_content": "Các bạn, hôm nay Vàng sẽ ăn nấm và bào ngư sốt cay Hàn Quốc nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn nấu món nấm và bào ngư sốt cay Hàn Quốc, chia sẻ công thức pha sốt và cảm nhận hương vị món ăn. Người làm video khuyến khích người xem thử làm theo.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

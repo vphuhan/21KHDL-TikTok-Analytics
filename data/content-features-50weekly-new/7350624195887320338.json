@@ -1,0 +1,74 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Út giới thiệu món viên hải sản sốt phô mai và các món ăn kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Ăn mừng",
+      "desc": "Út ăn mừng kênh đạt 50.000 người theo dõi, cảm ơn mọi người.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy vui lây."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Út bắt đầu ăn viên hải sản chấm cùng các loại tương.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Út miêu tả hương vị phô mai và cách ăn kèm với ớt chuông.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung được hương vị."
+    },
+    {
+      "step": "Gợi ý",
+      "desc": "Út khuyến khích mọi người thử món ăn và cách ăn cuốn.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử làm theo."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "béo",
+    "ngon",
+    "đã"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Phô mai phía trong rất là thơm luôn á mọi người. Kiểu nó không quá quá béo á.",
+    "Ăn kiểu thơm lắm.",
+    "Chấm tương như vậy nó mới đã."
+  ],
+  "hook_content": "Mời mọi người ăn cùng Út nhen.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang viên hải sản sốt phô mai ăn kèm rau củ và các loại tương, đồng thời ăn mừng kênh đạt 50.000 người theo dõi.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

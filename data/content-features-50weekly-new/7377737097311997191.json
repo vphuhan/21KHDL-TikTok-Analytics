@@ -1,0 +1,96 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu bản thân và cuộc sống độc thân ở Sài Gòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cuộc sống của người này."
+    },
+    {
+      "step": "Buổi sáng ở Sài Gòn",
+      "desc": "Tận hưởng buổi sáng ở Sài Gòn với những điều bình dị.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy bình yên và thư thái."
+    },
+    {
+      "step": "Quán ăn quen",
+      "desc": "Chia sẻ về quán ăn quen và kỷ niệm gắn liền.",
+      "impact_level": "2",
+      "viewer_emotion": "Gợi nhớ về những kỷ niệm đẹp."
+    },
+    {
+      "step": "Hạnh phúc",
+      "desc": "Quan điểm về hạnh phúc đơn giản là được ăn ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Đồng cảm với quan điểm này."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu hộp xôi collab với Spotify và tính năng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị về sự kết hợp này."
+    },
+    {
+      "step": "Cà phê Sài Gòn",
+      "desc": "Thưởng thức cà phê vỉa hè và cảm nhận Sài Gòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn trải nghiệm cảm giác này."
+    },
+    {
+      "step": "Đặt câu hỏi",
+      "desc": "Hỏi khán giả về lý do yêu thích Sài Gòn.",
+      "impact_level": "1",
+      "viewer_emotion": "Suy nghĩ về câu hỏi."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chuyên nghiệp",
+    "Sáng tạo"
+  ],
+  "cta_content": [
+    "Mọi người cứ tìm Let's Celebrate Children Day ở trên Spotify thì sẽ thấy nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "hài lòng",
+    "thích",
+    "đẹp",
+    "nhẹ nhàng",
+    "tươi ngon",
+    "tươi đẹp",
+    "hạnh phúc",
+    "ngon",
+    "chill",
+    "dễ thương"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mình rất là hài lòng với việc mỗi sáng thức dậy dành tận 30 phút để lo cho cà pháo, xong rồi mới tới mình.",
+    "Trước đây mình có rất là nhiều những cái mưu cầu trong cuộc sống, nhưng mà hiện tại mình thấy cái việc được ăn ngon cũng là một dạng hạnh phúc rồi.",
+    "Cái phù hợp nhất với bạn đó sẽ là cái tốt nhất."
+  ],
+  "hook_content": "Sài Gòn có cái gì mà lưu luyến vậy?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện"
+  ],
+  "summarization": "Video chia sẻ về cuộc sống thường ngày của một người trẻ ở Sài Gòn, những điều nhỏ nhặt tạo nên hạnh phúc và lý do khiến người ta yêu thích thành phố này, đồng thời giới thiệu một sản phẩm collab giữa hộp xôi và Spotify.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

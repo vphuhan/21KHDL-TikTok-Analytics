@@ -1,0 +1,88 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người ăn chay, ăn healthy",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán chay",
+      "desc": "Quán chay Tâm Hoài An với menu sáng tạo, giá cả hợp lý.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy tò mò về địa điểm được giới thiệu."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Các món chay ngon mắt, miệng từ Âu đến Á, tráng miệng hấp dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hứng thú với sự đa dạng của món ăn."
+    },
+    {
+      "step": "Gợi ý món nên thử",
+      "desc": "Gợi ý các món nem cuốn, bánh nậm, bún riêu, chè khúc bạch.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn đến ăn thử ngay."
+    },
+    {
+      "step": "Đánh giá không gian",
+      "desc": "Không gian sân vườn xanh mát, phù hợp ăn chay thanh tịnh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thư giãn và muốn đến để trải nghiệm."
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Mọi người nên đến đây, già trẻ lớn bé đều sẽ ưng ý.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá và muốn ghé thăm."
+    },
+    {
+      "step": "Thông tin địa điểm",
+      "desc": "Địa chỉ quán chay Tâm Hoài An được để trên màn hình.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết được thông tin để tìm đến quán."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Địa chỉ mình để trên màn hình cho mọi người tham khảo nhé."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngon đỉnh",
+    "ưng ý",
+    "mê",
+    "vừa miệng",
+    "xuất sắc",
+    "thanh tịnh"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn biết bao nhiêu quán chay ở khắp Hà Nội rồi mà lỡ yêu món xôi xoài với món nem ngon đỉnh ở đây.",
+    "Đối với Tâm Hải An thì món tráng miệng cũng như là món chính. Chúng em đều có sự đầu tư tỉ mỉ như nhau.",
+    "Từ món chính đến món phụ bếp nêm nếm rất vừa miệng."
+  ],
+  "hook_content": "âu lắm có mẹ ăn quán chay ông nghỉ thế này nhở.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video giới thiệu buffet chay Tâm Hoài An với hơn 60 món chay ngon miệng từ Á đến Âu, đặc biệt gợi ý các món nem cuốn, bánh nậm, bún riêu và chè khúc bạch. Quán có không gian xanh mát, phù hợp cho những ai muốn tìm một nơi ăn chay thanh tịnh.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

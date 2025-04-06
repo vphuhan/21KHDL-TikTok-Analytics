@@ -1,0 +1,92 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Lấy kim chi, bào khoai tây, chuẩn bị bột và các nguyên liệu khác.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, chuẩn bị cho món ăn."
+    },
+    {
+      "step": "Sơ chế khoai tây",
+      "desc": "Hấp khoai tây và nghiền khoai tây với mayonnaise.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị với công thức bánh mì."
+    },
+    {
+      "step": "Trộn và ủ bột",
+      "desc": "Trộn bột mì, sữa, bơ, muối và để bột nghỉ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, công đoạn làm bánh."
+    },
+    {
+      "step": "Chuẩn bị rau và hành",
+      "desc": "Rửa rau sống và trộn hành để ăn kèm thịt nướng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, chuẩn bị món ăn kèm."
+    },
+    {
+      "step": "Nặn và nướng bánh",
+      "desc": "Cán bột, cho khoai tây, phô mai vào và nướng bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị với cách làm bánh đơn giản."
+    },
+    {
+      "step": "Làm bún kim chi",
+      "desc": "Trộn kim chi với đường và chuẩn bị bún.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị với món bún kim chi."
+    },
+    {
+      "step": "Hoàn thành và ăn tối",
+      "desc": "Nướng thịt và thưởng thức bữa tối cùng gia đình.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấm cúng, vui vẻ khi cả gia đình quây quần."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người một tay giúp mình với nha",
+    "Còn bây giờ thì mời mọi người ăn tối chung với cả nhà mình."
+  ],
+  "cta_type": [
+    "Ăn cùng",
+    "Follow kênh",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngọt",
+    "giòn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mấy cái trái ớt này nhìn vậy thôi chứ ăn giòn ngọt y chang như dưa leo luôn.",
+    "Bánh mì khoai tây nướng của mình vàng ngon quá chừng luôn rồi.",
+    "Kim chi này mình làm hôm qua bỏ ngoài đến trưa hôm nay xong mình bỏ vô tủ lạnh bây giờ nó chín ngon lắm."
+  ],
+  "hook_content": "Mấy nay mình lấy cái thùng kim chi hôm qua ra, làm bún kim chi ăn với thịt nướng một bữa.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm bún kim chi ăn kèm thịt nướng và bánh mì khoai tây nướng bằng chảo tại nhà. Người làm chia sẻ về cuộc sống gia đình và niềm vui nấu ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

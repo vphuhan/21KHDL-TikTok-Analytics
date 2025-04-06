@@ -1,0 +1,72 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu chuyến đi Bạc Liêu",
+      "desc": "Thông báo về chuyến đi Bạc Liêu để hỏi vợ cho anh trai.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về mục đích chuyến đi."
+    },
+    {
+      "step": "Ăn sáng trên đường",
+      "desc": "Ghé quán ăn cơm sườn để ăn sáng trước khi đến nhà chị dâu.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thấy đói bụng."
+    },
+    {
+      "step": "Đến nhà chị dâu",
+      "desc": "Đến Bạc Liêu, gặp gỡ gia đình chị dâu, giới thiệu nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú khi thấy cuộc sống ở Bạc Liêu."
+    },
+    {
+      "step": "Điểm đến tâm linh",
+      "desc": "Ghé thăm Mẹ Nam Hải và chùa Phật nằm ở Sóc Trăng.",
+      "impact_level": "1",
+      "viewer_emotion": "Tôn trọng và ngưỡng mộ."
+    },
+    {
+      "step": "Mua đặc sản",
+      "desc": "Mua đường thốt nốt, bánh pía và lạp xưởng làm quà.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử các món đặc sản."
+    },
+    {
+      "step": "Về nhà và ăn tối",
+      "desc": "Về đến nhà, cả nhà cùng ăn tối với món cá rô kho tộ.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy ấm cúng, muốn ăn cùng."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Canh đu đủ ăn với món cá rô kho tộ, ngon lắm luôn."
+  ],
+  "hook_content": "nhà mình sẽ đi Bạc Liêu để hỏi vợ cho ông anh của mình.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại hành trình về Bạc Liêu hỏi vợ cho anh trai, ghé thăm các địa điểm nổi tiếng và thưởng thức đặc sản địa phương, cuối cùng về nhà ăn tối với món cá rô kho tộ.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

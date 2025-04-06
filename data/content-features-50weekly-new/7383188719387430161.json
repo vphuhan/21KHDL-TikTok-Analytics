@@ -1,0 +1,96 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu nhân vật",
+      "desc": "Giới thiệu bà Tám bán bánh mì và hoàn cảnh khó khăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thương cảm"
+    },
+    {
+      "step": "Tặng bánh mì",
+      "desc": "Mua bánh mì và hát cùng bà Tám để lan tỏa âm nhạc.",
+      "impact_level": "3",
+      "viewer_emotion": "Vui vẻ"
+    },
+    {
+      "step": "Trò chuyện",
+      "desc": "Hỏi tuổi, sức khỏe và chia sẻ về bệnh tình của bà.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm"
+    },
+    {
+      "step": "Kêu gọi ủng hộ",
+      "desc": "Kêu gọi mọi người ủng hộ bà Tám ở địa điểm cụ thể.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong muốn giúp đỡ"
+    },
+    {
+      "step": "Giới thiệu bánh mì",
+      "desc": "Miêu tả bánh mì thập cẩm và giá cả.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Chia sẻ thông tin",
+      "desc": "Nhắc lại về hoàn cảnh của bà và địa chỉ quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Thương cảm"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Cảm ơn người xem.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chuyên nghiệp",
+    "Sáng tạo",
+    "Truyền thống"
+  ],
+  "cta_content": [
+    "Đấy thì các bạn có thể qua ủng hộ cho bà.",
+    "Hoặc là tối anh em mà mà đi qua đường Lê Duẩn ấy, anh em bay phố ấy, đi đua hoặc là đi đâu hoặc là chả nghĩ đi qua đường Lê Duẩn thì vào ủng hộ cho bà nhá."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Chia sẻ"
+  ],
+  "emotion_keywords": [
+    "thương",
+    "vui vẻ",
+    "tích cực",
+    "lạc quan",
+    "xinh"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mắt con nó mà mù ấy thì con cũng không nói đâu. Nhưng mà mắt con nó vẫn nhìn được nhưng mà con công nhận bà xinh thật đấy.",
+    "Bà không cần phải phải thuộc, bà chỉ cần hát thôi.",
+    "Hồi bà đi học là bà gần như là á hậu của lớp."
+  ],
+  "hook_content": "chọn cho một con số từ 1 cho đến 10 đi. chọn thế nào? Số bất kỳ từ 1 cho đến 10.",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện",
+    "Đối thoại"
+  ],
+  "summarization": "Video ghi lại hành trình giúp đỡ và lan tỏa sự tích cực đến một bà cụ bán bánh mì bị ung thư, đồng thời kêu gọi mọi người ủng hộ bà. Người review đã mua bánh mì, hát cùng bà và chia sẻ câu chuyện của bà để khuyến khích sự đồng cảm và giúp đỡ từ cộng đồng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

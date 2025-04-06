@@ -1,0 +1,79 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu dâu tây cuộn lạ mắt, hình dáng như cuộn giấy.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hình dáng độc đáo."
+    },
+    {
+      "step": "Trải nghiệm ban đầu",
+      "desc": "Nếm thử lớp ngoài, nhận ra đó là giấy.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ và buồn cười."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Miêu tả hương vị dâu tây tự nhiên, chua ngọt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng hương vị dâu tây."
+    },
+    {
+      "step": "Nhận xét chi tiết",
+      "desc": "Phân tích cấu trúc và cảm giác khi ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung rõ hơn về sản phẩm."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Nhận xét sản phẩm ngon và thú vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử sản phẩm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Gen Z",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "ngon",
+    "hay",
+    "chua chua",
+    "ngọt ngọt",
+    "dẻo dẻo"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Dâu tây nhưng mà cuộn tròn như là một cái cuộn giấy vậy.",
+    "Ăn nó có cái mùi thơm và hương vị của dâu tự nhiên, chua chua, ngọt ngọt.",
+    "Lúc ăn thì cái miếng dâu nó dẻo dẻo xong rồi nó có những cái hạt dâu nhai nó vỡ trong miệng mình."
+  ],
+  "hook_content": "mọi người biết đây là cái gì không? Đây nó là dâu tây cuộn mọi người ạ.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review món dâu tây cuộn lạ mắt, có hình dáng như cuộn giấy. Người review đánh giá cao hương vị tự nhiên, chua ngọt và trải nghiệm ăn thú vị.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

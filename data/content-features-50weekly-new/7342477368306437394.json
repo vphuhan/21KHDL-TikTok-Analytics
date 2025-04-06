@@ -1,0 +1,83 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bánh",
+      "desc": "Giới thiệu bánh kem mousse trà ô long Đài Loan bưởi hồng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị bánh."
+    },
+    {
+      "step": "Đánh giá bánh",
+      "desc": "Đánh giá vị béo thanh, ít ngọt, bưởi tươi, mứt bưởi socola.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng, muốn thử."
+    },
+    {
+      "step": "Nhận xét chung",
+      "desc": "Bánh phù hợp cho các dịp đặc biệt, màu sắc đẹp mắt.",
+      "impact_level": "1",
+      "viewer_emotion": "Gợi ý quà tặng."
+    },
+    {
+      "step": "Mô tả thêm",
+      "desc": "Giới thiệu các vị bánh khác và số lượng đã ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Đặt câu hỏi",
+      "desc": "Hỏi người xem thích ăn vị gì, tương tác với người xem.",
+      "impact_level": "1",
+      "viewer_emotion": "Muốn bình luận gợi ý."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người muốn Kim ăn vị gì nữa nè, nói cho tui biết với nha."
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "thèm",
+    "ngọt ngào",
+    "cưng",
+    "thơm",
+    "béo thanh",
+    "dễ chịu",
+    "tươi",
+    "ngọt nhẹ nhàng",
+    "mát trong người",
+    "đẹp mắt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mà tôi vẫn thắc mắc là mấy cái bông này ăn được không mọi người?",
+    "Nói chung là ăn cái bánh này xong mình cảm thấy mát trong người, vì cái phần trái cây nó nhiều á mọi người. Nên là giống như là mình vừa ăn bánh kem mà vừa ăn trái cây vậy đó.",
+    "Nói cái dòng mà đang thèm á, đưa đúng món một cái là ăn cỡ đó mới chịu."
+  ],
+  "hook_content": "Hey mọi người, Chi một cụ rưỡi mua bánh kem ăn cho đã thèm, mà bánh kem phải bự mới chịu á nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review bánh mousse trà ô long Đài Loan bưởi hồng size lớn, đánh giá hương vị và gợi ý cho các dịp đặc biệt. Người nói chia sẻ trải nghiệm ăn bánh và tương tác với người xem.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

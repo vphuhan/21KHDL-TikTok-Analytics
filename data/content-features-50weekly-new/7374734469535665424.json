@@ -1,0 +1,88 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mời chọn số",
+      "desc": "Mời người chơi chọn một con số để quyết định số lượng chè.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về thử thách."
+    },
+    {
+      "step": "Giới thiệu chè",
+      "desc": "Giới thiệu món chè pudding sáu vị mới lạ và hấp dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy món chè có vẻ ngon."
+    },
+    {
+      "step": "Ăn thử thách",
+      "desc": "Bắt đầu thử thách ăn sáu bát chè trong thời gian giới hạn.",
+      "impact_level": "3",
+      "viewer_emotion": "Hồi hộp và phấn khích."
+    },
+    {
+      "step": "Hoàn thành thử thách",
+      "desc": "Ăn hết sáu bát chè và nhận phần thưởng 500k.",
+      "impact_level": "3",
+      "viewer_emotion": "Ngạc nhiên và thán phục."
+    },
+    {
+      "step": "Mở thử thách mới",
+      "desc": "Thông báo thử thách ăn 10 bát chè để nhận 1 triệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị và muốn thử."
+    },
+    {
+      "step": "Thông tin quán",
+      "desc": "Giới thiệu địa chỉ quán chè xoan cho những ai muốn tham gia.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhớ địa chỉ quán."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nào, bạn nào dám chơi thử thách thì đến ngay với em nào.",
+    "Ở đây nhá, đang có chương trình ăn 10 bát chè tặng 1 triệu, ai mà tham gia ấy thì qua chè xoan ở 29 phố Hàng Giấy nhá."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "mát",
+    "ngon",
+    "mềm mịn",
+    "mướt",
+    "vui vui"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn chè được tận 500k , biết thế ăn 10 bát kiếm cho nhiều lúa",
+    "Hôm nay em nhận cái kèo này có chị em xác định rồi.",
+    "Đang quay content vui vui chả hiểu sao sang luôn thử thách 500.000."
+  ],
+  "hook_content": "Chị hãy xem một con số đi.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kịch hóa"
+  ],
+  "summarization": "Video ghi lại thử thách ăn chè để nhận tiền thưởng tại quán chè xoan, với các mức thưởng khác nhau tùy theo số lượng chè ăn được. Chủ quán đưa ra lời mời tham gia thử thách cho những người xem video.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

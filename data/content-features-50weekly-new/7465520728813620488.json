@@ -1,0 +1,66 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Khai trương",
+      "desc": "Mở đầu bằng lời chúc mừng năm mới và giới thiệu món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Người nói ăn và trò chuyện với mọi người xung quanh.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Tương tác",
+      "desc": "Tham gia mini game bốc thăm trúng thưởng đầu năm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Kết nối",
+      "desc": "Giới thiệu bạn bè đến ủng hộ cắt tóc đầu năm.",
+      "impact_level": "1",
+      "viewer_emotion": "Ấm áp"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "đẹp",
+    "thích"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mặt đẹp đến mấy thì cũng phải rửa bát thôi nhá.",
+    "Mỏi lưng đau tay quá, gãy lưng rồi.",
+    "Mùng 1 quét nhà bình thường, cứ bẩn nó quét. Không phải kiêng."
+  ],
+  "hook_content": "hãy trốn nổi thôi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh mukbang đầu năm với các món ăn ngày Tết, kết hợp các hoạt động vui chơi, lì xì và chúc Tết mọi người xung quanh.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

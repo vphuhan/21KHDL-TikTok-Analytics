@@ -1,0 +1,77 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Kể về trải nghiệm ăn tân gia không mấy vui vẻ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Giới thiệu",
+      "desc": "Quyết định nấu lẩu Thái để đáp lễ bạn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Thực hiện",
+      "desc": "Chia sẻ cách nấu lẩu Thái nhanh chóng, dễ dàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm"
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Nhấn mạnh sự tiện lợi và chất lượng của gói lẩu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Mời mọi người ăn và gợi ý dùng sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người Tết này cũng sắm mấy gói gia vị lẩu này mà đãi khách nha."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "áy náy",
+    "chu đáo"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nắm rõ cái năng lực nấu ăn của thằng Hùng nên là mình đã chuẩn bị hết cái phương án dự phòng trường hợp xấu nhất xảy ra rồi.",
+    "Chuẩn bị một bữa lẩu mời bạn sang ăn là quá dễ.",
+    "Tâm hai đứa mình thì yên rồi đấy chứ tâm thằng Hùng là như động đất Nhật Bản vậy đó."
+  ],
+  "hook_content": "Tuần trước hai đứa mình mới lấy hết can đảm để sang nhà thằng Hùng ăn tân gia.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video kể về việc chủ nhà đáp lễ bạn bằng cách nấu lẩu Thái sau trải nghiệm ăn tân gia không mấy vui vẻ. Chủ nhà chia sẻ cách nấu nhanh gọn và giới thiệu sản phẩm lẩu tiện lợi.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

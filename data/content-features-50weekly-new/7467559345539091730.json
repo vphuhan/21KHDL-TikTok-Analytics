@@ -1,0 +1,99 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu hoàn cảnh",
+      "desc": "Tự ăn Tết một mình, khoe trang trí nhà cửa và áo dài.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự chuẩn bị chỉn chu của bạn."
+    },
+    {
+      "step": "Mở hộp hải sản",
+      "desc": "Tự thưởng hải sản, đặc biệt là mực trứng, ăn mừng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về chất lượng mực trứng."
+    },
+    {
+      "step": "Luộc và giới thiệu mực",
+      "desc": "Luộc mực trứng, mô tả độ tươi và trứng đầy của mực.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng khi thấy mực trứng căng tròn."
+    },
+    {
+      "step": "Pha nước chấm",
+      "desc": "Pha muối ớt sữa để chấm mực, tăng thêm hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn bắt chước làm theo."
+    },
+    {
+      "step": "Giới thiệu vòng trầm",
+      "desc": "Giới thiệu vòng trầm phong thủy và ý nghĩa may mắn.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy chiếc vòng đẹp và có ý nghĩa."
+    },
+    {
+      "step": "Mời ăn mực",
+      "desc": "Mời mọi người ăn mực trứng, khen ngon và không ngán.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm ăn mực trứng."
+    },
+    {
+      "step": "Xin gợi ý",
+      "desc": "Hỏi gợi ý món ăn kèm với mực trứng và địa chỉ mua vòng.",
+      "impact_level": "1",
+      "viewer_emotion": "Sẵn sàng gợi ý nếu biết."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nên là nếu có ai biết thì có gì gợi ý cho mình với ha.",
+    "Còn cái chiếc vòng trầm này ai cần thì mọi người cứ việc nhắn qua bên chị Thanh Nhàn ha."
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Truy cập trang cá nhân",
+    "Đặt câu hỏi"
+  ],
+  "emotion_keywords": [
+    "muốn ăn Tết",
+    "ok",
+    "căng đầy trứng",
+    "ngon",
+    "đầy ắp",
+    "đẹp",
+    "may mắn",
+    "không ngán",
+    "tươi"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái đoạn này thì mọi người thông cảm cho mình xíu nghe, làm như là cái mực này khi hấp lên thì nó căng ra thêm hay làm sao á, mà nhiều dữ không biết nữa.",
+    "Nhìn mấy cái con nhỏ nhỏ roi roi vậy thôi nghe nhưng mà ăn hoài được hoài luôn không có bị ngán.",
+    "Mực trứng này thì không biết có thể ăn kèm hay là kết hợp chung với món gì nữa không ha."
+  ],
+  "hook_content": "Mặc dù là Tết xa nhà nha, với lại bên đây chỉ có một mình thôi, nhưng mà mình cũng muốn ăn Tết.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ trải nghiệm ăn Tết xa nhà của một bạn, bạn tự thưởng cho mình một thùng mực trứng và review độ tươi ngon của món ăn này. Đồng thời, bạn cũng khoe chiếc vòng trầm phong thủy và xin gợi ý các món ăn kèm với mực trứng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

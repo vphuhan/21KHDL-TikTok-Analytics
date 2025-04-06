@@ -1,0 +1,96 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Đi chợ mua tôm",
+      "desc": "Đi chợ lớn mua tôm càng xanh, nhờ người bán chọn giúp.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về chất lượng tôm."
+    },
+    {
+      "step": "Nhận hải sản",
+      "desc": "Nhận ba set hải sản bơ tỏi từ Sài Gòn gửi về.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm về độ tươi ngon."
+    },
+    {
+      "step": "Sơ chế tôm",
+      "desc": "Luộc tôm càng xanh với nước lúa mạch.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Xào hải sản",
+      "desc": "Xào set hải sản bơ tỏi đã để đông lạnh.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng vì mùi thơm."
+    },
+    {
+      "step": "Thêm bột năng",
+      "desc": "Rưới bột năng để nước sốt bơ tỏi sánh lại.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với độ sánh của sốt."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Chấm hải sản và bánh mì với nước sốt bơ tỏi.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn ăn thử ngay lập tức."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Nhận xét về các loại ốc và độ ngon của hải sản.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "đã",
+    "tươi mới",
+    "siêu dính",
+    "tươi ngon",
+    "thơm cực kỳ",
+    "thơm mát",
+    "đói bụng",
+    "ngon",
+    "ăn dính",
+    "đỡ ngán",
+    "ngon thiệt",
+    "siêu nhiều",
+    "tinh tế",
+    "sạch sẽ",
+    "ngon tới nỗi mà câm nín"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Vừa xào mà ta nói cái mùi thơm nó làm đói bụng chịu không nổi.",
+    "Tôm khi mà mọi người luộc xong á, chấm vô cái nước chấm hải sản của tiệm luôn, ta nói nó ngon tới nỗi mà câm nín không nói nên lời.",
+    "Mình là một đứa cực kỳ thích ăn hải sản mà có cái nước sốt bơ tỏi giống vậy nè, mình bảo đảm với mọi người luôn, vừa mở cái bọc bơ tỏi ra mà nó thơm cực kỳ."
+  ],
+  "hook_content": "Hôm bữa giờ là đi ba bốn cái chợ luôn mà đi tới cái chợ lớn thì mới gặp tôm.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review set hải sản bơ tỏi mua từ Sài Gòn gửi về, tập trung vào trải nghiệm mua tôm tươi ngon ở chợ và quá trình chế biến, thưởng thức món ăn hấp dẫn này. Người nói đánh giá cao độ tươi ngon của hải sản và hương vị đặc trưng của sốt bơ tỏi.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

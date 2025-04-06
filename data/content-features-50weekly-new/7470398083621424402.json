@@ -1,0 +1,73 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Thèm đồ ngâm tương Mẹ Gấu và rủ người khác ăn cùng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Giới thiệu món",
+      "desc": "Giới thiệu các món ngâm tương và đồ ăn kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Đánh giá giá cả",
+      "desc": "Thông báo giá combo ba hũ ngâm tương.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Thưởng thức món ăn và đưa ra cảm nhận.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Nhận xét món ăn ngon và khẳng định sẽ mua lại.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thèm",
+    "ngon",
+    "ngon quá",
+    "đẹp"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "thèm đồ ngâm tương biết mẹ gấu quá",
+    "mua đồ bên nhà Mẹ Gấu có đồ ăn kèm hơn nhiều luôn",
+    "Mẹ mua cơm ngâm tương ngon dữ nhỉ?"
+  ],
+  "hook_content": "Ừm, thèm đồ ngâm tương biết mẹ gấu quá, anh có ăn luôn không?",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu và review các món ngâm tương mua từ Mẹ Gấu, tập trung vào hương vị và trải nghiệm ăn uống.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

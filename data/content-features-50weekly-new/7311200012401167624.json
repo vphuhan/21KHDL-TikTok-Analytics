@@ -1,0 +1,63 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu mộng dừa và sự nhầm lẫn ban đầu về sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm"
+    },
+    {
+      "step": "Mô tả trải nghiệm",
+      "desc": "Chia sẻ quá trình lấy mộng dừa ra khỏi cây rất vất vả.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy hơi nản"
+    },
+    {
+      "step": "Đánh giá chất lượng",
+      "desc": "Đánh giá hương vị ngọt ngào nhưng hơi xốp của mộng dừa.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn thử"
+    },
+    {
+      "step": "Nhận xét chung",
+      "desc": "Đưa ra kết luận cuối cùng là mộng dừa này ăn ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngọt",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Phải công nhận là mộng dừa này ăn ngọt thật nhưng mà hơi sốp một tí.",
+    "Review cả thế giới mộng dừa."
+  ],
+  "hook_content": "Review cả thế giới mộng dừa, lúc đầu khi mà háng về mình cứ tưởng là nhầm, sau đó nhắn tin cho người bán thì mới biết, hóa ra là cái cây này phải mất cả tiếng đồng hồ thì mình mới có thể lấy được nó ra, nhưng mà nó to thật đấy.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review món mộng dừa, chia sẻ về sự nhầm lẫn ban đầu, quá trình lấy mộng dừa vất vả và đánh giá hương vị ngọt nhưng hơi xốp, kết luận là ăn ngon.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

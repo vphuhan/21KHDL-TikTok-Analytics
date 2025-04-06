@@ -1,0 +1,90 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn thay thế",
+      "desc": "Vì bánh không đủ no nên quyết định ăn mì xào.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Trải nghiệm mì xào cũ",
+      "desc": "Nhận xét mì xào Táo Quân có hương vị riêng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "So sánh mì xào của em",
+      "desc": "Thấy mì của em bóng mướt và ngon hơn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Thử mì xào mới",
+      "desc": "Đánh giá mì xào Táo Quân phiên bản mới.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng khởi"
+    },
+    {
+      "step": "Nhận xét chi tiết",
+      "desc": "Sợi mì bóng mướt, sốt đậm đà, vị chua ngọt đặc trưng.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Thông tin về sản phẩm",
+      "desc": "Mì mới có bán ở siêu thị và cửa hàng tiện lợi.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Lời kêu gọi trải nghiệm",
+      "desc": "Khuyến khích thử phiên bản mì xào mới.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ăn thử xem phiên bản mới này có thích hơn không nha."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "cuốn",
+    "thèm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ăn nó cuốn hơn hẳn luôn á",
+    "Vị chua chua ngọt ngọt đúng là hương vị đặc trưng của mì xào Táo Quân.",
+    "Bởi có ăn từ nhỏ tới lớn vẫn chưa biết ngán nha."
+  ],
+  "hook_content": "Để lại thêm một ngày chị đẹp vắng nhà để lại cho mình cái dĩa bánh bạ giạ bơ.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review mì xào Táo Quân phiên bản mới với sợi mì bóng mướt, sốt đậm đà, vị chua ngọt đặc trưng, được bán ở nhiều siêu thị và cửa hàng tiện lợi. Chủ kênh khuyến khích người xem ăn thử để so sánh hương vị.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

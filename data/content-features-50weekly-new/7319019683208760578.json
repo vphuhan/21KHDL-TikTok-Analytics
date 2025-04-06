@@ -1,0 +1,74 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu set hải sản",
+      "desc": "Giới thiệu set hải sản đã ăn thử và nay đã bán chính thức.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về set hải sản."
+    },
+    {
+      "step": "Mô tả thành phần",
+      "desc": "Liệt kê các thành phần trong set hải sản và cách chế biến.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết rõ hơn về các món ăn."
+    },
+    {
+      "step": "Trải nghiệm cua",
+      "desc": "Bắt đầu ăn cua và nhận xét về độ tươi ngon, gạch cua.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng khi thấy cua gạch."
+    },
+    {
+      "step": "Trải nghiệm sốt tiêu đen",
+      "desc": "Ăn khoai tây, mì ý với sốt tiêu đen Singapore và đánh giá.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị sốt tiêu đen."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Nhận xét về chất lượng hải sản và độ ngon của món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng sản phẩm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "cay",
+    "hăng",
+    "ngon",
+    "thích",
+    "chất lượng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Một miếng cua rất là to luôn.",
+    "Gạch của nó thì ăn đã miệng luôn.",
+    "Nói chung là mình thấy hải sản bên món ngon phút mốt này ăn chất lượng thật sự mọi người ạ."
+  ],
+  "hook_content": "Một miếng cua rất là to luôn.Ưm. Chào mọi người nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review set hải sản ship hoả tốc từ món ngon phút mốt, bao gồm cua, sốt me, mì ý, khoai tây và sốt tiêu đen Singapore. Người dùng đánh giá cao chất lượng hải sản, đặc biệt là gạch cua và sốt tiêu đen.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

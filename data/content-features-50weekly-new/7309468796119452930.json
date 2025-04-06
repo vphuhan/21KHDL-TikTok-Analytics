@@ -1,0 +1,84 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Mời mọi người cùng ăn món khâu nhục và giới thiệu về sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn được giới thiệu."
+    },
+    {
+      "step": "Nguồn gốc sản phẩm",
+      "desc": "Nhấn mạnh số lượng đơn hàng đã bán và hi vọng đạt số lượng lớn hơn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin không quá đặc biệt."
+    },
+    {
+      "step": "Hướng dẫn làm nóng",
+      "desc": "Hướng dẫn cách làm nóng món khâu nhục một cách nhanh chóng và đơn giản.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích với hướng dẫn nhanh gọn."
+    },
+    {
+      "step": "Trình bày món ăn",
+      "desc": "Hướng dẫn cách bày biện món khâu nhục sao cho đẹp mắt như nhà hàng.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với cách trình bày hấp dẫn."
+    },
+    {
+      "step": "Thông báo thành công",
+      "desc": "Chia sẻ về thành công ban đầu với số lượng lon khâu nhục đã bán được.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đáng tin cậy hơn về sản phẩm."
+    },
+    {
+      "step": "Giải thích chậm trễ",
+      "desc": "Xin lỗi và giải thích về sự chậm trễ trong đơn hàng do số lượng lớn.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm cho người bán."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Đấy, khâu nhục có trong giỏ hàng. Mọi người cứ lên đơn trong giỏ hàng là được, mọi người nhá.",
+    "Bấm vào trong giỏ hàng để kiểm tra xem sản phẩm nó bao nhiêu tiền nhá."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "thành công",
+    "thông cảm",
+    "cảm ơn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "bát cơm cúng ấy mình bán được tận 220 đơn",
+    "cho vào một cái bát vừa, rồi các bạn thả mạnh tay hục không nhục xuống bát, rồi mang kê đũa hoặc cái thìa các bạn gõ mạnh ra, cho nó rơi xuống",
+    "thế là xong một cái đĩa đẹp như nhà hàng luôn mọi người nhá"
+  ],
+  "hook_content": "Ối giời ơi, vay vay chợ. Mời mọi người ăn cơm không nhục với mình nhá.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu và hướng dẫn cách làm nóng, bày biện món khâu nhục đóng hộp, đồng thời thông báo về số lượng đơn hàng đã bán và kêu gọi mua hàng trên giỏ hàng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

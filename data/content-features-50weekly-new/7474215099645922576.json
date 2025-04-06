@@ -1,0 +1,88 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về Circle K và thử thách ăn sáng với 100k.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về những món ăn sẽ được chọn."
+    },
+    {
+      "step": "Uống cà phê",
+      "desc": "Uống cà phê để tỉnh táo trước khi bắt đầu review.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy video có yếu tố quảng cáo."
+    },
+    {
+      "step": "Review pizza",
+      "desc": "Đánh giá pizza phô mai tại Circle K.",
+      "impact_level": "1",
+      "viewer_emotion": "Không ấn tượng với đánh giá này."
+    },
+    {
+      "step": "Review gà",
+      "desc": "Đánh giá đùi gà nướng Teriyaki.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với đánh giá tích cực về món này."
+    },
+    {
+      "step": "Review bánh mì",
+      "desc": "Đánh giá bánh mì chả cá.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường với đánh giá này."
+    },
+    {
+      "step": "Review đồ uống",
+      "desc": "Đánh giá sữa đậu nành mix trà bí đao.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử món đồ uống này."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "mê",
+    "buồn ngủ",
+    "tỉnh táo",
+    "đậm đà",
+    "sánh kẹo",
+    "khác liền",
+    "cuốn",
+    "thích mê"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Uống sảo là thấy khác liền à.",
+    "Vị nước tương rất ngon, thịt gà mềm ngập miệng.",
+    "Anh em cứ thử xem."
+  ],
+  "hook_content": "100k ăn sáng được những gì tại Sài Gòn cây?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video review các món ăn sáng mua tại Circle K với 100k, bao gồm pizza, đùi gà, bánh mì chả cá và sữa đậu nành mix trà bí đao, cùng với cà phê Nhật Kim Anh để tỉnh táo. Đánh giá chủ yếu tập trung vào hương vị và trải nghiệm cá nhân.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

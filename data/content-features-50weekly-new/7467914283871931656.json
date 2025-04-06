@@ -1,0 +1,92 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu Sugar Town của Việt Hương và các loại bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị các loại bánh."
+    },
+    {
+      "step": "Thử bánh mì phô mai hoàng kim",
+      "desc": "Thử bánh mì phô mai hoàng kim size nhỏ và đánh giá.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng vì bánh được khen ngon."
+    },
+    {
+      "step": "Thử bánh rùa nhân kem Yuzu",
+      "desc": "Thử bánh rùa nhân kem Yuzu và đưa ra nhận xét.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú vì hình dáng bánh dễ thương."
+    },
+    {
+      "step": "Thử trà bông phô mai dẻo",
+      "desc": "Thử trà bông phô mai dẻo và tấm tắc khen ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn ăn thử ngay vì được khen ngon liên tục."
+    },
+    {
+      "step": "Thử bánh vẹ vẹ vẹt",
+      "desc": "Thử bánh có tên lạ và đánh giá hương vị đắng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị đắng của bánh."
+    },
+    {
+      "step": "Thử bánh dứa",
+      "desc": "Thử bánh dứa và nhận xét về độ chua.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hơi thất vọng vì bánh chua."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Hẹn gặp lại ở các video chấm điểm tiếp theo.",
+      "impact_level": "1",
+      "viewer_emotion": "Mong chờ các video review khác."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Hẹn mọi người tập chấm điểm tiếp theo."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "dễ thương",
+    "hấp dẫn",
+    "no",
+    "dễ ăn",
+    "ngon lắm",
+    "chua"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "10 điểm á.",
+    "Trời ơi, con rùa nó dễ thương chưa.",
+    "Ăn mấy cái bánh này ăn no luôn á, ăn chiều cơm được luôn á, nó ngon dễ ăn."
+  ],
+  "hook_content": "Chấm điểm Sugar How của em Việt Hương.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video review các loại bánh tại Sugar Town của Việt Hương, tập trung vào đánh giá hương vị và đưa ra điểm số cho từng loại bánh. Người đánh giá khen ngon nhiều loại bánh và đưa ra nhận xét về hương vị.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

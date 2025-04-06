@@ -1,0 +1,87 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu bằng thử thách",
+      "desc": "Thực khách yêu cầu chủ quán cho nhiều topping đến khi đầy bát.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự tự tin của thực khách."
+    },
+    {
+      "step": "Giới thiệu địa điểm",
+      "desc": "Giới thiệu quán Tiến cơm rang ở Lý Thường Kiệt đang hot.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, cung cấp thông tin cơ bản."
+    },
+    {
+      "step": "Miêu tả không gian, topping",
+      "desc": "Miêu tả không gian quán đơn giản và các loại topping.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích, nhưng không đặc biệt."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Đánh giá cơm rang giòn, dưa chua ngon, ruốc giò bình thường.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thèm ăn."
+    },
+    {
+      "step": "Thông tin giá cả, thời gian",
+      "desc": "Cung cấp thông tin về giá cả và thời gian mở cửa.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích cho người muốn ghé thăm."
+    },
+    {
+      "step": "Tổng kết, đánh giá",
+      "desc": "Tổng kết lại quán ngon, chủ quán vui vẻ, nhiệt tình.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng tốt về quán."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mọi người có thể ghé qua dùng thử và trải nghiệm nha"
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "vui vẻ",
+    "nhiệt tình",
+    "hot rần rần"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cơm ở đây thì sẽ được rang qua ba lượt chứ không phải là dùng bột như là một vài quán mà mình đã từng ăn.",
+    "Dưa thì có độ chua vừa phải, kết hợp với thịt ba chỉ kho thì nó cứ phải gọi là ngon nhức cái nách.",
+    "Tổng kết lại là ngon và chị chủ rất vui vẻ và nhiệt tình, mọi người có thể ghé qua dùng thử và trải nghiệm nha."
+  ],
+  "hook_content": "Chị làm giúp em một suất. Nhiều.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán cơm rang Tiến ở Lý Thường Kiệt, nổi tiếng với cơm rang rang ba lượt và nhiều topping. Quán được đánh giá là ngon, chủ quán nhiệt tình, giá cả hợp lý.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

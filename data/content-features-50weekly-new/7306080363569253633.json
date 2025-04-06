@@ -1,0 +1,92 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu tình huống",
+      "desc": "Chị đẹp vắng nhà, quyết định tự nấu món nem lụi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự tự lập."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê các nguyên liệu cần thiết và bày tỏ sự thèm thuồng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món nem lụi."
+    },
+    {
+      "step": "Giới thiệu máy xay",
+      "desc": "Sử dụng máy xay thịt Vifi3 để xay thịt làm nem.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng về công dụng của máy xay."
+    },
+    {
+      "step": "Trộn và nướng nem",
+      "desc": "Trộn thịt với mỡ, nướng nem cho thơm vàng.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy đói bụng."
+    },
+    {
+      "step": "Thưởng thức nem lụi",
+      "desc": "Cuốn nem với rau, chấm mắm nêm và thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng món ăn."
+    },
+    {
+      "step": "Biến tấu món ăn",
+      "desc": "Làm bún nem nướng vì cuốn nem không đẹp.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với sự thay đổi."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Hứa hẹn thử nghiệm thêm các sản phẩm khác của Vifi3.",
+      "impact_level": "1",
+      "viewer_emotion": "Mong chờ video tiếp theo."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Để bữa sau coi săn sale được cái máy nào của Vifi3 nữa mình lôi ra thử nghiệm tiếp."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "thèm",
+    "khoái",
+    "thơm",
+    "béo",
+    "đã",
+    "ngon",
+    "bắt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nướng vừa vàng là nó thơm hết nguyên cái nhà luôn.",
+    "Mà cái nư khoái ăn mấy món cuốn cuốn, thì phải cuốn thêm rau chấm mắm nêm cay cay mặn mặn kiểu vầy nè nó mới đã.",
+    "Trộn miếng mắm nêm chua chua mặn mặn ngọt ngọt ăn là bao bắt luôn."
+  ],
+  "hook_content": "Ta nói mới sáng bước chân xuống bếp là thấy chị đẹp chuẩn bị bỏ mình ở nhà nữa rồi, nhưng chắc là cũng có chừa đồ ăn chứ hả?",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình tự làm món nem lụi tại nhà vì \"chị đẹp\" vắng nhà. Người làm chia sẻ kinh nghiệm, sử dụng máy xay thịt để tiết kiệm thời gian và biến tấu thành bún nem nướng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

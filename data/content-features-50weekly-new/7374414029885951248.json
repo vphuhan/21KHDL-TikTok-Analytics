@@ -1,0 +1,73 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu bạch tuộc ăn liền đã hấp, chỉ cần rã đông.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm mới."
+    },
+    {
+      "step": "Rã đông và miêu tả",
+      "desc": "Quá trình rã đông, mô tả trọng lượng và giá cả sản phẩm.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin về sản phẩm."
+    },
+    {
+      "step": "Nếm thử và đánh giá",
+      "desc": "Ăn thử bạch tuộc, đánh giá độ dai và mùi vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với trải nghiệm ăn thử."
+    },
+    {
+      "step": "So sánh",
+      "desc": "So sánh bạch tuộc ăn liền với bạch tuộc thông thường.",
+      "impact_level": "1",
+      "viewer_emotion": "Đánh giá khách quan."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Đưa ra nhận xét chung về sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thú vị."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "dai",
+    "giòn",
+    "mặn",
+    "tanh"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Con này thì người ta đã hấp rồi và người ta để ngăn đá. Bây giờ thì mình chỉ việc rã đông ra và ăn trực tiếp thôi, không phải chế biến gì nữa.",
+    "Ăn cái này thì nhanh no thật, mình mới ăn có một cái xúc tu của nó thôi mà bây giờ đã cảm thấy no rồi.",
+    "Nói chung là thấy bán nguyên con nhìn hay hay á, cho nên mình mua ăn ăn thử thôi. Còn đâu thì ăn thì nó cũng như bạch tuộc mình ăn bình thường trong nhà hàng quán ăn thôi."
+  ],
+  "hook_content": "mình vừa mua được cái con thủy quái này mọi người ạ.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review bạch tuộc ăn liền, đã hấp và cấp đông, chỉ cần rã đông để ăn. Người review đánh giá về độ dai, mùi vị và so sánh với bạch tuộc thông thường.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

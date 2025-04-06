@@ -1,0 +1,82 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu chung",
+      "desc": "Nhấn mạnh sự 'lỗ' của cô dâu vì tiệc cưới quá chất lượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự hài hước và tò mò."
+    },
+    {
+      "step": "Review tiệc trong nhà",
+      "desc": "Đánh giá chi tiết từng món ăn trong thực đơn tiệc cưới.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi đói bụng và tò mò về hương vị."
+    },
+    {
+      "step": "Đánh giá xôi chè",
+      "desc": "Sáng tạo khi kết hợp xôi vò và chè hạt sen.",
+      "impact_level": "3",
+      "viewer_emotion": "Thấy thú vị với cách ăn độc đáo."
+    },
+    {
+      "step": "Review buffet bánh ngọt",
+      "desc": "Thưởng thức và nhận xét các loại bánh ngọt tráng miệng.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thèm đồ ngọt."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Uống cà phê và gửi lời chúc phúc đến cô dâu chú rể.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy no bụng và hài lòng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "mềm",
+    "giòn",
+    "béo",
+    "tươi",
+    "dai",
+    "vừa vị",
+    "ngậy",
+    "thơm",
+    "bổ",
+    "hơi ngọt",
+    "phấn khích",
+    "thỏa mãn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Trong đám cưới đã toàn món ngon rồi lại còn thêm cả tiệc buffet bánh ngọt ở ngoài trời nữa.",
+    "Ăn kiểu này chè không bị ngọt mà xôi lại không bị khô. Ôi sao mình thông minh thế nhỉ.",
+    "Làm gì thì làm phải sống thật là hạnh phúc với nhau nha."
+  ],
+  "hook_content": "Chưa bao giờ đi ăn đám cưới mà cảm thấy cô dâu mới là người lỗ chứ người lỗ không phải là mình.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review các món ăn trong tiệc cưới, từ món khai vị đến tráng miệng, đặc biệt ấn tượng với buffet bánh ngọt và cách ăn xôi chè độc đáo. Người xem cảm thấy thích thú với sự đa dạng của món ăn và không gian tiệc cưới.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

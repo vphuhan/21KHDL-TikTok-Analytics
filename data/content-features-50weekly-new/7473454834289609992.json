@@ -1,0 +1,76 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu vấn đề",
+      "desc": "Đề cập đến việc nhãn hàng A liên hệ mời review sản phẩm.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Phản ánh thực trạng",
+      "desc": "Kênh khác dùng hình ảnh sản phẩm của nhãn hàng A để dìm hàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Bất ngờ"
+    },
+    {
+      "step": "Thể hiện thái độ",
+      "desc": "Phê bình hành vi làm content bẩn và thiếu chân chính.",
+      "impact_level": "3",
+      "viewer_emotion": "Đồng tình"
+    },
+    {
+      "step": "Lời nhắn nhủ",
+      "desc": "Nhắc nhở về sự chân chính trong kinh doanh và làm content.",
+      "impact_level": "2",
+      "viewer_emotion": "Suy ngẫm"
+    },
+    {
+      "step": "Giải thích thêm",
+      "desc": "Lưu ý rằng video chỉ nói về một video khác trên mạng.",
+      "impact_level": "1",
+      "viewer_emotion": "Nhẹ nhõm"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Drama",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "khó chịu",
+    "yêu thích"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ăn chân gà không drama gì chưa người đẹp?",
+    "Mình hãy làm ăn thật chân chính, đừng có content bẩn marketing bẩn, làm những cái bẩn thỉu thì sẽ không tồn tại được lâu đâu.",
+    "Đeo mặt nạ nhưng mà lại không nỡ tháo cái đồng hồ, không nỡ tháo cái nhẫn ra."
+  ],
+  "hook_content": "Ăn chân gà không drama gì chưa người đẹp?",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện",
+    "Đối thoại"
+  ],
+  "summarization": "Video này nói về việc một nhãn hàng chân gà liên hệ để review, nhưng người này lại thấy một kênh khác dùng hình ảnh của nhãn hàng đó để dìm hàng và phê bình hành vi làm content bẩn, đồng thời đưa ra lời nhắn nhủ về sự chân chính trong kinh doanh.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Châm biếm",
+    "Khó chịu"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về công việc và hai món ghẹ ngâm làm từ 3 ngày trước.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Miêu tả món ăn",
+      "desc": "Miêu tả chi tiết về ghẹ ngâm tương và ghẹ sốt cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Cả nhà cùng nhau ăn và cảm nhận hương vị món ghẹ.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm cúng"
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Nhận xét về độ thấm vị và sự ngon miệng của ghẹ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Tiếp tục ăn uống và thể hiện sự hài lòng với món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Vui vẻ"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bây giờ thì mời mọi người ăn ghẹ hai món chung với cả nhà của mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "nhức nách",
+    "đổ mồ hôi miệng",
+    "thấm",
+    "béo",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ăn chỉ có nhức cái nách",
+    "vừa dở cái nắp ra thôi á là nhà ai nấy cũng bị đổ mồ hôi miệng hết trơn luôn á",
+    "ăn bằng mười ngón tay thì nó mới đúng"
+  ],
+  "hook_content": "cái nào ông anh mình ổng đã qua là hàng rồi nè, qua lại cái là mình cho ổng vô việc luôn, chiều chiều đều mỗi bữa, hễ cái ben 6 giờ một cái là đón Tụi hơn đi học về giùm mình.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh gia đình cùng nhau thưởng thức món ghẹ ngâm tương và ghẹ sốt cay, được làm từ ba ngày trước. Mọi người trong gia đình đều tỏ ra thích thú và ngon miệng với hai món ăn này.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

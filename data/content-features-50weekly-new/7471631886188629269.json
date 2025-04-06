@@ -1,0 +1,81 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Liệt kê các món ăn và nguyên liệu trong bữa cơm quê.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn."
+    },
+    {
+      "step": "Đánh giá món cá",
+      "desc": "Nhận xét về độ ngon và độ dai của món cá chiên.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng món cá."
+    },
+    {
+      "step": "Đánh giá canh chua",
+      "desc": "Nhận xét canh chua và các nguyên liệu đi kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tưởng tượng về vị canh chua."
+    },
+    {
+      "step": "Đánh giá thịt cuốn bánh tráng",
+      "desc": "Nhận xét về sự hấp dẫn của món thịt cuốn.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử món cuốn."
+    },
+    {
+      "step": "Đánh giá bánh tráng và nước chấm",
+      "desc": "Chấm điểm và nhận xét về bánh tráng và nước chấm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung vào nước chấm."
+    },
+    {
+      "step": "Đánh giá sương sa",
+      "desc": "Nhận xét về độ mát của sương sa hạt é.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy đã khát."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Hẹn mọi người video chấm điểm tiếp theo nha."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "hấp dẫn",
+    "mát"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cứu tôi, cứu tôi.",
+    "Mười điểm quá chuẩn ngon."
+  ],
+  "hook_content": "Chấm điểm quán cơm em mười khó của anh Trường Giang.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video review quán cơm Mười Khó của nghệ sĩ Trường Giang, tập trung vào trải nghiệm và đánh giá hương vị các món ăn như cá lồng chiên xù, canh chua, thịt ngâm mắm và sương sa hạt é. Người nói đưa ra những nhận xét chân thực và chấm điểm từng món.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu quán mì gà tần rẻ và nổi tiếng trên Top Top.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ nổi tiếng của quán."
+    },
+    {
+      "step": "Gọi món và miêu tả",
+      "desc": "Miêu tả chi tiết bát mì gà tần và trứng vịt lộn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng vì bát mì đầy đặn."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá hương vị nước dùng, rau ngải cứu và thịt gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung vào các nhận xét về hương vị."
+    },
+    {
+      "step": "Nhấn mạnh giá trị",
+      "desc": "Khẳng định giá cả hợp lý so với chất lượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình với đánh giá về giá cả."
+    },
+    {
+      "step": "Địa điểm",
+      "desc": "Thông báo địa chỉ quán mì gà tần.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhớ địa chỉ để ghé thăm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cuối tháng hết tiền mà mọi người thèm ăn mì gà tần thì cứ qua số 31 ngõ 115 An Dương nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "rẻ",
+    "ngọt",
+    "thơm",
+    "mềm",
+    "ok"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Sao rẻ thế?",
+    "Bát mì gà tần 25.000 này thì quá nổi tiếng ở trên Top Top rồi.",
+    "Với cái giá như vậy mà được một bát mì nhiều thế này là ok lắm rồi, không đòi hỏi gì hơn nữa."
+  ],
+  "hook_content": "Sao rẻ thế?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán mì gà tần 25k nổi tiếng ở Hà Nội, tập trung vào giá cả rẻ, chất lượng ổn so với giá và hương vị thơm ngon.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

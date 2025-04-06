@@ -1,0 +1,79 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu trứng dữa nước núng na núng nính, món ăn hot trend.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chia sẻ trải nghiệm",
+      "desc": "Chia sẻ tần suất ăn món này và loại trứng yêu thích.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Đưa ra lời khuyên",
+      "desc": "Hướng dẫn cách chọn trứng dữa nước thành công.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích."
+    },
+    {
+      "step": "Miêu tả món ăn",
+      "desc": "Miêu tả hình dáng và màu sắc hấp dẫn của trứng.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Thưởng thức trứng với muối ớt và diễn tả cảm xúc.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy ngon miệng."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi nhen."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "yêu thích",
+    "đã",
+    "béo",
+    "đã"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trứng giữa nước, núng na núng nính như đậu hũ non.",
+    "Trời ơi mọi người coi cái trứng của tôi núng na núng nính vàng ươm như phô mai đã chưa?",
+    "Mèn đét ơi nó béo mà nó đã gì đâu."
+  ],
+  "hook_content": "Trứng giữa nước, núng na núng nính như đậu hũ non.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món trứng dữa nước đang hot, chia sẻ trải nghiệm ăn và cách chọn trứng thành công để có món ăn ngon.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

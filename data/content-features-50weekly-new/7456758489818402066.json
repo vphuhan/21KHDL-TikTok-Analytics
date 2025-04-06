@@ -1,0 +1,83 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Ngâm mía trong bia, chặt nhỏ, xay nhuyễn để chuẩn bị lên men.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự kết hợp mía và bia."
+    },
+    {
+      "step": "Trộn và ủ men",
+      "desc": "Trộn nước mía xay với đường phèn và men rượu trái cây.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy lạ vì cách làm đơn giản."
+    },
+    {
+      "step": "Lên men lần 1",
+      "desc": "Ủ hỗn hợp trong 3 ngày, lọc bỏ bã sau khi lên men.",
+      "impact_level": "1",
+      "viewer_emotion": "Mong chờ kết quả của quá trình lên men."
+    },
+    {
+      "step": "Lên men lần 2",
+      "desc": "Tiếp tục ủ phần nước rượu trong 4 ngày.",
+      "impact_level": "1",
+      "viewer_emotion": "Kiên nhẫn chờ đợi thành phẩm."
+    },
+    {
+      "step": "Thành phẩm",
+      "desc": "Rượu mía thơm ngon, bổ dưỡng, thích hợp chiêu đãi khách.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn thử ngay món rượu mía đặc biệt này."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Mọi người ơi, mỗi ngày tôi đều chia sẻ cách làm món ăn, nếu bạn có duyên xem được video này, hãy kiên nhẫn xem hết video, đó là động lực lớn nhất cho tôi, cảm ơn bạn rất nhiều.",
+    "Hãy làm cho gia đình thưởng thức nhé."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo",
+    "Thử làm theo công thức",
+    "Chia sẻ công thức"
+  ],
+  "emotion_keywords": [
+    "thơm ngon",
+    "đậm đà",
+    "thơm lừng",
+    "thanh mát",
+    "bổ dưỡng",
+    "tuyệt vời"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cách làm này chắc hẳn nhiều người chưa thấy bao giờ, thơm ngon đậm đà, còn ngon hơn cả bào ngư hải sản.",
+    "Rượu mía thơm lừng, thanh mát đã hoàn thành, giàu vitamin và khoáng chất, bổ dưỡng, nồng độ cồn nhẹ nhàng, không say, dùng để chiêu đãi người thân bạn bè vào dịp Tết thì tuyệt vời.",
+    "Học được cách này, bạn còn có thể làm rượu bưởi, rượu kiwi, rượu quýt và các loại rượu trái cây khác, hãy làm cho gia đình thưởng thức nhé."
+  ],
+  "hook_content": "Mọi người chú ý xem, cho mía vào bia ngâm một lúc, xong là có ngay một món ăn không thể thiếu vào đêm giao thừa.",
+  "hook_type": [
+    "Gây tò mò",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm rượu mía lên men bằng bia và men trái cây, một món đồ uống độc đáo, thơm ngon và bổ dưỡng để chiêu đãi bạn bè, người thân vào dịp Tết. Ngoài ra, người xem có thể áp dụng công thức này để làm các loại rượu trái cây khác.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

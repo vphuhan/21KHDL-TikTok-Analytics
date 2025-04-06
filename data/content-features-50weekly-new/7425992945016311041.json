@@ -1,0 +1,97 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món nấm sốt cay và nguyên liệu nấm tươi ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Sơ chế nấm",
+      "desc": "Rửa sạch và hấp nấm đùi gà, nấm kim châm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Pha chế sốt",
+      "desc": "Pha sốt tỏi ớt, đường, nước mắm, tương ớt, nước cốt chanh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Giới thiệu vòng trầm",
+      "desc": "Giới thiệu vòng trầm, công dụng và cảm nhận cá nhân.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Trình bày món ăn",
+      "desc": "Bày nấm ra mâm và rưới sốt lên trên.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Miêu tả hương vị nấm kim châm, nấm đùi gà và nước sốt.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Kêu gọi mua hàng",
+      "desc": "Giới thiệu địa chỉ mua vòng trầm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "À mà mọi người muốn thỉnh vòng trầm thì nhớ qua bên vòng tay Thanh Nhàn nha.",
+    "Giờ thì mời mọi người ăn chung với tôi nghen."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "thèm",
+    "ngon lành",
+    "ưng",
+    "siêu cay",
+    "đã",
+    "dai ngọt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mấy cái nấm siêu to khổng lồ đổ ao như vầy mọi người có thấy thèm không?",
+    "Nấm kim châm thì giòn sần sật, thấm đẫm nước sốt siêu cay đậm đà.",
+    "Nấm đùi gà thì siêu to khổng lồ, cực kỳ dai ngọt nên ăn cái nào là đã cái đó luôn á chèn."
+  ],
+  "hook_content": "Hello hello, lại là tôi, mặc bồ tịnh đồ ăn đây.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu món nấm sốt cay tự làm với nguyên liệu nấm tươi ngon, cách chế biến đơn giản và hương vị hấp dẫn, đồng thời lồng ghép quảng cáo vòng trầm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Soạn đồ cũ",
+      "desc": "Chọn đồ cũ còn mới để gửi tặng, gợi nhớ kỷ niệm về con.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy ấm áp và hoài niệm về tuổi thơ."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Giới thiệu nguyên liệu bạch tuộc, vẹm và các gia vị.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, nhưng tò mò về món ăn."
+    },
+    {
+      "step": "Sơ chế bạch tuộc",
+      "desc": "Cắt bạch tuộc thành miếng nhỏ vừa ăn để xào.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Làm phô mai ngô",
+      "desc": "Hướng dẫn làm phô mai ngô ngọt béo, dễ làm tại nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị, muốn thử làm theo."
+    },
+    {
+      "step": "Bàn luận chuyện con cái",
+      "desc": "Chia sẻ suy nghĩ về việc có thêm em bé, cảm xúc lo sợ.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với tâm trạng của người mẹ."
+    },
+    {
+      "step": "Chế biến món ăn",
+      "desc": "Luộc mì, xào bạch tuộc, nấu canh vẹm từ nước luộc mì.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy đói bụng và tò mò về hương vị."
+    },
+    {
+      "step": "Trình bày và kết thúc",
+      "desc": "Trình bày món ăn, mời cả nhà ăn tối và kết thúc video.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy ấm cúng và muốn xem thêm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "dễ thương",
+    "ngon",
+    "cay cay",
+    "mặn mặn",
+    "ngọt ngọt",
+    "béo",
+    "ngọt",
+    "lo",
+    "sợ"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cái món gì mà nghe hơi quằng ha.",
+    "Bạch tuộc mà xào kiểu này cay cay, mặn mặn, ngọt ngọt ngon.",
+    "Tự nhiên cái cảm giác của mình cứ bị lo, bị sợ."
+  ],
+  "hook_content": "Đây mình lấy đồ cũ của hai đứa nhỏ ra để soạn lại.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ về quá trình làm món mì xào bạch tuộc cay cho bữa tối gia đình, kết hợp với việc soạn lại đồ cũ của con và chia sẻ những tâm tư về việc sinh thêm em bé. Video mang đến cảm giác ấm cúng, gần gũi và chia sẻ những khoảnh khắc đời thường.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

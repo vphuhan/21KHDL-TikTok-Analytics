@@ -1,0 +1,87 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu chung",
+      "desc": "Giới thiệu set quà Tết và lý do mua theo yêu cầu.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Mô tả thành phần",
+      "desc": "Liệt kê các loại mứt và thành phần có trong set quà.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Đánh giá mứt khoai môn",
+      "desc": "Nhận xét về vị ngọt bên ngoài và dẻo bên trong.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Đánh giá mứt hạt sen",
+      "desc": "Mứt ngọt khé cổ và hợp khi uống cùng trà đắng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "Đánh giá mứt củ năng",
+      "desc": "Vỏ giòn, bên trong dẻo, đường khá nhiều.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Đánh giá mứt dừa",
+      "desc": "Ngọt đậm đà, gợi nhớ hương vị quen thuộc.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp"
+    },
+    {
+      "step": "Đánh giá mứt gừng và kẹo",
+      "desc": "Mứt gừng ấm người, kẹo có lớp vỏ giòn và nhân mềm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngọt",
+    "dẻo",
+    "ấm người",
+    "lạ lạ",
+    "ngon nhất"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mứt hạt sen này nè, cái này là các bạn phải uống trà hơi là đậm đậm, kiểu đắng đắng luôn á chứ không phải là nó hơi bị ngọt ngọt kiểu khé cổ xíu á.",
+    "Mà lạ lắm nha mọi người, bên ngoài là đường bên trong là thạch nhưng mà cái lượng đường nó nó giòn cái cắn vô bên trong nó mềm mềm ăn nó lạ lạ lắm mọi người.",
+    "hạt vẻ cười là ngon nhất nha mọi người, tại nó không có ngọt nhất"
+  ],
+  "hook_content": "Review set quà Tết 350.000 của nghệ sĩ Hồng Phượng.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video review set quà Tết của nghệ sĩ Hồng Phượng với nhiều loại mứt khác nhau, đánh giá hương vị và đặc điểm của từng loại. Nhấn mạnh trải nghiệm cá nhân và cảm nhận về độ ngọt, độ dẻo của từng món.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

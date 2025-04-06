@@ -1,0 +1,83 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về dịp đặc biệt và món bún bò mẹ nấu.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp, gần gũi"
+    },
+    {
+      "step": "Kể chuyện",
+      "desc": "Kể về người thân đi làm xa và sự thèm món Việt.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm"
+    },
+    {
+      "step": "Tả món ăn",
+      "desc": "Miêu tả chi tiết các thành phần và hương vị bún bò.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Đánh giá cao bún bò mẹ nấu và món bánh chuối.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Kết thúc bằng việc ăn các món khác và hẹn gặp lại.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "ngon",
+    "đã",
+    "mê",
+    "thèm",
+    "khoái",
+    "ngất ngây",
+    "ấm cúng",
+    "tâm huyết",
+    "ngu muội",
+    "mãi đỉnh",
+    "hay ho"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "ăn vô là cảm nhận được liền luôn",
+    "rau muống bào trong tất cả các món ăn với bún đều phát huy được tối đa cái sự ngon bằng cách nó giòn giòn á",
+    "sườn bò mà nấu với bún bò ăn ngu muội luôn"
+  ],
+  "hook_content": "8 tháng 3 năm nay lại thơm mùi bún bò.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video ghi lại bữa ăn gia đình ấm cúng với món bún bò do mẹ nấu, diễn tả cảm xúc yêu thích món ăn Việt của người con đi xa và đánh giá cao hương vị đặc biệt của bún bò nhà làm. Ngoài ra, video còn giới thiệu thêm món bánh chuối dì làm và những món ăn khác trong bữa tiệc.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

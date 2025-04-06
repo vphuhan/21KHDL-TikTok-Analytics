@@ -1,0 +1,65 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về series khám phá các quán ăn nổi tiếng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Thông tin chi tiết",
+      "desc": "Nêu bật những món ăn đặc biệt và những người tâm huyết.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Kêu gọi đón xem",
+      "desc": "Thông báo lịch phát sóng và kêu gọi khán giả đón xem.",
+      "impact_level": "2",
+      "viewer_emotion": "Hóng chờ"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cả nhà đừng bỏ lỡ nhé, sẽ rất thú vị đấy."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "hấp dẫn",
+    "thú vị"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cùng Pete thăm check in những quán đình trong danh sách tuyển chọn của Coca-Cola Food Max.",
+    "Khám phá những món ăn đặc biệt được giới thiệu bởi những con người tâm huyết nơi đây nhé.",
+    "Tập đầu tiên sẽ được lên sóng vào ngày mùng 9 tháng 10 sắp tới."
+  ],
+  "hook_content": "Cùng Pete thăm check in những quán đình trong danh sách tuyển chọn của Coca-Cola Food Max.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu series Pete đi khám phá các quán ăn nổi tiếng trong danh sách tuyển chọn của Coca-Cola Food Max, hứa hẹn mang đến những món ăn đặc biệt và trải nghiệm thú vị.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu cơm nóng ăn kèm mỡ và tóp mỡ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Trộn và nêm gia vị",
+      "desc": "Trộn cơm với mỡ, tóp mỡ, mắm và nếm thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Chia sẻ trải nghiệm",
+      "desc": "Nhớ lại kỷ niệm ăn cơm trộn mỡ thời nhỏ.",
+      "impact_level": "2",
+      "viewer_emotion": "Hoài niệm"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Ăn và cảm nhận hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Nhận xét món ăn hợp với thời tiết lạnh.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Cảm ơn và hẹn gặp lại.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người xem video của mình.",
+    "Hẹn mọi video sau."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "đói"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Hồi nhỏ mình ăn cơm trộn mỡ trộn tóp mỡ này xong rồi còn cả cơm trộn với đường nữa cơ.",
+    "Ăn thế này á, nhất là mùa mùa đông á. Kiểu buổi trưa đi học về á xong rồi đói, cho một ít mỡ vào xong rồi trộn với cơm nóng á, ông ăn nó ngon."
+  ],
+  "hook_content": "Hôm nay mình có cơm nóng mọi người ạ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang món cơm trộn mỡ gợi nhớ tuổi thơ, người ăn chia sẻ lại kỷ niệm và cảm nhận về món ăn dân dã này.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

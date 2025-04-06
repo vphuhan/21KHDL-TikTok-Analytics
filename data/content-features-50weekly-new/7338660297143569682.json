@@ -1,0 +1,67 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu gỏi cuốn tôm thịt luộc và các thành phần khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Thưởng thức và miêu tả",
+      "desc": "Ăn và khen ngon, nhấn mạnh độ cay và hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Trải nghiệm ăn uống",
+      "desc": "Nhấn mạnh cảm giác 'đã' khi ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn thử."
+    },
+    {
+      "step": "Tập trung vào món ăn",
+      "desc": "Miêu tả chi tiết trải nghiệm khi chấm giò trường.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy ngon miệng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thèm",
+    "ngon",
+    "cay",
+    "đã"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ngon quá.",
+    "Quá trời nó cay rồi đó mọi người ơi.",
+    "Trời ơi đã quá."
+  ],
+  "hook_content": "Hôm nay Vân ăn gỏi cuốn tôm với thịt luộc.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang món gỏi cuốn tôm thịt luộc, tập trung vào trải nghiệm ăn uống và cảm nhận hương vị.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

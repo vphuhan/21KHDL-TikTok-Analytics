@@ -1,0 +1,92 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người trẻ (Gen Z)",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về thăm bà nội và em bé Tường Hân uống sữa.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thời tiết",
+      "desc": "Mô tả thời tiết lạnh và có tuyết rơi.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Quà biếu",
+      "desc": "Giới thiệu An cung xạ hương biếu mẹ chồng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Ấn tượng về mẹ chồng",
+      "desc": "Chia sẻ về sự yêu thương của mẹ chồng.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm động"
+    },
+    {
+      "step": "Bữa ăn",
+      "desc": "Giới thiệu món cua hoàng đế.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Tặng quà",
+      "desc": "Giới thiệu về tác dụng của an cung xạ hương.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Tạm biệt",
+      "desc": "Tạm biệt và giới thiệu về món quà tết.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Mà Tết này mọi người muốn gửi tặng người thân món quà ý nghĩa thì tham khảo an cung xạ hương nha.",
+    "Bọn mình cũng về đây, bye bye mọi người."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "thương",
+    "may mắn",
+    "yêu thương",
+    "ấm áp"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tuy là lấy chồng xa nhưng mà mình cảm thấy rất là may mắn luôn á mọi người, tại vì mẹ chồng mình rất là thương mình luôn.",
+    "Ăn cái con cua này xong thì tháng sau chắc là mì gói dài dài luôn quá.",
+    "80 năm cuộc đời rồi, hỏi chồng mới biết là mẹ mình chưa có bao giờ biết tới cái con cua này luôn."
+  ],
+  "hook_content": "Cuối tuần nào mà ít việc thì bọn mình sẽ về nhà bà nội Tường Hân chơi, cũng giống như vầy nay vậy nè.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh gia đình đến thăm bà nội, cùng nhau ăn cua hoàng đế và tặng quà sức khỏe An cung xạ hương. Người vợ chia sẻ về sự yêu thương của mẹ chồng và giới thiệu sản phẩm An cung xạ hương như một món quà ý nghĩa.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

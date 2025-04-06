@@ -1,0 +1,73 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu sữa trái cây Nutri Boost thay cho trà sữa.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm mới."
+    },
+    {
+      "step": "Miêu tả hương vị",
+      "desc": "Miêu tả hương vị thơm ngon, đậm đà của sữa trái cây.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và muốn thử."
+    },
+    {
+      "step": "Kết hợp đồ ăn",
+      "desc": "Uống sữa trái cây cùng gà rán và cảm nhận sự hợp lý.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với sự kết hợp này."
+    },
+    {
+      "step": "Đánh giá combo",
+      "desc": "Đánh giá combo sữa trái cây và đồ ăn là 'dính'.",
+      "impact_level": "3",
+      "viewer_emotion": "Tin tưởng và muốn thử theo."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ê tui thấy cái combo này dính nha, mọi người thử Nutri Boost cùng đồ ăn giống tui đi, dính lắm."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "đậm đà",
+    "năng lượng",
+    "dính"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Có ăn á là phải có uống",
+    "càng uống là cái miệng càng có năng lượng chiến tiếp",
+    "Ê tui thấy cái combo này dính nha"
+  ],
+  "hook_content": "Có ăn á là phải có uống, thường thường là tôi sẽ uống trà sữa nhưng mà nay tôi sẽ uống một thứ gì đó tốt hơn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu và review sữa trái cây Nutri Boost khi kết hợp cùng gà rán, tạo nên một combo 'dính' và tràn đầy năng lượng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

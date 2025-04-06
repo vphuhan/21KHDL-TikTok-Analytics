@@ -1,0 +1,92 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món Poon Choi và nguồn gốc, tích hợp yếu tố lịch sử.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn truyền thống."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Luộc rau củ, bào ngư, hải sâm, chuẩn bị nước hầm xương.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, quá trình chuẩn bị."
+    },
+    {
+      "step": "Xử lý các nguyên liệu",
+      "desc": "Luộc gà, ướp hải sản, chiên măng, áp chảo sò điệp.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị với sự đa dạng nguyên liệu."
+    },
+    {
+      "step": "Giới thiệu bếp từ",
+      "desc": "Quảng cáo bếp từ Bosch với các tính năng và ưu đãi.",
+      "impact_level": "1",
+      "viewer_emotion": "Không hứng thú, quảng cáo sản phẩm."
+    },
+    {
+      "step": "Trình bày món ăn",
+      "desc": "Xếp rau củ và các loại thịt, hải sản vào thau.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi cách trình bày đẹp mắt."
+    },
+    {
+      "step": "Hoàn thiện món ăn",
+      "desc": "Nấu sốt và đổ lên trên, gợi ý cách ăn như lẩu.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong muốn được thưởng thức."
+    },
+    {
+      "step": "Thưởng thức và kêu gọi",
+      "desc": "Cả hai cùng ăn, khen ngon và kêu gọi mua bếp từ.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng và muốn mua theo."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Anh tách này mua cho anh cái bếp Boss nha.",
+    "Mà để em đang bán nữa. Bán cái máy lọc không khí thế hệ năm của anh á."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "xuất sắc",
+    "hoành tráng",
+    "ngon",
+    "sác quá",
+    "thấy thương quá"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Món này là phải làm bốn năm bếp cùng lúc thì lát hồi dọn ra nó mới kịp.",
+    "Nói chung cái món này nó cũng freestyle lắm các bạn. Bạn nào thích món gì thì cứ cho món đó vô thôi.",
+    "Bạn nào thích thì có thể đun liu riu lửa bên dưới, ăn giống như ăn lẩu vậy cũng khá là ngon."
+  ],
+  "hook_content": "Ối giời ơi, dưới này còn có hào nữa hả. Thật là xuất sắc.",
+  "hook_type": [
+    "Gây tò mò",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Kể chuyện"
+  ],
+  "summarization": "Video hướng dẫn làm món Poon Choi, một món ăn truyền thống của người Hoa trong ngày Tết, đồng thời giới thiệu và quảng cáo bếp từ Bosch. Video kết thúc bằng cảnh cả hai người cùng thưởng thức món ăn và kêu gọi mua bếp từ.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu hồng socola và các món khác với giá 500 cành.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về loại quả đắt tiền này."
+    },
+    {
+      "step": "Nguồn gốc và độ hiếm",
+      "desc": "Nguồn gốc từ Indo, được nhân giống ở VN, hiếm và mắc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thắc mắc về độ hiếm và giá trị."
+    },
+    {
+      "step": "Trải nghiệm ban đầu",
+      "desc": "Khó mua, quả cứng, cần vùi vào gạo cho chín.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hơi thất vọng."
+    },
+    {
+      "step": "Đánh giá hình thức",
+      "desc": "Hình dáng giống vú sữa, có mùi vú sữa.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị vì sự tương đồng."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Ngấy, bột, khô hốc, không có gì đặc biệt.",
+      "impact_level": "3",
+      "viewer_emotion": "Tiếc nuối vì trải nghiệm không tốt."
+    },
+    {
+      "step": "So sánh với vú sữa",
+      "desc": "Thà mua vú sữa ăn còn sướng hơn.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình với sự so sánh."
+    },
+    {
+      "step": "Thử với sữa đặc",
+      "desc": "Kết hợp với sữa đặc thì ngon, giống socola.",
+      "impact_level": "3",
+      "viewer_emotion": "Phấn khích vì sự thay đổi."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Còn cái trái gì độc lạ nhớ nhớ nhớ comment a cái gì mình à mình quay nha."
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Đặt câu hỏi"
+  ],
+  "emotion_keywords": [
+    "ấn tượng",
+    "khó",
+    "lâu",
+    "chán",
+    "ngấy",
+    "ngán",
+    "khô hốc",
+    "dở",
+    "ngon",
+    "cuốn",
+    "dễ thương",
+    "dịu"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ăn vô một cái là ngán liền lập tức không có nói gì nhiều á",
+    "Ngoài ngoài cái sự ngán của nó ra thì nó cũng không có gì ngoài cái sự ngấy, ngoài cái sự ngán và sự ngấy của nó ra thì không có ngoài cái gì cái sự khô hốc",
+    "cái hồng socola mà áp vô cái sữa tự nhiên nó rất là phù hợp với nhau luôn"
+  ],
+  "hook_content": "Trên mạng hồng socola. Ngoài đời hồng socola nha mọi người ơi, bòn bon socola, sữa hột gà Pepsi, ca lu xi, bí tí nè mọi người ơi, 500 cành.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review quả hồng socola giá 500k, ban đầu có vị ngán và khô nhưng khi ăn kèm sữa đặc lại ngon và giống vị socola. Chủ kênh khuyến khích mọi người comment các món độc lạ để làm video.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

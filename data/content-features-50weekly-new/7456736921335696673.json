@@ -1,0 +1,80 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu hai món chuột hấp và chuột giả cầy hấp dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Cùng nhau thưởng thức và đánh giá hương vị món chuột.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét về độ mềm, thơm ngon và sự đặc biệt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Thảo luận về món ăn",
+      "desc": "Bàn luận về sở thích cá nhân và trải nghiệm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Uống rượu và ăn món",
+      "desc": "Uống rượu và cảm nhận sự kết hợp với món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ"
+    },
+    {
+      "step": "Kết thúc bữa ăn",
+      "desc": "Kết thúc bữa ăn một cách đơn giản và thoải mái.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "đã",
+    "ngọt",
+    "tuyệt vời",
+    "phê"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Quan trọng chuột đi máy bay nó phải khác chứ.",
+    "Con này nó vừa có cả thơm mỡ, vừa có cả thịt này, ăn chắc béo lắm này.",
+    "Quê thì nó chỉ thế thôi. Ăn uống xong lại nấu ăn rồi lại dọn nhà dọn cửa tí, say rồi đi ngủ."
+  ],
+  "hook_content": "Úi giời ơi, úi giời cái đùi này này.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video ghi lại cảnh hai người đàn ông cùng nhau thưởng thức món chuột hấp và chuột giả cầy, chia sẻ cảm nhận về hương vị và trải nghiệm ẩm thực độc đáo này. Họ vừa ăn vừa trò chuyện một cách thoải mái và thân mật.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

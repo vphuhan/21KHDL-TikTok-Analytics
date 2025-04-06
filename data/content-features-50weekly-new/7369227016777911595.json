@@ -1,0 +1,83 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món sashimi và các thành phần đi kèm như trứng tôm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn được giới thiệu."
+    },
+    {
+      "step": "Miêu tả hương vị",
+      "desc": "Miêu tả hương vị của trứng tôm, củ cải trắng và wasabi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú khi nghe miêu tả hương vị."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Đánh giá độ ngon và sự kết hợp các thành phần.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng khi nghe đánh giá tích cực."
+    },
+    {
+      "step": "Trải nghiệm cá nhân",
+      "desc": "Chia sẻ cảm nhận cá nhân về việc ăn sashimi gần cuối.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với trải nghiệm của người nói."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Kết thúc video, cảm ơn người xem.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn cả nhà theo dõi video của Thành.",
+    "Hẹn gặp bạn video tiếp theo nha."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "béo",
+    "mặn mặn",
+    "đã",
+    "giòn giòn",
+    "ngon",
+    "nồng",
+    "xuất sắc",
+    "ngán"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nó béo.",
+    "Cắn vô giòn giòn.",
+    "Ăn trứng tôm nhiều á rất là ngon nha."
+  ],
+  "hook_content": "Chào tạm biệt lắng nghe. Bữa nay mà cả nhà ăn sashimi với Thành nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video là một buổi mukbang món sashimi của Thành, anh ấy vừa ăn vừa miêu tả hương vị, cảm nhận về món ăn và chia sẻ trải nghiệm cá nhân. Anh ấy đánh giá cao món ăn và hẹn gặp lại khán giả ở video tiếp theo.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

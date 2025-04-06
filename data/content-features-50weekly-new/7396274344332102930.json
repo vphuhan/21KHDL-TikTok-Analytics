@@ -1,0 +1,84 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu thử thách",
+      "desc": "Giới thiệu thử thách nấu 3 món trong 30 phút.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách thực hiện thử thách."
+    },
+    {
+      "step": "Giới thiệu bếp từ",
+      "desc": "Giới thiệu bếp từ Bosch và các tính năng nổi bật.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy sản phẩm hữu ích và tiện lợi."
+    },
+    {
+      "step": "Chiên cá",
+      "desc": "Thao tác chiên cá với mức nhiệt độ trung bình.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Xào khổ qua",
+      "desc": "Thao tác xào khổ qua với mức nhiệt độ cao hơn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Nấu canh",
+      "desc": "Nấu canh và giới thiệu tính năng chống tràn.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với tính năng an toàn."
+    },
+    {
+      "step": "Hoàn thành",
+      "desc": "Nấu xong 3 món ăn trong thời gian ngắn.",
+      "impact_level": "3",
+      "viewer_emotion": "Khâm phục sự nhanh chóng và hiệu quả."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Hai vợ chồng cùng nhau thưởng thức món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy ấm cúng và hạnh phúc."
+    }
+  ],
+  "content_style": [
+    "Nhanh gọn",
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "an tâm",
+    "siêng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Với món khổ qua xào á thì mình sẽ dùng mức 3 để cho nó giòn.",
+    "Chỉ cần nhấn giữ nút biểu tượng hình khóa trong vòng từ 3 cho tới 5 giây là đã có thể khóa bảng điều khiển được rồi, không sợ trẻ con trong nhà táy máy.",
+    "Nấu ăn cùng bếp từ Bosch vừa nhanh gọn, vừa tiện lợi lại còn an toàn nữa."
+  ],
+  "hook_content": "Anh ơi, 30 phút nữa em phải đi shopping rồi, anh nấu cơm kịp không?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video thử thách nấu 3 món ăn trong 30 phút với sự trợ giúp của bếp từ Bosch, giới thiệu các tính năng tiện lợi và an toàn của sản phẩm, đồng thời thể hiện niềm vui nấu ăn tại nhà.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

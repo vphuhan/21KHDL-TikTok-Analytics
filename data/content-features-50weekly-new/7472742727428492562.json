@@ -1,0 +1,92 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Mua nồi cá kho sẵn giá rẻ, review và xin luôn nồi",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm và giá cả"
+    },
+    {
+      "step": "Chế biến",
+      "desc": "Nấu cá kho và nhận xét về thiết kế nồi đất",
+      "impact_level": "1",
+      "viewer_emotion": "Quan sát quá trình nấu nướng đơn giản"
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Nhận xét về số lượng, giá cả và thành phần cá",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự hời khi mua sản phẩm"
+    },
+    {
+      "step": "Điều chỉnh hương vị",
+      "desc": "Gợi ý cách nêm nếm lại cho hợp khẩu vị",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhận mẹo để cải thiện món ăn"
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Nhận xét về mùi vị, độ thấm và màu sắc của cá",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung hương vị và chất lượng món ăn"
+    },
+    {
+      "step": "So sánh lợi ích",
+      "desc": "So sánh giá cả với cơm cá kho ngoài hàng",
+      "impact_level": "3",
+      "viewer_emotion": "Thấy rõ sự tiết kiệm khi mua sản phẩm"
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Khuyên mua và gợi ý cách ăn kèm bún",
+      "impact_level": "2",
+      "viewer_emotion": "Cân nhắc mua theo và học hỏi cách ăn"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Gen Z"
+  ],
+  "cta_content": [
+    "Tôi tiết kiệm bạn cũng thế, thử nhé."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "rẻ",
+    "ngon",
+    "tiết kiệm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cá kho sẵn có luôn trong nồi mà chưa đến 5 chục mọi người ạ.",
+    "Một nồi 34.000đ, lời thêm cái nồi về nấu nữa, mà nó có bốn miếng.",
+    "Tôi tiết kiệm bạn cũng thế, thử nhé."
+  ],
+  "hook_content": "không thiếu cái nồi kho cá thì gặp cái này bên ấy ấy.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review nồi cá kho tộ mua ở siêu thị với giá rẻ, tiện lợi và còn được tặng kèm nồi. Người bán đưa ra đánh giá về hương vị, độ thấm và gợi ý cách ăn kèm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

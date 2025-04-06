@@ -1,0 +1,88 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bạch tuộc nướng sốt tương ớt tự làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Băm tỏi, hành baro và giới thiệu các nguyên liệu làm sốt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, tập trung theo dõi."
+    },
+    {
+      "step": "Pha chế sốt",
+      "desc": "Pha sốt với ớt bột, nước tương, đường, rượu, dầu mè, tương ớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với công thức."
+    },
+    {
+      "step": "Trộn bạch tuộc với sốt",
+      "desc": "Trộn bạch tuộc và tôm với sốt đã pha.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn khi nguyên liệu thấm đẫm sốt."
+    },
+    {
+      "step": "Chuẩn bị nướng",
+      "desc": "Nướng sò điệp mỡ hành trước, bạch tuộc nướng sau.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức chờ đợi món nướng."
+    },
+    {
+      "step": "Nướng và trang trí",
+      "desc": "Nướng sò điệp với mỡ hành và đậu phộng.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thơm ngon và hấp dẫn."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Mời mọi người cùng ăn và cảm nhận món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "hấp dẫn",
+    "ghiền",
+    "mát mẻ",
+    "dễ chịu"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cứ nhìn thấy món ăn nào mà đỏ đỏ là hấp dẫn hà.",
+    "Công nhận vừa cho mỡ hành lên một cái là ta nói nó có một mùi thơm lan tỏa liền.",
+    "Nhìn cái con sò điệp nè đủ mồ hôi miệng liền luôn."
+  ],
+  "hook_content": "Hai nữa là bộ mình qua hàng được một tuần rồi.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ cách làm món bạch tuộc nướng sốt tương ớt tại Hàn Quốc, từ khâu chuẩn bị nguyên liệu, pha chế sốt đến nướng và thưởng thức món ăn. Người làm video cũng chia sẻ trải nghiệm du lịch và ẩm thực tại Hàn Quốc.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

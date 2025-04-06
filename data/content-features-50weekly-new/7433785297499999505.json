@@ -1,0 +1,83 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu cua",
+      "desc": "Giới thiệu về cua dẹp Lý Sơn, hình dáng kỳ lạ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về loại cua mới."
+    },
+    {
+      "step": "Xử lý cua",
+      "desc": "Chia sẻ quá trình sơ chế và hấp cua.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    },
+    {
+      "step": "Miêu tả mùi vị",
+      "desc": "Nhấn mạnh mùi thơm đặc biệt khi hấp cua.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với mùi thơm."
+    },
+    {
+      "step": "Thưởng thức và đánh giá",
+      "desc": "Ăn kèm nước mắm và đánh giá hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng hương vị."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Khuyến khích trải nghiệm món cua dẹp Lý Sơn.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử món này."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mời mọi người ăn chung với tôi nhen."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "tê tái tâm hồn",
+    "cực kỳ chắc",
+    "siêu siêu ngọt",
+    "béo",
+    "ngọt",
+    "đắng nhẹ",
+    "đáng để trải nghiệm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ăn cua ngon như vầy thì làm sao thiếu được một chén nước mắm đâm cay sương sương mà tê tái tâm hồn của tôi hen",
+    "thịt cua cực kỳ chắc và siêu siêu ngọt, còn phần gạch thì phải nói là béo lên tới nóc, có hậu ngọt và đắng nhẹ, với thơm cái mùi mà tôi không có biết diễn tả sao cho hết luôn",
+    "cũng đáng để trải nghiệm nha"
+  ],
+  "hook_content": "Có mấy con cua mỡ ra mà đen thùi lùi như vầy mọi người có dám ăn không?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món cua dẹp Lý Sơn hấp sả, từ hình dáng đến hương vị đặc trưng. Người làm video chia sẻ trải nghiệm cá nhân và khuyến khích mọi người nên thử.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

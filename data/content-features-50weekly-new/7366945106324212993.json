@@ -1,0 +1,87 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Thèm ăn gà, nhờ em mua gà nướng và các món khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Miêu tả chi tiết",
+      "desc": "Gà tươi thấm sốt, bánh bao chiên giòn, sốt thanh ngọt.",
+      "impact_level": "3",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Đánh giá trải nghiệm",
+      "desc": "Sườn tươi dày thịt, chấm muối ớt xanh ăn ghiền.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "So sánh các món",
+      "desc": "Gà mái ta quay mỏi dai chắc, nướng mọi chấm muối tiêu chanh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Nhấn mạnh uy tín",
+      "desc": "Cam kết không bán gà cũ, đền bù nếu sai sót.",
+      "impact_level": "1",
+      "viewer_emotion": "Tin tưởng"
+    },
+    {
+      "step": "Kêu gọi mua hàng",
+      "desc": "Gà tẩm sốt, sườn nướng nên mua thêm hai phần.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn mua"
+    },
+    {
+      "step": "Thông tin địa điểm",
+      "desc": "Hệ thống có bảy chi nhánh khắp Sài Gòn.",
+      "impact_level": "1",
+      "viewer_emotion": "Tiện lợi"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thèm",
+    "đã",
+    "thơm",
+    "ngon",
+    "hấp dẫn",
+    "ghiền"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nè ta nói cái miếng gà tươi thấm sốt đậm vị.",
+    "Ta nói mấy miếng sườn tươi dày thịt ngồi gặm đã dễ sợ luôn á.",
+    "Ví dụ không thích rưới sốt thì mình ăn nướng mọi. Nhưng mà nướng mọi rồi thì mình cũng xin một chén sốt để chấm. Tại cái sốt này ở đây mặn mặn ngọt ngọt chấm dính dữ lắm."
+  ],
+  "hook_content": "Lúc ngỡ ngàng cái tự nhiên thèm ăn gà.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu quán gà nướng Ngọc Minh Food với nhiều món hấp dẫn như gà nướng, sườn nướng, cơm lam. Người bán nhấn mạnh về chất lượng và độ uy tín của quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bánh",
+      "desc": "Giới thiệu bánh da trứng cuộn kem tươi và sự thay đổi về nguồn cung.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm được nhắc đến."
+    },
+    {
+      "step": "Đánh giá bánh da trứng",
+      "desc": "Nhận xét về độ đàn hồi, hương vị mặn ngọt béo của bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và muốn ăn thử."
+    },
+    {
+      "step": "Đề cập giá cả",
+      "desc": "Đánh giá về giá thành sản phẩm và ưu đãi giảm giá.",
+      "impact_level": "1",
+      "viewer_emotion": "Quan tâm đến giá trị sản phẩm."
+    },
+    {
+      "step": "Giới thiệu bánh diêm mạch",
+      "desc": "Giới thiệu bánh diêm mạch cuộn kem trứng chà bông.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị sản phẩm mới."
+    },
+    {
+      "step": "Đánh giá bánh diêm mạch",
+      "desc": "Nhận xét về độ đàn hồi vỏ bánh và hương vị ngọt, béo bùi.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi hương vị được miêu tả."
+    },
+    {
+      "step": "Thông tin khuyến mãi",
+      "desc": "Thông báo về chương trình khuyến mãi gần Tết của nhãn hàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong muốn mua hàng với giá ưu đãi."
+    },
+    {
+      "step": "Gợi ý sử dụng",
+      "desc": "Gợi ý thời điểm và cách sử dụng bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích và tiện lợi."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Mọi người có thể bấm vào cái nút xem sản phẩm mình gắn ở trong video này để mọi người tham khảo thông tin khuyến mại nha."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "đỉnh",
+    "rất là thích"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái bánh da trứng cuộn kem tươi này ăn đúng đỉnh luôn, rất là hợp khẩu vị của mình.",
+    "Cái lớp vỏ bánh khi ăn thì mình thấy nó có cái độ đàn hồi rất là tốt. Ăn nó dẻo dẻo dai dai mọi người, rất là thích.",
+    "Nói chung là cái này mình thấy mua về ăn sáng, ăn đêm hoặc là mình cứ để sẵn một cái trong túi mình mang ra ngoài, lâu lâu đói mình ăn. Rất là ngon, rất là thích luôn."
+  ],
+  "hook_content": "Hồi trước mà muốn ăn cái bánh này thì phải order tầm một tuần đến nửa tháng mọi người ạ. Nhưng mà bây giờ thì hàng về nhiều rồi, mua ăn luôn không phải đợi nữa.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review hai loại bánh cuộn kem là bánh da trứng và bánh diêm mạch, tập trung vào hương vị, kết cấu và giá cả, đồng thời đưa ra gợi ý sử dụng và thông tin khuyến mãi.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

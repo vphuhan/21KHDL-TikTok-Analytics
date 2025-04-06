@@ -1,0 +1,85 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu quán hải sản quen thuộc mà hai bố con hay đến.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán quen của hai bố con."
+    },
+    {
+      "step": "Gọi món",
+      "desc": "Hai bố con gọi món theo sở thích, đặc biệt là gỏi tôm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thấy món ăn quen thuộc."
+    },
+    {
+      "step": "Đánh giá quán",
+      "desc": "Quán giữ nguyên hương vị và cách bài trí như ngày đầu.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với sự ổn định của quán."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Món ăn không cầu kỳ, giữ vị truyền thống, tôm tươi ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món gỏi tôm."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Cách ăn gỏi tôm cuốn rau và chấm cùng mù tạt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với cách ăn dân dã."
+    },
+    {
+      "step": "Nhận xét về ốc hương",
+      "desc": "Ốc hương tươi ngon và to, có thể hấp hoặc nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm ốc hương."
+    },
+    {
+      "step": "So sánh giá",
+      "desc": "So sánh giá cả ở quán với các hàng ốc xào khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến giá cả."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "tươi",
+    "giòn",
+    "ngọt",
+    "thơm",
+    "ngọt đậm đà"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ở đây thì mọi thứ bao nhiêu năm nó vẫn y hệt như vậy, từ decor đến cái bếp nó như thế nào rồi tất cả các cái món ăn nó như thế nào nó vẫn y chang.",
+    "Dù ngoài kia bao la sóng gió hải sản có chấm với các thể loại sốt đặc biệt gì thì ở đây vẫn chung thành với muối tiêu và mù tạt.",
+    "Lâu lắm mới ăn lại cái món gỏi tôm mà quấn quấn rau cải các thứ các thứ như này ăn thấy ngon thật sự."
+  ],
+  "hook_content": "đấy thích ăn gì thì. bên đây thích ăn cái gì cũng được.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại trải nghiệm đi ăn hải sản tại một quán quen của hai bố con, đặc biệt là món gỏi tôm. Quán giữ được hương vị truyền thống và đồ ăn tươi ngon.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

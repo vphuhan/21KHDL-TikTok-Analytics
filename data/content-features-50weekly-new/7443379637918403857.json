@@ -1,0 +1,92 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món cơm gà sốt Thái học từ Sammy, ngon và rẻ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hứng thú với món ăn mới lạ."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Rửa sạch đuôi tỏi bằng bột hoặc muối, chuẩn bị gà.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy các bước chuẩn bị khá cơ bản."
+    },
+    {
+      "step": "Hầm gà",
+      "desc": "Xếp gà lên lớp sả, thêm gia vị và hầm trong nửa tiếng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị món gà hầm."
+    },
+    {
+      "step": "Phi tỏi và nấu cơm",
+      "desc": "Phi tỏi vàng và nấu cơm với hạt nêm, nước tương, dầu tỏi.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường với các bước này."
+    },
+    {
+      "step": "Làm nước chấm",
+      "desc": "Trộn các nguyên liệu làm nước chấm chua cay kiểu Thái.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử ngay công thức nước chấm đặc biệt."
+    },
+    {
+      "step": "Hoàn thành món ăn",
+      "desc": "Thêm nấm vào gà hầm, cơm chín, bày ra dĩa.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy món ăn hấp dẫn và muốn thưởng thức."
+    },
+    {
+      "step": "Thưởng thức và đánh giá",
+      "desc": "Thưởng thức món ăn và đánh giá độ ngon, dễ làm, rẻ.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy món ăn rất ngon và đáng để thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nếu mà không có ngon á bắt đền cái gì em cũng chịu hết trơn á."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "cay",
+    "chua",
+    "đã",
+    "bất ngờ",
+    "ngã ngửa"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đi chợ chưa tới 100.000đ á mà ra hai cái dĩa cơm gà xuất sắc luôn á.",
+    "Sao tới giờ em mới biết tới cái món này ta.",
+    "Không biết ở bên Thái có bán món này không chứ mà trời ơi ăn nó ngon dữ lắm luôn á."
+  ],
+  "hook_content": "Gà mà mấy chị kho hay chiên mà ăn ngán quá, mình thử làm cái món cơm sốt Thái kiểu này đi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn nấu món cơm gà sốt Thái đơn giản, tiết kiệm, học theo công thức trên mạng. Món ăn có hương vị thơm ngon, đậm đà, dễ thực hiện tại nhà.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

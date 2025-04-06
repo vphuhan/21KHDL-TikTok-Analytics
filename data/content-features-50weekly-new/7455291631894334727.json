@@ -1,0 +1,65 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu tổng quan về các món ăn sẽ thưởng thức.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Liệt kê giá và tên các món đã ăn tại quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Ưu đãi",
+      "desc": "Nhận ưu đãi nước ngọt miễn phí khi check in.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ"
+    },
+    {
+      "step": "Thanh toán",
+      "desc": "Thông báo tổng chi phí cho bữa ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "miễn phí",
+    "free"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "820.000 ăn được gì tại truyền thuyết Trăm Bông.",
+    "Check in tại quán, nhận ngay nước Coca Cola free.",
+    "Hết tiền em ơi."
+  ],
+  "hook_content": "820.000 ăn được gì tại truyền thuyết Trăm Bông.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Liệt kê"
+  ],
+  "summarization": "Video mukbang tại nhà hàng Hàn Quốc Truyền Thuyết Champong, giới thiệu các món ăn đã thử và tổng chi phí là 820.000.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

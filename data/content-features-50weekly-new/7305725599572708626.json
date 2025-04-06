@@ -1,0 +1,84 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu thử thách",
+      "desc": "Giới thiệu địa điểm, món ăn thử thách và thể lệ tham gia.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ khó của thử thách."
+    },
+    {
+      "step": "Bắt đầu thử thách",
+      "desc": "Người tham gia bắt đầu ăn mì cay với số lượng lớn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thán phục sức ăn của người chơi."
+    },
+    {
+      "step": "Thông báo hoàn thành",
+      "desc": "Thông báo đã ăn xong trong thời gian ngắn hơn quy định.",
+      "impact_level": "3",
+      "viewer_emotion": "Ngạc nhiên và phấn khích."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Nhận xét về hương vị và trải nghiệm ăn mì cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn thử."
+    },
+    {
+      "step": "Giới thiệu giải thưởng",
+      "desc": "Giới thiệu phần thưởng tiền mặt và trà đào.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng về giải thưởng hấp dẫn."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Kết thúc bằng một đoạn nhạc ý nghĩa về cuộc sống.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy lạc quan, yêu đời."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nếu như bạn nào có khả năng thì cứ đến đây trải nghiệm thử nha.",
+    "Địa chỉ là 287 Nguyễn Văn Cừ Cần Thơ."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "nóng",
+    "toát mồ hôi",
+    "tuyệt vời"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đây là tô mì mà Hân phải ăn ngày hôm nay, trong thời gian là 60 phút.",
+    "Mì ở đây rất là ngon nha, nhưng mà hơi nóng, ăn toát hết mồ hôi luôn.",
+    "Và tôi sống như đóa hoa này."
+  ],
+  "hook_content": "Mọi người comment kêu Hân đi ăn mì cay quá nhiều, cho nên hôm nay Hân đã có mặt ở Cần Thơ để đi ăn thử thách mì cay tại AK Tada.",
+  "hook_type": [
+    "Phản hồi bình luận",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình Bé Hân tham gia thử thách ăn mì cay khổng lồ tại một quán ở Cần Thơ, đồng thời giới thiệu về địa điểm và giải thưởng của thử thách. Sau đó, video kết thúc bằng một thông điệp ý nghĩa về cuộc sống.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

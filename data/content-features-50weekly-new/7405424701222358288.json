@@ -1,0 +1,98 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bún nước tương và bày tỏ sự yêu thích.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Thêm topping",
+      "desc": "Gắp thêm rau, chả giò, thịt, đậu hũ vào bún.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn hơn."
+    },
+    {
+      "step": "Nêm nếm",
+      "desc": "Thêm hành phi, nước tương, và giới thiệu loại nước tương ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Bắt đầu thèm thuồng."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Bắt đầu ăn và bày tỏ cảm xúc ngon miệng.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy đói bụng."
+    },
+    {
+      "step": "Gợi ý",
+      "desc": "Gợi ý làm món bún nước tương khi lười ăn cơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích."
+    },
+    {
+      "step": "Công thức nước tương",
+      "desc": "Chia sẻ công thức pha nước tương.",
+      "impact_level": "2",
+      "viewer_emotion": "Note lại công thức."
+    },
+    {
+      "step": "Nhấn mạnh lại",
+      "desc": "Khẳng định lại loại nước tương ngon nên dùng.",
+      "impact_level": "1",
+      "viewer_emotion": "Tin tưởng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người làm ăn thử nha, ngon lắm á.",
+    "Mọi người mua ăn thử."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "béo",
+    "ngậy",
+    "ngon lên",
+    "chảy nước miếng",
+    "thích",
+    "ngon quá",
+    "ngon thật sự",
+    "siêu ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái món này á Dung có thể ăn một từ 7 ngày được luôn á mọi người.",
+    "Ăn bún nước tương á mọi người cho thêm tí hành phi á, ăn nó béo, nó ngậy, ngon lắm nha mọi người.",
+    "Món này bữa nào mà lười lười ăn cơm á mọi người làm món này ăn thật đi. Siêu ngon."
+  ],
+  "hook_content": "Xin chào. Mọi người. Cái món này á Dung có thể ăn một từ 7 ngày được luôn á mọi người.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video mukbang món bún nước tương với nhiều topping hấp dẫn. Người ăn chia sẻ cảm xúc ngon miệng và gợi ý công thức pha nước tương.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán cháo sườn sụn 30k bán hơn 20 năm",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán cháo lâu năm"
+    },
+    {
+      "step": "Thông tin chi tiết",
+      "desc": "Quán bán cả năm, chỉ nghỉ mùng 1 Tết, mở cửa từ 10h sáng",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy tiện lợi vì quán mở quanh năm"
+    },
+    {
+      "step": "Miêu tả món ăn",
+      "desc": "Cháo bột dễ ăn cho cả trẻ con và người lớn, quẩy Mã Mây",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món cháo và quẩy"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Sụn ninh kỹ dễ ăn, không phải sườn cục như Nguyễn Anh",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử sụn ninh kỹ"
+    },
+    {
+      "step": "Nhấn mạnh sự nổi tiếng",
+      "desc": "Quán nổi tiếng, được lên YouTube và đài truyền hình",
+      "impact_level": "3",
+      "viewer_emotion": "Tin tưởng vào chất lượng quán"
+    },
+    {
+      "step": "Miêu tả không gian",
+      "desc": "Quán nhỏ nhưng đông khách, ngồi kín chỗ",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung được sự nổi tiếng của quán"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Chắc chắn là mọi người phải đến ăn thử."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Không thể chối cãi ở đây chính là đặc sản của mùa đông.",
+    "Người Hà Nội là ăn cháo bột như thế này mới chuẩn.",
+    "Bà ninh kỹ nên là dễ ăn lắm."
+  ],
+  "hook_content": "con hai cháo trai ạ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu quán cháo sườn sụn nổi tiếng ở Hà Nội, với món cháo bột đặc trưng ăn kèm quẩy Mã Mây. Quán mở bán quanh năm và được nhiều người yêu thích.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

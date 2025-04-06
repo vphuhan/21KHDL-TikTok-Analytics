@@ -1,0 +1,92 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Chia sẻ về việc tự nấu ăn khi ở riêng, không đòi hỏi.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thấy sự đơn giản trong bữa ăn."
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu trứng dầm nước tương ớt, món ăn đơn giản.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn, muốn thử món ăn này."
+    },
+    {
+      "step": "Đánh giá nước tương",
+      "desc": "Nhấn mạnh vị ngon của nước tương Tam Thái Tử Nhất Ca.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy tin tưởng vào chất lượng sản phẩm."
+    },
+    {
+      "step": "Tưởng tượng món khác",
+      "desc": "Tự dưng thèm món thú linh khìa nước dừa của mẹ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thấy sự thèm thuồng."
+    },
+    {
+      "step": "Món ăn của mẹ",
+      "desc": "Mẹ nấu món thú linh khìa nước dừa, rất vui vẻ.",
+      "impact_level": "3",
+      "viewer_emotion": "Vui lây, cảm thấy ấm áp gia đình."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Ăn thú linh khìa nước dừa chấm nước tương ớt.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn ăn ngay lập tức."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Khen món ăn ngon khi cuốn với rau sống.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy món ăn hấp dẫn hơn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "cay",
+    "ngọt",
+    "mặn",
+    "vừa phải",
+    "dẻo",
+    "béo",
+    "mềm",
+    "ngọt",
+    "thơm",
+    "đậm đà",
+    "thèm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cái món giản đơn nhưng mà không hề đơn giản.",
+    "Món này mà cuộn thêm với rau sống nữa là thành đặc sản đó.",
+    "Lười ăn rau hả dính ngay món này khỏi gỡ luôn."
+  ],
+  "hook_content": "Từ ngày ra ở riêng là hiếm khi nào mà nấu cơm mà cũng ít ăn ở nhà luôn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video chia sẻ về cuộc sống tự nấu ăn của một người khi ở riêng, từ món trứng dầm nước tương đơn giản đến món thú linh khìa nước dừa được mẹ nấu. Video tập trung vào trải nghiệm ẩm thực cá nhân và cảm xúc khi thưởng thức các món ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

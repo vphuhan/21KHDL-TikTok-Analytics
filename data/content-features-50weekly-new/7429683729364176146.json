@@ -1,0 +1,78 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món xiên bẩn và các loại gia vị ăn kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Quảng cáo app",
+      "desc": "Giới thiệu app chỉnh sửa video Winzo và tính năng mới.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không liên quan ẩm thực."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Bắt đầu ăn xiên bẩn và mô tả hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Nhận xét về món ăn",
+      "desc": "Đưa ra cảm nhận về hương vị phù hợp với thời tiết.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Cảm ơn người xem và hẹn gặp lại ở video sau.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người đừng quên tải app về để sẽ được free 5 ngày dùng đầu tiên nha.",
+    "Mọi người nhớ thử nha."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thèm",
+    "ngon xuất sắc"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "mình có cái này cho mọi người xem cực kỳ hay luôn ấy",
+    "ăn mấy cái món này đúng là ngon xuất sắc luôn ấy"
+  ],
+  "hook_content": "Xin chào mọi người. Hôm nay An xin bẩn với mình nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh ăn xiên bẩn của một bạn nữ, đồng thời giới thiệu app chỉnh sửa video Winzo. Bạn nữ vừa ăn vừa chia sẻ cảm nhận về món ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

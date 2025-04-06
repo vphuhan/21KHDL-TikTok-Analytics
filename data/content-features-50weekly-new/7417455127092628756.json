@@ -1,0 +1,88 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người ăn chay, ăn healthy"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món chả giò chay nấm kim châm và công thức mới.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của món ăn."
+    },
+    {
+      "step": "Liệt kê nguyên liệu",
+      "desc": "Liệt kê các nguyên liệu chính: đậu xanh, nấm, gia vị.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy dễ thực hiện."
+    },
+    {
+      "step": "Hướng dẫn sơ chế",
+      "desc": "Hướng dẫn sơ chế các nguyên liệu: ngâm đậu, cắt nấm.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy rõ ràng, dễ hiểu."
+    },
+    {
+      "step": "Hướng dẫn nêm nếm",
+      "desc": "Hướng dẫn nêm nếm gia vị, đặc biệt hạt nêm nấm hương.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng về thành phần tự nhiên."
+    },
+    {
+      "step": "Hướng dẫn cuốn chả giò",
+      "desc": "Hướng dẫn cuốn chả giò bằng bánh đa nem và nấm kim châm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với cách cuốn mới lạ."
+    },
+    {
+      "step": "Hướng dẫn chiên",
+      "desc": "Hướng dẫn chiên chả giò sau khi nhúng bột chiên giòn.",
+      "impact_level": "1",
+      "viewer_emotion": "Mong chờ thành phẩm."
+    },
+    {
+      "step": "Thưởng thức và đánh giá",
+      "desc": "Đánh giá món ăn ngon, thanh đạm, tốt cho sức khỏe.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử làm ngay tại nhà."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "thanh đạm",
+    "tốt lành",
+    "vừa đẹp",
+    "vừa ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "chả giò chay mà kết hợp thêm với cả nấm kim châm, nhìn vừa đẹp, vừa ngon",
+    "ai mà bị gút á ăn món này cũng được luôn á",
+    "vừa sáng tạo, vừa đẹp mà lại vừa tốt lành nữa"
+  ],
+  "hook_content": "giờ mình mới biết chả giò chay mà kết hợp thêm với cả nấm kim châm, nhìn vừa đẹp, vừa ngon như thế này mà phần nhân á mình không cần phải dùng tới đậu hũ luôn.",
+  "hook_type": [
+    "Cho thấy kết quả trước",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món chả giò chay kết hợp nấm kim châm, sử dụng đậu xanh thay cho đậu hũ, nêm nếm hạt nêm nấm hương organic, món ăn thanh đạm, tốt cho sức khỏe và phù hợp cho người ăn chay hoặc người bị gút.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu bắp ngô trái cây và nguồn gốc được tặng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về loại ngô mới lạ."
+    },
+    {
+      "step": "Miêu tả",
+      "desc": "Miêu tả màu sắc hấp dẫn của bắp ngô.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hình ảnh bắt mắt."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Ăn và miêu tả hương vị, độ giòn, mọng nước, vị ngọt.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm giác thèm thuồng."
+    },
+    {
+      "step": "Cảm nhận",
+      "desc": "Cảm nhận mùi sữa và đánh giá cao chất lượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá."
+    },
+    {
+      "step": "Cấu trúc",
+      "desc": "Miêu tả bên trong lõi ngô có màu tím đẹp mắt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị về chi tiết."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Khẳng định độ ngon, giòn và mọng nước của ngô.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn ăn thử ngay."
+    },
+    {
+      "step": "So sánh",
+      "desc": "Kế hoạch luộc ngô để so sánh hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về kết quả so sánh."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Gen Z"
+  ],
+  "cta_content": [
+    "Có cơ hội các bạn nên thử đi."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngọt",
+    "giòn",
+    "mọng nước",
+    "tuyệt vời",
+    "hấp dẫn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nó ngọt thực sự mọi người ạ.",
+    "Ăn rất là giòn, mọng nước và ngọt nha.",
+    "Mình ăn mình cảm nhận được cả cái mùi sữa nha, thực sự luôn, tuyệt vời."
+  ],
+  "hook_content": "Chào mọi người nha. Mình đang cầm bắp ngô trái cây hay còn gọi là ngô nữ hoàng.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review bắp ngô trái cây (ngô nữ hoàng) được tặng, người nói trực tiếp ăn và miêu tả hương vị ngọt, giòn, mọng nước, thơm mùi sữa, đồng thời đánh giá cao và khuyến khích mọi người nên thử. Video còn có kế hoạch luộc ngô để so sánh hương vị.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

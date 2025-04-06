@@ -1,0 +1,75 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Xin tiền",
+      "desc": "Con xin mẹ 35k để mua quần áo nhưng bị từ chối.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Mẹ giới thiệu thạch đen Cao Bằng mua ở siêu thị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Đánh giá sản phẩm",
+      "desc": "Mẹ con cùng ăn và đánh giá hương vị thạch đen.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Công dụng",
+      "desc": "Mẹ giới thiệu công dụng của thạch đen.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Xin tiền lần nữa",
+      "desc": "Con xin mẹ 35k để mua quần áo.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "mềm",
+    "mát",
+    "ngọt thanh",
+    "ngọt",
+    "đậm vị",
+    "mát"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Thay vì tốn 35k mua những thứ vô bổ đó thì ta làm một cốc thạch đen cao bằng, ăn cho nó mát người.",
+    "Thạch đen tuy có vị ngọt nhưng có tác dụng giảm nguy cơ mắc bệnh tiểu đường, nhuận tràng, mát gan.",
+    "Công nhận là cái thạch đen này mát thật đấy ạ."
+  ],
+  "hook_content": "Mẹ ơi, mẹ cho con 35k con mua cái quần short steal này với cả cái áo tám bít đi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video ghi lại cảnh hai mẹ con cùng ăn và review thạch đen Cao Bằng mua ở siêu thị. Mẹ giới thiệu về sản phẩm và công dụng của nó, còn con thì xin tiền mua quần áo.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu dì Năm giỏi nấu ăn và món hủ tiếu chuẩn bị nấu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về tài nấu ăn của dì Năm."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê các nguyên liệu nấu hủ tiếu và công đoạn sơ chế.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, nắm bắt thông tin về nguyên liệu."
+    },
+    {
+      "step": "Nấu nước dùng",
+      "desc": "Hướng dẫn nấu nước dùng hủ tiếu với tôm khô, mực khô.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi đói bụng và tò mò về hương vị."
+    },
+    {
+      "step": "Chia sẻ câu chuyện",
+      "desc": "Chia sẻ về việc xây nhà và nhắc đến người mẹ đã mất.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy buồn và xúc động."
+    },
+    {
+      "step": "Chuẩn bị tôm",
+      "desc": "Giới thiệu tôm tươi ngon và món gỏi sinh tố lúa mạch.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thèm món tôm tươi."
+    },
+    {
+      "step": "Nấu hủ tiếu",
+      "desc": "Phụ dì Năm nấu hủ tiếu và giới thiệu về dì.",
+      "impact_level": "1",
+      "viewer_emotion": "Tập trung vào công đoạn nấu hủ tiếu."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Mời mọi người ăn hủ tiếu và cảnh cả nhà ăn uống.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy ấm cúng và muốn ăn cùng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Truyền thống",
+    "Gen Z",
+    "Chuyên nghiệp"
+  ],
+  "cta_content": [
+    "mời mọi người ăn hủ tiếu chung với cả nhà mình nha"
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "nhớ mẹ",
+    "vui"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trời đất ơi dữ nhất nhà đó nha, rồi có tin không chứ một mình bả nó cân hết mấy ông đàn ông luôn á, ông ba tụi Hon còn ngán nữa là mọi người biết rồi đó.",
+    "Mình về như thế này thì ăn uống nhiều vậy chứ ở nhà bà ngoại mình tiết kiệm lắm, ăn không có dám ăn mọi người.",
+    "Tụi Hon nhà mình nó về đây làm như nó hợp khí tiết bên này hay sao, hay là hợp và cốc nó vậy ta?"
+  ],
+  "hook_content": "Hôm nay mình có rủ dì Năm giỏi mình lên nấu hủ tiếu ăn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình Thi Thu Thảo cùng dì Năm nấu món hủ tiếu nam vang đãi cả nhà và thợ xây nhà. Bên cạnh đó, video còn chia sẻ những câu chuyện đời thường về gia đình.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mô tả sự thèm thuồng",
+      "desc": "Diễn tả sự thèm thuồng với Dookki dù mới ăn gần đây.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Giới thiệu món mới",
+      "desc": "Liệt kê và giới thiệu các món mới hấp dẫn tại Dookki.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Đánh giá chi phí",
+      "desc": "Nhấn mạnh sự hấp dẫn của Dookki với mức giá phải chăng.",
+      "impact_level": "2",
+      "viewer_emotion": "Hài lòng"
+    },
+    {
+      "step": "Miêu tả quầy line",
+      "desc": "Mô tả quầy line sạch sẽ, đa dạng và được chăm chút.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu bàn ăn",
+      "desc": "Giới thiệu bàn ăn đầy ắp món ngon và nước ngọt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Gợi ý cách ăn",
+      "desc": "Gợi ý các cách kết hợp món ăn ngon và độc đáo.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Khẳng định sự yêu thích với Dookki và địa chỉ quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thèm",
+    "khoái",
+    "ngon",
+    "hòa hợp",
+    "cuốn",
+    "ngon chấn động"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Thiệt chứ có 139 cành mà đồ ăn thả ga hết mấy món y chang đám mỗ phiên hàng thì quá là khoái luôn á.",
+    "Thịt heo mà ăn kèm với lại Tteokbokki thì tôi nói chứ ô hòa hợp luôn á.",
+    "Mì gà cay mà ăn kèm với lại gà ráng tôi nói chứ ngon chấn động luôn á."
+  ],
+  "hook_content": "Không hiểu sao lần nào ăn Dookki xong, tôi cứ nói chắc là lâu lắm mới ăn lại.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review về các món mới tại Dookki Minh Khai, Phú Nhuận, tập trung vào sự đa dạng của món ăn và trải nghiệm ăn uống thỏa mãn với mức giá hợp lý, đặc biệt là sự kết hợp độc đáo giữa các món.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

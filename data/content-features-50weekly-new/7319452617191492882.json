@@ -1,0 +1,86 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu mở đầu",
+      "desc": "Giới thiệu về chuyến đi miền Tây và món ăn sắp nấu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Câu cá",
+      "desc": "Trổ tài câu cá tra để chuẩn bị cho món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú khi thấy cá dễ câu."
+    },
+    {
+      "step": "Sơ chế cá",
+      "desc": "File cá và chuẩn bị nước dùng từ xương cá.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, mang tính thông tin."
+    },
+    {
+      "step": "Chuẩn bị nước giấm",
+      "desc": "Bạn Hương chuẩn bị nước giấm nhúng cá.",
+      "impact_level": "1",
+      "viewer_emotion": "Tin tưởng vào tay nghề."
+    },
+    {
+      "step": "Pha nước chấm",
+      "desc": "Hướng dẫn pha nước chấm mắm nêm.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử làm theo."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Mời mọi người cùng ăn cá tra nhúng giấm.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy đói bụng."
+    },
+    {
+      "step": "Lời cảm ơn",
+      "desc": "Cảm ơn sự hiếu khách của người miền Tây.",
+      "impact_level": "1",
+      "viewer_emotion": "Ấn tượng về lòng hiếu khách."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "cả nhà gợi ý giúp Tuấn nha"
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "thích",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Thật ra cá này câu dễ dính lắm vì là cá nuôi, thả xuống xíu là nó dính liền à.",
+    "Con cá này mập củn củn luôn, sớ thịt nhìn thấy ham mà nghe bạn Hương nói con cá này bình thường thôi, dưới ao còn có con 5 6 ký luôn.",
+    "Lúc nào cũng nghe câu người miền Tây hiếu khách hào sản, quả không sai."
+  ],
+  "hook_content": "Được dịp nghỉ Tết dương lịch nên xuống nhà bạn Hương miền Tây chơi, theo lời mời lần trước khi Hương lên thăm chòi lá của Tuấn.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Tuấn đi miền Tây chơi và trổ tài nấu món cá tra nhúng giấm cùng bạn Hương. Video ghi lại quá trình câu cá, sơ chế, chuẩn bị nước dùng, pha nước chấm và thưởng thức món ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

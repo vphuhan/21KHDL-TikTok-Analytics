@@ -1,0 +1,85 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu đuông dừa đặc sản miền Tây và mời mọi người cùng ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn đặc sản."
+    },
+    {
+      "step": "Miêu tả ngoại hình",
+      "desc": "Miêu tả đuông dừa múp rục và cho đuông dừa ăn sữa.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy lạ và hơi ghê."
+    },
+    {
+      "step": "Thưởng thức lần đầu",
+      "desc": "Ăn đuông dừa sống với nước tương và ớt.",
+      "impact_level": "3",
+      "viewer_emotion": "Chờ đợi và hồi hộp."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét về hương vị béo, thơm, ngọt, ngậy của đuông dừa.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và muốn thử."
+    },
+    {
+      "step": "Chế biến",
+      "desc": "Thử chiên đuông dừa với sả ớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món chiên."
+    },
+    {
+      "step": "Đánh giá món chiên",
+      "desc": "Đánh giá hương vị béo và thơm của đuông dừa chiên.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Chia sẻ cảm nhận no và ngậy nên không ăn được nhiều.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "béo",
+    "thơm",
+    "ngọt ngọt",
+    "ngậy ngậy",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đuông dừa này, trời ơi em nào em nấy múp rục.",
+    "Béo béo, thơm, hơi ngọt ngọt, ngậy ngậy. Ngon nha.",
+    "Nó rất là ngậy luôn nên Vivi chỉ ăn được từng đó thôi nha."
+  ],
+  "hook_content": "Hello mọi người, hôm nay Vivi sẽ hóa thân thành cô Ba miền Tây, ăn đuông dừa đặc sản miền Tây nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Vivi hóa thân thành cô Ba miền Tây ăn món đuông dừa đặc sản, miêu tả hình dáng múp rục và thử ăn sống với nước tương ớt, sau đó chiên giòn. Vivi nhận xét món ăn béo, thơm, ngậy và ngon.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

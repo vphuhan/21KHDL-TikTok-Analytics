@@ -1,0 +1,69 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món thịt kho doulingo và cảm nhận ban đầu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Kết hợp đồ uống",
+      "desc": "Giới thiệu cà phê Laura để uống kèm món thịt kho.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy sự kết hợp thú vị"
+    },
+    {
+      "step": "Đánh giá cà phê",
+      "desc": "Mô tả hương vị và thành phần của cà phê Laura.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử cà phê"
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Đánh giá chi tiết về hương vị và cảm nhận của món thịt kho.",
+      "impact_level": "2",
+      "viewer_emotion": "Biết thêm thông tin về món ăn"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "béo",
+    "ngon",
+    "thơm ngon",
+    "béo béo",
+    "ngọt ngọt",
+    "sánh kẹo",
+    "đã",
+    "ngán"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Trời trời, ta nói nó béo quá là béo luôn.",
+    "Cà phê này thì có thành phần từ nấm linh chi và đông trùng hạ thảo, rất tốt cho sức khỏe, mùi vị thì vô cùng thơm ngon, béo béo, ngọt ngọt, sánh kẹo, uống đã lắm.",
+    "Còn cái thịt kho Dolingo này thì béo béo, mặn mặn, ngọt ngọt, màu sắc khá đẹp nhưng mà rất là ngán luôn."
+  ],
+  "hook_content": "review cả thế giới, thịt kho đoulingo.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món thịt kho doulingo và gợi ý kết hợp cùng cà phê Laura. Người nói đánh giá thịt kho béo ngậy nhưng ngán, và khen cà phê Laura thơm ngon, tốt cho sức khỏe.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

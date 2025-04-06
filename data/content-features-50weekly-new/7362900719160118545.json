@@ -1,0 +1,93 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Nhận yêu cầu làm gà rán và quyết định mua ăn thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món gà rán."
+    },
+    {
+      "step": "Mua gà",
+      "desc": "Đến Emart mua gà, mô tả quy trình mua.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy lạ lẫm với cách mua."
+    },
+    {
+      "step": "Đánh giá ban đầu",
+      "desc": "Nhận xét về khối lượng, mùi vị gà rán.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi đói bụng."
+    },
+    {
+      "step": "Nếm thử",
+      "desc": "Ăn và đánh giá chất lượng, hương vị gà rán.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung lắng nghe."
+    },
+    {
+      "step": "So sánh",
+      "desc": "So sánh với gà rán tự làm, gà ở chỗ khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Đánh giá về số lượng, giá cả.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hợp lý."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Giải đáp địa điểm mua và hẹn video tự làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Hóng video tiếp theo."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Đợi video tiếp theo của mình tự chiên một con gà như thế này nhé."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "tò mò",
+    "thơm",
+    "vừa ăn",
+    "dễ ăn",
+    "ngán",
+    "ok",
+    "không tệ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mình vô cái siêu thị nào mà đông quá mình cứ hơi bị ngợp ấy.",
+    "Đây là đầu tiên mình đi mua kiểu lấy phiếu các kiểu như thế này, lạ thế y như là người nhà quê mới lên.",
+    "Tôi tò mò, bạn cũng thế."
+  ],
+  "hook_content": "làm gà rán nguyên con 100k đi anh.",
+  "hook_type": [
+    "Phản hồi bình luận"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review gà rán nguyên con 100k mua tại siêu thị Emart, đánh giá về chất lượng, hương vị so với gà rán tự làm và các thương hiệu khác, đồng thời giải đáp thắc mắc về địa điểm mua.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

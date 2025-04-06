@@ -1,0 +1,84 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu vấn đề",
+      "desc": "Đề cập đến việc quán cá viên chiên phụ thu nước chấm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự khác biệt của quán."
+    },
+    {
+      "step": "Kỷ niệm tuổi thơ",
+      "desc": "Chia sẻ về ước mơ thời nhỏ và sự thay đổi khi lớn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, hơi hoài niệm."
+    },
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán cá viên chiên ngon, sạch sẽ ở Sài Gòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hứng thú với địa điểm mới."
+    },
+    {
+      "step": "Miêu tả món ăn",
+      "desc": "Miêu tả chả cá bách thảo với trứng bách thảo đặc biệt.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn ăn thử ngay lập tức."
+    },
+    {
+      "step": "Nhấn mạnh nước chấm",
+      "desc": "Ca ngợi nước chấm sa tế thơm ngon nhưng cần cẩn trọng.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thèm thuồng."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Nhấn mạnh sự đa dạng và chất lượng của quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng quán."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Chưa biết á thì địa chỉ tôi ghim ở cuối clip nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "sạch sẽ",
+    "thèm",
+    "đỉnh"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Quán cá viên chiên sẽ phụ thu thêm tiền nếu mà bạn còn hơn nửa chén nước chấm.",
+    "Đó là chả cá bách thảo ở trong có nguyên cái trứng bách thảo to ăn dẻo dẻo ngon lắm.",
+    "Nước chấm ở đây á công nhận đỉnh thiệt sự, cái sa tế nó rất là thơm, nhưng mà đừng có thấy ngon lấy nhiều ăn không hết là mất phí đó."
+  ],
+  "hook_content": "Quán cá viên chiên sẽ phụ thu thêm tiền nếu mà bạn còn hơn nửa chén nước chấm.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review một quán cá viên chiên ở Sài Gòn, nổi bật với món chả cá bách thảo trứng to và nước chấm sa tế đặc biệt, đồng thời lưu ý về việc phụ thu nếu để thừa nước chấm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

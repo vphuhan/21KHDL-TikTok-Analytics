@@ -1,0 +1,60 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu hàng bánh mì",
+      "desc": "Giới thiệu hàng bánh mì lâu năm với món bánh mì miến độc lạ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món bánh mì lạ."
+    },
+    {
+      "step": "Phỏng vấn chủ quán",
+      "desc": "Hỏi về nguồn gốc, số lượng bán, giá và lợi nhuận.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với thông tin chi tiết."
+    },
+    {
+      "step": "Đánh giá bánh mì",
+      "desc": "Nhận xét về độ cuốn hút và tiềm năng của bánh mì miến.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử món bánh mì này."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "cuốn",
+    "độc lạ"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Độc lạ Việt Nam bánh mì nhân miến đã chính thức xuất hiện.",
+    "15k một cái ăn cũng khá là cuốn.",
+    "Không biết có soán ngôi được bánh mì 3T không nhưng mà một ngày bán 400 cái thì cũng năng suất đấy."
+  ],
+  "hook_content": "Chúi dầu đen xì này mấy ngày rồi không thay à?",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video giới thiệu món bánh mì miến độc lạ ở Hà Nội, phỏng vấn chủ quán về nguồn gốc và số lượng bán, đồng thời đánh giá hương vị và tiềm năng của món ăn này.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

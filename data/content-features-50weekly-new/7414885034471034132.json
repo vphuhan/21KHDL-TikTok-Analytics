@@ -1,0 +1,63 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món nạp xưởng nướng đá và cảm xúc khi ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Nhận xét món ăn",
+      "desc": "Nhận xét món ăn ngon và hạnh phúc khi được ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Kêu gọi tương tác",
+      "desc": "Kêu gọi người xem có người yêu thì nên đi ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy vui vẻ."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Có người yêu thì bảo nó dẫn đi ăn mọi người nhá."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "tuyệt vời",
+    "hạnh phúc",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Tuyệt vời!",
+    "Hạnh phúc thật.",
+    "Ngon thật."
+  ],
+  "hook_content": "Tuyệt vời!",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình người này ăn nạp xưởng nướng đá và cảm thấy rất ngon, hạnh phúc. Đồng thời khuyến khích người xem nếu có người yêu thì nên đi ăn cùng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

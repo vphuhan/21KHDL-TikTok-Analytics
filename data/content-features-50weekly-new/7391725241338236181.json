@@ -1,0 +1,81 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Mô tả địa điểm bán cơm chiên của anh chủ, đối diện nhà dát vàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về địa điểm bán hàng độc đáo."
+    },
+    {
+      "step": "Nguồn gốc",
+      "desc": "Giải thích lý do anh chủ tự bán cơm và chất lượng được đảm bảo.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin cơ bản về quán."
+    },
+    {
+      "step": "Mô tả công việc",
+      "desc": "Miêu tả công việc của nhân viên và mức lương.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết thêm chi tiết về công việc."
+    },
+    {
+      "step": "Đánh giá tốc độ",
+      "desc": "Nhận xét về tốc độ làm cơm của anh chủ.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với tốc độ phục vụ."
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Liệt kê các thành phần trong một phần cơm chiên.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng với các món ăn kèm."
+    },
+    {
+      "step": "Lưu ý",
+      "desc": "Hướng dẫn khách hàng dặn trứng chín kỹ nếu bụng yếu.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích cho sức khỏe."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Đánh giá về chất lượng và giá cả của cơm chiên.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hợp lý với giá cả."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "hợp lý"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cơm chiên dát vàng 35k",
+    "Tính ra lương 4,5 triệu một tháng, hàng ngày chỉ việc bắc thang lên chùi cam cho sạch và coi mấy cái xe hơi quanh nhà.",
+    "Một phần cơm 35.000 sẽ có trứng chiên, chả cá, da gà và hoành thánh chiên."
+  ],
+  "hook_content": "Chai bán cơm trên cây điệp phi không tuyển được nhân viên bảo vệ trong ngôi nhà dát vàng, nên anh phải ra bán hàng để coi giữ nhà luôn.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quán cơm chiên 35k ở Sài Gòn, với điểm đặc biệt là anh chủ bán cơm ngay trước căn nhà dát vàng. Món ăn có trứng, chả cá, da gà, hoành thánh chiên, được đánh giá là hợp lý so với giá cả.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

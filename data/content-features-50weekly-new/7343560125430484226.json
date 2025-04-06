@@ -1,0 +1,73 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ốc luộc xả và cà phê nấm linh chi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Pha cà phê",
+      "desc": "Pha cà phê và giới thiệu thành phần, công dụng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Thưởng thức cà phê",
+      "desc": "Uống và khen cà phê béo, thơm ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử"
+    },
+    {
+      "step": "Giới thiệu ốc bu vàng",
+      "desc": "Giới thiệu về loại ốc và cách nhận biết.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thưởng thức ốc",
+      "desc": "Ăn ốc và chia sẻ về phần ăn được.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "wow",
+    "béo",
+    "thơm",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Để tui pha một ly cà phê la ra của ca sĩ Nhịp Tim mình uống cái mấy bà ơi.",
+    "Tao nói nó béo mà nó thơm, ngon gì đâu á mấy bà.",
+    "Con ốc này là con ốc bu vàng nha mọi người."
+  ],
+  "hook_content": "Mời mọi người ăn ốc với em nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang giới thiệu món ốc luộc xả và cà phê nấm linh chi, chia sẻ cảm nhận về hương vị và đặc điểm của món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

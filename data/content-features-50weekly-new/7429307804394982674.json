@@ -1,0 +1,94 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Đi lụm hạt dẻ cười lúc nửa đêm để ăn thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về loại hạt dẻ này."
+    },
+    {
+      "step": "Thu hoạch",
+      "desc": "Mô tả quá trình lượm hạt dẻ, mùi khó chịu.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy hơi khó chịu."
+    },
+    {
+      "step": "Sơ chế",
+      "desc": "Ngâm hạt dẻ và rửa sạch trước khi chế biến.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Chế biến",
+      "desc": "Luộc và rang hạt dẻ để tăng hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy lạ và tò mò."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Tách hạt và mô tả hương vị, cảm nhận.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy ngon miệng, muốn thử."
+    },
+    {
+      "step": "Khuyến khích",
+      "desc": "Khuyên mọi người nên thử nếu có cơ hội.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thuyết phục và tò mò."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ai mà biết ăn cái trái này mà tốt cho cái gì thì mọi người nói cho mình biết với nha."
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Chia sẻ công thức",
+    "Đặt câu hỏi"
+  ],
+  "emotion_keywords": [
+    "kinh khủng",
+    "muốn thồn vô họng",
+    "chạy mất dép",
+    "bùi bùi",
+    "dẻo dẻo",
+    "thơm thoang thoảng",
+    "dễ chịu",
+    "dễ ăn",
+    "ngon",
+    "dính"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ngồi hốt mà cái mùi của nó kinh khủng muốn banh cái lỗ mũi.",
+    "Cái trái của nó có màu vàng rất là đẹp, nhìn là muốn thồn vô họng liền.",
+    "Tao nói nó vừa dẻo mà cái vị của nó ăn ngon dữ lắm kìa."
+  ],
+  "hook_content": "Hôm nay thì trời đã khuya lắc khuya lơ rồi nhưng mà mọi người hãy cùng đi theo mình đi lụm hạt dẻ về ăn ha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video ghi lại quá trình một người đi lượm và chế biến hạt của cây lá vàng (hạt dẻ cười) để ăn thử, sau đó chia sẻ cảm nhận về hương vị và khuyến khích mọi người ăn nếu có cơ hội.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

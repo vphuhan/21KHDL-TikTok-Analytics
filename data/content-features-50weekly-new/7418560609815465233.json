@@ -1,0 +1,94 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người ăn chay, ăn healthy",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu snack ức gà healthy, phù hợp cho người ăn kiêng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị vì món ăn có vẻ healthy."
+    },
+    {
+      "step": "Nêu lý do làm món ăn",
+      "desc": "Người làm muốn tự tay làm snack cho vợ thay vì mua ngoài.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    },
+    {
+      "step": "Hướng dẫn trộn nguyên liệu",
+      "desc": "Hướng dẫn trộn ức gà với gia vị và rau củ xay nhuyễn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị vì công thức có vẻ đơn giản."
+    },
+    {
+      "step": "Hướng dẫn cuốn và tạo hình",
+      "desc": "Hướng dẫn cuốn hỗn hợp ức gà với rong biển.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với cách tạo hình món ăn."
+    },
+    {
+      "step": "Hướng dẫn nấu ăn",
+      "desc": "Hướng dẫn chiên bằng nồi chiên không dầu và chiên ngập dầu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị vì có hai cách chế biến."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Đánh giá hai cách chiên và gợi ý cách làm cho người xem.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị vì nhận được lời khuyên hữu ích."
+    },
+    {
+      "step": "Tổng kết",
+      "desc": "Nhấn mạnh món ăn phù hợp cho cả gia đình và người ăn kiêng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị và muốn thử làm theo."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Mọi người thử nha."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "đậm đà",
+    "trọn vị"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ức gà mang đi cuộn rong biển là có ngay món snack healthy cực dễ nha",
+    "Mấy cái nguyên liệu á toàn là heo thì không luôn.",
+    "Tính ra snack này mai mốt mình làm cho con ăn cũng được, mà làm cho vợ vừa ăn, vừa coi phim, mình thì có bóng đá, vừa ngon lại còn heo thì nữa."
+  ],
+  "hook_content": "Có snack mới cho em nè, vừa heo thì, vừa ăn vừa cú.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm món snack ức gà cuộn rong biển healthy, phù hợp cho người ăn kiêng và cả gia đình. Người làm chia sẻ cách trộn nguyên liệu, tạo hình và hai cách chiên để người xem lựa chọn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

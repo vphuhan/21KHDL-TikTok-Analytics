@@ -1,0 +1,61 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu thạch đen Cao Bằng giải nhiệt và nơi mua.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm."
+    },
+    {
+      "step": "Trải nghiệm sản phẩm",
+      "desc": "Miêu tả cảm nhận khi ăn thạch đen trực tiếp.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá vị thạch khi ăn kèm mật/siro.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "mát",
+    "mềm",
+    "dẻo",
+    "đã"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ăn nó mềm, dẻo, mát và mình thấy nó có một chút mùi và vị kiểu gần giống như là trà mạn phơi khô ấy.",
+    "Ăn không này thì nó hơi nhạt, nó chỉ có một chút xíu vị ngọt thôi.",
+    "Ai mà thích ăn ngọt mà cho cái mật hoặc cái siro của họ vào ấy, ăn rất là đã luôn."
+  ],
+  "hook_content": "Trời nóng quá, ăn thạch đen Cao Bằng cho mát mọi người ơi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu món thạch đen Cao Bằng giúp giải nhiệt trong mùa hè, được mua tại Winmart hoặc các siêu thị khác. Người nói chia sẻ trải nghiệm ăn thạch trực tiếp và khi kết hợp với mật/siro.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu combo",
+      "desc": "Giới thiệu combo 10k mua được gì ở cửa hàng tiện lợi",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về những món có thể mua"
+    },
+    {
+      "step": "Liệt kê sản phẩm",
+      "desc": "Liệt kê xúc xích viên và ly đá cùng giá tiền",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy rõ các món ăn trong combo"
+    },
+    {
+      "step": "Thông báo tổng tiền",
+      "desc": "Thông báo tổng thiệt hại là 11.000 đồng",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi bất ngờ vì vượt quá 10k"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "10.000 mua được gì?",
+    "Xúc xích viên 8.000, ly đá 3.000",
+    "Tổng thiệt hại 11.000"
+  ],
+  "hook_content": "10.000 mua được gì?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Liệt kê"
+  ],
+  "summarization": "Video mukbang về combo 10k mua tại cửa hàng tiện lợi, bao gồm xúc xích viên và ly đá, nhưng tổng thiệt hại lên đến 11k.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

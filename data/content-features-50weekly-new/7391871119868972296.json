@@ -1,0 +1,83 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Mời mọi người ăn đám giỗ miền Tây tại nhà người thân.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn trong đám giỗ."
+    },
+    {
+      "step": "Khoe đồ ăn",
+      "desc": "Giới thiệu bánh ít, cà ri, khổ qua hầm và các món khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng các món ăn hấp dẫn."
+    },
+    {
+      "step": "Khoe của",
+      "desc": "Khoe hột xoàn mới sắm và giới thiệu anh Hai.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không quá đặc biệt."
+    },
+    {
+      "step": "Giải thích",
+      "desc": "Giải thích về việc nhà chưa xây xong khi bị chê cũ.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm với lời giải thích."
+    },
+    {
+      "step": "Giới thiệu món chính",
+      "desc": "Giới thiệu món cù lao đặc biệt trong đám giỗ.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với món ăn truyền thống."
+    },
+    {
+      "step": "Chuẩn bị cúng",
+      "desc": "Các món ăn đã chuẩn bị xong và được dọn lên cúng.",
+      "impact_level": "1",
+      "viewer_emotion": "Tôn trọng nghi lễ truyền thống."
+    },
+    {
+      "step": "Lời mời",
+      "desc": "Mời mọi người ăn đám giỗ chung với gia đình.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy ấm cúng và thân thiện."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Truyền thống"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thèm",
+    "khoái",
+    "xuất sắc"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ở Việt Nam mình sướng thiệt á, sáng trưa chiều tối bữa nào cũng có đồ ăn hết.",
+    "Về Việt Nam nhìn món nào cũng thèm nha mọi người.",
+    "Trời ơi ta nói là xuất sắc luôn nha mọi người."
+  ],
+  "hook_content": "Bữa nay mời mọi người ăn đám giỗ miền Tây chung với nhà của vượng mình nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh ăn đám giỗ miền Tây tại nhà người thân, giới thiệu các món ăn truyền thống như cà ri, khổ qua hầm, cù lao và chia sẻ về không khí gia đình ấm cúng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

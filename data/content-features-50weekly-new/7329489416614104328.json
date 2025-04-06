@@ -1,0 +1,79 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Ba Tùng Hân nấu canh cá, nhường bếp cho ba",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp, tò mò về món canh cá"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Thái cá, nói về tóc Sơ Hân, hớt tóc cho con",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, hơi lan man"
+    },
+    {
+      "step": "Nấu canh",
+      "desc": "Nấu củ cải trắng, cá, thêm ớt tỏi, hành",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị, quan tâm công thức"
+    },
+    {
+      "step": "Chia sẻ thói quen ăn uống",
+      "desc": "Tùng Hân và Sơ Hân ăn trước, nấu riêng",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin thêm"
+    },
+    {
+      "step": "Hoàn thiện món ăn",
+      "desc": "Thêm hành baro, cải cúc, mời mọi người ăn",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn, thèm ăn"
+    },
+    {
+      "step": "Nếm thử",
+      "desc": "Nếm thử và nhận xét về món ăn",
+      "impact_level": "3",
+      "viewer_emotion": "Tò mò về hương vị"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "ăn cơm chung với cả nhà mình nha"
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nay để ý thì mới thấy tóc Sơ Hân dài dữ rồi.",
+    "Mình không có cần khử cá trước nhưng mà nó cũng không có tanh gì luôn.",
+    "Nước bây giờ nó ngon hơn."
+  ],
+  "hook_content": "Bữa nay ba Tùng Hân dành nấu ăn nên là mình sẽ nhường cái bếp này lại cho ba Tùng Hân nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình ba Tùng Hân nấu món canh cá cho gia đình. Anh chia sẻ về công thức, thói quen ăn uống và mời mọi người cùng thưởng thức.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

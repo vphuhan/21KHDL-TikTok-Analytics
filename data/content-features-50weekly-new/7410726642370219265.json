@@ -1,0 +1,97 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Nêu cách làm chân gà hấp hành ngon nhất từ trước đến giờ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về công thức đặc biệt này."
+    },
+    {
+      "step": "Chia sẻ câu chuyện cá nhân",
+      "desc": "Kể chuyện xin chồng 3 triệu đi chợ được chuyển nhầm 30 triệu.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ và tò mò về cách xử lý tình huống."
+    },
+    {
+      "step": "Sơ chế chân gà",
+      "desc": "Hướng dẫn luộc chân gà với sả, hành tím và bột nghệ.",
+      "impact_level": "2",
+      "viewer_emotion": "Ghi nhớ mẹo luộc gà không bị hôi."
+    },
+    {
+      "step": "Sơ chế và tẩm ướp",
+      "desc": "Hướng dẫn ngâm nước lạnh, chặt miếng vừa ăn, nêm gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ món ăn hoàn thành."
+    },
+    {
+      "step": "Làm nước chấm",
+      "desc": "Hướng dẫn làm nước chấm muối tiêu ớt, vắt chanh.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn làm theo công thức nước chấm."
+    },
+    {
+      "step": "Hấp chân gà",
+      "desc": "Hướng dẫn hấp chân gà với hành lá đến khi chín.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng mùi thơm của hành lá."
+    },
+    {
+      "step": "Thưởng thức và kêu gọi",
+      "desc": "Miêu tả món ăn và khuyến khích làm theo công thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn vào bếp làm ngay món chân gà hấp hành."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "nếu mà bữa nay mấy chị chưa biết làm món gì á thì nhớ làm cái món này đi nha.",
+    "Mà thử làm theo cái cách của em bày đi, trời ơi, ngon không có chịu được luôn á."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "đậm đà",
+    "thơm",
+    "ngọt",
+    "cay",
+    "chua",
+    "thèm",
+    "đói bụng",
+    "ngon không có chịu được"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "đây là cái cách làm chân gà hấp hành mà ngon nhất bữa giờ em từng ăn luôn á mấy bà.",
+    "Em nói là sáng nay á là em xin tiền ông chồng 3 triệu đi chợ, mà không biết làm sao ổng chuyển nhầm 30 triệu luôn mấy chị.",
+    "Mấy bữa nào mà trời mưa mưa á, không có cần phải sơn hào hải vị gì hết trơn á. Mấy bà làm một cái nồi chân gà hấp hành như vậy thôi là tao nói hết nước chấm luôn."
+  ],
+  "hook_content": "hỏi nói nhiều, đây là cái cách làm chân gà hấp hành mà ngon nhất bữa giờ em từng ăn luôn á mấy bà.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn cách làm món chân gà hấp hành ngon và đậm đà, chia sẻ mẹo luộc gà không bị hôi và cách làm nước chấm hấp dẫn, đồng thời kể câu chuyện hài hước về việc được chồng chuyển nhầm tiền.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món gà rán khổng lồ chuẩn vị Đài Loan ở quận 10.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới lạ."
+    },
+    {
+      "step": "Thông tin quán ăn",
+      "desc": "Địa điểm, sự nổi tiếng trước đây và lý do món ăn đặc biệt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với thông tin về quán."
+    },
+    {
+      "step": "Miêu tả chi tiết",
+      "desc": "Kích thước, hương vị và cảm nhận khi ăn gà rán.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng và muốn thử."
+    },
+    {
+      "step": "Giới thiệu món khác",
+      "desc": "Gà tender sốt phô mai và cảm nhận khi ăn món này.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến sự lựa chọn khác."
+    },
+    {
+      "step": "Ưu đãi",
+      "desc": "Thông tin về ưu đãi khi mua hàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với thông tin khuyến mãi."
+    },
+    {
+      "step": "Lưu ý về địa điểm",
+      "desc": "Nhấn mạnh về duy nhất một địa điểm của quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy cần lưu ý để tránh nhầm lẫn."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "chuẩn vị",
+    "lạ lạ",
+    "đặc biệt",
+    "giòn",
+    "cay cay",
+    "thơm thơm",
+    "đậm đà",
+    "nóng hổi",
+    "mọng nước",
+    "béo ngậy",
+    "siêu cuốn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Gà rán khổng lồ mà đảm bảo là chuẩn vị Đài Loan nhất ở cái đất Sài Gòn này.",
+    "Một miếng gà nó to khổng lồ, nó to chà bá bự luôn mọi người ơi, nó bự hơn cả cái mặt của tôi nữa.",
+    "Gà có vỏ vàng giòn bên trong mọng nước, bên trên có rắc gia vị hơi cay cay nhẹ. Chấm cùng với sốt phô mai béo ngậy ăn siêu cuốn luôn."
+  ],
+  "hook_content": "Gà rán nguyên con của iMac bây giờ là dĩ vãng rồi. Tôi mới kiếm ra được một chỗ bán gà rán khổng lồ mà đảm bảo là chuẩn vị Đài Loan nhất ở cái đất Sài Gòn này.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu quán gà rán khổng lồ chuẩn vị Đài Loan ở quận 10, món gà có kích thước lớn, hương vị đặc biệt và nhiều ưu đãi hấp dẫn. Ngoài ra, quán còn có món gà tender sốt phô mai cũng rất đáng thử.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món thịt nướng ăn cùng kim chi hành tự làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn và cách kết hợp."
+    },
+    {
+      "step": "Giới thiệu không gian",
+      "desc": "Giới thiệu khung cảnh bình yên ở quê nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thư giãn và thích thú với khung cảnh."
+    },
+    {
+      "step": "Chia sẻ về gia đình",
+      "desc": "Chia sẻ về gia đình và cậu tư chưa có vợ.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy gần gũi và thích thú với câu chuyện."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Chuẩn bị nấm, thịt và muối tiêu dầu mè.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, tập trung vào quá trình chuẩn bị."
+    },
+    {
+      "step": "Nướng thịt",
+      "desc": "Nướng thịt và khen ba nướng thịt ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và thích thú với món thịt nướng."
+    },
+    {
+      "step": "Giới thiệu đồ uống",
+      "desc": "Pha sủi Phanh vô rụ be để giảm thèm ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm và công dụng."
+    },
+    {
+      "step": "Ăn uống cùng gia đình",
+      "desc": "Ăn uống vui vẻ cùng gia đình và trêu em bé.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy ấm áp và vui vẻ."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Truyền thống"
+  ],
+  "cta_content": [
+    "Cái này mọi người hỏi quá trời nhưng mà mình không có bán, người có thể tìm thử tên Phanh vô rụ be hoặc là mình để cái liêm bên dưới bình luận chính hãng nha.",
+    "Ít nhất á là tiệc này tiệc nọ nhiều, mấy bạn ai có ít thời gian tập luyện á thì mua cái này về uống thử, hỗ trợ cũng tốt lắm á."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo",
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "bình yên",
+    "vui",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Về quê mình thích nhất là cái khung cảnh buổi sáng này nè mọi người. Trời ơi ta nói nó bình yên gì đâu luôn á.",
+    "Cái gì mà thiếu được thì thiếu, đổi được thì đổi nhưng mà người nướng thịt vẫn phải là ba Tùng Hân nha.",
+    "Bữa thì mình sẽ pha một viên như thế này rồi mình với ba Tùng Hân uống thêm đá vô nữa ta nói y chang như soda luôn á mọi người, ngon lắm."
+  ],
+  "hook_content": "nay mình sẽ lôi cái mớ kim chi hành bữa trước mình làm ra để ăn thịt nướng một bữa nha mọi người.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện"
+  ],
+  "summarization": "Video ghi lại cảnh gia đình cùng nhau ăn thịt nướng tại quê nhà, kết hợp giới thiệu về kim chi tự làm, khung cảnh quê bình yên và sản phẩm hỗ trợ giảm cân. Người làm video chia sẻ những khoảnh khắc đời thường và ấm cúng bên gia đình.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu vấn đề",
+      "desc": "Nêu vấn đề mì xào bị dính cục và giới thiệu giải pháp.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về bí quyết."
+    },
+    {
+      "step": "Hướng dẫn trụng mì",
+      "desc": "Hướng dẫn cách trụng mì với nước lạnh để mì dai ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Ngạc nhiên và thích thú."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Hướng dẫn chọn và cắt thịt bò, rau củ.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích."
+    },
+    {
+      "step": "Trụng rau củ",
+      "desc": "Hướng dẫn trụng rau củ để giữ màu xanh và độ giòn.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ với mẹo nhỏ."
+    },
+    {
+      "step": "Pha nước sốt",
+      "desc": "Hướng dẫn pha nước sốt đậm đà với dầu hào Chin-Su.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử ngay."
+    },
+    {
+      "step": "Xào mì",
+      "desc": "Hướng dẫn xào mì với thịt bò, rau củ và nước sốt.",
+      "impact_level": "3",
+      "viewer_emotion": "Hấp dẫn và thèm thuồng."
+    },
+    {
+      "step": "Thành phẩm",
+      "desc": "Giới thiệu thành phẩm mì xào bóng bẩy, thơm ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Kích thích vị giác."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Nếu mà bữa nay chưa có biết ăn gì á thì mấy chị tham khảo thử nhe."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "dai",
+    "ngon",
+    "đậm đà",
+    "thơm",
+    "ngọt ngọt tự nhiên",
+    "bóng bẩy"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cách xào mì dai, ngon, đậm đà mà để mấy tiếng á cái sợi mì nó cũng không có bị dính cục.",
+    "Ngon hay dở thành hay bại là ở ngay cái chén nước sốt này nè.",
+    "Từ sợi mì nha cho tới rau củ á mà có cái dầu hào vô nó bóng dễ sợ luôn mấy chị."
+  ],
+  "hook_content": "Chắc mấy cái trò bán mì xào bò á không ai chỉ cho mấy bà cái cách xào mì dai, ngon, đậm đà mà để mấy tiếng á cái sợi mì nó cũng không có bị dính cục đâu hen.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn cách xào mì bò dai ngon như ngoài hàng, không bị dính cục với bí quyết trụng mì bằng nước lạnh và pha nước sốt đậm đà từ dầu hào Chin-Su. Thành phẩm mì xào có sợi mì bóng bẩy, rau củ xanh giòn và hương vị thơm ngon.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

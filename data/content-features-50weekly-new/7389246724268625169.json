@@ -1,0 +1,89 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu chuyến đi",
+      "desc": "Thông báo về chuyến thăm bà nội và những sự chuẩn bị.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đến nhà bà",
+      "desc": "Di chuyển đến nhà bà nội, mô tả tình hình giao thông.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu bà nội",
+      "desc": "Giới thiệu về bà nội và mối quan hệ với cháu.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp"
+    },
+    {
+      "step": "Ăn trưa",
+      "desc": "Cả nhà cùng ăn trưa tại một quán quen thuộc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Thăm nhà bà",
+      "desc": "Về nhà bà nội, trò chuyện và ăn cơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm cúng"
+    },
+    {
+      "step": "Ăn cơm nhà",
+      "desc": "Dọn cơm và mời mọi người cùng ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Gần gũi"
+    },
+    {
+      "step": "Rủ đi du lịch",
+      "desc": "Thuyết phục bà nội về Việt Nam du lịch.",
+      "impact_level": "3",
+      "viewer_emotion": "Háo hức"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Mọi người nhớ đợi những cái vlog ở Việt Nam có bà nội Tùng Hân nha."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "khoái",
+    "thương",
+    "cưng",
+    "mến tay mến chân",
+    "sống tình cảm",
+    "khó chia tay"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Thằng nào mà ghé đây á là cũng hỏi thăm Suhơn nhà mình.",
+    "Qua ảnh là mến tay mến chân á, rồi sống tình cảm nữa, bởi vậy khó chia tay lắm mọi người.",
+    "Cái kiểu của Tùng Hân nhà mình á là lúc đi không đi nha, nhưng mà đi rồi là dính ở đó luôn."
+  ],
+  "hook_content": "Bữa nay ba con nó rủ mình về nhà bà nội chơi, mà mở mắt ra 10 giờ chưa thấy em nào thức luôn.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện"
+  ],
+  "summarization": "Video ghi lại một ngày của gia đình khi đến thăm bà nội, cùng ăn trưa và rủ bà về Việt Nam du lịch. Nội dung tập trung vào các hoạt động ăn uống và sinh hoạt gia đình.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

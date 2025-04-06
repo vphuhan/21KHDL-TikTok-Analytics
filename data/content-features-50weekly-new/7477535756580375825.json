@@ -1,0 +1,94 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu tình huống",
+      "desc": "Chia sẻ về việc ăn mì tôm do chuẩn bị cho đám cưới.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị với tình huống hài hước."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Kể về việc mua sắm nguyên liệu nấu mì chua cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn với món mì."
+    },
+    {
+      "step": "Giới thiệu món ăn kèm",
+      "desc": "Giới thiệu món chân gà hấp hành ăn kèm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Than thở về chi phí",
+      "desc": "Than thở về chi phí đám cưới và sự vô tư của chồng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy đồng cảm và hài hước."
+    },
+    {
+      "step": "Giới thiệu nguyên liệu đặc biệt",
+      "desc": "Giới thiệu muối chấm yêu thích và sự khó khăn khi mua.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm được giới thiệu."
+    },
+    {
+      "step": "Đánh giá chai sốt",
+      "desc": "Đánh giá chai sốt mì chua cay và so sánh với mì cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hứng thú với đánh giá sản phẩm."
+    },
+    {
+      "step": "Thưởng thức và nhận xét",
+      "desc": "Thưởng thức mì và nhận xét về hương vị, độ ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng và muốn thử."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "hoa mắt",
+    "chóng mặt",
+    "mừng",
+    "phấn khởi",
+    "hồ hởi",
+    "tuyệt vọng",
+    "ổn",
+    "ngon",
+    "okla akelo"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "ăn uống mà cứ cái đà này thì tiền chuẩn bị đám cưới chắc phải trông chờ vào tiền mừng cưới của các bạn",
+    "mọi người có biết cái chân gà này chấm với cái muối gì ngon không? Cái muối tôm chua cay này của Chinsu ngon, ngon ỏi cả chữ.",
+    "Đợi cả một năm trời mà brand không hề book mình cái sản phẩm tâm đắc như này."
+  ],
+  "hook_content": "Không biết mọi người tổ chức đám cưới thì chi hết bao nhiêu tiền chứ hôm nay là mình đã phải ăn mì tôm qua bữa rồi đây.",
+  "hook_type": [
+    "Gây tò mò",
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video kể về quá trình nấu mì chua cay ăn mừng đám cưới sắp tới, đồng thời review chai sốt chua cay và muối chấm chân gà yêu thích. Món ăn được đánh giá là ngon và phù hợp để nấu cho gia đình.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

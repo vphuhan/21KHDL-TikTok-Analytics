@@ -1,0 +1,91 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu mở đầu",
+      "desc": "Chào mừng và giới thiệu về bản thân, mục đích review.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món quà đặc biệt."
+    },
+    {
+      "step": "Nhận và kiểm tra đơn hàng",
+      "desc": "Quá trình nhận đơn, trò chuyện với nhân viên quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thủ tục thông thường."
+    },
+    {
+      "step": "Trải nghiệm làm shipper",
+      "desc": "Chia sẻ về công việc shipper ngày 20/10 và quán ưa thích.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị về địa điểm làm việc."
+    },
+    {
+      "step": "Nhận quà từ quán",
+      "desc": "Bất ngờ nhận quà từ quán, trò chuyện về món quà.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng và thích thú với món quà."
+    },
+    {
+      "step": "Đánh giá quà tặng",
+      "desc": "Trải nghiệm và đánh giá món nước được tặng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị món nước."
+    },
+    {
+      "step": "Mua hoa tặng chị",
+      "desc": "Mua hoa và mang trà sữa tặng chị gái.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm động trước tình cảm gia đình."
+    },
+    {
+      "step": "Kết thúc video",
+      "desc": "Tạm biệt và hẹn gặp lại ở clip sau.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, sẵn sàng theo dõi tiếp."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Thôi còn bây giờ thì tạm biệt mọi người nha, hẹn mọi người clip tiếp theo."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "thích",
+    "yêu thích",
+    "hấp dẫn",
+    "rẻ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Hôm nay ngày 20 tháng 10 và chủ nhật nên là cũng rất là ít đơn.",
+    "Quán này thì bài trí cũng rất là đẹp nhá. Từ không gian phục vụ mọi thứ đều ok. Nhân viên ở đây thì cực kỳ nhiệt tình.",
+    "Mọi chuyện rồi sẽ qua ngày mai trời lại sáng. Ngày mai thì cứ để ngày mai lo thôi, ngày nào cũng có khổ ngày đấy mà."
+  ],
+  "hook_content": "Hello mọi người nha, lại là Bình Nam Food Review đây. Thì hôm nay là ngày 20 tháng 10 mọi người ạ. Thường thì 20 tháng 10 là ngày của con gái thì con gái sẽ được nhận quà nhưng hôm nay mình là người được nhận quà, mọi người có tin được không?",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video kể về trải nghiệm của một bạn food reviewer làm shipper vào ngày 20/10. Bạn ấy đã bất ngờ nhận được quà từ quán nước và sau đó mua hoa tặng chị gái.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

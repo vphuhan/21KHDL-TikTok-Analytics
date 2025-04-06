@@ -1,0 +1,82 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về sự nổi tiếng của quán mì cay và lý do ghé thăm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Miêu tả quán",
+      "desc": "Quán nằm trong hẻm nhỏ, đông khách, menu đa dạng và giá hơi cao.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá mì cay",
+      "desc": "Tôm lột vỏ được cộng điểm, độ cay vừa phải, vị giống lẩu thái.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Đánh giá mì trộn",
+      "desc": "Sốt trộn ngon, đậm đà, cay hơn mì nước.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng"
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Khuyến khích thử thách độ cay của quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Ăn cùng",
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "cay",
+    "ngon",
+    "đậm đà",
+    "chua",
+    "ngọt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Review cũng phải review có tâm chứ.",
+    "Đúng là sức mạnh của mạng xã hội.",
+    "Ai mà muốn thử thách độ cay của mình thì có thể tham khảo thử."
+  ],
+  "hook_content": "Mình thấy nhiều bạn nói quá, chứ mì cay xíu nó có cay thiệt như lời đồn đâu.",
+  "hook_type": [
+    "Gây tranh cãi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán mì cay Xíu nổi tiếng, đánh giá độ cay và hương vị đặc biệt của mì cay và mì trộn. Người nói khuyến khích thử thách độ cay nếu có thể.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

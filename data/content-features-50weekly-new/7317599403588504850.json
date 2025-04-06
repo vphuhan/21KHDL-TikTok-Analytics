@@ -1,0 +1,84 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Đưa con đi học và hứa làm pizza tại nhà cho con.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Nhồi bột làm pizza và mua thêm nguyên liệu.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Sơ chế",
+      "desc": "Ướp cánh gà với sữa và dầu hào.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Làm đế bánh",
+      "desc": "Cán bột, tạo hình tròn và thêm khoai lang nghiền.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Thêm nhân bánh",
+      "desc": "Sử dụng thịt mẹ chồng cho và thêm phô mai.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Nướng bánh và cánh gà",
+      "desc": "Cho bánh vào lò nướng và nướng cánh gà.",
+      "impact_level": "3",
+      "viewer_emotion": "Hồi hộp"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Bánh chín, cắt bánh và mời mọi người cùng ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thương",
+    "thèm",
+    "hồi hộp",
+    "thơm",
+    "hấp dẫn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Bữa nay mà thành công thì sau này có thèm pizza chắc cũng tự làm nhà ăn quá, tại vì nó rẻ á mọi người.",
+    "Có một cái bánh à ba bốn người hồi hộp ngồi canh, ngồi mệt quá thì mình nằm canh luôn.",
+    "Sau một hồi ba bốn người ngồi canh á thì bánh của mình cũng đã nướng chín."
+  ],
+  "hook_content": "Bữa nay mình đưa Tùng Hân đi học mà nghe ảnh nói thấy thương lắm mọi người. Tối nay mẹ mua pizza nha.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình làm pizza tại nhà và nướng cánh gà để ăn tối cùng gia đình, bắt đầu từ việc hứa với con sẽ làm pizza, chuẩn bị nguyên liệu, sơ chế, nướng và cuối cùng là thưởng thức món ăn.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

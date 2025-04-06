@@ -1,0 +1,68 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món thịt kho Doremon và đánh giá tổng quan.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Đánh giá ban đầu",
+      "desc": "Nhận xét khách quan về độ ngon và độ ngán của món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình với nhận xét."
+    },
+    {
+      "step": "Quảng cáo sản phẩm",
+      "desc": "Giới thiệu và quảng cáo sản phẩm cà phê Laura.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không quá đặc biệt."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Đánh giá chi tiết về màu sắc và hương vị của thịt kho.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ok",
+    "ngán",
+    "ngon",
+    "khỏe",
+    "đẹp",
+    "vừa phải"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Review cả thế giới thịt kho Doremon.",
+    "mùi vị thì béo béo ngọt ngọt, sến kẹo uống ngon lắm.",
+    "mặn ngọt vừa phải, ăn cũng khá ok à nha."
+  ],
+  "hook_content": "Review cả thế giới thịt kho Doremon.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review món thịt kho Doremon, đánh giá về hương vị và màu sắc, đồng thời giới thiệu sản phẩm cà phê Laura của Nhật Kim Anh.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

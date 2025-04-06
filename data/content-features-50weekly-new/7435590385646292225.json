@@ -1,0 +1,75 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu cơm với thịt luộc, mắm dưa, đu đủ, cà pháo, củ kiệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn được giới thiệu."
+    },
+    {
+      "step": "Nếm thử và đánh giá",
+      "desc": "Nếm thử mắm dưa và các món ăn kèm, khen ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn ăn thử."
+    },
+    {
+      "step": "Hướng dẫn nêm nếm",
+      "desc": "Hướng dẫn cách nêm nếm mắm dưa cho hợp khẩu vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích và dễ áp dụng."
+    },
+    {
+      "step": "Đề xuất cách ăn",
+      "desc": "Gợi ý ăn mắm dưa với cơm không cũng ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Gợi ý hay cho bữa ăn đơn giản."
+    },
+    {
+      "step": "Nhấn mạnh hương vị",
+      "desc": "Nhấn mạnh hương vị mặn mặn thơm thơm vừa ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm nhận rõ hơn về hương vị hấp dẫn."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Bà nào muốn thử thì vô phần trưng bày TikTok shop của em nha."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "vừa ăn",
+    "thanh",
+    "thơm thơm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mình không có thịt á, lấy ăn cơm không cũng ngon.",
+    "Mặn mặn thơm thơm rất là vừa ăn luôn.",
+    "Đu đủ giờ ăn thanh á."
+  ],
+  "hook_content": "Mời mọi người ăn cơm với em nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang ăn cơm với thịt luộc và mắm dưa. Người bán vừa ăn vừa giới thiệu, đánh giá hương vị mắm dưa, đồng thời hướng dẫn cách nêm nếm và gợi ý cách ăn ngon.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

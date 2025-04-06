@@ -1,0 +1,80 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Chia sẻ về việc được tặng tôm Alaska và sự bất ngờ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Xử lý tôm",
+      "desc": "Mô tả quá trình nhận, bảo quản và hấp tôm Alaska.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chuẩn bị",
+      "desc": "Giới thiệu về chén muối tiêu và sản phẩm hỗ trợ tiêu hóa.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Trải nghiệm khui và ăn tôm Alaska, đặc biệt là phần đầu và càng.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Nhận xét về hương vị và chất lượng của tôm Alaska.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "yêu quý",
+    "quý mến",
+    "hết hồn",
+    "ngon",
+    "ngọt",
+    "béo",
+    "đã ghê",
+    "hoang mang",
+    "xứng đáng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mình thấy nguyên cái đầu con tôm Alaska chà bá lửa.",
+    "Kiểu cái thịt của nó chắc mà nó dai đến nỗi mà có thể xé ra từng sớ từng sớ luôn á.",
+    "Không có chỗ nào mà chê được luôn á."
+  ],
+  "hook_content": "từ lúc về nước cho đến giờ á thì thật sự là cũng rất là may mắn là được mọi người yêu quý rất là nhiều.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review trải nghiệm ăn tôm Alaska lần đầu, từ khâu nhận quà, chế biến đến thưởng thức và đánh giá hương vị. Người nói bày tỏ sự thích thú với chất lượng thịt tôm và hương vị đặc biệt.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

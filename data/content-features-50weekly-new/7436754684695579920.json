@@ -1,0 +1,78 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu về cá lau kiếng và sự thay đổi trong cách nhìn nhận.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị khi nghe về sự thay đổi giá trị của cá."
+    },
+    {
+      "step": "Chia sẻ quá trình mua",
+      "desc": "Chia sẻ kinh nghiệm mua cá và giá cả hiện tại.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin về giá cả."
+    },
+    {
+      "step": "Thực hiện món ăn",
+      "desc": "Mô tả cách chế biến món cá lau kiếng hấp muối.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món hấp muối."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Nhấn mạnh sự hấp dẫn và hương vị đặc biệt của món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng và muốn thử."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Mô tả trải nghiệm ăn và cảm xúc khi thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy rất ngon miệng và hấp dẫn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi nghen."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngọt",
+    "ngon",
+    "đã",
+    "cay cay",
+    "ngon tuyệt vời"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Con cá mà có cái da dày y chang như da cá sấu như vậy, thịt ngọt dai trắng phau như thịt gà.",
+    "Mọi người coi tôi gỡ cái da mà thịt cá bên trong còn mọng nước, nhìn mắt thèm ghê chưa?",
+    "Ngon mà không có từ nào để diễn tả nổi luôn á trời."
+  ],
+  "hook_content": "Con cá mà có cái da dày y chang như da cá sấu như vậy, thịt ngọt dai trắng phau như thịt gà.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video giới thiệu món cá lau kiếng hấp muối độc đáo, từ việc mua nguyên liệu đến chế biến và thưởng thức, với những đánh giá hương vị hấp dẫn và lời mời ăn cùng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

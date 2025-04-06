@@ -1,0 +1,92 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu địa điểm",
+      "desc": "Hân giới thiệu quán canh bún cua Hụm ở Cần Thơ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về địa điểm quán ăn."
+    },
+    {
+      "step": "Miêu tả không gian",
+      "desc": "Không gian quán theo phong cách Sài Gòn tân thời.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với không gian quán."
+    },
+    {
+      "step": "Giới thiệu thử thách",
+      "desc": "Giới thiệu tô canh bún khổng lồ và thử thách ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên trước kích cỡ tô bún."
+    },
+    {
+      "step": "Đánh giá topping",
+      "desc": "Hân bắt đầu ăn và đánh giá các loại topping.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung vào món ăn."
+    },
+    {
+      "step": "Đánh giá nước lèo",
+      "desc": "Đánh giá nước lèo và đưa ra lời khuyên.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị nước lèo."
+    },
+    {
+      "step": "Đánh giá sợi bún",
+      "desc": "Đánh giá sợi bún và độ dai của bún.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến chất lượng bún."
+    },
+    {
+      "step": "Kết thúc thử thách",
+      "desc": "Hân kết thúc thử thách và hẹn gặp lại.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bạn nào có khả năng thì cứ tới đây trải nghiệm thử nha.",
+    "Hẹn mọi người ở những video sau, tớ là Hân nè."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Follow kênh"
+  ],
+  "emotion_keywords": [
+    "hấp dẫn",
+    "mềm béo",
+    "ngọt thanh",
+    "đậm đà",
+    "ưng mắt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Chiến này chấn động thiệt gòi quí bà con cô bác ơi, mau mau nhào dô xem Hân ăn nổi tô Canh Bún 10kg tại Cô Hụm hong nè",
+    "Nhìn vô tô canh bún thì topping hấp dẫn mình nhất là cái xương thịt này nè, tuy nhiên có miếng mềm nhưng cũng có miếng khá là dai vì thịt dày quá ăn hơi nhức răng một xíu.",
+    "Nước lèo thì ngọt thanh đậm đà, tuy nhiên vì phần nước béo trong tóp mỡ khi cho vào bị quá nhiều nên hơi ngấy, bạn nào không ăn được nước béo thì nhớ dặn trước với quán nhe."
+  ],
+  "hook_content": "Chiến này chấn động thiệt gòi quí bà con cô bác ơi, mau mau nhào dô xem Hân ăn nổi tô Canh Bún 10kg tại Cô Hụm hong nè 🙄🙄",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Hân Nghiêm review quán canh bún Cô Hụm ở Cần Thơ và thử thách ăn tô canh bún 10kg. Cô đánh giá các thành phần của tô bún như riêu cua, chả mai cua, nước lèo và sợi bún.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

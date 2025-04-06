@@ -1,0 +1,93 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu món ăn buổi sáng là sầu riêng và mì trộn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Thấy mọi người xung quanh ăn mì trộn nên quyết định ăn theo.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Trải nghiệm nấu",
+      "desc": "Bắt đầu nấu mì và giới thiệu các bước nấu mì.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Trộn mì với topping và bắt đầu thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Đánh giá hương vị mì trộn và gợi ý ăn kèm.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Nhấn mạnh sự yêu thích với mì trộn vị thịt nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Đợi ôm hết mấy tô mì vị còn lại.",
+    "Ăn hết thì mình ra tạp hóa siêu thị hay đặt mua cũng có."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "hấp dẫn",
+    "thèm",
+    "ngon",
+    "thơm",
+    "đậm đà",
+    "dễ ăn",
+    "dai dai",
+    "ngon quá",
+    "hợp lý",
+    "dính"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Sao ai cũng ôm tô mì hấp dẫn này nhìn thấy cũng thèm theo á.",
+    "Quấn xiên thịt chung với mấy sợi mì bóng bẩy vậy nhìn có hấp dẫn không?",
+    "Nói chung là hơi bị dính gói mì vị thịt nướng này rồi á."
+  ],
+  "hook_content": "Kể cho các bạn nghe là sáng dậy đói bụng không biết ăn cái gì nên nôm đỡ hộp sầu riêng này.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video giới thiệu và review mì trộn OmtoMi vị thịt nướng, từ quá trình nấu đến cảm nhận hương vị và gợi ý ăn kèm, thể hiện sự yêu thích với sản phẩm này. Chủ kênh khuyến khích mọi người nên thử và dễ dàng tìm mua tại các cửa hàng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

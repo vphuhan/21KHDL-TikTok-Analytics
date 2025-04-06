@@ -1,0 +1,82 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món đậu hũ vàng chiên chấm nước muối hẹ đang hot.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Hướng dẫn sơ chế",
+      "desc": "Hướng dẫn sơ chế và chiên đậu hũ vàng đơn giản tại nhà.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chia sẻ công thức nước chấm",
+      "desc": "Hướng dẫn làm nước chấm truyền thống và biến tấu với nước mắm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với công thức"
+    },
+    {
+      "step": "Trình bày và thưởng thức",
+      "desc": "Trình bày món ăn và thưởng thức hai loại nước chấm khác nhau.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú muốn thử"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá hương vị của món ăn và chia sẻ cảm nhận.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung lắng nghe"
+    },
+    {
+      "step": "Gợi ý kết hợp",
+      "desc": "Gợi ý kết hợp món ăn với dưa leo và rau sống.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến gợi ý"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "béo",
+    "mặn",
+    "lạ",
+    "fresh",
+    "tươi",
+    "hợp vị",
+    "ngán"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đậu hũ nó béo béo, xong rồi chấm cái này vô cái nó mặn mặn. Cũng lạ.",
+    "Một cảm giác rất là rất là fresh, rất là tươi, rất là tính ra món này có thể ăn mỗi tháng luôn á, hợp vị nó rất là hợp cho những ngày quá ngán thịt."
+  ],
+  "hook_content": "Đậu hũ vàng chiên chấm nước muối hẹ. Nghe nói đây là món đang trend mấy bữa nay, mọi người vẫn đang xếp hàng để chờ mua ở ngoài hội quán á.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu món đậu hũ vàng chiên chấm nước muối hẹ đang hot, hướng dẫn cách làm tại nhà với hai công thức nước chấm truyền thống và biến tấu, đồng thời chia sẻ trải nghiệm và gợi ý kết hợp món ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

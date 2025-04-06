@@ -1,0 +1,87 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu hoàn cảnh",
+      "desc": "Chia sẻ về sự bận rộn và mong muốn hoàn thành công việc.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm"
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Quyết định nấu lẩu kim chi đơn giản, ấm áp.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê và cho biết giá các nguyên liệu.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Sơ chế",
+      "desc": "Luộc trứng non và rửa sạch.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Nấu lẩu",
+      "desc": "Sắp xếp rau và topping vào nồi lẩu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Trải nghiệm ăn lẩu kim chi và đánh giá hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Nhấn mạnh trải nghiệm",
+      "desc": "Nhấn mạnh trải nghiệm ăn lẩu vào buổi tối.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "ấm áp",
+    "vừa vị",
+    "hấp dẫn",
+    "hay hay",
+    "thơm",
+    "đã"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cái trứng non này ăn nó hay hay nghe, kiểu như là nó có độ dai nhẹ nó ăn nó không có bị bở.",
+    "Cái rau bạch tuộc á thì mọi người chấm vô cái chén nước mắm cay bốn trái ớt, mà nhớ là phải ăn thêm miếng ớt nữa cho nó cay với cái độ ngon nó tăng gấp đôi lên.",
+    "Tối tối mà làm được cái lẩu như vậy thì còn gì bằng."
+  ],
+  "hook_content": "mấy bữa nay bận túi bụi luôn nên đâu có đi chợ đi búa gì ở đâu. Ý là mình đi làm cũng đâu có nhiều lắm đâu. Mà ta nói bận tới nỗi không có cái đường nào binh hết.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video ghi lại quá trình nấu và thưởng thức lẩu kim chi bạch tuột trứng non tại nhà một cách đơn giản, ấm cúng. Người nấu chia sẻ về sự bận rộn và niềm vui khi có thời gian tự nấu ăn.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

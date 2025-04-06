@@ -1,0 +1,77 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu và mời ăn",
+      "desc": "Mời người lạ là các em học sinh ăn thử đồ ăn vặt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự thân thiện."
+    },
+    {
+      "step": "Gọi món và chờ đợi",
+      "desc": "Gọi các món đá bào, milo dầm, nem gà và chờ đồ ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, chờ đợi món ăn."
+    },
+    {
+      "step": "Giao lưu và review",
+      "desc": "Giao lưu, trò chuyện với các em học sinh về việc học.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy gần gũi, thân thiện."
+    },
+    {
+      "step": "Thưởng thức và nhận xét",
+      "desc": "Các em học sinh ăn thử và đưa ra nhận xét.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị."
+    },
+    {
+      "step": "Thanh toán và tạm biệt",
+      "desc": "Thanh toán tiền và tạm biệt các em học sinh.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy vui vẻ, ấm áp."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z"
+  ],
+  "cta_content": [
+    "follow của em nhá.",
+    "Follow nhá, nhớ phải follow nhá."
+  ],
+  "cta_type": [
+    "Follow kênh"
+  ],
+  "emotion_keywords": [
+    "dễ thương",
+    "bất ổn",
+    "rẻ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đi học về gọi Grab luôn",
+    "Bọn em sẽ review cùng chị khoảng độ là 3 phút.",
+    "Giời ơi dễ thương luôn."
+  ],
+  "hook_content": "Đây ăn đi ông.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video ghi lại cảnh chị gái thử thách ăn uống cùng các em học sinh THCS Chu Văn An, vừa ăn vừa trò chuyện và review các món ăn vặt.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

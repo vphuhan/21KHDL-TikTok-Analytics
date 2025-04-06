@@ -1,0 +1,89 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu thử thách",
+      "desc": "Giới thiệu thử thách ăn 11 chén bánh canh cua trong 30 phút.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về khả năng hoàn thành thử thách."
+    },
+    {
+      "step": "Giới thiệu quán ăn",
+      "desc": "Giới thiệu quán bánh canh cua nổi tiếng và các món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy quán ăn hấp dẫn, muốn đến thử."
+    },
+    {
+      "step": "Đánh giá topping",
+      "desc": "Đánh giá chi tiết các loại topping trong bánh canh cua.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng với các loại topping đa dạng."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét về hương vị nước dùng và độ ngon của món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung vào trải nghiệm hương vị."
+    },
+    {
+      "step": "Hoàn thành thử thách",
+      "desc": "Thông báo hoàn thành thử thách và thời gian thực hiện.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với khả năng ăn của người review."
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Đưa ra lời khuyên nên uống trà tắc để may mắn.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy thú vị với lời khuyên hài hước."
+    },
+    {
+      "step": "Thông tin quán",
+      "desc": "Thông báo quán mở cửa lại và địa chỉ quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ghé thăm quán khi có dịp."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mọi người tranh thủ lẹ lẹ đi nghe, địa chỉ Hân để ở trên màn hình tới liền Hân nè."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "hợp"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bánh canh ở đây nước dùng sệt sệt rất vừa ăn.",
+    "Mấy cái topping này ăn chấm cùng với muối ớt xanh của quán siêu ngon, siêu hợp luôn nha.",
+    "Nếu biết kết cục ba thố chia ra nó nhiều dữ vậy thì tôi đâu có dám mơ ước cao xa ăn hết trong vòng 30 phút."
+  ],
+  "hook_content": "đầu tiên, ăn hết 11 chén bánh canh cua trong vòng 30 phút.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video review quán bánh canh cua nổi tiếng với thử thách ăn 11 chén trong 30 phút. Người review đánh giá chi tiết về topping, hương vị và đưa ra lời khuyên cho người xem.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

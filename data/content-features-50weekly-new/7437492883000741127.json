@@ -1,0 +1,93 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món gà nướng đãi cả nhà khi về thăm ngoại.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm cúng, thân thiện"
+    },
+    {
+      "step": "Chia sẻ công thức",
+      "desc": "Hướng dẫn cách ướp gà đơn giản mà ai ăn cũng khen ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò, thích thú"
+    },
+    {
+      "step": "Trải nghiệm",
+      "desc": "Chia sẻ cảm nhận về gà Việt Nam và quá trình chuẩn bị.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu đồ gia dụng",
+      "desc": "Giới thiệu về các đồ gia dụng trong nhà đã được nâng cấp.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Hút bụi vườn",
+      "desc": "Thực hiện hút bụi ở vườn và ngạc nhiên về lượng bụi.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên, bất ngờ"
+    },
+    {
+      "step": "Nướng gà",
+      "desc": "Sử dụng nồi chiên không dầu để nướng gà nhanh chóng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú, tò mò"
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Cả nhà quây quần thưởng thức gà nướng và khen ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, vui vẻ"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Với lại là mình sẽ live vào các ngày thứ hai nè, thứ năm, thứ bảy.",
+    "Những lúc đó là ghẹ trắng đồng luôn á nên là mọi người có mua gì á thì nhớ vào live của mình mua cho rẻ nha."
+  ],
+  "cta_type": [
+    "Truy cập trang cá nhân",
+    "Xem video tiếp theo",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngọt",
+    "mê",
+    "vàng",
+    "thèm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Phải công nhận gà ở Việt Nam mình ăn mới đúng gọi là gà nè mọi người.",
+    "Nhờ hai cái nồi chiên không dầu này bữa nay cậu mình đỡ cực nè, chứ không thôi mỗi lần mà mình ăn gà nướng là cậu mình phải đốt than nướng á.",
+    "Ngồi xé con gà ra hả mà ai cũng khen hết trơn luôn á."
+  ],
+  "hook_content": "Nào bộ mình mà về nhà bộ ngoại mình á là cũng tới kiếp nạn của mấy con gà hết.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ về trải nghiệm làm gà nướng đãi cả nhà khi về thăm ngoại, đồng thời giới thiệu cách ướp gà đơn giản và các đồ gia dụng tiện ích. Cuối cùng, cả nhà quây quần thưởng thức món ăn ngon.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

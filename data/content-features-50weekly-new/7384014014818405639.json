@@ -1,0 +1,88 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món gà rán cháy tỏi và nhận xét làm nhanh, dễ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hứng thú với món ăn mới."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê nguyên liệu và gia vị cần thiết cho món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy dễ dàng tìm được nguyên liệu."
+    },
+    {
+      "step": "Ướp gà",
+      "desc": "Hướng dẫn cách ướp gà với các gia vị đã chuẩn bị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào công thức ướp."
+    },
+    {
+      "step": "Trộn bột",
+      "desc": "Trộn bột mì, bột gạo, trứng gà để tạo lớp áo cho gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về lớp áo giòn rụm."
+    },
+    {
+      "step": "Rán gà lần 1",
+      "desc": "Hướng dẫn rán gà lần đầu ở lửa nhỏ cho chín.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ thành phẩm."
+    },
+    {
+      "step": "Rán gà lần 2",
+      "desc": "Rán gà lần hai với lửa lớn hơn để tạo độ giòn.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Hoàn thành món ăn và thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn làm thử ngay lập tức."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "Ngon",
+    "thơm tỏi",
+    "giòn",
+    "đậm đà"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mình không ngờ là món này làm vừa nhanh vừa dễ như vậy.",
+    "Giòn, đậm đà, thơm tỏi.",
+    "Và đây là món gà rán ngon nhất mà từ trước đến giờ mình từng thử."
+  ],
+  "hook_content": "Mọi người có bao giờ thử món gà rán cháy tỏi chưa? Xin mời.",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm món gà rán cháy tỏi đơn giản tại nhà với các nguyên liệu dễ kiếm, món ăn được đánh giá là giòn, đậm đà và thơm tỏi.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

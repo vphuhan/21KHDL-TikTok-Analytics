@@ -1,0 +1,93 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu khu cắm trại",
+      "desc": "Địa điểm đẹp, có máy lạnh, võng, hồ bơi, view hoàng hôn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Vị trí và di chuyển",
+      "desc": "Nằm trên đồi xanh, gần hồ Trị An, cách Sài Gòn 100km.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Tiện nghi lều",
+      "desc": "Lều rộng, có view hồ, nhà vệ sinh riêng, đầy đủ tiện nghi.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng"
+    },
+    {
+      "step": "Ưu điểm khi đi trong tuần",
+      "desc": "Yên tĩnh, thoải mái, nhiều góc chụp ảnh đẹp, giá rẻ hơn.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong muốn trải nghiệm"
+    },
+    {
+      "step": "Chi phí trọn gói",
+      "desc": "Bao gồm chi phí lều, ăn uống (BBQ, sáng), hoạt động vui chơi.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm"
+    },
+    {
+      "step": "Các hoạt động giải trí",
+      "desc": "Hồ bơi, bắn cung, trang trại cún, đốt lửa trại, chiếu phim.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Lời khuyên và lưu ý",
+      "desc": "Nên đi trong tuần, chuẩn bị bàn chải, kem chống muỗi.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhớ"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Chúc cho mọi người có một chuyến đi chữa lành thành công nha."
+  ],
+  "cta_type": [
+    "Lưu video",
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "mát mẻ",
+    "thoải mái",
+    "dễ thương",
+    "vui",
+    "thích",
+    "chữa lành"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đi cắm trại mà còn có máy lạnh, nằm võng đung đưa rồi ngắm view như vậy nè.",
+    "Nằm võng ngắm hoàng hôn chiêu chiêu nhưng mà vẫn mát rượi dưới máy lạnh thì còn gì bằng nữa.",
+    "Lâu lâu cũng nên dành cho bản thân mình một đến hai ngày như vậy để tái tạo năng lượng á mọi người. Thật sự là chữa lành đúng nghĩa luôn á."
+  ],
+  "hook_content": "Lúc mà mình up story cái khu này lên là mình phải nổ inbox luôn á mọi người.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu khu cắm trại Tropical E Glamping gần hồ Trị An, với nhiều tiện nghi như máy lạnh, hồ bơi, view đẹp và các hoạt động vui chơi giải trí. Người trải nghiệm cảm thấy rất thích và khuyên mọi người nên đến để chữa lành.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

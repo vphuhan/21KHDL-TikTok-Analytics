@@ -1,0 +1,88 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu chuyến đi mua sắm",
+      "desc": "Giới thiệu về việc đi mua sắm Mikaro cùng gia đình.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Di chuyển và mua sắm",
+      "desc": "Mô tả hành trình kẹt xe và việc mua tả cho con.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Đập hộp và than thở",
+      "desc": "Đập hộp đồ mới và than thở về giá tiền.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Chuẩn bị thịt bò nướng và hành lá.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Nấu mì",
+      "desc": "Nấu mì gói với thịt bò nướng và hành lá.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Cả nhà cùng nhau ăn mì cay thịt bò hành.",
+      "impact_level": "3",
+      "viewer_emotion": "Hào hứng"
+    },
+    {
+      "step": "Nhận xét và kết thúc",
+      "desc": "Nhận xét về món ăn và trêu đùa nhau.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Bây giờ mua Mikaro về mọi người không xem là bắt đền đó nha."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "căng thẳng",
+    "bớt căng thẳng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Thủ Đức đặc sản của nó là gì? Kẹt xe.",
+    "Mình thấy hành nó ngon mà ta, bữa nay nấu mì kiểu này ta nói nó còn ngon dữ nữa.",
+    "Ăn kiểu ăn mì bòn của Hàn ngon ghê."
+  ],
+  "hook_content": "Bữa nay mọi người đi mua Mikaro chung với cả nhà của bọn mình nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video ghi lại cảnh gia đình đi mua sắm, sau đó cùng nhau nấu món mì cay thịt bò hành và thưởng thức. Mọi người cùng nhau ăn uống vui vẻ và trêu đùa nhau.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

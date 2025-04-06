@@ -1,0 +1,85 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món canh cua và cà muối, gợi sự tò mò về gạch cua.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Sơ chế cua",
+      "desc": "Hướng dẫn tách mai, yếm cua và lấy gạch cua một cách tỉ mỉ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Xay cua",
+      "desc": "Xay thân cua với hạt nêm Chinsu thay vì bột canh như mẹ dặn.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên"
+    },
+    {
+      "step": "Chắt nước cua",
+      "desc": "Chắt kỹ nước cua để giữ lại hương vị đậm đà nhất.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Phi gạch cua",
+      "desc": "Phi thơm hành tỏi rồi đổ gạch cua vào xào đến khi vàng thơm.",
+      "impact_level": "3",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Nấu canh",
+      "desc": "Đổ nước cua vào, nêm hạt nêm Chinsu và đun đến khi thịt nổi.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ"
+    },
+    {
+      "step": "Hoàn thiện và thưởng thức",
+      "desc": "Cho rau, bày gạch cua lên trên và thưởng thức món canh.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngọt",
+    "thơm",
+    "ngon",
+    "xứng đáng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Con cua nào mà nó lại nhiều gạch thế cua hoàng đế à?",
+    "Đúng là cái mùa này không cần cái món gì. Cứ bát canh cua với cà, vua chúa ngày xưa chỉ thế thôi. Bố thiên hạ luôn.",
+    "Ăn món này xong nhớ mấy món mẹ mình làm quá, mai chắc phải đi ăn pizza á."
+  ],
+  "hook_content": "Hôm đến ngần này tuổi rồi nhiều bạn vẫn tưởng là cái lớp bên trên bát canh cua nó là gạch cua đúng không?",
+  "hook_type": [
+    "Gây tò mò",
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn nấu món canh cua đồng với cà muối, bắt đầu bằng cách gây tò mò về gạch cua, sau đó hướng dẫn chi tiết từng bước từ sơ chế cua, xay, chắt nước, phi gạch đến nấu canh và thưởng thức. Cuối cùng là cảm nhận về món ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

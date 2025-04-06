@@ -1,0 +1,88 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu hoàn cảnh",
+      "desc": "Mô tả thời tiết xấu và nỗi ngán ngẩm khi phải ra đường.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với sự khó chịu khi thời tiết xấu."
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Cua tuyết được mua ở siêu thị với giá cả phải chăng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món cua tuyết và giá cả."
+    },
+    {
+      "step": "Mua sắm ở siêu thị",
+      "desc": "Dạo quanh siêu thị, ngắm nhìn các món ăn hấp dẫn khác.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có nhiều cảm xúc."
+    },
+    {
+      "step": "Chuẩn bị cua tuyết",
+      "desc": "Cua được mang về luộc với sả để tăng thêm hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi thắc mắc vì cua đã được luộc sẵn."
+    },
+    {
+      "step": "Pha nước chấm",
+      "desc": "Pha nước chấm muối tiêu ớt để ăn kèm với cua.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng vì món nước chấm hấp dẫn."
+    },
+    {
+      "step": "Thưởng thức cua",
+      "desc": "Nhận xét về hương vị và chất lượng của cua tuyết.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng và muốn ăn thử."
+    },
+    {
+      "step": "Kết thúc bữa ăn",
+      "desc": "Bữa tối chỉ có cua, không có cơm hay món khác.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy hơi thiếu vì không có thêm món khác."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngán",
+    "khổ",
+    "sang",
+    "ngon",
+    "chắc thịt",
+    "ngọt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mỗi lần thấy cái gì mà liên quan tới tuyết là thấy khổ tới nơi rồi đó.",
+    "Mà phải công nhận một điều là cái món ăn gì mà thêm chữ tuyết vô là nghe nó sang hẳn ra.",
+    "Tính ra nhờ luộc lâu mà cái nước nó ngấm vô cái mai hớp ngon ghê á."
+  ],
+  "hook_content": "Nhà đã xa trường rồi mà sáng gặp thêm cái cảnh mưa cộng tuyết nữa, tao nói nó ngán ngược.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ trải nghiệm ăn cua tuyết trong mùa đông ở Nhật Bản, từ việc mua ở siêu thị giá rẻ đến cách chế biến và thưởng thức món ăn này với nước chấm tự pha.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

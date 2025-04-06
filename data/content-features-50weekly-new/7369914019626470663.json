@@ -1,0 +1,59 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món chem chép được yêu cầu làm mukbang nhiều.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Review kem",
+      "desc": "Thử ăn kem Magnum vì thấy quảng cáo nhiều và khen ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với review sản phẩm mới."
+    },
+    {
+      "step": "Hỏi ý kiến người xem",
+      "desc": "Hỏi người xem thấy ăn chem chép như vậy đã đủ chưa.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Đặt câu hỏi"
+  ],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Múc băng chem chép trước cửa nhà vệ sinh lúc nửa đêm.",
+    "Mình thấy người ta quảng cáo cái kem Magnum này nhiều quá, mua thử về ăn mà ngon phết mọi người ạ."
+  ],
+  "hook_content": "Múc băng chem chép trước cửa nhà vệ sinh lúc nửa đêm.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang chem chép theo yêu cầu của người xem và review kem Magnum. Người nói cũng hỏi ý kiến người xem về việc ăn chem chép.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

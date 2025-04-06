@@ -1,0 +1,72 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Tự nhận dạo này sống hướng nội và hứa ra video đều.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chia sẻ",
+      "desc": "Kể chuyện bị một TikToker khác đạo nhái nội dung nấu ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Phản ứng",
+      "desc": "Bày tỏ sự khó chịu khi bị bắt chước văn phong.",
+      "impact_level": "3",
+      "viewer_emotion": "Đồng cảm"
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Khuyên người khác tự sáng tạo nội dung, làm chính mình.",
+      "impact_level": "2",
+      "viewer_emotion": "Ủng hộ"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Lời tạm biệt đầy ẩn ý.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Drama",
+    "Gen Z"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "khó chịu",
+    "xấu tính"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "lần nào đang lướt TikTok cũng nghe thấy cái kiểu văn vở vỉa hè đồng nát sắt vụn của mình",
+    "ai nhột thì tự lột xác đi, tự làm chính mình đi",
+    "Thân ái và không hẹn gặp lại"
+  ],
+  "hook_content": "Dạo này tôi cứ bị sầm hướng nội ý các bác ạ, nội tâm giằng xé.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện"
+  ],
+  "summarization": "Video chia sẻ về việc một TikToker làm nội dung nấu ăn bị người khác đạo nhái văn phong và bày tỏ sự khó chịu, đồng thời khuyên mọi người nên tự sáng tạo.",
+  "tone_of_voice": [
+    "Khó chịu",
+    "Châm biếm"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu cà phê sức khỏe của Nhật Kim Anh",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm"
+    },
+    {
+      "step": "Mô tả chi tiết",
+      "desc": "Nêu thành phần, công dụng, hương vị của cà phê",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với thông tin"
+    },
+    {
+      "step": "Nhấn mạnh trải nghiệm",
+      "desc": "Chia sẻ trải nghiệm uống cà phê hàng ngày",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với trải nghiệm"
+    },
+    {
+      "step": "Mời dùng chung",
+      "desc": "Mời mọi người ăn trái cây, uống cà phê",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thân thiện"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ghiền",
+    "đậm đà",
+    "sánh kẹo",
+    "hậu vị không chua",
+    "đã",
+    "ngon",
+    "khỏe",
+    "thích"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ai hay xem clip Thanh thì cũng biết Thanh ghiền Lau Ra cà phê là cà phê sức khỏe của chị Nhật Kim Anh.",
+    "Lau Ra cà phê vừa ngon vừa khỏe, bảo sao nhiều người thích uống."
+  ],
+  "hook_content": "Ai hay xem clip Thanh thì cũng biết Thanh ghiền Lau Ra cà phê là cà phê sức khỏe của chị Nhật Kim Anh.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu và review cà phê sức khỏe Lau Ra của Nhật Kim Anh, với các thành phần tốt cho sức khỏe và hương vị đậm đà, được người tạo video yêu thích và sử dụng hàng ngày.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

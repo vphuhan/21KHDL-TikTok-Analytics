@@ -1,0 +1,81 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu về việc chọn món ăn sáng và review mì ý.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn được lựa chọn."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu mì ý tự nấu, nhấn mạnh tính tiện lợi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy sản phẩm có vẻ hấp dẫn."
+    },
+    {
+      "step": "Trình bày quá trình nấu",
+      "desc": "Miêu tả quá trình nấu mì ý nhanh chóng và dễ dàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin rằng có thể tự nấu dễ dàng."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Nhận xét về hương vị và chất lượng của mì ý.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm ăn và muốn thử."
+    },
+    {
+      "step": "So sánh và kết luận",
+      "desc": "So sánh mì tự nấu với mì mua và đưa ra lựa chọn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tự hỏi nên chọn loại mì nào."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ví dụ mà mốt có nói thèm mì ý thì mình sẽ kêu vô giỏ hàng để sẵn trong đó rồi mua về tự nấu nha."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "béo",
+    "vừa ăn",
+    "cuốn",
+    "xuất sắc"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Có đầy đủ nguyên liệu chỉ cần bắt cái bếp lên chảo làm theo hướng dẫn này thôi.",
+    "Công nhận cái hộp mì ý nó nấu tiện lợi mà tiết kiệm thời gian hẳn luôn á. Còn về hương vị thì 10 điểm không có nhân nha.",
+    "Không nghĩ ở nhà mà nấu được dĩa mì ý chất lượng như vậy á."
+  ],
+  "hook_content": "Cứ mỗi sáng thức dậy đều có một câu hỏi trong đầu, là bữa nay mình ăn cái gì bây giờ ta.",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn",
+    "So sánh"
+  ],
+  "summarization": "Video review mì ý tự nấu, tập trung vào tính tiện lợi, nhanh chóng và hương vị ngon của sản phẩm. Người nói so sánh mì tự nấu với mì mua ngoài và khuyến khích người xem mua sản phẩm để tự nấu tại nhà.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

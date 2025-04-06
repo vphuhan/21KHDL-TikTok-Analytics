@@ -1,0 +1,86 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu bằng sự cố",
+      "desc": "Kể về việc bị sưng miệng do ăn gỏi cuốn trước đó.",
+      "impact_level": "3",
+      "viewer_emotion": "Tò mò và lo lắng."
+    },
+    {
+      "step": "Diễn tả chi tiết sự đau đớn",
+      "desc": "Miêu tả quá trình điều trị và cảm giác đau đớn khi bị bệnh.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm và xót xa."
+    },
+    {
+      "step": "Giải thích lý do làm video",
+      "desc": "Giải thích lý do vẫn làm video dù đang bị đau.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm."
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bánh tráng cuốn thịt luộc và các nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Thực hiện cuốn bánh tráng",
+      "desc": "Cùng gia đình cuốn và ăn bánh tráng cuốn thịt luộc.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ."
+    },
+    {
+      "step": "Nếm thử và đánh giá",
+      "desc": "Nếm thử và đánh giá hương vị của món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng và muốn thử."
+    },
+    {
+      "step": "Kết thúc video",
+      "desc": "Kết thúc video bằng cách tiếp tục thưởng thức món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thỏa mãn."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mình nhìn cái môi nó dày y chang như hai miếng thịt bò luôn á.",
+    "Mà tới đó bác sĩ ổng thấy cái mỏ một cái ổng muốn bỏ của chạy lấy người luôn.",
+    "Trời ơi nó đau mà nước mắt nước mũi nó chảy ròng ròng luôn á mọi người."
+  ],
+  "hook_content": "Lý do bữa trước mình ăn gỏi cuốn xong rồi lăn mất tiêu luôn là đây nè, ghê chưa mà không được cười nha.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện"
+  ],
+  "summarization": "Video kể về trải nghiệm bị sưng miệng do ăn gỏi cuốn và sau đó cả gia đình cùng nhau ăn bánh tráng cuốn thịt luộc, vừa ăn vừa trò chuyện vui vẻ. Món ăn được đánh giá là ngon miệng.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về thời tiết mưa ở Hàn và món gà hầm lá hẹ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chuẩn bị",
+      "desc": "Kể về việc đón con và các bé thích ăn cơm rong biển.",
+      "impact_level": "1",
+      "viewer_emotion": "Ấm áp"
+    },
+    {
+      "step": "Nguyên liệu",
+      "desc": "Giới thiệu nguyên liệu gà, gạo tím và cách sơ chế gà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Thực hiện",
+      "desc": "Hướng dẫn hầm gà với hành tây, hành baro, gừng, tỏi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Pha nước chấm",
+      "desc": "Hướng dẫn pha nước chấm hành tây, hành baro, tỏi ớt băm.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Trình bày",
+      "desc": "Cho gà vào chảo, giới thiệu em gái út mặc đồ mới.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Chia gà cho mọi người và cùng nhau ăn cơm.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấm cúng"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Mời mọi người ăn cơm chung với cả nhà của tụi mình."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "nóng",
+    "đói"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ba Tụi Hân chỉ cần có cái chén nước tương này thôi á là ăn hết một con gà luôn á.",
+    "Đúng miếng chảy ròng ròng luôn á."
+  ],
+  "hook_content": "Bữa nay Hàn Quốc vô mùa mưa thiệt rồi, ta nói mưa tối ngày sáng đêm luôn á mọi người.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình nấu món gà hầm lá hẹ trong một ngày mưa ở Hàn Quốc, từ khâu chuẩn bị nguyên liệu đến khi cả gia đình cùng thưởng thức bữa ăn ấm cúng.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

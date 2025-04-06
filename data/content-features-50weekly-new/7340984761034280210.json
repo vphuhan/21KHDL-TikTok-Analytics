@@ -1,0 +1,83 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu kem trứng là món ăn tuổi thơ ở Hải Phòng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn tuổi thơ."
+    },
+    {
+      "step": "Địa điểm mua",
+      "desc": "Chia sẻ địa điểm mua kem trứng mang về.",
+      "impact_level": "2",
+      "viewer_emotion": "Biết thêm một địa điểm ăn ngon."
+    },
+    {
+      "step": "Miêu tả cách làm",
+      "desc": "Miêu tả cách làm và giá thành của kem trứng.",
+      "impact_level": "1",
+      "viewer_emotion": "Nắm được thông tin cơ bản về món ăn."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá hương vị kem trứng và bánh mì chảo.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thèm ăn."
+    },
+    {
+      "step": "Đề xuất",
+      "desc": "Đề xuất cho người muốn tăng cân.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy thông tin hữu ích."
+    },
+    {
+      "step": "Nhận xét món khác",
+      "desc": "Nhận xét về nem chua rán.",
+      "impact_level": "1",
+      "viewer_emotion": "Lưu ý về món nem chua."
+    },
+    {
+      "step": "Tổng kết và địa chỉ",
+      "desc": "Tổng kết hóa đơn và địa chỉ quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Nắm được thông tin cần thiết để ghé quán."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "mê"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ăn từ bé đến giờ không biết là bao nhiêu lần rồi nhưng mà bây giờ tôi mới biết là kem trứng có thể mua mang về",
+    "Bác nào mà gầy quá ăn hoài ăn mãi không lên được cân thì các bác có thể cân nhắc món này xem sao nha",
+    "Cái chất kem trứng đánh lên ấy nó rất là sánh mịn vị ngọt ngậy béo chấm với cả bánh mì giòn tan vẫn còn âm ấm nữa thì mê luôn đấy"
+  ],
+  "hook_content": "Món này ở Hải Phòng chỉ dùng đúng lòng đỏ trứng gà sống với cả đường thôi, thế mà là tuổi thơ của rất nhiều người trong đấy có cả tôi luôn đấy.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món kem trứng tuổi thơ ở Hải Phòng, chia sẻ trải nghiệm ăn tại quán ở đường Đà Nẵng, miêu tả hương vị, cách làm và giá cả, đồng thời gợi ý cho người muốn tăng cân. Ngoài ra, video cũng đánh giá thêm về món bánh mì chảo và nem chua dán tại quán.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

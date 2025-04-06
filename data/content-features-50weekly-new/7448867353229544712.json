@@ -1,0 +1,95 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu bún bò Ánh Sen và các món ăn kèm, giá cả.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán ăn của diễn viên."
+    },
+    {
+      "step": "Đánh giá ốc rang muối",
+      "desc": "Nhận xét về độ tươi của ốc và hương vị nước sốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món ốc rang muối."
+    },
+    {
+      "step": "Thử nghiệm bún bò",
+      "desc": "Thử nước bún bò chưa hâm và đã hâm, đánh giá topping.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử bún bò để so sánh."
+    },
+    {
+      "step": "Bàn luận về review quán nghệ sĩ",
+      "desc": "Chia sẻ lý do review quán Nguyệt Ánh và quan điểm cá nhân.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với quan điểm của người review."
+    },
+    {
+      "step": "Đánh giá hương vị bún bò",
+      "desc": "Nhận xét chi tiết về hương vị nước dùng và chất lượng thịt.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy đói bụng và muốn ăn ngay."
+    },
+    {
+      "step": "Phản hồi bình luận",
+      "desc": "Giải thích về việc vắt chanh và ăn rau trong clip trước.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy thông tin hữu ích và rõ ràng hơn."
+    },
+    {
+      "step": "Tổng kết và khuyến nghị",
+      "desc": "Đánh giá chung và gợi ý nên ghé quán nếu phù hợp.",
+      "impact_level": "2",
+      "viewer_emotion": "Cân nhắc ghé thăm quán."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người đã coi clip của mình, bye bye."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "thanh",
+    "ngọt",
+    "mát",
+    "vừa",
+    "tươi",
+    "đậm đà",
+    "ngon",
+    "sạch sẽ",
+    "cân bằng",
+    "vừa phải",
+    "hiền"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ốc chín mươi lăm nghìn nha mọi người ơi, ăn này xong tôi không dám, không dám đi, không dám đi luôn á.",
+    "Có hao tôi nói vậy á, ốc này phải công nhận là tươi á. Công nhận nó rất là tươi có hao nói vậy, tươi lắm.",
+    "Thật sự với tôi á là cái nước dùng này ừm ai mà thích ăn đậm nha, ừm phải hiểu rõ nha thích ăn đậm đà nè có ruốc ruốc, mắm mắm ừm kiểu đậm đà kiểu như vậy á thì mới ăn được cái tô này nha."
+  ],
+  "hook_content": "Trên mạng Bún Bò Ánh Sen của diễn viên Nguyệt Ánh. ngoài đời nha mọi người ơi bún bò Ánh Sen đây chín mươi lăm cành nha mọi người ơi, còn cái óc này cũng lại chín mươi lăm cành luôn, ly nước này là hai mươi lăm bún bò chín lăm óc chín mươi lăm cành nha, nước.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quán bún bò Ánh Sen của diễn viên Nguyệt Ánh, tập trung đánh giá hương vị món ăn, chất lượng nguyên liệu và chia sẻ quan điểm về việc nghệ sĩ làm kinh doanh. Người review cũng phản hồi các bình luận từ video trước và đưa ra lời khuyên khách quan.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu bánh đúc nóng gia truyền 50 năm ở chợ Mơ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị truyền thống."
+    },
+    {
+      "step": "Miêu tả món ăn",
+      "desc": "Bánh đúc đầy thịt, trứng cút, đậu rán, mắm đậm đà.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng, muốn ăn thử."
+    },
+    {
+      "step": "Hành trình giữ nghề",
+      "desc": "Cô Lâm giữ lửa nghề của mẹ, bán bánh bằng nồi gang.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm động trước sự tâm huyết."
+    },
+    {
+      "step": "Giá cả và ưu đãi",
+      "desc": "Bát bánh 15-30k đầy thịt, xin thêm bánh thoải mái.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng về độ hào phóng."
+    },
+    {
+      "step": "Món ăn kèm",
+      "desc": "Tàu phớ trân châu dừa nước đường hoa nhài 10-15k.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với món tráng miệng."
+    },
+    {
+      "step": "Địa điểm",
+      "desc": "Quán ở 42 Lĩnh Nam.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhớ địa chỉ."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Truyền thống"
+  ],
+  "cta_content": [
+    "Bác nào mà thích cái vị bánh đúc xưa đẫm thịt thì đừng ngại qua cô Lâm ủng hộ cho cô có thêm động lực nha, đảm bảo không thất vọng đâu."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ấm",
+    "ngon",
+    "vui"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nấu bằng tất cả tình cảm và đam mê ấy con.",
+    "Cô chỉ sợ khách đói nên cho nhiều thịt lắm mà bánh thì xin thêm thoải mái luôn.",
+    "Ăn nghe lúc nóng thì ấm hết từ trong ra ngoài."
+  ],
+  "hook_content": "Nấu nóng ra truyền nhà cô rồi 50 năm rồi con ạ. Từ thời u cô bán nổi tiếng chợ Mơ cũ ấy.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu quán bánh đúc nóng gia truyền 50 năm ở Lĩnh Nam, Hà Nội, với món bánh đúc đầy đặn thịt và các món ăn kèm hấp dẫn. Cô chủ quán tâm huyết và hào phóng, tạo nên trải nghiệm ẩm thực ấm áp.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu mở đầu",
+      "desc": "Giới thiệu về việc đi massage và trải nghiệm xé baby chi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về trải nghiệm massage độc đáo."
+    },
+    {
+      "step": "Miêu tả dịch vụ",
+      "desc": "Giới thiệu chi tiết về các dịch vụ massage tại Manny Spa.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng của dịch vụ."
+    },
+    {
+      "step": "Đánh giá trải nghiệm",
+      "desc": "Chia sẻ cảm nhận về chất lượng massage cổ truyền Thái và chân.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với kỹ thuật massage chuyên nghiệp."
+    },
+    {
+      "step": "Tiện nghi và dịch vụ khác",
+      "desc": "Giới thiệu các tiện nghi như gội đầu, khu xông hơi, và khu tắm.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy tiện lợi và đầy đủ dịch vụ."
+    },
+    {
+      "step": "Kết thúc và đánh giá chung",
+      "desc": "Đánh giá chung về trải nghiệm và giới thiệu đồ ăn nhẹ.",
+      "impact_level": "2",
+      "viewer_emotion": "Hài lòng với trải nghiệm toàn diện."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "bạn nào mà thích massage á thì có thể lưu lại chỗ này nha"
+  ],
+  "cta_type": [
+    "Lưu video",
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "đã",
+    "phê",
+    "thích",
+    "buồn ngủ",
+    "ok"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đi massage mà gặp tiểu tam nên là xé đầu nó luôn.",
+    "Vừa đã cái lưng, vừa phê cái chân mà còn có baby chi mang về nữa.",
+    "Mấy bạn mà làm văn phòng xong rồi vô đây massage bữa ha, về ngủ chắc 24 tiếng đồng hồ đó, đã lắm."
+  ],
+  "hook_content": "Không phải vàng đúng không? Ủa? Ủa? Oh, mắt nướng.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review về trải nghiệm massage tại Manny Spa, bao gồm massage cổ truyền Thái, massage chân, gội đầu và các tiện nghi khác. Người xem được khuyến khích lưu lại địa điểm nếu yêu thích massage.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

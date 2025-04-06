@@ -1,0 +1,67 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu phô mai con bò cười hình vuông đang hot.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hình dáng mới lạ."
+    },
+    {
+      "step": "Trải nghiệm sản phẩm",
+      "desc": "Ăn và miêu tả mùi vị, cảm nhận về phô mai.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng, muốn ăn thử."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Phô mai rất ngon và không hề ngán.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú, đồng tình."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Phô mai được làm thành viên nhỏ cho trẻ con.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin thêm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Gen Z"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thích",
+    "không ngán"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mình chẳng hiểu sao phô mai con bò cười ngon như thế mà nhiều người chê.",
+    "Trời cái này á hả, mình ăn cả bịch, hai ba bốn bịch cũng được luôn, không có một chút ngán nào luôn ý.",
+    "Nhìn nó nung ninh nung ninh thích lắm luôn."
+  ],
+  "hook_content": "hôm nay mình đây là phô mai con bò cười nhưng không phải là phô mai con bò cười hình tam giác mọi người ạ.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video mukbang phô mai con bò cười hình vuông, người ăn đánh giá phô mai rất ngon, không ngán và thích thú với hình dáng mới lạ. Phô mai viên nhỏ có thể dành cho trẻ con.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

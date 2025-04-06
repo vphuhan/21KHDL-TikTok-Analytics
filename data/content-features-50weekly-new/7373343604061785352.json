@@ -1,0 +1,93 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu rau nhíp",
+      "desc": "Giới thiệu về rau nhíp Oanh Ka và sự mong chờ được thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về loại rau mới."
+    },
+    {
+      "step": "Sơ chế rau",
+      "desc": "Nhặt rau, loại bỏ phần già, và nhận xét về độ sạch.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Luộc rau",
+      "desc": "Tiến hành luộc rau để chuẩn bị cho bước xào.",
+      "impact_level": "1",
+      "viewer_emotion": "Đơn giản, dễ thực hiện."
+    },
+    {
+      "step": "Xào rau",
+      "desc": "Xào rau với thịt và gia vị theo cách thông thường.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi đói bụng khi xem."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Thưởng thức và đánh giá món rau nhíp xào thịt tự làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn biết vị món ăn ra sao."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Tự nhận xét nấu ăn dở nhưng vẫn đánh giá vị rau.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hài hước."
+    },
+    {
+      "step": "Kết luận và khuyến nghị",
+      "desc": "Khuyến nghị nên mua rau và tự chế biến nếu biết nấu ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Rồi cảm ơn mọi người đã có clip với em, Bye bye."
+  ],
+  "cta_type": [
+    "Thích video",
+    "Follow kênh"
+  ],
+  "emotion_keywords": [
+    "dở",
+    "thèm",
+    "ngon",
+    "dễ chịu",
+    "ok",
+    "tốt sức khỏe"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Em nói thiệt sự là quá dở luôn.",
+    "Em đang đánh giá cho cái vị rau thôi, chứ không đánh giá cái vị nêm nếm của em nha.",
+    "Nói chung là cái rau này ok nha mọi người ơi, nên mua, và tất cả những gì mà em review là sự thật đó, cái rau này là thiệt nè, rau này tin đi, cứ ăn đi, tại em thấy cái rau này cũng bao nhiêu hết mà."
+  ],
+  "hook_content": "nói thiệt sự là quá dở luôn. Ôi trời trời trời trời trời. Trên mạng Rau Nhíp.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video ghi lại quá trình một người thử nấu món rau nhíp xào thịt sau khi xem trên mạng. Mặc dù tự nhận nấu ăn dở, người này vẫn chia sẻ trải nghiệm và đánh giá hương vị của rau nhíp, đồng thời khuyến khích mọi người nên thử nếu biết nấu ăn.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

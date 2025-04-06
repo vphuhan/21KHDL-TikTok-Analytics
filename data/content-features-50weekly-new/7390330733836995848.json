@@ -1,0 +1,91 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người ăn chay, ăn healthy",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món cơm lươn làm từ cà tím, ai cũng làm được.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn độc đáo này."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê nguyên liệu: cà tím, rong biển, gia vị.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, chuẩn bị nấu ăn."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Hướng dẫn sơ chế: gọt vỏ, cắt lát, ngâm cà tím.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy dễ thực hiện theo."
+    },
+    {
+      "step": "Pha sốt",
+      "desc": "Pha nước sốt từ nước cốt rong biển và các gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với công thức sốt."
+    },
+    {
+      "step": "Chế biến cà tím",
+      "desc": "Luộc sơ, áp chảo cà tím với sốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi mùi thơm cà tím."
+    },
+    {
+      "step": "Hoàn thiện và trình bày",
+      "desc": "Trình bày món ăn với cơm nóng và dầu mè.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng món ăn."
+    },
+    {
+      "step": "Thưởng thức và khuyến khích",
+      "desc": "Miêu tả hương vị và khuyến khích làm theo.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử làm ngay."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Nhớ thử nha."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "mặn mặn ngọt ngọt",
+    "đúng chuẩn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "cơm lương này được làm bằng cà tím",
+    "phần nước sốt sẽ áo đều lên phần cà tím, ăn mặn mặn ngọt ngọt",
+    "Có tí mè rang và hành lá lên nữa thì ăn đúng chuẩn luôn"
+  ],
+  "hook_content": "Hôm nay mình sẽ làm cơm lương nha, mà món này thì hầu như là ai cũng có thể làm được hết.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món cơm lươn chay từ cà tím một cách đơn giản và tiết kiệm. Món ăn có vị mặn ngọt hài hòa, thơm ngon và dễ làm tại nhà.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

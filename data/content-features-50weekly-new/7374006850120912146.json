@@ -1,0 +1,65 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu bánh trung mai hàng real và bắt đầu ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món bánh trung mai."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Người ăn cố gắng ăn và thể hiện cảm xúc khi ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với cách ăn."
+    },
+    {
+      "step": "Nhận xét",
+      "desc": "Nhận xét về việc bánh không dính răng và miếng ăn to.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Ăn gần hết bánh và kết thúc phần mukbang.",
+      "impact_level": "1",
+      "viewer_emotion": "Không có cảm xúc mạnh."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "cố",
+    "ăn được miếng to",
+    "mất ruồi"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Hôm nay mình đã tìm được bánh trung mai hàng real.",
+    "Sao mai không dính răng vậy?",
+    "Nhai được hai phát cắn là như này nhá."
+  ],
+  "hook_content": "Em để chị đi. Vâng.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh mukbang bánh trung mai của hai người. Họ ăn và đưa ra một vài nhận xét ngắn gọn về món ăn.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

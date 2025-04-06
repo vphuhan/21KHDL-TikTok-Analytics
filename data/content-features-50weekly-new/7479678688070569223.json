@@ -1,0 +1,86 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu hai loại xúc xích phô mai Thái Lan: nấm Truffle và thường.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự khác biệt giữa hai loại."
+    },
+    {
+      "step": "Chia sẻ trải nghiệm không tốt",
+      "desc": "Than phiền về việc bị hủy đơn hàng nhiều lần trước đó.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm với sự khó khăn của người bán."
+    },
+    {
+      "step": "Chiên xúc xích",
+      "desc": "Thực hiện chiên hai loại xúc xích phô mai trong dầu.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức chờ đợi kết quả."
+    },
+    {
+      "step": "Nếm thử và đánh giá",
+      "desc": "Nếm thử và đưa ra đánh giá chi tiết về hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Mong chờ để biết hương vị thực tế."
+    },
+    {
+      "step": "So sánh hai loại",
+      "desc": "So sánh và đánh giá loại nào ngon và đáng tiền hơn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cân nhắc lựa chọn giữa hai loại."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Đưa ra kết luận cuối cùng và lời khuyên cho người xem.",
+      "impact_level": "2",
+      "viewer_emotion": "Có được cái nhìn tổng quan về sản phẩm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người đã coi clip.",
+    "Bai bai."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "mặn",
+    "bình thường",
+    "thơm",
+    "béo",
+    "lạ miệng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mấy má thí dụ nhắm cảm giác được là mình nhận được cái đơn người ta thì mình nhận, còn cảm giác là mình cảm giác mình không sắp được cái đơn đó thì mình nói cho người ta để người ta tìm chỗ khác.",
+    "Cái Truffle á nó nhiều phô mai hơn nha mọi người, đó thấy hông? Nó béo béo. Thì rất là thơm. Rất thơm cái Truffle luôn.",
+    "Nếu mà là cái cục a Truffle nó okay hơn là cái cục a màu vàng nha, hay gì nó mắc."
+  ],
+  "hook_content": "Chết ba này. Trên mạng xúc xích phô mai Thái Lan.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review hai loại xúc xích phô mai Thái Lan: vị thường và vị nấm Truffle. Người bán vừa chiên vừa ăn thử, so sánh hương vị và đưa ra đánh giá khách quan về sản phẩm.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

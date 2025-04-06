@@ -1,0 +1,68 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu bản thân và món ăn chuẩn bị review.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Trải nghiệm món mì",
+      "desc": "Mở hộp mì, miêu tả thành phần và bắt đầu ăn thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Trải nghiệm hamburger",
+      "desc": "Miêu tả thành phần hamburger và cảm nhận hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Đưa ra đánh giá về độ ngon và đặc biệt của món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thích",
+    "thơm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "nước sốt ở Jollibee khá ngon nha",
+    "bên trong thịt rất là mềm luôn",
+    "nước sốt của nó rất là đặc biệt á"
+  ],
+  "hook_content": "Lần đầu tiên ăn thử gà rán của Jollibee.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video ghi lại quá trình Út Phùng Kim ăn thử các món ăn tại Jollibee, bao gồm mì và hamburger, đồng thời đưa ra cảm nhận về hương vị và chất lượng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

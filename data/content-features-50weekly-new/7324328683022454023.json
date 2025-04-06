@@ -1,0 +1,85 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu tình huống",
+      "desc": "Ra mắt nhà người yêu và bóc bánh chưng gây ấn tượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Hướng dẫn chuẩn bị",
+      "desc": "Dùng lạt gói bánh chưng, tước sợi mảnh và nhỏ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "Thao tác thắt nút",
+      "desc": "Thắt nút hai sợi lạt, đánh số để dễ hình dung.",
+      "impact_level": "2",
+      "viewer_emotion": "Chú ý"
+    },
+    {
+      "step": "Lưu ý bóc lá",
+      "desc": "Tách đôi lá, bóc từng bên để bánh không xê dịch.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm"
+    },
+    {
+      "step": "Hướng dẫn rút lạt",
+      "desc": "Rút dây theo thứ tự: đặt trước rút trước, ngang trước.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "Tiêu chí bánh đẹp",
+      "desc": "Cắt bánh như không cắt, bề mặt phẳng.",
+      "impact_level": "3",
+      "viewer_emotion": "Ngạc nhiên"
+    },
+    {
+      "step": "Kết thúc hài hước",
+      "desc": "Đi ra mắt thêm 10 người yêu nữa.",
+      "impact_level": "3",
+      "viewer_emotion": "Vui vẻ"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Gen Z"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "duyệt",
+    "dễ",
+    "đẹp"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ra mắt nhà người yêu mà bóc bánh chưng như thế này, cả họ nhà người yêu bấm nút duyệt vào việc luôn.",
+    "Các bác biết tiêu chí của một cái bánh chưng đẹp là gì không? Là cắt rồi mà như không cắt đấy.",
+    "Thôi thế nhá, tôi còn phải sắm sửa chuẩn bị đi ra mắt thêm 10 thằng người yêu nữa đây."
+  ],
+  "hook_content": "Ra mắt nhà người yêu mà bóc bánh chưng như thế này, cả họ nhà người yêu bấm nút duyệt vào việc luôn.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video hướng dẫn cách bóc bánh chưng bằng lạt một cách dễ dàng và đẹp mắt, tạo ấn tượng tốt với gia đình người yêu. Người nói còn hài hước chia sẻ về việc đi ra mắt nhiều người yêu.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

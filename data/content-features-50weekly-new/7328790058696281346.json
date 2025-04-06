@@ -1,0 +1,86 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món gỏi bò sốt thái và ưu điểm của món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê các nguyên liệu cần thiết để làm gỏi bò sốt thái.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Hướng dẫn sơ chế xoài, cóc non và thịt bò.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích."
+    },
+    {
+      "step": "Pha chế nước sốt",
+      "desc": "Hướng dẫn pha chế nước sốt và đun đến khi sệt lại.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến tỉ lệ."
+    },
+    {
+      "step": "Trộn gỏi",
+      "desc": "Trộn đều các nguyên liệu đã sơ chế với nước sốt.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Hoàn thiện và thưởng thức",
+      "desc": "Thêm tiêu, hành phi và gợi ý ăn kèm bánh phồng tôm.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn làm thử ngay."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Nhớ trổ tài làm món này nha, siêu bắt miệng luôn."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "siêu mềm",
+    "cay cay",
+    "ngọt ngọt",
+    "chua",
+    "giòn",
+    "bắt miệng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bò thì siêu mềm, sốt thái thì cay cay, ngọt ngọt, cộng với vị chua của xoài và cóc non nữa.",
+    "Món này mọi người làm thì chỉ có là 15 điểm luôn.",
+    "Món này ăn với lại bánh phồng tôm hoặc bánh đa nướng á thì số zách luôn, chứ còn gì nữa."
+  ],
+  "hook_content": "Mình không thích ăn gỏi, nhưng mà nhất định mọi người phải thử món gỏi bò sốt thái này.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món gỏi bò sốt thái với các nguyên liệu dễ tìm và cách chế biến đơn giản, phù hợp để làm tại nhà, đặc biệt vào dịp Tết.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

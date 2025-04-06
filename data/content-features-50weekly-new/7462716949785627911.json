@@ -1,0 +1,94 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu các món ngâm tương và lý do tự làm tại nhà",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ngâm tương tự làm."
+    },
+    {
+      "step": "Nấu nước tương",
+      "desc": "Hướng dẫn nấu nước tương chung và riêng cho từng món",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy công thức có vẻ phức tạp và thú vị."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Hướng dẫn chọn và sơ chế tôm, cá hồi, trứng",
+      "impact_level": "2",
+      "viewer_emotion": "Lo lắng về độ tươi của nguyên liệu."
+    },
+    {
+      "step": "Ngâm các món",
+      "desc": "Hướng dẫn ngâm lòng đỏ trứng, tôm, cá hồi",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú với cách trình bày và nguyên liệu."
+    },
+    {
+      "step": "Thành phẩm",
+      "desc": "Giới thiệu thành phẩm sau khi ngâm",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử ngay."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Đánh giá hương vị và cách ăn kèm",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy ngon miệng và muốn làm theo."
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Lời khuyên khi làm và kết thúc video",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích và muốn chia sẻ."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Bác nào cũng mê đồ ngâm tương thì có thể thử các công thức như tui đã gợi ý, chứ đi mua cũng mắc lắm trời ơi."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "hấp dẫn",
+    "dẻo quẹo",
+    "mướt mượt",
+    "đằm",
+    "vừa vặn",
+    "ngon",
+    "mlem",
+    "rớt nước miếng",
+    "mê"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đồ ngâm tương đã lâu nhưng đây đúng là lần đầu tiên mình dám thử tự ngâm tại nhà.",
+    "Mấy cái loại này đặc biệt ăn cùng với cơm trộn rong biển vụn nó cứ phải gọi là nhức nách luôn.",
+    "Bác nào cũng mê đồ ngâm tương thì có thể thử các công thức như tui đã gợi ý, chứ đi mua cũng mắc lắm trời ơi."
+  ],
+  "hook_content": "Đồ ngâm tương đã lâu nhưng đây đúng là lần đầu tiên mình dám thử tự ngâm tại nhà.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn cách làm các món ngâm tương tại nhà như lòng đỏ trứng, tôm, cá hồi, trứng lòng đào. Người làm chia sẻ kinh nghiệm, công thức và cách thưởng thức các món này.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

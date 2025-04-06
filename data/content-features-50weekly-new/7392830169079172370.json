@@ -1,0 +1,60 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món cua Dì Ba và thể hiện sự hào hứng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Đánh giá ban đầu",
+      "desc": "Nhận xét về hình thức của món cua Dì Ba.",
+      "impact_level": "1",
+      "viewer_emotion": "Băn khoăn"
+    },
+    {
+      "step": "Thử món ăn",
+      "desc": "Nếm thử món cua Dì Ba.",
+      "impact_level": "2",
+      "viewer_emotion": "Chờ đợi"
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Đưa ra đánh giá cuối cùng về món cua Dì Ba.",
+      "impact_level": "2",
+      "viewer_emotion": "Thất vọng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "tiếc"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cua Dì Ba sao lại óp thế nhở?",
+    "Rất tiếc khi đây là cua Dì Ba gần nhà mình cho nên nó cũng không được ngon cho lắm."
+  ],
+  "hook_content": "review cả thế giới lần đầu thử cua Dì Ba.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review món cua Dì Ba, người nói thử món ăn và đưa ra đánh giá không mấy tích cực về chất lượng.",
+  "tone_of_voice": [
+    "Trung lập"
+  ]
+}

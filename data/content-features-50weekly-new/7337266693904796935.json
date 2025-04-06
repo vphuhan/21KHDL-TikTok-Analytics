@@ -1,0 +1,74 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món mì tiết kiệm",
+      "desc": "Hướng dẫn nấu mì tiết kiệm, phù hợp cho những người ngán bánh chưng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách nấu mì tiết kiệm."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Cho rau, kim chi, gia vị, càng cua, nấm và topping tùy thích.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn bởi sự đa dạng của topping."
+    },
+    {
+      "step": "Nấu và trang trí mì",
+      "desc": "Ninh càng cua, cho mì và các topping vào, trang trí cho đẹp mắt.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thú vị với cách trang trí món ăn."
+    },
+    {
+      "step": "Thưởng thức mì",
+      "desc": "Ăn mì kèm rau cải, thịt để đủ chất và tránh bị nóng.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đói bụng và thèm ăn."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nấm giòn ngon, mì tiết kiệm và vừa miệng, xương ninh ngọt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với những đánh giá chân thật."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "tiết kiệm",
+    "vui"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mì mà mình ăn thập cẩm như kiểu là nem được, thích ăn cái gì thì cho cái đấy vào được.",
+    "Mùa đông mà có một nồi mì như này thì chấm hết bài thơ luôn.",
+    "Công nhận là ăn kiểu này vừa tiết kiệm lại còn vừa ngon."
+  ],
+  "hook_content": "Hôm nay mình sẽ hướng dẫn để ăn mì cực kỳ tiết kiệm mà mình nghĩ là ai cũng có thể làm được.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn cách nấu mì tiết kiệm với các nguyên liệu dễ kiếm, phù hợp cho những người muốn đổi vị sau Tết. Người làm video chia sẻ trải nghiệm ăn mì của mình và đánh giá hương vị món ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

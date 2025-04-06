@@ -1,0 +1,84 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu thời tiết và mùa dâu",
+      "desc": "Chia sẻ về thời tiết thất thường và mùa dâu tây ở Nhật.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chọn mua dâu tây và mực",
+      "desc": "Chọn dâu tây to và mực hồng, chia sẻ giá cả.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Giới thiệu vòng trầm",
+      "desc": "Giới thiệu vòng trầm đã đeo 2 năm và ý nghĩa.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Ăn thử dâu tây",
+      "desc": "Mời mọi người ăn dâu tây ngọt, khác biệt so với dâu chua.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Ăn thử mực hồng",
+      "desc": "Mời mọi người ăn mực hồng đã chín, giòn và ngọt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Nhấn mạnh nước chấm ngon",
+      "desc": "Khen nước chấm ngon, tăng thêm hương vị cho món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người ai mà có cần vòng trầm thì cứ việc nhắn qua bên chị Thanh Nhàn ha."
+  ],
+  "cta_type": [
+    "Truy cập trang cá nhân"
+  ],
+  "emotion_keywords": [
+    "ngọt",
+    "giòn",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái dâu tây này á thì nó đặc biệt một điều là cái trái của nó không những to đâu mà nó chỉ ngọt chứ không có bị chua một miếng nào hết.",
+    "Nhìn vậy thôi đó nghe nhưng mà cái mực này ăn vào vẫn có một cái độ ngọt chứ không phải là lạc nhách lạc nhẽo đâu.",
+    "Được cái là hôm nay cái nước chấm này chấm quá là ngon nữa."
+  ],
+  "hook_content": "Bây giờ đã là giữa tháng 3 rồi mà sáng mở mắt ra thấy cảnh vẫn còn tuyết.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video chia sẻ trải nghiệm ăn dâu tây ngọt và mực hồng tại Nhật Bản, đồng thời giới thiệu về chiếc vòng trầm và địa chỉ mua vòng. Người nói nhấn mạnh hương vị đặc biệt của dâu tây và mực, cũng như độ ngon của nước chấm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

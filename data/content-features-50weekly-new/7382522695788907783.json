@@ -1,0 +1,88 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu thử thách",
+      "desc": "Giới thiệu về thử thách ăn 100 cuộn sushi để nhận 5 triệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ khó của thử thách."
+    },
+    {
+      "step": "Địa điểm thử thách",
+      "desc": "Địa điểm thực hiện thử thách tại nhà hàng Sushi Tei.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết thêm thông tin về địa điểm."
+    },
+    {
+      "step": "Thể lệ cuộc thi",
+      "desc": "Hướng dẫn cách tham gia, ký cam kết và quy định về giải thưởng.",
+      "impact_level": "2",
+      "viewer_emotion": "Nắm rõ luật chơi của thử thách."
+    },
+    {
+      "step": "Chi tiết món ăn",
+      "desc": "Giới thiệu về khay sushi 100 cuộn với 20 loại khác nhau.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng về sự đa dạng của món ăn."
+    },
+    {
+      "step": "Quá trình ăn",
+      "desc": "Mô tả quá trình ăn và tốc độ ăn nhanh chóng của hai người.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với tốc độ ăn của người tham gia."
+    },
+    {
+      "step": "Dự đoán kết quả",
+      "desc": "Đưa ra dự đoán về khả năng thành công của thử thách.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về kết quả cuối cùng."
+    },
+    {
+      "step": "Thông tin bổ sung",
+      "desc": "Nhắc nhở về số lượng giải thưởng có hạn và địa điểm áp dụng.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết thêm về thông tin của cuộc thi."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nên ai mà cũng muốn thử sức thì biết phải làm gì rồi đó nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "cuốn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Vừa được ăn sushi no nê mà còn có 5 triệu mang về nữa thì ngại gì mà không thử.",
+    "Hai người mà ăn nhiêu đây á là nằm trong tầm tay.",
+    "Khi thử thách trôi qua gần 10 phút đầu, ta nói ăn nó ngon và nó cuốn dữ lắm nên là không muốn dừng luôn mọi người."
+  ],
+  "hook_content": "thử thách hai người ăn hết 100 cuộn sushi trong vòng 30 phút, nhận ngay 5 triệu và cái kết.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video giới thiệu thử thách ăn 100 cuộn sushi tại nhà hàng Sushi Tei để nhận 5 triệu đồng, đồng thời chia sẻ trải nghiệm và thông tin chi tiết về cách tham gia thử thách này. Video mang đến cái nhìn hấp dẫn về một thử thách ẩm thực thú vị.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

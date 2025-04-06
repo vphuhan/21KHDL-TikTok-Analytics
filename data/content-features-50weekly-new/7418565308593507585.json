@@ -1,0 +1,74 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu hai địa điểm Jollibee với đánh giá khác nhau.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự khác biệt giữa hai địa điểm."
+    },
+    {
+      "step": "Đánh giá Jollibee tệ",
+      "desc": "Đánh giá không gian, thời gian chờ đợi và món ăn ở Jollibee tệ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thắc mắc liệu trải nghiệm có tệ như đánh giá."
+    },
+    {
+      "step": "Đánh giá Jollibee tốt",
+      "desc": "Đánh giá không gian, thời gian chờ đợi và món ăn ở Jollibee tốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy sự khác biệt rõ rệt so với địa điểm trước."
+    },
+    {
+      "step": "So sánh và kết luận",
+      "desc": "So sánh tổng quan và đưa ra kết luận về hai địa điểm.",
+      "impact_level": "2",
+      "viewer_emotion": "Rút ra được thông tin hữu ích để lựa chọn."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "sảng khoái",
+    "ngon",
+    "giòn",
+    "ngon đỉnh nóc",
+    "kịch trần",
+    "tệ"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Tôi chưa ăn khoai tây chiên ở đâu nó ỉu như thế này.",
+    "Ngon đỉnh nóc, kịch trần.",
+    "Tóm lại là đồ ăn ở quán gần năm sao chất lượng hơn quán hai sao nhá, nhưng không gian ở quán gần năm sao lại bí bách hơn nhá."
+  ],
+  "hook_content": "Đây là Jollibee được đánh giá thấp nhất. Còn đây là Jollibee được đánh giá gần năm sao.",
+  "hook_type": [
+    "So sánh",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "So sánh",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video so sánh trải nghiệm tại hai chi nhánh Jollibee với đánh giá khác nhau, tập trung vào chất lượng đồ ăn, không gian quán và thời gian phục vụ để đưa ra nhận xét khách quan.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

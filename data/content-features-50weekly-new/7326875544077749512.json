@@ -1,0 +1,98 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về kế hoạch cuối tuần và chuyến đi thăm bà nội.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đến thăm bà nội",
+      "desc": "Đến nhà bà nội, ăn cơm và tặng quà massage.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp"
+    },
+    {
+      "step": "Giới thiệu súng massage",
+      "desc": "Giới thiệu về súng massage và công dụng của nó.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Chuẩn bị nguyên liệu làm bánh xèo miền Tây.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đổ bánh xèo",
+      "desc": "Hướng dẫn đổ bánh xèo mỏng và giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Mẹ chồng trổ tài",
+      "desc": "Mẹ chồng Hàn Quốc đổ bánh xèo theo kiểu miền Tây.",
+      "impact_level": "3",
+      "viewer_emotion": "Vui vẻ"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Cả nhà cùng ăn bánh xèo và chia tay.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm cúng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Truyền thống"
+  ],
+  "cta_content": [
+    "Mọi người có thể mua tặng người thân, bố mẹ nhân dịp Tết thì là món quà vô cùng ý nghĩa.",
+    "Mời mọi người ăn chung với cả nhà mình."
+  ],
+  "cta_type": [
+    "Ăn cùng",
+    "Chia sẻ"
+  ],
+  "emotion_keywords": [
+    "đáng yêu",
+    "thoải mái",
+    "phái",
+    "ngon",
+    "sành sỏi",
+    "vui"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bữa nay cuối tuần cũng không có làm gì nhiều, mình đưa Tùng Hân với Sữa Hân về nhà bà nội chơi.",
+    "Thấy cái khúc bà nội Tùng Hân quậy bột là cũng sành sỏi lắm nha mọi người.",
+    "Đây là bà nội Tùng Hân đổ bánh hơi dày thiệt nhưng mà ăn vẫn ngon nha mọi người."
+  ],
+  "hook_content": "Bữa nay cuối tuần cũng không có làm gì nhiều, mình đưa Tùng Hân với Sữa Hân về nhà bà nội chơi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn",
+    "Kể chuyện"
+  ],
+  "summarization": "Video ghi lại chuyến về thăm bà nội của một gia đình, trong đó có cảnh bà nội trổ tài đổ bánh xèo miền Tây. Video cũng giới thiệu súng massage cầm tay Klennote như một món quà ý nghĩa.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hài hước"
+  ]
+}

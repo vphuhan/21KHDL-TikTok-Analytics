@@ -1,0 +1,78 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Xem video người nước ngoài ăn dưa hấu vắt chanh và muốn thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Thực hiện",
+      "desc": "Sử dụng chanh vàng và vắt vào dưa hấu để ăn thử.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Cảm nhận ban đầu",
+      "desc": "Thấy lạ và chưa hình dung được vị, vắt thêm chanh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thắc mắc"
+    },
+    {
+      "step": "Đánh giá vị",
+      "desc": "Lúc đầu thấy chua như ăn cam xanh, sau có vị ngọt dưa hấu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Đề xuất",
+      "desc": "Nên vắt ít chanh để có vị chua nhẹ sẽ ngon hơn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Ăn hay hay, giống dưa hấu chấm muối, kích thích vị giác.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Sáng tạo"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "ngạc nhiên",
+    "hay hay",
+    "kích thích vị giác"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ăn nó kiểu gì mình chưa hình dung ra được.",
+    "Nó như kiểu là dưa hấu chấm muối, nó kiểu kích thích vị giác một chút."
+  ],
+  "hook_content": "Hôm trước mình xem video có mấy người nước ngoài họ vắt chanh vào dưa hấu xong họ ăn.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video thử ăn dưa hấu vắt chanh theo trào lưu trên mạng và chia sẻ cảm nhận cá nhân về hương vị, thấy khá lạ và kích thích vị giác.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

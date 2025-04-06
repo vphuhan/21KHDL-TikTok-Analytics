@@ -1,0 +1,93 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món gà hấp nước mắm để đổi vị ngày Tết.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Giới thiệu nguyên liệu",
+      "desc": "Liệt kê nguyên liệu và gia vị cần thiết để làm món ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, cần thiết để nấu ăn."
+    },
+    {
+      "step": "Ướp gà",
+      "desc": "Hướng dẫn cách ướp gà với các loại gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với công thức ướp gà."
+    },
+    {
+      "step": "Chế biến sốt",
+      "desc": "Chế biến sốt bằng cách phi thơm hành, tỏi, tiêu xanh, sả.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi mùi thơm của sốt."
+    },
+    {
+      "step": "Hấp gà",
+      "desc": "Cho gà đã ướp vào chảo sốt và hấp đến khi chín.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ món gà chín."
+    },
+    {
+      "step": "Chuẩn bị rau ăn kèm",
+      "desc": "Chuẩn bị các loại rau sống để ăn kèm với gà.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, rau là món ăn kèm."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Mời mọi người cùng thưởng thức món gà hấp nước mắm.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử ngay."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nếu Tết này cả nhà chưa biết làm món gì á cho gia đình mình thưởng thức thì mình có thể tham khảo qua món gà hấp nước mắm này á của Hương nha.",
+    "Nói tới đây á thì đồ ăn cũng chín rồi nè. Hương mời cả nhà cùng thưởng thức món này á với gia đình Hương nha."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "thơm ngon",
+    "đậm vị",
+    "dính",
+    "xịn sò",
+    "thơm",
+    "xuất sắc",
+    "siêu thơm ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đợt này thì có thêm một loại trích xuất từ cá hồi và tỏi đen. Hương dùng thử á thấy cũng dính dữ lắm mà nghe xịn quá cả nhà ha, trích xuất từ cá ngừ bào ngư nè, rồi cá hồi tỏi đen nữa.",
+    "Đây cũng là hũ sa tế thơm ngon của Thuận Phát luôn nha cả nhà.",
+    "Mà Hương phải công nhận món gà hấp nước mắm này á nó lên màu á xuất sắc thiệt."
+  ],
+  "hook_content": "Gà hấp mía nè, hấp gừng, hấp sả ớt á thì Hương cũng làm hoài đúng không cả nhà? Bữa nay thì Hương sẽ làm gà hấp nước mắm để đổi vị ngày Tết nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món gà hấp nước mắm để đổi vị ngày Tết, sử dụng nước mắm Thuận Phát với nguyên liệu đặc biệt từ cá ngừ bào ngư và cá hồi tỏi đen. Món ăn được đánh giá là thơm ngon, đậm vị và có màu sắc hấp dẫn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

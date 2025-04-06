@@ -1,0 +1,102 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ức mỡ cá chiên nước và mực nhồi thịt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Nấu ức mỡ cá",
+      "desc": "Hướng dẫn chiên ức mỡ cá với nước thay vì dầu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với cách chiên mới."
+    },
+    {
+      "step": "Chuẩn bị mực nhồi thịt",
+      "desc": "Trộn thịt xay, giò sống, nấm và nhồi vào mực.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Làm sốt cà chua",
+      "desc": "Phi thơm hành tỏi với cà chua và tương ớt Chinsu.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn với mùi vị sốt."
+    },
+    {
+      "step": "Hoàn thành món mực",
+      "desc": "Cho mực vào sốt cà chua, nấu đến khi kẹo lại.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm ăn."
+    },
+    {
+      "step": "Bữa ăn hoàn chỉnh",
+      "desc": "Kết hợp món ăn với canh rau và tương ớt Chinsu.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử ngay."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Nhận xét về hương vị và độ ngon của món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy ngon miệng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "giờ thì mời mọi người ăn chung với tôi nhen."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "giòn giòn",
+    "ngon béo",
+    "thấm đậm",
+    "mê",
+    "thơm lừng",
+    "cay đậm đà",
+    "mắt sáng",
+    "ngập ngụi",
+    "dai dai",
+    "cuốn",
+    "bé ngon",
+    "giòn rụm",
+    "không bị ngán",
+    "cay cay",
+    "ngon đứng hình"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ức mỡ mà đem đi chiên nước là siêu giòn giòn, ngon béo, có ai thử chưa ta?",
+    "Mực sốt cà mà không ngon thì đừng có đổ thừa cho con mực, quan trọng là cái phần sốt.",
+    "Ta nói nó ngon đứng hình như cây bình bát luôn"
+  ],
+  "hook_content": "Ức mỡ mà đem đi chiên nước là siêu giòn giòn, ngon béo, có ai thử chưa ta?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu món ức mỡ cá chiên nước và mực nhồi thịt sốt cà chua, hướng dẫn cách chế biến và chia sẻ cảm nhận về hương vị của món ăn. Món ăn được đánh giá là ngon, giòn và đậm đà.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

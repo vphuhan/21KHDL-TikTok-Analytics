@@ -1,0 +1,89 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món trứng sam nướng mỡ hành, món ăn gây tò mò.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới lạ."
+    },
+    {
+      "step": "Mô tả ngoại hình",
+      "desc": "So sánh trứng sam với bọ, lo lắng về sự nhầm lẫn.",
+      "impact_level": "1",
+      "viewer_emotion": "Hơi e dè vì hình dáng kỳ lạ."
+    },
+    {
+      "step": "Nguồn gốc nguyên liệu",
+      "desc": "Chia sẻ về địa điểm mua trứng sam uy tín.",
+      "impact_level": "1",
+      "viewer_emotion": "Tin tưởng vào chất lượng sản phẩm."
+    },
+    {
+      "step": "Chuẩn bị",
+      "desc": "Hái hành làm mỡ hành, gợi ý thời tiết phù hợp.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy ấm áp và hấp dẫn."
+    },
+    {
+      "step": "Miêu tả chi tiết",
+      "desc": "Trứng sam không có thịt, toàn trứng, gây ấn tượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên về thành phần đặc biệt."
+    },
+    {
+      "step": "Nướng trứng",
+      "desc": "Chia sẻ về khó khăn khi tách trứng và nướng.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm với người làm."
+    },
+    {
+      "step": "Thưởng thức và đánh giá",
+      "desc": "Lần đầu ăn trứng sam, khen ngon, béo, hợp mỡ hành.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nên là mọi người có ai cần cái bao tử này thì cứ nhắn cho mình ha."
+  ],
+  "cta_type": [
+    "Đặt câu hỏi"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "béo béo",
+    "không ngán",
+    "hợp"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trời mà lạnh lạnh vậy mà xíu nữa ăn đồ nướng thì còn cái gì bằng nữa ta?",
+    "Ta nói nhiều khi lật lên, cái nhìn thấy trứng mà nổi ốc có cục luôn á.",
+    "Công nhận là nó ngon thiệt luôn á nghe."
+  ],
+  "hook_content": "Đó giờ thì mình thấy người ta ăn cái con này nhiều rồi, nên là kỳ này nhất định mình phải ăn thử coi nó ra làm sao.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món trứng sam nướng mỡ hành, chia sẻ trải nghiệm lần đầu ăn và đánh giá hương vị béo ngậy, thơm ngon. Người bán cũng giới thiệu thêm về sản phẩm bao tử heo.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán bánh cuốn",
+      "desc": "Giới thiệu về quán bánh cuốn với nhiều loại nhân khác nhau.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các loại nhân bánh cuốn."
+    },
+    {
+      "step": "Cảm nhận về bánh cuốn cá cuống",
+      "desc": "Nhấn mạnh về độ ngon của bánh cuốn cá cuống nguyên con.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy kinh ngạc và tò mò."
+    },
+    {
+      "step": "Miêu tả bánh cuốn nhân thịt",
+      "desc": "Miêu tả chi tiết về bánh cuốn nhân thịt mộc nhĩ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy đói bụng và thèm ăn."
+    },
+    {
+      "step": "So sánh các loại nhân",
+      "desc": "So sánh bánh cuốn nhân thịt và nhân tôm, thể hiện sự yêu thích.",
+      "impact_level": "2",
+      "viewer_emotion": "Phân vân không biết nên chọn loại nào."
+    },
+    {
+      "step": "Trải nghiệm bánh cuốn nhân hành",
+      "desc": "Lần đầu ăn bánh cuốn nhân hành và cảm thấy bất ngờ.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú với trải nghiệm mới."
+    },
+    {
+      "step": "Cảm nhận về bánh cuốn trứng",
+      "desc": "Chia sẻ về sự thay đổi trong sở thích bánh cuốn trứng.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với sự thay đổi này."
+    },
+    {
+      "step": "So sánh bánh cuốn và các món ăn kèm",
+      "desc": "So sánh bánh cuốn với chả và thịt nướng, thể hiện sở thích.",
+      "impact_level": "2",
+      "viewer_emotion": "Tự hỏi nên ăn bánh cuốn với gì."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "ghiền",
+    "hợp hực",
+    "thơm",
+    "mềm",
+    "quyện",
+    "tuyệt vời",
+    "ngon",
+    "cuốn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cá cuống nhà cô là cá cuống nguyên con, có người còn nghiện con cá cuống này đến là chỉ để ăn con cá cuống.",
+    "Bánh nhà cô là mừa mềm mướt, ăn đến đâu là ghiền đấy. Cảm thấy là hợp hực với cuộc đời đấy.",
+    "Bình thường các cu, các cậu sẽ thích ăn bánh nhân thịt hay là cho thêm xúc tôm nào. Em thì hôm nọ ông kia đó nhân thịt đã thơm rồi, mềm rồi mà quyện thêm cái mùi tôm phảng phất đại dương bao la thì em nói luôn là 1 lít nước miếng tong tỏng rồi đấy."
+  ],
+  "hook_content": "Sao bánh cuốn nhà cô nhân toàn là hành khô đấy, không có thịt à?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video review bánh cuốn tại một quán ăn ở Hà Nội, tập trung vào các loại nhân đặc biệt như hành khô, cá cuống, thịt mộc nhĩ và trứng, đồng thời so sánh các món ăn kèm như chả và thịt nướng. Người nói chia sẻ trải nghiệm cá nhân và cảm xúc khi thưởng thức các món ăn này.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

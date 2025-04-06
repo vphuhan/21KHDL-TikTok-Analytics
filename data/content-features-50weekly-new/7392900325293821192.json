@@ -1,0 +1,70 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu chung",
+      "desc": "Giới thiệu bánh mì ca dé 20k ở Sài Gòn, không phải cứ có tiền là mua được.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ hiếm của bánh mì."
+    },
+    {
+      "step": "Thông tin địa điểm",
+      "desc": "Xe bánh mì chỉ bán vài tiếng, không cố định, nổi tiếng ở quận 11.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng về sự đặc biệt của xe bánh mì."
+    },
+    {
+      "step": "Trải nghiệm món ăn",
+      "desc": "Được mời ăn thử bánh mì ca ré, bất ngờ vì ngon hơn tưởng tượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với trải nghiệm ẩm thực mới."
+    },
+    {
+      "step": "So sánh hương vị",
+      "desc": "So sánh xôi ca ré ở quận 5 và quận 11, điểm khác biệt về màu sắc.",
+      "impact_level": "1",
+      "viewer_emotion": "Tập trung vào sự khác biệt của món ăn."
+    },
+    {
+      "step": "Thông tin địa điểm (tiếp)",
+      "desc": "Chú bán ở quận 11, đứng cố định ở Trần Quý từ 4 giờ chiều.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi nhớ địa điểm để ghé thăm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đây là ổ bánh mì ca ré duy nhất ở Sài Gòn có giá 20.000 mà không phải cứ có tiền là ăn được.",
+    "Thường thì mọi người sẽ ăn xôi ca ré và bánh da heo. Hôm nay mình được chú mời ăn thử món bánh mì kẹp ca ré, rất là nổi tiếng của người Hoa.",
+    "Lúc đầu mình nghĩ ăn không có hợp nhưng thử rồi thấy khá là ngon."
+  ],
+  "hook_content": "Đây là ổ bánh mì ca ré duy nhất ở Sài Gòn có giá 20.000 mà không phải cứ có tiền là ăn được.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu bánh mì ca dé 20k hiếm có ở Sài Gòn, tập trung vào trải nghiệm cá nhân và sự đặc biệt của món ăn này. Người bán hàng rong này nổi tiếng ở quận 11 và có cách chế biến xôi ca dé khác biệt.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

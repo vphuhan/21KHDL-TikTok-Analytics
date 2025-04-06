@@ -1,0 +1,94 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu ý tưởng",
+      "desc": "Mẹ định bán matcha latte và hỏi ý kiến mọi người.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Giải thích lý do",
+      "desc": "Giải thích lý do chọn matcha latte và nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Công bố giá bán",
+      "desc": "Thông báo giá bán dự kiến cho ly nhỏ và lớn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "Nhấn mạnh lợi thế",
+      "desc": "Khẳng định giá rẻ nhờ tìm được đại lý sữa tốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng"
+    },
+    {
+      "step": "Chứng minh chất lượng",
+      "desc": "So sánh giá sữa ở các nơi để chứng minh giá tốt.",
+      "impact_level": "2",
+      "viewer_emotion": "Bất ngờ"
+    },
+    {
+      "step": "Giới thiệu cửa hàng",
+      "desc": "Giới thiệu thêm về các loại sữa khác và dịch vụ.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm"
+    },
+    {
+      "step": "Kêu gọi mua hàng",
+      "desc": "Khuyến khích mua sữa tại cửa hàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong đợi"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cho nên ai mà có ý định kinh doanh mấy món liên quan tới sữa hoặc là mua về cho nhà mình dùng thì có thể tham khảo thử nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "ngon",
+    "béo bùi",
+    "đắng đắng",
+    "thơm thơm",
+    "rẻ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái kiểu cái sữa nó không quá ngọt mà nó béo bùi á. Thêm cái matcha đắng đắng thơm thơm nữa.",
+    "Giá này mà ai chê mắc nữa là thôi luôn tôi chịu. Tại vì tôi tự tin là tôi bán rẻ.",
+    "Chỗ Aussie chỗ này tôi mua một hộp có 50.000 à. Bình thường tôi coi á thì toàn là 6 mấy 7 mấy ngàn không à."
+  ],
+  "hook_content": "Đang nghiên cứu tôi bán ly này 20.000. Mọi người thấy mắc hay rẻ?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn",
+    "So sánh"
+  ],
+  "summarization": "Video chia sẻ ý tưởng bán matcha latte, công bố giá bán dự kiến và so sánh giá sữa để chứng minh giá cả hợp lý, đồng thời giới thiệu cửa hàng bán sữa giá tốt.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Vivi giới thiệu bánh mì Huỳnh Hoa xách tay từ Sài Gòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Thêm topping",
+      "desc": "Vivi thêm rau, đồ chua, ớt xiêm xanh vào bánh mì.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Nếm thử và đánh giá",
+      "desc": "Vivi ăn và cảm nhận vị cay, độ ngon của bánh mì.",
+      "impact_level": "3",
+      "viewer_emotion": "Phấn khích"
+    },
+    {
+      "step": "Nhấn mạnh topping",
+      "desc": "Vivi tiếp tục nhấn mạnh vào topping và độ ngon của bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Vivi đánh giá cao bánh mì và chia sẻ độ nổi tiếng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng"
+    },
+    {
+      "step": "Cảm nhận độ cay",
+      "desc": "Vivi cảm nhận độ cay và gợi ý bánh mì to cho hai người.",
+      "impact_level": "2",
+      "viewer_emotion": "Hài hước"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Vivi chấm điểm 10, nhưng no và cần người yêu ăn phụ.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "Hấp dẫn",
+    "Cay ớt",
+    "Ngon",
+    "Thơm",
+    "Béo",
+    "Ngậy",
+    "Đậm đà",
+    "Nổi tiếng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Siêu topping",
+    "Cắn tới đâu là thấy ớt tới đó mọi người",
+    "Bảo sao nó nổi tiếng cỡ vậy đó mọi người"
+  ],
+  "hook_content": "Hello mọi người, hôm nay Vivi sẽ ăn bánh mì Huỳnh Hoa.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Vivi ăn mukbang bánh mì Huỳnh Hoa xách tay từ Sài Gòn, cô ấy đánh giá cao hương vị, đặc biệt là phần topping và độ cay của ớt, và cảm thấy rất ngon.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

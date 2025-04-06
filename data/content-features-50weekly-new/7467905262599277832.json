@@ -1,0 +1,70 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu xúc xích phô mai Thái Lan vị nấm tráp hồ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị."
+    },
+    {
+      "step": "Chiên xúc xích",
+      "desc": "Chiên xúc xích và chia sẻ kinh nghiệm ăn ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với cách ăn."
+    },
+    {
+      "step": "Nếm thử",
+      "desc": "Nếm thử xúc xích, mô tả hương vị và cảm nhận.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng món ăn."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Ăn tiếp và tạm biệt người xem.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ video khác."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người xem video của mình, hẹn mọi người video sau. Tạm biệt."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "ngán"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "lại ngon hơn thân",
+    "Rất là nhiều phô mai luôn.",
+    "Nhưng mà nhiều phô mai ăn vẫn nhanh ngán nhá, ăn hai cái là đã ngán rồi ấy."
+  ],
+  "hook_content": "Hôm nay mình lại cố ăn cố cắn để nó không văng ấy, hạn chế văng ấy, có thể đúng không ạ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video mukbang xúc xích phô mai Thái Lan vị nấm tráp hồ, được chiên và ăn kèm tương ớt chua ngọt. Người ăn mô tả hương vị thơm ngon, nhiều phô mai nhưng dễ ngán.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

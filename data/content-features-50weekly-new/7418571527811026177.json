@@ -1,0 +1,95 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Chào khán giả và giới thiệu về bản thân là người thích nấu ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn được giới thiệu."
+    },
+    {
+      "step": "Mô tả món ăn",
+      "desc": "Giới thiệu tôm sú biển to và khơi gợi sự thèm thuồng.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và thích thú."
+    },
+    {
+      "step": "Nguồn gốc",
+      "desc": "Chia sẻ về việc mua tôm từ chị Thúy Nhà Biển.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, cung cấp thêm thông tin."
+    },
+    {
+      "step": "Ấn tượng ban đầu",
+      "desc": "Diễn tả sự sốc và ngạc nhiên về kích thước của tôm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị và bất ngờ."
+    },
+    {
+      "step": "Chế biến và cảm nhận",
+      "desc": "Mô tả cách chế biến và sự hài lòng với chất lượng tôm.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy hấp dẫn và thèm ăn."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Mô tả quá trình lột tôm và cảm nhận về độ tươi ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Rất thèm thuồng và muốn ăn ngay."
+    },
+    {
+      "step": "Lời mời",
+      "desc": "Mời mọi người cùng ăn và kết thúc video.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thân thiện và muốn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi nghe."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "thèm",
+    "sốc",
+    "khoái",
+    "mê",
+    "chắc nịch",
+    "ngọt dai siêu chắc",
+    "đậm đà",
+    "ngon",
+    "đã"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nghĩ sao con tôm mà nó bự bằng cái cằm tay tôi luôn á trời.",
+    "Mấy con tôm bự như vầy là tôi khoái đem đi hấp muối ăn cho nó ngon.",
+    "Coi tới khúc này có ai tưới mồ hôi lửa rồng rồng chưa ta?"
+  ],
+  "hook_content": "Hello mọi người, lại là tôi mập bự thích nấu ăn đây.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu và review món tôm sú biển hấp muối siêu to, được mua từ một địa chỉ uy tín, với những đánh giá chi tiết về độ tươi ngon và kích thước khủng của tôm, kèm theo lời mời khán giả cùng thưởng thức.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

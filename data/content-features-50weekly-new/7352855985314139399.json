@@ -1,0 +1,74 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu chuyến đi",
+      "desc": "Kể về hành trình từ Hàn Quốc về Việt Nam của gia đình.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu và quảng cáo tinh dầu thông đỏ, đông trùng hạ thảo.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Chuẩn bị nấu ăn",
+      "desc": "Chuẩn bị nguyên liệu làm tôm nướng dừa và lẩu tôm.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức"
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Cả nhà cùng nhau thưởng thức món tôm nướng dừa và lẩu.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Mua ở Minsu Shop, mọi người có nhu cầu á thì vào Minsu Shop đây là địa chỉ uy tín để mọi người mua hàng hàng cho gia đình mình."
+  ],
+  "cta_type": [
+    "Truy cập trang cá nhân",
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "vui",
+    "thương",
+    "buồn",
+    "ngon",
+    "ngọt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "không cần biết đi đâu chỉ cần được trở về là vui quá chừng luôn á",
+    "Gần tết nhà rồi bây giờ nhìn cái gì cũng thấy ngon mọi người, mỗi ít không khí không cũng thấy trong lành nữa.",
+    "công nhận là ngon ngọt lắm luôn á, chỉ có điều là hơi mất thời gian thôi"
+  ],
+  "hook_content": "Dạ mình về Việt Nam cũng được mấy ngày rồi mà bữa nay mới có thời gian kể lại cái hành trình Việt Nam của ba mẹ con mình.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại hành trình về Việt Nam của một gia đình, giới thiệu sản phẩm chăm sóc sức khỏe và cùng nhau chuẩn bị món lẩu tôm và tôm nướng dừa.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu về chuyến du lịch Vũng Tàu 2 ngày 1 đêm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy háo hức về chuyến đi."
+    },
+    {
+      "step": "Quán ăn sáng",
+      "desc": "Giới thiệu quán bánh mì chảo ngon, rẻ.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn thử bánh mì chảo."
+    },
+    {
+      "step": "Quán ăn trưa",
+      "desc": "Giới thiệu quán bánh khọt có máy lạnh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thèm bánh khọt."
+    },
+    {
+      "step": "Quán xế chiều",
+      "desc": "Giới thiệu quán bánh bông lan trứng muối.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn bởi bánh bông lan."
+    },
+    {
+      "step": "Quán ăn tối",
+      "desc": "Giới thiệu quán lẩu cá đuối măng chua.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn lẩu cá đuối."
+    },
+    {
+      "step": "Thăm lại quán bánh bông lan",
+      "desc": "Ghé lại mua bánh bông lan trứng muối.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy sự yêu thích món bánh."
+    },
+    {
+      "step": "Hẹn phần 2",
+      "desc": "Mời xem phần 2 về quán ăn vặt, nước.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các quán ăn vặt."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Video cũng dài quá rồi nên là mọi người nhớ xem phần hai nha.",
+    "Phần hai là tôi sẽ chỉ cho mấy bà mấy cái chỗ quán ăn vặt ngon với lại quán nước ngon rẻ ở Vũng Tàu nha."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "đậm đà",
+    "siêu dính",
+    "mát mẻ",
+    "chuẩn chỉnh",
+    "ngon khỏi phải bàn",
+    "mềm mịn",
+    "thơm béo",
+    "mềm tan trong miệng",
+    "hợp lý",
+    "hết bài",
+    "ngon lắm á",
+    "đậm đà",
+    "vừa tới",
+    "ngon",
+    "rẻ",
+    "u mê"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đi Vũng Tàu có 2 ngày 1 đêm mà mình ghé chỗ bán bánh bông lan trứng muối này hết 2 ngày rồi á.",
+    "Ở Vũng Tàu mùa Tết là buổi tối lạnh lắm nha. Bởi vậy là một nồi lẩu cá đuối là hết bài luôn á."
+  ],
+  "hook_content": "Đầu năm 2024 này ai mà đang có ý định mở bát đầu năm bằng chuyến du lịch Vũng Tàu 2 ngày 1 đêm chi phí rẻ rề, ăn no phủ phê mà lăn về khách sạn luôn á thì nhất định là phải note ngay cái video của mình nha, để mình mách cho mấy bạn mấy quán ngon rẻ ở Vũng Tàu nè.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video giới thiệu các địa điểm ăn uống ngon, rẻ ở Vũng Tàu cho chuyến du lịch 2 ngày 1 đêm, bao gồm bánh mì chảo, bánh khọt, bánh bông lan trứng muối và lẩu cá đuối. Người xem được mời xem phần 2 để biết thêm các quán ăn vặt và nước ngon.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

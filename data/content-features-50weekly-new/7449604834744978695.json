@@ -1,0 +1,74 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu tôm su khổng lồ ngâm nước mắm, nhấn mạnh độ ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn biết hương vị món ăn."
+    },
+    {
+      "step": "Thêm gia vị",
+      "desc": "Thêm bột ớt siêu cay để tăng thêm hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy món ăn hấp dẫn hơn."
+    },
+    {
+      "step": "Kết hợp đồ uống",
+      "desc": "Uống kèm cà phê La ura của ca sĩ Nhật Kim Anh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với sự kết hợp này."
+    },
+    {
+      "step": "Đánh giá sản phẩm",
+      "desc": "Đánh giá cà phê ngon, tốt cho sức khỏe, có khuyến mãi.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến lợi ích của sản phẩm."
+    },
+    {
+      "step": "Nhấn mạnh trải nghiệm",
+      "desc": "Khẳng định lại sự kết hợp tôm và cà phê là tuyệt vời.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn thử ngay sự kết hợp này."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "ngọt",
+    "béo",
+    "ngọt",
+    "tuyệt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "tôm su khổng lồ này dai ngon và cực ngọt thịt",
+    "rắc thêm cái bột ớt siêu cay này nữa, ăn ngon thật á, uống thêm tí cà phê nữa là quá tuyệt"
+  ],
+  "hook_content": "review cả thế giới tôm su khổng lồ ngâm nước mắm.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món tôm su khổng lồ ngâm nước mắm, kết hợp ăn kèm với bột ớt siêu cay và cà phê La ura. Người nói đánh giá cao hương vị và sự kết hợp này.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

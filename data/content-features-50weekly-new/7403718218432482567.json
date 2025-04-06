@@ -1,0 +1,84 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu điểm đến",
+      "desc": "Giới thiệu chợ nổi Cái Răng và việc đi chợ cùng gia đình.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về trải nghiệm tại chợ nổi."
+    },
+    {
+      "step": "Trải nghiệm chợ nổi",
+      "desc": "Miêu tả trải nghiệm đi thuyền, mua đặc sản ở chợ nổi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với không khí chợ nổi."
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bánh xèo củ hủ dừa do người nhà làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú với món ăn đặc biệt."
+    },
+    {
+      "step": "Chế biến bánh xèo",
+      "desc": "Hướng dẫn sơ lược cách làm nhân bánh xèo củ hủ dừa.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị bánh xèo."
+    },
+    {
+      "step": "Thưởng thức bánh xèo",
+      "desc": "Cả nhà cùng ăn bánh xèo và giới thiệu nước uống kèm.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "mời mọi người ăn bánh xèo chung với cả nhà mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "mát mẻ",
+    "đẹp",
+    "hồ hởi",
+    "khen",
+    "ngon",
+    "giòn giòn",
+    "ngọt ngọt",
+    "thèm",
+    "đói bụng",
+    "điêu luyện"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đi thêm một hồi nữa thì cả nhà mình được đi lên trên này để mua đặc sản cho bà nội mang về Hàn Quốc.",
+    "Trời ơi, ta nói củ hủ dừa mà ăn không thôi cũng đã ngon rồi, làm nhân bánh xèo ăn nữa chắc nhức cái nách luôn á.",
+    "Để bánh xèo hơi chín chín tới cái mình cho đậu xanh với lại là nhân hồi nãy mình chuẩn bị vô."
+  ],
+  "hook_content": "mình sẽ dắt bà nội Tụi Hân đi thêm một địa điểm nữa đó là chợ nổi Cái Răng ở quê mình nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video ghi lại trải nghiệm đi chợ nổi Cái Răng cùng gia đình và bà nội, sau đó giới thiệu món bánh xèo củ hủ dừa tự làm tại nhà. Video tập trung vào việc giới thiệu văn hóa ẩm thực địa phương và tình cảm gia đình.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

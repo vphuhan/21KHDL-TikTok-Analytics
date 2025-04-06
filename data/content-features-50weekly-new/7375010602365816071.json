@@ -1,0 +1,98 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món đá xào sả ớt và bắt đầu chương trình mukbang.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn độc lạ."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Bắt đầu ăn và miêu tả các thành phần, hương vị của món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và muốn thử."
+    },
+    {
+      "step": "Đánh giá và chia sẻ",
+      "desc": "Đánh giá độ ngon, cay và chia sẻ cảm xúc khi ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú và hào hứng."
+    },
+    {
+      "step": "Nhận xét về món ăn",
+      "desc": "Đề xuất cải thiện món ăn và nhấn mạnh độ ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Gật gù đồng ý."
+    },
+    {
+      "step": "Tiếp tục ăn và cảm nhận",
+      "desc": "Tiếp tục thưởng thức, miêu tả sự nóng và cay của món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm nhận được sự cay nóng."
+    },
+    {
+      "step": "Nhấn mạnh tính kinh tế",
+      "desc": "Nhấn mạnh tính kinh tế của món ăn với nguyên liệu dễ kiếm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị và dễ làm."
+    },
+    {
+      "step": "Kết thúc và cảm ơn",
+      "desc": "Cảm ơn người xem và hẹn gặp lại.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, lịch sự."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Comment ở bên dưới cho vàng biết đó nha.",
+    "Cảm ơn bạn đã xem video của tóc vàng nha. Hẹn gặp lại bạn vào video lần sau. Bye bye."
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "cay",
+    "chua chua nhẹ",
+    "đắng",
+    "hào hứng",
+    "thú vị",
+    "tuyệt vời",
+    "ghê"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nhìn vậy mà lôi cuốn ghê bạn. Ăn rồi lại không dừng lại được luôn á bạn.",
+    "Vàng không nghĩ là món này nó ngon và thú vị như vậy các bạn. Tuyệt vời.",
+    "Cái này mình chỉ tốn tiền ớt nè, tiền sả. Hoặc là nhà bạn nào mà ở sau hè có ớt với sả đó là mình không cần tốn tiền luôn đó bạn."
+  ],
+  "hook_content": "bạn. Và hôm nay là chương trình Mốc Bang cuối tháng. Xin chào mừng món đá xào sả ớt nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video mukbang món đá xào sả ớt độc lạ, Tóc Vàng vừa ăn vừa miêu tả hương vị cay, chua, và chia sẻ cảm xúc hào hứng, đồng thời khuyến khích người xem bình luận và thử làm theo.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

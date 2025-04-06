@@ -1,0 +1,94 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu tảng cá hồi gần 3kg mới mua và độ tươi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ tươi ngon của cá hồi."
+    },
+    {
+      "step": "Thưởng thức sashimi",
+      "desc": "Ăn cá hồi sống với nước tương, wasabi, mayonnaise.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng hương vị béo ngậy."
+    },
+    {
+      "step": "Nhận xét hương vị",
+      "desc": "Cá hồi tươi, béo, thơm, ăn kèm wasabi tăng độ ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Gật gù đồng ý với nhận xét."
+    },
+    {
+      "step": "Ăn trứng cá hồi",
+      "desc": "Lỡ mua trứng cá hồi và chưa biết ăn thế nào.",
+      "impact_level": "1",
+      "viewer_emotion": "Tự hỏi liệu ăn có ngon không."
+    },
+    {
+      "step": "Thưởng thức cá hồi sợi",
+      "desc": "Chấm cá hồi sợi với mayonnaise, kiểu ăn châu Âu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy lạ mắt và muốn thử."
+    },
+    {
+      "step": "Chia sẻ sở thích",
+      "desc": "Thích ăn cá hồi sợi dù tốn kém, phải mua miếng to.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm nhận sự yêu thích món ăn."
+    },
+    {
+      "step": "Giới thiệu món mới",
+      "desc": "Phần còn lại sẽ ngâm tương và chờ clip sau.",
+      "impact_level": "2",
+      "viewer_emotion": "Hóng chờ món cá hồi ngâm tương."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cái này mọi người chờ clip sau nha."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "tươi rói",
+    "nhất cái nách",
+    "béo",
+    "thơm",
+    "tươi",
+    "đã",
+    "cay nồng",
+    "ngon",
+    "mềm",
+    "ngán"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Miếng này mà ăn sashimi chắc chắc là nhất cái nách luôn á.",
+    "Trời ơi ta nói cái thịt nó vừa béo mà nó vừa thơm nữa.",
+    "Nói chứ mỗi lần mà thèm thèm á, ăn một miếng mà bự cỡ này, trời ơi ta nói nó đã gì đâu luôn."
+  ],
+  "hook_content": "Hey mọi người, hôm nay mình ăn cá hồi nha, tại vì cũng lâu lắm rồi mới ăn lại cái món này á.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang ăn cá hồi, người ăn giới thiệu và thưởng thức tảng cá hồi tươi sống gần 3kg với nhiều kiểu ăn khác nhau như sashimi, cá hồi sợi chấm mayonnaise và hé lộ món cá hồi ngâm tương ở clip sau.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

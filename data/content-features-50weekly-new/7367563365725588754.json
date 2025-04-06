@@ -1,0 +1,95 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu địa điểm",
+      "desc": "Thông báo khai trương Katinat Vệ Hồ và vị trí đắc địa.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về địa điểm mới."
+    },
+    {
+      "step": "Miêu tả không gian",
+      "desc": "Decor xinh xắn, phù hợp để check in, view đẹp.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với không gian quán."
+    },
+    {
+      "step": "Chia sẻ trải nghiệm",
+      "desc": "Đến sớm để có chỗ, quán đông khách.",
+      "impact_level": "2",
+      "viewer_emotion": "Lưu ý để có trải nghiệm tốt."
+    },
+    {
+      "step": "Đánh giá không gian",
+      "desc": "Không gian thoáng đãng, trang trí thơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với không gian."
+    },
+    {
+      "step": "Nhận xét đồ uống",
+      "desc": "Giá từ 40-80k, bestseller ok.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến menu và giá."
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Đi check in liền vì địa điểm ok.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn đến trải nghiệm ngay."
+    },
+    {
+      "step": "Thông tin khuyến mãi",
+      "desc": "Hỏi nhân viên để biết chi tiết.",
+      "impact_level": "1",
+      "viewer_emotion": "Tìm hiểu thêm về ưu đãi."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "có muốn đi check in thì đi liền"
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "đắc địa",
+    "siêu xinh",
+    "đẹp xỉu",
+    "mát mẻ",
+    "thơm",
+    "ok",
+    "xịn sò",
+    "đỉnh vãi"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Chỗ này mà ngắm bình minh với cả hoàng hôn thì thôi, mười điểm không có nhưng.",
+    "Vì là không chỉ có những người trẻ như mình đi check in đâu, mà kiểu như các cô chú đi tập thể dục buổi sáng cũng ghé về đấy để uống nước luôn.",
+    "Re xịn sò đỉnh vãi luôn."
+  ],
+  "hook_content": "tinatz vệ Hồ khai trương rồi mấy bà ơi!",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu Katinat Vệ Hồ mới khai trương với vị trí đẹp, không gian xinh xắn và đồ uống ổn. Reviewer khuyên nên đến sớm để có chỗ và trải nghiệm view đẹp.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

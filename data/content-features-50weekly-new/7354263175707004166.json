@@ -1,0 +1,85 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ăn 'cà xỉu' và cách ăn cùng cơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Đánh giá ban đầu",
+      "desc": "Nhận xét về vị mặn và mùi thơm của món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Thử nghiệm phần râu",
+      "desc": "Ăn thử phần 'râu' và mô tả độ cứng, vị ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "Tìm và ăn phần 'thịt'",
+      "desc": "Tìm phần 'thịt' bên trong và nhận xét độ ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng khởi"
+    },
+    {
+      "step": "So sánh hình dáng",
+      "desc": "Liên tưởng hình dáng của món ăn với ốc móng tay.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Đánh giá tổng quan",
+      "desc": "Nhấn mạnh lại vị ngon và lượng thịt của món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Nhận xét hài hước",
+      "desc": "Liên hệ 'râu ria' của món ăn với bản thân.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "mặn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cái này là phải ăn tiền cơm mới ngon đúng không?",
+    "Nhìn như được cái con ốc ốc móng tay á.",
+    "Hóa ra gọi là râu ria của mình đấy nhỉ."
+  ],
+  "hook_content": "Một hai ba.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review món cà xỉu muối, tập trung vào hương vị, cách ăn và cảm nhận cá nhân về món ăn này. Người nói vừa ăn vừa mô tả chi tiết về mùi vị và hình dáng của cà xỉu.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

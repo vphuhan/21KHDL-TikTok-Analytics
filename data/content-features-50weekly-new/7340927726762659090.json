@@ -1,0 +1,86 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu gây sốc",
+      "desc": "Thông báo người xem đã bị lừa vì thanh cua không có thịt cua.",
+      "impact_level": "3",
+      "viewer_emotion": "Ngạc nhiên và tò mò."
+    },
+    {
+      "step": "Giới thiệu nguyên liệu",
+      "desc": "Thanh cua được làm từ thịt cá đã đóng băng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về thành phần thật sự."
+    },
+    {
+      "step": "Công đoạn nghiền cá",
+      "desc": "Thịt cá đông lạnh được nghiền nát thành bột.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, mang tính cung cấp thông tin."
+    },
+    {
+      "step": "Trộn hỗn hợp",
+      "desc": "Bột cá trộn với bột trứng, gia vị, đá viên.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị vì quy trình phức tạp."
+    },
+    {
+      "step": "Loại bỏ không khí",
+      "desc": "Hỗn hợp được khuấy để loại bỏ không khí.",
+      "impact_level": "1",
+      "viewer_emotion": "Không có nhiều cảm xúc."
+    },
+    {
+      "step": "Tạo hình",
+      "desc": "Hỗn hợp được ép thành dải, cuộn thành sợi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị về cách tạo hình thanh cua."
+    },
+    {
+      "step": "Hoàn thiện và đóng gói",
+      "desc": "Phủ màng, cắt, đóng gói, tiệt trùng và bảo quản.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến quy trình an toàn vệ sinh."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Kiến thức",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "lừa"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Bên trong cây thanh cua không có thịt cua chút nào cả.",
+    "Những thứ trước mắt giống như viên gạch này, thực ra là nguyên liệu của cây thanh cua, được làm từ thịt cá đã đóng băng.",
+    "Cuối cùng, những cây thanh cua không hề có thịt cua sẽ được giao đến tay mọi người."
+  ],
+  "hook_content": "Bạn đã bị lừa đấy!",
+  "hook_type": [
+    "Gây tò mò",
+    "Giật tít"
+  ],
+  "pacing": [
+    "Nhanh",
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video tiết lộ sự thật về thành phần và quy trình sản xuất thanh cua, chỉ ra rằng nó không chứa thịt cua mà được làm từ thịt cá xay và các phụ gia khác. Nội dung nhằm mục đích cung cấp thông tin và gây bất ngờ cho người xem.",
+  "tone_of_voice": [
+    "Ngạc nhiên",
+    "Trung lập"
+  ]
+}

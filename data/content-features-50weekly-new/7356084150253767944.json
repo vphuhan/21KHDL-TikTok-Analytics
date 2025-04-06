@@ -1,0 +1,101 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu ốc gác bếp ngâm sữa tươi và nước mắm gừng tự pha.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn và cách chế biến."
+    },
+    {
+      "step": "Thưởng thức ốc",
+      "desc": "Ăn ốc gác bếp, mô tả hương vị và cảm nhận.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử ngay."
+    },
+    {
+      "step": "Thưởng thức rau",
+      "desc": "Ăn kèm ốc với rau sống, đánh giá sự kết hợp.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với sự kết hợp này."
+    },
+    {
+      "step": "Thưởng thức phần đặc biệt",
+      "desc": "Thử ăn phần màu vàng của ốc và mô tả hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò và có chút e ngại."
+    },
+    {
+      "step": "Pha nước chấm",
+      "desc": "Giới thiệu và nếm thử nước mắm gừng tự pha.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với công thức nước chấm."
+    },
+    {
+      "step": "Lể ốc chuyên nghiệp",
+      "desc": "Thể hiện kỹ năng lể ốc và thưởng thức nguyên con.",
+      "impact_level": "3",
+      "viewer_emotion": "Ngưỡng mộ và thèm thuồng."
+    },
+    {
+      "step": "Chia sẻ bí quyết",
+      "desc": "Giải thích về ốc gác bếp và cách ngâm sữa.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích và hiểu rõ hơn."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Hẹn gặp lại bạn vào video lần sau.",
+    "Bye bye!"
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "dai",
+    "giòn",
+    "sần sật",
+    "thỏa mãn",
+    "hạnh phúc",
+    "ngập tràn",
+    "cay",
+    "đã",
+    "tuyệt vời"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái thịt nó dai giòn sần sật luôn á bạn. Wow!",
+    "Nó ngon cái kiểu mà bạn chưa có suy nghĩ ra được cái từ để diễn tả các bạn nữa.",
+    "Ăn cái ốc này cảm giác là giống như nghệ thuật vậy đó bạn. Nghệ thuật lể ốc, nghệ thuật lể được nguyên con ốc."
+  ],
+  "hook_content": "Bạn có ốc gác bếp. Vàng có sữa tươi. Vàng có ốc gác bếp ngâm sữa tươi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video mukbang ốc gác bếp ngâm sữa tươi, Tóc Vàng vừa ăn vừa chia sẻ cảm nhận về hương vị, độ dai giòn và cách thưởng thức món ăn đặc biệt này. Cô cũng chia sẻ bí quyết ngâm ốc với sữa để tăng độ béo và ngon.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

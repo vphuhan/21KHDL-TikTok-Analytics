@@ -1,0 +1,69 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu về xúc xích gân bò có chữ Nga và Trung",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự kết hợp ngôn ngữ trên bao bì."
+    },
+    {
+      "step": "Miêu tả ngoại hình",
+      "desc": "Xúc xích có mùi giống xúc xích ăn liền của Trung Quốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung được mùi vị quen thuộc."
+    },
+    {
+      "step": "Trải nghiệm vị giác",
+      "desc": "Vị mặn của xúc xích ăn liền kết hợp gân bò dai giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng và muốn thử."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Xúc xích giống xúc xích ăn liền nhưng có thêm gân bò.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thú vị và muốn tìm mua."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thú vị",
+    "dai dai",
+    "giòn giòn",
+    "hay"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Xúc xích này khi mà mình xem trên ảnh thì rõ ràng nó chỉ có tiếng Nga không thôi. Nhưng mà không hiểu sao hôm nay nhận được lại có cả tiếng Trung Quốc nữa.",
+    "Khi ăn thì cũng rất là giống với cả xúc xích ăn liền. Tuy nhiên cái xúc xích này thì sẽ có thêm những cái gân bò, không biết có phải gân bò không, nhưng mà ăn nó sẽ dai dai, giòn giòn.",
+    "Chốt lại là cái xúc xích này ăn giống xúc xích ăn liền nhưng mà có thêm gân bò, dai dai giòn giòn. Ăn rất là hay."
+  ],
+  "hook_content": "Xúc xích này khi mà mình xem trên ảnh thì rõ ràng nó chỉ có tiếng Nga không thôi.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review xúc xích gân bò có bao bì in cả tiếng Nga và tiếng Trung, hương vị giống xúc xích ăn liền nhưng có thêm gân bò dai giòn, tạo cảm giác thú vị khi ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

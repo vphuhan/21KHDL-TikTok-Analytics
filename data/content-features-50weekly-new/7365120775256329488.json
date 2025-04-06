@@ -1,0 +1,58 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu bắp rang bơ nổi tiếng thế giới giá 270.000đ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của sản phẩm."
+    },
+    {
+      "step": "Đánh giá tổng quan",
+      "desc": "Bắp rang bơ nhiều, lớp bơ dày, không giòn như bắp phim.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung được độ giòn và lớp bơ của bắp."
+    },
+    {
+      "step": "Phân tích hương vị",
+      "desc": "Vị mặn nhiều hơn ngọt, giống bắp rang bơ và kẹo Alpenliebe.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm nhận hương vị quen thuộc và dễ hình dung."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nếu các bạn không thử thì làm sao các bạn biết nó ngon cỡ nào.",
+    "Nó cứ dính dính xong nó keo vào giống như kiểu kẹo ấy mọi người ạ.",
+    "giống như kiểu bắp rang bơ kết hợp với cả kẹo Alpenliebe ấy"
+  ],
+  "hook_content": "Đây là cái gói bắp rang bơ mình mua với giá 270.000đ và người ta giới thiệu đây là cái loại bắp rang bơ nổi tiếng thế giới, cho nên là mình sẽ ăn thử xem là nó ngon tới cỡ nào.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review bắp rang bơ Garrett vị caramen, tập trung vào đánh giá hương vị và chất lượng sản phẩm. Người nói nhận xét bắp có lớp bơ dày, vị mặn hơn ngọt và giống kẹo Alpenliebe.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

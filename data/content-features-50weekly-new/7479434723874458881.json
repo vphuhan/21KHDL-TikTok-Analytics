@@ -1,0 +1,83 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Gọi món",
+      "desc": "Khách hàng gọi các món ăn vặt và được tư vấn nhiệt tình.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng của món ăn."
+    },
+    {
+      "step": "Giới thiệu địa điểm",
+      "desc": "Giới thiệu quán ăn vặt nổi tiếng ở Lạch Tray, Hải Phòng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ nổi tiếng của quán."
+    },
+    {
+      "step": "Trải nghiệm món ăn",
+      "desc": "Trải nghiệm và đánh giá các loại xiên que, đặc biệt là sốt mắm tỏi.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi đói bụng và muốn ăn thử."
+    },
+    {
+      "step": "Nhận xét chung",
+      "desc": "Đánh giá tổng quan về quán và đưa ra lời khuyên.",
+      "impact_level": "2",
+      "viewer_emotion": "Gật gù đồng ý với nhận xét."
+    },
+    {
+      "step": "Tương tác với chủ quán",
+      "desc": "Tương tác vui vẻ với chủ quán và nhận được follow.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với sự thân thiện của chủ quán."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Follow",
+    "Follow"
+  ],
+  "cta_type": [
+    "Follow kênh",
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ưng",
+    "ngon",
+    "ok la",
+    "mặn mặn",
+    "ngọt ngọt",
+    "thơm thơm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn nó mặn mặn, ngọt ngọt, thơm thơm cái mùi hổi tỏi nên tôi rất là ưng.",
+    "Tổng kết lại là ngon, nha mọi người có thể đến trải nghiệm và dùng thử xem tình hình như thế nào nhá.",
+    "Tự nhiên đi ra quán chị ăn lại nhận thêm hai follow mới."
+  ],
+  "hook_content": "nhé, em gửi nhé. Ừ, em muốn làm món gì hả em? Chị có chiên thường, xào mắm, xào me, xào bơ tỏi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán ăn vặt cô Trang ở Lạch Tray, Hải Phòng, nổi tiếng với các món xiên que xào mắm tỏi. Người xem được trải nghiệm không khí quán đông đúc và hương vị đặc trưng của các món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

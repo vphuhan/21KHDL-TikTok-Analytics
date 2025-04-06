@@ -1,0 +1,82 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu bản thân và mục đích của video là review quán ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Mô tả món ăn",
+      "desc": "Liệt kê và mô tả chi tiết các món ăn đã thử tại nhà hàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Ưu đãi",
+      "desc": "Thông tin về ưu đãi khi sử dụng thẻ Mastercard.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Hướng dẫn",
+      "desc": "Hướng dẫn cách nhận ưu đãi và địa điểm áp dụng.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm"
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Lời khuyên và khuyến khích chia sẻ trải nghiệm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Lần tới đi ăn nhớ chia sẻ của Annie nha."
+  ],
+  "cta_type": [
+    "Chia sẻ"
+  ],
+  "emotion_keywords": [
+    "wow",
+    "béo thơm",
+    "tươi mát",
+    "ngọt bùi",
+    "đậm",
+    "mềm",
+    "chua ngọt",
+    "đã"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Miếng thịt này đã chờ đợi hơn 30 ngày, chỉ để làm mình wow lên trong 30 giây.",
+    "Không phải riêng Annie được tặng món đâu, mọi người đều được Mastercard mời dùng bữa, nếu có dùng thẻ thanh toán nha.",
+    "Ví dụ như đi bốn người và có gọi bốn món chính, chủ thẻ chỉ tính tiền ba món thôi."
+  ],
+  "hook_content": "Miếng thịt này đã chờ đợi hơn 30 ngày, chỉ để làm mình wow lên trong 30 giây.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video review các món ăn tại một nhà hàng và giới thiệu chương trình ưu đãi của Mastercard, tặng một món chính khi thanh toán bằng thẻ. Annie chia sẻ trải nghiệm ăn uống và hướng dẫn cách nhận ưu đãi.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

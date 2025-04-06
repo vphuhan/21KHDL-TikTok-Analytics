@@ -1,0 +1,71 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món đầu tiên",
+      "desc": "Giới thiệu và ăn thử oản đường, mời mọi người cùng ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị"
+    },
+    {
+      "step": "Ăn và miêu tả bình sữa",
+      "desc": "Ăn bình sữa, miêu tả vị mát ngọt và cảm giác ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy sảng khoái, dễ chịu"
+    },
+    {
+      "step": "Thưởng thức thạch dừa",
+      "desc": "Ăn thạch dừa, khen thanh mát và đã khát.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn uống thử"
+    },
+    {
+      "step": "Kết thúc bằng kẹo",
+      "desc": "Ăn kẹo marshmallow, hoàn thành thử thách ăn đồ trắng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Các bạn muốn mẹ con mình múc bang màu gì thì hãy comment xuống phía dưới nhé."
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "ngọt",
+    "ngon",
+    "hạp",
+    "đã",
+    "thanh mát"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mát mà ngọt các bạn ạ.",
+    "Hạp quá các bạn ạ. Đã quá đi.",
+    "Ngọt và phảng các bạn. Thanh mát. Uống đã ghê."
+  ],
+  "hook_content": "Múc bang tất cả các món màu trắng cùng chị mẹ không có con em.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang các món ăn màu trắng như oản, sữa, thạch dừa, kẹo marshmallow, người ăn miêu tả hương vị và cảm xúc khi ăn. Cuối video có kêu gọi người xem bình luận về màu sắc muốn được mukbang tiếp theo.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

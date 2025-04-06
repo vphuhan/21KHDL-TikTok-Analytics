@@ -1,0 +1,91 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu món ăn và cách ăn trứng cá mới lạ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách ăn độc đáo."
+    },
+    {
+      "step": "Thử nghiệm 1",
+      "desc": "Ăn trứng cá với rong biển, nhận xét quá mặn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với sự thử nghiệm."
+    },
+    {
+      "step": "Thử nghiệm 2",
+      "desc": "Trộn trứng cá với cơm và rong biển, không vị.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường, thất bại."
+    },
+    {
+      "step": "Thử nghiệm 3",
+      "desc": "Ăn trứng cá và cơm cuốn rong biển vừa đủ.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ vì ngon, cảm xúc dâng trào."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Miêu tả hương vị, độ mặn và độ ngon của món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị và thèm thuồng."
+    },
+    {
+      "step": "Dự đoán",
+      "desc": "Dự đoán thời gian ăn hết hộp trứng cá.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Đề xuất món ăn cho sinh viên tiết kiệm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích và đồng cảm."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Hãy ăn thật tiết kiệm mọi người nhé."
+  ],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm ngon",
+    "mặn",
+    "ngon bất ngờ",
+    "thích hợp",
+    "tiết kiệm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Không phải ăn với rong biển mới ngon.",
+    "Ngon bất ngờ luôn ấy.",
+    "Thực ra thì ăn cơm với rong biển nó đã ngon rồi, thêm cái gì vào nó chẳng ngon."
+  ],
+  "hook_content": "Không phải ăn với rong biển mới ngon.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video review cách ăn trứng cá mới lạ với rong biển và cơm. Sau nhiều thử nghiệm, người làm video đã tìm ra công thức ngon và phù hợp, đồng thời gợi ý món ăn này cho sinh viên muốn tiết kiệm.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

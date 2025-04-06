@@ -1,0 +1,93 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món lẩu cá đuối măng chua và cá đuối nướng sa tế.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách chế biến hai món ăn này."
+    },
+    {
+      "step": "Sơ chế cá đuối",
+      "desc": "Sơ chế cá đuối bằng cách chặt miếng và trần qua nước sôi.",
+      "impact_level": "1",
+      "viewer_emotion": "Quan sát công đoạn sơ chế nguyên liệu."
+    },
+    {
+      "step": "Xào cá đuối",
+      "desc": "Phi hành tỏi và xào cá đuối với gia vị và sa tế tôm.",
+      "impact_level": "2",
+      "viewer_emotion": "Hương thơm của sa tế kích thích vị giác."
+    },
+    {
+      "step": "Nấu nước lẩu",
+      "desc": "Phi hành xả và xào cà chua, thơm, măng với sa tế tôm.",
+      "impact_level": "2",
+      "viewer_emotion": "Nồi nước lẩu hấp dẫn, dậy mùi thơm."
+    },
+    {
+      "step": "Ướp cá nướng",
+      "desc": "Ướp cá đuối với nghệ và sa tế tôm, gói lá chuối và giấy bạc.",
+      "impact_level": "2",
+      "viewer_emotion": "Học hỏi cách ướp cá để nướng thơm ngon."
+    },
+    {
+      "step": "Hoàn thiện lẩu",
+      "desc": "Cho cá vào nồi lẩu, thêm nước cốt tắc, đun thêm 15 phút.",
+      "impact_level": "2",
+      "viewer_emotion": "Nồi lẩu chua cay hấp dẫn đã hoàn thành."
+    },
+    {
+      "step": "Nướng cá đuối",
+      "desc": "Nướng cá đuối hai giai đoạn, bỏ giấy bạc, nướng thêm cho khô.",
+      "impact_level": "2",
+      "viewer_emotion": "Cá nướng vàng đều, trông rất hấp dẫn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mời cả nhà thưởng thức món lẩu cá đuối và cá đuối nướng sa tế với Tứng nha.",
+    "Xin mời cả nhà nhé!"
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "thèm",
+    "chua chua",
+    "cay cay",
+    "mềm",
+    "giòn sần sực",
+    "thơm",
+    "cay cay",
+    "kích thích vị giác"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nghe cái mùi sa tế là thèm lẩu với đồ nướng liền.",
+    "Cái lẩu cá đuối nó chua chua, cay cay, còn cá thì mềm, giòn sần sực",
+    "Món cá nướng này nó thơm hơn là nhờ sa tế mà nó ăn á cay cay, kích thích vị giác lắm nha."
+  ],
+  "hook_content": "Hai con cá đuối của bạn Như Ý Lê gửi tặng. Hôm nay Tứng sẽ nấu măng chua một con, còn một con lát Tứng nướng sa tế nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn nấu lẩu cá đuối măng chua và cá đuối nướng sa tế. Tứng chia sẻ cách sơ chế, tẩm ướp và nấu hai món ăn hấp dẫn này.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

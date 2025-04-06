@@ -1,0 +1,89 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Đi chợ",
+      "desc": "Đi chợ nhanh chóng và thuận lợi, mua nguyên liệu nấu ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món kim chi nước đã ăn ở nhà người quen.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Cắt nhỏ các loại rau củ để làm kim chi.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Pha chế nước kim chi",
+      "desc": "Pha nước kim chi với ớt bột, tỏi, muối và nước mơ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Trộn và ủ kim chi",
+      "desc": "Trộn rau củ với nước kim chi và chờ lên men.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu kim chi cũ",
+      "desc": "Giới thiệu thùng kim chi làm từ mùa trước và cách ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Nướng thịt và ăn",
+      "desc": "Nướng thịt và ăn cùng kim chi tự làm.",
+      "impact_level": "3",
+      "viewer_emotion": "Háo hức"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Thôi bây giờ mời mọi người ăn chung với cả nhà mình thịt nướng tối nay nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "cay",
+    "vừa chua tới",
+    "mát mát đã"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đi chợ gần nhà mình bữa nay trở lại bình thường là mình đi chợ cái rẹt chưa đầy 1 tiếng nữa là về tới nhà.",
+    "Mình thấy cái kim chi này nó giống như là dưa muối cải muối bên mình á, chỉ cần có muối với lại là nước mơ ngâm là mình có thể làm được.",
+    "Nhiều bạn xin cái công thức làm kim chi của mình, trời ơi nó chưa có đủ trình mọi người ơi, để mình đi học xong về em khóa mình chia sẻ lại cho nha."
+  ],
+  "hook_content": "Đi chợ gần nhà mình bữa nay trở lại bình thường là mình đi chợ cái rẹt chưa đầy 1 tiếng nữa là về tới nhà.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn cách làm kim chi nước tại nhà và chia sẻ trải nghiệm ăn thịt nướng kèm kim chi. Người làm video giới thiệu quá trình đi chợ, chuẩn bị nguyên liệu, pha chế nước kim chi và thưởng thức món ăn cùng gia đình.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

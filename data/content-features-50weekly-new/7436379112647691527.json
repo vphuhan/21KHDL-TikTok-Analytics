@@ -1,0 +1,67 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu phao câu gà nướng và hoàn cảnh khó khăn tài chính.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hơi hài hước nhưng cũng thương"
+    },
+    {
+      "step": "Mua và miêu tả món ăn",
+      "desc": "Mua phao câu gà nướng và mô tả số lượng, giá cả.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin cơ bản"
+    },
+    {
+      "step": "Thưởng thức và nhận xét",
+      "desc": "Ăn phao câu gà nướng và nhận xét về hương vị, nước chấm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thèm thuồng nhưng có vẻ không ngon lắm"
+    },
+    {
+      "step": "Kết thúc video",
+      "desc": "Trấn an người xem về sức khỏe, có hiệu thuốc gần đó.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy yên tâm hơn"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "sướng",
+    "chán"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Pao câu gà thì ngon nhưng mà mỗi tội quên không mang theo cái chai tương ớt Vường Khương.",
+    "Chấm ngập mồm ăn nhai cho nó sướng ấy.",
+    "Thực ra là các bạn không phải lo cho mình đâu nhá. Ngay bên cạnh có cái hiệu thuốc lồng trâu rồi, yên tâm đi nhá."
+  ],
+  "hook_content": "được cái phao câu gà thôi, dạo này đang khó khăn về tài chính.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review món phao câu gà nướng mua ven đường. Người nói chia sẻ trải nghiệm ăn món này, vừa ăn vừa trò chuyện về tình hình tài chính.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

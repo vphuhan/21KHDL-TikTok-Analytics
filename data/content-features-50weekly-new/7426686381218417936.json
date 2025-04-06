@@ -1,0 +1,92 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món sườn nướng nước tương và gợi ý nên thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chia sẻ quan điểm cá nhân",
+      "desc": "Thích nấu ăn ở nhà hơn dù tốn kém và mất thời gian.",
+      "impact_level": "1",
+      "viewer_emotion": "Đồng cảm hoặc không đồng tình."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Hướng dẫn chọn sườn, trụng sơ và để ráo.",
+      "impact_level": "2",
+      "viewer_emotion": "Nắm bắt các bước chuẩn bị."
+    },
+    {
+      "step": "Ướp sườn",
+      "desc": "Hướng dẫn nêm nếm gia vị và ướp trong 30 phút.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ hương vị món ăn."
+    },
+    {
+      "step": "Nướng sườn",
+      "desc": "Sử dụng nồi chiên không dầu và chia làm hai lần nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được cách chế biến món ăn."
+    },
+    {
+      "step": "Hoàn thiện",
+      "desc": "Quét mật ong trước khi chín để tạo độ bóng và ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn ăn ngay."
+    },
+    {
+      "step": "Thưởng thức và đánh giá",
+      "desc": "Đánh giá món ăn đơn giản, ngon miệng và dễ làm.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn thử làm theo."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Sáng tạo"
+  ],
+  "cta_content": [
+    "Nếu mà chưa thì thử làm theo em cái cách này đi.",
+    "Nên nếu mà bữa nay chưa có biết ăn cái gì á thì mấy bà tham khảo thử cái món này nghe. Bảo đảm là không ngon không lấy tiền nè."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "dính",
+    "mặn mặn",
+    "ngọt ngọt",
+    "cay cay"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trời ơi ăn dính lắm nha.",
+    "Mấy bà mà không có biết nấu ăn á thì cũng làm được nữa.",
+    "Bảo đảm là không ngon không lấy tiền nè."
+  ],
+  "hook_content": "Thường nướng nước tương đó giờ mấy bạn ăn thử chưa? Nếu mà chưa thì thử làm theo em cái cách này đi.",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn cách làm sườn nướng nước tương bằng nồi chiên không dầu, món ăn đơn giản, dễ làm và ngon miệng. Người làm chia sẻ kinh nghiệm cá nhân và đảm bảo món ăn sẽ thành công.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

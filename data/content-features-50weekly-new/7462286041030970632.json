@@ -1,0 +1,100 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu chung",
+      "desc": "Giới thiệu quán cơm của Quang Linh Vlog và trải nghiệm cá nhân.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về trải nghiệm và quán ăn."
+    },
+    {
+      "step": "Phản hồi về dịch vụ",
+      "desc": "Phàn nàn về việc phục vụ chậm trễ và thiếu chuyên nghiệp.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với sự bất tiện."
+    },
+    {
+      "step": "Đánh giá món bí nụ xào",
+      "desc": "Thử món bí nụ xào sốt XO và đưa ra nhận xét khách quan.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung vào hương vị món ăn."
+    },
+    {
+      "step": "Giải thích quan điểm",
+      "desc": "Giải thích lý do review mang về thay vì ăn tại quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Hiểu rõ hơn về mục đích của người review."
+    },
+    {
+      "step": "Đánh giá món cá thu",
+      "desc": "Miêu tả hương vị cá thu, phát hiện thiếu nước sốt gỏi.",
+      "impact_level": "2",
+      "viewer_emotion": "Chú ý đến chi tiết món ăn."
+    },
+    {
+      "step": "Đánh giá chả giò",
+      "desc": "Khen chả giò Chu Linh là món ăn ngon nhất.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú với món ăn được khen."
+    },
+    {
+      "step": "Lời kết và xin lỗi",
+      "desc": "Cảm ơn và xin lỗi về những thiếu sót trong video.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm nhận sự chân thành."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chuyên nghiệp",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Nếu mà coi cái kênh lúc anh lúc ảnh thì mọi người phải biết một điều là mình rất thích anh Quang Linh và, và chị Hà luôn!",
+    "Rồi cảm ơn mọi người đã coi clip này và lỡ như có những cái gì đó mà làm cho fan của mọi người mà làm thấy a buồn lòng thì em cũng rất là xin lỗi và lỡ như a, cơ mặt em này kia nó cũng chưa có ok lắm thì à cũng rất là xin lỗi mọi người và lỡ như trong những cái lời nói mà trợ lý em truyền đạt lại thông tin, mọi người check camera mà nó không đúng như những gì mà trợ lý em nói thì mọi người có thể feedback lại cho em và em sẽ lên một cái clip để em đính chính lại cho tất cả mọi bên."
+  ],
+  "cta_type": [
+    "Follow kênh",
+    "Bình luận",
+    "Chia sẻ"
+  ],
+  "emotion_keywords": [
+    "thích",
+    "ngon",
+    "vừa vị",
+    "thơm",
+    "ấm",
+    "vui",
+    "ấm no",
+    "yêu thương",
+    "bình an",
+    "mừng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Thì mình không thích câu này nha! Tại vì một khi quán đã chấp nhận bán mang về thì, tự nhiên khách người ta tới, người ta ngồi, người ta đợi kêu là đáng lẽ hôm nay quán không bán mang về, là làm sao?",
+    "Giống như, anh thích em á, mặc dù em không phải là gu của anh, vậy đừng có thích em!",
+    "Ăn một quán ăn nào đó mà mọi người cảm nhận đồ ăn nó có cái riêng á, thì mình mới có cái sự lưu luyến để mình quay lại."
+  ],
+  "hook_content": "Trên mạng, cơm new của anh Quang Linh Vlog! Ngoài đời nha mọi người ơi!",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán cơm của Quang Linh Vlog, tập trung vào trải nghiệm thực tế khi mua mang về, từ dịch vụ đến chất lượng món ăn. Người review đánh giá khách quan và đưa ra góp ý cải thiện.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Khó chịu"
+  ]
+}

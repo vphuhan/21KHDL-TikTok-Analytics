@@ -1,0 +1,90 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món chả cá chiên cốm và chia sẻ trải nghiệm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Giới thiệu nguyên liệu",
+      "desc": "Liệt kê các nguyên liệu cần thiết và nơi mua chúng.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích."
+    },
+    {
+      "step": "Ướp cá",
+      "desc": "Hướng dẫn cách ướp cá basa và cá thác lát.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến công thức."
+    },
+    {
+      "step": "Quết chả cá",
+      "desc": "Hướng dẫn chi tiết cách quết chả cá.",
+      "impact_level": "3",
+      "viewer_emotion": "Thấy thú vị với kỹ thuật."
+    },
+    {
+      "step": "Tạo hình và bọc cốm",
+      "desc": "Hướng dẫn tạo hình và bọc cốm cho chả cá.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung thành phẩm."
+    },
+    {
+      "step": "Chiên chả cá",
+      "desc": "Hướng dẫn chiên chả cá đến khi vàng giòn.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn ăn ngay."
+    },
+    {
+      "step": "Ước tính chi phí",
+      "desc": "Tính toán chi phí và khẳng định giá rẻ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn vì rẻ."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "thèm",
+    "giòn",
+    "ngon",
+    "rẻ"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Món chả cá chiên cốm này á một viên chưa tới 1.000",
+    "Mấy bạn để lâu á nó không có bị mềm tại vì cái cốm này nó giòn rất là lâu luôn.",
+    "Ra cái công thức nào mà ngon á là Khải mới dám lên đây share công thức cho mấy bạn á"
+  ],
+  "hook_content": "Trong trường hợp mà nếu hôm nay á chưa ai nói cho mấy bạn biết á là món chả cá chiên cốm này á một viên chưa tới 1.000 á thì để hôm nay Quan Khải nói cho mấy bạn biết nghen.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món chả cá bọc cốm chiên giòn với giá chưa tới 1.000 đồng một viên, chia sẻ công thức chi tiết và các mẹo để chả cá giòn lâu.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

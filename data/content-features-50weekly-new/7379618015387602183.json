@@ -1,0 +1,85 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Đặt câu hỏi về cách rang cơm với trứng",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Chia sẻ kinh nghiệm",
+      "desc": "Nêu quan điểm cá nhân và giải thích lý do",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình"
+    },
+    {
+      "step": "Kể chuyện",
+      "desc": "Nhắc đến quán nhậu và công việc bếp núc",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chế biến món ăn",
+      "desc": "Rang cơm thập cẩm phục vụ lũ trẻ",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp"
+    },
+    {
+      "step": "Than thở",
+      "desc": "Bất lực khi con hỏi ăn liên tục",
+      "impact_level": "2",
+      "viewer_emotion": "Thấu hiểu"
+    },
+    {
+      "step": "Xin gợi ý",
+      "desc": "Hỏi món ăn nhanh gọn từ người xem",
+      "impact_level": "2",
+      "viewer_emotion": "Mong đợi"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Góp vui cho tôi vài món để tôi bắt trước làm theo với nào?"
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Chia sẻ công thức",
+    "Đặt câu hỏi"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ấm bụng",
+    "lười"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "cơm mà rang với mỡ lợn, tí mắm tí muối thôi là ngon lắm rồi",
+    "ở nhà chúng nó gọi mẹ ơi cỡ 500 lần, trong đấy là 100 lần là nhà có gì ăn không mẹ nhỉ?",
+    "con người thuộc cung lười như tôm mà bảo làm phức tạp là tôi chịu chết đấy"
+  ],
+  "hook_content": "Cơm mà trứng rồi rang lên hay là cứ rang cơm trước rồi đập trứng sau, các bác làm như thế nào?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ cách rang cơm cùng trứng và xin gợi ý các món ăn nhanh gọn từ người xem, đặc biệt phù hợp cho các bà mẹ bận rộn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hài hước"
+  ]
+}

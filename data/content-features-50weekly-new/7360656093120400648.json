@@ -1,0 +1,88 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu ngày chia tay và kế hoạch đi chợ mua đồ ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Mua sắm",
+      "desc": "Đi chợ mua cá tra, sầu riêng và rau để nấu lẩu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Bữa ăn",
+      "desc": "Giới thiệu các món ăn trong bữa tiệc chia tay.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm cúng"
+    },
+    {
+      "step": "Chia sẻ",
+      "desc": "Chia sẻ cảm xúc buồn khi phải rời Việt Nam.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm"
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu và quảng cáo các sản phẩm chăm sóc sức khỏe.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Di chuyển",
+      "desc": "Thức dậy sớm và di chuyển ra sân bay.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Tạm biệt",
+      "desc": "Chia tay người thân và hứa hẹn ngày trở lại.",
+      "impact_level": "3",
+      "viewer_emotion": "Xúc động"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Ai có nhu cầu thì nhắn cho Misu shop giùm mình nha."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "thèm",
+    "buồn",
+    "mừng vui",
+    "mến tay mến chân"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bữa nay là xác định ăn cho đã một bữa nữa rồi về bển chiêu mỏ nha.",
+    "Về có 20 ngày chưa ăn uống được gì hết trơn rồi tới ngày đi nữa rồi.",
+    "Mình đi sớm vậy là tại vì sợ nhiều lúc có kẹt xe cũng không có bị trễ giờ nữa."
+  ],
+  "hook_content": "Đây là cái ngày mà muốn hay không gì bọn mình cũng phải quay lại hàng.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại ngày cuối cùng của gia đình trước khi trở lại Hàn Quốc, với các hoạt động đi chợ mua sắm, ăn lẩu cá tra chia tay, giới thiệu sản phẩm và chia sẻ cảm xúc lưu luyến.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

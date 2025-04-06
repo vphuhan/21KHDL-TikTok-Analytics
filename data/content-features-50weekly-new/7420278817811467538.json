@@ -1,0 +1,79 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu và đề nghị trao đổi",
+      "desc": "Chủ kênh đề nghị trao đổi món ăn với chủ quán mì.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn được trao đổi."
+    },
+    {
+      "step": "Thưởng thức mì trộn",
+      "desc": "Chủ kênh ăn thử mì trộn thập cẩm của quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy món mì hấp dẫn và muốn thử."
+    },
+    {
+      "step": "Xin món ngon từ khách",
+      "desc": "Chủ kênh xin một bé trai món ngon hơn mì mẹ nấu.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy hành động này khá hài hước."
+    },
+    {
+      "step": "Mua chè khúc bạch",
+      "desc": "Chủ kênh đi mua chè khúc bạch để trao đổi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về phản ứng của chủ quán."
+    },
+    {
+      "step": "Chủ quán ăn thử chè",
+      "desc": "Chủ quán ăn và nhận xét về chè khúc bạch.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ khi chủ quán thích món chè."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người mà biết quán nào ngon mà quan trọng nhá chủ phải dễ tính thì comment cho mình biết nha."
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "rẻ",
+    "mát",
+    "vừa phải",
+    "thanh thanh",
+    "mát mát",
+    "không bị ngọt quá"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Hôm nay tôi quyết định xin một món ngon nhất của chị để trao đổi với một món ăn bất ngờ của tôi.",
+    "Mọi người mà biết quán nào ngon mà quan trọng nhá chủ phải dễ tính thì comment cho mình biết nha."
+  ],
+  "hook_content": "Chị ơi, chị mời em một món ngon nhất của quán của chị được không? Xong rồi ấy em sẽ mời chị một món ngon nhất của em.",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Chủ kênh TikTok thực hiện trao đổi món ăn với chủ quán mì, sau đó mua chè khúc bạch để trao đổi và nhận được phản hồi tích cực. Video kết thúc bằng lời kêu gọi khán giả chia sẻ các quán ăn ngon khác.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

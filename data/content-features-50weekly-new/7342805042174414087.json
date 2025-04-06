@@ -1,0 +1,75 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món cơm nhà hai món gồm thịt viên và canh rong biển.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Kể chuyện tuổi thơ",
+      "desc": "Chia sẻ kỷ niệm về việc thích ăn bánh mì thịt nướng hơn cơm nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với câu chuyện."
+    },
+    {
+      "step": "Hướng dẫn làm thịt viên",
+      "desc": "Hướng dẫn chi tiết cách làm thịt viên sốt nước tương.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn làm theo ngay."
+    },
+    {
+      "step": "Hướng dẫn nấu canh",
+      "desc": "Hướng dẫn nấu canh rong biển thịt bằm đơn giản, nhanh chóng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy công thức dễ làm."
+    },
+    {
+      "step": "Hoàn thành và thưởng thức",
+      "desc": "Mời mọi người cùng ăn cơm và kết thúc video.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đói bụng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Gen Z"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "ngọt ngọt",
+    "mặn mặn",
+    "mềm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Dưới 100 cành hoa là mấy bà đã có cái bữa cơm này mà bốn năm người ăn vô tư luôn ha.",
+    "Ngon nhất là mấy bạn nướng trên lửa than, còn không mấy bạn áp chảo cũng rất là ngon nha.",
+    "Ướp thì Khải sẽ gắn định lượng ở trên màn hình nha."
+  ],
+  "hook_content": "Cóc cóc cóc cóc, hôm nay ăn gì Khải ơi?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn nấu cơm nhà hai món đơn giản gồm thịt viên sốt nước tương và canh rong biển thịt bằm, đồng thời chia sẻ kỷ niệm tuổi thơ liên quan đến ẩm thực.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

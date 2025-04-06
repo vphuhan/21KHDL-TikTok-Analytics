@@ -1,0 +1,64 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Mời mọi người cùng ăn bún bò Huế, quay cận cảnh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Chia sẻ trải nghiệm",
+      "desc": "Thèm bún bò từ lâu, giờ mới được ăn ngoài đường.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Kể chuyện",
+      "desc": "Kể về lần mua bún bò về ăn nhưng quên quay.",
+      "impact_level": "2",
+      "viewer_emotion": "Tiếc nuối"
+    },
+    {
+      "step": "Nhấn mạnh hương vị",
+      "desc": "Bún bò phải ăn cay mới ngon, ăn hết sạch.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "cay cay"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Bữa giờ thèm bún bò dữ trời luôn, giờ mới ăn luôn á.",
+    "Bún bò mọi người, phải ăn cay cay mới ngon."
+  ],
+  "hook_content": "Ừm. Mời mọi người ăn bún bò của Huệ nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh người nói ăn bún bò Huế ngoài đường, chia sẻ cảm giác thèm ăn và kể lại trải nghiệm ăn bún bò trước đó. Người nói nhấn mạnh vị cay của món ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

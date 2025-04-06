@@ -1,0 +1,78 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán hủ tiếu nổi tiếng ở quận 11, Sài Gòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán hủ tiếu"
+    },
+    {
+      "step": "Gọi món và chờ đợi",
+      "desc": "Gọi hủ tiếu thập cẩm, sau đó đổi sang hủ tiếu mì thập cẩm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Miêu tả chi tiết hương vị nước lèo, thịt, và các thành phần.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Trải nghiệm ăn uống",
+      "desc": "Nhận xét về không gian quán và sự phục vụ.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm"
+    },
+    {
+      "step": "Lời khen và kết luận",
+      "desc": "Khen ngợi món ăn và chúc quán ăn phát đạt.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Giới thiệu toàn thể anh em bà con nha, đây là hủ tiếu của Bảo Ký của anh Bảo ở quận 11 nhá, bao ngon."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "thích thú",
+    "ngon",
+    "ngậy",
+    "thích thú",
+    "ấm áp"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Khi cái muỗng nước lèo đầu tiên chạm vào lưỡi của tôi, tôi cảm nhận được cái vị ngọt của xương hầm, hòa quyện với cả cái vị béo nhẹ của thịt.",
+    "Kiểu nó bình dị nhẹ nhàng. Mà lại thơm ngon ấm áp đúng kiểu đường phố của Sài Gòn.",
+    "Ăn xong tô hủ tiếu toát hết cả mồ hôi."
+  ],
+  "hook_content": "cho em xin phép quay một tí ạ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán hủ tiếu chờ nổi tiếng ở quận 11, Sài Gòn, với những đánh giá chi tiết về hương vị và trải nghiệm ăn uống tại quán. Người xem được dẫn dắt qua quá trình gọi món, chờ đợi và thưởng thức món hủ tiếu đặc biệt này.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu mục đích",
+      "desc": "Giới thiệu video sẽ mua đồ ăn ở cửa hàng tiện lợi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về những món ăn được chọn."
+    },
+    {
+      "step": "Liệt kê các món đã mua",
+      "desc": "Liệt kê và đọc giá tiền của từng món đã mua.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy giá cả chi tiết của các món ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [],
+  "has_cta": "false",
+  "highlight_phrases": [],
+  "hook_content": "Trăm nghìn mua được gì?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Liệt kê"
+  ],
+  "summarization": "Video mukbang tại cửa hàng tiện lợi, người quay giới thiệu các món ăn đã mua với tổng giá trị 300k.",
+  "tone_of_voice": [
+    "Trung lập"
+  ]
+}

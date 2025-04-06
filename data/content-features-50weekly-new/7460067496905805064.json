@@ -1,0 +1,64 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu bằng câu hỏi",
+      "desc": "Sử dụng câu hỏi 'Nếu mà sau này anh nghèo...' để mở đầu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự liên quan giữa câu hỏi và nội dung."
+    },
+    {
+      "step": "Nhấn mạnh câu hỏi",
+      "desc": "Lặp lại câu hỏi để tăng sự chú ý và tạo sự tò mò.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy hơi khó hiểu."
+    },
+    {
+      "step": "Tiếp tục khẳng định",
+      "desc": "Diễn giải thêm về tình huống 'sau này nghèo' để nhấn mạnh.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, vẫn chưa rõ mục đích của video."
+    },
+    {
+      "step": "Chèn nhạc",
+      "desc": "Chèn nhạc có lời bài hát phù hợp với nội dung câu hỏi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy video có vẻ tâm trạng và sâu lắng."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nếu mà sau này anh nghèo á, em còn yêu anh nữa không?",
+    "Bây giờ chưa đủ nghèo á, sau này nữa.",
+    "Trăm đau ngàn đau nhưng sao vẫn cứ thầm làm ngơ về một ngày bên nhau."
+  ],
+  "hook_content": "Nếu mà sau này anh nghèo á, em còn yêu anh nữa không?",
+  "hook_type": [
+    "Đặt câu hỏi"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Đối thoại"
+  ],
+  "summarization": "Video mở đầu bằng một đoạn hội thoại hỏi về tình yêu khi nghèo khó, sau đó chèn nhạc tâm trạng. Video có thể liên quan đến việc chia sẻ một công thức nấu ăn đơn giản, có lẽ là 'bánh mì bơ sữa không cần lò nướng' như description đề cập.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

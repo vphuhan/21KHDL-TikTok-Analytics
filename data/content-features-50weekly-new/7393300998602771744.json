@@ -1,0 +1,53 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mua hàng",
+      "desc": "Khách hàng mua các món ăn vặt khác nhau tại một quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn vặt."
+    },
+    {
+      "step": "Lấy đồ",
+      "desc": "Người bán đưa đồ ăn cho khách hàng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Khách hàng ăn thử các món ăn vặt.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn biết cảm nhận về hương vị."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [],
+  "has_cta": "false",
+  "highlight_phrases": [],
+  "hook_content": "老闆, 鴨蛋跟辣椒要放好吃麵.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Đối thoại"
+  ],
+  "summarization": "Video ghi lại cảnh khách hàng mua và thưởng thức các món ăn vặt tại một quán ăn ở Trung Quốc. Các món ăn được mua bao gồm mỳ, trứng vịt và kem.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Trung lập"
+  ]
+}

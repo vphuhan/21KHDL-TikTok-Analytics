@@ -1,0 +1,104 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bánh Dubai",
+      "desc": "Giới thiệu về bánh Dubai nhà giàu, size nhỏ, có vàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về bánh đắt tiền"
+    },
+    {
+      "step": "Đánh giá hình thức",
+      "desc": "Đánh giá vẻ ngoài lấp lánh và lớp cacao của bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với vẻ đẹp"
+    },
+    {
+      "step": "Thử và đánh giá hương vị",
+      "desc": "Thử bánh và đánh giá các lớp hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ hương vị đặc biệt"
+    },
+    {
+      "step": "Đánh giá thành phần",
+      "desc": "Đánh giá riêng các thành phần như socola, sợi katafi.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm về nguyên liệu"
+    },
+    {
+      "step": "So sánh và chấm điểm",
+      "desc": "So sánh hai loại bánh và chấm điểm từng loại.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá"
+    },
+    {
+      "step": "Nhận xét về trải nghiệm",
+      "desc": "Đưa ra lời khuyên về kỳ vọng khi ăn bánh Dubai.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thông tin hữu ích"
+    },
+    {
+      "step": "Đánh giá cuối cùng",
+      "desc": "Đánh giá trải nghiệm cá nhân và khuyến khích tự trải nghiệm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn thử"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Chuyên nghiệp",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người đã coi clip của mình.",
+    "Và đây cũng chỉ là trải nghiệm cá nhân và đừng tin những gì mình review hãy tự ăn và tự cảm nhận nha."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo",
+    "Bình luận",
+    "Chia sẻ"
+  ],
+  "emotion_keywords": [
+    "ngọt",
+    "dịu nhẹ",
+    "bình thường",
+    "ấn tượng",
+    "đắng",
+    "ngon",
+    "thơm",
+    "xốp",
+    "dễ chịu",
+    "hòa quyện",
+    "hợp lý"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bánh 215 mà tao tưởng bánh 2 tỷ rưỡi không á.",
+    "Ăn thì ăn vui thôi.",
+    "Đừng bao giờ marketing bỏ hai chữ giàu nghèo và nói chung là nó hơi bị nhạy cảm."
+  ],
+  "hook_content": "Trên mạng bánh Dubai nhà giàu trăm. Ngoài đời lần này đã mua đúng bánh Dubai nhà giàu rồi nha mọi người ơi.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review bánh Dubai nhà giàu, tập trung vào trải nghiệm cá nhân về hương vị và giá trị sản phẩm so với kỳ vọng. Người review đưa ra đánh giá chi tiết về từng thành phần và so sánh giữa hai loại bánh khác nhau.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

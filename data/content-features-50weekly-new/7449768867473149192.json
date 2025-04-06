@@ -1,0 +1,72 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món Tokbokki và nguyên liệu, so sánh với Hàn Quốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự khác biệt giữa hai phiên bản."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Trình bày các nguyên liệu và đặc điểm của từng loại.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến nguyên liệu và cách chế biến."
+    },
+    {
+      "step": "Nấu món Tokbokki",
+      "desc": "Hướng dẫn chi tiết cách nấu hai vị Tokbokki.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú với quá trình nấu nướng và mong muốn thử."
+    },
+    {
+      "step": "Trình bày và thưởng thức",
+      "desc": "Thưởng thức món ăn cùng gia đình, nhận xét hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy ấm cúng và muốn tham gia vào bữa ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Rồi giờ thì mời ngưng ăn Tokki chung cả nhà mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "hấp dẫn",
+    "cay",
+    "ngon quá"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "mình sẽ nấu tóc Tokki ở Việt Nam, ăn thử xem có giống ở bên hàng không nha mọi người nha.",
+    "ăn nhất nách luôn á.",
+    "hấp dẫn không thua Tokki ở bên hàng của mình luôn rồi đó."
+  ],
+  "hook_content": "mình sẽ nấu tóc Tokki ở Việt Nam, ăn thử xem có giống ở bên hàng không nha mọi người nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn nấu món Tokbokki hai vị (truyền thống và nhân sâm) tại nhà với các nguyên liệu Việt Nam, đồng thời chia sẻ trải nghiệm ăn cùng gia đình.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

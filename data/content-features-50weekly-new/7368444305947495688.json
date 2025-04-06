@@ -1,0 +1,81 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món trứng gà nướng muối ớt và số lượng trứng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách chế biến món ăn này."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Chia sẻ về việc mua trứng gà lộn và các nguyên liệu làm sốt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, chỉ là thông tin về nguyên liệu."
+    },
+    {
+      "step": "Làm sốt",
+      "desc": "Hướng dẫn làm sốt tương ớt theo công thức riêng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với công thức làm sốt đơn giản."
+    },
+    {
+      "step": "Nướng trứng",
+      "desc": "Mô tả quá trình nướng trứng và trải nghiệm khi nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với cách nướng trứng độc đáo."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Cả gia đình cùng ăn trứng lộn nướng và thêm gia vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy vui vẻ và muốn thử món này."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Nhận xét về hương vị món ăn và sự yêu thích của gia đình.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào độ ngon của món ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Sáng tạo"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "hấp dẫn",
+    "ngon nhức nách"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Hồi xưa bà đặt cầu kỳ và vẻ chứ ở nhà mình luộc trứng lộn lên xong là chấm muối tiêu vậy là ăn à.",
+    "Nhìn nó hơi nhem nhem vậy thôi chứ nướng một hồi khu khu nướng lại chút nữa là ngon nhức nách luôn á mọi người."
+  ],
+  "hook_content": "Bữa nay cứ tưởng đâu là 30 hột gà lộn nướng muối ớt này sẽ làm khó được ba tụi hôn, mà ai ngờ không có dễ ăn nha.Ba tụi hôn thấy ngon quá.",
+  "hook_type": [
+    "Cho thấy kết quả trước",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn cách làm món trứng gà lộn nướng muối ớt, từ khâu chuẩn bị nguyên liệu, làm sốt đến nướng trứng và thưởng thức cùng gia đình, với nhiều biểu cảm và từ ngữ đời thường.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

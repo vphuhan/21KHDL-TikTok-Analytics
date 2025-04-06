@@ -1,0 +1,70 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món canh kim chi siêu to khổng lồ mang đi làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chia sẻ với đồng nghiệp",
+      "desc": "Mời đồng nghiệp ăn thử canh kim chi mang đến văn phòng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự chia sẻ."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Nhận xét về hương vị của canh kim chi, có vị đắng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung vào cảm nhận."
+    },
+    {
+      "step": "Ăn uống tiếp tục",
+      "desc": "Tiếp tục ăn và trò chuyện với đồng nghiệp.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Kết thúc bữa ăn",
+      "desc": "Nhận xét chung về món ăn và kết thúc bữa ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy no bụng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "đắng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Canh kim chi siêu to khổng lồ!",
+    "Nay tui có hộp canh kim chi siêu hợp thời tiết."
+  ],
+  "hook_content": "Cơm thôi! Canh kim chi siêu to khổng lồ! Úi xời ơi!",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại cảnh một người mang canh kim chi đến văn phòng chia sẻ với đồng nghiệp, cùng nhau ăn và trò chuyện.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

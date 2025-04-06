@@ -1,0 +1,91 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món gà hấp mắm nhĩ và gợi ý nên thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chọn nguyên liệu",
+      "desc": "Gợi ý chọn gà ta vườn để món ăn ngon hơn.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích."
+    },
+    {
+      "step": "Ướp gà",
+      "desc": "Liệt kê các gia vị ướp gà để tăng hương vị.",
+      "impact_level": "1",
+      "viewer_emotion": "Ghi chú lại công thức."
+    },
+    {
+      "step": "Chuẩn bị hấp",
+      "desc": "Thêm sả, hành, lá chanh vào bụng gà và lót nồi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với cách làm."
+    },
+    {
+      "step": "Pha sốt mắm",
+      "desc": "Nhấn mạnh tầm quan trọng của sốt mắm ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong muốn biết công thức."
+    },
+    {
+      "step": "Hấp gà",
+      "desc": "Mô tả mùi thơm kích thích khi mở nắp nồi.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy đói bụng."
+    },
+    {
+      "step": "So sánh và đánh giá",
+      "desc": "So sánh với gà nướng muối và đánh giá cao món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn thử ngay lập tức."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Lễ này mà chưa biết làm món gì á thì mọi người thử liền cái món này đi, nó siêu siêu ngon."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "đậm đà",
+    "xuất sắc",
+    "kích thích",
+    "hài lòng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ai mà chưa thử qua món này thì tiếc lắm đó.",
+    "Để gà được thơm hơn thì mình có cho ít sả cây, hành tím, lá chanh với lại tiếng xanh vào trong bụng của con gà.",
+    "Kiểu nó ngon ngoài sức mong đợi của mình nên hài lòng lắm luôn ý."
+  ],
+  "hook_content": "Gà hấp mắm nhĩ ngon thật sự nha mọi người. Ai mà chưa thử qua món này thì tiếc lắm đó.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu món gà hấp mắm nhĩ thơm ngon, đậm đà, hướng dẫn cách làm và chia sẻ trải nghiệm cá nhân khi thưởng thức món ăn này. Món ăn được đánh giá là ngon ngoài sức mong đợi.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

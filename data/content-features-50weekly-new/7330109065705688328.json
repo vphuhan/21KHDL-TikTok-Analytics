@@ -1,0 +1,79 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán phở",
+      "desc": "Giới thiệu quán phở gà sang trọng và món ăn đặc trưng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán phở sang trọng."
+    },
+    {
+      "step": "Đánh giá giá cả",
+      "desc": "Đề cập đến giá cả và sự đắt đỏ của quán phở.",
+      "impact_level": "2",
+      "viewer_emotion": "Cân nhắc về giá cả."
+    },
+    {
+      "step": "Nhận xét về khách hàng",
+      "desc": "Khách hàng chủ yếu là người lớn tuổi, gia đình.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Đánh giá chi tiết về phở nước đặc biệt.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử."
+    },
+    {
+      "step": "Kết luận và địa chỉ",
+      "desc": "Khẳng định giá trị và cung cấp địa chỉ quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ghé thăm quán."
+    }
+  ],
+  "content_style": [
+    "Sang trọng",
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "sang trọng",
+    "thoải mái",
+    "ấm no",
+    "chất lượng",
+    "xứng đáng",
+    "phí"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "miếng thịt thái dày ngập đẫm miệng thì thôi nhé luôn",
+    "phở gà sang trọng từ không gian tới giá thành",
+    "bát đặc biệt này thịt nhiều hơn cả bánh phở"
+  ],
+  "hook_content": "Đi ăn phở gà sang trọng nhất thủ đô nha, vẫn cứ là miếng thịt thái dày ngập đẫm miệng thì thôi nhé luôn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quán phở gà Huyền Hương sang trọng ở Hà Nội, tập trung vào chất lượng món ăn và không gian quán. Mặc dù giá cao nhưng quán rất đáng để thử với những người sành ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

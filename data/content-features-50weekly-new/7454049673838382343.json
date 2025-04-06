@@ -1,0 +1,76 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu nước sốt phở cô đặc giúp nấu phở nhanh và đơn giản.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sản phẩm và tính tiện lợi."
+    },
+    {
+      "step": "Hướng dẫn sử dụng",
+      "desc": "Hướng dẫn tỷ lệ pha chế và gợi ý không cần thêm gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự tiện lợi khi không cần nêm nếm."
+    },
+    {
+      "step": "Nêu ưu điểm",
+      "desc": "Nêu ưu điểm của việc nấu phở tại nhà: thịt tươi, nhiều topping.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình với việc tự nấu để đảm bảo chất lượng."
+    },
+    {
+      "step": "Chia sẻ quy trình",
+      "desc": "Chia sẻ quy trình nấu phở nhanh gọn với nước cốt phở.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được tính khả thi và nhanh chóng của việc nấu phở."
+    },
+    {
+      "step": "Kêu gọi mua hàng",
+      "desc": "Giới thiệu nơi mua sản phẩm ở góc trái màn hình.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thông tin hữu ích nếu muốn mua sản phẩm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Sản phẩm thì Trinh có để ở góc trái màn hình mọi người tham khảo nha."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "thơm ngon",
+    "ngon lành",
+    "đầy đủ chất dinh dưỡng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Chỉ với 20 phút đã có ngay bát phở thơm ngon như ngoài hàng luôn.",
+    "Mùi thì thơm như là phở ngoài hàng luôn.",
+    "Vậy là có ngay bữa sáng ngon lành đầy đủ chất dinh dưỡng cho cả nhà."
+  ],
+  "hook_content": "Chỉ với 20 phút đã có ngay bát phở thơm ngon như ngoài hàng luôn.",
+  "hook_type": [
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu nước sốt phở cô đặc giúp nấu phở nhanh chóng và dễ dàng tại nhà chỉ trong 20 phút, với hương vị thơm ngon như ngoài hàng và đầy đủ dinh dưỡng.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

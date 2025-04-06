@@ -1,0 +1,65 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu đồ ăn vặt được Hồng Ngọc yêu thích trên TikTok.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn được giới thiệu."
+    },
+    {
+      "step": "Ăn thử và đánh giá",
+      "desc": "Cả hai người cùng ăn và đưa ra nhận xét về hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú với những đánh giá chân thật."
+    },
+    {
+      "step": "So sánh sản phẩm",
+      "desc": "So sánh sản phẩm hiện tại với các phiên bản trước.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự khác biệt của sản phẩm."
+    },
+    {
+      "step": "Nhận xét về giá",
+      "desc": "Đề cập đến giá cả của các sản phẩm khác nhau.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không quá đặc biệt."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "cay cay",
+    "chất lượng hơn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Càng về sau là người ta càng làm mấy cái đồ này chất lượng hơn ấy."
+  ],
+  "hook_content": "Nghe bảo đồ TikTok Hồng Ngọc thích cái này lắm, nên là mình đã mua hẳn một combo về để múc bang.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video ghi lại cảnh mukbang các món ăn vặt cay của nhà Đại Long, với những đánh giá, so sánh sản phẩm chân thật.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

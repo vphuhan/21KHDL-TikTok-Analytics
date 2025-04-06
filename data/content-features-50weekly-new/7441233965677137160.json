@@ -1,0 +1,74 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu món ăn chính là cua nâu Island và lý do ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món cua nâu Island."
+    },
+    {
+      "step": "Chuẩn bị",
+      "desc": "Mô tả quá trình chuẩn bị cua và nước chấm hải sản.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, chỉ là chuẩn bị."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Thưởng thức cua và mô tả hương vị, cảm nhận.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng hương vị cua."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Đánh giá chất lượng và giá cả của cua.",
+      "impact_level": "2",
+      "viewer_emotion": "Cân nhắc giá trị của món ăn."
+    },
+    {
+      "step": "Chia sẻ",
+      "desc": "Chia sẻ cua cho người thân vì quá to.",
+      "impact_level": "1",
+      "viewer_emotion": "Ấm áp, cảm giác gia đình."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "béo",
+    "bùi",
+    "thơm",
+    "ngon",
+    "ổn áp"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ai mà không thích ăn đơn giản thì mình có thể làm cái món sốp trứng muối cũng ok lắm luôn.",
+    "Thịt nó mình ăn vào mình sẽ cảm nhận được cái vị thơm, vị béo liền và đặc biệt á mình nghe có mùi dừa trong hai cái phần thịt của nó á mọi người.",
+    "Nếu con này tôi nghĩ á trời ơi ba người ăn cũng đủ nữa tại vì nó to dữ lắm luôn á."
+  ],
+  "hook_content": "Hi mọi người! Tối nay mình ăn cua nâu Island nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang cua nâu Island, người ăn mô tả hương vị, chất lượng và chia sẻ trải nghiệm ăn cua. Cua có nhiều gạch, trứng, thịt thơm ngon và béo ngậy.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

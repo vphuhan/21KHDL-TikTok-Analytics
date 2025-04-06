@@ -1,0 +1,72 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu xúc xích phô mai và chương trình khuyến mãi của nhãn hàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy sản phẩm hấp dẫn và chương trình thú vị."
+    },
+    {
+      "step": "Trải nghiệm sản phẩm",
+      "desc": "Ăn thử xúc xích bắp và chia sẻ cảm nhận về hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị xúc xích bắp."
+    },
+    {
+      "step": "Săn thẻ cào",
+      "desc": "Mở hộp xúc xích lớn và tìm thẻ cào trúng thưởng.",
+      "impact_level": "2",
+      "viewer_emotion": "Hồi hộp chờ đợi kết quả trúng thưởng."
+    },
+    {
+      "step": "Nhận giải thưởng",
+      "desc": "Nhận được khuyến khích thêm xúc xích và tiếp tục cào thẻ.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ vì nhận được thêm sản phẩm."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ghiền",
+    "mê",
+    "đã",
+    "thèm",
+    "ngon",
+    "dính",
+    "mãn nguyện",
+    "vui"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ta nói cây trúc chích ghiền này mê nhất vẫn là phô mai ngập tràn ăn đã dễ sợ.",
+    "Vậy là bé nên mình đi săn xúc xích ăn cho đã. Còn săn vàng thì cứ để ha chị đẹp lo.",
+    "Hành trình săn vàng rồng này coi bộ lời được nhiều trúc chích hơn á nha."
+  ],
+  "hook_content": "Truyện thuyết kể rằng có làm thì mới có ăn mà muốn ăn thì phải lăng vào bếp.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review xúc xích phô mai và xúc xích bắp của Việt Interfood, đồng thời giới thiệu chương trình khuyến mãi \"bé săn xúc xích, mẹ săn vàng rồng\". Người xem trải nghiệm sản phẩm và săn thẻ cào trúng thưởng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

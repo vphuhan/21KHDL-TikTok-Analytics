@@ -1,0 +1,90 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán kem bơ sầu riêng mới khai trương ở Phú Nhuận.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về địa điểm mới."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Đánh giá món kem bơ sầu riêng ngon xuất sắc của quán.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng muốn ăn thử."
+    },
+    {
+      "step": "Thông tin chi tiết",
+      "desc": "Địa điểm, giá cả và loại sầu riêng được sử dụng.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến thông tin chi tiết."
+    },
+    {
+      "step": "Ưu đãi khai trương",
+      "desc": "Thông báo về chương trình khuyến mãi nhân dịp khai trương.",
+      "impact_level": "3",
+      "viewer_emotion": "Háo hức vì giá rẻ."
+    },
+    {
+      "step": "Giới thiệu thêm",
+      "desc": "Giới thiệu các món ăn vặt khác của quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món khác."
+    },
+    {
+      "step": "Nhắc nhở",
+      "desc": "Nhắc lại thời gian khuyến mãi và địa chỉ quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Cần thông tin để ghé thăm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người nhớ thử mấy cái bánh này của quán nha ta nói nó ngon xuất sắc luôn á.",
+    "Nhớ là chỉ duy nhất trong 2 ngày thôi nha mọi người địa chỉ của quán tính"
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngon xuất sắc",
+    "bùi",
+    "béo",
+    "thích mê",
+    "ngon xỉu",
+    "cực kỳ rẻ",
+    "cực hợp lý"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ở Phú Nhuận có một quán kem bơ sầu riêng nguyên muối siêu ngon luôn",
+    "kem bơ sầu riêng của quán này phải nói là ngon xuất sắc luôn á",
+    "Má ơi nhìn cái ly nớp siêu bự luôn ăn ngập miệng luôn đó nha mọi người"
+  ],
+  "hook_content": "ở Phú Nhuận có một quán kem bơ sầu riêng nguyên muối siêu ngon luôn mà nhân dịp khai trương chi nhánh mới quán đang có chương trình đồng giá là 15.000đ cho ly kem bơ và trà trái cây nữa đó mọi người.",
+  "hook_type": [
+    "Khuyến mãi",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu quán kem bơ sầu riêng mới khai trương ở Phú Nhuận, món kem bơ sầu riêng được đánh giá là ngon xuất sắc, đặc biệt có chương trình khuyến mãi hấp dẫn nhân dịp khai trương.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

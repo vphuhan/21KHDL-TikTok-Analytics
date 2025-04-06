@@ -1,0 +1,91 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu về chợ phiên Si Ma Cai và món phở ở đây",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Phỏng vấn",
+      "desc": "Hỏi người bán hàng và người dân địa phương về phở",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Miêu tả món ăn",
+      "desc": "Mô tả chi tiết về bát phở vùng cao và cách ăn",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "So sánh phở vùng cao với phở Hà Nội và đưa ra nhận xét",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng ý"
+    },
+    {
+      "step": "Giới thiệu thêm",
+      "desc": "Giới thiệu các món ăn khác ở chợ phiên",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Khuyến khích trải nghiệm ẩm thực vùng cao",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán phở và chủ quán",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Truyền thống",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Nếu như các bác có dịp đi lên chợ phiên vùng cao một lần thì hãy thử trải nghiệm văn hóa ẩm thực vùng cao trên tôi nhá."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "vui",
+    "phấn khởi"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Xét theo kiểu nét ngon của Hà Nội thì đây không phải là một bát phở ăn ngon, đấy là nói thật. Nhưng mà để nói theo kiểu cái ngon, cái đẹp của văn hóa vùng cao thì đây chắc chắn phải là một bát phở ăn rất ngon.",
+    "Một cái bát phở đặc trưng kiểu vùng cao Tây Bắc ấy thì việc đầu tiên là phải có bánh phở màu đỏ được làm từ gạo nương. Tiếp theo là khi ăn phở phải cho thêm một ít đậu xị và một ít dưa chua vào nữa.",
+    "Chợ phiên một tuần chỉ có một lần thôi. Mà phần lớn bà con người đồng bào dân tộc thiểu số một tuần người ta có ăn phở một lần ở chợ phiên thôi."
+  ],
+  "hook_content": "phở ăn với cái gì đấy? đúng rồi cái gì vẫn có hết.",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review về phở chợ phiên Si Ma Cai, Lào Cai, tập trung vào sự khác biệt và nét đặc trưng của phở vùng cao so với phở ở miền xuôi, đồng thời giới thiệu về văn hóa ẩm thực độc đáo của vùng cao Tây Bắc.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

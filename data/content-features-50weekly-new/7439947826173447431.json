@@ -1,0 +1,83 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Người lạ nhờ shipper dẫn đi ăn mì ngon nhất Bách Khoa",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán ăn được giới thiệu"
+    },
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Shipper giới thiệu quán mì chua cay ngon nhất khu Bách Khoa",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với menu đa dạng"
+    },
+    {
+      "step": "Trải nghiệm món ăn",
+      "desc": "Thực khách trải nghiệm mì chua cay thập cẩm và đánh giá",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với hương vị đặc biệt"
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "So sánh với Phúc Tân, đánh giá topping và không gian quán",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm nhận được sự khác biệt của quán"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Cảm ơn shipper và địa chỉ quán mì ngon ở Bách Khoa",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn đến ăn thử quán mì này"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "bổ",
+    "rẻ",
+    "hấp dẫn",
+    "tò mò",
+    "hợp lý",
+    "bình thường",
+    "đậm vị",
+    "ấn tượng",
+    "cuốn",
+    "hay"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cái chai tương ớt này nó như kiểu là linh hồn của bát mì trộn ấy, ngồi đến đây ăn ăn nhất định phải cho cái tương ớt này vào, với cả cái bát nước chấm nữa, cho vào nó đúng bùng nổ trong miệng luôn.",
+    "Không phải khen chứ mì chua cay ở Phúc Tân 10 điểm ấy thì ở đây cũng phải 9 điểm, mà đợi mì có 15 phút thôi",
+    "Tôi ấn tượng nhất ấy là phần cật, không hiểu sao chị thái mỏng mỏng ấy mà công nhận ăn giòn thế nhỉ, bao nhiêu chỗ thái dày còn không giòn được ấy chứ"
+  ],
+  "hook_content": "Bạn ơi, bạn có chạy đơn ngoài không?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review quán mì chua cay ở Bách Khoa, được một shipper giới thiệu là bản đúp của Phúc Tân. Người review đánh giá cao hương vị và chất lượng món ăn, đặc biệt là phần cật giòn và tương ớt đặc trưng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

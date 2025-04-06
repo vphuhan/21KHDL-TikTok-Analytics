@@ -1,0 +1,70 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu đồ uống",
+      "desc": "Giới thiệu và thử vị trà đào mới, khen ngợi hương thơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị"
+    },
+    {
+      "step": "Chuẩn bị mì cay",
+      "desc": "Giới thiệu mì cay và các topping yêu thích như nấm, cá viên.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng, đói bụng"
+    },
+    {
+      "step": "Trộn và thưởng thức",
+      "desc": "Đổ nước mì cay, mời mọi người cùng ăn và bắt đầu thưởng thức.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn ăn cùng"
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Nhận xét món ăn nóng và ngon, ăn hết sạch.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mời các bạn ăn nha"
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "ngon",
+    "nóng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trà đào thơm quá.",
+    "Không được bỏ mứa, bỏ mứa sẽ xuống địa ngục.",
+    "Hết rồi, ngon quá."
+  ],
+  "hook_content": "Hôm nay tiếp tục ăn, nhưng tôi uống vị trà khác.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình ăn mì cay và uống trà đào. Người nói giới thiệu các món ăn, mời mọi người cùng ăn và đưa ra cảm nhận về hương vị.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

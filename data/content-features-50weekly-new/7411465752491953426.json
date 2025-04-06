@@ -1,0 +1,97 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu bằng chân gà",
+      "desc": "Reviewer buồn miệng và giới thiệu món chân gà đang hot.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chuẩn bị",
+      "desc": "Nhấn mạnh sự cần thiết của chén muối tiêu ớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự chuẩn bị."
+    },
+    {
+      "step": "Thưởng thức chân gà",
+      "desc": "Miêu tả hương vị và cảm giác khi ăn chân gà.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Chuyển sang gà riêm nấm",
+      "desc": "Giới thiệu món gà riêm nấm mối hấp dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Thưởng thức gà riêm nấm",
+      "desc": "Miêu tả hương vị đặc biệt của nấm mối và thịt gà.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng và thèm ăn."
+    },
+    {
+      "step": "Kết thúc bằng bim bim",
+      "desc": "Giới thiệu và ăn thử bim bim vị rong biển.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị bim bim."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm ngon",
+    "hấp dẫn",
+    "ghiền",
+    "dính",
+    "nhẹ nhàng",
+    "dễ ăn",
+    "dai dai",
+    "giòn giòn",
+    "chua chua",
+    "mặn mặn",
+    "ngọt ngọt",
+    "cay cay",
+    "ngon lành",
+    "hấp dẫn",
+    "dễ sợ",
+    "hết sảy",
+    "dai",
+    "chắc",
+    "ngọt nước",
+    "ngon",
+    "ngon quá"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Lần đầu tiên ăn cái món chân gà rút xương mà nó dính gì luôn á.",
+    "Ta nói ngồi vừa ăn vừa chấm cay hít hà đã thiệt chứ.",
+    "Bởi lâu lâu buồn miệng mà có đồ ăn vặt ngon. Rồi cơm chị đẹp cũng hấp dẫn kiểu vậy thì sao buồn miệng nữa."
+  ],
+  "hook_content": "Tự nhiên buồn miệng đi loanh quanh trong nhà xí lụm được cái chân gà.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review chân gà Bà Tuyết, gà riêm nấm mối của chị Đẹp và bim bim, tập trung mô tả hương vị và trải nghiệm ăn uống, thể hiện sự thích thú với các món ăn vặt và đặc sản.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

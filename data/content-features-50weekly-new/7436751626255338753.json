@@ -1,0 +1,83 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu hai hũ bánh tráng cuốn của hai thương hiệu khác nhau.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự khác biệt giữa hai loại."
+    },
+    {
+      "step": "So sánh bên ngoài",
+      "desc": "So sánh hình thức bên ngoài của hai hũ bánh tráng cuốn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy rõ sự khác biệt về hình thức."
+    },
+    {
+      "step": "Thử món 1",
+      "desc": "Ăn thử bánh tráng cuốn của Mimi Food và nêu cảm nhận.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng khi nghe mô tả."
+    },
+    {
+      "step": "Thử món 2",
+      "desc": "Ăn thử bánh tráng cuốn của Cô Bé và so sánh hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Nhận ra sự khác biệt trong hương vị."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Chấm điểm và so sánh ưu nhược điểm của hai loại bánh tráng.",
+      "impact_level": "2",
+      "viewer_emotion": "Có cái nhìn tổng quan và khách quan."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người đã coi clip của mình.",
+    "Bye bye!"
+  ],
+  "cta_type": [
+    "Chia sẻ",
+    "Chia sẻ công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "hấp dẫn",
+    "tươi mới",
+    "đậm đà",
+    "dẻo",
+    "vừa vặn",
+    "ngọt ngọt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Với tui 300 cành xứng mắt, nhưng mà nếu mà gọi là ai mà phải là thích cái món này, thì mua thì mọi người ăn mọi người cảm thấy là xứng đáng.",
+    "Mỗi lớp mình cảm giác là bả đều rắc hết. Nên là, mình cảm thấy là cái nguyên liệu, cái topping, từ trong ra ngoài đều nhiều."
+  ],
+  "hook_content": "Lần đầu tiên ăn một hũ bánh tráng 300 cành nha!",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "So sánh",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review hai loại bánh tráng cuốn hũ của Mimi Food và Cô Bé, so sánh về hình thức, hương vị và giá cả để đưa ra đánh giá khách quan, đồng thời chia sẻ trải nghiệm cá nhân khi thưởng thức.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu kẹo hạnh phúc",
+      "desc": "Giới thiệu về kẹo hạnh phúc và ý nghĩa của nó đầu năm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với ý tưởng kẹo mang lại may mắn."
+    },
+    {
+      "step": "Hướng dẫn làm kẹo",
+      "desc": "Hướng dẫn cách làm kẹo hạnh phúc một cách đơn giản.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò muốn biết nguyên liệu và cách làm."
+    },
+    {
+      "step": "Gợi ý nguyên liệu",
+      "desc": "Gợi ý nguyên liệu tùy chọn để làm kẹo theo sở thích.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy được khuyến khích sáng tạo với công thức."
+    },
+    {
+      "step": "Giới thiệu phiên live bán hàng",
+      "desc": "Thông báo về phiên live bán nguyên liệu làm kẹo.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hứng thú với ưu đãi và thông tin sản phẩm."
+    },
+    {
+      "step": "Khuyến mãi đặc biệt",
+      "desc": "Giới thiệu về ưu đãi tặng kèm máy hàn miệng túi.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với khuyến mãi hấp dẫn."
+    },
+    {
+      "step": "Kêu gọi tham gia live",
+      "desc": "Kêu gọi tham gia phiên live để được hướng dẫn trực tiếp.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn tham gia để học hỏi và đặt câu hỏi."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "nhất định 13 giờ chiều mai các bác phải tranh ngay và luôn đi để còn làm Tết nhá."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo",
+    "Truy cập link sản phẩm",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "hạnh phúc",
+    "thích",
+    "xịn",
+    "đẹp"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đầu năm ăn kẹo hạnh phúc là hạnh phúc cả năm luôn đó.",
+    "Mua một set nguyên liệu kẹo hạnh phúc, tặng ngay cho các bác một máy hàn miệng cực kỳ xịn mà giá đẹp như chưa bao giờ được đẹp luôn.",
+    "Trên live là tôi có làm kẹo trực tiếp luôn nè."
+  ],
+  "hook_content": "này nhất định phải ăn kẹo hạnh phúc nha các bác.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Khuyến mãi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu về cách làm kẹo hạnh phúc đơn giản tại nhà và thông báo về phiên live bán nguyên liệu làm kẹo với nhiều ưu đãi hấp dẫn, đồng thời hướng dẫn làm kẹo trực tiếp trên live.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

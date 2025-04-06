@@ -1,0 +1,94 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu măng vầu ngọt Tây Bắc và các loại nước chấm",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của măng vầu"
+    },
+    {
+      "step": "Thử món ăn",
+      "desc": "Ăn thử măng vầu chấm cùng cơm mẻ và mắm tôm",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú khi thấy món ăn ngon"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Miêu tả hương vị của măng vầu và các loại nước chấm",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm nhận được sự ngon miệng qua lời miêu tả"
+    },
+    {
+      "step": "Thử măng to",
+      "desc": "Ăn thử măng vầu củ to với nước chấm đặc biệt",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú với trải nghiệm ăn măng củ to"
+    },
+    {
+      "step": "Đánh giá tổng quan",
+      "desc": "Nhận xét về hương vị đặc trưng của măng và nước chấm",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy món ăn hấp dẫn và muốn thử"
+    },
+    {
+      "step": "Ăn món khác",
+      "desc": "Ăn thêm mận Tây Bắc và nhận xét về hương vị",
+      "impact_level": "1",
+      "viewer_emotion": "Tập trung vào cảm nhận về măng hơn"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Thông báo đã no và không ăn thêm được nữa",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy video đã kết thúc"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mời mọi người ăn cùng Vivi nhé."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngọt",
+    "ngon",
+    "ghiền",
+    "thơm",
+    "xuất sắc",
+    "hên",
+    "đắng",
+    "chua",
+    "chát"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Sao Vi hên vậy ta. Ăn nó ngọt ngay luôn đó mọi người ơi.",
+    "Tại sao măng này nó lại ngon được như này.",
+    "Măng này nó thơm mùi bắp, thơm đặc trưng lắm mọi người ơi."
+  ],
+  "hook_content": "Măng vầu ngọt Tây Bắc ăn ghiền quá.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang về măng vầu ngọt Tây Bắc, Vivi ăn và review các cách chấm khác nhau như cơm mẻ và mắm tôm, đồng thời chia sẻ cảm nhận về hương vị đặc trưng của măng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

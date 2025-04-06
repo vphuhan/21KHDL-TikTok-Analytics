@@ -1,0 +1,97 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán chè sầu yêu thích và lý do quán bán sầu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Mô tả chất lượng",
+      "desc": "Nhấn mạnh chất lượng sầu riêng và nguyên liệu tự làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Liệt kê món",
+      "desc": "Liệt kê menu đa dạng các món bánh, chè, kem, xôi, nước.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Gợi ý món nên thử",
+      "desc": "Gợi ý sầu nướng và chè sầu nguyên múi nên thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn thử"
+    },
+    {
+      "step": "Mô tả chi tiết món",
+      "desc": "Mô tả độ ngon của sầu nướng, chè sầu và các món khác.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Nhấn mạnh chất lượng",
+      "desc": "Túm váy lại là các món về sầu ở đây chất lượng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng"
+    },
+    {
+      "step": "Thông tin địa điểm",
+      "desc": "Thông tin địa điểm, thời gian mở cửa và view quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "nên mình rất tự tin giới thiệu mọi người tới thử các món về sầu."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "chân ái",
+    "thơm lừng",
+    "bao chất lượng",
+    "phê",
+    "ngọt",
+    "béo lịm tim",
+    "ngọt mát thanh thanh",
+    "chill chill",
+    "chất lượng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "vì chủ chắc chắn bán sầu vì lợi nhuận là chín, chứ vì đam mê là 10.",
+    "Tín đồ mê sầu như mình qua đây chỉ có phê ríu ríu rịu.",
+    "ngửi thôi cũng nhức cái mũi rồi."
+  ],
+  "hook_content": "vẫn cứ là quán chè sầu và các món về sầu chân ái nhất lòng mình hiện tại luôn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video giới thiệu quán chè sầu Sầu Phố ở Ô Quan Chưởng với các món ăn từ sầu riêng chất lượng, đặc biệt gợi ý món sầu nướng và chè sầu nguyên múi nên thử.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

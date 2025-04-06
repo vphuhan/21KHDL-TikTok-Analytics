@@ -1,0 +1,64 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu bánh khảo (bánh ỏn) được order sau nhiều tháng chờ đợi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về loại bánh này."
+    },
+    {
+      "step": "Trải nghiệm hương vị",
+      "desc": "Nếm thử và nhận xét bánh bị khô, không còn ngon như xưa.",
+      "impact_level": "2",
+      "viewer_emotion": "Thất vọng vì bánh không ngon như mong đợi."
+    },
+    {
+      "step": "Từ bỏ",
+      "desc": "Không ăn hết bánh và quyết định vứt đi.",
+      "impact_level": "1",
+      "viewer_emotion": "Đồng cảm với sự thất vọng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bye bye mọi người nhá, vứt cái này vào thùng rác cho mọi người ạ."
+  ],
+  "cta_type": [
+    "Chia sẻ"
+  ],
+  "emotion_keywords": [
+    "khô",
+    "khô lắm",
+    "không ăn được",
+    "cám"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Khô vãi, khô vãi, khô lắm luôn đó mọi người, mình sáng mình còn chưa uống nước nữa.",
+    "Ngày xưa em nhớ là em ăn được cái này. Bây giờ không ăn được nữa.",
+    "Không phải đồ ăn nữa rồi. Không phải đồ ăn nữa. Ừm. Thành cám à. Ừm, cám rồi. Cám ấy."
+  ],
+  "hook_content": "sau bao nhiêu tháng chờ đợi, thì bánh khảo hay còn gọi là bánh ỏn ngoài Bắc.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang bánh khảo (bánh ỏn) miền Bắc, người review sau khi ăn đã nhận xét bánh quá khô và không còn ngon như hương vị ký ức, cuối cùng quyết định bỏ đi.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Khó chịu"
+  ]
+}

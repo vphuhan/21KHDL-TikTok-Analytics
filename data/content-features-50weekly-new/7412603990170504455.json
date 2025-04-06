@@ -1,0 +1,90 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở hộp cua",
+      "desc": "Mở hộp cua Cà Mau được giao, nhận xét về kích thước dây.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò, liệu cua có tươi ngon không?"
+    },
+    {
+      "step": "Đánh giá cua sống",
+      "desc": "Nhận xét về độ tươi sống của cua và các hũ sốt đi kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy cua còn sống thì an tâm phần nào."
+    },
+    {
+      "step": "So sánh cua gạch",
+      "desc": "So sánh cua thực tế với hình ảnh trên live stream.",
+      "impact_level": "1",
+      "viewer_emotion": "Hơi thất vọng vì gạch cua không nhiều như quảng cáo."
+    },
+    {
+      "step": "Nếm thử cua thịt",
+      "desc": "Ăn và đánh giá cua thịt, nhận xét về độ chắc thịt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng hương vị của cua."
+    },
+    {
+      "step": "Thử cua hấp",
+      "desc": "Tách và so sánh cua hấp với hình ảnh trên live stream.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ liệu cua hấp có ngon hơn không."
+    },
+    {
+      "step": "Ăn và review cua gạch",
+      "desc": "Ăn và nhận xét về cua gạch, so sánh với live stream.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của gạch cua."
+    },
+    {
+      "step": "Đại hội tách cua",
+      "desc": "Tách cua và ăn, review nước sốt, đánh giá tổng quan.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thèm ăn cua."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người. Bye bye."
+  ],
+  "cta_type": [
+    "Follow kênh",
+    "Thích video"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thích",
+    "thèm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trên mạng cua Cà Mau của chị Hằng du mục. Ngoài đời cua Cà Mau tới rồi nha mọi người ơi.",
+    "Sự thật trên kênh em là phải như vậy. Còn em là em không có lấy lòng ai hết trơn, nhưng mà em chỉ biết nói là em rất là thích chị vậy thôi à.",
+    "Đánh giá bữa cua hôm nay á 7 điểm trên 10 nha. Ai mới ăn cua thì cứ bám vô."
+  ],
+  "hook_content": "Hôm qua mới coi live mà sao cái con của em nó chút éc vậy á?",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video review cua Cà Mau mua trên live của Hằng Du Mục, so sánh với hình ảnh trên live và đưa ra đánh giá khách quan về chất lượng, độ tươi ngon và giá cả.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

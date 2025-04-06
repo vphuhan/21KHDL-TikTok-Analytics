@@ -1,0 +1,97 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu mở đầu",
+      "desc": "Giới thiệu food tour Nam Định 2 ngày 1 đêm và chia sẻ cảm xúc.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn được review."
+    },
+    {
+      "step": "Bún sung nộng chợ Duyên Hồng",
+      "desc": "Giới thiệu và review món bún sung nộng, cách ăn và cảm nhận.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với món ăn lạ."
+    },
+    {
+      "step": "Xôi xíu Cô Liên",
+      "desc": "Giới thiệu và review xôi xíu Cô Liên, so sánh với xôi Hà Nội.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị xôi xíu Nam Định."
+    },
+    {
+      "step": "Chè thập cẩm",
+      "desc": "Giới thiệu và review chè thập cẩm ở quán Cô Liên.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc sắc."
+    },
+    {
+      "step": "Nước ô mai Bà Bu",
+      "desc": "Giới thiệu nước ô mai ở cổng trường tiểu học.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng, muốn uống thử."
+    },
+    {
+      "step": "Phở cũ Tặng",
+      "desc": "Giới thiệu phở áp chảo ở quán phở lâu đời.",
+      "impact_level": "1",
+      "viewer_emotion": "Không ấn tượng lắm."
+    },
+    {
+      "step": "Đậu hoa cô Hà",
+      "desc": "Giới thiệu đậu hoa và bánh ngọt ở quán cô Hà.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn thử ngay đậu hoa."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "háo hức",
+    "thèm",
+    "giòn",
+    "ngon",
+    "ổn áp",
+    "vui miệng",
+    "mát lạnh",
+    "đã dã man",
+    "mềm",
+    "thơm",
+    "dẻo",
+    "ngọt",
+    "mịn",
+    "mướt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "sung giòn ngấm gia vị, nói chung là ổn áp",
+    "Tào phớ cô làm ấy thì thơm, mịn, mướt, rất là thơm nha, nước đường thơm trân châu dẻo, 10 điểm, về Nam Định nhớ ghé cô ạ.",
+    "Thề là nhà ở Nam Định cổ dã man, nhìn bị nghiện ấy, kiểu đặt ghế ở đâu nhìn cũng rất là nghệ."
+  ],
+  "hook_content": "Cuối cùng thì video ăn sập Nam Định hai ngày một đêm cũng đã chính thức lên sóng.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video giới thiệu food tour Nam Định 2 ngày 1 đêm, chia sẻ trải nghiệm ăn các món đặc sản như bún sung, xôi xíu, chè thập cẩm, nước ô mai, phở và đậu hoa.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

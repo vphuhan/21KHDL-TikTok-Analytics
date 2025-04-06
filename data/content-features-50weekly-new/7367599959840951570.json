@@ -1,0 +1,89 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu món ăn và kỷ niệm ăn món này thời sinh viên",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Chia sẻ quan điểm cá nhân",
+      "desc": "Nhấn mạnh việc ăn thịt sạch và phản biện ý kiến tiêu cực",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình"
+    },
+    {
+      "step": "Giới thiệu nguyên liệu",
+      "desc": "Giới thiệu thịt nạc dăm và giá cả",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Sơ chế",
+      "desc": "Hướng dẫn cắt và dần thịt cho mềm",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Ướp thịt",
+      "desc": "Hướng dẫn ướp thịt với các gia vị",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Áp chảo",
+      "desc": "Hướng dẫn áp chảo thịt và lưu ý",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Rim thịt",
+      "desc": "Rim thịt với nước sốt",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z",
+    "Nhanh gọn",
+    "Sáng tạo"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "mặn mặn",
+    "cay cay",
+    "thơm thơm",
+    "cuốn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Trời ơi nó mặn mặn cay cay, nó thơm thơm mùi sả nha mấy bà.",
+    "Ăn ơi bị cuốn luôn.",
+    "Ủa vậy mấy cái thịt ở ngoài kia là mua đồ thịt dơ hả?"
+  ],
+  "hook_content": "Rồi còn lại sinh viên á lúc nào mà cuối tháng hết tiền á Quan Khải sẽ chi nguyên một cái chảo thịt này nè, Quan Khải ăn 3 ngày luôn.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm món thịt nạc dăm ram sả ớt, gợi nhớ kỷ niệm thời sinh viên của người làm. Video tập trung vào cách làm món ăn đơn giản, dễ thực hiện tại nhà.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước",
+    "Chân thành"
+  ]
+}

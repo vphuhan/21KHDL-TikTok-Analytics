@@ -1,0 +1,84 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Chuẩn bị bất ngờ",
+      "desc": "Lên kế hoạch tổ chức sinh nhật bất ngờ cho anh trai.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về kế hoạch."
+    },
+    {
+      "step": "Mua sắm nguyên liệu",
+      "desc": "Đi siêu thị mua hải sản và bánh kem.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức xem món ăn."
+    },
+    {
+      "step": "Chuẩn bị sốt",
+      "desc": "Trộn các loại gia vị để làm sốt cay hải sản.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng hương vị cay."
+    },
+    {
+      "step": "Nướng nấm",
+      "desc": "Nướng các loại nấm trước khi nướng hải sản.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, chờ đợi."
+    },
+    {
+      "step": "Nướng hải sản",
+      "desc": "Cho hải sản lên nướng và thêm sốt cay.",
+      "impact_level": "3",
+      "viewer_emotion": "Hấp dẫn, muốn ăn ngay."
+    },
+    {
+      "step": "Giới thiệu An Cung",
+      "desc": "Giới thiệu công dụng của An Cung xạ hương.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin hữu ích."
+    },
+    {
+      "step": "Tặng quà",
+      "desc": "Trao quà sinh nhật và chờ đợi phản ứng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về kết quả."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "bất ngờ",
+    "hấp dẫn",
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Chắc đây là lần đầu tiên ông anh mình được tổ chức sinh nhật luôn á.",
+    "Hải sản thì mình làm nhiều món rồi. Bữa nay thử làm cái món hải sản nướng sốt cay. Cái món này mình thấy người Hàn Quốc ăn nhiều lắm á, mà cái công thức sốt thì quá trời đơn giản luôn, làm mới biết nha.",
+    "Tết nay mà mình dùng An Cung xạ hương để làm quà biếu á thì quá là ý nghĩa luôn."
+  ],
+  "hook_content": "Nay hai vợ chồng mình sẽ tạo bất ngờ cho ông anh của mình nha.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình chuẩn bị sinh nhật bất ngờ cho anh trai bằng món hải sản nướng sốt cay kiểu Hàn Quốc và tặng kèm sản phẩm An Cung xạ hương.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

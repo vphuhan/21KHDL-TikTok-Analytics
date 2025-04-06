@@ -1,0 +1,84 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Giới thiệu quán nướng băng chuyền đầu tiên tại Sài Gòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về địa điểm mới."
+    },
+    {
+      "step": "Giá cả và ưu đãi",
+      "desc": "Thông tin về giá buffet và các ưu đãi đi kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn vì giá cả hợp lý."
+    },
+    {
+      "step": "Trải nghiệm ăn uống",
+      "desc": "Mô tả trải nghiệm ăn nướng băng chuyền và các loại topping.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thú vị và muốn thử."
+    },
+    {
+      "step": "Không gian quán",
+      "desc": "Nhấn mạnh không gian rộng rãi và thoáng mát của quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với không gian thoải mái."
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Gợi ý nên ghé thăm quán nếu thèm món nướng độc lạ.",
+      "impact_level": "2",
+      "viewer_emotion": "Có ý định ghé thăm quán."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Và nếu như là có thèm món nướng độc lạ ngon thì ghé Yakiyakiyo nhen."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "no nê",
+    "phủ phê",
+    "xả ga",
+    "đã",
+    "tươi ngon",
+    "xịn",
+    "thoáng mát",
+    "rộng rãi"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "mô hình buffet nướng băng truyền lần đầu tiên xuất hiện tại Sài Gòn luôn",
+    "Mỗi người chỉ cần bỏ ra có 199k là ăn no nê phủ phê xả ga với hơn 60 món.",
+    "không có bị tính thêm thời gian mà cũng không phụ thu thuế nữa. Nên là đây là một điểm cộng siêu lớn à"
+  ],
+  "hook_content": "u hát quận Tân Phú hiện tại rồi đây, mô hình buffet nướng băng truyền lần đầu tiên xuất hiện tại Sài Gòn luôn.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Giật tít"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu quán buffet nướng băng chuyền Yakiyakiyo ở quận Tân Phú, Sài Gòn, với mức giá 199k và nhiều món ăn hấp dẫn. Quán có không gian rộng rãi, thoáng mát, phù hợp cho nhóm đông người.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

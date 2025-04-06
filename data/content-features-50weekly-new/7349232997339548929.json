@@ -1,0 +1,66 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu bánh mì Hoàng Lam và địa điểm mua bánh mì.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về bánh mì Hoàng Lam."
+    },
+    {
+      "step": "Ăn và đánh giá",
+      "desc": "Ăn bánh mì và đưa ra những đánh giá ban đầu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy ngon miệng và thèm thuồng."
+    },
+    {
+      "step": "Ăn lại và tương tác",
+      "desc": "Tiếp tục ăn và hỏi khán giả muốn ăn gì.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người muốn bảo ăn gì thì bình luận cho bảo biết với nha."
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "béo",
+    "thơm",
+    "tuyệt vời"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái này không biết là bánh mì kẹp chả hay là chả kẹp bánh mì.",
+    "béo thơm.",
+    "tuyệt vời."
+  ],
+  "hook_content": "Cái này không biết là bánh mì kẹp chả hay là chả kẹp bánh mì.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang bánh mì Hoàng Lam, người nói vừa ăn vừa mô tả hương vị và tương tác với người xem bằng cách hỏi họ muốn ăn gì tiếp theo.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

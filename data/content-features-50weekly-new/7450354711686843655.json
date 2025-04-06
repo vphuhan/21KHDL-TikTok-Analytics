@@ -1,0 +1,74 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Mở hộp cơm tự sôi và cho biết sẽ review sản phẩm này.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về sản phẩm."
+    },
+    {
+      "step": "Đánh giá thành phần",
+      "desc": "Nhận xét về gạo, gói thịt và các thành phần khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Thắc mắc về chất lượng."
+    },
+    {
+      "step": "Chế biến",
+      "desc": "Thực hiện theo hướng dẫn và chờ đợi cơm chín.",
+      "impact_level": "1",
+      "viewer_emotion": "Mong chờ kết quả."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Thử và đưa ra cảm nhận về mùi vị, độ ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Tò mò về hương vị."
+    },
+    {
+      "step": "Nhận xét chung",
+      "desc": "Đánh giá tổng quan về sản phẩm và trải nghiệm.",
+      "impact_level": "2",
+      "viewer_emotion": "Cân nhắc nên mua hay không."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "lạ",
+    "hôi",
+    "nóng",
+    "không ngon",
+    "không chất lượng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cái gạo ăn nó như kiểu là ăn trân châu ấy.",
+    "Nó hơi giống như là kiểu món tất thối.",
+    "Cái mùi của món cơm này nó rất là hôi."
+  ],
+  "hook_content": "tự sôi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review cơm tự sôi, tập trung vào đánh giá chất lượng gạo, gói thịt và mùi vị tổng thể của sản phẩm sau khi chế biến. Người review không hài lòng với sản phẩm vì gạo dai, thịt ít và có mùi hôi.",
+  "tone_of_voice": [
+    "Chân thành",
+    "Khó chịu"
+  ]
+}

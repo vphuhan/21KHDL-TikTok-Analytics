@@ -1,0 +1,91 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu và mục tiêu",
+      "desc": "Giới thiệu việc thích uống matcha latte Starbucks và làm tại nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về kết quả"
+    },
+    {
+      "step": "Mua và review ly Starbucks",
+      "desc": "Mua ly matcha latte Starbucks để so sánh chi phí.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự chuẩn bị kỹ lưỡng"
+    },
+    {
+      "step": "Liệt kê nguyên liệu",
+      "desc": "Liệt kê các nguyên liệu và giá thành để làm matcha latte.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin chi tiết về giá cả"
+    },
+    {
+      "step": "Hướng dẫn pha chế",
+      "desc": "Hướng dẫn từng bước pha chế matcha latte tại nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú với công thức"
+    },
+    {
+      "step": "Thêm White Mocha",
+      "desc": "Hướng dẫn làm White Mocha để thêm lên trên matcha latte.",
+      "impact_level": "2",
+      "viewer_emotion": "Tăng thêm sự hấp dẫn cho món đồ uống"
+    },
+    {
+      "step": "Tính toán chi phí",
+      "desc": "Tính tổng chi phí làm matcha latte tại nhà.",
+      "impact_level": "1",
+      "viewer_emotion": "So sánh chi phí tự làm và mua"
+    },
+    {
+      "step": "Đánh giá và so sánh",
+      "desc": "Đánh giá hương vị và đưa ra lời khuyên.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ và thích thú với kết quả"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Phải thử."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngon vậy"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ê ngon vậy?",
+    "Em đụ má.",
+    "Phải thử."
+  ],
+  "hook_content": "Dạo gần đây thì mình rất là thích matcha latte của Starbucks, cho nên là uống thường xuyên, nên là hôm nay sẽ thử làm tại nhà xem thử là một ly matcha latte size Venti với lại White Mocha bên trên thì tốn hết bao nhiêu tiền và có đáng làm tại nhà hay không nhé.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "So sánh",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video thử làm matcha latte size Venti tại nhà, so sánh chi phí và chất lượng so với mua tại Starbucks, đồng thời hướng dẫn cách làm White Mocha để thêm vào.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

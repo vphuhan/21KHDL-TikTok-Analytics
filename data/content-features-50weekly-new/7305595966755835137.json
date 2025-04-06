@@ -1,0 +1,76 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu địa điểm và món ăn",
+      "desc": "Lotte bán xiên bẩn giá rẻ và trứng lòng đào.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Miêu tả không gian",
+      "desc": "Không khí giáng sinh, nhiều góc check-in đẹp, rất đông khách.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Trải nghiệm ẩm thực",
+      "desc": "Xiên bẩn có 20 loại, có cả người nước ngoài ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên"
+    },
+    {
+      "step": "Đánh giá món ăn khác",
+      "desc": "Bánh trứng lòng đào nhiều vị, nước ép hoa quả tươi.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Giá cả hợp lý, địa điểm dễ tìm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "khoái ăn",
+    "rẻ"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Lotte đã chính thức bán xiên bẩn chỉ từ 1000 rẻ hơn cả mấy bà bán xiên sạch trước cổng trường.",
+    "Chắc là ở bên Tây không có món xiên bẩn nên anh này sang đây mới khoái ăn đến thế.",
+    "Nếu mà đi vào cuối tuần thì cực kỳ đông luôn. Vì ai cũng tranh nhau xếp hàng để chụp ảnh."
+  ],
+  "hook_content": "Lotte đã chính thức bán xiên bẩn chỉ từ 1000 rẻ hơn cả mấy bà bán xiên sạch trước cổng trường.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Giật tít"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu về Lotte bán xiên bẩn giá rẻ và trứng lòng đào với nhiều góc check-in đẹp, thu hút đông đảo khách, đặc biệt có cả khách nước ngoài. Quán có nhiều loại xiên và đồ ăn vặt với giá cả hợp lý.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

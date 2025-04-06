@@ -1,0 +1,87 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món sườn chiên sa tế xả và độ hấp dẫn của nó.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Kỉ niệm sinh viên",
+      "desc": "Nhắc lại kỉ niệm ăn cơm tấm sườn cay thời sinh viên.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giá trị tự nấu",
+      "desc": "So sánh giá mua ngoài và tự làm để thấy lợi ích.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Mẹo chiên sườn",
+      "desc": "Mô tả độ mềm của sườn và cách chiên không bị khô.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Ướp sườn",
+      "desc": "Hướng dẫn ướp sườn nhanh gọn trong 30 phút.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm"
+    },
+    {
+      "step": "Luộc sườn",
+      "desc": "Hướng dẫn luộc sườn để làm sạch và loại bỏ máu bầm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chiên và trộn",
+      "desc": "Chiên sườn và trộn với sốt sa tế xả đã phi thơm.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng khởi"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "mê",
+    "ngon",
+    "thích"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "ăn không hết ba nồi cơm thua gì tôi cũng thua",
+    "mày mò ra cái cách chiên sườn nó không có bị khô",
+    "chỉ cần nhìn chú diễn cắn một cái mà cái sườn nó dứt ra là biết ngon tới cỡ nào rồi"
+  ],
+  "hook_content": "ở duyên mạng của tôi á nó rất là mê tôi làm cái món sườn chiên sa tế xả này, mấy ông mấy bà nghe lời tôi làm thử cái món sườn chiên sa tế xả này đi ăn không hết ba nồi cơm thua gì tôi cũng thua.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn cách làm món sườn chiên sa tế xả đơn giản, nhanh gọn, phù hợp cho sinh viên hoặc người bận rộn, kèm theo chia sẻ kỷ niệm và mẹo chiên sườn không bị khô.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

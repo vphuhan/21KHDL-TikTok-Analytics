@@ -1,0 +1,93 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu nguyên liệu",
+      "desc": "Giới thiệu về việc bắt được mực nang tươi ngon ở biển.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn được chế biến từ mực nang."
+    },
+    {
+      "step": "Chia sẻ trải nghiệm",
+      "desc": "Chia sẻ về việc thường xuyên ăn mực nang và các món chế biến.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có nhiều cảm xúc đặc biệt."
+    },
+    {
+      "step": "Chuẩn bị mực",
+      "desc": "Mô tả quá trình làm sạch mực nang, loại bỏ phần nhớt.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy hơi e ngại vì công đoạn làm sạch."
+    },
+    {
+      "step": "Nấu và thưởng thức",
+      "desc": "Hấp mực, làm nước chấm đặc biệt và thưởng thức món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng và muốn thử ngay."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Đánh giá độ tươi, giòn, ngọt của mực nang sau khi hấp.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị và muốn nếm thử món mực hấp."
+    },
+    {
+      "step": "Gợi ý món khác",
+      "desc": "Gợi ý các cách chế biến khác và hỏi ý kiến khán giả.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường, không có cảm xúc đặc biệt."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người có ai biết là cái món mực nang này có thể làm được cái món nào khác nữa hay không? Có gì chỉ cho mình với nghe.",
+    "Hay là hôm sau mình đem đi làm chả mực thử coi nó có ngon không ta?"
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Chia sẻ công thức",
+    "Đặt câu hỏi"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngán",
+    "no nê",
+    "dẻo dẻo",
+    "ngon tới nỗi mà nhớ hoài",
+    "giòn",
+    "ngọt",
+    "tê tái"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn rồi thì mới biết thật sự là nó giòn mà nó ngọt tới cỡ nào luôn á mọi người ơi.",
+    "Chấm tới đâu ăn tới đó mà ta nói tê tái hết tại vì nó quá là ngon.",
+    "Cái trứng mực hôm nay thì nó chỉ dẻo nhẹ thôi nhưng mà ăn cũng rất là ngon."
+  ],
+  "hook_content": "Thích cái vùng biển ở chỗ mình đó mọi người. Chỉ cần buổi chiều mà đi tí thôi là bắt được bao nhiêu mực nang đây nè.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ về trải nghiệm bắt và chế biến món mực nang tại nhà, từ công đoạn sơ chế đến thưởng thức món mực hấp với nước chấm đặc biệt, đồng thời gợi ý các món ăn khác từ mực nang và hỏi ý kiến khán giả.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

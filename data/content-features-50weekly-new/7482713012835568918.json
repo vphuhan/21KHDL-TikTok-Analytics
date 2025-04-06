@@ -1,0 +1,72 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu cơm trưa với cá kho tiêu và rau mùng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Nếm thử và đánh giá",
+      "desc": "Nếm thử cá kho, khen ngon và khác biệt so với trước đây.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng"
+    },
+    {
+      "step": "Trò chuyện về nguyên liệu",
+      "desc": "Thảo luận về việc tìm kiếm cá tự nhiên và nguồn gốc cá.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Tiếp tục thưởng thức",
+      "desc": "Tiếp tục ăn và khen cá thấm vị, ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Bàn luận về quá trình bắt cá",
+      "desc": "Chia sẻ về việc bắt cá và trải nghiệm cá nhân.",
+      "impact_level": "2",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Truyền thống"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thấm",
+    "đã đời",
+    "hết nước chấm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cá này ăn cơm là đúng là hết bài luôn.",
+    "Công nhận cái loại cá này kho ăn nó khác biệt thật sự.",
+    "Cá chuối mà như kiểu là thịt toàn thịt không mà."
+  ],
+  "hook_content": "Không biết bao giờ kiếm được con cá lại tự nhiên này mà ăn nữa, khó đấy ạ.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại bữa cơm trưa đơn giản với món cá kho tiêu và rau mùng. Người nói chia sẻ cảm xúc về món ăn, đặc biệt là hương vị đặc biệt của cá kho và niềm vui khi tìm lại được loại cá tự nhiên sau nhiều năm.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

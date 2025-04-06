@@ -1,0 +1,93 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu cua",
+      "desc": "Ngạc nhiên về cua biển Nhật giống Cà Mau, kích thước lớn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ lớn và nguồn gốc của cua."
+    },
+    {
+      "step": "Miêu tả chi tiết",
+      "desc": "Cảm nhận về độ tươi, màu sắc, kích thước cua.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng bởi độ tươi ngon và kích cỡ của cua."
+    },
+    {
+      "step": "Ước tính giá trị",
+      "desc": "Đánh giá giá cả so với kích thước và chất lượng.",
+      "impact_level": "1",
+      "viewer_emotion": "Tự hỏi liệu giá cả có hợp lý không."
+    },
+    {
+      "step": "Trình bày trực quan",
+      "desc": "So sánh kích thước càng cua với bàn tay.",
+      "impact_level": "2",
+      "viewer_emotion": "Choáng ngợp trước kích thước càng cua."
+    },
+    {
+      "step": "Chuẩn bị thưởng thức",
+      "desc": "Tách càng cua, chuẩn bị muối tiêu chanh.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức chờ đợi hương vị của cua."
+    },
+    {
+      "step": "Đánh giá chất lượng",
+      "desc": "Nhận xét về độ chắc thịt và vị ngọt.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng hương vị tươi ngon của cua."
+    },
+    {
+      "step": "Thưởng thức gạch cua",
+      "desc": "Đánh giá độ béo và gợi ý ăn kèm nước chấm.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm giác thèm ăn dâng cao."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ớn lạnh",
+    "kinh khủng",
+    "muốn no",
+    "chịu hết nổi",
+    "ngọt dã man",
+    "béo",
+    "thơm",
+    "ngon",
+    "tê tái",
+    "đã"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mình để tủ lạnh ngăn mát hết ngày rồi nhưng mà nó vẫn còn rất là khỏe luôn nha.",
+    "Ta nói không còn từ nào để diễn tả được là nó chắc mà nó ngọt dã man luôn.",
+    "Ăn tới đâu là coi như là tê tái tới đó đó. Thiệt sự quá là đã luôn."
+  ],
+  "hook_content": "Đối giờ ở Nhật mà mình tưởng không có cái loại cua biển mà giống Cà Mau, mà ai dè đâu là nó có mà nó còn bự cành kỳ ná nữa chứ.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món cua biển Cà Mau được tìm thấy ở Nhật, với kích thước lớn bất ngờ và chất lượng thịt được đánh giá cao về độ chắc, ngọt và gạch béo.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Ngạc nhiên",
+    "Thân thiện"
+  ]
+}

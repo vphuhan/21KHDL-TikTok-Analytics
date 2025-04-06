@@ -1,0 +1,94 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu cua hoàng đế và tôm Alaska để ăn mừng follow.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chế biến và giới thiệu đồ uống",
+      "desc": "Chia sẻ quá trình chế biến và giới thiệu nước Kombucha.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy món ăn hấp dẫn."
+    },
+    {
+      "step": "Thưởng thức cua hoàng đế",
+      "desc": "Bắt đầu ăn cua hoàng đế sốt cay và trứng cua.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và thích thú."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Miêu tả hương vị của cua và trứng, so sánh cua đực cái.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung vào hương vị."
+    },
+    {
+      "step": "Chia sẻ trải nghiệm",
+      "desc": "Nói về việc ăn mừng follow và lo lắng về trang phục.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    },
+    {
+      "step": "So sánh và hỏi ý kiến",
+      "desc": "So sánh cua đực và cua cái, hỏi người xem chọn loại nào.",
+      "impact_level": "2",
+      "viewer_emotion": "Tự hỏi nên chọn loại nào."
+    },
+    {
+      "step": "Kết thúc và cảm ơn",
+      "desc": "Cảm ơn người xem và hẹn gặp lại.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Comment cho Vàng biết với nha."
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "béo",
+    "mặn",
+    "thú vị",
+    "lo lắng",
+    "tuyệt vời",
+    "hợp"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Sao hay vậy bạn, sao nó có thể đổi màu vậy bạn.",
+    "Lần đầu Vàng ăn con cua cái thật là thú vị bạn ơi.",
+    "Nếu được chọn thì bạn sẽ ăn cua đực cua hoàng đế cua đực hay là cua cái nè."
+  ],
+  "hook_content": "Để mừng kênh TikTok của Vàng đạt 2 triệu follow thì hôm nay Vàng sẽ ăn hải sản nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh"
+  ],
+  "summarization": "Video mukbang ăn cua hoàng đế để ăn mừng kênh TikTok đạt 2 triệu follow, Tóc Vàng Hoe vừa ăn vừa chia sẻ cảm nhận về hương vị, so sánh cua đực và cua cái, đồng thời tương tác với người xem bằng cách đặt câu hỏi.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

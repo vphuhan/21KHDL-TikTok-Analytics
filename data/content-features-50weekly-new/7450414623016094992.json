@@ -1,0 +1,66 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Vivi giới thiệu món trứng gà nướng chấm muối ớt siêu cay.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị món ăn."
+    },
+    {
+      "step": "Ăn và đánh giá",
+      "desc": "Vivi ăn hamburger trứng nướng kẹp ớt xanh và nhận xét.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy món ăn rất cay và ngon."
+    },
+    {
+      "step": "Tương tác khán giả",
+      "desc": "Vivi hỏi khán giả có ai thích ăn trứng nướng không.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có nhiều cảm xúc."
+    },
+    {
+      "step": "Tiếp tục ăn",
+      "desc": "Vivi tiếp tục ăn và khen ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy ngon miệng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "cay",
+    "ngon",
+    "ghiền",
+    "thèm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cay nhưng mà rất là ngon."
+  ],
+  "hook_content": "Wow cay!\nHello mọi người.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang về món trứng gà nướng chấm muối ớt siêu cay. Người ăn vừa ăn vừa trò chuyện và tương tác với người xem.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

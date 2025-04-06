@@ -1,0 +1,93 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu các món ăn đã mua và giá tiền của từng món",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn được review"
+    },
+    {
+      "step": "Bóc tôm và nhận xét",
+      "desc": "Bóc tôm và đưa ra nhận xét về độ tươi ngon của tôm",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với phần review chân thật"
+    },
+    {
+      "step": "Thử món cua",
+      "desc": "Thử món cua và nhận xét về độ tươi và nước chấm",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn thử món cua được review"
+    },
+    {
+      "step": "Thử cơm hải sản",
+      "desc": "Thử cơm hải sản và nhận xét độ hòa quyện và hương vị",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món cơm hải sản"
+    },
+    {
+      "step": "Trộn cơm và nếm thử",
+      "desc": "Trộn cơm và nếm thử để cảm nhận rõ hơn hương vị",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung xem xét đánh giá về món ăn"
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Đánh giá chung về các món ăn và giá cả",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào trải nghiệm của người review"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Cảm ơn người xem và hẹn gặp lại",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cám ơn mọi người đã coi clip của mình.",
+    "Bye bye và hẹn gặp lại."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngọt",
+    "tươi",
+    "dễ thương",
+    "hài hòa",
+    "vừa phải",
+    "chắc thịt"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Thiệt sự á đúng là người đẹp trai á mua bán gì người ta cũng thiện lành hết trơn á.",
+    "Trong muôn vàn món ăn cũng phải có món hợp món không. Giống như trong cái vũ trụ này bao nhiêu triệu con người mà em đi mua cua của anh ăn.",
+    "Tại vì anh Phi Phi cũng cần phải lo cho gia đình con cái rồi vợ con rồi đùm đề nữa nên là với em cái giá này phải chăng."
+  ],
+  "hook_content": "Thí dụ mà dở một cái là em cắt liền.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quán ăn Cua Phi Phi, tập trung vào các món tôm phô mai, cua và cơm hải sản. Người review đưa ra những đánh giá khách quan về hương vị, độ tươi ngon và giá cả của các món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món sườn xào chua ngọt và sự yêu thích của mọi người.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách làm món ăn."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Hướng dẫn chọn sườn non và sơ chế, ướp sườn với gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Ghi nhớ các bước chuẩn bị."
+    },
+    {
+      "step": "Sơ chế rau củ",
+      "desc": "Cắt tỉa các loại rau củ ăn kèm với sườn xào chua ngọt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Chiên sườn",
+      "desc": "Hướng dẫn trộn bột và chiên sườn 2 lần để giòn và chín.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với mẹo chiên sườn giòn."
+    },
+    {
+      "step": "Xào rau củ",
+      "desc": "Phi thơm hành tỏi và xào rau củ cho chín tới.",
+      "impact_level": "1",
+      "viewer_emotion": "Không có cảm xúc đặc biệt."
+    },
+    {
+      "step": "Thêm sốt và sườn",
+      "desc": "Cho sốt Cholimex, sườn vào xào đều, thêm bột năng.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ món ăn hoàn thành."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Hướng dẫn cách ăn sườn giòn và thưởng thức món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn thử ngay món ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "hao cơm",
+    "thích"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "ăn sườn là phụ thôi, chứ ăn rau củ là chính á",
+    "chiên hai lần thì đảm bảo sườn nó sẽ chín bên trong và giòn bên ngoài ha",
+    "bạn nào mà thích ăn sườn giòn á thì các bạn có thể để riêng sốt với sườn, khi nào ăn á thì có thể đổ sốt lên sườn, hoặc là dùng sườn để chấm sốt cũng được"
+  ],
+  "hook_content": "Thật ra ăn sườn xào chua ngọt á, ăn sườn là phụ thôi, chứ ăn rau củ là chính á.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn chi tiết cách làm món sườn xào chua ngọt hao cơm ngày Tết với các nguyên liệu dễ kiếm và gói sốt Cholimex tiện lợi, món ăn này phù hợp để đãi khách vì có nhiều màu sắc hấp dẫn.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

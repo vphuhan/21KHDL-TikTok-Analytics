@@ -1,0 +1,72 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu địa điểm",
+      "desc": "Giới thiệu cửa hàng giá rẻ ở Bình Tân với nhiều mặt hàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các sản phẩm được giới thiệu."
+    },
+    {
+      "step": "Liệt kê sản phẩm",
+      "desc": "Liệt kê các sản phẩm và giá cả ở cửa hàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hứng thú với các món hàng giá rẻ."
+    },
+    {
+      "step": "Trải nghiệm sản phẩm",
+      "desc": "Uống thử nước dừa và nhận xét về hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn được trải nghiệm thử các sản phẩm."
+    },
+    {
+      "step": "Tổng kết",
+      "desc": "Nhấn mạnh sự đa dạng của hàng hóa và giá cả phải chăng.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hữu ích với những thông tin được chia sẻ."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "rẻ",
+    "ngon",
+    "thích"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ở Bình Tân á mà không biết cửa hàng giá rẻ này á là hối hận lắm đó nha.",
+    "Ta nói đồ gia dụng nè, đồ tiêu dùng cái gì cũng có, hàng Thái, hàng Việt Nam, Hàn Quốc, Nhật Bản có hết.",
+    "Nên tui đảm bảo với mọi người là đi một là về hai cái túi bự chảng cho coi."
+  ],
+  "hook_content": "là bốn rưỡi chiều và bây giờ hiện tại trên rất là đông, mọi người hãy xem đây.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video giới thiệu một cửa hàng giá rẻ ở Bình Tân với nhiều mặt hàng tiêu dùng, đồ gia dụng, thực phẩm giảm giá. Người bán hàng trực tiếp trải nghiệm sản phẩm và đưa ra đánh giá.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Mở đầu bằng một đoạn nhạc và lời hát không rõ nội dung.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về nội dung tiếp theo."
+    },
+    {
+      "step": "Tiếp tục ăn uống",
+      "desc": "Tiếp tục hát và ăn uống, không rõ đang ăn gì.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có điểm nhấn."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Kết thúc video bằng một câu hát.",
+      "impact_level": "1",
+      "viewer_emotion": "Không có cảm xúc đặc biệt."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [],
+  "has_cta": "false",
+  "highlight_phrases": [],
+  "hook_content": "Đợi em đi, đợi em đi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video là một đoạn mukbang ngắn với âm nhạc và lời hát không rõ ràng, người tạo nội dung vừa ăn vừa hát.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

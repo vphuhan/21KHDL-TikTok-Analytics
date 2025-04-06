@@ -1,0 +1,88 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán ăn",
+      "desc": "Giới thiệu địa điểm ăn vặt gần trường THPT Phan Châu Trinh.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về địa điểm ăn uống."
+    },
+    {
+      "step": "Gọi món và giới thiệu",
+      "desc": "Gọi các món ăn vặt phổ biến và giới thiệu qua về chúng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng các món ăn."
+    },
+    {
+      "step": "Giao lưu với học sinh",
+      "desc": "Trò chuyện với các bạn học sinh về việc sử dụng mạng xã hội.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc biệt."
+    },
+    {
+      "step": "Tặng thêm suất ăn",
+      "desc": "Tặng thêm suất ăn và nhận quyên góp tượng trưng từ học sinh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự tương tác."
+    },
+    {
+      "step": "Tiếp tục giao lưu",
+      "desc": "Tiếp tục trò chuyện và trêu chọc các bạn học sinh.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy vui vẻ, thoải mái."
+    },
+    {
+      "step": "Kết thúc bữa ăn",
+      "desc": "Kết thúc bữa ăn và tiết lộ số tiền đã chi trả.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về tổng chi phí."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nếu mà clip này được 3 triệu view em sẽ công khai cả nick lên TikTok.",
+    "Bọn mình sẽ follow nhá. Lần sau gặp chị bao lại chị là được."
+  ],
+  "cta_type": [
+    "Follow kênh",
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngại",
+    "vui"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nếu mà clip này được 3 triệu view em sẽ công khai cả nick lên TikTok.",
+    "Chết, chị toàn đoán kiểu gì chúng nó ăn như kiểu là nạn đói năm 45 ấy chị ơi.",
+    "Lần sau gặp chị bao lại chị là được."
+  ],
+  "hook_content": "Nếu mà clip này được 3 triệu view em sẽ công khai cả nick lên TikTok.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video ghi lại trải nghiệm ăn uống tại quán ăn vặt gần trường THPT Phan Châu Trinh cùng các bạn học sinh, đồng thời trò chuyện và tương tác vui vẻ. Người thực hiện hứa sẽ công khai nick TikTok nếu video đạt 3 triệu view.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Hài hước"
+  ]
+}

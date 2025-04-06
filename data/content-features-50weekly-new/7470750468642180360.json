@@ -1,0 +1,59 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Chuẩn bị bữa cơm",
+      "desc": "Nấu cơm, luộc rau, kho thịt và cá cho bữa ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm cúng, gần gũi"
+    },
+    {
+      "step": "Dọn cơm và gọi người thân",
+      "desc": "Dọn mâm cơm và gọi mọi người trong gia đình.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm động, gia đình"
+    },
+    {
+      "step": "Phân chia bát đũa",
+      "desc": "Chia bát cho từng thành viên trong gia đình.",
+      "impact_level": "2",
+      "viewer_emotion": "Hạnh phúc, đầy đủ"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Truyền thống"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ấm cúng",
+    "hạnh phúc",
+    "đầy đủ"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Em thổi cơm, em luộc rau, đem thịt kho với cá.",
+    "Em dọn mâm, em gọi lên, đến giờ cơm út nha.",
+    "Bát của em thế là trọn bữa cơm liền."
+  ],
+  "hook_content": "Em thổi cơm, em luộc rau, đem thịt kho với cá.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Kể chuyện"
+  ],
+  "summarization": "Video mô tả quá trình chuẩn bị và dọn một mâm cơm gia đình đơn giản, ấm cúng, thể hiện sự quan tâm và tình cảm gia đình.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

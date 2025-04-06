@@ -1,0 +1,89 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người ăn chay, ăn healthy",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu quán chay Tâm Đức và món bánh ướt chay.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá món bánh ướt",
+      "desc": "Đánh giá bánh ướt không ngon do nước mắm không đậm đà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Đánh giá món cơm tấm",
+      "desc": "Đánh giá món cơm tấm chay với sườn mì chả.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Đánh giá món canh chua",
+      "desc": "Nhận xét món canh chua Nam Bộ với nhiều topping.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Đánh giá mì căn xào sả ớt",
+      "desc": "Thử và chê món mì căn xào sả ớt không ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Ngạc nhiên"
+    },
+    {
+      "step": "Đánh giá nấm bào ngư",
+      "desc": "Đánh giá món nấm bào ngư hấp tạ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Đánh giá bún măng chay",
+      "desc": "Đánh giá món bún măng chay và các thành phần.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Hẹn mọi người video chấm điểm tiếp theo."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "dở",
+    "vừa ăn",
+    "tạm được"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nấu dở quá.",
+    "Ba bụng bự xin lỗi nha, thật sự nó dở lắm.",
+    "Vừa ăn chứ không phải là ngon."
+  ],
+  "hook_content": "chấm điểm quán chay Tâm Đức của em.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video review các món ăn chay tại quán Tâm Đức, kèm theo đánh giá chi tiết về hương vị và chất lượng của từng món. Phần lớn các món được đánh giá ở mức trung bình.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

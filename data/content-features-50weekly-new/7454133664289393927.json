@@ -1,0 +1,64 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)",
+    "Người đi làm, dân văn phòng",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Chào đón năm mới và nhìn lại những gì đã qua.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy lắng đọng và suy tư."
+    },
+    {
+      "step": "Suy ngẫm",
+      "desc": "Nhắc nhở về những khó khăn và may mắn trong năm.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy đồng cảm và trân trọng."
+    },
+    {
+      "step": "Lời cảm ơn",
+      "desc": "Gửi lời tạm biệt năm cũ và chào đón năm mới.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy tích cực và hy vọng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Truyền thống",
+    "Chuyên nghiệp"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "yêu thương",
+    "niềm vui",
+    "nỗi buồn",
+    "may mắn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Cùng nhìn lại năm đã qua được và mất những gì.",
+    "Dẫu có những tháng trầm qua đôi khi bận nghĩ đến nước mắt rơi ướt nhoà.",
+    "Và thật may mắn khi kề bên luôn có mọi người yêu thương."
+  ],
+  "hook_content": "Chỉ còn vài ngày nữa thôi, vài khoảnh khắc nữa thôi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện"
+  ],
+  "summarization": "Video chia sẻ về khoảnh khắc cuối năm, cùng nhau nhìn lại những gì đã qua, những niềm vui, nỗi buồn và gửi lời cảm ơn đến mọi điều đã diễn ra. Mọi người cùng sum vầy ăn bữa nướng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

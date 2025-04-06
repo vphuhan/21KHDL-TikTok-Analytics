@@ -1,0 +1,85 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Nêu vấn đề lê giả và tầm quan trọng của việc phân biệt",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "So sánh hình thức",
+      "desc": "So sánh lê thật và giả về kích thước, màu sắc vỏ",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Nhận diện lê thật",
+      "desc": "Hướng dẫn nhận diện lê Hàn thật qua logo và tem",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Thử nếm",
+      "desc": "So sánh hương vị lê thật và lê giả khi ăn",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Gợi ý",
+      "desc": "Gợi ý các món ăn kết hợp với lê",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Kiến thức",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Thử liền nhá."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "tức",
+    "sợ",
+    "nguy hiểm",
+    "giòn",
+    "thơm",
+    "ngọt",
+    "mọng nước",
+    "ngon",
+    "chất lượng",
+    "đảm bảo"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Lê để từ 2 đến 5 tháng thoải mái không hỏng.",
+    "Êu ơi cái đấy mà mình không biết phân biệt mình ăn vào người thì không biết là nó nguy hiểm đến mức độ nào mọi người ạ.",
+    "Korea Pears mới là lê chuẩn Hàn nha mọi người ơi."
+  ],
+  "hook_content": "Xem được phóng sự của VTV24 vừa tức vừa sợ quá mọi người ơi.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "So sánh",
+    "Hướng dẫn",
+    "Chia sẻ kiến thức"
+  ],
+  "summarization": "Video chia sẻ cách phân biệt lê Hàn Quốc thật và giả, nhấn mạnh lê giả có thể gây hại cho sức khỏe, đồng thời gợi ý cách thưởng thức lê ngon miệng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

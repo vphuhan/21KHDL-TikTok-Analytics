@@ -1,0 +1,93 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món Phật Nhảy Tường và sữa Nuvi có thạch.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của món ăn."
+    },
+    {
+      "step": "Chia sẻ lý do",
+      "desc": "Chia sẻ lý do ăn món này để bồi bổ cho các cháu.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thông tin hữu ích."
+    },
+    {
+      "step": "Uống sữa",
+      "desc": "Uống sữa Nuvi và miêu tả cảm giác khi uống.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy sản phẩm hấp dẫn."
+    },
+    {
+      "step": "Ăn thử món chính",
+      "desc": "Mở hộp Phật Nhảy Tường và giới thiệu các thành phần.",
+      "impact_level": "3",
+      "viewer_emotion": "Thấy món ăn rất hấp dẫn."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Ăn thử và đưa ra cảm nhận về món Phật Nhảy Tường.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị."
+    },
+    {
+      "step": "Uống sữa sau ăn",
+      "desc": "Uống lại sữa Nuvi sau khi ăn món chính.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    },
+    {
+      "step": "Giới thiệu thẻ",
+      "desc": "Giới thiệu về các loại thẻ sưu tầm và đổi quà.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với thông tin."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nếu bạn muốn Vàng ăn gì ở video sau thì comment ở bên dưới cho Vàng biết với nha."
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "thèm",
+    "ngon",
+    "thích",
+    "tuyệt vời",
+    "hấp dẫn",
+    "cuốn",
+    "đã"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Wow, nước súp thì sền sệt sền sệt nè bạn.",
+    "Cảm giác của Vàng giống như là đang ăn súp vậy đó bạn. Súp này thì có vị lạ, béo béo mà ăn cuốn lắm bạn ơi, và ăn một hơi hết chén luôn.",
+    "Nếu có dịp thì bạn ăn thử một lần cho biết giống Vàng nha."
+  ],
+  "hook_content": "Hai bạn, hôm nay Vàng sẽ múc ba món Phật Nhảy Tường và uống sữa Nuvita, trái cây cam có thạch này nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video mukbang món Phật Nhảy Tường và sữa Nuvi của Tóc Vàng, chia sẻ cảm nhận về hương vị, thành phần món ăn, và giới thiệu chương trình sưu tầm thẻ đổi quà của nhãn hàng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

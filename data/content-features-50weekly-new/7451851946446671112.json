@@ -1,0 +1,85 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu bản thân và nhắc lại nội dung review trước đó.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về địa điểm mới."
+    },
+    {
+      "step": "Tìm kiếm địa điểm",
+      "desc": "Chia sẻ khó khăn trong việc tìm địa chỉ quán cơm Thu Hồng.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm với người review."
+    },
+    {
+      "step": "Miêu tả quán",
+      "desc": "Quán cơm tự phục vụ, đông khách, giá 50k/suất.",
+      "impact_level": "1",
+      "viewer_emotion": "Hình dung về quán ăn."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Nhận xét chi tiết về từng món trong suất cơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến chất lượng món ăn."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Đưa ra đánh giá tổng quan và so sánh giá cả.",
+      "impact_level": "2",
+      "viewer_emotion": "Cân nhắc về giá trị."
+    },
+    {
+      "step": "Xin ý kiến",
+      "desc": "Hỏi ý kiến người xem đã từng ăn tại quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Muốn chia sẻ trải nghiệm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nếu mọi người đã từng ăn quán này rồi, cho mình xin ý kiến mọi người nha."
+  ],
+  "cta_type": [
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "bình thường",
+    "ổn",
+    "ưng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Thịt quay ăn không khác gì thịt luộc ấy mọi người ạ.",
+    "Đây không nhầm mà thịt luộc xong là người ta luộc xong người ta để qua đêm, châm bì xong sáng hôm sau chiên chiên với lại dầu.",
+    "Nếu mà so sánh với các trường đại học thì nói thật là rẻ hơn thật thì không so sánh làm gì rồi."
+  ],
+  "hook_content": "Hello mọi người nhá, đây là Bình đang Food Review đây.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Bình Food Review đánh giá quán cơm Thu Hồng ở Nguyễn Phong Sắc, Hà Nội, tập trung vào giá cả và chất lượng món ăn so với các quán khác. Anh cho rằng giá 50k là hơi cao so với chất lượng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

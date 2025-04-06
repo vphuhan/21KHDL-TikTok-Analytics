@@ -1,0 +1,83 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người ăn chay, ăn healthy",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món sườn non chay rim sả ớt và khen ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Phát hiện mới",
+      "desc": "Chia sẻ bí quyết chiên sườn chay giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Nguồn gốc sườn chay",
+      "desc": "Giải thích sườn non chay làm từ bột đậu nành.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Lưu ý nguyên liệu",
+      "desc": "Nhấn mạnh sả và ớt là yếu tố quan trọng.",
+      "impact_level": "2",
+      "viewer_emotion": "Ghi nhớ"
+    },
+    {
+      "step": "Sơ chế sườn",
+      "desc": "Hướng dẫn ngâm và cắt sườn non chay.",
+      "impact_level": "2",
+      "viewer_emotion": "Học hỏi"
+    },
+    {
+      "step": "Chiên sườn",
+      "desc": "Hướng dẫn chiên sườn đến khi giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ"
+    },
+    {
+      "step": "Làm nước sốt",
+      "desc": "Hướng dẫn phi sả ớt và pha nước sốt rim.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "giòn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Mấy bà thử làm cái món sườn non chay á mà rim sả ớt như vậy đi, ăn ngon dữ lắm luôn.",
+    "Tôi mới phát hiện ra cái cách á mà chiên sườn á nó siêu giòn luôn mấy ông mấy bà ơi, cho dù có áo sốt rồi thì cái miếng sườn nó vẫn giòn nhen.",
+    "Sườn rim sả ớt này nhất định mấy ông mấy bà phải có thật là nhiều sả với lại ớt nhen."
+  ],
+  "hook_content": "Mấy bà thử làm cái món sườn non chay á mà rim sả ớt như vậy đi, ăn ngon dữ lắm luôn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm món sườn non chay rim sả ớt với bí quyết chiên giòn, nhấn mạnh vào nguyên liệu sả ớt và cách sơ chế, chiên sườn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

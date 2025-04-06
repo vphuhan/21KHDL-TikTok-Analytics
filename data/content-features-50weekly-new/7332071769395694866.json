@@ -1,0 +1,85 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu tôm càng kho tàu và chuột đồng chiên sả ớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn độc đáo."
+    },
+    {
+      "step": "Nguồn gốc nguyên liệu",
+      "desc": "Nhấn mạnh tôm càng sông và chuột đồng từ chợ quê.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng về chất lượng và nguồn gốc."
+    },
+    {
+      "step": "Quá trình chế biến",
+      "desc": "Mô tả sơ lược cách chế biến món tôm và chuột.",
+      "impact_level": "1",
+      "viewer_emotion": "Tưởng tượng hương vị món ăn."
+    },
+    {
+      "step": "Tình hình mua sắm Tết",
+      "desc": "Chia sẻ về tình hình kinh tế và mua sắm Tết chậm.",
+      "impact_level": "1",
+      "viewer_emotion": "Đồng cảm với khó khăn kinh tế."
+    },
+    {
+      "step": "Lời khuyên chi tiêu",
+      "desc": "Đưa ra lời khuyên chi tiêu hợp lý trong năm mới.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy được quan tâm và chia sẻ."
+    },
+    {
+      "step": "Kết hợp đồ uống",
+      "desc": "Gợi ý kết hợp món ăn với sinh tố lúa mạch.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với gợi ý kết hợp."
+    },
+    {
+      "step": "Lời cảm ơn và mời ăn",
+      "desc": "Cảm ơn chợ quê và mời mọi người cùng thưởng thức.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thân thiện và ấm cúng."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Mời cả nhà thưởng thức cùng Tuấn nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "cực kỳ tươi",
+    "chất lượng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mấy tôm này, bữa nay Tuấn làm sạch, lột sạch vỏ luôn rồi đem kho tàu nhanh quá trời.",
+    "Chuột này là chuột đồng chính hiệu của bên chợ quê cô Ngọc luôn. Riêng món này phải thân quen Tuấn mới dám mua ăn. Chuột này ướp xong lát chiên lên nó thơm thì thôi khỏi phải bàn luôn.",
+    "Bữa nay hai món mồi này mà không làm mấy ly sinh tố lúa mạch thì có lỗi với thiên nhiên quá."
+  ],
+  "hook_content": "Ta nói hớm nay chưa Tết mà ăn thịt kho tàu mấy bận rồi nên bữa nay đổi món.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu món tôm càng kho tàu và chuột đồng chiên sả ớt, chia sẻ về nguồn gốc nguyên liệu từ chợ quê cô Ngọc. Đồng thời, video cũng đề cập đến tình hình kinh tế và mua sắm Tết, đưa ra lời khuyên chi tiêu hợp lý.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

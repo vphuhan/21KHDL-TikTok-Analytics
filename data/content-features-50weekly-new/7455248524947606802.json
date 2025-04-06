@@ -1,0 +1,58 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Vivi giới thiệu món kê bò chưng ớt xiêm xanh và mời ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Vivi bắt đầu ăn và nhận xét về hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Nhấn mạnh trải nghiệm",
+      "desc": "Liên tưởng món ăn với trải nghiệm nhậu cùng bạn bè.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thơm",
+    "ngon",
+    "nhức nách"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Rất là thơm, ngon nha.",
+    "Cái này mà hồi chị em lai rai sương tố lúa mạch nhức nách."
+  ],
+  "hook_content": "Hello mọi người, hôm nay Vivi sẽ ăn kê bò chưng với lại ớt xiêm xanh.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Vivi ăn mukbang món kê bò chưng ớt xiêm xanh, khen ngon và liên tưởng đến việc nhậu cùng bạn bè.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

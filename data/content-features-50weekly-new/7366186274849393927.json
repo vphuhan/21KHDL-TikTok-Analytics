@@ -1,0 +1,51 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu các thành phần chính của món cơm trộn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Ăn và thể hiện cảm xúc về món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn và hẹn gặp lại."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ngon."
+  ],
+  "hook_content": "Ăn cơm, trứng chiên sốt cà ri.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang cơm trộn với trứng chiên sốt cà ri, cá ngừ hộp, kim chi và rong biển. Người ăn đánh giá ngon và hẹn gặp lại.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

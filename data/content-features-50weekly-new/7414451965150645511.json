@@ -1,0 +1,63 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu nhân vật",
+      "desc": "Giới thiệu về nhân vật Bà Tuyết và mối liên hệ.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Đề cập đến thỏa thuận",
+      "desc": "Nhắc nhở về thỏa thuận trước đó và trách nhiệm.",
+      "impact_level": "2",
+      "viewer_emotion": "Chú ý"
+    },
+    {
+      "step": "Khẳng định chất lượng",
+      "desc": "Tự tin khẳng định chất lượng sản phẩm và thương hiệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng"
+    },
+    {
+      "step": "Tự hào về sản phẩm",
+      "desc": "Thể hiện sự tự hào và hài lòng về sản phẩm.",
+      "impact_level": "3",
+      "viewer_emotion": "Phấn khích"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "mãi đỉnh"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nói được thì bác phải làm được đấy chứ.",
+    "Kênh thì to, nhà xưởng cũng to.",
+    "Mãi đỉnh, mãi đỉnh, mãi đỉnh luôn."
+  ],
+  "hook_content": "Bà Tuyết đâu rồi? Đây.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Đối thoại"
+  ],
+  "summarization": "Video xoay quanh cuộc trò chuyện giữa người nói và bà Tuyết về một thỏa thuận hợp tác. Người nói thể hiện sự tin tưởng vào sản phẩm và khẳng định chất lượng của nó.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Trung lập"
+  ]
+}

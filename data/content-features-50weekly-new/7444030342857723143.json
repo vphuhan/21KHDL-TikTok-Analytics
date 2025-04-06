@@ -1,0 +1,89 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán",
+      "desc": "Cô bán lẩu bò nhúng giấm bình dân, giá cả phải chăng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán ăn"
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Lẩu bò nhúng giấm ngon, đặc biệt được nấu từ nước dừa.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Ưu đãi",
+      "desc": "Chương trình khuyến mãi mua 1 tặng 2 rất hấp dẫn.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Bò nhúng giấm ngon, nước lẩu đậm đà, mắm nêm hợp vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn ăn thử"
+    },
+    {
+      "step": "Gợi ý món khác",
+      "desc": "Giới thiệu thêm các món khác như bò xào bông thiên lý.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món khác"
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Khuyên mọi người nên ghé ăn nếu thèm lẩu bò nhúng giấm.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong muốn được trải nghiệm"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Bạn nào ở quận 5 mà đang thèm lẩu bò nhúng giấm á thì ghé qua đây ăn nghe.",
+    "Địa chỉ Tính để đây nè."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "cuốn",
+    "thơm",
+    "hợp vị",
+    "mềm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cô chủ là người miền Tây với kinh nghiệm nấu ăn hơn 30 năm và nước lẩu ở đây được nấu từ nước dừa tươi và cái nước chấm mắm nêm cực kỳ cuốn luôn.",
+    "Đi ăn nhiều nơi ở Sài Gòn rồi, chỉ duy nhất chỗ này Tính thấy dùng mực nang con nhỏ và còn có cá bạch tuộc nữa nha.",
+    "Ăn cứ bị cuốn mà muốn ăn hoài á."
+  ],
+  "hook_content": "Con ơi cô bán bò nhúng giấm đó. Cô ở đây cô bán bình dân lắm. chỉ từ có 125.000 à.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Khuyến mãi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu quán lẩu bò nhúng giấm bình dân tại Quận 5 với món lẩu bò nhúng giấm đặc biệt nấu từ nước dừa tươi, nước chấm mắm nêm cực cuốn và các món ăn kèm hấp dẫn khác. Quán đang có chương trình khuyến mãi mua 1 tặng 2.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hào hứng"
+  ]
+}

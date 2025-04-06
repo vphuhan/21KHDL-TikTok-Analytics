@@ -1,0 +1,89 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bánh đúc nóng và bánh cuốn làm từ cơm nguội.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách làm món ăn."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Xay cơm nguội với bột năng và nước để làm bánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy lạ khi dùng cơm nguội."
+    },
+    {
+      "step": "Xay và lọc bột",
+      "desc": "Xay và lọc bột hai lần để bột được mịn.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy công phu."
+    },
+    {
+      "step": "Xào nhân bánh",
+      "desc": "Xào thịt băm, mộc nhĩ và nêm gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn."
+    },
+    {
+      "step": "Pha nước mắm",
+      "desc": "Pha nước mắm đường thốt nốt tỏi ớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử ngay."
+    },
+    {
+      "step": "Làm bánh đúc",
+      "desc": "Khuấy bột bánh đúc trên chảo, thêm nhân.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thèm ăn."
+    },
+    {
+      "step": "Làm bánh cuốn",
+      "desc": "Tráng bánh cuốn bằng chảo.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy hơi khó."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Tin tôi, nếu mà không có bột làm bánh đúc thì hãy thử làm bánh đúc từ cơm nguội, vừa nhanh, vừa dễ, vừa ngon."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "nhức nách",
+    "ổn áp"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bánh đúc nóng pha kè thôi nhưng mà ăn ngon lắm nha.",
+    "Cái món này mà ăn vào mùa đông cứ phải gọi là nhức cái nách.",
+    "Mười điểm không có nhưng."
+  ],
+  "hook_content": "Nhưng đảm bảo, ai mà nhìn thấy cái món bánh đúc nóng với lại bánh cuốn này của mình thì cũng không thể phát hiện ra nó được làm từ cơm nguội.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn làm bánh đúc nóng và bánh cuốn từ cơm nguội, chia sẻ cách chế biến bột, xào nhân và pha nước mắm, đồng thời đánh giá hương vị của cả hai món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

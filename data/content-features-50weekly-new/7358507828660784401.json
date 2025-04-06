@@ -1,0 +1,38 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu các món ăn sẽ được ăn trong video mukbang.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về các món ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [],
+  "has_cta": "false",
+  "highlight_phrases": [],
+  "hook_content": "Hôm nay sẽ múc banh, trưng gà áp chanh, gà ủ muối.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Liệt kê"
+  ],
+  "summarization": "Video này là một buổi mukbang với các món gà như gà áp chanh và gà ủ muối.",
+  "tone_of_voice": [
+    "Hào hứng"
+  ]
+}

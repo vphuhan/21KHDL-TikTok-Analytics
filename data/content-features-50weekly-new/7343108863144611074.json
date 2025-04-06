@@ -1,0 +1,84 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán ăn",
+      "desc": "Giới thiệu quán bún bò vỉa hè không tên nhưng rất đông khách.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán ăn không tên mà lại nổi tiếng."
+    },
+    {
+      "step": "Mô tả không gian",
+      "desc": "Mô tả không gian quán vỉa hè nhỏ, đông khách và không sạch sẽ.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường, chấp nhận được vì quán vỉa hè."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Đánh giá hương vị, thành phần và trải nghiệm ăn bún bò Huế.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món bún bò Huế nóng hổi, đậm đà."
+    },
+    {
+      "step": "Đánh giá món xí quách",
+      "desc": "Giới thiệu và đánh giá món xí quách hầm, món ăn kèm đặc biệt.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn thử ngay món xí quách hầm ngọt đậm đà."
+    },
+    {
+      "step": "Tương tác với chủ quán",
+      "desc": "Hỏi tên chủ quán và giới thiệu tên quán cho mọi người.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với sự thân thiện của chủ quán."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Khẳng định quán bún bò Huế ngon có tiếng ở Tân Bình.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng và muốn ghé thăm quán bún bò này."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "béo ngậy",
+    "cay nồng",
+    "đậm đà",
+    "ngọt",
+    "giòn",
+    "sần sật",
+    "sướng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ở Sài Gòn có những quán ăn vỉa hè khách tới ăn đông khủng khiếp. Nhưng kỳ lạ thay là những quán ấy chẳng có tên hiệu bằng biểu gì cả.",
+    "Khi mà thưởng thức một miếng bún, sẽ cảm nhận được cái hương vị cay nồng của sa tế, với cả vị đậm đà của mắm ruốc cùng vị ngọt của nước lèo.",
+    "Khi mút từng miếng xương xí quách ở đây ý cảm nhận được cái vị ngọt đậm đà của xương, thỉnh thoảng vướng một ít riềm thịt bò nó rơi ra tơi tơi ra từng miếng xong rồi hòa quyện cùng cái vị ngọt của tủy."
+  ],
+  "hook_content": "cho anh em một tô bún bò Huế nhá.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quán bún bò Huế vỉa hè không tên ở Sài Gòn, nổi tiếng đông khách với món bún bò và xí quách ngon, đậm đà. Chủ quán thân thiện, quán có tên là bún bò Tùng Loan.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món bánh bột chiên và lý do tự làm tại nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị vì muốn biết cách làm món bánh này."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Hướng dẫn cách kích men và trộn bột mì, bột nếp.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, vì đây là bước cơ bản."
+    },
+    {
+      "step": "Làm nhân bánh",
+      "desc": "Hướng dẫn làm nhân bánh với đường và các loại hạt.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Ủ bột",
+      "desc": "Mô tả quá trình ủ bột và kết quả bột nở.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị khi bột nở nhanh chóng."
+    },
+    {
+      "step": "Nặn bánh",
+      "desc": "Hướng dẫn cách nặn bánh và cho nhân vào.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị vì cách nặn bánh khá đặc biệt."
+    },
+    {
+      "step": "Chiên bánh",
+      "desc": "Mô tả quá trình chiên bánh và khó khăn gặp phải.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy phấn khích vì sự cố bất ngờ."
+    },
+    {
+      "step": "Thành phẩm",
+      "desc": "Giới thiệu thành phẩm bánh bột chiên.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với thành quả cuối cùng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thèm",
+    "thơm",
+    "ngon",
+    "mê"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ở bên Hàn Quốc này muốn ăn cái bánh bột chiên này là cũng phải theo mùa nữa nha mọi người.",
+    "Mình á là tại vì tiếc cái khuôn 2000 này nè.",
+    "Bạn nào tính nóng mà độ kiên cao nữa là mình thôi mua ăn đi cho nó lành nha."
+  ],
+  "hook_content": "Bữa nay mình sẽ làm cái món bánh bột chiên.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn làm bánh bột chiên tại nhà theo phong cách Hàn Quốc, chia sẻ kinh nghiệm và những khó khăn gặp phải trong quá trình thực hiện. Thành phẩm là món bánh ngon và hấp dẫn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món xiên bẩn và mời mọi người cùng ăn",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Chấm xiên bẩn với tương ớt và sốt me",
+      "impact_level": "3",
+      "viewer_emotion": "Hấp dẫn"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét các loại xiên bẩn đều ngon",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Khuyên không nên ăn nhiều xiên bẩn",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Cảm ơn và hẹn gặp lại",
+      "impact_level": "1",
+      "viewer_emotion": "Vui vẻ"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người đã xem hết video của mình.",
+    "Hẹn mọi người những video sau."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ăn cái này nhiều thì không tốt đâu mọi người ạ, nhưng mà lâu lâu ăn thì ngon ý."
+  ],
+  "hook_content": "Xin chào mọi người, hôm nay mình sẽ ăn xiên bẩn.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang món xiên bẩn, người ăn giới thiệu và thưởng thức món ăn cùng các loại sốt chấm, đưa ra lời khuyên không nên ăn nhiều.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

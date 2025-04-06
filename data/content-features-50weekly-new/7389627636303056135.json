@@ -1,0 +1,85 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ốc mặt trăng luộc sả và âm thanh đặc trưng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Miêu tả nguyên liệu",
+      "desc": "Miêu tả ốc tươi ngon và gợi ý món khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Trải nghiệm ăn ốc với muối ớt tiêu cay.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Đánh giá cảm quan",
+      "desc": "Miêu tả hương vị và độ ngon của ốc.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng thưởng thức món ốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Gần gũi"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mọi người có biết con ốc này còn làm được món gì ngon nữa thì chỉ tôi với nhen.",
+    "Giờ thì mời mọi người ăn chung với tôi nghe."
+  ],
+  "cta_type": [
+    "Ăn cùng",
+    "Chia sẻ công thức"
+  ],
+  "emotion_keywords": [
+    "thơm mùi biển",
+    "ngon",
+    "cay xương xương",
+    "tê tái tâm hồn",
+    "mê",
+    "đã tai",
+    "giòn ngọt",
+    "béo ngậy",
+    "quá xá đã"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Có 102 chỉ có con ốc mặt trăng xinh xẻo này mới có thôi.",
+    "Ta nói mê nhất là cái khúc gõ này luôn, nghe đã tai gì đâu.",
+    "Thịt ốc thì giòn ngọt, đuôi ốc thì béo ngậy ăn vô một cái quá xá đã luôn."
+  ],
+  "hook_content": "Hello mọi người, lại là tôi mập bự thích nấu ăn đây. Nay mọi người cùng tôi ăn ốc mặt trăng luộc sả nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu món ốc mặt trăng luộc sả, cách chế biến đơn giản và trải nghiệm hương vị đặc biệt khi ăn kèm muối ớt. Người làm video cũng tương tác với người xem để xin thêm gợi ý chế biến.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

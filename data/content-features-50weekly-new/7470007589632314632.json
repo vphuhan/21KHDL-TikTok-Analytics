@@ -1,0 +1,94 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món ăn là kê bò và các nguyên liệu ăn kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Ăn và miêu tả ké bò",
+      "desc": "Ăn thử ké bò chấm sốt và miêu tả cảm nhận về hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Ăn và miêu tả u bò",
+      "desc": "Ăn thử u bò chấm sốt và miêu tả cảm nhận về độ cứng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Tìm cách ăn u bò",
+      "desc": "Thử cắt nhỏ u bò để ăn nhưng vẫn thấy quá cứng.",
+      "impact_level": "2",
+      "viewer_emotion": "Hụt hẫng"
+    },
+    {
+      "step": "Ăn thịt từ u bò",
+      "desc": "Cắt phần thịt từ u bò và ăn thử, nhận xét về vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Tổng kết trải nghiệm",
+      "desc": "Nhận xét chung về trải nghiệm ăn kê bò và u bò.",
+      "impact_level": "2",
+      "viewer_emotion": "Cởi mở"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cùng trải nghiệm thử với Vàng nha",
+    "Ok, cám ơn bạn đã xem video của Tóc Vàng, hẹn gặp lại bạn vào video lần sau, bye bye."
+  ],
+  "cta_type": [
+    "Ăn cùng",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "tuyệt vời",
+    "xịn",
+    "hồi hộp",
+    "lạ lạ miệng",
+    "cuốn cuốn",
+    "cay",
+    "ngon",
+    "ghê ghê",
+    "thú vị",
+    "béo béo"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ăn một hồi thấy nó cuốn cuốn nha bạn ơi",
+    "chịu khó nhai tới Tết thì nó cũng ngon nha bạn ơi",
+    "nhai xong chắc thay luôn hàm răng quá bạn"
+  ],
+  "hook_content": "Hi các bạn, hôm nay Vàng sẽ mút ăn phụ tùng của con bò nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video mukbang của Tóc Vàng trải nghiệm ăn kê bò và u bò, chia sẻ cảm nhận về hương vị và độ dai của món ăn. Mặc dù có những khó khăn khi nhai nhưng Tóc Vàng vẫn khuyến khích mọi người thử.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

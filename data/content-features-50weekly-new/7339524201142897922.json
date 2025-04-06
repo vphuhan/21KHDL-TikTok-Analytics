@@ -1,0 +1,84 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Nêu lý do thèm ăn và gợi ý món bún thịt nướng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Chuẩn bị dưa góp",
+      "desc": "Hướng dẫn làm dưa góp ăn kèm bún thịt nướng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Ướp thịt",
+      "desc": "Chia sẻ công thức ướp thịt đơn giản.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị"
+    },
+    {
+      "step": "Nướng thịt",
+      "desc": "Trong lúc đợi thịt chín thì làm nước mắm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Pha nước mắm",
+      "desc": "Hướng dẫn nấu nước mắm ăn kèm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Thịt nướng chín và bày ra đĩa.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Ăn bún thịt nướng phải có tỏi xay.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "thèm",
+    "ngon",
+    "thơm",
+    "nồng nàn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Qua rằm tháng giêng cái thèm ăn đủ thứ luôn đi các bác ơi",
+    "Nói chung rau chỉ là một phần, quan trọng là cứ phải có tí thịt, có chất đạm vào ăn nó mới ok la này",
+    "Khúc này là rớt hết cả dãi ra rồi"
+  ],
+  "hook_content": "qua rằm tháng giêng cái thèm ăn đủ thứ luôn đi các bác ơi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm bún thịt nướng tại nhà, từ khâu chuẩn bị nguyên liệu, ướp thịt, pha nước mắm đến khi hoàn thành món ăn hấp dẫn. Món ăn này đặc biệt ngon khi ăn kèm với tỏi.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món cơm độn khoai và các món ăn kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Kỷ niệm tuổi thơ",
+      "desc": "Chia sẻ kỷ niệm về món cơm độn khoai thời thơ ấu.",
+      "impact_level": "2",
+      "viewer_emotion": "Hoài niệm"
+    },
+    {
+      "step": "Gợi ý món khác",
+      "desc": "Gợi ý các món ăn khác từ khoai khô.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Nhắc lại kỷ niệm và gửi lời cảm ơn.",
+      "impact_level": "2",
+      "viewer_emotion": "Xúc động"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Kiến thức",
+    "Sáng tạo"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người xem video của mình, hẹn mọi video sau, tạm biệt."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thích"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Đúng là phải hai mươi mấy năm rồi mình mới ăn lại cái cơm này luôn ấy.",
+    "Cái khoai khô này nhá, nấu chè cũng ngon này mà kiểu đi nổ bỏng nhưng mà nổ bỏng cái khoai này cũng cực kỳ ngon luôn.",
+    "mỗi lần mà mình sang nhà ông bà nội kiểu ăn trực cơm ấy là sẽ có cơm này"
+  ],
+  "hook_content": "Đúng là phải hai mươi mấy năm rồi mình mới ăn lại cái cơm này luôn ấy.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện"
+  ],
+  "summarization": "Video ghi lại cảnh người nói ăn món cơm độn khoai gợi nhớ kỷ niệm tuổi thơ, ăn kèm dưa muối và muối chấm mắm. Món ăn gợi lại những ký ức về gia đình và tuổi thơ.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

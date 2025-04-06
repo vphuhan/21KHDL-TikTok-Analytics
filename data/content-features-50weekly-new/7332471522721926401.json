@@ -1,0 +1,90 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu vấn đề",
+      "desc": "Chia sẻ về việc làm mít sấy thất bại bằng nồi chiên không dầu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về nguyên nhân thất bại."
+    },
+    {
+      "step": "Mô tả quy trình",
+      "desc": "Tái hiện lại các bước làm mít sấy theo hướng dẫn trên mạng.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy quy trình khá đơn giản."
+    },
+    {
+      "step": "Thừa nhận thất bại",
+      "desc": "Thú nhận mít sấy bị cháy và không giòn như mong đợi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thất vọng về kết quả."
+    },
+    {
+      "step": "Lo lắng",
+      "desc": "Bày tỏ sự lo lắng về phản ứng của mẹ khi thấy mít hỏng.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với sự lo lắng."
+    },
+    {
+      "step": "Kêu gọi giúp đỡ",
+      "desc": "Mong muốn nhận được lời khuyên để làm lại mít sấy thành công.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn giúp đỡ để khắc phục tình hình."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ai đã làm thành công cái mít sấy này rồi thì chỉ cho mình với để mình dốc giềng làm lại trước khi mẹ mình về mọi người ơi!"
+  ],
+  "cta_type": [
+    "Bình luận",
+    "Chia sẻ công thức",
+    "Đặt câu hỏi"
+  ],
+  "emotion_keywords": [
+    "cứu",
+    "đơn giản",
+    "tự tin",
+    "chắc chắn",
+    "không giòn",
+    "mềm oặt",
+    "lo lắng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mọi người ơi cứu mình với!",
+    "Tí mẹ mình về mà nhìn thấy cái đống mít sấy này thì chắc là Tết năm nay mẹ mình cho mình ăn Tết ở ngoài đường luôn mất.",
+    "Ai đã làm thành công cái mít sấy này rồi thì chỉ cho mình với để mình dốc giềng làm lại trước khi mẹ mình về mọi người ơi!"
+  ],
+  "hook_content": "Mọi người ơi cứu mình với!",
+  "hook_type": [
+    "Gây tò mò",
+    "Đặt câu hỏi",
+    "Tạo sự đồng cảm"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ về trải nghiệm làm mít sấy bằng nồi chiên không dầu thất bại, mít bị cháy và không giòn. Người làm video mong muốn nhận được sự giúp đỡ, chia sẻ kinh nghiệm từ những người đã làm thành công.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu tôm tít",
+      "desc": "Giới thiệu con tôm tít vằn siêu to và cách nó được giao.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về kích thước của con tôm."
+    },
+    {
+      "step": "Chế biến tôm",
+      "desc": "Hấp tôm tít vằn với sả và chia sẻ giá tiền.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không có gì đặc biệt."
+    },
+    {
+      "step": "Lần đầu ăn",
+      "desc": "Lần đầu ăn tôm tít vằn, nhận xét về vỏ và gạch tôm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thắc mắc về các bộ phận của tôm."
+    },
+    {
+      "step": "Thưởng thức tôm",
+      "desc": "Lột vỏ và ăn các phần khác nhau của tôm, khen ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy thèm thuồng khi nghe ngon."
+    },
+    {
+      "step": "Đánh giá gạch tôm",
+      "desc": "Gạch tôm ngon nhưng hơi ngán nếu không có thịt.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng ý với nhận xét về gạch tôm."
+    },
+    {
+      "step": "Nhận xét thịt tôm",
+      "desc": "Thịt tôm dai và ngon, đáng đồng tiền.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn thử thịt tôm dai ngon."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Vẫn thấy thòm thèm dù đã ăn gần hết con tôm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tiếc nuối vì món ăn ngon."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Ok, cảm ơn cả nhà đã theo dõi video của Thành.",
+    "Hẹn gặp lại ở video tiếp theo nha."
+  ],
+  "cta_type": [
+    "Follow kênh",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngọt",
+    "ngon",
+    "đã",
+    "ngán",
+    "thòm thèm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nó ngọt kinh khủng luôn á.",
+    "Nhưng mà con này ăn đáng đồng tiền nha cả nhà ơi, nó ngon á.",
+    "Ăn tới đây rồi nó hết cái gì rồi nhưng mà vẫn còn thấy chưa có đã."
+  ],
+  "hook_content": "Ừm, tôm tít vằn. Con này siêu khủng cả nhà, rất là bự luôn nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang tôm tít vằn siêu to, tập trung vào trải nghiệm ăn và đánh giá hương vị, chất lượng của tôm. Người nói khen ngon, đặc biệt là phần thịt dai, nhưng cũng thấy ngán nếu chỉ ăn gạch.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

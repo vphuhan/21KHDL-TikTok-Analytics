@@ -1,0 +1,87 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu hoàn cảnh",
+      "desc": "Giới thiệu về việc được cho kẹo và thời tiết lạnh.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Dạo siêu thị",
+      "desc": "Đi siêu thị và giới thiệu các loại củ mùa đông.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Giới thiệu củ lạ",
+      "desc": "Tìm thấy củ hoa lily và chia sẻ sự ngạc nhiên.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên"
+    },
+    {
+      "step": "Thử nghiệm",
+      "desc": "Hấp củ hoa lily để thử hương vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Quảng cáo vòng trầm",
+      "desc": "Giới thiệu về chiếc vòng trầm đang đeo.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá củ lily",
+      "desc": "Tiết lộ củ hoa lily và đánh giá hương vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng"
+    },
+    {
+      "step": "Thông tin vòng trầm",
+      "desc": "Nhắc lại thông tin về vòng trầm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "béo",
+    "bùi",
+    "ngon",
+    "may mắn",
+    "thuận lợi",
+    "thoang thoảng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Lần đầu tiên mình mới biết nó ăn được luôn.",
+    "Hoa lily thì đã quá đẹp rồi mà bây giờ củ lily cũng ăn được luôn.",
+    "Ăn vô bùi như là hột mít vậy đó."
+  ],
+  "hook_content": "Hôm nay thì được cô cho mỗi đứa cục kẹo, tại vì cô dạy hôm nay thôi là cô nghỉ dạy rồi.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video ghi lại trải nghiệm lần đầu ăn củ hoa lily của một người, đồng thời giới thiệu về chiếc vòng trầm đang đeo. Củ hoa lily được đánh giá là béo, bùi và ngon.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người ăn chay, ăn healthy"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mẹo chiên đậu hũ",
+      "desc": "Chia sẻ mẹo chiên đậu hũ giòn không cần nước đá.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với mẹo hay."
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Quyết định làm món tàu hũ nấm rơm kho thơm ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Liệt kê và sơ chế các nguyên liệu cần thiết.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, cần thiết cho hướng dẫn."
+    },
+    {
+      "step": "Pha nước kho",
+      "desc": "Hướng dẫn pha nước kho và hiển thị công thức.",
+      "impact_level": "2",
+      "viewer_emotion": "Ghi lại công thức."
+    },
+    {
+      "step": "Chiên đậu hũ",
+      "desc": "Chiên sơ đậu hũ và chia sẻ mẹo chiên giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với mẹo chiên."
+    },
+    {
+      "step": "Xào rau củ",
+      "desc": "Xào khóm và nấm rơm cho thơm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, đây là công đoạn nấu ăn."
+    },
+    {
+      "step": "Hoàn thành món ăn",
+      "desc": "Kho đậu hũ và nêm nếm gia vị, thêm hành lá.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn, thèm ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "thơm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đây là một cái mẹo mà chủ quán nhậu không bao giờ muốn cho bạn biết.",
+    "Mấy bạn không cần bỏ vô nước đá mà mấy bạn chiên bình thường thôi, cái cục đậu hũ nó cũng sẽ giòn mà ở bên trong nó mềm.",
+    "ăn hết ba nồi cơm"
+  ],
+  "hook_content": "Trực tiếp cái phần bột chiên giòn vào chảo dầu á, chiên đậu hũ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn nấu món tàu hũ nấm rơm kho chay, chia sẻ mẹo chiên đậu hũ giòn và cách nêm nếm để món ăn thơm ngon, hấp dẫn.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

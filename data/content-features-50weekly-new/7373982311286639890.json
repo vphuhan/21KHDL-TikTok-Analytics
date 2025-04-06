@@ -1,0 +1,83 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu mồi nhử",
+      "desc": "Khẳng định đùi gà to giá rẻ, tạo sự chú ý ban đầu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ lớn và giá cả."
+    },
+    {
+      "step": "Thông tin chi tiết",
+      "desc": "Cung cấp thông tin về giá cả, kích thước và so sánh.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị vì thông tin hữu ích."
+    },
+    {
+      "step": "Đa dạng món",
+      "desc": "Giới thiệu các món khác với giá cả phải chăng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không quá đặc biệt."
+    },
+    {
+      "step": "Trải nghiệm thực tế",
+      "desc": "Miêu tả chi tiết về hương vị và chất lượng món ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thèm thuồng khi nghe miêu tả."
+    },
+    {
+      "step": "Điểm cộng",
+      "desc": "Nhấn mạnh sự chu đáo của quán với đồ chua ăn kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú vì sự tinh tế của quán."
+    },
+    {
+      "step": "Thông tin quán",
+      "desc": "Giải thích tên quán và cung cấp địa chỉ cụ thể.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin cơ bản."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "mềm mọng nước",
+    "giòn",
+    "vừa miệng",
+    "giải ngán"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Không ở chỗ nào bán cái đùi 30k mà to như chỗ anh đâu.",
+    "Một cái đùi này phải to bằng nửa cái mặt mình ấy.",
+    "Vỏ ngoài giòn, thịt bên trong mềm mọng nước, do cái đùi to nên cắn ngập răng luôn."
+  ],
+  "hook_content": "Anh khẳng định với em là không ở chỗ nào bán cái đùi 30k mà to như chỗ anh đâu.",
+  "hook_type": [
+    "Gây tò mò",
+    "So sánh"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quán gà rán SV 2000 nổi tiếng với món đùi gà siêu to giá chỉ 30k, cùng nhiều món ăn hấp dẫn khác. Người quay phim trực tiếp trải nghiệm và đánh giá cao chất lượng cũng như độ chu đáo của quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

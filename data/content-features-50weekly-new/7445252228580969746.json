@@ -1,0 +1,88 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu mở đầu",
+      "desc": "Giới thiệu về việc chi tiền mua xe và sự kiện mở hộp.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về nội dung bên trong hộp quà."
+    },
+    {
+      "step": "Khám phá các ô quà",
+      "desc": "Mở từng ô quà, khám phá và giới thiệu sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú khi khám phá những món quà."
+    },
+    {
+      "step": "Đánh giá sản phẩm",
+      "desc": "Đánh giá và thể hiện cảm xúc về các sản phẩm nhận được.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung lắng nghe review sản phẩm."
+    },
+    {
+      "step": "Nhấn mạnh tăm nước",
+      "desc": "Tập trung vào tăm nước mới và thể hiện sự yêu thích.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với màu sắc của tăm nước."
+    },
+    {
+      "step": "Mở ô đặc biệt",
+      "desc": "Mở ô số sáu và nhận lời chúc mừng năm mới.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ và cảm động với lời chúc."
+    },
+    {
+      "step": "Thông báo ưu đãi",
+      "desc": "Thông báo về chương trình ưu đãi và kêu gọi mua hàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến thông tin ưu đãi."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nên là mọi người nhanh tay mua ngay kẻo hết sale nhá."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm",
+    "Chia sẻ"
+  ],
+  "emotion_keywords": [
+    "thèm",
+    "tuyệt vời",
+    "thích",
+    "đẹp",
+    "tuyệt vời",
+    "bất ngờ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Nếu như mà từ nãy đến giờ ấy thì chắc là mình thích cái ô này nhất đấy, quá đẹp.",
+    "Tăm nước từ trước giờ chưa có màu này nhá.",
+    "Đúng là không món quà nào bằng những lời chúc, mình cũng bất ngờ đấy, tuyệt vời!"
+  ],
+  "hook_content": "Tôi đã chi đến gần một tỷ để sở hữu chiếc xe đầu tiên trong cuộc đời.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Liệt kê"
+  ],
+  "summarization": "Video mở hộp quà Tết của nhãn hàng Brushie, với nhiều sản phẩm chăm sóc răng miệng và lời chúc năm mới. Người dùng review từng sản phẩm và thông báo chương trình ưu đãi.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Ngạc nhiên"
+  ]
+}

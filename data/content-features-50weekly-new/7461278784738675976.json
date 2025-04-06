@@ -1,0 +1,83 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn kèm",
+      "desc": "Mời mọi người ăn xúc xích và giới thiệu tương ớt VIFON.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thủ tục mở đầu quen thuộc."
+    },
+    {
+      "step": "Miêu tả hương vị",
+      "desc": "Đánh giá vị cay của tương ớt, không cay gắt mà tê tê.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về vị cay dịu của tương ớt."
+    },
+    {
+      "step": "Nhấn mạnh độ tươi",
+      "desc": "Cảm nhận độ tươi của ớt, cà chua, tỏi trong tương ớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào chất lượng sản phẩm hơn."
+    },
+    {
+      "step": "Khẳng định lại vị cay",
+      "desc": "Nhắc lại vị cay dịu, đúng với slogan của hãng.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thông tin được củng cố."
+    },
+    {
+      "step": "Gợi ý món ăn kèm",
+      "desc": "Tương ớt hợp với giò chả, đồ chiên rán, xúc xích.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử tương ớt với các món chiên rán."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mua chai tương ớt Vi Phong đi mấy bà.",
+    "Chấm đồ chiên, rán, xúc xích cực hợp luôn."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "cay",
+    "cay dịu",
+    "tê tê",
+    "cuốn",
+    "tươi"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ngon nha. Ngon.",
+    "Nó kiểu tê tê đầu lưỡi ấy. Ăn nó ngon mà nó cuốn cực.",
+    "Cái tương ớt này mà chấm cùng với giò chả rồi xúc xích đồ rán, đồ chiên thì siêu hợp."
+  ],
+  "hook_content": "Mời mọi người ăn xúc xích cùng với mình nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review tương ớt VIFON khi ăn kèm với xúc xích, tập trung vào miêu tả hương vị cay dịu, tê tê đầu lưỡi và độ tươi của sản phẩm, đồng thời gợi ý các món ăn phù hợp để chấm cùng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

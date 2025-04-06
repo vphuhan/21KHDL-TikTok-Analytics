@@ -1,0 +1,81 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu combo 5k",
+      "desc": "Giới thiệu combo 5k mua được nước suối tại cửa hàng tiện lợi",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu combo 15k",
+      "desc": "Giới thiệu combo 15k mua được hotdog và snack bỉ",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu combo 25k",
+      "desc": "Giới thiệu combo 25k mua được snack rong biển và mì tương đen",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu combo 35k",
+      "desc": "Giới thiệu combo 35k mua được mì Omachi, nước ép vải, snack tô",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu combo 45k",
+      "desc": "Giới thiệu combo 45k mua được bánh Oreo, snack rong biển, snack a xi tô, sữa, kẹo dẻo",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Giới thiệu combo 55k",
+      "desc": "Giới thiệu combo 55k mua được Pento, đậu phộng, bánh sukem, bánh gạo, bánh quế, ba cái, snack bơ giòn, nước",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Giới thiệu combo 65k",
+      "desc": "Giới thiệu combo 65k mua được hotdog, mì Omachi, xúc xích lắc heo, bông lan trứng muối, nước bậy úp",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "nóng"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Đồ ăn màu vàng",
+    "Màu hồng mạnh mẽ",
+    "Quá nóng quá"
+  ],
+  "hook_content": "5.000 mua được gì? Nước suối 5.000.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Liệt kê"
+  ],
+  "summarization": "Video liệt kê các combo đồ ăn có thể mua được tại cửa hàng tiện lợi với các mức giá khác nhau từ 5k đến 95k, giới thiệu các loại đồ ăn vặt và nước uống.",
+  "tone_of_voice": [
+    "Hào hứng"
+  ]
+}

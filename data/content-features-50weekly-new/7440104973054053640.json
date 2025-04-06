@@ -1,0 +1,91 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu về quán lẩu ốc giá rẻ ở Hà Nội.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về địa điểm ăn uống mới."
+    },
+    {
+      "step": "Giá cả",
+      "desc": "Nhấn mạnh giá cả hợp lý của nồi lẩu ốc.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ, thích thú vì giá rẻ."
+    },
+    {
+      "step": "Địa điểm",
+      "desc": "Thông tin về địa điểm và cơ sở áp dụng giá ưu đãi.",
+      "impact_level": "2",
+      "viewer_emotion": "Ghi nhớ địa chỉ để ghé thăm."
+    },
+    {
+      "step": "Mô tả món ăn",
+      "desc": "Giới thiệu chi tiết các thành phần trong nồi lẩu.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thèm ăn, muốn thử."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Đánh giá hương vị, chất lượng của các món ăn kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá của người review."
+    },
+    {
+      "step": "Gợi ý thêm",
+      "desc": "Gợi ý các món khác nên thử khi đến quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Cân nhắc lựa chọn các món khác."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Nhắc lại về giá ưu đãi và địa chỉ quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Nhớ lại thông tin quan trọng."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "tranh thủ qua thử đi đảm bảo là không thất vọng đâu."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "cuốn",
+    "tươi",
+    "ngọt",
+    "béo"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "lần nào mình đi ăn lẩu ốc cũng phải hết tầm 1500 đến 200000đ một người mà ở đây họ bán cả một cái set lẩu ốc to như thế này có 179.000đ thôi",
+    "ốc mít ở đây nó cực kỳ to luôn",
+    "tôm con nào con đấy to mà nó quyện đẫm sốt, ngọt ngọt béo béo hơi chua nhẹ thôi, cực kỳ cuốn luôn"
+  ],
+  "hook_content": "em gửi tiền luôn nồi lẩu ốc nhá.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review quán lẩu ốc 29 ở Hà Nội với giá cả phải chăng, đặc biệt là ưu đãi lẩu ốc chỉ 179.000đ/nồi tại cơ sở Yên Phụ. Người xem được giới thiệu về các thành phần trong lẩu, các món ăn kèm hấp dẫn khác và địa chỉ cụ thể của quán.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

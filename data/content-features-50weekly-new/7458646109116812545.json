@@ -1,0 +1,99 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Lần đầu ăn Sam, tò mò về giao diện nên quyết định thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Giá cả và cách chế biến",
+      "desc": "Giá 70k/con, không cần sơ chế, mua về nướng luôn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Quá trình nướng",
+      "desc": "Sam còn tươi, nướng xì khói, làm mỡ hành.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Hoàn thiện và trang trí",
+      "desc": "Sam chín, nhiều trứng, thêm mỡ hành, hành phi, đậu phộng.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Giới thiệu sản phẩm khác",
+      "desc": "Review nước hoa Nhật Kim Anh, hương thơm và độ lưu hương.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Sam nướng hấp dẫn, thịt ngọt, trứng béo ngậy.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng"
+    },
+    {
+      "step": "Lời mời",
+      "desc": "Mời mọi người cùng ăn Sam nướng mỡ hành.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "thú thiệt",
+    "ngộ ngộ",
+    "muốn thú hồn",
+    "mê",
+    "siêu nịnh mũi",
+    "mạnh mẽ",
+    "sang trọng",
+    "hấp dẫn",
+    "siêu ngọt",
+    "cực kỳ thơm",
+    "béo ngon",
+    "ngậy",
+    "béo"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ăn nhiều loại hải sản rồi mà thú thiệt với mọi người, đây là lần đầu tiên tôi ăn con Sam luôn",
+    "mở con nào con nấy cũng full trứng nhìn mắt thèm ghê chưa",
+    "Trứng Sam thì béo ngon, kết hợp cùng mỡ hành rồi tốp mỡ hành phi ăn một cái nó ngậy mà nó béo thì thôi nhé"
+  ],
+  "hook_content": "ăn nhiều loại hải sản rồi mà thú thiệt với mọi người, đây là lần đầu tiên tôi ăn con Sam luôn.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món Sam nướng mỡ hành, chia sẻ trải nghiệm lần đầu ăn Sam và đánh giá hương vị, cách chế biến. Đồng thời giới thiệu thêm một loại nước hoa.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Hỏi nhân viên về việc còn bún và gọi một tô đặc biệt.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán ăn."
+    },
+    {
+      "step": "Giới thiệu",
+      "desc": "Chia sẻ trải nghiệm vui vẻ khi ăn bún bò Sài Gòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thích thú."
+    },
+    {
+      "step": "Miêu tả",
+      "desc": "Miêu tả tô bún bò và cách gọi món 'ngầu'.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Đánh giá hương vị, rau và so sánh với Hà Nội.",
+      "impact_level": "2",
+      "viewer_emotion": "Gật gù đồng ý."
+    },
+    {
+      "step": "Tương tác",
+      "desc": "Hỏi tên chủ quán và khen ngợi món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy vui vẻ."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Chúc quán đông khách và giới thiệu địa điểm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy ấm áp."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Chúc quán anh chị sớm trở thành một sân chơi giới trẻ nhá.",
+    "Giới thiệu toàn thể anh em bà con nhá. Đây là quán bún bò chị Nhung rất là ngon ở Tân Bình nhá."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Chia sẻ"
+  ],
+  "emotion_keywords": [
+    "vui",
+    "ngon",
+    "thơm",
+    "cay nồng",
+    "ngọt",
+    "thích",
+    "quyến luyến",
+    "sướng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bây giờ đi ăn bún ở Sài Gòn, tôi đã biết cách gọi đồ thế nào cho nó ngầu rồi. Cứ phải là một tô đầy đủ có giá trụng nhiều hành thì ăn nó mới ngon.",
+    "Không phải thiên vị gì nhưng chúng ta phải thừa nhận rằng ở Hà Nội có những quán bún bò để mà xin thêm được đĩa rau trụng thứ hai thì hơi bị khó đấy.",
+    "Bún bò của nhà anh chị rất là ngon luôn, ăn xong sướng luôn đấy."
+  ],
+  "hook_content": "Còn bún ăn nữa không anh? Có còn bún để ăn không? Có còn bún ăn không? Vâng. À được rồi. Em thấy được giới thiệu thấy bảo quán mình ngon lắm, mà đến thì tưởng là quán hết đồ ăn rồi không bán nữa.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán bún bò Sài Gòn, chia sẻ trải nghiệm ăn uống vui vẻ và khen ngợi hương vị đậm đà, đặc biệt là nước lèo. Đồng thời, giới thiệu địa chỉ quán bún bò ngon ở Tân Bình và chúc quán đông khách.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món lẩu cá bớp siêu cay nóng hổi, hấp dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Mua nguyên liệu",
+      "desc": "Chia sẻ trải nghiệm mua cá bớp tươi ngon ở chợ.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Nấu nước lẩu",
+      "desc": "Hướng dẫn nấu nước lẩu siêu cay với các nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Chuẩn bị rau",
+      "desc": "Nhấn mạnh mẹt rau ăn kèm lẩu giúp món ăn ngon hơn.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Chia sẻ cảm nhận",
+      "desc": "Cảm nhận về sự nhanh chóng và dễ dàng khi nấu lẩu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Mô tả hương vị tươi ngon của cá bớp và nước lẩu.",
+      "impact_level": "3",
+      "viewer_emotion": "Hứng thú"
+    },
+    {
+      "step": "Mời ăn",
+      "desc": "Mời mọi người cùng thưởng thức món lẩu cá bớp.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Giờ thì mời mọi người ăn chung với tôi nghe."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "tươi",
+    "ngon lành",
+    "tuyệt",
+    "nóng hôi hổi",
+    "ấm bụng",
+    "siêu cay",
+    "ngon bá cháy",
+    "ê hề",
+    "mê",
+    "siêu siêu béo ngọt",
+    "đã",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Thấy khứa cá bớp tươi trong ngon lành như vậy, là không còn gì tuyệt bằng nồi lẩu nóng hôi hổi vừa thổi vừa ăn.",
+    "Cá bớp tươi ăn thịt siêu siêu béo ngọt mà ít xương, chỉ có cái cọng xương giữa thôi. Nên mình ăn vô tư không có ráng luôn.",
+    "Trời mà ui ui là một nồi lẩu như vậy đúng là tinh hoa hội tụ quá xá đã."
+  ],
+  "hook_content": "Thấy khứa cá bớp tươi trong ngon lành như vậy, là không còn gì tuyệt bằng nồi lẩu nóng hôi hổi vừa thổi vừa ăn.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Cho thấy kết quả trước"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu món lẩu cá bớp siêu cay, chia sẻ trải nghiệm mua nguyên liệu tươi ngon và cách nấu đơn giản tại nhà. Người nói nhấn mạnh hương vị tuyệt vời của món ăn và mời mọi người cùng thưởng thức.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món gà hấp muối và lợi ích khi tự làm tại nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về cách làm món gà hấp muối."
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Hướng dẫn chuẩn bị gà và gia vị cần thiết.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy công thức đơn giản, dễ làm theo."
+    },
+    {
+      "step": "Sơ chế và ướp gà",
+      "desc": "Hướng dẫn sơ chế gà và ướp gia vị.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung được hương vị thơm ngon của món gà."
+    },
+    {
+      "step": "Hấp gà",
+      "desc": "Hướng dẫn cách hấp gà bằng nồi cơm điện.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự tiện lợi của việc dùng nồi cơm điện."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Nhấn mạnh thành phẩm thơm ngon và khuyến khích làm.",
+      "impact_level": "3",
+      "viewer_emotion": "Muốn thử làm ngay món gà hấp muối này."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Gia đình có người lớn và trẻ em thì nhanh tay làm thử nhé."
+  ],
+  "cta_type": [
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "bổ dưỡng",
+    "thơm phức",
+    "siêu hấp dẫn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Từ giờ muốn ăn gà hấp muối, không cần phải ra ngoài mua nữa, ở nhà cũng làm được.",
+    "Gà được ướp với loại gia vị này, cả lồng cũng thơm phức.",
+    "Dùng tay siêu quyến rũ của mình thoa đều."
+  ],
+  "hook_content": "Từ giờ muốn ăn gà hấp muối, không cần phải ra ngoài mua nữa, ở nhà cũng làm được.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm món gà hấp muối đơn giản tại nhà bằng nồi cơm điện, đảm bảo sạch sẽ, an toàn và bổ dưỡng. Người làm khuyến khích mọi người thử làm món này cho gia đình.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

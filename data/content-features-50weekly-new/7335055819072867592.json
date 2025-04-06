@@ -1,0 +1,88 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Phụ huynh, gia đình có trẻ nhỏ"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Chia sẻ tình hình sau Tết và giới thiệu món cháo bào ngư.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món cháo bào ngư."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Rang và xay gạo, chuẩn bị các nguyên liệu khác.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, theo dõi quá trình chuẩn bị."
+    },
+    {
+      "step": "Nấu cháo",
+      "desc": "Cho nguyên liệu vào nồi và bắt đầu nấu cháo.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú với công thức nấu cháo mới."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu tỏi đen và tinh dầu hoa anh thảo.",
+      "impact_level": "1",
+      "viewer_emotion": "Quan tâm đến các sản phẩm sức khỏe."
+    },
+    {
+      "step": "Lời khuyên",
+      "desc": "Đưa ra lời khuyên về việc sử dụng sản phẩm.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào lời khuyên từ người bán."
+    },
+    {
+      "step": "Kết nối với người bán",
+      "desc": "Kêu gọi nhắn tin cho Suhe shop để mua hàng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, ghi nhớ thông tin liên hệ."
+    },
+    {
+      "step": "Kết thúc",
+      "desc": "Mời mọi người ăn cháo cùng gia đình.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấm áp, cảm nhận được sự thân thiện."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Mọi người cần á thì nhắn tin cho Suhe shop Sức Khỏe Cộng Đồng để mua được sản phẩm chính hãng nha."
+  ],
+  "cta_type": [
+    "Truy cập trang cá nhân",
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "ghiền",
+    "thơm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Chắc cũng phải tròn một năm rồi, mình mới xỉn dữ lại như vậy.",
+    "Không biết có bạn nào nấu cháo theo kiểu này chưa, chứ mình thấy nó cũng ngon lắm á.",
+    "Hồi đó giờ thì nấu cháo gà, cháo vịt thôi chứ cái cháo bào ngư này có biết đâu mọi người."
+  ],
+  "hook_content": "Tình hình sau tết của mọi người sao rồi? Chứ nhà mình là ăn cơm hết nổi rồi đó.",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Tạo sự đồng cảm"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ về cách nấu cháo bào ngư bồi bổ sức khỏe sau Tết, đồng thời giới thiệu các sản phẩm tỏi đen và tinh dầu hoa anh thảo từ Suhe shop. Người nấu chia sẻ kinh nghiệm cá nhân và khuyến khích người xem liên hệ để mua sản phẩm chính hãng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Gọi món và trò chuyện với cô chủ",
+      "desc": "Người nói gọi món phở và hỏi thăm cô chủ về quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Giới thiệu về quán phở nổi tiếng",
+      "desc": "Quán phở nổi tiếng vì nhiều người nổi tiếng đến ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Đánh giá về sự đặc biệt của quán",
+      "desc": "Quán chỉ bán từ thứ 2 đến thứ 6, dân nhà đài.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên"
+    },
+    {
+      "step": "Đánh giá hương vị phở",
+      "desc": "Phở không quá ngon nhưng tiện lợi và vừa miệng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Trải nghiệm trứng trần đặc biệt",
+      "desc": "Thích thú với việc được ăn trứng trần nhiều lòng trắng.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng"
+    },
+    {
+      "step": "Đánh giá tổng quan về phở",
+      "desc": "Nước dùng vừa miệng, bò tái đập dập với gừng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Tổng kết và giới thiệu địa điểm",
+      "desc": "Giới thiệu quán phở nổi tiếng gần đài truyền hình.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong muốn trải nghiệm"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "giới thiệu tất cả anh em biết nhá."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Chia sẻ"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thích"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Quán phở bò toàn diễn viên người mẫu MC nổi tiếng của Đài truyền hình Việt Nam đến ăn.",
+    "Qua tìm hiểu thì tôi biết rằng quán phở Ngọc này thì cũng bán được khá lâu rồi. Khách tới ăn ở đây thì cũng chủ yếu đều là dân nhà đài.",
+    "Lại phải nói lại là dành cho quán điểm 10+ vì trần trứng trần cả lòng trắng cho khách luôn."
+  ],
+  "hook_content": "Cô ơi, cô có suất vang không ạ? Không.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán phở Ngọc nổi tiếng gần Đài Truyền Hình Việt Nam, nơi được nhiều diễn viên, người mẫu, MC ưa thích. Quán phở này có món trứng trần đặc biệt và chỉ bán từ thứ 2 đến thứ 6.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

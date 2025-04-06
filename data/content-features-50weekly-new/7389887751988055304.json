@@ -1,0 +1,81 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu cơm nắm lá chuối, rau mép, nấm muối, cà khô",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn vùng cao"
+    },
+    {
+      "step": "Trình bày cách ăn",
+      "desc": "Trộn các nguyên liệu và ăn trực tiếp trên nương",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với cách ăn dân dã"
+    },
+    {
+      "step": "Miêu tả hương vị",
+      "desc": "Nhấn mạnh vị ngon, no bụng và hương vị đặc trưng",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng với hương vị vùng cao"
+    },
+    {
+      "step": "Cảm nhận về không gian",
+      "desc": "Tả không gian yên bình với âm thanh thiên nhiên",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy thư giãn và bình yên"
+    },
+    {
+      "step": "Nhấn mạnh trải nghiệm",
+      "desc": "Mô tả cảm giác cay nồng và sự thỏa mãn khi ăn",
+      "impact_level": "3",
+      "viewer_emotion": "Đồng cảm với trải nghiệm ẩm thực"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Truyền thống"
+  ],
+  "cta_content": [
+    "Xin mời các anh chị ăn cơm cùng với lại em nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "đói",
+    "thèm",
+    "ngon",
+    "no",
+    "cay",
+    "đã",
+    "bình yên"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "ăn cơm lá chuối này kiểu nó cứ bị cuốn í, xong rồi mình ăn xong rồi kiểu ăn được nhiều í, ăn cơm là không biết no luôn",
+    "Mùa hè í, được ăn rau mép giã với lại ớt cộng với lại cà khô thì đúng là hương vị của ngày hè vùng cao rồi.",
+    "Vùng cao chúng mình bình yên lắm, chỉ có nghe thấy tiếng chim kêu này. Tiếng nước khe chảy róc rách."
+  ],
+  "hook_content": "Những anh chị cô bác nào từng ăn như này chắc giờ cũng đã có con cháu hết rồi nhỉ ?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video chia sẻ trải nghiệm ăn cơm nắm lá chuối trên nương của người vùng cao, kèm theo các món ăn đặc trưng như rau mép, nấm muối và cà khô. Người xem được mời cùng thưởng thức và cảm nhận hương vị bình yên của vùng cao.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

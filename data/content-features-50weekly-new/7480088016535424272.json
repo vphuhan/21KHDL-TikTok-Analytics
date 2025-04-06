@@ -1,0 +1,87 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu địa điểm",
+      "desc": "Giới thiệu quán bánh mây mới mở ở quận 4, đường 20 thước.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về địa điểm mới."
+    },
+    {
+      "step": "Mô tả đặc điểm",
+      "desc": "Giới thiệu các loại bánh mây và topping đa dạng của quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với sự đa dạng."
+    },
+    {
+      "step": "Giải thích quy trình",
+      "desc": "Giải thích quy trình làm bánh và lý do cần ăn ngay.",
+      "impact_level": "1",
+      "viewer_emotion": "Hiểu rõ hơn về sản phẩm."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Đánh giá hương vị caramel dừa và oreo socola.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử hương vị được khen."
+    },
+    {
+      "step": "Hướng dẫn bảo quản",
+      "desc": "Hướng dẫn cách bảo quản bánh và nước uống.",
+      "impact_level": "1",
+      "viewer_emotion": "Biết cách giữ bánh ngon."
+    },
+    {
+      "step": "Nhấn mạnh địa điểm",
+      "desc": "Nhấn mạnh lại địa điểm và sự tiện lợi khi mua bánh.",
+      "impact_level": "1",
+      "viewer_emotion": "Nhớ địa điểm mua bánh."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Địa chỉ tính nãy đây nè."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ưng ý",
+    "tự tin",
+    "ngon",
+    "mền mịn",
+    "tan trong miệng"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ở quận tư mà các bạn muốn ăn bánh mây thì không cần phải đi xa nữa rồi.",
+    "Anh chủ quan tự tin ăn không ngon ảnh không tính tiền luôn.",
+    "Cái bánh mây bên đây làm mền mịnh tan trong miệng luôn."
+  ],
+  "hook_content": "ở quận tư này là anh là người bán đầu tiên tại quận tư này á.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu quán bánh mây mới mở tại quận 4 với nhiều loại topping hấp dẫn. Chủ quán tự tin về chất lượng và hương vị, sẵn sàng hoàn tiền nếu khách không hài lòng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện",
+    "Trang trọng"
+  ]
+}

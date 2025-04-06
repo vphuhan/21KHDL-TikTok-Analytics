@@ -1,0 +1,93 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu bằng thắc mắc",
+      "desc": "Nhỏ em thắc mắc về số lượng gà, tạo sự tò mò.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Giới thiệu món lẩu gà",
+      "desc": "Bật mí gà đã vào nồi lẩu lá é, giá 79k.",
+      "impact_level": "2",
+      "viewer_emotion": "Hơi đói bụng"
+    },
+    {
+      "step": "Giới thiệu combo chiên",
+      "desc": "Giới thiệu combo 4 món chiên kèm giá 99k.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Miêu tả chi tiết lẩu gà",
+      "desc": "Miêu tả nồi lẩu gà lá é, thêm lá é cho thơm.",
+      "impact_level": "3",
+      "viewer_emotion": "Rất thèm thuồng"
+    },
+    {
+      "step": "Nhấn mạnh trải nghiệm tại quán",
+      "desc": "Quán có chi nhánh mới, máy lạnh, ăn gà mát lòng.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn đến quán"
+    },
+    {
+      "step": "Giới thiệu thêm món nhúng",
+      "desc": "Giới thiệu combo thả lẩu, đặc biệt là trứng non.",
+      "impact_level": "3",
+      "viewer_emotion": "Cực kỳ thèm thuồng"
+    },
+    {
+      "step": "Đánh giá chất lượng quán",
+      "desc": "Gà tươi, nước lẩu ngọt, quán đông khách.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "dễ thương",
+    "hấp dẫn",
+    "xuất sắc",
+    "giòn rụm",
+    "đã",
+    "thèm",
+    "mát lòng mát dạ",
+    "ghiền",
+    "ngon",
+    "tươi",
+    "dai",
+    "ngọt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Nằm trong cái nồi cui đơn một mình 79k, nên phải kêu thêm hai cái combo chất chơi chất lượng này nữa để bù đắp lại.",
+    "Vậy mới đã.",
+    "Nhúng vô ăn liền, nó còn cái vị thơm mà rau còn giòn giòn sần sực nhai đã lắm."
+  ],
+  "hook_content": "đang yên đang lành mà nhỏ em cứ thắc mắc có tám con gà mà sao còn lại có bảy con.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quán lẩu gà lá é với các món ăn kèm hấp dẫn như combo chiên và thả lẩu, đặc biệt nhấn mạnh trải nghiệm ăn uống tại chi nhánh mới với không gian máy lạnh và chất lượng món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

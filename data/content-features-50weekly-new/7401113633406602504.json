@@ -1,0 +1,80 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món gà ủ muối của Bác Hai Dơi và những người tham gia.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn và sự hợp tác."
+    },
+    {
+      "step": "Mua gà",
+      "desc": "Người mua ghé tiệm Bác Hai Dơi mua ba con gà ủ muối.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin về giá cả và địa điểm mua."
+    },
+    {
+      "step": "Tặng quà",
+      "desc": "Người mua mang gà đến tặng người thân và giới thiệu thương hiệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy ấm áp và quan tâm."
+    },
+    {
+      "step": "Thưởng thức gà",
+      "desc": "Cả nhóm cùng nhau thưởng thức món gà ủ muối.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử ngay."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Đánh giá về độ mềm của thịt, độ giòn của da và các món ăn kèm.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy tin tưởng và có thêm thông tin."
+    },
+    {
+      "step": "Nhận xét",
+      "desc": "Nhận xét về sự tiện lợi và hương vị đặc biệt của gà ủ muối.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng và muốn mua thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon",
+    "đã",
+    "thơm",
+    "cay",
+    "nồng nàn"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Ở nhà mà có tiệc tùng gì á, còn mà có bạn bè tới phải làm con gà nó mệt. Ôi phim mau nhanh.",
+    "Anh có bạn bè tới chơi á ra mua đem về chặt ra xong đem ra dĩa là nhanh còn lẹ nhất.",
+    "Gà ủ muối rồi mà chấm cái nước chấm nó lại ngon hơn á."
+  ],
+  "hook_content": "Mời cả nhà cùng mút bàn gà ủ muối của bác Hai Dơi với anh Tuấn và chú Tùng nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại"
+  ],
+  "summarization": "Video ghi lại cảnh hai anh em cùng bạn bè thưởng thức món gà ủ muối của Bác Hai Dơi, chia sẻ cảm nhận về hương vị và sự tiện lợi của món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

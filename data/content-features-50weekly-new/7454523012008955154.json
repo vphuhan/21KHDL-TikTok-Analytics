@@ -1,0 +1,78 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Người nói giới thiệu món bún đậu mắm tôm và sự mong chờ.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Nhân vật giới thiệu men vi sinh và công dụng.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không liên quan đến món ăn."
+    },
+    {
+      "step": "Chuẩn bị bún",
+      "desc": "Chia sẻ việc tự làm bún lá tại nhà.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với cách làm bún."
+    },
+    {
+      "step": "Pha mắm tôm",
+      "desc": "Hướng dẫn pha mắm tôm và chia sẻ công thức.",
+      "impact_level": "2",
+      "viewer_emotion": "Hứng thú với công thức pha mắm tôm."
+    },
+    {
+      "step": "Mời ăn và giới thiệu",
+      "desc": "Mời mọi người cùng ăn và xem phản ứng của gia đình.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về phản ứng của gia đình."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Túm lại mấy bà mà muốn có một cô bé khỏe mạnh ấy thì cứ thử tìm hiểu qua em này nhá.",
+    "Và nhớ xem đến cuối để xem phản ứng của gia đình mình khi lần đầu ăn mắm tôm sẽ như thế nào nhá."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo",
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "mong chờ",
+    "thích"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Vì cái món bún đậu mắm tôm này nó là tinh hẩm thực của Việt Nam mình mà.",
+    "Ở bên Nhật này thì mình chưa tìm mua được bún lá như kiểu ở Việt Nam ấy, nên là mình tự ép luôn.",
+    "Mà linh hồn của cái món bún đậu mắm tôm này ấy thì chắc chắn không thể nào thiếu được bát mắm tôm quấy tung bọt như thế này này mọi người."
+  ],
+  "hook_content": "gia đình chồng Nhật thử ăn bún đậu mắm tôm của Việt Nam và cái kết.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video ghi lại quá trình người Việt ở Nhật tự làm bún đậu mắm tôm và mời gia đình chồng người Nhật ăn thử, đồng thời chia sẻ trải nghiệm cá nhân và công thức làm món ăn này.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

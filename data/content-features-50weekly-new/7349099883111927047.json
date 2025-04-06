@@ -1,0 +1,91 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu món ăn và trêu nhau về cân nặng, vóc dáng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị khi cặp đôi trêu đùa nhau."
+    },
+    {
+      "step": "Giới thiệu",
+      "desc": "Giải thích tên gọi các nguyên liệu giữa hai miền Nam Bắc.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy sự khác biệt văn hóa thú vị."
+    },
+    {
+      "step": "Sơ chế",
+      "desc": "Ướp cá với các gia vị cơ bản, cách nêm nếm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, mang tính thủ tục."
+    },
+    {
+      "step": "Hấp cá",
+      "desc": "Trình bày món ăn đã hấp chín, trang trí đẹp mắt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy món ăn hấp dẫn hơn."
+    },
+    {
+      "step": "Hoàn thiện",
+      "desc": "Chuẩn bị rau sống, nước chấm ăn kèm với cá.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy đầy đủ và chỉn chu."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Cặp đôi cùng ăn và nêu cảm nhận về món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn ăn thử."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Gợi ý thêm nguyên liệu và kết thúc trải nghiệm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy được sự nhiệt tình."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Mời mọi người nha, đây là món cá nục hấp nè."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thơm",
+    "ghiền",
+    "hấp dẫn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ăn cái này á là bảo đảm không sợ mập luôn, đúng không?",
+    "Ngoài Bắc thì kêu bột ngọt là mì chính.",
+    "Ăn món gì cũng có đường."
+  ],
+  "hook_content": "quấn hả? Em quấn nha. Ừ. Em tự quấn nha. Em tưởng anh định quấn cho em. Anh định quấn cho em mà tại em nói em tự quấn. em.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Đối thoại",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video ghi lại quá trình cặp đôi chồng Nam vợ Bắc cùng nhau làm món cá nục hấp cuốn bánh tráng. Họ chia sẻ về sự khác biệt văn hóa ẩm thực giữa hai miền và cùng nhau thưởng thức món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Hài hước",
+    "Thân thiện"
+  ]
+}

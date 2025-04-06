@@ -1,0 +1,99 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món huyết nếp miền Tây và các thành phần của nó",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới lạ."
+    },
+    {
+      "step": "Đánh giá ban đầu",
+      "desc": "Nếm thử và nhận xét về độ mặn của nước mắm gừng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thất vọng vì nước mắm quá mặn."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Nhận xét về hương vị, độ ngon của huyết nếp, vịt, cháo.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, không đặc sắc."
+    },
+    {
+      "step": "Phản hồi tiêu cực",
+      "desc": "Chê các món ăn dở, vịt hôi lông, cháo quá nhiều đậu xanh.",
+      "impact_level": "3",
+      "viewer_emotion": "Khó chịu, thất vọng về chất lượng món ăn."
+    },
+    {
+      "step": "Đánh giá khách quan",
+      "desc": "Chấm điểm tổng quan và so sánh với quán cháo vịt khác.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về quán cháo vịt được khen."
+    },
+    {
+      "step": "Phân tích gỏi",
+      "desc": "Nhận xét về gỏi, rau sống và nước mắm, độ tươi ngon.",
+      "impact_level": "1",
+      "viewer_emotion": "Không có ấn tượng đặc biệt."
+    },
+    {
+      "step": "Tổng kết",
+      "desc": "Đánh giá toàn diện, thất vọng vì quán ăn không ngon như mong đợi.",
+      "impact_level": "3",
+      "viewer_emotion": "Hoàn toàn thất vọng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Drama"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người đã coi clip!",
+    "Bye bye!"
+  ],
+  "cta_type": [
+    "Thích video",
+    "Bình luận",
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "dở",
+    "mặn chát",
+    "bực bội",
+    "khó chịu",
+    "hoang mang",
+    "dễ thương",
+    "ghê ghê",
+    "buồn",
+    "giận"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trời ơi, dở dữ trời! Mừng quá!",
+    "Cái thôi tự nhiên cái tui tỉnh liền luôn!",
+    "Ăn gì mà rau không mà ăn rồi rồi rau cái này người ta à tháng người ta ướp nó mềm, còn cái rau gì mà cắt gì mà cho quá trời nè."
+  ],
+  "hook_content": "Trời ơi, dở dữ trời! Mừng quá!",
+  "hook_type": [
+    "Gây tò mò",
+    "Giật tít"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review một quán ăn với các món huyết nếp, cháo vịt, gỏi nhưng không đạt được kỳ vọng. Người review liên tục chê các món ăn dở, không ngon và thất vọng về chất lượng.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Chân thành",
+    "Ngạc nhiên",
+    "Khó chịu"
+  ]
+}

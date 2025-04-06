@@ -1,0 +1,74 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu vấn đề",
+      "desc": "Nhiều người không biết mua sản phẩm ở đâu vì thiếu link.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Giải thích lý do",
+      "desc": "Quên gắn link ở clip trước, clip này làm để khắc phục.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông cảm"
+    },
+    {
+      "step": "Thông báo",
+      "desc": "Đã đăng tin trên TikTok nhưng nhiều người vẫn không biết.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giải thích sự chậm trễ",
+      "desc": "Hết hàng cũ, đợi hàng mới về để làm clip.",
+      "impact_level": "1",
+      "viewer_emotion": "Chấp nhận"
+    },
+    {
+      "step": "Kêu gọi hành động",
+      "desc": "Hướng dẫn mua hàng ở góc trái màn hình.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong đợi"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mua ở góc trái màn hình nha"
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "nhanh trí",
+    "dễ hơn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Gần 2,200 người không biết mua ba cái hộp quẩy que tuổi thơ nhà Đại Long này ở đâu, chỉ vì mình không gắn một cái link sản phẩm ở dưới.",
+    "Ba cái hộp tôi đùng như này chỉ có bảy mươi mấy nghìn thôi.",
+    "mình phải làm thêm một cái clip gắn link để cho mọi người có thể mua dễ hơn"
+  ],
+  "hook_content": "Gần 2,200 người không biết mua ba cái hộp quẩy que tuổi thơ nhà Đại Long này ở đâu, chỉ vì mình không gắn một cái link sản phẩm ở dưới.",
+  "hook_type": [
+    "Gây tò mò",
+    "Phản hồi bình luận"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video thông báo link mua sản phẩm quẩy que Đại Long do clip trước đó thiếu link, giải thích lý do làm clip muộn và hướng dẫn mua hàng.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

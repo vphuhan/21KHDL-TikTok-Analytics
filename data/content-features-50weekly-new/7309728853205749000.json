@@ -1,0 +1,75 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mở đầu",
+      "desc": "Giới thiệu về công thức và quá trình làm video.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn."
+    },
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Thịt ram sả ớt ăn với cơm rất ngon.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn ăn."
+    },
+    {
+      "step": "Sơ chế thịt",
+      "desc": "Cắt thịt ba chỉ thành miếng nhỏ, ướp muối.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin cơ bản."
+    },
+    {
+      "step": "Chiên thịt",
+      "desc": "Chiên thịt để ra mỡ và đạt độ giòn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với bí quyết chiên giòn."
+    },
+    {
+      "step": "Xào sả ớt",
+      "desc": "Xào sả ớt, hành tỏi cho thơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Hấp dẫn bởi mùi thơm."
+    },
+    {
+      "step": "Hoàn thiện",
+      "desc": "Cho thịt vào xào cùng nước sốt là xong.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ thành phẩm."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "ngon"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "ăn hết ba tô cơm là có thật",
+    "cái này cũng rất là gian nên là mấy bà nhớ cẩn thận khi làm bếp",
+    "Người nói với mấy bạn công thức này á là không được bỏ mỡ bỏ dầu gì thêm nhưng mà Khải phải bỏ thêm nó mới được độ giòn nha nên mấy bà nhớ note lại cái phần này"
+  ],
+  "hook_content": "bạn nói với Khải á trời ơi nhiều khi làm theo anh cái công thức này á có khi thành công, có khi không thành công.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn"
+  ],
+  "summarization": "Video hướng dẫn cách làm món thịt ram sả ớt hao cơm. Người nấu chia sẻ bí quyết để món ăn thêm phần hấp dẫn và ngon miệng.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

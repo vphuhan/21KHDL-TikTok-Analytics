@@ -1,0 +1,91 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu bánh chưng",
+      "desc": "Giới thiệu bánh chưng đắt nhất ở Hà Nội, giá 220k.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về loại bánh đắt tiền này."
+    },
+    {
+      "step": "Đánh giá bao bì",
+      "desc": "Nhận xét bao bì đóng gói đẹp và chỉnh chu.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    },
+    {
+      "step": "Miêu tả bánh",
+      "desc": "Bánh mềm, dền, thơm và nhiều nhân thịt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn và muốn thử."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Vỏ bánh dẻo, nhân đỗ thịt nạc, ít mỡ và thơm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng hương vị bánh."
+    },
+    {
+      "step": "Nhận xét về độ mềm",
+      "desc": "Bánh hơi mềm và dẻo quá nên không giữ được form.",
+      "impact_level": "1",
+      "viewer_emotion": "Hơi thất vọng một chút."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Đáng trải nghiệm nếu mua số lượng ít cho gia đình.",
+      "impact_level": "2",
+      "viewer_emotion": "Cân nhắc mua nếu phù hợp."
+    },
+    {
+      "step": "Lời cảm ơn",
+      "desc": "Cảm ơn người xem và hẹn gặp lại ở video sau.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, lịch sự."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người xem video của mình.",
+    "Hẹn gặp lại mọi người video sau."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "thơm",
+    "dẻo",
+    "mềm",
+    "nhiều nhân",
+    "ngon",
+    "đáng trải nghiệm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Bánh chưng siêu thịt mọi người ạ.",
+    "220 như thế này thì đáng để trải nghiệm mọi người ạ.",
+    "Chỉ mỗi điều là hơi mềm quá."
+  ],
+  "hook_content": "Hôm nay mình sẽ ăn thử cái bánh chưng mà đắt nhất ở thời điểm hiện tại mà mình biết nhá, ở Hà Nội.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review bánh chưng đắt nhất Hà Nội với giá 220k. Người đánh giá nhận xét bánh có bao bì đẹp, nhiều nhân, dẻo thơm nhưng hơi mềm, và cho rằng đáng để trải nghiệm nếu mua số lượng ít.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

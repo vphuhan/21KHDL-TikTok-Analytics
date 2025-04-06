@@ -1,0 +1,88 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu quán ăn đặc biệt",
+      "desc": "Quán cơm bình dân có nhân viên phục vụ là người nước ngoài.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị vì sự độc đáo và khác biệt."
+    },
+    {
+      "step": "Mô tả về nhân viên người Tây",
+      "desc": "Chăm chỉ, chịu khó, biết nói tiếng Việt và yêu Việt Nam.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy ngưỡng mộ và quý mến."
+    },
+    {
+      "step": "Hoàn cảnh khó khăn của nhân viên",
+      "desc": "Bị lừa sang Việt Nam, được cô chủ quán giúp đỡ.",
+      "impact_level": "3",
+      "viewer_emotion": "Xúc động và thương cảm."
+    },
+    {
+      "step": "Sự giúp đỡ của cô chủ quán",
+      "desc": "Tặng ăn miễn phí, tạo điều kiện làm việc và chia sẻ.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm động và ngưỡng mộ tấm lòng nhân ái."
+    },
+    {
+      "step": "Giới thiệu về quán cơm",
+      "desc": "Cơm bình dân giá rẻ, menu đa dạng, cô chủ tốt bụng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy ấm áp và muốn ủng hộ."
+    },
+    {
+      "step": "Hành động đẹp của người review",
+      "desc": "Muốn tặng cơm nhưng cô chủ khuyên đưa tiền thiết thực hơn.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy sự chân thành và đồng tình."
+    },
+    {
+      "step": "Lời kêu gọi lan tỏa",
+      "desc": "Hy vọng việc làm tốt của cô sẽ được nhiều người biết.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong muốn điều tốt đẹp lan tỏa."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chuyên nghiệp"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "chăm chỉ",
+    "chịu khó",
+    "yêu",
+    "khó khăn",
+    "tốt"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Hôm nay đi ăn cơm bình dân mà cứ tưởng vào nhầm nhà hàng của người nước ngoài vì gặp ngay một chị nhân viên là người Tây phục vụ ở trong quán.",
+    "Cô cũng chia sẻ với mình mặc dù là xuất cơm mời nhưng cô vẫn cho chị lấy đồ ăn thoải mái.",
+    "Hy vọng việc làm tốt của cô sẽ luôn được lan tỏa và được nhiều người biết đến hơn nữa."
+  ],
+  "hook_content": "Hôm nay đi ăn cơm bình dân mà cứ tưởng vào nhầm nhà hàng của người nước ngoài vì gặp ngay một chị nhân viên là người Tây phục vụ ở trong quán.",
+  "hook_type": [
+    "Gây tò mò",
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Chậm"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Kể chuyện"
+  ],
+  "summarization": "Video kể về trải nghiệm ăn cơm bình dân tại một quán có nhân viên phục vụ là người Tây, người này có hoàn cảnh khó khăn và được cô chủ quán giúp đỡ. Người review hy vọng việc làm tốt của cô chủ sẽ được lan tỏa.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

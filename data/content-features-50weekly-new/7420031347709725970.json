@@ -1,0 +1,70 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu mì cay cấp độ 7, gà rán siêu cay và Sprite.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về độ cay của món ăn."
+    },
+    {
+      "step": "Thử món mì cay",
+      "desc": "Lần đầu thử mì cay cấp độ 7, cảm nhận độ cay.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm thấy hồi hộp và tò mò."
+    },
+    {
+      "step": "Uống Sprite",
+      "desc": "Uống Sprite để giải cay, cảm nhận vị chanh rõ rệt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy sảng khoái và dễ chịu."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Đánh giá mì cay ngon và đã, dễ dàng ăn hết.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thèm thuồng và muốn thử."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Order Spicy Combo về ngay nha."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "cay",
+    "ngon",
+    "đã",
+    "tê tê"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Trời ơi nghe cái tiếng s xeo vừa đã quá trời luôn nè.",
+    "Cay nhưng mà ngon.",
+    "Hết sạch tô mì cay cấp 7 quá dễ với ta."
+  ],
+  "hook_content": "thử thách chinh phục mì cay cấp độ 7 đây nè.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video mukbang thử thách ăn mì cay cấp độ 7 kèm gà rán siêu cay và uống Sprite để giải cay. Người ăn đánh giá món mì cay ngon và đã, dễ dàng ăn hết và khuyến khích người xem thử.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

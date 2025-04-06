@@ -1,0 +1,69 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu lạp xưởng",
+      "desc": "Giới thiệu giá và số lượng lạp xưởng trong video.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Ăn và miêu tả",
+      "desc": "Ăn lạp xưởng và miêu tả hương vị, độ ngậy.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng"
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Nhấn mạnh vỏ giòn, bên trong mọng nước và độ ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Kêu gọi mua hàng",
+      "desc": "Hướng dẫn mua hàng và thông báo về giá khuyến mãi.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ấn vào góc trái màn hình để tham khảo nhé."
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngậy"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ngậy nứt cửa ra này.",
+    "Cái vỏ bên ngoài giòn, bên trong mọng nước."
+  ],
+  "hook_content": "99.010 cái lạp xưởng các bạn nhá.",
+  "hook_type": [
+    "Khuyến mãi",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video giới thiệu và mukbang lạp xưởng với giá ưu đãi, tập trung vào miêu tả hương vị và kêu gọi mua hàng.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

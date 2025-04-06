@@ -1,0 +1,95 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu quả sầu riêng có vẻ ngoài lạ, ngắn và béo.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự khác lạ của quả sầu riêng."
+    },
+    {
+      "step": "Bóc và miêu tả",
+      "desc": "Bóc sầu riêng và mô tả múi sầu có chất dịch lạ.",
+      "impact_level": "2",
+      "viewer_emotion": "Thắc mắc về chất lượng của múi sầu riêng."
+    },
+    {
+      "step": "Cảnh báo",
+      "desc": "Đưa ra lời khuyên không nên ăn nếu thấy lạ.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy an toàn khi được cảnh báo."
+    },
+    {
+      "step": "Nếm thử",
+      "desc": "Tự ăn để chứng minh sự nguy hiểm của sầu riêng.",
+      "impact_level": "3",
+      "viewer_emotion": "Vừa thích thú vừa lo lắng."
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Đánh giá vị và giá cả của sầu riêng chín hóa.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của sầu riêng."
+    },
+    {
+      "step": "Kêu gọi",
+      "desc": "Khuyên nên thử sầu riêng chín hóa một lần.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thử loại sầu riêng mới."
+    },
+    {
+      "step": "Tuyên bố",
+      "desc": "Tuyên bố sẽ review tất cả các loại sầu riêng.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng về sự tâm huyết với sầu riêng."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Sáng tạo",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "đáng yêu",
+    "đẹp zai",
+    "béo",
+    "mềm",
+    "ngọt",
+    "đắng",
+    "tuyệt vời",
+    "nguy hiểm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Quả này thì đáng yêu, còn mình thì đẹp zai.",
+    "Riêng quả này mà không ăn phí cuộc đời luôn.",
+    "Tôi, Hải Đăng review sẽ ăn tất cả các loại sầu riêng trên thế giới."
+  ],
+  "hook_content": "Nay mát giời, làm quả sầu riêng.",
+  "hook_type": [
+    "Vào thẳng vấn đề",
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review quả sầu riêng chín hóa có hình dáng lạ, vừa ăn vừa đưa ra đánh giá khách quan về hương vị và khuyến cáo người xem cẩn thận khi ăn loại sầu riêng này. Đồng thời, người này cũng tự nhận sẽ review hết các loại sầu riêng trên thế giới.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành",
+    "Ngạc nhiên"
+  ]
+}

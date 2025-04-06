@@ -1,0 +1,81 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu kem Kitkat Yuzu và hương vị đặc biệt của nó.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị mới lạ."
+    },
+    {
+      "step": "Thưởng thức kem",
+      "desc": "Bắt đầu ăn và miêu tả hương vị kem một cách chi tiết.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử ngay."
+    },
+    {
+      "step": "Đánh giá chi tiết",
+      "desc": "Nhấn mạnh vị chua ngọt, lớp vỏ bánh và độ béo của kem.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm nhận rõ hơn về hương vị."
+    },
+    {
+      "step": "Ăn thêm",
+      "desc": "Tiếp tục ăn và thể hiện sự thích thú với sản phẩm.",
+      "impact_level": "3",
+      "viewer_emotion": "Thấy ngon miệng và hấp dẫn."
+    },
+    {
+      "step": "Nhận xét cuối",
+      "desc": "Đánh giá kem ít ngọt và phù hợp với nhiều người.",
+      "impact_level": "2",
+      "viewer_emotion": "Tin tưởng vào đánh giá."
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Cảm ơn bạn đã xem video của Tóc Vàng nha.",
+    "Hẹn gặp lại bạn vào video lần sau."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "tuyệt vời",
+    "thơm",
+    "ngon",
+    "béo ngậy",
+    "thích",
+    "ngon quá"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Kem này có vị yuzu hòa quyện với sô cô la, hương thơm tươi mát.",
+    "Bạn thích cái vị chua chua ngọt ngọt của cái vỏ bánh ghê luôn các bạn.",
+    "Bạn thấy loại kem KitKat này ít ngọt nên phù hợp với đa số mọi người nè."
+  ],
+  "hook_content": "Hai bạn, mùa hè sắp đến rồi, hôm nay Vẻ sẽ múc tan kem Kitkat, thương hiệu được các bạn trẻ yêu thích hiện nay.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video mukbang kem Kitkat Yuzu, giới thiệu hương vị tắc nhật mới lạ, chua ngọt, thơm ngon và phù hợp với nhiều người. Tóc Vàng thể hiện sự thích thú và đánh giá cao sản phẩm.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

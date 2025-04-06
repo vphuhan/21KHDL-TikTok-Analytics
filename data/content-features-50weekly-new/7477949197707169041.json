@@ -1,0 +1,73 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Mua vịt quay",
+      "desc": "Khách hàng mua một con vịt quay Bắc Kinh ở quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Giới thiệu vịt quay",
+      "desc": "Giới thiệu vịt quay Bắc Kinh da căng giòn, bóng nhẫy.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Ăn thử và cảm nhận",
+      "desc": "Ăn thử vịt quay và mô tả cảm giác về da và thịt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Tổng kết",
+      "desc": "Đánh giá vịt quay ngon và khuyến khích mọi người thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Tổng kết lại là ngon, mọi người có thể đến trải nghiệm và dùng thử xem như thế nào nhá."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "vừa phải",
+    "mềm",
+    "giòn",
+    "thơm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Da căng giòn, bóng nhẫy đẹp thật sự luôn ạ.",
+    "Cái bì nó vẫn tan luôn mọi người ạ.",
+    "Ăn cảm giác nó, cái da nó, nó nó nó nó kiểu nó giòn, nó thơm."
+  ],
+  "hook_content": "Anh ơi cho em mua thịt vịt với anh ơi.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video ghi lại quá trình mua và mukbang món vịt quay Bắc Kinh. Người bán hàng nhiệt tình giới thiệu món ăn, người mua trực tiếp ăn và đưa ra cảm nhận về món ăn này.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

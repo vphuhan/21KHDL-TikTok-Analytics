@@ -1,0 +1,109 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu chung",
+      "desc": "So sánh cỗ cưới Hải Phòng với clip review của người nổi tiếng.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự khác biệt của cỗ cưới."
+    },
+    {
+      "step": "Khai vị súp cua",
+      "desc": "Giới thiệu món súp cua nóng hổi, đậm vị cua.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm giác ấm bụng, thèm ăn."
+    },
+    {
+      "step": "Khai vị salad",
+      "desc": "Giới thiệu salad rau, trái cây sốt chanh dây tươi ngon.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy tươi mát, hấp dẫn."
+    },
+    {
+      "step": "Tôm sú chiên bơ tỏi",
+      "desc": "Giới thiệu món tôm sú chiên bơ tỏi phủ hạnh nhân.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng, muốn ăn ngay."
+    },
+    {
+      "step": "Cá hồi nướng teriyaki",
+      "desc": "Giới thiệu món cá hồi nướng sốt teriyaki đậm đà.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn thưởng thức hương vị Nhật Bản."
+    },
+    {
+      "step": "Xôi ruốc chả mực",
+      "desc": "Giới thiệu xôi ruốc ăn kèm chả mực nóng giòn.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm giác no bụng, thỏa mãn."
+    },
+    {
+      "step": "Bò sốt tiêu đen",
+      "desc": "Giới thiệu bắp bò sốt tiêu đen mềm tan kèm bánh mì.",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng với độ mềm của thịt bò."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Rồi tiếp theo ai cưới nữa đi để mời mình đi đám cưới mình review cỗ cưới tiếp nào."
+  ],
+  "cta_type": [
+    "Follow kênh",
+    "Bình luận",
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "thích",
+    "ấm bụng",
+    "dễ ăn",
+    "tươi",
+    "dai",
+    "giòn",
+    "mọng nước",
+    "bùi",
+    "béo",
+    "mặn",
+    "ngọt",
+    "thơm",
+    "đẫm mồm",
+    "vừa miệng",
+    "mềm",
+    "tan trong miệng",
+    "đậm đà",
+    "giòn",
+    "ngậy",
+    "béo",
+    "đắng nhẹ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "chứ còn cỗ cưới ở Hải Phòng nha, hầu như sẽ là 10 đến 11 món, mà món nào nha cũng nhiều ơi là nhiều.",
+    "U cái miếng chả mực nó dai, nó thơm mùi mực, miếng chả vừa chiên xong nha ăn nó nóng giòn, như bên trong miếng chả nha cắn miếng nó nó ứa nước miếng đấy cơ mà.",
+    "Đây đi ăn cỗ cưới ở Hải Phòng như này cơ mà. Vừa ăn ở chỗ đẹp, đồ ăn ngon chất lượng, mà ăn lại còn no nát thở luôn."
+  ],
+  "hook_content": "Hôm trước xem được cái clip review cỗ cưới của người nổi tiếng ấy, mà mình thấy có bảy món bọ, xong món nào như kiểu khẩu phần của nó ít lắm.",
+  "hook_type": [
+    "So sánh"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video review chi tiết các món ăn trong mâm cỗ cưới ở Hải Phòng, so sánh với review cỗ cưới của người nổi tiếng và nhấn mạnh sự chất lượng, đầy đặn của các món ăn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

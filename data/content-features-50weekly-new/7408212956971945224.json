@@ -1,0 +1,98 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu vấn đề",
+      "desc": "Nhắc lại drama cũ và giới thiệu bánh Taco Senbay được cải thiện.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về sự thay đổi của bánh."
+    },
+    {
+      "step": "Phản hồi về tranh cãi",
+      "desc": "Giải thích về việc bị cho là 'chê' và đáp trả các chỉ trích.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất bình thay cho reviewer."
+    },
+    {
+      "step": "Đánh giá bánh Taco Senbay",
+      "desc": "Nhận xét về sự thay đổi tích cực của bánh, độ dày và topping.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú với đánh giá khách quan."
+    },
+    {
+      "step": "Đánh giá món ăn kèm",
+      "desc": "Nhận xét về cua lột ăn kèm và bánh ép của quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về hương vị của món ăn kèm."
+    },
+    {
+      "step": "Quan điểm cá nhân",
+      "desc": "Chia sẻ quan điểm về việc review và sự thay đổi của quán.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình với quan điểm."
+    },
+    {
+      "step": "Phản hồi về các quán khác",
+      "desc": "Nêu vấn đề các quán khác không lắng nghe khách hàng.",
+      "impact_level": "3",
+      "viewer_emotion": "Khó chịu với các quán không lắng nghe."
+    },
+    {
+      "step": "Lời kêu gọi",
+      "desc": "Kêu gọi đến ăn thử và ủng hộ quán nếu thấy phù hợp.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy được khuyến khích thử."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Drama",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "và mong là mọi người được á thì hãy tới đi ăn thử và ủng hộ quán biết đâu là nó phù hợp với khẩu vị của mọi người đó biết đâu đúng không, thì cứ tới ăn đi cứ tới ăn thử đi à và những cái quán mà mình đã review mà nó chưa có tốt và mọi người đã cải thiện mọi người cứ liên hệ với Panda, Panda sẵn sàng review lại và đương nhiên là sẽ không bao giờ có cái này đâu nếu mà có cái này á cứ chụp lên."
+  ],
+  "cta_type": [
+    "Ghé thăm địa điểm",
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "chất lượng",
+    "cải thiện",
+    "dễ thương",
+    "ấn tượng",
+    "mặn",
+    "dày",
+    "ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Biến đi má, không có kim chỉ nam mà hả trong một ngành nghề chung với nhau mà hãm hại nhau hết má ơi.",
+    "Có cái gì tôi nói cái đó chứ tôi không có ngồi mà ơ nói mấy câu là triết lý đạo đời.",
+    "Khách hàng của tôi cũng phải đi làm kiếm tiền bộ, người ta phải kiếm tiền để người ta đem đến cái quán người ta ăn, người ta đi làm lụng bị sếp la lên la xuống chạy deadline tá lả mới có tiền đến mua cho cái quán đó mà, mình phải đứng về cả hai mình đừng bao giờ mà mình đánh tráo khái niệm và và như vậy mình thấy không hợp lý."
+  ],
+  "hook_content": "Trên mạng Taco Senbay, drama drama drama ngoài đời nha mọi người ơi, đây sau gần một tháng hơn thì cuối cùng mình sẽ review lại cái bánh Taco Senbay.",
+  "hook_type": [
+    "Gây tò mò",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "So sánh",
+    "Đối thoại"
+  ],
+  "summarization": "Video review bánh Taco Senbay sau drama, người review đánh giá sự thay đổi của quán, đồng thời nêu quan điểm về việc review và trách nhiệm của quán đối với khách hàng. Cuối video kêu gọi mọi người đến ăn thử và ủng hộ quán.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành",
+    "Khó chịu"
+  ]
+}

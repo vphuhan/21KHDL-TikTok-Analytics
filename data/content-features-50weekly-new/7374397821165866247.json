@@ -1,0 +1,91 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Tự giới thiệu bản thân và món ăn sẽ nấu trong video",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Chuẩn bị nguyên liệu",
+      "desc": "Mua cải thảo, hải sản và các nguyên liệu khác ở chợ",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Sơ chế cải thảo",
+      "desc": "Hướng dẫn cách muối cải thảo nhanh trong 2 tiếng",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hữu ích"
+    },
+    {
+      "step": "Pha sốt kim chi",
+      "desc": "Hướng dẫn làm sốt kim chi từ hành tây, tỏi, mắm tép,...",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị"
+    },
+    {
+      "step": "Làm bún rau chân vịt",
+      "desc": "Chia sẻ cách làm bún có màu xanh từ rau chân vịt",
+      "impact_level": "2",
+      "viewer_emotion": "Ấn tượng"
+    },
+    {
+      "step": "Trộn kim chi",
+      "desc": "Hướng dẫn trộn cải thảo đã ngâm với sốt kim chi",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức"
+    },
+    {
+      "step": "Hoàn thành và thưởng thức",
+      "desc": "Nấu bún hải sản và ăn cùng kim chi tự làm",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Giờ mời người ăn chung với cả nhà mình nha."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "thèm",
+    "ngon",
+    "đã",
+    "khoẻ",
+    "bớt thèm"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Mà cái kim chi này cũng muối nhanh lắm 2 tiếng muối xong là mình có thể ăn liền được luôn.",
+    "Cái này cũng là kim chi cải thảo nữa nhưng mà nó khác với kim chi cải thảo nướng ăn được, kim chi này nó sẽ ngọt nhiều hơn và muối ăn được liền còn cái kim chi kia thì người ta để chín mới ăn được mà nó chua với lại là hậu mặn nhiều.",
+    "Đây là cái củ cải bắp cải thảo mình đã ngâm muối được khoảng tầm gần 1 tiếng rồi nha. Bây giờ mình sẽ đem đi xả lại với nước và muối kim chi nha mọi người."
+  ],
+  "hook_content": "Hôm bữa mình bị đau mỏi thì ăn bún hải sản với kim chi ăn liền này giảm mang luôn mà mấy bữa đó nước uống còn không nổi nữa nói chi ăn, nên là bữa nay tình hình sức khỏe ổn áp rồi giờ ghé chợ mình mua cái bắp cải thảo thêm mớ hải sản nữa về chiến liền luôn.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video hướng dẫn cách làm kim chi cải thảo nhanh và nấu bún hải sản ăn kèm tại nhà. Người làm chia sẻ kinh nghiệm cá nhân và các mẹo để món ăn ngon và hấp dẫn hơn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

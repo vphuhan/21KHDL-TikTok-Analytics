@@ -1,0 +1,83 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu xúc xích phô mai Thái Lan, chờ đợi một tháng rưỡi.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn"
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Chiên xúc xích, chấm tương ớt và bắt đầu ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức chờ đợi"
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét vị mặn, phô mai lỏng, không ngọt thịt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thất vọng nhẹ"
+    },
+    {
+      "step": "So sánh trải nghiệm",
+      "desc": "So sánh trải nghiệm bản thân với người khác.",
+      "impact_level": "1",
+      "viewer_emotion": "Tự hỏi"
+    },
+    {
+      "step": "Ăn thêm và đánh giá",
+      "desc": "Ăn thêm, nhận xét do chiên không đủ nhiệt và giá cả.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Cảm thấy ngán và kết thúc video.",
+      "impact_level": "1",
+      "viewer_emotion": "Không hứng thú"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Gen Z"
+  ],
+  "cta_content": [
+    "Cảm ơn mọi người xem video của mình, hẹn mọi người video sau.",
+    "Tạm biệt."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngán",
+    "mặn",
+    "hơi gắt mũi"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cảm giác đầu tiên là nó sẽ hơi mặn mọi người ạ.",
+    "Mình cảm giác cái vị phô mai nó hơi nhiều nên là nó làm át đi cái vị thịt ấy mọi người ạ."
+  ],
+  "hook_content": "Hôm nay mình có xúc xích phô mai của Thái Lan mọi người ạ.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review xúc xích phô mai Thái Lan, người ăn thử và nhận xét về hương vị mặn, nhiều phô mai lỏng và cảm giác ngán.",
+  "tone_of_voice": [
+    "Thân thiện"
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Rủ bạn đi chợ mua hào về hấp ăn, giới thiệu nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hào tươi ngon, muốn ăn thử."
+    },
+    {
+      "step": "Mua sắm nguyên liệu",
+      "desc": "Ghé tiệm quen mua hào, chia sẻ trải nghiệm mua sắm.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường, thông tin về địa điểm mua sắm."
+    },
+    {
+      "step": "Chuẩn bị và chế biến",
+      "desc": "Hấp hào với sả và sinh tố lúa mạch, chia sẻ cách làm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn với cách chế biến đơn giản."
+    },
+    {
+      "step": "Pha nước chấm",
+      "desc": "Làm nước mắm sả, nước muối tiêu ớt chanh chấm hào.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn với các loại nước chấm đặc biệt."
+    },
+    {
+      "step": "Giới thiệu sản phẩm",
+      "desc": "Giới thiệu đông trùng hạ thảo và tinh dầu thông đỏ.",
+      "impact_level": "1",
+      "viewer_emotion": "Thông tin về sản phẩm chức năng."
+    },
+    {
+      "step": "Hoàn thành món ăn",
+      "desc": "Hào chín và chuẩn bị thưởng thức, chia sẻ thành quả.",
+      "impact_level": "3",
+      "viewer_emotion": "Thấy hào chín ngon, muốn ăn ngay."
+    },
+    {
+      "step": "Thưởng thức món ăn",
+      "desc": "Vừa ăn vừa hấp hào, mời mọi người ăn cùng.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm giác ấm cúng khi cả nhà cùng ăn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "mọi người cần á thì nhớ lên Minsu Shop nha"
+  ],
+  "cta_type": [
+    "Truy cập link sản phẩm"
+  ],
+  "emotion_keywords": [
+    "vui vẻ",
+    "thân thiện",
+    "tươi"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Chấm hải sản thì nhức nách luôn.",
+    "cách cởi giới của Tùng Hoan có 102 luôn."
+  ],
+  "hook_content": "có anh Bình lên chơi, rủ anh Bình đi chợ với lại là đang mùa hào nữa, đi chợ mua hào về hấp ăn nha mọi người.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn"
+  ],
+  "summarization": "Video chia sẻ về quá trình đi chợ mua hào, chế biến món hào hấp sả và thưởng thức cùng gia đình, đồng thời giới thiệu sản phẩm Đông trùng Hạ Thảo và tinh dầu thông đỏ. Người làm video chia sẻ trải nghiệm cá nhân và mời mọi người cùng ăn.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Hào hứng"
+  ]
+}

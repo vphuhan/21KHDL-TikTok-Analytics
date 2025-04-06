@@ -1,0 +1,67 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người đi làm, dân văn phòng",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu hai thương hiệu GS25 và Circle K.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    },
+    {
+      "step": "Đánh giá Circle K",
+      "desc": "Đánh giá các món ăn, không gian và thời gian chờ đợi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    },
+    {
+      "step": "Đánh giá GS25",
+      "desc": "Đánh giá các món ăn, không gian và thời gian chờ đợi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thú vị"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "tan chảy",
+    "ngon",
+    "khó ăn",
+    "chua chua ngọt ngọt mặn mặn tê tê"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Thịt gà tan chảy trong miệng, vị nước tương quấn vãi.",
+    "Ở đây đông như tiết canh.",
+    "Vị chua chua ngọt ngọt mặn mặn tê tê."
+  ],
+  "hook_content": "Đây là thương hiệu GS25, còn đây là thương hiệu Circle K.",
+  "hook_type": [
+    "So sánh",
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "So sánh",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video so sánh trải nghiệm ăn uống tại Circle K và GS25, đánh giá món ăn, không gian và thời gian chờ đợi ở cả hai địa điểm để tìm ra nơi tốt hơn.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

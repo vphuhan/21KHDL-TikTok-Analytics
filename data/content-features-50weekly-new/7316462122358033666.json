@@ -1,0 +1,81 @@
+{
+  "categories": "Review sản phẩm ăn uống",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người yêu thích ẩm thực nước ngoài",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Đặt câu hỏi mở đầu",
+      "desc": "Mở đầu bằng câu hỏi về an toàn thực phẩm gây tò mò.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Khẳng định nguồn gốc",
+      "desc": "Khẳng định hoa quả trên thị trường chủ yếu từ Trung Quốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên"
+    },
+    {
+      "step": "So sánh giá dâu",
+      "desc": "So sánh giá dâu tây để chứng minh sự thật về nguồn gốc.",
+      "impact_level": "2",
+      "viewer_emotion": "Chú ý"
+    },
+    {
+      "step": "Mô tả các loại quả",
+      "desc": "Giới thiệu và mô tả nguồn gốc, đặc điểm các loại quả.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "So sánh giá các loại quả",
+      "desc": "So sánh giá các loại quả, chỉ ra sự khác biệt.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Vạch trần sự thật",
+      "desc": "Vạch trần thông tin sai lệch về nguồn gốc hồng Đà Lạt.",
+      "impact_level": "3",
+      "viewer_emotion": "Bất ngờ"
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "tin"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Trên thị trường 90% là hoa quả của Trung Quốc.",
+    "Người ta nói dối là hồng Đà Lạt như thực tế vẫn là hồng Trung Quốc cháu nhá.",
+    "Người ta bán giá càng cao thì dân càng tin."
+  ],
+  "hook_content": "dâu Trung Quốc này ăn vào có bị ung thư không ạ?",
+  "hook_type": [
+    "Đặt câu hỏi",
+    "Gây tranh cãi"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Mô tả đặc điểm",
+    "So sánh",
+    "Chia sẻ kiến thức"
+  ],
+  "summarization": "Video bóc trần sự thật về nguồn gốc hoa quả trên thị trường, chủ yếu là từ Trung Quốc, đồng thời so sánh giá cả để người xem nhận biết thông tin sai lệch.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

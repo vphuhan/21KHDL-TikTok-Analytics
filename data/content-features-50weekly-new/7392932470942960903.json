@@ -1,0 +1,88 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người nội trợ, yêu thích nấu ăn tại nhà"
+  ],
+  "body_analysis": [
+    {
+      "step": "Kể chuyện quá khứ",
+      "desc": "Nhớ lại kỷ niệm bị mẹ phạt vì đổ cơm khi còn bé.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú khi nghe những kỷ niệm thời thơ ấu."
+    },
+    {
+      "step": "Liên hệ hiện tại",
+      "desc": "Giờ đã hiểu lòng mẹ và trân trọng công sức nấu ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng cảm với sự thay đổi trong suy nghĩ."
+    },
+    {
+      "step": "Chuẩn bị món ăn",
+      "desc": "Quyết định rim cá thu để gợi nhớ tuổi thơ.",
+      "impact_level": "1",
+      "viewer_emotion": "Tò mò về món ăn được nhắc đến."
+    },
+    {
+      "step": "Nấu món cá rim",
+      "desc": "Sử dụng công thức quen thuộc và thêm tương ớt Chin-su Sriracha.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến công thức và nguyên liệu."
+    },
+    {
+      "step": "Nấu canh tôm bầu",
+      "desc": "Nấu thêm canh tôm bầu thanh nhẹ để ăn cùng.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy món ăn cân bằng và hấp dẫn."
+    },
+    {
+      "step": "Bữa ăn tối",
+      "desc": "Nấu cơm sớm để kịp xem bóng đá với chồng.",
+      "impact_level": "1",
+      "viewer_emotion": "Ấn tượng với sự quan tâm đến sở thích của chồng."
+    },
+    {
+      "step": "Mồi nhậu bóng đá",
+      "desc": "Nướng cá khô chấm tương ớt để nhâm nhi khi xem bóng đá.",
+      "impact_level": "2",
+      "viewer_emotion": "Thèm thuồng món ăn vặt hấp dẫn."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Kiến thức"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "cay cay",
+    "ngon",
+    "thơm",
+    "tỉnh táo",
+    "ghét"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "Giờ lớn rồi mình mới hiểu được lòng mẹ.",
+    "Tối nay mình bảo là em nướng cá xem bóng đá quay TikTok.",
+    "Cũng nhờ cái mồi Euro này mà mình tiêu thụ cá nhiều hơn các năm khác đấy."
+  ],
+  "hook_content": "Hồi trước mình đi học buổi sáng mẹ toàn bắt mình ăn cơm cho chắc bụng, không dưới ba lần mình giấu mẹ đổ cơm, nhưng có một hôm đấy là mình ăn cơm cá mình ăn không hết, mình đổ ra vườn mà mình quên lấp đất lại.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Hướng dẫn",
+    "Kể chuyện"
+  ],
+  "summarization": "Video kể về kỷ niệm thời thơ ấu bị mẹ phạt vì đổ cơm, sau đó liên hệ với hiện tại khi đã hiểu lòng mẹ và trân trọng công sức nấu ăn. Cuối cùng, video chia sẻ về việc nấu món cá rim cay và canh tôm bầu để ăn cùng chồng khi xem bóng đá.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành",
+    "Hài hước"
+  ]
+}

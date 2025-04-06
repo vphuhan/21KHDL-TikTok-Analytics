@@ -1,0 +1,91 @@
+{
+  "categories": "Mukbang",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu món kê gà xào cay và số lượng nguyên liệu.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn mới."
+    },
+    {
+      "step": "Sơ chế nguyên liệu",
+      "desc": "Hướng dẫn rửa và luộc kê gà để khử mùi hôi.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy thông tin hữu ích."
+    },
+    {
+      "step": "Chế biến",
+      "desc": "Xào kê gà với dầu cay và tỏi.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hấp dẫn bởi cách chế biến đơn giản."
+    },
+    {
+      "step": "Thưởng thức",
+      "desc": "Bắt đầu ăn và mô tả hương vị của món ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử."
+    },
+    {
+      "step": "Đánh giá món ăn",
+      "desc": "Nhận xét về độ ngon, độ béo, độ cay và cảm giác khi ăn.",
+      "impact_level": "2",
+      "viewer_emotion": "Đồng tình với cảm nhận."
+    },
+    {
+      "step": "Lưu ý quan trọng",
+      "desc": "Nhấn mạnh việc rửa sạch kê gà để tránh mùi hôi.",
+      "impact_level": "1",
+      "viewer_emotion": "Thấy được sự cẩn trọng."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Ăn cùng cơm và đưa ra đánh giá cuối cùng.",
+      "impact_level": "2",
+      "viewer_emotion": "Muốn ăn cùng."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Ăn cơm.",
+    "Ngon nhờ."
+  ],
+  "cta_type": [
+    "Ăn cùng"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "béo",
+    "bùi",
+    "vừa ăn",
+    "cay nhẹ",
+    "không ngán"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Qua 77 49 kiếp nạn thì tôi cũng đã xong rồi nè.",
+    "Ăn một hồi tôi mới thấy là cái này ăn kèm với cơm nóng sẽ rất là ngon nha.",
+    "Không biết là do tôi nhạy cảm hay sao. Cái muội hôi của mấy cái cái này á nghe rõ lắm mọi người."
+  ],
+  "hook_content": "Hay mọi người không biết kê gà ở đâu ra mà nhiều quá trời luôn ha.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video này là một buổi mukbang món kê gà xào cay, người làm video vừa ăn vừa chia sẻ cảm nhận về hương vị, độ ngon và những lưu ý khi chế biến món ăn này.",
+  "tone_of_voice": [
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

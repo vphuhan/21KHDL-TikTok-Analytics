@@ -1,0 +1,98 @@
+{
+  "categories": "Nấu ăn",
+  "audience_target": [
+    "Người nội trợ, yêu thích nấu ăn tại nhà",
+    "Người trẻ (Gen Z)"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Chia sẻ trải nghiệm về lẩu tôm cua bầu và sự yêu thích.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món lẩu."
+    },
+    {
+      "step": "Quá trình nấu nước lẩu",
+      "desc": "Hướng dẫn cách nấu nước lẩu từ thịt cua và vỏ tôm.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với cách nấu."
+    },
+    {
+      "step": "Thêm nguyên liệu đặc biệt",
+      "desc": "Chưng tép để tăng vị ngọt cho nước dùng.",
+      "impact_level": "2",
+      "viewer_emotion": "Cảm thấy hấp dẫn hơn."
+    },
+    {
+      "step": "Nêm nếm",
+      "desc": "Sử dụng hạt nêm Chinsu để tạo vị ngọt thanh.",
+      "impact_level": "2",
+      "viewer_emotion": "Quan tâm đến sản phẩm."
+    },
+    {
+      "step": "Thưởng thức và so sánh",
+      "desc": "Đánh giá thành quả và so sánh với quán ăn.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng và muốn thử."
+    },
+    {
+      "step": "Lời nhắn nhủ",
+      "desc": "Nhấn mạnh sự khác biệt và yếu tố cá nhân trong nấu ăn.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    },
+    {
+      "step": "Cảm thán và mời gọi",
+      "desc": "Diễn tả hương vị và mời mọi người làm theo.",
+      "impact_level": "3",
+      "viewer_emotion": "Ấn tượng và thích thú."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn",
+    "Chi tiết"
+  ],
+  "cta_content": [
+    "Mời mọi người lưu về làm theo.",
+    "Nếu như vị mà không giống thì vui lòng là không để lại phản hồi."
+  ],
+  "cta_type": [
+    "Lưu video",
+    "Thử làm theo công thức"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "ngọt",
+    "thanh",
+    "dễ chịu",
+    "vương vấn",
+    "xuất sắc",
+    "tuyệt vời",
+    "yêu",
+    "ngọt cực",
+    "siêu ngon"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Cái lẩu tôm cua bầu lần đầu tiên được ăn ở trong nhà hàng ấy, phải gọi là vương vấn thật sự tình đầu luôn.",
+    "Lâu lâu nấu được quả nước lẩu xuất thần thấy cái vị thế nó cũng khác liền.",
+    "Trong này có cái sự hơn thua, hiếu thắng, ưa chinh phục nữa."
+  ],
+  "hook_content": "Trước ở nhà ăn lẩu là biết mỗi nước hầm xương. Ra ngoài này là sáng lẩu Thái, chiều lẩu ếch, tối lẩu tôm cua bầu.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Hướng dẫn",
+    "Chia sẻ trải nghiệm cá nhân"
+  ],
+  "summarization": "Video chia sẻ công thức nấu lẩu tôm cua bầu ngon chuẩn vị nhà hàng, từ khâu chuẩn bị nguyên liệu đến bí quyết nêm nếm để có nước dùng ngọt thanh xuất sắc. Người nấu còn chia sẻ trải nghiệm cá nhân và khuyến khích mọi người thử làm theo.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

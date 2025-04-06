@@ -1,0 +1,91 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu lạp xưởng Cao Bằng nướng, nghi ngờ về độ hot.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn được giới thiệu."
+    },
+    {
+      "step": "Miêu tả đặc điểm",
+      "desc": "Miêu tả mùi thơm đặc trưng, cách nướng trên sỏi đen.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thú vị với cách chế biến đặc biệt."
+    },
+    {
+      "step": "Đánh giá hương vị",
+      "desc": "Nhận xét về vị cay của ớt và sự khác biệt khi không có ớt.",
+      "impact_level": "2",
+      "viewer_emotion": "Hình dung được hương vị cay nồng."
+    },
+    {
+      "step": "Trải nghiệm cá nhân",
+      "desc": "Cảm nhận về độ đàn hồi, vị béo ngậy và hậu vị.",
+      "impact_level": "3",
+      "viewer_emotion": "Thèm thuồng muốn ăn thử ngay lập tức."
+    },
+    {
+      "step": "Đề cập món khác",
+      "desc": "Nhắc đến xíu báo nhưng không đánh giá cao.",
+      "impact_level": "1",
+      "viewer_emotion": "Không mấy quan tâm đến món xíu báo."
+    },
+    {
+      "step": "Nhắc nhở tế nhị",
+      "desc": "Dặn dò người xem không mách với cô bán hàng.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy hài hước với lời dặn dò."
+    },
+    {
+      "step": "Đánh giá chung",
+      "desc": "Nhấn mạnh yếu điểm duy nhất là giá hơi đắt.",
+      "impact_level": "1",
+      "viewer_emotion": "Cân nhắc về giá cả."
+    }
+  ],
+  "content_style": [
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [],
+  "cta_type": [],
+  "emotion_keywords": [
+    "hấp dẫn",
+    "thơm",
+    "cay cay tê tê",
+    "sướng",
+    "béo ngậy",
+    "không ngấy",
+    "bùi",
+    "ngọt",
+    "thèm"
+  ],
+  "has_cta": "false",
+  "highlight_phrases": [
+    "lạp xưởng Cao Bằng cái hạt sỏi đen đen này là để nó cân bằng nhiệt với cả để cho nó đỡ cháy",
+    "Cắn qua cái lớp vỏ có tính đàn hồi hơi cao một chút vào cái phần thịt béo ngậy bên trong mới thấy. Mặc dù là mỡ nó ứa ra nhưng mà lại không hề ngấy.",
+    "Càng ăn thì cái vị bùi vị ngọt của thịt nó càng ra mà đến lúc mà mình ăn xong rồi cái vị bùi đấy nó vẫn còn đọng lại ở trên cổ là mình thèm ăn cái nữa."
+  ],
+  "hook_content": "Không biết là cái món này liệu có thể trở thành cái trend ẩm thực cuối cùng của năm 2023 không nhưng mà tôi thấy nó cực kỳ hấp dẫn luôn anh em ạ.",
+  "hook_type": [
+    "Gây tò mò"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review món lạp xưởng Cao Bằng nướng trên sỏi đen, tập trung vào hương vị đặc biệt, cách chế biến độc đáo và trải nghiệm cá nhân của ngườiReviewer. Nhấn mạnh về mùi thơm, vị cay tê và cảm giác béo ngậy nhưng không ngấy, tuy nhiên giá thành hơi cao.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

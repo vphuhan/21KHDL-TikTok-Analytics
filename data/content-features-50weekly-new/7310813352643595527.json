@@ -1,0 +1,91 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Học sinh, sinh viên",
+    "Người trẻ (Gen Z)",
+    "Người thích ăn vặt, đồ ngọt",
+    "Người thích khám phá ẩm thực tại địa phương"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu",
+      "desc": "Giới thiệu địa điểm ăn vặt quen thuộc và món Takoyaki.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Chia sẻ trải nghiệm",
+      "desc": "Chia sẻ trải nghiệm cá nhân khi đến quán nhiều lần.",
+      "impact_level": "2",
+      "viewer_emotion": "Thích thú"
+    },
+    {
+      "step": "Phỏng vấn người bán",
+      "desc": "Phỏng vấn người bán về món ăn và thời gian bán.",
+      "impact_level": "2",
+      "viewer_emotion": "Tập trung"
+    },
+    {
+      "step": "Miêu tả món ăn",
+      "desc": "Miêu tả các loại nhân và giá cả của món Takoyaki.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức"
+    },
+    {
+      "step": "Đánh giá",
+      "desc": "Đánh giá hương vị và chất lượng của Takoyaki.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò"
+    },
+    {
+      "step": "Đưa ra lời khuyên",
+      "desc": "Đưa ra lời khuyên cho người xem khi đến quán.",
+      "impact_level": "1",
+      "viewer_emotion": "Bình thường"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "cũng nên thử, mọi người lưu địa chỉ lại ha"
+  ],
+  "cta_type": [
+    "Lưu video",
+    "Ghé thăm địa điểm"
+  ],
+  "emotion_keywords": [
+    "ngon",
+    "rẻ",
+    "hơi lạc quế",
+    "vẫn ngon",
+    "đầy đặn"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Takoyaki râu bạch tuộc khó ăn",
+    "Takoyaki ở đây ngon có tiếng lâu giờ rồi",
+    "Ở đây hồi xưa khá là nổi vì bánh bạch tuộc có nguyên cái đầu bạch tuộc luôn"
+  ],
+  "hook_content": "Em thề trước cái xe Takoyaki quanh là em đến đây lần thứ ba rồi. Hai lần trước em không ăn được.",
+  "hook_type": [
+    "Gây tò mò",
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Đối thoại",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video review về quán Takoyaki với món bạch tuộc đặc trưng, người quay phim chia sẻ trải nghiệm đến quán nhiều lần và phỏng vấn người bán về món ăn, đồng thời đưa ra đánh giá khách quan về hương vị và chất lượng.",
+  "tone_of_voice": [
+    "Hài hước",
+    "Thân thiện",
+    "Chân thành"
+  ]
+}

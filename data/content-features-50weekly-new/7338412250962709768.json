@@ -1,0 +1,95 @@
+{
+  "categories": "Review món ăn",
+  "audience_target": [
+    "Người trẻ (Gen Z)",
+    "Người yêu thích ẩm thực nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu món ăn",
+      "desc": "Giới thiệu về đặc sản địa phương và món cua gai.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò về món ăn địa phương."
+    },
+    {
+      "step": "Mua cua gai",
+      "desc": "Quyết định mua ba hộp cua gai để ăn thử.",
+      "impact_level": "2",
+      "viewer_emotion": "Háo hức chờ đợi món ăn."
+    },
+    {
+      "step": "Chế biến cua",
+      "desc": "Hấp cua với sả và chia sẻ thời gian hấp.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy thèm thuồng với mùi thơm."
+    },
+    {
+      "step": "Thưởng thức cua",
+      "desc": "Thưởng thức cua chấm muối tiêu và đánh giá.",
+      "impact_level": "3",
+      "viewer_emotion": "Cảm giác đói bụng và muốn ăn thử."
+    },
+    {
+      "step": "Đánh giá cua",
+      "desc": "Đánh giá chất lượng thịt và gạch cua.",
+      "impact_level": "2",
+      "viewer_emotion": "Thấy chất lượng cua hấp dẫn."
+    },
+    {
+      "step": "Giới thiệu vòng trầm",
+      "desc": "Nhận xét về chiếc vòng và tác dụng của nó.",
+      "impact_level": "1",
+      "viewer_emotion": "Cảm thấy bình thường."
+    },
+    {
+      "step": "Kết luận",
+      "desc": "Khuyến khích liên hệ người làm vòng và hỏi ý kiến.",
+      "impact_level": "1",
+      "viewer_emotion": "Không có cảm xúc đặc biệt."
+    }
+  ],
+  "content_style": [
+    "Đời thường"
+  ],
+  "cta_content": [
+    "Có gì mọi người nhắn cho chị ấy nha chứ bữa giờ ai cũng hỏi mình hết."
+  ],
+  "cta_type": [
+    "Truy cập trang cá nhân",
+    "Bình luận"
+  ],
+  "emotion_keywords": [
+    "khoái",
+    "ngon",
+    "thơm",
+    "béo",
+    "dã man",
+    "thèm",
+    "xuôn sẻ",
+    "may mắn",
+    "chắc thịt",
+    "ngọt nước"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Ta nói ăn nhiều quá, giờ cũng không nhớ ăn cái loại này bao giờ chưa nữa.",
+    "Mấy con cua này á tuy nhỏ nhỏ nhưng mà nó có võ nha.",
+    "Cái gạch của nó thì cũng khá nhiều đó mà thơm với béo dã man."
+  ],
+  "hook_content": "cho là sắp về nước rồi nên là tranh thủ đi chơi những cái chỗ mà chưa đi.",
+  "hook_type": [
+    "Kể chuyện"
+  ],
+  "pacing": [
+    "Thay đổi"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video ghi lại trải nghiệm của một người đang ở Nhật Bản đi ăn cua gai. Sau đó, người này giới thiệu thêm về chiếc vòng trầm đang đeo.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}

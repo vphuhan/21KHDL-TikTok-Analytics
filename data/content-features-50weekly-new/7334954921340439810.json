@@ -1,0 +1,95 @@
+{
+  "categories": "Review quán ăn",
+  "audience_target": [
+    "Phụ huynh, gia đình có trẻ nhỏ",
+    "Người trẻ (Gen Z)",
+    "Người thích khám phá ẩm thực tại địa phương",
+    "Khách du lịch, người Việt ở nước ngoài"
+  ],
+  "body_analysis": [
+    {
+      "step": "Giới thiệu địa điểm",
+      "desc": "Giới thiệu khu vui chơi Vân Lại Viên với nhiều trò chơi hấp dẫn.",
+      "impact_level": "2",
+      "viewer_emotion": "Tò mò, muốn khám phá"
+    },
+    {
+      "step": "Trải nghiệm trò chơi",
+      "desc": "Mô tả trải nghiệm các trò chơi như tàu lượn, xích đu, trượt phao.",
+      "impact_level": "3",
+      "viewer_emotion": "Thích thú, phấn khích"
+    },
+    {
+      "step": "Khu vực vận động",
+      "desc": "Giới thiệu khu vực bạt nhúng, leo núi và trượt ống.",
+      "impact_level": "2",
+      "viewer_emotion": "Vui vẻ, năng động"
+    },
+    {
+      "step": "Thông tin chi phí",
+      "desc": "Giá vé vào cổng và giá các món ăn trong khu vui chơi.",
+      "impact_level": "1",
+      "viewer_emotion": "Quan tâm, cân nhắc"
+    },
+    {
+      "step": "Khu vực trong nhà",
+      "desc": "Giới thiệu trò chơi đá banh bàn bằng người thật.",
+      "impact_level": "2",
+      "viewer_emotion": "Ngạc nhiên, thích thú"
+    },
+    {
+      "step": "Vị trí địa lý",
+      "desc": "Địa điểm khu vui chơi và khoảng cách từ TP.HCM.",
+      "impact_level": "1",
+      "viewer_emotion": "Tìm kiếm thông tin"
+    },
+    {
+      "step": "Giới thiệu thêm",
+      "desc": "Giới thiệu khu công viên nước và hồ tạo sóng.",
+      "impact_level": "2",
+      "viewer_emotion": "Mong chờ, háo hức"
+    }
+  ],
+  "content_style": [
+    "Gen Z",
+    "Đời thường",
+    "Nhanh gọn"
+  ],
+  "cta_content": [
+    "Nhưng mà chờ tôi clip sau tôi sẽ nói kỹ hơn nha mọi người."
+  ],
+  "cta_type": [
+    "Xem video tiếp theo"
+  ],
+  "emotion_keywords": [
+    "vui",
+    "phê",
+    "sảng khoái",
+    "đã",
+    "khoái",
+    "ghiền",
+    "sợ"
+  ],
+  "has_cta": "true",
+  "highlight_phrases": [
+    "Vui nhất là ở khúc mà thấy con bạn mình đạp đe lưỡi luôn còn mình cười ha hả ha hả.",
+    "Chơi trò này là một người vui một người giảm cân luôn.",
+    "Tới mấy cái dốc cái nó tưng một cái trời ơi tao nói nó phê."
+  ],
+  "hook_content": "Đây là khu vui chơi hot nhất trong mùa Tết năm nay, khỏi cần lên Đà Lạt cũng được cầu trượt phao siêu dài, giá vé vào cổng chỉ có 100 cành thôi mà bao hết trọn gói mấy trò chơi trong đây luôn nha.",
+  "hook_type": [
+    "Vào thẳng vấn đề"
+  ],
+  "pacing": [
+    "Nhanh"
+  ],
+  "structure_style": [
+    "Chia sẻ trải nghiệm cá nhân",
+    "Mô tả đặc điểm"
+  ],
+  "summarization": "Video giới thiệu khu vui chơi Vân Lại Viên ở Long An với nhiều trò chơi hấp dẫn, giá cả phải chăng, phù hợp cho gia đình và nhóm bạn vào dịp lễ Tết. Ngoài ra, còn có khu công viên nước với hồ tạo sóng nhân tạo.",
+  "tone_of_voice": [
+    "Hào hứng",
+    "Thân thiện"
+  ]
+}
