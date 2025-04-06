@@ -6,8 +6,88 @@
 # 21KHDL-TikTok-Analytics
 
 - Lịch họp cố định:
-  - 15h T3 hàng tuần
-  - 15h T6 hàng tuần
+  - 14h T3 hàng tuần
+  - 14h T6 hàng tuần
+
+# TODO: Lịch họp giai đoạn cuối
+
+- Tối CN (06/04): 21h => Cố gắng hoàn tất toàn bộ dashboard và webapp + Tập dợt trình bày báo cáo cuối kỳ lần 1
+- Chiều T2 (07/04): 14h => Tập dợt trình bày báo cáo cuối kỳ lần 2
+- Chiều T3 (08/04): 14h => Tập dợt trình bày báo cáo cuối kỳ lần 3
+- Tối T3 (08/04): 20h => Tập dợt trình bày báo cáo cuối kỳ lần 4
+- Sáng T4 (09/04) => Chính thức báo cáo cuối kỳ
+
+## Note
+
+- Toàn bộ Dashboard và Webapp sẽ sử dụng ngôn ngữ tiếng Việt để tạo ra sự thống nhất trong việc trình bày và sử dụng
+- Tại vì có 2 nhóm cùng báo cáo nên nhóm mình sẽ có khoảng 45 phút để trình bày kết quả đạt được sau đồ án lần này
+- Mỗi người sẽ có khoảng 6 phút để trình bày phần của mình, mọi người cố gắng tận dụng thời gian này để trình bày càng chi tiết càng tốt
+- Trình bày dashboard: Đi từ tổng quan đến chi tiết
+  - Tổng quan: Không dùng filter gì cả mà nhận xét trực tiếp trên dashboard
+  - Chi tiết: Sẽ dùng các filter để phân tích chi tiết hơn về một khía cạnh nào đó của dashboard (như: tập trung hơn về 1 user, 1 hashtag, 1 món ăn, 1 vùng/miền, v.v. nào đó)
+- Trong phần trình bày, khuyến khích mọi người đưa ra những nhận xét của cá nhân xung quanh kết quả phân tích dữ liệu vì đây là phần ăn điểm. Nhận xét cá nhân này có thể theo hình thức formal là thông tin từ báo đài hoặc informal theo cách mọi người yapping về các vấn đề của xã hội hiện tại
+  - Ví dụ: Quận 10 Thành phố Hồ Chí Minh là nơi được đề cập nhiều nhất trong các video về món ăn, vì quận 10 nổi tiếng với các con đường ẩm thực "Hồ Thị Kỷ", "Nguyễn Tri Phương", v.v.. Đồng thời quận 10 cũng là nơi tọa lạc của nhiều trường học nên các hàng quán mọc lên rất nhiều để phục vụ cho các bạn học sinh, sinh viên. Do đó, quận 10 là nơi có nhiều video về món ăn nhất trong các video TikTok hiện tại.
+
+# TODO: 14h T3, 24/04/2025
+
+- Bổ sung công nghệ:
+  - Lưu dữ liệu thành file parquet để giữ nguyên kiểu dữ liệu của cột
+
+# TODO: 21h CN, 23/03/2025
+
+- Phát:
+  - Viết file Preprocessing.ipynb để xử lý dữ liệu
+  - Viết web tạo kịch bản
+  - Hỏi thầy xem có nên gộp các web app lại với nhau hay không?
+    - Có: deploy 1 web app duy nhất
+    - Không: 4 web app riêng biệt
+  - Trình bày công nghệ: Xử lý dữ liệu + Deploy web app
+  - Trình bày cấu trúc prompt cho viết kịch bản
+- Hãn:
+  - Rút thêm đặc trưng trong dữ liệu
+  - Phân tích dashboard
+- Tín:
+  - Cấu trúc prompt cho: tên món ăn, giá cả, giờ mở cửa, v.v.
+- Làm slide: Hãn + Phát + Tín
+- 3 dashboards chính:
+  1. Thống kê từ user (Lực)
+  2. Thống kê từ video (Mỹ)  
+     => Trả lời: Tần suất đăng video như thế nào? Thời lượng video tối ưu? Số lượng hashtag tối ưu?
+  3. Insights cho việc viết kịch bản (Hãn)
+- Công nghệ nổi bật trong dự án:
+  - Thu thập dữ liệu: TikTok API (unofficial)
+  - Tiền xử lý dữ liệu: Dùng Gemini (multimodal) API để tách transcript và các cột khác
+  - Dashboard: Plotly + Streamlit + Deploy lên Cloud Community
+    - Dùng AI để phân tích dữ liệu
+  - Web hỗ trợ tạo kịch bản: Prompting
+
+# TODO: 14h T6, 14/03/2025
+
+- Team tiền xử lý dữ liệu: Phát, Hãn, Tín
+- Team phân tích dữ liệu và rút insights: Lực, Mỹ, Tín, Phát
+
+  - Dùng thư viện trực quan hóa dữ liệu có thể tương tác được (ví dụ: Plotly, v.v.)
+  - **Phân tích theo video** (trọng tâm): Mỹ
+    - Phân tích tương quan:
+      - số vs số => scatter Plot
+      - số vs phân loại => bar chart, heatmap
+  - Phân tích theo user (sẽ group by userId trong tập dữ liệu video): Lực
+
+  `*.save_fig() => .png/.jpg => gemini => rút insights`
+
+- Team làm web app để tạo kịch bản: Hiếu, Hãn
+
+# TODO: Đến 15h T3, ngày 11/03/2025
+
+- Lọc dữ liệu từ transcription, lọc lại các cột dữ liệu trong video_info
+- Trình bày thu thập + xử lý dữ liệu + công nghệ bên dưới:
+  - Tên mô hình + Tên tác vụ + Số lượng tham số
+
+# TODO: Đến 15h T3, ngày 04/03/2025
+
+- Thu thập dữ liệu: Hãn
+- Trích xuất nội dung thêm từ video:
+  - Phát: Tìm hiểu cách xử lý video mà không cần tải xuống
 
 # TODO: Đến 15h T6, ngày 28/02/2025
 
@@ -35,7 +115,7 @@
   - Ẩm thực (Food reviewer): Hiếu
   - Thể dục thể thảo, gym, đời sống, thời trang, trang điểm, làm đẹp: Hãn
   - Việc làm, viết CV, hướng dẫn học (ngành giáo dục): Lực
-  - Du lịch, khám phá: Phát
+  - Du lịch, khám phá: Phát  
     => Lấy: username (ví dụ erikkkofficial, không lấy ký tự @) rồi bỏ vào code để lấy video sau.
 
 # TODO: Đến 15h T3, ngày 18/02/2025
@@ -139,5 +219,4 @@
 ## Công nghệ được sử dụng
 
 - Spark xử lý dữ liệu và Lưu local
-
   - Đẩy kết quả cuối cùng lên cloud để các thành viên lấy dữ liệu

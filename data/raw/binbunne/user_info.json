@@ -1,0 +1,55 @@
+{
+   "stats": {
+      "diggCount": 0,
+      "followerCount": 1600000,
+      "followingCount": 47,
+      "friendCount": 39,
+      "heart": 73000000,
+      "heartCount": 73000000,
+      "videoCount": 2165
+   },
+   "user": {
+      "avatarLarger": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/3907e14b1557cc26708fe1af602ec149~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=390c05d7&x-expires=1741348800&x-signature=wrmURt9Y7XWjiXy2W9YgxnSn%2FZU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarMedium": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/3907e14b1557cc26708fe1af602ec149~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=461d7cca&x-expires=1741348800&x-signature=pcKbnJP%2B46Hgs1531qYG8ahXpp8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "avatarThumb": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/3907e14b1557cc26708fe1af602ec149~tplv-tiktokx-cropcenter:100:100.jpeg?dr=14579&refresh_token=c38360e0&x-expires=1741348800&x-signature=W%2FPprc1Z9Eid0ncQ7sgILYUnNb0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "bioLink": {
+         "link": "https://bit.ly/4gbfaxP",
+         "risk": 3
+      },
+      "canExpPlaylist": true,
+      "commentSetting": 0,
+      "commerceUserInfo": {
+         "category": "Food & Beverage",
+         "categoryButton": false,
+         "commerceUser": true,
+         "downLoadLink": {
+            "android": "",
+            "ios": ""
+         }
+      },
+      "downloadSetting": 3,
+      "duetSetting": 3,
+      "followingVisibility": 2,
+      "ftc": false,
+      "id": "6710927472067675138",
+      "isADVirtual": false,
+      "isEmbedBanned": false,
+      "nickNameModifyTime": 1654317760,
+      "nickname": "Bin Bun N\u00e8",
+      "openFavorite": false,
+      "privateAccount": false,
+      "profileEmbedPermission": 1,
+      "profileTab": {
+         "showPlayListTab": true,
+         "showQuestionTab": true
+      },
+      "relation": 0,
+      "secUid": "MS4wLjABAAAABkRbci_rIOXLOiUYtbsQDXUgMcExx8rVBH3CleMY3yUZwuQ0m-UbXnvijKmq8vvL",
+      "secret": false,
+      "signature": "binbunne.contact@gmail.com\nForwork : 0.7.6_5.4.7_4.1.9_9",
+      "stitchSetting": 3,
+      "ttSeller": false,
+      "uniqueId": "binbunne",
+      "verified": false
+   }
+}
