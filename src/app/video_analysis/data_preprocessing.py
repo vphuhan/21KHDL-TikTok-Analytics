@@ -71,7 +71,7 @@ for column, ratio in missing_ratio[:5].items():
 
 
 # Vì các cột có tên bắt đầu với `stats.*` chứa cùng thông tin với các cột có tên bắt đầu với `statsV2.*`, nhưng không có thông tin về `repostCount` như `statsV2.*`. Nên ta sẽ loại bỏ các cột có tên bắt đầu với `stats.*`.
-#
+# 
 
 # In[25]:
 
@@ -79,14 +79,14 @@ for column, ratio in missing_ratio[:5].items():
 # Remove columns starting with "stats."
 video_info_df = video_info_df[
     [column for column in video_info_df.columns
-     if not column.startswith("stats.")]
+            if not column.startswith("stats.")]
 ]
 
 # video_info_df.info()
 
 
 # Xóa các cột bắt đầu với `video.claInfo.originalLanguageInfo.*` vì chúng chứa thông tin không cần thiết.
-#
+# 
 
 # In[26]:
 
@@ -94,7 +94,7 @@ video_info_df = video_info_df[
 # Remove columns starting with "video.claInfo.originalLanguageInfo."
 video_info_df = video_info_df[
     [column for column in video_info_df.columns
-     if not column.startswith("video.claInfo.originalLanguageInfo.")]
+            if not column.startswith("video.claInfo.originalLanguageInfo.")]
 ]
 
 # video_info_df.info()
@@ -151,32 +151,30 @@ video_info_df[["hashtags", "num_hashtags"]].sample(n=5)
 # In[ ]:
 
 
-video_info_df['hashtags'] = video_info_df['hashtags'].apply(
-    lambda x: x.split(',') if isinstance(x, str) and x.strip() else [])
-video_info_df["hashtags"] = video_info_df["hashtags"].apply(
-    lambda x: x if isinstance(x, list) else [])
+video_info_df['hashtags'] = video_info_df['hashtags'].apply(lambda x: x.split(',') if isinstance(x, str) and x.strip() else [])
+video_info_df["hashtags"] = video_info_df["hashtags"].apply(lambda x: x if isinstance(x, list) else [])
 
 
 # In[ ]:
 
 
-video_info_df['createTime'] = pd.to_datetime(
-    video_info_df['createTime'], unit='s')
-video_info_df.to_parquet(
-    "src/app/video_analysis/preprocessed_video.parquet", index=False)
+video_info_df['createTime'] = pd.to_datetime(video_info_df['createTime'], unit='s')
+
 
 # Lưu DataFrame đã xử lý vào file `merged_data.csv`.
 
 # In[ ]:
 
 
-# merged_df.to_csv("data/processed/merged_data.csv", index=False)
 
 
 # In[54]:
 
+video_info_df["hashtag_count"] = video_info_df["hashtags"].apply(lambda x: len(x))
+video_info_df = video_info_df[video_info_df["hashtag_count"] <= 40]
 
-# merged_df.to_parquet("data/processed/merged_data.parquet", index=False)
+# video_info_df.to_csv("data/processed/video_data.csv", index=False)
+video_info_df.to_parquet("data/processed/video_data.parquet", index=False)
 
 
 # # ========================================

@@ -13,7 +13,7 @@ def apply_styles():
         .subheader {
             font-size: 20px;
             font-weight: bold;
-            color: #282c35;
+            color: #E0E0E0;
             padding-top: 10px;
         }
         .stButton>button {
