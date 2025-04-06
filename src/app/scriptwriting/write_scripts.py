@@ -61,6 +61,7 @@ API_KEY = "AIzaSyBaT3UMomQUPjjpbRD2pCrE_sk3nT6P47w"  # vphacc096@gmail.com
 DEFAULT_MODEL = "gemini-2.0-flash"
 PAGE_TITLE = "Write Scripts"
 PAGE_ICON = "📝"
+CONFIG_DIR = "src/app/scriptwriting/config"
 
 # Available AI Models
 AVAILABLE_MODELS = [
@@ -193,158 +194,20 @@ def filter_by_multiple_labels_unified(df, conditions, soft_fields=None, min_coun
     return best_df
 
 
+def load_prompt(path):
+    with open(path, 'r', encoding='utf-8') as f:
+        return f.read()
+
+
+def load_schema(path: str) -> dict:
+    """Load JSON schema from given file path."""
+    with open(path, 'r', encoding='utf-8') as f:
+        return json.load(f)
+
+
 def generate_labels_from_description(user_description, client, model):
 
-    # with open('src/scriptGen/label_schema.json', 'r', encoding='utf-8') as f:
-    # label_schema = json.load(f)
-    label_schema = {
-        "type": "object",
-        "description": "Các trường dùng để gán nhãn (label). Gán nhãn dựa trên nội dung miêu tả video mà người dùng cung cấp.",
-        "required": ["categories"],
-        "properties": {
-            "categories": {
-                "type": "string",
-                "description": "Thể loại chính của video. Nếu kết quả là 'Không liên quan ẩm thực' thì trả về duy nhất trường 'categories', không cần trích xuất các trường khác",
-                "enum": [
-                    "Review quán ăn",
-                    "Review sản phẩm ăn uống",
-                    "Review món ăn",
-                    "Mukbang",
-                    "Nấu ăn",
-                    "Không liên quan ẩm thực"
-                ]
-            },
-            "structure_style": {
-                "type": "array",
-                "description": "Dựa trên cách người dùng muốn thể hiện video, gán nhãn phong cách cấu trúc tương ứng.",
-                "items": {
-                    "type": "string",
-                    "enum": [
-                        "Mô tả đặc điểm",
-                        "Chia sẻ trải nghiệm cá nhân",
-                        "Kể chuyện",
-                        "Hướng dẫn",
-                        "So sánh",
-                        "Kịch hóa",
-                        "Đối thoại",
-                        "Chia sẻ kiến thức"
-                    ]
-                }
-            },
-            "hook_type": {
-                "type": "array",
-                "description": "Gán nhãn cách mở đầu video mà người dùng muốn sử dụng.",
-                "items": {
-                    "type": "string",
-                    "enum": [
-                        "Gây tò mò",
-                        "Cho thấy kết quả trước",
-                        "Kể chuyện",
-                        "Vào thẳng vấn đề",
-                        "Đặt câu hỏi",
-                        "Phản hồi bình luận",
-                        "Khuyến mãi",
-                        "So sánh",
-                        "Giật tít",
-                        "Gây tranh cãi",
-                        "Tạo sự đồng cảm"
-                    ]
-                }
-            },
-            "tone_of_voice": {
-                "type": "array",
-                "description": "Xác định giọng điệu mà người dùng mong muốn thể hiện trong video.",
-                "items": {
-                    "type": "string",
-                    "enum": [
-                        "Hào hứng",
-                        "Hài hước",
-                        "Thân thiện",
-                        "Chân thành",
-                        "Ngạc nhiên",
-                        "Bí ẩn",
-                        "Trung lập",
-                        "Trang trọng",
-                        "Nghiêm túc",
-                        "Châm biếm",
-                        "Khó chịu",
-                        "Giận dữ",
-                        "Bốc phốt"
-                    ]
-                }
-            },
-            "pacing": {
-                "type": "array",
-                "description": "Gán nhịp độ video dựa trên cảm nhận về tốc độ, không khí của video mà người dùng muốn tạo.",
-                "items": {"type": "string", "enum": ["Nhanh", "Chậm", "Thay đổi"]}
-            },
-            "cta_type": {
-                "type": "array",
-                "description": "Gán các loại CTA (kêu gọi hành động) mà người dùng mong muốn sử dụng trong video, nếu có. Phải dựa trên nội dung mô tả rõ ràng.",
-                "items": {
-                    "type": "string",
-                    "enum": [
-                        "Follow kênh",
-                        "Thích video",
-                        "Bình luận",
-                        "Chia sẻ",
-                        "Lưu video",
-                        "Xem video tiếp theo",
-                        "Truy cập trang cá nhân",
-                        "Truy cập link sản phẩm",
-                        "Thử làm theo công thức",
-                        "Ăn cùng",
-                        "Ghé thăm địa điểm",
-                        "Chia sẻ công thức",
-                        "So sánh",
-                        "Đặt câu hỏi"
-                    ]
-                }
-            },
-            "content_style": {
-                "type": "array",
-                "description": "Gán nhãn phong cách tổng thể của video dựa trên phong cách thể hiện mà người dùng mô tả.",
-                "items": {
-                    "type": "string",
-                    "enum": [
-                        "Gen Z",
-                        "Truyền thống",
-                        "Chuyên nghiệp",
-                        "Đời thường",
-                        "Sang trọng",
-                        "Drama",
-                        "Kiến thức",
-                        "Sáng tạo",
-                        "Nhanh gọn",
-                        "Chi tiết"
-                    ]
-                }
-            },
-            "audience_target": {
-                "type": "array",
-                "description": "Dựa trên nội dung và cách tiếp cận mà người dùng mô tả, xác định nhóm khán giả mục tiêu.",
-                "items": {
-                    "type": "string",
-                    "enum": [
-                        "Học sinh, sinh viên",
-                        "Người đi làm, dân văn phòng",
-                        "Phụ huynh, gia đình có trẻ nhỏ",
-                        "Người trẻ (Gen Z)",
-                        "Người nội trợ, yêu thích nấu ăn tại nhà",
-                        "Người ăn chay, ăn healthy",
-                        "Người thích ăn vặt, đồ ngọt",
-                        "Người yêu thích ẩm thực nước ngoài",
-                        "Người thích khám phá ẩm thực tại địa phương",
-                        "Khách du lịch, người Việt ở nước ngoài"
-                    ]
-                }
-            },
-            "duration": {
-                "type": "integer",
-                "description": "Thời lượng mong muốn của video tính theo giây. Ví dụ: 180 (tương đương 3 phút)"
-            }
-        }
-    }
+    label_schema = load_schema(CONFIG_DIR+'/label_schema.json')
 
     annotate_user_desc_function = {
         "name": "filter_by_multiple_labels",
@@ -353,25 +216,7 @@ def generate_labels_from_description(user_description, client, model):
         "parameters": label_schema
     }
 
-    system_instruction = """
-    Bạn là một hệ thống gán nhãn nội dung video TikTok ẩm thực dựa trên mô tả tự do của người dùng. Nhiệm vụ của bạn là trích xuất các nhãn (label) tương ứng với schema đã định nghĩa.
-
-    Xác định xem nội dung có thuộc chủ đề ẩm thực hay không. Chọn một trong các chủ đề ẩm thực như sau:
-    - Review quán ăn: Tập trung vào đánh giá, giới thiệu quán ăn, nhà hàng, xe đẩy, tiệm nhỏ,... nơi có thể đến ăn trực tiếp.
-    - Review sản phẩm ăn uống: Đánh giá các loại thực phẩm đóng gói, bánh kẹo, gia vị, đồ dùng nhà bếp, v.v.
-    - Review món ăn: Tập trung vào đánh giá hương vị, chất lượng của một món ăn hoặc đồ uống cụ thể (có thể là tự làm hoặc mua nhưng không phải sản phẩm đóng gói). Ít hoặc hoàn toàn không đề cập đến quán ăn.
-    - Mukbang: Video tập trung vào việc ăn số lượng lớn, ăn to, ăn gần mic hoặc ăn nhiều món cùng lúc, thường ít lời thoại.
-    - Nấu ăn: Video hướng dẫn hoặc ghi lại quá trình nấu ăn, có thể ở nhà, ngoài trời hoặc trong bếp chuyên nghiệp.
-    - Không liên quan ẩm thực: Video không thuộc bất kỳ chủ đề nào liên quan đến ăn uống, món ăn, quán ăn hoặc trải nghiệm ẩm thực.
-
-    Yêu cầu nghiêm ngặt:
-
-    1. Chỉ sử dụng đúng các trường và nhãn (label) được liệt kê trong schema. Không được tạo nhãn mới.
-    2. Chỉ gán nhãn cho những trường được đề cập rõ ràng hoặc có thể suy luận trực tiếp, hợp lý từ mô tả của người dùng.
-    3. Tuyệt đối không được suy diễn chủ quan hoặc gán nhãn theo cảm tính. Nếu người dùng không đề cập hoặc không gợi ý rõ ràng, thì không trả về trường đó. (Ví dụ không suy luận ra cách tone_of_voice dựa trên tông giọng của người dùng mà chỉ trích ra khi người dùng có đề cập cụ thể)
-    4. Nếu chỉ có một vài trường được đề cập, chỉ trả về các trường đó.
-    5. Sử dụng tool được định nghĩa để cho ra kết quả
-    """
+    system_instruction = load_prompt(CONFIG_DIR+'/label_instruction.md')
 
     prompt = "Dựa trên miêu tả của người dùng về video họ muốn thực hiện, tiến hành gán nhãn cho các trường được định trước.\n\n" + \
         f"Miêu tả: {user_description}"
@@ -423,27 +268,14 @@ def format_transcript_desc_examples(user_desc_filter_df, min_count=20):
 
 def generate_plain_script(
         user_input, transcript_sample_text, word_count, client, model, max_output_tokens=2000):
-    prompt_plain_script = f"""
-    Bạn là chuyên gia viết kịch bản video TikTok trong lĩnh vực ẩm thực.
 
-    Hãy viết một kịch bản video TikTok dạng **lời thoại tự nhiên** dựa trên **các transcript mẫu bên dưới** và **mô tả món ăn từ người dùng**.
+    prompt_input = {'user_input': user_input,
+                    'transcript_sample_text': transcript_sample_text,
+                    'word_count': word_count}
 
-    **Yêu cầu:**
-    - Kịch bản có độ dài khoảng **{word_count} từ**, không được chênh lệch quá 100 từ.
-    - Viết theo dạng **lời thoại tự nhiên**, như thể đang nói trong video TikTok.
-    - **Không chia phần**, **không thêm tiêu đề**, **không mở ngoặc giải thích** hoặc mô tả bối cảnh.
-    - **Không chèn chú thích** như (cảnh quay), (hình ảnh), (âm thanh).
-    - Sử dụng **giọng điệu, cách nói, tốc độ, hook và CTA** tương tự các transcript mẫu.
-    - Ưu tiên sử dụng cụm từ đời thường, dễ viral như \"Trời ơi ngon gì đâu luôn á\", \"ăn là ghiền\", v.v.
+    prompt_plain_script = load_prompt(
+        CONFIG_DIR+'/plain_script_prompt.md').format(**prompt_input)
 
-    ---
-
-    **Mô tả từ người dùng:**
-    {user_input}
-
-    **Các transcript mẫu để tham khảo phong cách viết:**
-    {transcript_sample_text}
-    """
     response_plain_script = client.models.generate_content(
         # model="gemini-2.0-flash-thinking-exp-1219",
         # model="gemini-2.0-flash",
@@ -460,75 +292,22 @@ def format_script_with_gemini(plain_script, desc_sample_text, mean_word_per_seco
     script_seconds = len(plain_script.split()) / (mean_word_per_second)
     print("output script words:",  len(plain_script.split()))
     print("output script seconds:",  script_seconds)
-    response_structured_script_schema = {
-        "type": "object",
-        "properties": {
-            "video_description": {
-                "type": "string",
-                "description": f"Mô tả video kèm theo {mean_hashtag_count} hashtag, viết dựa trên nội dung kịch bản, các đoạn mô tả mẫu và top 10 hashtag được dùng nhiều nhất."
-            },
-            "duration": {
-                "type": "string",
-                "description": "Độ dài dự kiến của video, định dạng là '<x> phút <y> giây'."
-            },
-            "setting": {
-                "type": "string",
-                "description": "Bối cảnh hoặc địa điểm ghi hình, mô tả ngắn gọn."
-            },
-            "characters": {
-                "type": "string",
-                "description": "Nhân vật xuất hiện trong video, mô tả ngắn gọn."
-            },
-            "main_content": {
-                "type": "array",
-                "description": "Danh sách các bước/nội dung chính của video đã được chia nhỏ.",
-                "items": {
-                    "type": "object",
-                    "required": ["time_range", "title", "visual_description", "dialogue"],
-                    "properties": {
-                        "time_range": {
-                            "type": "string",
-                            "description": "Khoảng thời gian của đoạn, ví dụ: '0:00-0:15'"
-                        },
-                        "title": {
-                            "type": "string",
-                            "description": "Tên bước/phần, ví dụ: 'Giới thiệu món ăn'"
-                        },
-                        "visual_description": {
-                            "type": "string",
-                            "description": "Mô tả ngắn gọn về hình ảnh cần quay."
-                        },
-                        "dialogue": {
-                            "type": "string",
-                            "description": "Lời thoại gốc từ kịch bản plain, được giữ nguyên."
-                        }
-                    }
-                }
-            }
-        },
-        "required": ["video_description", "duration", "setting", "characters", "main_content"]
-    }
 
-    prompt_structured_script = f"""
-    Bạn là chuyên gia viết kịch bản TikTok ẩm thực.
+    raw_schema = load_schema(
+        CONFIG_DIR+'/structured_script_schema.json')
+    schema_str = json.dumps(raw_schema)
+    schema_str = schema_str.replace(
+        "{mean_hashtag_count}", str(mean_hashtag_count))
+    response_structured_script_schema = json.loads(schema_str)
 
-    Hãy chuyển kịch bản dạng plain dưới đây thành format theo schema JSON sau, giữ nguyên lời thoại gốc, chia nhỏ theo từng bước nội dung như mở đầu, mô tả món, cảm nhận, CTA,...
+    duration_text = f"{int(script_seconds // 60)} phút {int(script_seconds % 60)} giây"
+    prompt_input = {'duration_text': duration_text,
+                    'top_10_cat_hashtags_text': top_10_cat_hashtags_text,
+                    'desc_sample_text': desc_sample_text,
+                    'plain_script': plain_script}
 
-    Thông tin thêm:
-    - duration: {int(script_seconds // 60)} phút {int(script_seconds % 60)} giây
-
-    Top 10 hashtag được sử dụng nhiều nhất: {top_10_cat_hashtags_text}
-
-    Các đoạn mô tả video mẫu:
-
-    {desc_sample_text}
-
-    Kịch bản plain:
-
-    {plain_script}
-    """
-    # - Lồng ghép cảm xúc mạnh (sốc, tiếc, mê mẩn, chill...) để tăng tính cuốn hút
-    # - Giữ nhịp điệu tự nhiên, mang phong cách văn nói, không viết theo kiểu văn viết
+    prompt_structured_script = load_prompt(
+        CONFIG_DIR+'/structured_script_prompt.md').format(**prompt_input)
 
     response_structured_script = client.models.generate_content(
         model="gemini-2.0-flash",
@@ -774,11 +553,11 @@ class ScriptGenerator:
 
         with col_btns:
             if not edit_mode:
-                if st.button("✏️", key=f"{key_prefix}_edit_btn", help="Sửa", use_container_width=False):
+                if st.button("✏️", key=f"{key_prefix}_edit_btn", help="Sửa", use_container_width=True):
                     st.session_state[f"{key_prefix}_edit"] = True
                     st.rerun()
             else:
-                if st.button("✅", key=f"{key_prefix}_save_btn", help="Lưu", use_container_width=False):
+                if st.button("✅", key=f"{key_prefix}_save_btn", help="Lưu", use_container_width=True):
                     self._save_section_edits(key_prefix, section, default_text)
                     st.session_state[f"{key_prefix}_edit"] = False
                     st.rerun()
