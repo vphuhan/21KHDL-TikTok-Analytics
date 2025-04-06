@@ -8,6 +8,7 @@ development/*
 *.mp4
 # Ignore all audio files
 *.wav
+*.mp3
 # Ignore all files in the temp folder
 temp/*
 # Ignore all intermediate JSON files when transcripting audio
