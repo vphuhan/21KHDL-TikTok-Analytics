@@ -19,3 +19,5 @@ data/interim/audio_text_list/*
 Related-documents/*
 # Ignore all .zip files
 *.zip
+# Ignore all .pyc files
+*.pyc
