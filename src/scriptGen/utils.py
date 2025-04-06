@@ -6,9 +6,6 @@ import re
 from IPython.display import display, Markdown
 from itertools import product  # Nếu dùng, nhưng ở đây không cần dùng product
 
-# !pip install mlxtend
-# from mlxtend.preprocessing import TransactionEncoder
-# from mlxtend.frequent_patterns import apriori, association_rules
 import ast
 import json
 from collections import defaultdict
@@ -20,75 +17,119 @@ from google.genai import types
 
 def filter_by_multiple_labels_unified(df, conditions, soft_fields=None, min_count=10):
     """
-    Lọc dataframe dựa trên điều kiện ban đầu (conditions) với quy trình "nới lỏng":
-      - Bắt đầu với full điều kiện.
-      - Duyệt theo thứ tự ưu tiên: các trường soft theo thứ tự ưu tiên, sau đó strict fields.
-      - Với mỗi trường (trừ 'categories'), thử giảm dần số label (bỏ từ cuối về) cho đến khi đủ số video (>= min_count).
-      - Nếu không đủ, loại bỏ luôn trường đó (trừ trường 'categories').
+    Filter a dataframe based on initial conditions with a "relaxation" process:
+    - Start with full conditions
+    - Process fields in priority order: soft fields first, then strict fields
+    - For each field (except 'categories'), gradually reduce labels until we have enough videos (>= min_count)
+    - If still not enough, remove the field completely (except 'categories')
+
+    Parameters:
+    - df: pandas DataFrame to filter
+    - conditions: dict of field -> list of labels to filter on
+    - soft_fields: list of field names that can be relaxed first (default priority order)
+    - min_count: minimum number of rows required in result
+
+    Returns:
+    - Filtered DataFrame with relaxed conditions if necessary
     """
     print(conditions)
-    if conditions is None:
+    # Input validation
+    if df is None or df.empty:
+        print("DataFrame is empty or None")
         return df
 
+    if conditions is None or not conditions:
+        return df
+
+    # Default soft fields if none provided
     if soft_fields is None:
         soft_fields = ["pacing", "audience_target",
                        "content_style", "tone_of_voice", "cta_type"]
 
-    # Chuẩn hóa conditions: đảm bảo mỗi giá trị là list
-    fixed_conditions = {}
-    for f, val in conditions.items():
-        fixed_conditions[f] = val if isinstance(val, list) else [val]
+    # Ensure all condition values are lists
+    fixed_conditions = {k: v if isinstance(
+        v, list) else [v] for k, v in conditions.items()}
 
-    # Xác định strict fields là những trường không nằm trong soft_fields
+    # Determine strict fields (those not in soft_fields)
     strict_fields = [f for f in fixed_conditions.keys()
                      if f not in soft_fields]
-    # Combined order: các trường soft theo thứ tự ưu tiên, sau đó strict fields (nhưng luôn giữ 'categories')
-    combined_order = [
+
+    # Processing order: soft fields first in their priority order, then strict fields
+    field_order = [
         f for f in soft_fields if f in fixed_conditions] + strict_fields
 
-    def apply_filters(dataframe, conds):
-        for field, target_labels in conds.items():
-            dataframe = dataframe[dataframe[field].apply(
-                lambda labels: all(lbl in labels for lbl in target_labels))]
-        return dataframe
+    def apply_filters(dataframe, filter_conditions):
+        """Apply all filter conditions to the dataframe"""
+        result = dataframe.copy()
+        for field, target_labels in filter_conditions.items():
+            if field in result.columns and target_labels:  # Check if field exists and labels are not empty
+                result = result[result[field].apply(
+                    lambda labels: all(lbl in labels for lbl in target_labels))]
+        return result
 
-    # Bắt đầu với điều kiện đầy đủ
+    # First try with all conditions
     test_conditions = fixed_conditions.copy()
-    best_df = apply_filters(df.copy(), test_conditions)
-    if len(best_df) >= min_count:
+    filtered_df = apply_filters(df, test_conditions)
+
+    if len(filtered_df) >= min_count:
         print("Final condition (full):", test_conditions)
-        return best_df
+        print(filtered_df.shape)
+        return filtered_df
 
-    # Duyệt qua các trường theo thứ tự ưu tiên
-    for field in combined_order:
-        # Không nới lỏng trường 'categories'
-        if field == "categories":
+    best_df = filtered_df  # Track the best result so far
+
+    # Process fields in priority order
+    for field in field_order:
+        # Never relax 'categories' field
+        if field == "categories" or field not in test_conditions:
             continue
-        if field not in test_conditions:
+
+        original_labels = test_conditions[field].copy()
+        if not original_labels:  # Skip if empty list
             continue
-        original_labels = test_conditions[field]
-        # Thử giảm dần số label (bỏ từ cuối về) cho trường đó
+
+        # Try removing labels one by one from the end
         for i in range(1, len(original_labels) + 1):
-            candidate = original_labels[:-i]
-            test_conditions[field] = candidate
-            df_filtered = apply_filters(df.copy(), test_conditions)
-            print(
-                f"Trying {field} with candidate {candidate}: {len(df_filtered)} results")
-            if len(df_filtered) >= min_count:
-                print("Final condition:", test_conditions)
-                return df_filtered
-            best_df = df_filtered
-        # Nếu đã thử hết các candidate của field mà vẫn chưa đủ, loại bỏ luôn field đó (trừ 'categories')
-        if field in test_conditions and field != "categories":
-            del test_conditions[field]
-        df_filtered = apply_filters(df.copy(), test_conditions)
-        print(f"Removed field {field}: {len(df_filtered)} results")
-        if len(df_filtered) >= min_count:
-            print("Final condition:", test_conditions)
-            return df_filtered
-        best_df = df_filtered
+            candidate_labels = original_labels[:-i]
 
-    return best_df  # Trả về kết quả tốt nhất tìm được, dù có thể ít hơn min_count
+            # Skip if we'd end up with empty list (will be handled in the field removal step)
+            if not candidate_labels:
+                continue
+
+            test_conditions[field] = candidate_labels
+            filtered_df = apply_filters(df, test_conditions)
+
+            print(
+                f"Trying {field} with labels {candidate_labels}: {len(filtered_df)} results")
+
+            if len(filtered_df) >= min_count:
+                print("Final condition:", test_conditions)
+                print(filtered_df.shape)
+                return filtered_df
+
+            # Keep track of best result
+            if len(filtered_df) > len(best_df):
+                best_df = filtered_df
+
+        # If relaxing labels didn't help enough, try removing the field completely
+        if field != "categories":
+            del test_conditions[field]
+            filtered_df = apply_filters(df, test_conditions)
+            print(f"Removed field {field}: {len(filtered_df)} results")
+
+            if len(filtered_df) >= min_count:
+                print("Final condition:", test_conditions)
+                print(filtered_df.shape)
+                return filtered_df
+
+            # Keep track of best result
+            if len(filtered_df) > len(best_df):
+                best_df = filtered_df
+
+    print("Couldn't meet minimum count requirement. Returning best result with", len(
+        best_df), "rows")
+    print(best_df.shape)
+    return best_df
 
 
 def generate_labels_from_description(user_description, client, model):
@@ -149,7 +190,7 @@ def generate_labels_from_description(user_description, client, model):
     return tool_call.args if tool_call else None
 
 
-def format_transcript_desc_examples(user_desc_filter_df):
+def format_transcript_desc_examples(user_desc_filter_df, min_count=20):
     today = pd.Timestamp.now(tz='Asia/Ho_Chi_Minh')
 
     # Tính số ngày kể từ khi tạo video
@@ -159,7 +200,7 @@ def format_transcript_desc_examples(user_desc_filter_df):
     user_desc_filter_df['score'] = user_desc_filter_df['statsV2.playCount'] / \
         ((user_desc_filter_df['days_since'] + 1) ** alpha)
     sorted_df = user_desc_filter_df.sort_values(by='score', ascending=False)
-    example_df = sorted_df.head(30)
+    example_df = sorted_df.head(min_count)
 
     def create_examples(df, col):
         return "\n\n".join(
@@ -172,14 +213,14 @@ def format_transcript_desc_examples(user_desc_filter_df):
 
 
 def generate_plain_script(
-        user_input, transcript_sample_text, mean_word_count, client, model):
+        user_input, transcript_sample_text, word_count, client, model, max_output_tokens=2000):
     prompt_plain_script = f"""
     Bạn là chuyên gia viết kịch bản video TikTok trong lĩnh vực ẩm thực.
 
     Hãy viết một kịch bản video TikTok dạng **lời thoại tự nhiên** dựa trên **các transcript mẫu bên dưới** và **mô tả món ăn từ người dùng**.
 
     **Yêu cầu:**
-    - Kịch bản có độ dài khoảng **{mean_word_count} từ**, không được chênh lệch quá 100 từ.
+    - Kịch bản có độ dài khoảng **{word_count} từ**, không được chênh lệch quá 100 từ.
     - Viết theo dạng **lời thoại tự nhiên**, như thể đang nói trong video TikTok.
     - **Không chia phần**, **không thêm tiêu đề**, **không mở ngoặc giải thích** hoặc mô tả bối cảnh.
     - **Không chèn chú thích** như (cảnh quay), (hình ảnh), (âm thanh).
@@ -199,13 +240,15 @@ def generate_plain_script(
         # model="gemini-2.0-flash",
         model=model,
         contents=[prompt_plain_script],
-        # config=config,
+        config={'maxOutputTokens': max_output_tokens},
     )
+
+    print(response_plain_script.usage_metadata)
     return response_plain_script.text
 
 
 def format_script_with_gemini(plain_script, desc_sample_text, mean_word_per_second, mean_hashtag_count, top_10_cat_hashtags_text, client, model):
-    script_seconds = len(plain_script.split()) / int(mean_word_per_second)
+    script_seconds = len(plain_script.split()) / (mean_word_per_second)
     print("output script words:",  len(plain_script.split()))
     print("output script seconds:",  script_seconds)
     response_structured_script_schema = {
@@ -299,4 +342,22 @@ def format_script_with_gemini(plain_script, desc_sample_text, mean_word_per_seco
 
     # script_seconds = len(response_plain_script.text.split()) / int(mean_word_per_second)
     # response_dict['duration'] = f"{int(script_seconds // 60)} phút {int(script_seconds % 60)} giây"
+    # === Tính lại time_range cho từng đoạn main_content ===
+
+    def seconds_to_mmss(sec):
+        minutes = int(sec // 60)
+        seconds = int(sec % 60)
+        return f"{minutes}:{seconds:02d}"
+
+    current_time = 0.0
+    for step in response_dict.get("main_content", []):
+        dialogue = step.get("dialogue", "")
+        word_count = len(dialogue.split())
+        duration = duration = round(word_count / mean_word_per_second, 2)
+
+        start = seconds_to_mmss(current_time)
+        end = seconds_to_mmss(current_time + duration)
+        step["time_range"] = f"{start}-{end}"
+
+        current_time += duration
     return response_dict
