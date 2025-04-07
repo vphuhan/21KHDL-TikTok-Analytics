@@ -21,3 +21,5 @@ Related-documents/*
 *.zip
 # Ignore all .pyc files
 *.pyc
+# Ignore all pycache folder across the repo
+**/__pycache__/
