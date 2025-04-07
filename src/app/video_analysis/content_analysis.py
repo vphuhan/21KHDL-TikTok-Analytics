@@ -1,9 +1,11 @@
 import pandas as pd
 from itertools import chain
 import streamlit as st
-from video_analysis.utils.preprocess import load_data
+# from video_analysis.utils.preprocess import load_data
 from video_analysis.utils.chart import *
 from video_analysis.config import *
+import numpy as np
+from types import NoneType
 # from streamlit_plotly_events import plotly_events
 
 st.set_page_config(layout="wide")
@@ -11,29 +13,37 @@ st.set_page_config(layout="wide")
 
 @st.cache_data
 def load_data():
-    df = pd.read_csv("src/content_dashboard/data/content_analyse.csv")
-    return df
+    features_df = pd.read_parquet(
+        'data/content_analysis/content_analysis_data.parquet')
+
+    def parse_list(x):
+        if isinstance(x, np.ndarray):
+            return list(x)
+        if isinstance(x, NoneType):
+            return []
+    for col in features_df.columns:
+        list_flag = features_df[col].apply(
+            lambda x: isinstance(x, np.ndarray)).any()
+        if list_flag:
+            features_df[col] = features_df[col].apply(parse_list)
+    return features_df
 
 
 df = load_data()
 
+print(df.info())
+
 #################### SIDE BAR ####################
 st.sidebar.header("Tùy chọn phân tích")
 
-category_options = sorted({
-    cat for sublist in df['category'] if isinstance(sublist, list)
-    for cat in sublist if isinstance(cat, str)
-})
-
-selected_category = st.sidebar.multiselect(
-    "Chọn chủ đề:", options=category_options, default=None
-)
+category_options = df['categories'].dropna().unique().tolist()
+selected_category = st.sidebar.selectbox(
+    "Chọn chủ đề:", options=category_options)
 
 
-# Filter by category
+# Filter by categories
 if selected_category:
-    df = df[df['category'].apply(lambda cats: any(
-        cat in cats for cat in selected_category))]
+    df = df[df['categories'] == selected_category]
 
 #################### MAIN LAYOUT ####################
 
@@ -42,7 +52,7 @@ st.markdown("## Về nội dung video")
 
 # Field SelectBox
 FIELDS_TO_ANALYZE = set(COLUMN_LABELS.keys()) - \
-    set(['category', 'has_cta', 'has_personal_story'])
+    set(['categories', 'has_cta', 'has_personal_story'])
 
 selected_field = st.selectbox(
     "Chọn trường cần hiển thị biểu đồ:",
@@ -113,9 +123,11 @@ with col2:
     # st.write("")
     # st.write("")
     # st.write("")
-
-    radar_fig = plot_radar_chart(df, selected_field, metrics=[
-                                 'views', 'likes', 'comments', 'shares', 'collects'], selected_label=selected_labels, color_map=color_map)
+    display_metrics = COLUMN_METRICS.copy()
+    display_metrics.pop('engagement_rate', None)
+    print(display_metrics)
+    radar_fig = plot_radar_chart(df, selected_field, metrics=list(display_metrics.keys(
+    )), selected_label=selected_labels, color_map=color_map)
 
     if radar_fig:
         st.plotly_chart(radar_fig, use_container_width=True, key="radar_chart")
