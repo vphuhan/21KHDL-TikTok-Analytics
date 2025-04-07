@@ -9,7 +9,7 @@ COLUMN_LABELS = {
     # 'has_personal_story': 'Có kể chuyện cá nhân',
     # 'main_content_focus': 'Trọng tâm nội dung',
     # 'speaking_style': 'Cách nói',
-    'emotion_keywords': 'Từ khoá cảm xúc',
+    # 'emotion_keywords': 'Từ khoá cảm xúc',
     # 'hashtags': 'Hashtag'
     'audience_target': 'Đối tượng khán giả',
     'content_style': 'Phong cách nội dung',
@@ -26,7 +26,7 @@ COLUMN_METRICS = {
 
 
 STAT_TYPES = {
+    'count': 'Số lượng video',
     'mean': 'Trung bình',
     'median': 'Trung vị',
-    'count': 'Số lượng video'
 }

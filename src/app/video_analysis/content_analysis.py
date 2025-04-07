@@ -51,24 +51,51 @@ class TikTokContentAnalysis:
         self.filtered_df = self.df
         self.color_map = {}
 
-    def _parse_list(self, x):
-        """Convert numpy arrays to Python lists, handle None values"""
-        if isinstance(x, np.ndarray):
-            return list(x)
-        if isinstance(x, NoneType):
-            return []
-        return x
+    def _calculate_statistics(self, df):
+        """Calculate statistics from filtered dataframes"""
+        stats = {
+            # 'mean_word_count': int(df['transcript_word_count'].mean()),
+            'mean_duration': (df['video.duration'].mean()),
+            'duration_min_q': df['video.duration'].quantile(0.25),
+            'duration_max_q': df['video.duration'].quantile(0.75),
+            'mean_word_per_second': df['word_per_second'].mean(),
+            'mean_hashtag_count': (df['hashtag_count'].mean()),
+            'hashtag_count_min_q': df['hashtag_count'].quantile(0.25),
+            'hashtag_count_max_q': df['hashtag_count'].quantile(0.75),
+
+        }
+
+        # Get top hashtags
+        # top_10_hashtags = df['hashtags'].explode(
+        # ).value_counts().head(10).index
+        # stats['top_10_hashtags_text'] = ', '.join(top_10_hashtags)
+
+        # Get sample texts
+        # stats['transcript_sample_text'], stats['desc_sample_text'] = format_transcript_desc_examples(
+        #     df, min_count=20)
+
+        return stats
+
+    def personal_styles(self):
+        st.markdown("""
+            <style>
+            h1, h2, h3 { color: #1f2a44; font-family: 'Helvetica', sans-serif; }
+            .stMetric { border-radius: 8px; padding: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+            </style>
+        """, unsafe_allow_html=True)
 
     def setup_sidebar(self):
         """Configure sidebar filters"""
         st.sidebar.header("Tùy chọn phân tích")
 
         # Category filter
-        category_options = self.df['categories'].dropna().unique().tolist()
-        self.selected_category = st.sidebar.selectbox(
-            "Chọn chủ đề:",
+        category_options = ['Tổng quan'] + self.df['categories'].dropna(
+        ).unique().tolist()
+
+        self.selected_category = st.sidebar.radio(
+            "Chọn thể loại:",
             options=category_options,
-            index=None
+            index=0
         )
 
         # Apply filters
@@ -78,14 +105,41 @@ class TikTokContentAnalysis:
         """Apply selected filters to the dataframe"""
         self.filtered_df = self.df.copy()
 
+        if self.selected_category == 'Tổng quan':
+            return
+
         if self.selected_category:
             self.filtered_df = self.filtered_df[self.filtered_df['categories']
                                                 == self.selected_category]
 
     def setup_main_layout(self):
         """Setup main page layout and components"""
-        st.title("📊 TikTok Content Insight Dashboard")
-        st.markdown("## Về nội dung video")
+        self.personal_styles()
+        stats = self._calculate_statistics(self.filtered_df)
+
+        cat_text = self.selected_category if self.selected_category else "Tổng quan"
+        st.title(f"📊 Phân tích nội dung: {cat_text}")
+        with st.container():
+            st.subheader("Các chỉ sổ trung bình")
+            col1, col2, col3 = st.columns(3)
+            with col1:
+                st.metric(
+                    "Thời lượng", f"{int(stats['mean_duration']//60)} phút {int(stats['mean_duration']%60)} giây")
+                # st.metric(
+                #     "Followers", f"{user_info['authorStats.followerCount']:,}")
+            with col2:
+                st.metric(
+                    "Số lượng hashtag", f"{int(stats['hashtag_count_min_q'])} - {int(stats['hashtag_count_max_q'])}")
+                # st.metric("Total Likes",
+                #           f"{user_info['authorStats.heartCount']:,}")
+            with col3:
+                st.metric("Tốc độ nói",
+                          f"{round(stats['mean_word_per_second'],1)} từ/giây")
+                # st.metric("Total Videos",
+                #           f"{user_info['authorStats.videoCount']:,}")
+
+        # st.header(header_text)
+        st.subheader("Về nội dung video")
 
         # Field selection
         self.selected_field = st.selectbox(
