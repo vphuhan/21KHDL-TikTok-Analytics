@@ -206,12 +206,14 @@ def generate_plain_script(
     prompt_plain_script = load_prompt(
         CONFIG_DIR+'/plain_script_prompt.md').format(**prompt_input)
 
+    config = {
+        'maxOutputTokens': max_output_tokens} if model != "gemini-2.0-flash-thinking-exp-1219" else None
     response_plain_script = client.models.generate_content(
         # model="gemini-2.0-flash-thinking-exp-1219",
         # model="gemini-2.0-flash",
         model=model,
         contents=[prompt_plain_script],
-        config={'maxOutputTokens': max_output_tokens},
+        config=config,
     )
 
     print(response_plain_script.usage_metadata)
