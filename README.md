@@ -1,13 +1,22 @@
-- Các cột cần trích xuất:
-  - Audio-to-text
-  - Language detector
-  - Description
+# Cách chạy app
+
+- Đứng ở root folder:
+
+```bash
+streamlit run src/app/streamlit_app.py
+```
 
 # 21KHDL-TikTok-Analytics
 
 - Lịch họp cố định:
   - 14h T3 hàng tuần
   - 14h T6 hàng tuần
+
+# Insights phân tích dashboard
+
+## Lực
+
+- Số lượt `follower` tương quan thuận với lượt `heart`
 
 # TODO: Lịch họp giai đoạn cuối
 
