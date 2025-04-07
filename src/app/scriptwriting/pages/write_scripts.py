@@ -12,6 +12,7 @@ try:
     from types import NoneType
     from google import genai
     from scriptwriting.tools.utils import *
+    import pyperclip
 
 
 except ImportError as e:
@@ -57,9 +58,11 @@ API_KEY = "AIzaSyBaT3UMomQUPjjpbRD2pCrE_sk3nT6P47w"  # vphacc096@gmail.com
 DEFAULT_MODEL = "gemini-2.0-flash"
 PAGE_TITLE = "Write Scripts"
 PAGE_ICON = "📝"
+COLUMN_GAP: str = "medium"
 
 # Available AI Models
 AVAILABLE_MODELS = [
+    "gemini-2.5-pro-exp-03-25",
     "gemini-2.0-flash",         # Input: 1,048,576 tokens, Output: 8,192 tokens
     "gemini-2.0-pro-exp",       # Input: 2,048,576 tokens, Output: 8,192 tokens
     "gemini-2.0-flash-thinking-exp-1219",
@@ -77,6 +80,7 @@ class ScriptGenerator:
         self.init_page_config()
         self.init_session_state()
         self.model = self.get_model()
+        # self.model = None
         self.features_df = self.load_data()
         self.client = genai.Client(api_key=API_KEY)
 
@@ -113,6 +117,7 @@ class ScriptGenerator:
 
     def generate_script(self, user_description):
         """Generate script based on user description"""
+
         with st.spinner("Phân tích mô tả..."):
             # Generate labels from description
             label_dict = generate_labels_from_description(
@@ -145,34 +150,40 @@ class ScriptGenerator:
                 duration = stats['mean_duration']
 
             word_count = int(stats['mean_word_per_second'] * duration)
-            max_output_tokens = int(word_count * 1.5)
-            # max_output_tokens = 2000
+            # max_output_tokens = int(word_count * 1.5)
+            max_output_tokens = 2000000
 
             # Adjusted for better performance
             print(f"Duration: {duration}")
             print(f"Max Word Count: {word_count}")
             print(f"Max Output Token: {max_output_tokens}")
 
+        st.success("🧠 Mô tả đã được giải mã!")
+
         # Generate and format script
         with st.spinner("Tạo kịch bản thô..."):
             plain_script = generate_plain_script(
                 user_description, stats['transcript_sample_text'], word_count, self.client, self.model, max_output_tokens)
+        st.success("🛠️ Bản nháp đầu tiên đã hoàn thành, chờ tinh chỉnh!")
 
         with st.spinner("Định dạng lại kịch bản..."):
             formatted_script = format_script_with_gemini(
                 plain_script,
                 stats['desc_sample_text'],
+                stats['mean_desc_word_count'],
                 stats['mean_word_per_second'],
                 stats['mean_hashtag_count'],
                 stats['top_10_hashtags_text'],
                 self.client,
                 self.model
             )
+            print(f"Desc Word Count: {stats['mean_desc_word_count']}")
 
             # Save to session state
             st.session_state.formatted_script = formatted_script
             st.session_state.updated_script_data = formatted_script.copy()
 
+        st.success("🎬 Kịch bản đã sẵn sàng!")
         return formatted_script
 
     def _calculate_statistics(self, filtered_df, filter_cat_df):
@@ -182,6 +193,7 @@ class ScriptGenerator:
             'mean_duration': int(filtered_df['video.duration'].mean()),
             'mean_word_per_second': filtered_df['word_per_second'].mean(),
             'mean_hashtag_count': int(filtered_df['hashtag_count'].mean()),
+            'mean_desc_word_count': int(filtered_df['desc_word_count'].mean()),
         }
 
         # Get top hashtags
@@ -325,12 +337,81 @@ class ScriptGenerator:
                 st.markdown("🗣️ **Lời thoại**")
                 st.markdown(f"\"{section['dialogue']}\"")
 
+    def render_script_to_markdown(self, script_dict):
+        md = []
+        md.append("## 📝 Tổng quan video\n")
+        if 'video_description' in script_dict:
+            md.append(
+                f"**📄 Mô tả video**: {script_dict['video_description']}\n")
+        if 'duration' in script_dict:
+            md.append(f"**⏱️ Độ dài dự kiến**: {script_dict['duration']}\n")
+        if 'setting' in script_dict:
+            md.append(f"**📍 Bối cảnh**: {script_dict['setting']}\n")
+        if 'characters' in script_dict:
+            md.append(f"**👤 Nhân vật**: {script_dict['characters']}\n")
+        md.append("\n## 🎬 Kịch bản theo từng phần\n")
+        for part in script_dict.get("main_content", []):
+            time_range = part.get("time_range", "")
+            title = part.get("title", "")
+            visual = part.get("visual_description", "")
+            dialogue = part.get("dialogue", "")
+
+            md.append(f"#### **[{time_range}] {title}**")
+            md.append(f"- **(Cảnh quay):** {visual}")
+            md.append(f"- **(Lời thoại):** {dialogue.strip()}\"\n")
+        return "\n\n".join(md)
+
+    def display_download_section(self, json_script):
+        markdown_script = self.render_script_to_markdown(
+            json_script)
+
+        left_col, right_col = st.columns(
+            spec=2, gap=COLUMN_GAP, vertical_alignment="top",
+            # border=True,
+        )
+        with left_col:
+            if st.button(
+                label="Sao chép kịch bản",
+                key="copy_suggestion_button",
+                help="Sao chép gợi ý vào clipboard",
+                icon=":material/content_copy:",
+                use_container_width=True,
+            ):
+                pyperclip.copy(markdown_script)
+                st.success(
+                    "Kịch bản đã được sao chép vào clipboard!", icon="✅")
+
+        with right_col:
+            st.download_button(
+                label="Tải xuống kịch bản",
+                key="download_suggestion_button",
+                help="Tải xuống kịch bản dưới dạng file Markdown",
+                data=markdown_script,
+                file_name="script.md",
+                mime="text/plain",
+                on_click="ignore",
+                icon=":material/download:",
+                use_container_width=True,
+            )
+
     def run(self):
         """Main application flow"""
-        st.title("✍️ Tạo kịch bản TikTok")
+        st.title("Tạo kịch bản TikTok")
+        # with option_col_2:  # Column 2: Chọn mô hình AI
+        # st.subheader(
+        #     body=":gray-background[:blue[:material/smart_toy:]] Chọn mô hình AI",
+        #     anchor="Chọn mô hình AI",
+        # )
+
+        # Select model
+        # self.model = st.selectbox(
+        #     label="**:blue[Bạn muốn tạo kịch bản như thế nào?:]**",
+        #     options=AVAILABLE_MODELS,
+        #     index=1
+        # )
 
         # Expandable section for description input
-        with st.expander("📝 Nhập mô tả video", expanded=True):
+        with st.expander("**:blue[📝 Nhập mô tả video]**", expanded=True):
             user_description = st.text_area(
                 "Mô tả chi tiết về video TikTok bạn muốn tạo:",
                 placeholder="Làm video TikTok hướng dẫn nấu mì tôm trứng siêu nhanh, siêu dễ cho sinh viên. Cần nhấn mạnh vào sự tiện lợi và hướng dẫn từng bước...",
@@ -349,16 +430,20 @@ class ScriptGenerator:
             **Ví dụ**: Tôi muốn làm video quảng bá cho sản phẩm bánh tráng chấm phô mai của nhà tôi, cách nói chuyện gần gũi, có hướng dẫn cách ăn, giọng điệu từ tốn.
             """)
 
+            # col1, col2, col3 = st.columns([2, 1, 2])
+            # with col2:
             generate_button = st.button(
-                "✨ Tạo kịch bản", use_container_width=False)
+                "Tạo kịch bản", use_container_width=True, type='primary', icon=":material/auto_awesome:",
+            )
 
-        if generate_button and user_description:
-            self.generate_script(user_description)
-            st.header("🎬 Kịch bản gợi ý")
+            if generate_button and user_description:
+                self.generate_script(user_description)
 
         # Display script if available
         if st.session_state.formatted_script:
+            st.header("🎬 Kịch bản gợi ý")
             self.display_script_sections(st.session_state.formatted_script)
+            self.display_download_section(st.session_state.formatted_script)
 
 
 # Main execution
