@@ -7,15 +7,10 @@ import os
 try:
     import streamlit as st
     from google import genai
-    # import time
-
     import pandas as pd
     import numpy as np
     from types import NoneType
-
-    # import json
     from google import genai
-    # from google.genai import types
     from scriptwriting.tools.utils import *
 
 

@@ -31,37 +31,37 @@ video_info_df.info()
 # In[19]:
 
 
-# Calculate the missing ratio
-missing_ratio = video_info_df.isna().sum() / len(video_info_df)
+# # Calculate the missing ratio
+# missing_ratio = video_info_df.isna().sum() / len(video_info_df)
 
-# Sort the missing ratio in descending order
-missing_ratio = missing_ratio.sort_values(ascending=False)
+# # Sort the missing ratio in descending order
+# missing_ratio = missing_ratio.sort_values(ascending=False)
 
-# Display first 5 rows
-missing_ratio.head()
+# # Display first 5 rows
+# missing_ratio.head()
 
 
 # In[20]:
 
 
-# Remove columns with missing ratios greater than 0.50
-video_info_df = video_info_df.dropna(
-    axis='columns', thresh=0.50 * len(video_info_df)
-)
+# # Remove columns with missing ratios greater than 0.50
+# video_info_df = video_info_df.dropna(
+#     axis='columns', thresh=0.50 * len(video_info_df)
+# )
 
 
 # In[23]:
 
 
-# Calculate the missing ratio
-missing_ratio = video_info_df.isna().sum() / len(video_info_df)
+# # Calculate the missing ratio
+# missing_ratio = video_info_df.isna().sum() / len(video_info_df)
 
-# Sort the missing ratio in descending order
-missing_ratio = missing_ratio.sort_values(ascending=False)
+# # Sort the missing ratio in descending order
+# missing_ratio = missing_ratio.sort_values(ascending=False)
 
-# Display the missing ratio
-for column, ratio in missing_ratio[:5].items():
-    print(f"{column:50}:{ratio:8.2%}")
+# # Display the missing ratio
+# for column, ratio in missing_ratio[:5].items():
+#     print(f"{column:50}:{ratio:8.2%}")
 
 
 # In[24]:
@@ -76,11 +76,11 @@ for column, ratio in missing_ratio[:5].items():
 # In[25]:
 
 
-# Remove columns starting with "stats."
-video_info_df = video_info_df[
-    [column for column in video_info_df.columns
-            if not column.startswith("stats.")]
-]
+# # Remove columns starting with "stats."
+# video_info_df = video_info_df[
+#     [column for column in video_info_df.columns
+#             if not column.startswith("stats.")]
+# ]
 
 # video_info_df.info()
 
@@ -91,11 +91,11 @@ video_info_df = video_info_df[
 # In[26]:
 
 
-# Remove columns starting with "video.claInfo.originalLanguageInfo."
-video_info_df = video_info_df[
-    [column for column in video_info_df.columns
-            if not column.startswith("video.claInfo.originalLanguageInfo.")]
-]
+# # Remove columns starting with "video.claInfo.originalLanguageInfo."
+# video_info_df = video_info_df[
+#     [column for column in video_info_df.columns
+#             if not column.startswith("video.claInfo.originalLanguageInfo.")]
+# ]
 
 # video_info_df.info()
 

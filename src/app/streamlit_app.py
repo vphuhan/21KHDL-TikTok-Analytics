@@ -87,7 +87,7 @@ content_analysis = st.Page(
 
 # ******************** Trend Analysis Pages ********************
 trend_analysis_overview = st.Page(
-    "trend_analysis/trend_overview_page.py",
+    "trend_analysis/trend_dashboard_app.py",
     title="Tổng quan",
     icon=":material/auto_graph:",
     # default=True,
@@ -106,15 +106,19 @@ scriptwriting_app = st.Page(
     icon=":material/auto_awesome:",
     # default=True,
 )
-research = st.Page("scriptwriting/research.py",
+research = st.Page("scriptwriting/pages/research.py",
                    title="Nghiên cứu chủ đề",  # "Research on topics"
                    icon=":material/search:")
-scriptwriting = st.Page("scriptwriting/write_scripts.py",
+suggestion = st.Page("scriptwriting/pages/suggestion.py",
+                     title="Đề xuất quay video",  # "Video shooting suggestions"
+                     icon=":material/lightbulb:")
+scriptwriting = st.Page("scriptwriting/pages/write_scripts.py",
                         title="Viết kịch bản",  # "Write Scripts"
                         icon=":material/edit_note:")
-insights = st.Page("scriptwriting/insights.py",
+insights = st.Page("scriptwriting/pages/insights.py",
                    title="Tối ưu kênh TikTok",  # "Optimize TikTok channel"
                    icon=":material/insights:")
+
 
 st.session_state.logged_in = True
 if st.session_state.logged_in:
@@ -156,6 +160,7 @@ if st.session_state.logged_in:
             "Các công cụ hỗ trợ": [
                 scriptwriting_app,
                 research,
+                suggestion,
                 scriptwriting,
                 insights,
             ],
