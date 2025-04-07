@@ -29,34 +29,40 @@ logout_page = st.Page(logout, title="Log out", icon=":material/logout:")
 # )
 
 
-# ******************** TikToker Analysis Pages ********************
-user_analysis_overview = st.Page(
-    "user_analysis/user_overview_page.py",
-    title="Tổng quan",
-    icon=":material/auto_graph:",
-    # default=True,
-)
-user_correlation = st.Page(
-    "user_analysis/correlation_analysis.py",
-    title="Phân tích tương quan",
-    icon=":material/auto_graph:",
-)
-personal_analysis = st.Page(
-    "user_analysis/personal_analysis.py",
-    title="Phân tích 1 TikToker",
-    icon=":material/auto_graph:",
-)
-hashtag_song_analysis = st.Page(
-    "user_analysis/hashtag_song_analysis.py",
-    title="Phân tích hashtag và bài hát",
-    icon=":material/auto_graph:",
-)
-
 # ******************** Introduction Pages ********************
 about_us = st.Page(
     "introduction/about_us.py",
     title="Giới thiệu về chúng tôi",
     icon=":material/groups:",
+)
+
+
+# ******************** TikToker Analysis Pages ********************
+user_analysis_overview = st.Page(
+    "user_analysis/user_dashboard_app.py",
+    title="Tổng quan",
+    icon=":material/auto_graph:",
+    # default=True,
+)
+user_correlation = st.Page(
+    "user_analysis/pages/correlation_analysis.py",
+    title="Phân tích tương quan",
+    icon=":material/auto_graph:",
+)
+engagement_insights = st.Page(
+    "user_analysis/pages/engagement_insights.py",
+    title="Phân tích mức độ tương tác",
+    icon=":material/auto_graph:",
+)
+personal_analysis = st.Page(
+    "user_analysis/pages/personal_analysis.py",
+    title="Phân tích 1 TikToker",
+    icon=":material/auto_graph:",
+)
+top_user_analysis = st.Page(
+    "user_analysis/pages/top_user_analysis.py",
+    title="Phân tích top TikToker",
+    icon=":material/auto_graph:",
 )
 
 
@@ -77,6 +83,21 @@ content_analysis = st.Page(
     title="Phân tích nội dung",
     icon=":material/auto_graph:",
 )
+
+
+# ******************** Trend Analysis Pages ********************
+trend_analysis_overview = st.Page(
+    "trend_analysis/trend_overview_page.py",
+    title="Tổng quan",
+    icon=":material/auto_graph:",
+    # default=True,
+)
+food_location_analysis = st.Page(
+    "trend_analysis/pages/food_location_analysis.py",
+    title="Phân tích món ăn và địa điểm",
+    icon=":material/auto_graph:",
+)
+
 
 # ******************** Scriptwriting Pages ********************
 scriptwriting_app = st.Page(
@@ -111,8 +132,9 @@ if st.session_state.logged_in:
             "Phân tích TikToker": [
                 user_analysis_overview,
                 user_correlation,
+                engagement_insights,
                 personal_analysis,
-                hashtag_song_analysis,
+                top_user_analysis,
             ],
 
             # Phân tích video
@@ -121,6 +143,14 @@ if st.session_state.logged_in:
                 video_analysis,
                 content_analysis,
             ],
+
+
+            # Phân tích xu hướng
+            "Phân tích xu hướng": [
+                trend_analysis_overview,
+                food_location_analysis,
+            ],
+
 
             # Các công cụ giúp người dùng nghiên cứu và viết kịch bản
             "Các công cụ hỗ trợ": [
