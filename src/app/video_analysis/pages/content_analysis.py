@@ -141,63 +141,77 @@ class TikTokContentAnalysis:
         # st.header(header_text)
         st.subheader("Về nội dung video")
 
-        # Field selection
-        self.selected_field = st.selectbox(
-            "Chọn trường cần hiển thị biểu đồ:",
-            options=self.fields_to_analyze,
-            format_func=lambda x: COLUMN_LABELS.get(x, x),
-        )
-
-        # Generate color map for consistency across charts
-        labels = self.filtered_df[self.selected_field].explode(
-        ).dropna().unique().tolist()
-        self.color_map = generate_color_map(labels)
-
         # Display performance metrics section
         self.display_performance_metrics()
 
     def display_performance_metrics(self):
         """Display performance metrics section with charts"""
-        st.subheader(
-            f"Hiệu suất tương tác theo {COLUMN_LABELS.get(self.selected_field, self.selected_field)}")
 
         # Create two columns for charts
         col1, col2 = st.columns(2)
 
-        with col1:
-            self.display_bar_chart(col1)
+        # with col1:
+        self.display_bar_chart(col1)
 
-        with col2:
-            self.display_radar_chart(col2)
+        # with col2:
+        self.display_radar_chart(col2)
 
     def display_bar_chart(self, container):
         """Display bar chart with controls"""
         # Performance metric selection
-        selected_metric = st.selectbox(
-            "Chỉ số hiệu suất:",
-            options=list(COLUMN_METRICS.keys()),
-            format_func=lambda x: COLUMN_METRICS.get(x, x)
-        )
+        # with st.container(border=True):
 
-        # Statistic type selection
-        stat_type = st.radio(
-            "Loại thống kê:",
-            options=list(STAT_TYPES.keys()),
-            format_func=lambda x: STAT_TYPES.get(x, x),
-            horizontal=True
-        )
+        col1, col2 = st.columns([2, 1])
+        with col2:
+            # Field selection
+            st.write("")
+            st.write("")
+            st.write("")
+            st.write("")
+            st.write("")
+            st.write("")
+            with st.container(border=True):
+
+                self.selected_field = st.selectbox(
+                    "Chọn :red[**trường**] cần hiển thị biểu đồ:",
+                    options=self.fields_to_analyze,
+                    format_func=lambda x: COLUMN_LABELS.get(x, x),
+                )
+
+                # Generate color map for consistency across charts
+                labels = self.filtered_df[self.selected_field].explode(
+                ).dropna().unique().tolist()
+                self.color_map = generate_color_map(labels)
+                # st.markdown(
+                #     f"#### Hiệu suất tương tác theo {COLUMN_LABELS.get(self.selected_field, self.selected_field)}")
+
+                selected_metric = st.selectbox(
+                    "Chỉ số :red[**hiệu suất**]:",
+                    options=list(COLUMN_METRICS.keys()),
+                    format_func=lambda x: COLUMN_METRICS.get(x, x)
+                )
+
+                # Statistic type selection
+                stat_type = st.radio(
+                    "Loại thống kê:",
+                    options=list(STAT_TYPES.keys()),
+                    format_func=lambda x: STAT_TYPES.get(x, x),
+                    horizontal=False
+                )
 
         # Generate and display bar chart
-        fig = plot_bar_chart(
-            self.filtered_df,
-            self.selected_field,
-            selected_metric,
-            stat_type,
-            color_map=self.color_map
-        )
+        with col1:
+            fig = plot_bar_chart(
+                self.filtered_df,
+                self.selected_field,
+                selected_metric,
+                stat_type,
+                color_map=self.color_map
+            )
 
-        if fig:
-            st.plotly_chart(fig, use_container_width=True, key="bar_chart")
+            if fig:
+                st.plotly_chart(
+                    fig, use_container_width=True, key="bar_chart")
 
     def display_radar_chart(self, container):
         """Display radar chart with controls"""

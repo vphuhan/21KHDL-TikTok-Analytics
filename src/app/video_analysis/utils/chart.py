@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import plotly.express as px
 import pandas as pd
 import streamlit as st
-from video_analysis.utils.config import COLUMN_LABELS, COLUMN_METRICS
+from video_analysis.utils.config import COLUMN_LABELS, COLUMN_METRICS, STAT_TYPES
 
 
 def generate_color_map(labels):
@@ -49,6 +49,12 @@ def plot_bar_chart(df, field, metric, stat_type, color_map=None):
     if color_map is None:
         color_map = generate_color_map(grouped[field].tolist())
 
+    stats_text = COLUMN_METRICS.get(
+        grouped.columns[1].split("_", 1)[1], grouped.columns[1]) if stat_type != 'count' else ''
+    metric_text = STAT_TYPES.get(grouped.columns[1].split("_", 1)[
+                                 0], grouped.columns[1])
+    field_text = COLUMN_LABELS.get(field, field)
+
     fig = px.bar(
         grouped,
         x=grouped.columns[1],
@@ -56,10 +62,10 @@ def plot_bar_chart(df, field, metric, stat_type, color_map=None):
         color=field,
         color_discrete_map=color_map,
         orientation='h',
-        title=f'{COLUMN_LABELS.get(field, field)} vs {grouped.columns[1]}',
+        title=f'{stats_text} {metric_text} của các {field_text}',
         labels={
-            grouped.columns[1]: grouped.columns[1],
-            field: COLUMN_LABELS.get(field, field)
+            grouped.columns[1]: stats_text,
+            field: field_text
         },
         height=600
     )
