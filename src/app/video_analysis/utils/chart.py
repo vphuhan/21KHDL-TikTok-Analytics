@@ -1,12 +1,9 @@
-from video_analysis.config import COLUMN_LABELS, COLUMN_METRICS
 import plotly.graph_objects as go
 import matplotlib.pyplot as plt
-# import ast
 import plotly.express as px
 import pandas as pd
 import streamlit as st
-# from sklearn.preprocessing import MinMaxScaler
-# from wordcloud import WordCloud
+from video_analysis.utils.config import COLUMN_LABELS, COLUMN_METRICS
 
 
 def generate_color_map(labels):

@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.graph_objects as go
-from video_analysis.visualization import (
+from video_analysis.utils.visualization import (
     analyze_hashtag_engagement,
     plot_improved_top_hashtags,
     plot_hashtag_trends,

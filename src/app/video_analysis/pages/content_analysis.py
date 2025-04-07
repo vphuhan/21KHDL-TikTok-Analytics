@@ -4,7 +4,7 @@ import streamlit as st
 from itertools import chain
 from types import NoneType
 from video_analysis.utils.chart import plot_bar_chart, plot_radar_chart, generate_color_map
-from video_analysis.config import COLUMN_LABELS, COLUMN_METRICS, STAT_TYPES
+from video_analysis.utils.config import COLUMN_LABELS, COLUMN_METRICS, STAT_TYPES
 
 
 @st.cache_data

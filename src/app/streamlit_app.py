@@ -68,18 +68,18 @@ top_user_analysis = st.Page(
 
 # ******************** Video Analysis Pages ********************
 video_analysis_overview = st.Page(
-    "video_analysis/video_overview_page.py",
+    "video_analysis/video_dashboard_app.py",
     title="Tổng quan",
     icon=":material/auto_graph:",
     # default=True,
 )
 video_analysis = st.Page(
-    "video_analysis/video_analysis.py",
+    "video_analysis/pages/video_analysis.py",
     title="Phân tích video",
     icon=":material/auto_graph:",
 )
 content_analysis = st.Page(
-    "video_analysis/content_analysis.py",
+    "video_analysis/pages/content_analysis.py",
     title="Phân tích nội dung",
     icon=":material/auto_graph:",
 )
