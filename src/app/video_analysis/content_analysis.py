@@ -1,12 +1,10 @@
 import pandas as pd
 from itertools import chain
 import streamlit as st
-# from video_analysis.utils.preprocess import load_data
 from video_analysis.utils.chart import *
 from video_analysis.config import *
 import numpy as np
 from types import NoneType
-# from streamlit_plotly_events import plotly_events
 
 st.set_page_config(layout="wide")
 
@@ -30,6 +28,7 @@ def load_data():
 
 
 df = load_data()
+df = df[df['categories'] != 'Không liên quan ẩm thực']
 
 print(df.info())
 
@@ -38,7 +37,7 @@ st.sidebar.header("Tùy chọn phân tích")
 
 category_options = df['categories'].dropna().unique().tolist()
 selected_category = st.sidebar.selectbox(
-    "Chọn chủ đề:", options=category_options)
+    "Chọn chủ đề:", options=category_options, index=None)
 
 
 # Filter by categories
@@ -82,34 +81,11 @@ with col1:
         format_func=lambda x: STAT_TYPES.get(x, x),
         horizontal=True
     )
-    # st.subheader(
-    #     f"{STAT_TYPES.get(stat_type, stat_type)} theo {COLUMN_LABELS.get(selected_field, selected_field)}")
 
     fig = plot_bar_chart(df, selected_field, selected_metric,
                          stat_type, color_map=color_map)
     if fig:
         st.plotly_chart(fig, use_container_width=True, key="bar_chart")
-        # plotly_events(fig, select_event=True)
-
-    # metrics = list(COLUMN_METRICS.keys())
-
-    # exploded = df.copy().explode(
-    #     selected_field).dropna(subset=[selected_field])
-
-    # if stat_type == 'count':
-    #     summary = exploded.groupby(selected_field).size(
-    #     ).reset_index(name='Số lượng video')
-    # else:
-    #     summary = exploded.groupby(selected_field)[
-    #         metrics].agg(stat_type).reset_index()
-
-    # # Đổi tên cột cho đẹp:
-    # summary = summary.rename(columns={
-    #     m: COLUMN_METRICS[m] for m in metrics
-    # })
-
-    # # Hiển thị bảng:
-    # st.dataframe(summary, use_container_width=True, hide_index=True)
 
 
 with col2:

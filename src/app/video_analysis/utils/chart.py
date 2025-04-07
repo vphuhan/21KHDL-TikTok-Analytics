@@ -1,11 +1,11 @@
 from video_analysis.config import COLUMN_LABELS, COLUMN_METRICS
 import plotly.graph_objects as go
 import matplotlib.pyplot as plt
-import ast
+# import ast
 import plotly.express as px
 import pandas as pd
 import streamlit as st
-from sklearn.preprocessing import MinMaxScaler
+# from sklearn.preprocessing import MinMaxScaler
 # from wordcloud import WordCloud
 
 
@@ -127,13 +127,27 @@ def plot_radar_chart(df, field, metrics, selected_label=None, color_map=None):
             # hoặc có thể random màu hoặc color_map['all'] nếu muốn
             line=dict(color="blue")
         ))
-
     fig.update_layout(
+        height=600,  # Ghim chiều cao cố định
+
+        margin=dict(
+            l=40, r=40,
+            t=60,
+            b=100  # Đủ chỗ cho legend khi nhiều label
+        ),
+
+        legend=dict(
+            orientation="h",
+            yanchor="bottom",
+            y=-0.25,  # Nếu bị tràn thì giảm xuống -0.3 hoặc -0.4
+            xanchor="center",
+            x=0.5,
+            font=dict(size=12)
+        ),
+
         polar=dict(
             radialaxis=dict(
-                visible=True,
                 tickvals=[0, 25, 50, 75, 100],
-                # range=[exploded.min(), exploded.max()],
                 tickangle=45,
                 tickfont=dict(size=10),
                 showline=True,
@@ -144,11 +158,12 @@ def plot_radar_chart(df, field, metrics, selected_label=None, color_map=None):
                 tickfont=dict(size=12),
             )
         ),
-        showlegend=True,
+
         template="plotly_white",
-        height=550,
+        showlegend=True,
         title=" vs. ".join(selected_label) if selected_label else "Tổng thể"
     )
+
     return fig
 
 

@@ -8,10 +8,10 @@ COLUMN_LABELS = {
     'cta_type': 'Kiểu CTA',
     # 'has_personal_story': 'Có kể chuyện cá nhân',
     # 'main_content_focus': 'Trọng tâm nội dung',
-    'speaking_style': 'Cách nói',
+    # 'speaking_style': 'Cách nói',
     'emotion_keywords': 'Từ khoá cảm xúc',
     # 'hashtags': 'Hashtag'
-    'audience_targeting': 'Đối tượng khán giả',
+    'audience_target': 'Đối tượng khán giả',
     'content_style': 'Phong cách nội dung',
 }
 
