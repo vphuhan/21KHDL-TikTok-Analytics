@@ -25,6 +25,7 @@ def apply_styles():
             border-radius: 10px;
             padding: 10px;
         }
+
         </style>
     """, unsafe_allow_html=True)
 
