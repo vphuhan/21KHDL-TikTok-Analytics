@@ -33,7 +33,7 @@ METRIC_COLORS = {
 def get_genai_client() -> genai.Client:
     """Initialize and cache the Gemini client"""
     try:
-        return genai.Client(api_key="AIzaSyCRKaaw6RoRIMgLt2qyVNb9WdBZwEwo8Fs")  # Use secrets in production
+        return genai.Client(api_key="NEW_API_KEY")  # Use secrets in production
     except Exception as e:
         st.error(f"Failed to initialize Gemini client: {e}")
         return None
@@ -84,7 +84,7 @@ def analyze_hashtag_engagement(df, top_n=5, metric_col="statsV2.playCount"):
     
     result = hashtag_counts.groupby("hashtags").agg(
         total_engagement=(metric_col, "sum"),
-        video_count=("id", "count"),
+        video_count=("video.id", "count"),
         avg_engagement=(metric_col, "mean")
     ).reset_index()
     
@@ -96,7 +96,7 @@ def analyze_hashtag_count_effect(df, metric_col="statsV2.playCount"):
     """Phân tích mối quan hệ giữa số lượng hashtag và tương tác"""
     return df.groupby("hashtag_count").agg(
         avg_engagement=(metric_col, "mean"),
-        video_count=("id", "count"),
+        video_count=("video.id", "count"),
         median_engagement=(metric_col, "median")
     ).reset_index()
 

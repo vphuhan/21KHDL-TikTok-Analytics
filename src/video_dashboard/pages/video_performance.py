@@ -32,7 +32,7 @@ DURATION_LABELS = [
 def get_genai_client() -> genai.Client:
     """Initialize and cache the Gemini client"""
     try:
-        return genai.Client(api_key="AIzaSyCRKaaw6RoRIMgLt2qyVNb9WdBZwEwo8Fs")  # Use secrets in production
+        return genai.Client(api_key="NEW_API_KEY")  # Use secrets in production
     except Exception as e:
         st.error(f"Failed to initialize Gemini client: {e}")
         return None
@@ -124,7 +124,7 @@ def create_duration_plot(df: pd.DataFrame, metric_col: str, metric_name: str, ag
             y_title = f"Trung vị {metric_name}"
 
         duration_summary = df.groupby("video_duration_category", observed=False).agg(
-            num_videos=("id", "count"),
+            num_videos=("video.id", "count"),
             metric_value=(metric_col, agg_func)
         ).reset_index()
 
@@ -217,7 +217,7 @@ def create_time_analysis_plot(df: pd.DataFrame, time_col: str, metric_col: str, 
         
         time_summary = plot_df.groupby(time_col, observed=False).agg(
             metric_value=(metric_col, agg_func),
-            num_videos=("id", "count")
+            num_videos=("video.id", "count")
         ).reset_index()
 
         # Sort the dataframe by the time_col to ensure proper ordering
