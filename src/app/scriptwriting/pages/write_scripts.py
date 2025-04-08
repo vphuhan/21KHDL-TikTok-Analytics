@@ -99,7 +99,7 @@ class ScriptGenerator:
     def get_model(self):
         """Get the selected AI model from sidebar"""
         return st.sidebar.selectbox(
-            "Select AI Model:",
+            "Chọn mô hình AI:",
             AVAILABLE_MODELS,
             index=AVAILABLE_MODELS.index(DEFAULT_MODEL)
         )
