@@ -167,6 +167,8 @@ video_info_df['createTime'] = pd.to_datetime(video_info_df['createTime'], unit='
 
 
 video_info_df.to_csv("data/processed/video_data.csv", index=False)
+small_vide_df = video_info_df.head()
+small_vide_df.to_csv("data/processed/sub_video_data.csv", index=False)
 
 
 # In[54]:
