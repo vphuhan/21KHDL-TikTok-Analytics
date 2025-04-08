@@ -4,5 +4,9 @@ logs/*
 .venv/*
 # Ignore all files in development folder
 development/*
+data/*
+src/user_dashboard/*
 # Ignore all videos
 *.mp4
+# Ignore json
+*.json
