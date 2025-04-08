@@ -72,8 +72,8 @@ def proper_capitalize(text):
 # Function to load and cache data
 @st.cache_data(ttl=3600)
 def load_data():
-    # file_path = "C:/Users/nguye/OneDrive/Tài liệu/GitHub/21KHDL-TikTok-Analytics/notebooks/extract_food_location/final.parquet"
-    file_path = "src/app/trend_analysis/final.parquet"
+    file_path = "C:/Users/nguye/OneDrive/Tài liệu/GitHub/21KHDL-TikTok-Analytics/notebooks/extract_food_location/final.parquet"
+    # file_path = "src/app/trend_analysis/final.parquet"
     df = pd.read_parquet(file_path)
     return df
 # Load data
@@ -337,35 +337,57 @@ def analyze_food_categories(df):
     category_data = get_food_category_data(df)
     sorted_groups = category_data['sorted_groups']
     
-    # Let user select how many top categories to view
-    top_k = st.slider(
-        "Chọn số lượng danh mục món ăn",
-        min_value=5,
-        max_value=min(20, len(sorted_groups)),
-        value=10
-    )
+    # Use fixed default values instead of slider
+    default_count = 15
+    extended_count = 20
     
-    # Get top K categories
-    top_categories = sorted_groups[:top_k]
+    # Add a "Show More" checkbox to control display
+    show_more = st.checkbox("Hiển thị thêm danh mục", value=False)
+    
+    # Determine how many categories to display based on checkbox
+    display_count = extended_count if show_more else default_count
+    display_categories = sorted_groups[:min(display_count, len(sorted_groups))]
     
     # Create overview bar chart of categories with proper capitalization
-    category_names = [proper_capitalize(group[0]) for group in top_categories]
-    category_values = [group[1]['total_count'] for group in top_categories]
+    category_names = [proper_capitalize(group[0]) for group in display_categories]
+    category_values = [group[1]['total_count'] for group in display_categories]
+    
+    # Create a dataframe for better control over display
+    chart_df = pd.DataFrame({
+        'category': category_names,
+        'count': category_values
+    })
+    
+    # Sort for horizontal bar chart (smallest to largest)
+    chart_df = chart_df.sort_values('count', ascending=True)
     
     fig = px.bar(
-        x=category_values,
-        y=category_names,
+        chart_df,
+        x='count',
+        y='category',
         orientation='h',
-        labels={'x': 'Số lượng đề cập', 'y': 'Danh mục món ăn'},
-        title=f'Top {top_k} Danh Mục Món Ăn Được Đề Cập Nhiều Nhất'
+        labels={'count': 'Số lượng đề cập', 'category': 'Danh mục món ăn'},
+        title=f'Top {len(display_categories)} Danh Mục Món Ăn Được Đề Cập Nhiều Nhất'
     )
     
-    fig.update_layout(yaxis={'categoryorder': 'total ascending'})
+    # Improve text visibility by adjusting margins and spacing
+    fig.update_layout(
+        height=max(500, 25 * len(display_categories)),  # Dynamic height based on categories
+        margin=dict(l=250, r=50, t=50, b=50),  # Increased left margin for category names
+        yaxis=dict(
+            tickfont=dict(size=12),  # Larger font for y-axis labels
+            ticksuffix="   "  # Add padding after tick labels
+        )
+    )
+    
     st.plotly_chart(fig, use_container_width=True)
     
     # Create detailed view for selected category
     st.markdown("##### Chi tiết danh mục món ăn")
     st.write("Chọn một danh mục để xem chi tiết của từng loại món ăn:")
+    
+    # Get top categories for selectbox
+    top_categories = sorted_groups[:default_count]  # Always show top 15 in dropdown
     
     # Convert category names to a more readable format for the selectbox with proper capitalization
     readable_categories = [f"{proper_capitalize(cat[0])} ({cat[1]['total_count']} đề cập)" for cat in top_categories]
@@ -389,8 +411,31 @@ def analyze_food_categories(df):
     st.markdown(f"Tổng số đề cập: {category_details['total_count']}")
     st.markdown(f"Số lượng phân loại: {category_details['num_variants']}")
     
-    # Create pie chart - ensure variant names are properly capitalized
+    # Create pie chart for top variants
+    # Modify pie chart to show more variants based on the same "show more" checkbox
     plot_data = category_details['plot_data'].copy()
+    
+    # Determine how many variants to show in the pie chart based on the checkbox
+    max_variants = extended_count if show_more else default_count
+    
+    # If we have more variants than our display limit, group the rest
+    if len(plot_data) > max_variants and 'Các phân loại khác' not in plot_data['variant'].values:
+        main_variants = plot_data.iloc[:max_variants-1].copy()
+        other_variants = plot_data.iloc[max_variants-1:].copy()
+        
+        other_sum = other_variants['count'].sum()
+        other_pct = other_variants['percentage'].sum()
+        
+        other_row = pd.DataFrame({
+            'variant': ['Các phân loại khác'],
+            'count': [other_sum],
+            'percentage': [other_pct]
+        })
+        
+        plot_data = pd.concat([main_variants, other_row])
+    elif len(plot_data) > max_variants:
+        plot_data = plot_data.iloc[:max_variants]
+    
     # Apply capitalization to variant names if they're not "Các phân loại khác"
     plot_data['variant'] = plot_data['variant'].apply(
         lambda x: proper_capitalize(x) if x != "Các phân loại khác" else x
@@ -404,10 +449,26 @@ def analyze_food_categories(df):
         hover_data=['percentage']
     )
     
+    # Improve text visibility in pie chart
     fig.update_traces(
         textposition='inside',
         textinfo='percent+label',
-        hovertemplate='<b>%{label}</b><br>Số lượng: %{value}<br>Tỉ lệ: %{percent}<extra></extra>'
+        hovertemplate='<b>%{label}</b><br>Số lượng: %{value}<br>Tỉ lệ: %{percent}<extra></extra>',
+        textfont=dict(size=11)  # Slightly larger text font
+    )
+    
+    # Adjust pie chart layout for better text visibility
+    fig.update_layout(
+        height=600,  # Taller pie chart
+        margin=dict(t=50, b=50, l=20, r=20),
+        legend=dict(
+            font=dict(size=12),  # Larger legend font
+            orientation="v",  # Vertical legend
+            yanchor="top",
+            y=1.0,
+            xanchor="right",
+            x=1.1
+        )
     )
     
     st.plotly_chart(fig, use_container_width=True)
@@ -417,7 +478,17 @@ def analyze_food_categories(df):
         all_variants_df = category_details['all_variants_df'].copy()
         # Apply proper capitalization to the "Biến Thể" column
         all_variants_df["Biến Thể"] = all_variants_df["Biến Thể"].apply(proper_capitalize)
-        st.dataframe(all_variants_df, use_container_width=True)
+        
+        # Show top 15 by default, with option to show all
+        show_all_variants = st.checkbox("Hiển thị tất cả phân loại", value=False)
+        if not show_all_variants:
+            display_df = all_variants_df.head(default_count)
+            st.dataframe(display_df, use_container_width=True)
+            if len(all_variants_df) > default_count:
+                st.text(f"Hiển thị {default_count}/{len(all_variants_df)} phân loại. Chọn 'Hiển thị tất cả phân loại' để xem thêm.")
+        else:
+            st.dataframe(all_variants_df, use_container_width=True)
+
 
 #------------------------------------------------------------- 
 @st.cache_data
@@ -506,6 +577,34 @@ def get_location_data(df, city_list=None):
         (district_city_data['district_std'] != '')
     ]
     
+    hcm_districts = [
+        'quận 1', 'quận 2', 'quận 3', 'quận 4', 'quận 5', 
+        'quận 6', 'quận 7', 'quận 8', 'quận 9', 'quận 10', 
+        'quận 11', 'quận 12', 'thủ đức', 'bình thạnh', 'phú nhuận',
+        'gò vấp', 'tân bình', 'tân phú', 'bình tân'
+    ]
+    
+    hanoi_districts = [
+        'ba đình', 'hoàn kiếm', 'hai bà trưng', 'đống đa', 'cầu giấy',
+        'thanh xuân', 'tây hồ', 'hà đông', 'long biên', 'bắc từ liêm',
+        'nam từ liêm', 'hoàng mai'
+    ]
+
+    # Apply the district corrections - create a copy first to avoid SettingWithCopyWarning
+    district_city_data = district_city_data.copy()
+    
+    # For visualization only: correct city assignments based on district
+    for idx, row in district_city_data.iterrows():
+        district = row['district_std'].lower() if isinstance(row['district_std'], str) else ""
+        
+        # Correct HCM districts
+        if district in hcm_districts:
+            district_city_data.at[idx, 'city_std'] = 'hồ chí minh'
+        
+        # Correct Hanoi districts
+        elif district in hanoi_districts:
+            district_city_data.at[idx, 'city_std'] = 'hà nội'
+    
     # Filter to only include districts from our selected cities
     district_city_data = district_city_data[
         district_city_data['city_std'].str.lower().isin(city_list)
@@ -519,6 +618,7 @@ def get_location_data(df, city_list=None):
     # Make sure city names are properly capitalized for display
     city_data['city'] = city_data['city'].str.title()
     district_data_with_city['city_std'] = district_data_with_city['city_std'].str.title()
+    district_data_with_city['district_std'] = district_data_with_city['district_std'].str.title()
     
     return {
         'city_data': city_data,
@@ -577,15 +677,16 @@ def analyze_geospatial_distribution(df):
     )
     
     fig.update_layout(
-        xaxis_title="Số lượng đề cập",
-        yaxis_title="Thành phố/Tỉnh",
+        xaxis_title="",
+        yaxis_title="",
         height=400  # Fixed height for top 10
     )
     
     st.plotly_chart(fig, use_container_width=True)
     
     # Create enhanced treemap with city and district hierarchy (also limit to top 10 cities)
-    st.markdown("##### Bản đồ phân bố địa lý (Top 10 thành phố và Quận/Huyện)")
+    st.markdown("##### Bản đồ phân bố các địa điểm được nhắc đến(Top 10 thành phố và Quận/Huyện)")
+    
     
     # Prepare data for hierarchical treemap
     if not district_data_with_city.empty:
@@ -603,7 +704,7 @@ def analyze_geospatial_distribution(df):
             filtered_district_data,
             path=['city_std', 'district_std'],  # Hierarchical path
             values='count',
-            title='Phân bố địa lý theo Top 10 thành phố và quận/huyện',
+            title='Phân bố địa điểm theo Top 10 thành phố và quận/huyện',
             color='count',
             color_continuous_scale=[[0, 'rgb(0,68,137)'], [0.5, 'rgb(0,142,171)'], [1, 'rgb(0,204,150)']]
         )
@@ -625,10 +726,6 @@ def analyze_geospatial_distribution(df):
 
 @st.cache_data
 def find_unique_weekly_foods(df, comparison_weeks=3):
-    """
-    Identifies foods that are uniquely trending in specific weeks with adaptive thresholds
-    to ensure most weeks have data, including handling the first weeks.
-    """
     # Ensure we have a date column with proper week formatting
     if 'date' not in df.columns and 'createTime' in df.columns:
         df['date'] = pd.to_datetime(df['createTime'], unit='s')
@@ -667,8 +764,6 @@ def find_unique_weekly_foods(df, comparison_weeks=3):
     for i, current_week in enumerate(all_weeks):
         # Get previous weeks for comparison
         if i < comparison_weeks:
-            # For the first few weeks, use available weeks (even if fewer than requested)
-            # and include current week in the overall counts for comparison
             previous_weeks = all_weeks[:i]  # This will be empty for i=0 (first week)
         else:
             previous_weeks = all_weeks[max(0, i-comparison_weeks):i]
@@ -802,26 +897,24 @@ def analyze_unique_weekly_foods(df):
             help="Số tuần trước đó để so sánh khi xác định món ăn nổi bật"
         )
     
-    with st.spinner("Đang phân tích dữ liệu..."):
-        # Get cached unique foods data with adaptive thresholds
-        unique_foods_by_week, week_display = find_unique_weekly_foods(
-            df,
-            comparison_weeks=comparison_weeks
-        )
-        
-        # Prepare visualization data
-        viz_data_container = prepare_unique_food_visualization_data(
-            unique_foods_by_week, 
-            week_display,
-            top_n=10
-        )
-        
-        if viz_data_container is None or viz_data_container['viz_df'].empty:
-            st.warning("Không có đủ dữ liệu để hiển thị món ăn nổi bật.")
-            return
-        
-        viz_df = viz_data_container['viz_df']
-        weeks_with_data = viz_data_container['weeks_with_data']
+    unique_foods_by_week, week_display = find_unique_weekly_foods(
+        df,
+        comparison_weeks=comparison_weeks
+    )
+    
+    # Prepare visualization data
+    viz_data_container = prepare_unique_food_visualization_data(
+        unique_foods_by_week, 
+        week_display,
+        top_n=10
+    )
+    
+    if viz_data_container is None or viz_data_container['viz_df'].empty:
+        st.warning("Không có đủ dữ liệu để hiển thị món ăn nổi bật.")
+        return
+    
+    viz_df = viz_data_container['viz_df']
+    weeks_with_data = viz_data_container['weeks_with_data']
 
     # Show week selector
     if not weeks_with_data:
@@ -841,14 +934,6 @@ def analyze_unique_weekly_foods(df):
     week_to_display = {k: v for k, v in all_formatted_weeks}
     display_to_week = {v: k for k, v in all_formatted_weeks}
     
-    # # Show dropdown with formatted week values
-    # formatted_weeks = [week_to_display[w] for w in sorted(df['year_week'].unique())]
-    # selected_display = st.selectbox(
-    #     "Chọn tuần để phân tích:",
-    #     formatted_weeks,
-    #     index=min(len(formatted_weeks)-1, 0)  # Default to most recent week
-    # )
-    # Show dropdown with formatted week values in a more user-friendly format
     formatted_weeks_display = []
     formatted_to_original = {}
 
@@ -876,10 +961,9 @@ def analyze_unique_weekly_foods(df):
     selected_display_friendly = st.selectbox(
         "Chọn tuần để phân tích:",
         formatted_weeks_display,
-        index=min(len(formatted_weeks_display)-1, 0)  # Default to most recent week
+        index=min(len(formatted_weeks_display)-1, 0)
     )
 
-    # Convert back to the original format for processing
     selected_display = formatted_to_original.get(selected_display_friendly)
     # Convert display format back to the actual week value
     selected_year_week = display_to_week.get(selected_display)
@@ -892,8 +976,6 @@ def analyze_unique_weekly_foods(df):
         selected_week_friendly = formatted_weeks_display[formatted_weeks_display.index(selected_display_friendly)]
         week_header = f"Món ăn nổi bật trong {selected_week_friendly}"
         st.markdown(f"##### {week_header}")
-        # week_header = f"Món ăn nổi bật trong Tuần {week_to_display[selected_year_week]}"
-        # st.markdown(f"##### {week_header}")
         
         # Get foods for selected week
         week_foods = []
@@ -918,7 +1000,6 @@ def analyze_unique_weekly_foods(df):
         if selected_year_week in all_weeks:
             current_idx = all_weeks.index(selected_year_week)
             
-            # Get a range of 5 weeks centered on selected week if possible
             start_idx = max(0, current_idx - 2)
             end_idx = min(len(all_weeks), current_idx + 3)
             nearby_weeks = all_weeks[start_idx:end_idx]
@@ -951,7 +1032,7 @@ def analyze_unique_weekly_foods(df):
                                 )
                         else:
                             st.info("Không có món ăn nổi bật.")
-    # Main app
+# Main app
 def main():
     """Main application function"""
     
