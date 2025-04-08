@@ -322,7 +322,7 @@ class TikTokContentAnalysis:
         selected_metric = st.segmented_control(
             "Chọn chỉ số để hiển thị boxplot:",
             options=list(COLUMN_METRICS.keys()),
-            format_func=lambda x: COLUMN_METRICS.get(x, x),
+            format_func=lambda x: COLUMN_METRICS.get(x, x), default='statsV2.playCount'
             # index=0
         )
 
