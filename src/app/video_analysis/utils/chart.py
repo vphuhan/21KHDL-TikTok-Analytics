@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import plotly.express as px
 import pandas as pd
 import streamlit as st
-from video_analysis.utils.config import COLUMN_LABELS, COLUMN_METRICS, STAT_TYPES
+from video_analysis.utils.config import COLUMN_LABELS, COLUMN_METRICS, STAT_TYPES, CATEGORY_COLOR_MAP
 
 
 def generate_color_map(labels):
@@ -72,15 +72,9 @@ def plot_bar_chart(df, field, metric, stat_type, color_map=None):
         },
         height=600
     )
-    fig.update_layout(showlegend=False)
+    fig.update_layout(showlegend=False, margin=dict(l=0, r=0, t=30, b=0),)
     return fig
 
-
-# def scale_params_0_100(df, params):
-#     df_scaled = df.copy()
-#     scaler = MinMaxScaler(feature_range=(0, 100))
-#     df_scaled[params] = scaler.fit_transform(df[params])
-#     return df_scaled
 
 def scale_params_0_100(df, params):
     df_scaled = df.copy()
@@ -173,7 +167,7 @@ def plot_radar_chart(df, field, metrics, selected_label=None, color_map=None):
     return fig
 
 
-def plot_duration_histogram(df, duration_column='video.duration', bins=None):
+def plot_duration_histogram(df, duration_column='video.duration', categories='Tất cả', bins=None):
     """
     Plots a histogram of video durations.
 
@@ -220,7 +214,10 @@ def plot_duration_histogram(df, duration_column='video.duration', bins=None):
         # color_continuous_scale="teal",
         height=565
     )
-    fig.update_traces(marker_color='#60B5FF')
+    # fig.update_traces(marker_color='#60B5FF')
+    fig.update_traces(marker_color=CATEGORY_COLOR_MAP.get(
+        categories, '#60B5FF'))  # Default color if not found in the map
+    # fig.update_layout(showlegend=False, margin=dict(l=0, r=0, t=290, b=0),)
 
     # Display the chart in Streamlit
     st.plotly_chart(fig, use_container_width=True)
@@ -283,7 +280,7 @@ def plot_duration_boxplot(df, metric_column, duration_column='video.duration', b
         df,
         x='duration_bin',
         y=metric_column,
-        title=f"Phân phối {COLUMN_METRICS.get(metric_column, metric_column)} theo thời lượng",
+        title=f"Phân phối {COLUMN_METRICS.get(metric_column, metric_column)} theo Thời lượng",
         labels={'duration_bin': 'Thời lượng', metric_column: COLUMN_METRICS.get(
             metric_column, metric_column)},
         color='duration_bin',
@@ -408,9 +405,10 @@ def plot_heatmap_day_hour(df, datetime_column='createTime', metric_column=None):
     return fig
 
 
-def plot_hashtag_count_histogram(df, hashtag_column='hashtag_count', bins=None, xaxis_range=None):
+def plot_hashtag_count_histogram(df, hashtag_column='hashtag_count', bins=None, xaxis_range=None, selected_category='Tất cả'):
     """
-    Plots a histogram of the number of hashtags in videos with a fixed x-axis range.
+    Plots a histogram of the number of hashtags in videos with a fixed x-axis range
+    and vertical lines for Q1 and Q3.
 
     Args:
         df (pd.DataFrame): The DataFrame containing video data.
@@ -433,6 +431,10 @@ def plot_hashtag_count_histogram(df, hashtag_column='hashtag_count', bins=None, 
         # 0 to max + 1
         bins = list(range(0, int(df[hashtag_column].max()) + 2))
 
+    # Calculate Q1 and Q3
+    q1 = df[hashtag_column].quantile(0.25)
+    q3 = df[hashtag_column].quantile(0.75)
+
     # Create the histogram using Plotly
     fig = px.histogram(
         df,
@@ -440,9 +442,16 @@ def plot_hashtag_count_histogram(df, hashtag_column='hashtag_count', bins=None, 
         nbins=len(bins) - 1,
         title="Phân phối số lượng hashtag trong video",
         labels={hashtag_column: "Số lượng hashtag", "count": "Số lượng video"},
-        color_discrete_sequence=["#60B5FF"],
+        color_discrete_sequence=[CATEGORY_COLOR_MAP.get(
+            selected_category, "#FFA07A")],  # Default color if not found in the map
         height=500
     )
+
+    # Add vertical lines for Q1 and Q3
+    # fig.add_vline(x=q1, line_dash="dash", line_color="red",
+    #               annotation_text="Q1", annotation_position="top left")
+    # fig.add_vline(x=q3, line_dash="dash", line_color="green",
+    #               annotation_text="Q3", annotation_position="top right")
 
     # Update layout for better readability and fixed x-axis range
     fig.update_layout(
@@ -456,7 +465,7 @@ def plot_hashtag_count_histogram(df, hashtag_column='hashtag_count', bins=None, 
     return fig
 
 
-def plot_word_per_second_histogram(df, column='word_per_second', bins=None, xaxis_range=None):
+def plot_word_per_second_histogram(df, column='word_per_second', bins=None, xaxis_range=None, selected_category='Tất cả'):
     """
     Plots a histogram of the word-per-second metric with a fixed x-axis range.
 
@@ -485,19 +494,91 @@ def plot_word_per_second_histogram(df, column='word_per_second', bins=None, xaxi
         df,
         x=column,
         nbins=len(bins) - 1,
-        title="Phân phối tốc độ nói (số từ/giây)",
-        labels={column: "Tốc độ nói (từ/giây)", "count": "Số lượng video"},
-        color_discrete_sequence=["#FFA07A"],
+        title="Phân phối Mật độ từ ngữ nói (số từ/giây)",
+        labels={
+            column: "Mật độ từ ngữ nói (từ/giây)", "count": "Số lượng video"},
+        color_discrete_sequence=[CATEGORY_COLOR_MAP.get(
+            selected_category, "#FFA07A")],  # Default color if not found in the map,
         height=500
     )
 
     # Update layout for better readability and fixed x-axis range
     fig.update_layout(
-        xaxis=dict(title="Tốc độ nói (từ/giây)", range=xaxis_range),
+        xaxis=dict(title="Mật độ từ ngữ nói (từ/giây)", range=xaxis_range),
         yaxis=dict(title="Số lượng video"),
-        bargap=0.2
+        bargap=0.2, margin=dict(l=40, r=40, t=40, b=40),
+
     )
 
+    # Display the chart in Streamlit
+    st.plotly_chart(fig, use_container_width=True)
+    return fig
+
+
+def plot_density_scatter(df, x_column='transcript_word_count', y_column='video.duration', selected_category=None):
+    """
+    Plots a scatter plot for two numerical columns, with optional coloring by categories.
+
+    Args:
+        df (pd.DataFrame): The DataFrame containing video data.
+        x_column (str): The column name for the x-axis (e.g., transcript word count).
+        y_column (str): The column name for the y-axis (e.g., video duration).
+        selected_category (str or None): The selected category. If 'Tất cả', color by categories.
+
+    Returns:
+        fig: A Plotly figure object for the scatter plot.
+    """
+    if x_column not in df.columns or y_column not in df.columns:
+        st.warning(
+            f"Cột '{x_column}' hoặc '{y_column}' không tồn tại trong dữ liệu.")
+        return None
+
+    # Drop rows with missing values in the relevant columns
+    df = df.dropna(subset=[x_column, y_column])
+
+    # Determine color column and color map
+    if selected_category == 'Tất cả' and 'categories' in df.columns:
+        color_column = 'categories'
+        color_map = CATEGORY_COLOR_MAP
+    elif selected_category in CATEGORY_COLOR_MAP:
+        color_column = None
+        # Use the selected category's color
+        color_map = {selected_category: CATEGORY_COLOR_MAP[selected_category]}
+    else:
+        color_column = None
+        color_map = None
+    # print(color_map)
+    # Create the scatter plot using Plotly
+    fig = px.scatter(
+        df,
+        x=x_column,
+        y=y_column,
+        title="Phân bố: Số lượng từ và Thời lượng video",
+        labels={x_column: "Số lượng từ trong transcript",
+                y_column: "Thời lượng video (giây)"},
+        color=color_column,  # Color by categories if 'Tất cả' is selected
+        color_discrete_map=color_map,  # Use CATEGORY_COLOR_MAP or selected category's color
+        height=500
+    )
+
+    # Update layout for better readability
+    fig.update_layout(
+        xaxis=dict(title="Số lượng từ trong transcript", range=[-100, 2500]),
+        yaxis=dict(title="Thời lượng video (giây)", range=[-20, 620]),
+        coloraxis_colorbar=dict(
+            title="Thời lượng (giây)" if color_column is None else "Danh mục"
+        ),
+        margin=dict(l=40, r=40, t=40, b=40),
+        legend=dict(
+            orientation="h",
+            yanchor="bottom",
+            y=-0.25,  # Position below the chart
+            xanchor="center",
+            x=0.5,
+        ),
+    )
+    fig.update_traces(marker=dict(
+        color=CATEGORY_COLOR_MAP[selected_category])) if selected_category != 'Tất cả' else None
     # Display the chart in Streamlit
     st.plotly_chart(fig, use_container_width=True)
     return fig

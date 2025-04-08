@@ -3,8 +3,8 @@ import numpy as np
 import streamlit as st
 import plotly.express as px
 from types import NoneType
-from video_analysis.utils.chart import plot_bar_chart, plot_radar_chart, generate_color_map, plot_duration_histogram, plot_duration_boxplot, plot_heatmap_day_hour, plot_hashtag_count_histogram, plot_word_per_second_histogram
-from video_analysis.utils.config import COLUMN_LABELS, COLUMN_METRICS, STAT_TYPES
+from video_analysis.utils.chart import plot_bar_chart, plot_radar_chart, generate_color_map, plot_duration_histogram, plot_duration_boxplot, plot_heatmap_day_hour, plot_hashtag_count_histogram, plot_word_per_second_histogram, plot_density_scatter
+from video_analysis.utils.config import COLUMN_LABELS, COLUMN_METRICS, STAT_TYPES, CATEGORY_COLOR_MAP
 
 
 @st.cache_data
@@ -101,7 +101,7 @@ class TikTokContentAnalysis:
         st.sidebar.header("Tùy chọn phân tích")
 
         # Category filter
-        category_options = ['Tổng quan'] + self.df['categories'].dropna(
+        category_options = ['Tất cả'] + self.df['categories'].dropna(
         ).unique().tolist()
 
         self.selected_category = st.sidebar.radio(
@@ -117,7 +117,7 @@ class TikTokContentAnalysis:
         """Apply selected filters to the dataframe"""
         self.filtered_df = self.df.copy()
 
-        if self.selected_category == 'Tổng quan':
+        if self.selected_category == 'Tất cả':
             return
 
         if self.selected_category:
@@ -129,14 +129,28 @@ class TikTokContentAnalysis:
         self.personal_styles()
         stats = self._calculate_statistics(self.filtered_df)
 
-        cat_text = self.selected_category if self.selected_category else "Tổng quan"
+        cat_text = self.selected_category if self.selected_category else "Tất cả"
         st.title(f"📊 Phân tích nội dung: {cat_text}")
         with st.container():
             st.subheader("Các chỉ sổ trung bình")
-            col0, col1, col2, col3 = st.columns([1, 1, 1, 1])
+            col0, col01, col1, col2, col3 = st.columns(
+                [1, 1, 1, 1, 1])
+            # col0, col01, col02 = st.columns([1, 1, 1])
             with col0:
                 st.metric(
                     "Số lượng video", f"{len(self.filtered_df):,}")
+                # st.metric(
+                #     "Thời lượng", f"{int(stats['mean_duration']//60)} phút {int(stats['mean_duration']%60)} giây")
+            with col01:
+                st.metric(
+                    "Số lượng TikToker", f"{(self.filtered_df['author.uniqueId'].nunique()):,}")
+                # st.metri(
+                #     "Số lượcng hashtag", f"{int(stats['hashtag_count_min_q'])} - {int(stats['hashtag_count_max_q'])}")
+            # with col02:
+            #     st.metric(
+            #         "Lượng video trung bình của mỗi TikToker", f"{round((len(self.filtered_df)/self.filtered_df['author.uniqueId'].nunique()),2):,}")
+                # st.metric("Mật độ từ ngữ",
+                #           f"{round(stats['mean_word_per_second'],1)} từ/giây")
             with col1:
                 st.metric(
                     "Thời lượng", f"{int(stats['mean_duration']//60)} phút {int(stats['mean_duration']%60)} giây")
@@ -148,7 +162,7 @@ class TikTokContentAnalysis:
                 # st.metric("Total Likes",
                 #           f"{user_info['authorStats.heartCount']:,}")
             with col3:
-                st.metric("Tốc độ nói",
+                st.metric("Mật độ từ ngữ",
                           f"{round(stats['mean_word_per_second'],1)} từ/giây")
                 # st.metric("Total Videos",
                 #           f"{user_info['authorStats.videoCount']:,}")
@@ -167,9 +181,6 @@ class TikTokContentAnalysis:
             # Display duration boxplot
             self.display_duration_boxplot()
 
-        # Display heatmap
-        self.display_heatmap_day_hour()
-
         col1, col2 = st.columns([6, 3.5])
         with col1:
             # Display hashtag count histogram
@@ -178,8 +189,16 @@ class TikTokContentAnalysis:
             # Display top hashtags
             self.display_top_hashtags()
 
-        # Display word-per-second histogram
-        self.display_word_per_second_histogram()
+        col1, col2 = st.columns([6, 3.5])
+        with col2:
+            # Display word-per-second histogram
+            self.display_word_per_second_histogram()
+        with col1:
+            # Display scatter plot
+            self.display_scatter_plot()
+
+        # Display heatmap
+        self.display_heatmap_day_hour()
 
     def display_performance_metrics(self):
         """Display performance metrics section with charts"""
@@ -203,10 +222,10 @@ class TikTokContentAnalysis:
             # Field selection
             st.write("")
             st.write("")
-            st.write("")
-            st.write("")
-            st.write("")
-            st.write("")
+            # st.write("")
+            # st.write("")
+            # st.write("")
+            # st.write("")
             with st.container(border=True):
 
                 self.selected_field = st.selectbox(
@@ -238,6 +257,7 @@ class TikTokContentAnalysis:
 
         # Generate and display bar chart
         with col1:
+            # with st.container(border=True):
             fig = plot_bar_chart(
                 self.filtered_df,
                 self.selected_field,
@@ -351,14 +371,14 @@ class TikTokContentAnalysis:
 
     def display_word_per_second_histogram(self):
         """Display a histogram of the word-per-second metric."""
-        st.subheader("Phân phối tốc độ nói (số từ/giây)")
+        st.subheader("Phân phối Mật độ từ ngữ (số từ/giây)")
         if 'word_per_second' not in self.filtered_df.columns:
             st.warning("Dữ liệu không chứa cột 'word_per_second'.")
             return
 
         # Call the plot_word_per_second_histogram function
         plot_word_per_second_histogram(
-            self.filtered_df, column='word_per_second')
+            self.filtered_df, column='word_per_second', xaxis_range=[-0.5, 18.5])
 
     def display_top_hashtags(self):
         """Display the top 10 most used hashtags as horizontal progress bars."""
@@ -386,6 +406,7 @@ class TikTokContentAnalysis:
         # Calculate the percentage of videos using each hashtag
         total_videos = len(self.filtered_df)
         hashtag_percentages = (hashtag_counts / total_videos) * 100
+        # hashtag_percentages = hashtag_counts
 
         # Prepare data for display
         hashtags = [
@@ -414,6 +435,22 @@ class TikTokContentAnalysis:
                 """,
                 unsafe_allow_html=True
             )
+
+    def display_scatter_plot(self):
+        """Display a scatter plot for transcript word count and video duration."""
+        st.subheader("Phân bố: Số lượng từ và Thời lượng video")
+        if 'transcript_word_count' not in self.filtered_df.columns or 'video.duration' not in self.filtered_df.columns:
+            st.warning(
+                "Dữ liệu không chứa cột 'transcript_word_count' hoặc 'video.duration'.")
+            return
+
+        # Call the plot_density_scatter function with selected_category
+        plot_density_scatter(
+            self.filtered_df,
+            x_column='transcript_word_count',
+            y_column='video.duration',
+            selected_category=self.selected_category
+        )
 
     def run(self):
         """Main application flow"""
