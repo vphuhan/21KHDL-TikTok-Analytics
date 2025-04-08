@@ -151,34 +151,21 @@ class TikTokContentAnalysis:
                     ":material/person_pin_circle: Số lượng TikToker", f"{(self.filtered_df['author.uniqueId'].nunique()):,}")
                 st.metric(
                     ":material/thumb_up: Lượt thích", f"{int(stats['mean_like_count']):,}")
-                # st.metri(
-                #     "Số lượcng hashtag", f"{int(stats['hashtag_count_min_q'])} - {int(stats['hashtag_count_max_q'])}")
-            # with col02:
-            #     st.metric(
-            #         "Lượng video trung bình của mỗi TikToker", f"{round((len(self.filtered_df)/self.filtered_df['author.uniqueId'].nunique()),2):,}")
-                # st.metric("Mật độ từ ngữ",
-                #           f"{round(stats['mean_word_per_second'],1)} từ/giây")
             with col1:
                 st.metric(
                     ":material/schedule: Thời lượng", f"{int(stats['mean_duration']//60)} phút {int(stats['mean_duration']%60)} giây")
                 st.metric(
                     ":material/chat_bubble_outline: Lượt bình luận", f"{int(stats['mean_comment_count']):,}")
-                # st.metric(
-                #     "Followers", f"{user_info['authorStats.followerCount']:,}")
             with col2:
                 st.metric(
                     ":material/tag: Số lượng hashtag", f"{int(stats['hashtag_count_min_q'])} - {int(stats['hashtag_count_max_q'])}")
                 st.metric(
                     ":material/share: Lượt chia sẻ", f"{int(stats['mean_share_count']):,}")
-                # st.metric("Total Likes",
-                #           f"{user_info['authorStats.heartCount']:,}")
             with col3:
                 st.metric(":material/article: Mật độ từ ngữ",
                           f"{round(stats['mean_word_per_second'],1)} từ/giây")
                 st.metric(
                     ":material/save: Lượt lưu", f"{int(stats['mean_collect_count']):,}")
-                # st.metric("Total Videos",
-                #           f"{user_info['authorStats.videoCount']:,}")
 
         # st.header(header_text)
         st.subheader("Về cách xây dựng nội dung video")
@@ -221,10 +208,12 @@ class TikTokContentAnalysis:
         """Display performance metrics section with charts"""
 
         # Create two columns for charts
-        self.selected_field = st.selectbox(
-            "Chọn :red[**trường**] cần hiển thị biểu đồ:",
+
+        self.selected_field = st.pills(
+            "Chọn :red[**trường**] cần hiển thị trên biểu đồ:",
             options=self.fields_to_analyze,
             format_func=lambda x: COLUMN_LABELS.get(x, x),
+            default='audience_target'
         )
 
         col1, col2 = st.columns([3, 2])
