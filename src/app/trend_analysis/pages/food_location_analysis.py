@@ -60,7 +60,15 @@ st.markdown("""
     }
 </style>
 """, unsafe_allow_html=True)
-    
+
+# Function to properly capitalize names for visualization
+def proper_capitalize(text):
+    """Capitalize the first letter of each word in a string"""
+    if not isinstance(text, str):
+        return text
+    # Split by spaces and capitalize each word, then rejoin
+    return ' '.join(word.capitalize() for word in text.split())
+
 # Function to load and cache data
 @st.cache_data(ttl=3600)
 def load_data():
@@ -68,7 +76,6 @@ def load_data():
     file_path = "src/app/trend_analysis/final.parquet"
     df = pd.read_parquet(file_path)
     return df
-
 # Load data
 try:
     df = load_data()
@@ -143,8 +150,8 @@ def display_data_overview(df):
     )
     
     fig.update_layout(
-        xaxis_title="Tuần",
-        yaxis_title="Số lượng",
+        xaxis_title="",
+        yaxis_title="",
         height=500,
         hovermode="x unified",
         yaxis=dict(range=[0, 300]),
@@ -155,7 +162,7 @@ def display_data_overview(df):
         tickmode='array',
         tickvals=overview_info['weekly_counts']['year_week'].tolist(),
         ticktext=overview_info['weekly_counts']['year_week_display'].tolist(),
-        tickangle=90,
+        tickangle=60,
         tickfont=dict(size=10)
     )
     
@@ -322,8 +329,6 @@ def prepare_category_details(category_name, category_data, food_counts):
     }
 
 #---------------------------------------------- 
-
-
 def analyze_food_categories(df):
     """Analyze and visualize food categories and their variants"""
     st.markdown("<h2 class='sub-header'>Phân Tích Món Ăn Theo Danh Mục</h2>", unsafe_allow_html=True)
@@ -343,8 +348,8 @@ def analyze_food_categories(df):
     # Get top K categories
     top_categories = sorted_groups[:top_k]
     
-    # Create overview bar chart of categories
-    category_names = [group[0].upper() for group in top_categories]
+    # Create overview bar chart of categories with proper capitalization
+    category_names = [proper_capitalize(group[0]) for group in top_categories]
     category_values = [group[1]['total_count'] for group in top_categories]
     
     fig = px.bar(
@@ -362,8 +367,8 @@ def analyze_food_categories(df):
     st.markdown("##### Chi tiết danh mục món ăn")
     st.write("Chọn một danh mục để xem chi tiết của từng loại món ăn:")
     
-    # Convert category names to a more readable format for the selectbox
-    readable_categories = [f"{cat[0].upper()} ({cat[1]['total_count']} đề cập)" for cat in top_categories]
+    # Convert category names to a more readable format for the selectbox with proper capitalization
+    readable_categories = [f"{proper_capitalize(cat[0])} ({cat[1]['total_count']} đề cập)" for cat in top_categories]
     selected_category_index = st.selectbox(
         "Danh sách món ăn",
         range(len(readable_categories)),
@@ -379,17 +384,23 @@ def analyze_food_categories(df):
         category_data['food_counts']
     )
     
-    # Display category information
-    st.markdown(f"**Loại món: {category_details['category_name'].upper()}**")
+    # Display category information with proper capitalization
+    st.markdown(f"**Loại món: {proper_capitalize(category_details['category_name'])}**")
     st.markdown(f"Tổng số đề cập: {category_details['total_count']}")
     st.markdown(f"Số lượng phân loại: {category_details['num_variants']}")
     
-    # Create pie chart
+    # Create pie chart - ensure variant names are properly capitalized
+    plot_data = category_details['plot_data'].copy()
+    # Apply capitalization to variant names if they're not "Các phân loại khác"
+    plot_data['variant'] = plot_data['variant'].apply(
+        lambda x: proper_capitalize(x) if x != "Các phân loại khác" else x
+    )
+    
     fig = px.pie(
-        category_details['plot_data'], 
+        plot_data, 
         values='count', 
         names='variant',
-        title=f'Phân bố thức ăn trong món {category_details["category_name"].upper()}',
+        title=f'Phân bố thức ăn trong món {proper_capitalize(category_details["category_name"])}',
         hover_data=['percentage']
     )
     
@@ -401,9 +412,12 @@ def analyze_food_categories(df):
     
     st.plotly_chart(fig, use_container_width=True)
     
-    # Show table of all variants
+    # Show table of all variants with proper capitalization
     with st.expander("Xem chi tiết từng phân loại"):
-        st.dataframe(category_details['all_variants_df'], use_container_width=True)
+        all_variants_df = category_details['all_variants_df'].copy()
+        # Apply proper capitalization to the "Biến Thể" column
+        all_variants_df["Biến Thể"] = all_variants_df["Biến Thể"].apply(proper_capitalize)
+        st.dataframe(all_variants_df, use_container_width=True)
 
 #------------------------------------------------------------- 
 @st.cache_data
@@ -580,7 +594,10 @@ def analyze_geospatial_distribution(df):
         filtered_district_data = district_data_with_city[
             district_data_with_city['city_std'].isin(top_10_cities)
         ]
-        
+        filtered_district_data = filtered_district_data.copy()  # Create a copy to avoid SettingWithCopyWarning
+        filtered_district_data['city_std'] = filtered_district_data['city_std'].apply(proper_capitalize)
+        filtered_district_data['district_std'] = filtered_district_data['district_std'].apply(proper_capitalize)
+    
         # Create treemap with city -> district hierarchy
         fig = px.treemap(
             filtered_district_data,
@@ -607,10 +624,10 @@ def analyze_geospatial_distribution(df):
         st.info("Không có dữ liệu quận/huyện cho các thành phố đã chọn.")
 
 @st.cache_data
-def find_unique_weekly_foods(df, threshold_pct=60, min_mentions=2, comparison_weeks=3):
+def find_unique_weekly_foods(df, comparison_weeks=3):
     """
-    Identifies foods that are uniquely trending in specific weeks with lower thresholds
-    to ensure more weeks have data.
+    Identifies foods that are uniquely trending in specific weeks with adaptive thresholds
+    to ensure most weeks have data, including handling the first weeks.
     """
     # Ensure we have a date column with proper week formatting
     if 'date' not in df.columns and 'createTime' in df.columns:
@@ -639,66 +656,93 @@ def find_unique_weekly_foods(df, threshold_pct=60, min_mentions=2, comparison_we
     all_food_counts = exploded_df.groupby(['year_week', 'foods']).size().reset_index(name='count')
     
     # Get a list of consistently popular foods (appear in most weeks)
-    popular_threshold = len(all_weeks) * 0.7  # Foods that appear in 70% or more of all weeks
+    popular_threshold = len(all_weeks) * 0.6  # Lowered from 0.7 to be less strict
     common_foods = exploded_df.groupby('foods')['year_week'].nunique()
     consistently_popular = common_foods[common_foods >= popular_threshold].index.tolist()
     
     # Dictionary to store unique foods by week
     unique_weekly_foods = {}
     
-    # Process each week
+    # Process each week with adaptive thresholds
     for i, current_week in enumerate(all_weeks):
-        # Skip the first weeks since we need previous weeks for comparison
-        if i < comparison_weeks:
-            unique_weekly_foods[current_week] = []
-            continue
-        
         # Get previous weeks for comparison
-        previous_weeks = all_weeks[max(0, i-comparison_weeks):i]
+        if i < comparison_weeks:
+            # For the first few weeks, use available weeks (even if fewer than requested)
+            # and include current week in the overall counts for comparison
+            previous_weeks = all_weeks[:i]  # This will be empty for i=0 (first week)
+        else:
+            previous_weeks = all_weeks[max(0, i-comparison_weeks):i]
         
         # Get foods for current week
         current_week_foods = all_food_counts[all_food_counts['year_week'] == current_week]
         
-        # Filter out foods that don't meet minimum mention threshold
-        current_week_foods = current_week_foods[current_week_foods['count'] >= min_mentions]
-        
         # Skip consistently popular foods
         current_week_foods = current_week_foods[~current_week_foods['foods'].isin(consistently_popular)]
         
-        # If no foods meet the criteria, try a lower threshold temporarily for this week
-        if current_week_foods.empty:
-            current_week_foods = all_food_counts[
-                (all_food_counts['year_week'] == current_week) & 
-                (all_food_counts['count'] >= 1)
-            ]
-            current_week_foods = current_week_foods[~current_week_foods['foods'].isin(consistently_popular)]
+        # For the first week (when previous_weeks is empty), identify top mentioned foods
+        if i == 0 or not previous_weeks:
+            # No previous weeks to compare, just take top mentioned foods
+            top_foods = current_week_foods.nlargest(10, 'count')
+            unique_foods = [(row['foods'], row['count'], 100.0) for _, row in top_foods.iterrows()]
+            unique_weekly_foods[current_week] = unique_foods
+            continue
         
-        # For each food in current week, check if it's unique to this week
+        # For other weeks, use adaptive thresholds
+        thresholds = [(3, 60), (2, 50), (1, 40)]  # (min_mentions, threshold_pct)
         unique_foods = []
-        for _, row in current_week_foods.iterrows():
-            food = row['foods']
-            current_count = row['count']
+        
+        for min_mentions, threshold_pct in thresholds:
+            # Apply current threshold
+            filtered_foods = current_week_foods[current_week_foods['count'] >= min_mentions]
             
-            # Get counts for this food in previous weeks
-            previous_counts = all_food_counts[
-                (all_food_counts['foods'] == food) & 
-                (all_food_counts['year_week'].isin(previous_weeks))
-            ]['count'].sum()
-            
-            # Calculate what percentage of mentions are in current week vs previous weeks
-            total_mentions = current_count + previous_counts
-            if total_mentions == 0:
-                continue
+            for _, row in filtered_foods.iterrows():
+                food = row['foods']
+                current_count = row['count']
                 
-            current_percentage = (current_count / total_mentions) * 100
-            
-            # Lower the threshold for weeks with little data to ensure some results
-            week_threshold = threshold_pct
-            if len(current_week_foods) < 5:
-                week_threshold = max(40, threshold_pct - 20)
+                # Skip foods already identified as unique
+                if any(food == f[0] for f in unique_foods):
+                    continue
                 
-            # If current week accounts for at least threshold_pct% of mentions, consider it uniquely trending
-            if current_percentage >= week_threshold:
+                # Get counts for this food in previous weeks
+                previous_counts = all_food_counts[
+                    (all_food_counts['foods'] == food) & 
+                    (all_food_counts['year_week'].isin(previous_weeks))
+                ]['count'].sum()
+                
+                # Calculate percentage
+                total_mentions = current_count + previous_counts
+                if total_mentions == 0:
+                    continue
+                    
+                current_percentage = (current_count / total_mentions) * 100
+                
+                # Check if it meets threshold
+                if current_percentage >= threshold_pct:
+                    unique_foods.append((food, current_count, current_percentage))
+            
+            # If we have enough unique foods at this threshold, we're done
+            if len(unique_foods) >= 5:
+                break
+        
+        # If we still have no unique foods, get the most mentioned foods this week
+        if not unique_foods and not current_week_foods.empty:
+            top_foods = current_week_foods.nlargest(5, 'count')
+            for _, row in top_foods.iterrows():
+                food = row['foods'] 
+                current_count = row['count']
+                
+                # Get counts for this food in previous weeks
+                previous_counts = all_food_counts[
+                    (all_food_counts['foods'] == food) & 
+                    (all_food_counts['year_week'].isin(previous_weeks))
+                ]['count'].sum()
+                
+                # Calculate percentage (even if lower than threshold)
+                total_mentions = current_count + previous_counts
+                if total_mentions == 0:
+                    continue
+                
+                current_percentage = (current_count / total_mentions) * 100
                 unique_foods.append((food, current_count, current_percentage))
         
         # Sort unique foods by count and store in dictionary
@@ -707,10 +751,11 @@ def find_unique_weekly_foods(df, threshold_pct=60, min_mentions=2, comparison_we
     
     return unique_weekly_foods, week_display
 
-#----------------------
 @st.cache_data
-def prepare_unique_food_visualization_data(unique_foods_by_week, week_display, top_n=5):
-    """Prepare visualization data for unique foods without widgets"""
+
+
+def prepare_unique_food_visualization_data(unique_foods_by_week, week_display, top_n=10):
+    """Prepare visualization data for unique foods"""
     viz_data = []
     for week, foods in unique_foods_by_week.items():
         formatted_week = week_display[week]
@@ -744,44 +789,23 @@ def prepare_unique_food_visualization_data(unique_foods_by_week, week_display, t
     }
 
 def analyze_unique_weekly_foods(df):
-    """Visualize uniquely trending foods by week with simpler display"""
+    """Visualize uniquely trending foods by week with simplified controls"""
     st.markdown("<h2 class='sub-header'>Các Món Ăn Nổi Bật Theo Tuần</h2>", unsafe_allow_html=True)
     
-    col1, col2, col3 = st.columns(3)
-    
+    col1, col2 = st.columns([1, 2])  # Adjust ratio as needed (1:2 means the slider takes 1/3 of the width)
     with col1:
-        threshold_pct = st.slider(
-            "Ngưỡng phần trăm (%):",
-            min_value=40,
-            max_value=80,
-            value=60,  # Lower default threshold to get more results
-            help="Phần trăm tối thiểu của đề cập xuất hiện trong tuần hiện tại so với các tuần trước đó"
-        )
-    
-    with col2:
-        min_mentions = st.slider(
-            "Số lượng đề cập tối thiểu:",
-            min_value=1,
-            max_value=10,
-            value=2,  # Lower default threshold
-            help="Số lượng đề cập tối thiểu để được xem xét"
-        )
-    
-    with col3:
         comparison_weeks = st.slider(
             "Số tuần so sánh:",
             min_value=1,
             max_value=8,
             value=3,
-            help="Số tuần trước đó để so sánh"
+            help="Số tuần trước đó để so sánh khi xác định món ăn nổi bật"
         )
     
     with st.spinner("Đang phân tích dữ liệu..."):
-        # Get cached unique foods data with formatted week display
+        # Get cached unique foods data with adaptive thresholds
         unique_foods_by_week, week_display = find_unique_weekly_foods(
             df,
-            threshold_pct=threshold_pct,
-            min_mentions=min_mentions,
             comparison_weeks=comparison_weeks
         )
         
@@ -789,11 +813,11 @@ def analyze_unique_weekly_foods(df):
         viz_data_container = prepare_unique_food_visualization_data(
             unique_foods_by_week, 
             week_display,
-            top_n=10  # Increase to get more foods per week
+            top_n=10
         )
         
         if viz_data_container is None or viz_data_container['viz_df'].empty:
-            st.warning("Không có đủ dữ liệu để hiển thị món ăn nổi bật với các tham số đã chọn.")
+            st.warning("Không có đủ dữ liệu để hiển thị món ăn nổi bật.")
             return
         
         viz_df = viz_data_container['viz_df']
@@ -801,7 +825,7 @@ def analyze_unique_weekly_foods(df):
 
     # Show week selector
     if not weeks_with_data:
-        st.warning("Không tìm thấy tuần nào có món ăn nổi bật với các tham số đã chọn.")
+        st.warning("Không tìm thấy tuần nào có món ăn nổi bật.")
         return
 
     # Format all weeks for display in the dropdown
@@ -817,14 +841,46 @@ def analyze_unique_weekly_foods(df):
     week_to_display = {k: v for k, v in all_formatted_weeks}
     display_to_week = {v: k for k, v in all_formatted_weeks}
     
-    # Show dropdown with formatted week values
-    formatted_weeks = [week_to_display[w] for w in sorted(df['year_week'].unique())]
-    selected_display = st.selectbox(
+    # # Show dropdown with formatted week values
+    # formatted_weeks = [week_to_display[w] for w in sorted(df['year_week'].unique())]
+    # selected_display = st.selectbox(
+    #     "Chọn tuần để phân tích:",
+    #     formatted_weeks,
+    #     index=min(len(formatted_weeks)-1, 0)  # Default to most recent week
+    # )
+    # Show dropdown with formatted week values in a more user-friendly format
+    formatted_weeks_display = []
+    formatted_to_original = {}
+
+    for w in sorted(df['year_week'].unique()):
+        # Get the existing Y2024_W27 format
+        original_format = week_to_display[w]
+        
+        # Extract year and week numbers from the original format
+        if '_W' in original_format:
+            year_part = original_format.split('_W')[0].replace('Y', '')
+            week_part = original_format.split('_W')[1]
+            
+            # Create the new user-friendly format
+            user_friendly_format = f"Năm {year_part} - Tuần {int(week_part):02d}"
+            
+            # Store in our lists
+            formatted_weeks_display.append(user_friendly_format)
+            formatted_to_original[user_friendly_format] = original_format
+        else:
+            # Handle any edge cases where the format is different
+            formatted_weeks_display.append(original_format)
+            formatted_to_original[original_format] = original_format
+
+    # Use the new user-friendly format in the selectbox
+    selected_display_friendly = st.selectbox(
         "Chọn tuần để phân tích:",
-        formatted_weeks,
-        index=min(len(formatted_weeks)-1, 0)  # Default to most recent week
+        formatted_weeks_display,
+        index=min(len(formatted_weeks_display)-1, 0)  # Default to most recent week
     )
-    
+
+    # Convert back to the original format for processing
+    selected_display = formatted_to_original.get(selected_display_friendly)
     # Convert display format back to the actual week value
     selected_year_week = display_to_week.get(selected_display)
     
@@ -833,8 +889,11 @@ def analyze_unique_weekly_foods(df):
     
     with col1:
         # Create a formatted header for the week
-        week_header = f"Món ăn nổi bật trong Tuần {week_to_display[selected_year_week]}"
+        selected_week_friendly = formatted_weeks_display[formatted_weeks_display.index(selected_display_friendly)]
+        week_header = f"Món ăn nổi bật trong {selected_week_friendly}"
         st.markdown(f"##### {week_header}")
+        # week_header = f"Món ăn nổi bật trong Tuần {week_to_display[selected_year_week]}"
+        # st.markdown(f"##### {week_header}")
         
         # Get foods for selected week
         week_foods = []
@@ -842,17 +901,17 @@ def analyze_unique_weekly_foods(df):
             week_foods = unique_foods_by_week[selected_year_week]
         
         if not week_foods:
-            st.info("Không có món ăn nổi bật nào trong tuần này với các tham số đã chọn.")
+            st.info("Không có món ăn nổi bật nào trong tuần này.")
         else:
             # Create a simple list of foods with count and percentage
-            for i, (food, count, percentage) in enumerate(week_foods[:15], 1):
+            for i, (food, count, percentage) in enumerate(week_foods[:10], 1):
                 st.markdown(
-                    f"**{i}. {food}** - {count} đề cập ({percentage:.1f}%)"
+                    f"**{i}. {proper_capitalize(food)}**"
                 )
     
     with col2:
         # Show a preview of other weeks' unique foods
-        st.markdown("##### Xem trước các tuần khác")
+        st.markdown("##### Xem thông tin các tuần gần nhất")
         
         # Create tabs for nearby weeks
         all_weeks = sorted(unique_foods_by_week.keys())
@@ -864,9 +923,22 @@ def analyze_unique_weekly_foods(df):
             end_idx = min(len(all_weeks), current_idx + 3)
             nearby_weeks = all_weeks[start_idx:end_idx]
             
-            # Create a tab for each nearby week
+            # Create a tab for each nearby week with shorter format
             if nearby_weeks:
-                tabs = st.tabs([week_to_display.get(w, w) for w in nearby_weeks])
+                # Create short format display for tabs
+                short_format_tabs = []
+                for w in nearby_weeks:
+                    original_format = week_to_display.get(w, w)
+                    if '_W' in original_format:
+                        year_part = original_format.split('_W')[0].replace('Y', '')
+                        week_part = original_format.split('_W')[1]
+                        # Create the shorter format: N2023_T50
+                        short_format = f"N{year_part}_T{int(week_part):02d}"
+                        short_format_tabs.append(short_format)
+                    else:
+                        short_format_tabs.append(original_format)
+                
+                tabs = st.tabs(short_format_tabs)
                 
                 for i, week in enumerate(nearby_weeks):
                     with tabs[i]:
@@ -875,228 +947,11 @@ def analyze_unique_weekly_foods(df):
                             # Show top 5 foods for each week in preview
                             for j, (food, count, percentage) in enumerate(week_foods[:5], 1):
                                 st.markdown(
-                                    f"**{j}. {food}** - {count} đề cập ({percentage:.1f}%)"
+                                    f"**{j}. {proper_capitalize(food)}**"
                                 )
                         else:
                             st.info("Không có món ăn nổi bật.")
-    
-    # Improved heatmap visualization for weekly food trends
-    if len(weeks_with_data) > 1:
-        st.markdown("##### Món ăn nổi bật theo tuần")
-        
-        # Create heatmap data
-        if not viz_df.empty:
-            # Create tabs for different visualization options
-            heat_tabs = st.tabs(["Heatmap Tối Ưu", "Heatmap Đầy Đủ", "Biểu Đồ Bubble", "Bảng Dữ Liệu"])
-            
-            with heat_tabs[0]:
-                # ENHANCED HEATMAP - Optimized for visualization
-                
-                # 1. Filter foods that appear in at least 2 weeks for more meaningful trends
-                food_week_counts = viz_df.groupby('food')['week'].nunique()
-                multi_week_foods = food_week_counts[food_week_counts >= 1].index.tolist()
-                
-                # 2. Get top foods by total mentions across all weeks
-                top_foods_overall = viz_df.groupby('food')['count'].sum().nlargest(15).index.tolist()
-                
-                # 3. Combine multi-week and top foods, prioritizing multi-week foods
-                target_foods = list(set(multi_week_foods + top_foods_overall))[:15]
-                
-                # Create optimized heatmap data
-                opt_viz_df = viz_df[viz_df['food'].isin(target_foods)]
-                
-                if not opt_viz_df.empty:
-                    # Pivot and handle column naming
-                    opt_heatmap = opt_viz_df.pivot_table(
-                        index='food',
-                        columns='week',
-                        values='count',
-                        aggfunc='sum',
-                        fill_value=0
-                    )
-                    
-                    # Format column names 
-                    column_mapping = {col: week_to_display.get(col, col) for col in opt_heatmap.columns}
-                    opt_heatmap = opt_heatmap.rename(columns=column_mapping)
-                    
-                    # Add sorting for more intuitive display
-                    row_totals = opt_heatmap.sum(axis=1)
-                    opt_heatmap = opt_heatmap.loc[row_totals.sort_values(ascending=False).index]
-                    
-                    # Create enhanced heatmap
-                    fig = px.imshow(
-                        opt_heatmap,
-                        labels=dict(x="Tuần", y="Món ăn", color="Số lượng đề cập"),
-                        title="Heatmap món ăn nổi bật theo tuần (Được tối ưu cho khả năng hiển thị)",
-                        color_continuous_scale="RdBu_r",  # Better color scale
-                        aspect="auto"  # Better aspect ratio
-                    )
-                    
-                    # Better axis formatting
-                    fig.update_xaxes(
-                        title="Tuần",
-                        tickangle=45,  # Less extreme angle
-                        tickmode='array',
-                        tickvals=list(range(len(opt_heatmap.columns))),
-                        ticktext=opt_heatmap.columns
-                    )
-                    
-                    # Show values in cells
-                    fig.update_traces(
-                        text=opt_heatmap.values,
-                        texttemplate="%{text}",
-                        textfont={"size": 12}
-                    )
-                    
-                    fig.update_layout(
-                        height=500,
-                        margin=dict(l=100, r=20, t=50, b=80)
-                    )
-                    
-                    st.plotly_chart(fig, use_container_width=True)
-                    
-                    # Add interpretation guidance
-                    st.info("💡 Màu càng đậm thể hiện món ăn được đề cập nhiều hơn. Heatmap này chỉ hiển thị các món nổi bật nhất và được đề cập trong nhiều tuần.")
-                else:
-                    st.warning("Không đủ dữ liệu để tạo biểu đồ heatmap tối ưu.")
-            
-            with heat_tabs[1]:
-                # ORIGINAL FULL HEATMAP (with minor improvements)
-                # Pivot for heatmap
-                heatmap_data = viz_df.pivot_table(
-                    index='food',
-                    columns='week',
-                    values='count',
-                    aggfunc='sum',
-                    fill_value=0
-                )
-                
-                # Create a mapping for pretty column names (formatted weeks)
-                column_mapping = {col: week_to_display.get(col, col) for col in heatmap_data.columns}
-                heatmap_data = heatmap_data.rename(columns=column_mapping)
-                
-                # Get top foods overall for better visualization
-                top_foods = viz_df.groupby('food')['count'].sum().nlargest(20).index
-                if len(top_foods) > 0:
-                    heatmap_data = heatmap_data.loc[heatmap_data.index.isin(top_foods)]
-                    
-                    # Create heatmap visualization using plotly
-                    fig = px.imshow(
-                        heatmap_data,
-                        labels=dict(x="Tuần", y="Món ăn", color="Số lượng đề cập"),
-                        title="Heatmap đầy đủ các món ăn nổi bật theo tuần",
-                        color_continuous_scale="Blues"
-                    )
-                    
-                    fig.update_xaxes(
-                        title="Tuần",
-                        tickangle=90,
-                        tickmode='array',
-                        tickvals=list(range(len(heatmap_data.columns))),
-                        ticktext=heatmap_data.columns
-                    )
-                    
-                    fig.update_layout(height=600)
-                    
-                    st.plotly_chart(fig, use_container_width=True)
-                else:
-                    st.warning("Không đủ dữ liệu để tạo biểu đồ heatmap.")
-            
-            with heat_tabs[2]:
-                # BUBBLE CHART - Alternative visualization better for sparse data
-                # Prepare data
-                bubble_data = viz_df.copy()
-                
-                # Add formatted week display
-                bubble_data['week_display'] = bubble_data['week'].map(week_to_display)
-                
-                # Sort by count for better display
-                bubble_data = bubble_data.sort_values('count', ascending=False)
-                
-                # Limit to top 12 foods by total mentions
-                top_bubble_foods = bubble_data.groupby('food')['count'].sum().nlargest(12).index.tolist()
-                bubble_data = bubble_data[bubble_data['food'].isin(top_bubble_foods)]
-                
-                # Create bubble chart
-                fig = px.scatter(
-                    bubble_data,
-                    x='week_display',
-                    y='food',
-                    size='count',
-                    color='percentage',  # Use percentage for color
-                    size_max=40,  # Maximum bubble size
-                    hover_name='food',
-                    hover_data={
-                        'count': True,
-                        'percentage': ':.1f%',
-                        'week_display': False,
-                        'food': False
-                    },
-                    labels={
-                        'week_display': 'Tuần',
-                        'food': 'Món ăn',
-                        'count': 'Số lượng đề cập',
-                        'percentage': 'Phần trăm (%)'
-                    },
-                    color_continuous_scale='Viridis',
-                    title='Biểu đồ bubble thể hiện món ăn nổi bật theo tuần'
-                )
-                
-                # Adjust layout
-                fig.update_layout(
-                    xaxis=dict(title='Tuần'),
-                    yaxis=dict(title='Món ăn'),
-                    height=500,
-                    coloraxis_colorbar=dict(title='Phần trăm (%)')
-                )
-                
-                # Customize hover template
-                fig.update_traces(
-                    hovertemplate='<b>%{hovertext}</b><br>Tuần: %{x}<br>Số lượng: %{customdata[0]}<br>Phần trăm: %{customdata[1]}%<extra></extra>'
-                )
-                
-                st.plotly_chart(fig, use_container_width=True)
-                st.info("💡 Kích thước bong bóng thể hiện số lượng đề cập, màu sắc thể hiện phần trăm tập trung trong tuần đó. Biểu đồ này hiển thị tốt hơn với dữ liệu thưa.")
-            
-            with heat_tabs[3]:
-                # DATA TABLE VIEW - For those who prefer raw data
-                st.subheader("Bảng dữ liệu món ăn theo tuần")
-                
-                # Create a pivot table with formatted values
-                pivot_table = viz_df.pivot_table(
-                    index='food',
-                    columns='week',
-                    values='count',
-                    aggfunc='sum',
-                    fill_value=0
-                )
-                
-                # Format column names
-                pivot_table = pivot_table.rename(columns=week_to_display)
-                
-                # Add total column
-                pivot_table['Tổng đề cập'] = pivot_table.sum(axis=1)
-                
-                # Sort by total mentions
-                pivot_table = pivot_table.sort_values('Tổng đề cập', ascending=False)
-                
-                # Format for display
-                display_table = pivot_table.copy()
-                
-                # Display the table
-                st.dataframe(display_table, use_container_width=True)
-                
-                # Add download option
-                csv = pivot_table.to_csv().encode('utf-8')
-                st.download_button(
-                    label="Tải xuống dữ liệu dưới dạng CSV",
-                    data=csv,
-                    file_name="food_trends_by_week.csv",
-                    mime="text/csv",
-                )
-        else:
-            st.warning("Không có đủ dữ liệu để tạo biểu đồ với các tham số đã chọn.")
-# Main app
+    # Main app
 def main():
     """Main application function"""
     
