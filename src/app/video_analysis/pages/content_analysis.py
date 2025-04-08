@@ -74,7 +74,12 @@ class TikTokContentAnalysis:
             'mean_hashtag_count': (df['hashtag_count'].mean()),
             'hashtag_count_min_q': hashtag_count_Q1,
             'hashtag_count_max_q': hashtag_count_Q3,
-
+            'mean_view_count': df['statsV2.playCount'].mean(),
+            'mean_like_count': df['statsV2.diggCount'].mean(),
+            'mean_comment_count': df['statsV2.commentCount'].mean(),
+            'mean_share_count': df['statsV2.shareCount'].mean(),
+            'mean_collect_count': df['statsV2.collectCount'].mean(),
+            'mean_engagement_rate': df['engagement_rate'].mean(),
         }
 
         # Get top hashtags
@@ -138,12 +143,14 @@ class TikTokContentAnalysis:
             # col0, col01, col02 = st.columns([1, 1, 1])
             with col0:
                 st.metric(
-                    "Số lượng video", f"{len(self.filtered_df):,}")
-                # st.metric(
-                #     "Thời lượng", f"{int(stats['mean_duration']//60)} phút {int(stats['mean_duration']%60)} giây")
+                    ":material/movie: Số lượng video", f"{len(self.filtered_df):,}")
+                st.metric(
+                    ":material/visibility: Lượt xem", f"{int(stats['mean_view_count']):,}")
             with col01:
                 st.metric(
-                    "Số lượng TikToker", f"{(self.filtered_df['author.uniqueId'].nunique()):,}")
+                    ":material/person_pin_circle: Số lượng TikToker", f"{(self.filtered_df['author.uniqueId'].nunique()):,}")
+                st.metric(
+                    ":material/thumb_up: Lượt thích", f"{int(stats['mean_like_count']):,}")
                 # st.metri(
                 #     "Số lượcng hashtag", f"{int(stats['hashtag_count_min_q'])} - {int(stats['hashtag_count_max_q'])}")
             # with col02:
@@ -153,17 +160,23 @@ class TikTokContentAnalysis:
                 #           f"{round(stats['mean_word_per_second'],1)} từ/giây")
             with col1:
                 st.metric(
-                    "Thời lượng", f"{int(stats['mean_duration']//60)} phút {int(stats['mean_duration']%60)} giây")
+                    ":material/schedule: Thời lượng", f"{int(stats['mean_duration']//60)} phút {int(stats['mean_duration']%60)} giây")
+                st.metric(
+                    ":material/chat_bubble_outline: Lượt bình luận", f"{int(stats['mean_comment_count']):,}")
                 # st.metric(
                 #     "Followers", f"{user_info['authorStats.followerCount']:,}")
             with col2:
                 st.metric(
-                    "Số lượng hashtag", f"{int(stats['hashtag_count_min_q'])} - {int(stats['hashtag_count_max_q'])}")
+                    ":material/tag: Số lượng hashtag", f"{int(stats['hashtag_count_min_q'])} - {int(stats['hashtag_count_max_q'])}")
+                st.metric(
+                    ":material/share: Lượt chia sẻ", f"{int(stats['mean_share_count']):,}")
                 # st.metric("Total Likes",
                 #           f"{user_info['authorStats.heartCount']:,}")
             with col3:
-                st.metric("Mật độ từ ngữ",
+                st.metric(":material/article: Mật độ từ ngữ",
                           f"{round(stats['mean_word_per_second'],1)} từ/giây")
+                st.metric(
+                    ":material/save: Lượt lưu", f"{int(stats['mean_collect_count']):,}")
                 # st.metric("Total Videos",
                 #           f"{user_info['authorStats.videoCount']:,}")
 
