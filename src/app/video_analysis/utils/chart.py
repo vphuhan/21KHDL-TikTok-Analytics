@@ -72,7 +72,7 @@ def plot_bar_chart(df, field, metric, stat_type, color_map=None):
         },
         height=600
     )
-    fig.update_layout(showlegend=False, margin=dict(l=0, r=0, t=30, b=0),)
+    fig.update_layout(showlegend=False, margin=dict(l=0, r=0, t=80, b=0),)
     return fig
 
 
@@ -132,18 +132,18 @@ def plot_radar_chart(df, field, metrics, selected_label=None, color_map=None):
 
         margin=dict(
             l=40, r=40,
-            t=60,
+            t=80,
             b=100  # Đủ chỗ cho legend khi nhiều label
         ),
 
-        # legend=dict(
-        #     orientation="h",
-        #     yanchor="right",
-        #     y=-0.25,  # Nếu bị tràn thì giảm xuống -0.3 hoặc -0.4
-        #     xanchor="center",
-        #     x=0.5,
-        #     font=dict(size=12)
-        # ),
+        legend=dict(
+            orientation="h",
+            yanchor="bottom",
+            y=-0.25,  # Nếu bị tràn thì giảm xuống -0.3 hoặc -0.4
+            xanchor="center",
+            x=0.5,
+            font=dict(size=12)
+        ),
 
         polar=dict(
             radialaxis=dict(
@@ -161,7 +161,8 @@ def plot_radar_chart(df, field, metrics, selected_label=None, color_map=None):
 
         template="plotly_white",
         showlegend=True,
-        title=" vs. ".join(selected_label) if selected_label else "Tổng thể"
+        title="Hiệu suất tương tác của " +
+        (COLUMN_LABELS[field] if field else "Tổng thể")
     )
 
     return fig

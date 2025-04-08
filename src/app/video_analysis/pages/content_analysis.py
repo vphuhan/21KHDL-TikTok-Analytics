@@ -221,36 +221,26 @@ class TikTokContentAnalysis:
         """Display performance metrics section with charts"""
 
         # Create two columns for charts
-        col1, col2 = st.columns(2)
+        self.selected_field = st.selectbox(
+            "Chọn :red[**trường**] cần hiển thị biểu đồ:",
+            options=self.fields_to_analyze,
+            format_func=lambda x: COLUMN_LABELS.get(x, x),
+        )
 
-        # with col1:
-        self.display_bar_chart(col1)
+        col1, col2 = st.columns([3, 2])
 
-        # with col2:
-        # self.display_radar_chart(col2)
+        with col1:
+            self.display_bar_chart(col1)
+
+        with col2:
+            self.display_radar_chart()
 
     def display_bar_chart(self, container):
         """Display bar chart with controls"""
         # Performance metric selection
-        # with st.container(border=True):
-
-        col1, col2 = st.columns([2, 1])
-        with col2:
-            # Field selection
-            st.write("")
-            st.write("")
-            # st.write("")
-            # st.write("")
-            # st.write("")
-            # st.write("")
-            with st.container(border=True):
-
-                self.selected_field = st.selectbox(
-                    "Chọn :red[**trường**] cần hiển thị biểu đồ:",
-                    options=self.fields_to_analyze,
-                    format_func=lambda x: COLUMN_LABELS.get(x, x),
-                )
-
+        with st.container(border=True, height=730):
+            col11, col12 = st.columns([1, 1])
+            with col12:
                 # Generate color map for consistency across charts
                 labels = self.filtered_df[self.selected_field].explode(
                 ).dropna().unique().tolist()
@@ -258,22 +248,21 @@ class TikTokContentAnalysis:
                 # st.markdown(
                 #     f"#### Hiệu suất tương tác theo {COLUMN_LABELS.get(self.selected_field, self.selected_field)}")
 
+                # Statistic type selection
+                stat_type = st.radio(
+                    "Loại :red[**thống kê**]:",
+                    options=list(STAT_TYPES.keys()),
+                    format_func=lambda x: STAT_TYPES.get(x, x),
+                    horizontal=True, label_visibility="visible"
+                )
+
+            with col11:
                 selected_metric = st.selectbox(
                     "Chỉ số :red[**hiệu suất**]:",
                     options=list(COLUMN_METRICS.keys()),
                     format_func=lambda x: COLUMN_METRICS.get(x, x)
                 )
 
-                # Statistic type selection
-                stat_type = st.radio(
-                    "Loại :red[**thống kê**]:",
-                    options=list(STAT_TYPES.keys()),
-                    format_func=lambda x: STAT_TYPES.get(x, x),
-                    horizontal=False
-                )
-
-        # Generate and display bar chart
-        with col1:
             # with st.container(border=True):
             fig = plot_bar_chart(
                 self.filtered_df,
@@ -287,7 +276,7 @@ class TikTokContentAnalysis:
                 st.plotly_chart(
                     fig, use_container_width=True, key="bar_chart")
 
-    def display_radar_chart(self, container):
+    def display_radar_chart(self):
         """Display radar chart with controls"""
         # Prepare data for radar chart
         exploded = self.filtered_df.copy()
@@ -296,28 +285,29 @@ class TikTokContentAnalysis:
         labels = exploded[self.selected_field].unique()
 
         # Label selection for radar chart
-        selected_labels = st.multiselect(
-            "Chọn label để hiển thị radar chart:",
-            labels,
-            default=None
-        )
+        with st.container(border=True, height=730):
+            selected_labels = st.multiselect(
+                f"Chọn kiểu :red[**{COLUMN_LABELS[self.selected_field]}**]:",
+                labels,
+                default=None
+            )
 
-        # Prepare metrics for radar chart (exclude engagement_rate)
-        display_metrics = COLUMN_METRICS.copy()
-        display_metrics.pop('engagement_rate', None)
+            # Prepare metrics for radar chart (exclude engagement_rate)
+            display_metrics = COLUMN_METRICS.copy()
+            display_metrics.pop('engagement_rate', None)
 
-        # Generate and display radar chart
-        radar_fig = plot_radar_chart(
-            self.filtered_df,
-            self.selected_field,
-            metrics=list(display_metrics.keys()),
-            selected_label=selected_labels,
-            color_map=self.color_map
-        )
+            # Generate and display radar chart
+            radar_fig = plot_radar_chart(
+                self.filtered_df,
+                self.selected_field,
+                metrics=list(display_metrics.keys()),
+                selected_label=selected_labels,
+                color_map=self.color_map
+            )
 
-        if radar_fig:
-            st.plotly_chart(radar_fig, use_container_width=True,
-                            key="radar_chart")
+            if radar_fig:
+                st.plotly_chart(radar_fig, use_container_width=True,
+                                key="radar_chart")
 
     def display_duration_histogram(self):
         """Display a histogram of video durations."""
