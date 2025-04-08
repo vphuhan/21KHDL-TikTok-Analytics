@@ -72,8 +72,8 @@ def proper_capitalize(text):
 # Function to load and cache data
 @st.cache_data(ttl=3600)
 def load_data():
-    file_path = "C:/Users/nguye/OneDrive/Tài liệu/GitHub/21KHDL-TikTok-Analytics/notebooks/extract_food_location/final.parquet"
-    # file_path = "src/app/trend_analysis/final.parquet"
+    # file_path = "C:/Users/nguye/OneDrive/Tài liệu/GitHub/21KHDL-TikTok-Analytics/notebooks/extract_food_location/final.parquet"
+    file_path = "src/app/trend_analysis/final.parquet"
     df = pd.read_parquet(file_path)
     return df
 # Load data
