@@ -1,13 +1,27 @@
-- Các cột cần trích xuất:
-  - Audio-to-text
-  - Language detector
-  - Description
+# Cách chạy app
+
+- Đứng ở root folder:
+
+```bash
+pip install -r requirements.txt
+streamlit run src/app/streamlit_app.py
+```
 
 # 21KHDL-TikTok-Analytics
 
 - Lịch họp cố định:
   - 14h T3 hàng tuần
   - 14h T6 hàng tuần
+
+# Insights phân tích dashboard
+
+## Lực
+
+- Số lượt `follower` tương quan thuận với lượt `heart`
+
+## Tín
+
+- Tập dữ liệu có 70 tuần, mỗi tuần nhóm sẽ trích ra top 20% video có điểm số cao nhất để tiến hành phân tích các món ăn và địa điểm được để cập trong video. 
 
 # TODO: Lịch họp giai đoạn cuối
 
