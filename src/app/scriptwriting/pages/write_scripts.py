@@ -150,13 +150,14 @@ class ScriptGenerator:
                 duration = stats['mean_duration']
 
             word_count = int(stats['mean_word_per_second'] * duration)
-            # max_output_tokens = int(word_count * 1.5)
-            max_output_tokens = 2000000
+            max_output_tokens = int(word_count * 1.5)
+            # max_output_tokens = 2000000
 
             # Adjusted for better performance
             print(f"Duration: {duration}")
             print(f"Max Word Count: {word_count}")
             print(f"Max Output Token: {max_output_tokens}")
+            print(stats['mean_word_per_second'])
 
         st.success("🧠 Mô tả đã được giải mã!")
 
@@ -189,11 +190,11 @@ class ScriptGenerator:
     def _calculate_statistics(self, filtered_df, filter_cat_df):
         """Calculate statistics from filtered dataframes"""
         stats = {
-            'mean_word_count': int(filtered_df['transcript_word_count'].mean()),
-            'mean_duration': int(filtered_df['video.duration'].mean()),
-            'mean_word_per_second': filtered_df['word_per_second'].mean(),
-            'mean_hashtag_count': int(filtered_df['hashtag_count'].mean()),
-            'mean_desc_word_count': int(filtered_df['desc_word_count'].mean()),
+            'mean_word_count': int(filtered_df['transcript_word_count'].median()),
+            'mean_duration': int(filtered_df['video.duration'].median()),
+            'mean_word_per_second': filtered_df['word_per_second'].median(),
+            'mean_hashtag_count': int(filtered_df['hashtag_count'].median()),
+            'mean_desc_word_count': int(filtered_df['desc_word_count'].median()),
         }
 
         # Get top hashtags

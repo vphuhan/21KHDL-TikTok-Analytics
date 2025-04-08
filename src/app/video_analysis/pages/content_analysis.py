@@ -213,9 +213,9 @@ class TikTokContentAnalysis:
             # Display scatter plot
             self.display_scatter_plot()
 
-        st.subheader("Về thời điểm đăng video")
-        # Display heatmap
-        self.display_heatmap_day_hour()
+        # st.subheader("Về thời điểm đăng video")
+        # # Display heatmap
+        # self.display_heatmap_day_hour()
 
     def display_performance_metrics(self):
         """Display performance metrics section with charts"""
