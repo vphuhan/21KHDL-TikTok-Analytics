@@ -1,5 +1,6 @@
 import streamlit as st
 import plotly.express as px
+import plotly.graph_objects as go
 import pandas as pd
 from user_analysis.utils.styles import personal_styles
 from user_analysis.utils.footer import display_footer
@@ -15,8 +16,123 @@ with st.spinner("Đang tải dữ liệu TikTok..."):
     st.session_state['cleaned_video_info_df'] = cleaned_video_info_df
     st.session_state['cleaned_script_df'] = cleaned_script_df
 
+@st.cache_data
+def calculate_metrics(video_df):
+    """
+    Tính toán các chỉ số từ dữ liệu video.
+    """
+    # Kiểm tra dữ liệu đầu vào
+    required_cols = ['statsV2.playCount', 'statsV2.diggCount', 'statsV2.commentCount', 'statsV2.shareCount', 'authorStats.followerCount']
+    if video_df.empty or not all(col in video_df.columns for col in required_cols):
+        return None
 
-def analyze_scripts(data_df, title="🍳 Phân tích kịch bản", user_context="người dùng được chọn"):
+    # Tính trung bình các chỉ số
+    total_views = video_df['statsV2.playCount'].sum()
+    total_likes = video_df['statsV2.diggCount'].sum()
+    total_comments = video_df['statsV2.commentCount'].sum()
+    total_shares = video_df['statsV2.shareCount'].sum()
+    total_followers = video_df['authorStats.followerCount'].iloc[0]  # Giả định follower count không thay đổi
+    number_video = len(video_df)
+
+    # Tính các tỷ lệ (%):
+    views_per_follower = (total_views / total_followers / number_video * 100) if total_followers > 0 else 0
+    likes_per_view = (total_likes / total_views * 100) if total_views > 0 else 0
+    comments_per_view = (total_comments / total_views * 100) if total_views > 0 else 0
+    shares_per_view = (total_shares / total_views * 100) if total_views > 0 else 0
+    engagement_rate = ((likes_per_view + comments_per_view + shares_per_view + views_per_follower) / 4)
+
+    return {
+        "views_per_follower": views_per_follower,
+        "likes_per_view": likes_per_view,
+        "comments_per_view": comments_per_view,
+        "shares_per_view": shares_per_view,
+        "engagement_rate": engagement_rate
+    }
+
+def determine_level(value, ref_range):
+    if value < ref_range[0]:
+        return "Thấp"
+    elif ref_range[0] <= value <= ref_range[1]:
+        return "Trung bình"
+    else:
+        return "Cao"
+
+def display_dynamic_metrics_dashboard(video_df):
+    metrics_calculated = calculate_metrics(video_df)
+    if metrics_calculated is None:
+        st.error("Không thể tính toán chỉ số do dữ liệu trống hoặc thiếu cột cần thiết.")
+        return
+
+    # Thông tin các chỉ số
+    metric_definitions = [
+        {"name": "Tỷ lệ tương tác", "key": "engagement_rate", "reference_range": [6, 11.23]},
+        {"name": "Lượt xem / Lượt theo dõi", "key": "views_per_follower", "reference_range": [0.8, 7.56]},
+        {"name": "Lượt likes / Lượt xem", "key": "likes_per_view", "reference_range": [6.6, 10.37]},
+        {"name": "Lượt bình luận / Lượt xem", "key": "comments_per_view", "reference_range": [0.03, 0.05]},
+        {"name": "Lượt chia sẻ / Lượt xem", "key": "shares_per_view", "reference_range": [0.03, 0.08]},
+    ]
+
+    color_map = {
+        "Cao": "#387F39",
+        "Trung bình": "#A2CA71",
+        "Thấp": "#BEDC74"
+    }
+
+    st.markdown(
+        """
+        <div style='display: flex; align-items: center;'>
+            <h3 style='margin-right: 10px;'>🟠 Số liệu chung</h3>
+        </div>
+        """,
+        unsafe_allow_html=True
+    )
+
+    cols = st.columns(5)
+    for idx, metric_def in enumerate(metric_definitions):
+        key = metric_def["key"]
+        value = round(metrics_calculated[key], 2)  # Giá trị đã là phần trăm từ calculate_metrics
+        ref_range = metric_def["reference_range"]
+        level = determine_level(value, ref_range)
+
+        with cols[idx]:
+            fig = go.Figure(go.Indicator(
+                mode="gauge+number",
+                value=value,
+                domain={'x': [0, 1], 'y': [0, 1]},
+                title={'text': metric_def["name"], 'font': {'size': 14}},
+                number={'valueformat': '.2f', 'suffix': '%'},  # Hiển thị số với định dạng phần trăm
+                gauge={
+                    'axis': {'range': [0, ref_range[1] * 1.5], 'tickformat': '.2f%'},  # Trục hiển thị phần trăm
+                    'bar': {'color': color_map[level]},
+                    
+                    'steps': [
+                        {'range': [0, ref_range[0]], 'color': '#FBFFE4'},
+                        {'range': ref_range, 'color': '#B3D8A8'},
+                        {'range': [ref_range[1], ref_range[1] * 1.5], 'color': '#FBFFE4'}
+                    ],
+                }
+            ))
+
+            fig.update_layout(
+                height=250,
+                margin=dict(l=20, r=20, t=50, b=20),
+                paper_bgcolor="rgba(0,0,0,0)",
+                font={'color': "#34495e"}
+            )
+
+            st.plotly_chart(fig, use_container_width=True)
+
+            st.markdown(
+                f"""
+                <div style='text-align: center;'>
+                    <p style='font-size: 20px; color: #41644A; font-weight: bold;'>{level}</p>
+                    <p style='font-size: 14px; color: #7f8c8d;'>Khoảng trung bình của giá trị này là: {ref_range[0]}% - {ref_range[1]}%</p>
+                </div>
+                """,
+                unsafe_allow_html=True
+            )
+
+def analyze_scripts(data_df, title="🔍 Phân tích kịch bản", user_context="người dùng được chọn"):
     """
     Phân tích các thuộc tính kịch bản và hiển thị thông tin chi tiết cho một DataFrame đã cho.
 
@@ -36,12 +152,47 @@ def analyze_scripts(data_df, title="🍳 Phân tích kịch bản", user_context
     """, unsafe_allow_html=True)
 
     # Tiêu đề và Giới thiệu
-    st.title(title)
+    st.subheader(title)
+
+    # Phân tích và visualize các trường bằng bar chart
+    fields_to_visualize = {
+        "main_content_focus": "Chủ đề chính",
+        "structure_style": "Phong cách nội dung",
+        "hook_type": "Loại móc câu",
+        "tone_of_voice": "Giọng điệu",
+        "pacing": "Tốc độ"
+    }
+    if not data_df.empty:
+        # ông sửa ở đây nè :
+        st.markdown("### Phân tích tổng quát")
+        for field, field_name in fields_to_visualize.items():
+            # Đếm tần suất các giá trị trong trường (explode vì dữ liệu có thể là danh sách)
+            value_counts = data_df[field].explode().value_counts().reset_index()
+            value_counts.columns = [field_name, "Số lượng"]
+
+            # Tạo bar chart
+            fig = px.bar(
+                value_counts,
+                x=field_name,
+                y="Số lượng",
+                text=value_counts["Số lượng"].apply(lambda x: f"{int(x):,}"),
+                template="plotly_white",
+                color=field_name,
+                color_discrete_sequence=px.colors.qualitative.Pastel
+            )
+            fig.update_traces(textposition="auto")
+            fig.update_layout(
+                showlegend=False,
+                height=400,
+                title=f"Phân phối {field_name}",
+                xaxis_title=field_name,
+                yaxis_title="Số lượng"
+            )
+            st.plotly_chart(fig, use_container_width=True)
+
+    # Dòng giới thiệu
     st.markdown(
         f"_Lọc và khám phá video với thông tin chi tiết cho {user_context}._")
-
-    # Bộ lọc
-    st.subheader("🔍 Lọc video")
     col1, col2, col3 = st.columns(3)
     with col1:
         selected_main_focus = st.multiselect("Chủ đề chính", data_df["main_content_focus"].explode().unique(),
@@ -56,7 +207,11 @@ def analyze_scripts(data_df, title="🍳 Phân tích kịch bản", user_context
     with col3:
         selected_pacing = st.multiselect("Tốc độ", data_df["pacing"].explode().unique(),
                                          help="Tốc độ trình bày.")
+        st.write(" ")
+        st.write(" ")
         reset_filters = st.button("Đặt lại bộ lọc")
+
+
 
     # Logic đặt lại bộ lọc
     if reset_filters:
@@ -93,23 +248,40 @@ def analyze_scripts(data_df, title="🍳 Phân tích kịch bản", user_context
         st.info(
             f"Hiển thị thông tin chi tiết cho {len(filtered_df)} video phù hợp.")
 
-        # Biểu đồ cột số liệu tương tác
-        st.markdown("### Tổng quan tương tác")
-        engagement_agg = filtered_df[["statsV2.playCount", "statsV2.diggCount", "statsV2.commentCount",
-                                      "statsV2.shareCount", "statsV2.collectCount"]].mean().reset_index()
-        engagement_agg.columns = ["Chỉ số", "Số lượng trung bình"]
-        engagement_agg["Chỉ số"] = ["Lượt xem",
-                                    "Lượt thích", "Bình luận", "Chia sẻ", "Lưu"]
-        fig_eng = px.bar(
-            engagement_agg, x="Chỉ số", y="Số lượng trung bình",
-            text=engagement_agg["Số lượng trung bình"].apply(
-                lambda x: f"{int(x):,}"),
-            template="plotly_white", color="Chỉ số", color_discrete_sequence=px.colors.qualitative.Pastel
-        )
-        fig_eng.update_traces(textposition="auto")
-        fig_eng.update_layout(showlegend=False, height=400)
-        st.plotly_chart(fig_eng, use_container_width=True)
+        display_dynamic_metrics_dashboard(filtered_df)
 
+
+        col1, col2 = st.columns(2)
+        with col1:
+            # Biểu đồ cột số liệu tương tác
+            st.markdown("### Tổng quan tương tác")
+            engagement_agg = filtered_df[["statsV2.playCount", "statsV2.diggCount", "statsV2.commentCount",
+                                        "statsV2.shareCount", "statsV2.collectCount"]].mean().reset_index()
+            engagement_agg.columns = ["Chỉ số", "Số lượng trung bình"]
+            engagement_agg["Chỉ số"] = ["Lượt xem",
+                                        "Lượt thích", "Bình luận", "Chia sẻ", "Lưu"]
+            fig_eng = px.bar(
+                engagement_agg, x="Chỉ số", y="Số lượng trung bình",
+                text=engagement_agg["Số lượng trung bình"].apply(
+                    lambda x: f"{int(x):,}"),
+                template="plotly_white", color="Chỉ số", color_discrete_sequence=px.colors.qualitative.Pastel
+            )
+            fig_eng.update_traces(textposition="auto")
+            fig_eng.update_layout(showlegend=False, height=400)
+            st.plotly_chart(fig_eng, use_container_width=True)
+        with col2: 
+            # Biểu đồ tròn sử dụng hashtag
+            st.markdown("### Hashtag hàng đầu")
+            hashtag_counts = filtered_df["hashtags"].explode(
+            ).value_counts().head(10).reset_index()
+            hashtag_counts.columns = ["Hashtag", "Số lượng"]
+            fig_hashtag = px.pie(
+                hashtag_counts, names="Hashtag", values="Số lượng",
+                template="plotly_white", color_discrete_sequence=px.colors.qualitative.Pastel
+            )
+            fig_hashtag.update_layout(height=400)
+            st.plotly_chart(fig_hashtag, use_container_width=True)
+        
         # Phân phối thời lượng video
         st.markdown("### Phân phối thời lượng video")
         fig_duration = px.histogram(
@@ -119,18 +291,9 @@ def analyze_scripts(data_df, title="🍳 Phân tích kịch bản", user_context
         fig_duration.update_layout(
             height=400, xaxis_title="Thời lượng (giây)", yaxis_title="Số lượng")
         st.plotly_chart(fig_duration, use_container_width=True)
+        
+        
 
-        # Biểu đồ tròn sử dụng hashtag
-        st.markdown("### Hashtag hàng đầu")
-        hashtag_counts = filtered_df["hashtags"].explode(
-        ).value_counts().head(10).reset_index()
-        hashtag_counts.columns = ["Hashtag", "Số lượng"]
-        fig_hashtag = px.pie(
-            hashtag_counts, names="Hashtag", values="Số lượng",
-            template="plotly_white", color_discrete_sequence=px.colors.qualitative.Pastel
-        )
-        fig_hashtag.update_layout(height=400)
-        st.plotly_chart(fig_hashtag, use_container_width=True)
 
         # Tất cả video trong bảng phân trang
         st.markdown("### Chi tiết tất cả video")
@@ -235,53 +398,186 @@ def personal_analysis(cleaned_video_info_df):
             filtered_data = tiktoker_data[(tiktoker_data['createTime'] >= pd.to_datetime(st.session_state['start_date'])) &
                                           (tiktoker_data['createTime'] <= pd.to_datetime(st.session_state['end_date']))]
 
-        if not filtered_data.empty:
-            st.markdown("📈 Xu hướng video", unsafe_allow_html=True)
-            video_counts = filtered_data.groupby(
-                filtered_data['createTime'].dt.date).size().reset_index(name='Số lượng video')
-            fig = px.area(video_counts, x='createTime', y='Số lượng video',
-                          title="Tạo video theo thời gian", template="plotly_white")
-            fig.update_traces(
-                line=dict(color="#00b4d8", width=2), fill='tozeroy')
-            fig.add_scatter(x=video_counts['createTime'], y=video_counts['Số lượng video'],
-                            mode='markers', marker=dict(size=8, color="#00b4d8"))
-            max_day = video_counts.loc[video_counts['Số lượng video'].idxmax()]
-            fig.add_annotation(x=max_day['createTime'], y=max_day['Số lượng video'],
-                               text=f"Đỉnh: {max_day['Số lượng video']}", showarrow=True, arrowhead=1)
-            fig.update_layout(xaxis_title="Ngày",
-                              yaxis_title="Video đã đăng", showlegend=False)
-            st.plotly_chart(fig, use_container_width=True)
 
-            st.markdown("🎵 Sử dụng âm nhạc", unsafe_allow_html=True)
-            music_counts = filtered_data['music.authorName'].value_counts().head(
-                10).reset_index()
-            music_counts.columns = ['Tác giả âm nhạc', 'Số lượng']
-            fig = px.bar(music_counts, x='Số lượng', y='Tác giả âm nhạc', orientation='h',
-                         title="Top 10 lựa chọn âm nhạc", color='Số lượng', color_continuous_scale='magma')
-            fig.update_layout(xaxis_title="Số lần sử dụng",
-                              yaxis_title="", showlegend=False)
-            st.plotly_chart(fig, use_container_width=True)
+    if not filtered_data.empty:
+        st.subheader("Phân tích đăng tải")
+        st.markdown("📅 Lịch sử đăng bài", unsafe_allow_html=True)
+        video_counts = filtered_data.groupby(
+            filtered_data['createTime'].dt.date).size().reset_index(name='Số lượng video')
+        fig = px.area(video_counts, x='createTime', y='Số lượng video',
+                      template="plotly_white")
+        fig.update_traces(
+            line=dict(color="#FF9149", width=2), fill='tozeroy')
+        fig.add_scatter(x=video_counts['createTime'], y=video_counts['Số lượng video'],
+                        mode='markers', marker=dict(size=8, color="#EA7300"))
+        max_day = video_counts.loc[video_counts['Số lượng video'].idxmax()]
+        fig.add_annotation(x=max_day['createTime'], y=max_day['Số lượng video'],
+                           text=f"Đỉnh: {max_day['Số lượng video']}", showarrow=True, arrowhead=1)
+        fig.update_layout(xaxis_title="Ngày",
+                          yaxis_title="Video đã đăng", showlegend=False)
+        st.plotly_chart(fig, use_container_width=True)
 
+        # Phần "Phân tích lịch đăng bài theo tháng"
+        st.markdown("📅 Phân tích lịch đăng bài theo tháng", unsafe_allow_html=True)
+        # Chọn tháng để phân tích
+        col1, col2 = st.columns([1,2])
+        with col1:
+            filtered_data['createTime'] = pd.to_datetime(filtered_data['createTime'])
+            available_months = filtered_data['createTime'].dt.to_period('M').unique()
+            selected_month = st.selectbox("Chọn tháng để phân tích", available_months, format_func=lambda x: x.strftime('%m/%Y'))
+
+            # Lọc dữ liệu theo tháng được chọn
+            month_data = filtered_data[filtered_data['createTime'].dt.to_period('M') == selected_month]
+
+        if not month_data.empty:
+            with col1:
+                # 1. Calendar Heatmap
+                month_data['day'] = month_data['createTime'].dt.day
+                
+                # Lấy số ngày tối đa trong tháng
+                max_days = pd.Period(selected_month).days_in_month
+                
+                # Đếm số lượng bài đăng theo ngày và reindex đến max_days
+                daily_counts = month_data.groupby('day').size().reindex(range(1, max_days + 1), fill_value=0).reset_index(name='Số lượng')
+                
+                # Tạo cột ngày hợp lệ
+                daily_counts['date'] = pd.to_datetime(
+                    f"{selected_month.year}-{selected_month.month}-" + daily_counts['day'].astype(str),
+                    errors='coerce'  # Bỏ qua lỗi nếu có (không cần thiết với max_days, nhưng để an toàn)
+                )
+                daily_counts['weekday'] = daily_counts['date'].dt.weekday  # 0 = Thứ 2, 6 = Chủ nhật
+                
+                # Tạo calendar heatmap
+                fig_cal = go.Figure(data=go.Heatmap(
+                    z=daily_counts['Số lượng'],
+                    x=daily_counts['weekday'],
+                    y=daily_counts['day'],
+                    colorscale='Oranges',
+                    text=daily_counts['Số lượng'].astype(str),
+                    hoverinfo='text',
+                    showscale=True
+                ))
+                fig_cal.update_layout(
+                    title=f"Lịch đăng bài - {selected_month.strftime('%m/%Y')}",
+                    xaxis=dict(
+                        tickmode='array',
+                        tickvals=[0, 1, 2, 3, 4, 5, 6],
+                        ticktext=['Thứ 2', 'Thứ 3', 'Thứ 4', 'Thứ 5', 'Thứ 6', 'Thứ 7', 'Chủ nhật']
+                    ),
+                    yaxis=dict(title='Ngày trong tháng', autorange='reversed'),
+                    height=500
+                )
+                st.plotly_chart(fig_cal, use_container_width=True)
+            with col2:
+                # 2. Chỉ số thống kê
+                st.subheader("Chỉ số thống kê")
+                total_posts = len(month_data)
+                weeks_in_month = (month_data['createTime'].dt.days_in_month.max() / 7)
+                avg_posts_per_week = total_posts / weeks_in_month
+                latest_post_date = month_data['createTime'].max().strftime('%Y-%m-%d')
+                
+                # Xác định cấp độ tần suất
+                if total_posts < 6:
+                    frequency_level = "Ít"
+                elif 6 <= total_posts <= 10:
+                    frequency_level = "Trung bình"
+                else:
+                    frequency_level = "Nhiều"
+                
+                col1, col2, col3, col4 = st.columns(4)
+                with col1:
+                    st.metric("Tổng số bài đăng", total_posts)
+                with col2:
+                    st.metric("Trung bình mỗi tuần", f"{avg_posts_per_week:.1f}")
+                with col3:
+                    st.metric("Ngày đăng gần nhất", latest_post_date)
+                with col4:
+                    st.metric("Cấp độ tần suất", frequency_level)
+
+                # 3. Biểu đồ tần suất đăng theo thứ trong tuần
+                st.subheader("Tần suất đăng theo thứ trong tuần")
+                weekday_counts = month_data['createTime'].dt.weekday.value_counts().reindex(range(7), fill_value=0)
+                weekday_percentages = (weekday_counts / total_posts * 100).reset_index()
+                weekday_percentages.columns = ['Thứ', 'Tỷ lệ (%)']
+                weekday_percentages['Thứ'] = ['Thứ 2', 'Thứ 3', 'Thứ 4', 'Thứ 5', 'Thứ 6', 'Thứ 7', 'Chủ nhật']
+                
+                fig_weekday = px.bar(
+                    weekday_percentages,
+                    x='Thứ',
+                    y='Tỷ lệ (%)',
+                    text=weekday_percentages['Tỷ lệ (%)'].apply(lambda x: f"{x:.1f}%"),
+                    color_discrete_sequence=['#FF6200'],  # Màu cam
+                    template="plotly_white"
+                )
+                fig_weekday.update_traces(textposition='auto')
+                fig_weekday.update_layout(
+                    yaxis_title="Tỷ lệ phần trăm (%)",
+                    showlegend=False,
+                    height=400
+                )
+                st.plotly_chart(fig_weekday, use_container_width=True)
+
+        else:
+            st.warning(f"Không có dữ liệu cho tháng {selected_month.strftime('%m/%Y')}.")
+        st.subheader("Sở thích cá nhân")
+        col1, col2 = st.columns(2)
+        with col1:
             st.markdown("🏷️ Sử dụng hashtag", unsafe_allow_html=True)
-            all_hashtags = filtered_data['hashtags'].dropna(
-            ).str.split().explode()
+            all_hashtags = filtered_data['hashtags'].dropna().str.split().explode()
             if not all_hashtags.empty:
                 hashtag_counts = all_hashtags.value_counts().head(10).reset_index()
                 hashtag_counts.columns = ['Hashtag', 'Số lượng']
-                fig = px.treemap(hashtag_counts, path=[
-                                 'Hashtag'], values='Số lượng', title="Top 10 hashtag", color='Số lượng', color_continuous_scale='viridis')
+                fig = px.treemap(hashtag_counts, path=['Hashtag'], values='Số lượng',
+                                title="Top 10 hashtag", color='Số lượng', color_continuous_scale='aggrnyl')
                 fig.update_layout(margin=dict(t=50, l=0, r=0, b=0))
                 st.plotly_chart(fig, use_container_width=True)
             else:
                 st.markdown(
                     '<p style="color:#3498db;">ℹ️ Không có hashtag nào.</p>', unsafe_allow_html=True)
-            analyze_scripts(tiktoker_script)
-        else:
-            st.markdown(
-                f'<p style="color:#e67e22;">⚠️ Không có dữ liệu video cho {selected_tiktoker} trong phạm vi này.</p>', unsafe_allow_html=True)
+        with col2:
+            st.markdown("🎵 Sử dụng âm nhạc")
+            if 'music.authorName' not in filtered_data.columns:
+                st.warning("Dữ liệu không chứa cột 'music.authorName'.")
+                return
+
+            # Đếm số lần xuất hiện của mỗi tác giả âm nhạc
+            music_counts = filtered_data['music.authorName'].value_counts().head(10)
+
+            # Tính phần trăm so với tổng số video
+            total_videos = len(filtered_data)
+            music_percentages = (music_counts / total_videos * 100).round(1)
+
+            # Chuẩn bị dữ liệu hiển thị
+            music_bars = [
+                (author, percent, color)
+                for author, percent, color in zip(
+                    music_counts.index,
+                    music_percentages,
+                    px.colors.qualitative.Safe[:len(music_counts)]  # Màu từ Plotly
+                )
+            ]
+
+            # Hiển thị bằng HTML progress bars
+            for author, percent, color in music_bars:
+                st.markdown(
+                    f"""
+                    <div style="margin-bottom: 10px;">
+                        <div style="display: flex; justify-content: space-between; font-weight: bold;">
+                            <span>{author}</span>
+                            <span>{percent:.1f}%</span>
+                        </div>
+                        <div style="height: 8px; background-color: #eee; border-radius: 6px;">
+                            <div style="width: {percent}%; background-color: {color}; height: 100%; border-radius: 6px;"></div>
+                        </div>
+                    </div>
+                    """,
+                    unsafe_allow_html=True
+                )       
+        analyze_scripts(tiktoker_script)
     else:
         st.markdown(
-            f'<p style="color:#c0392b;">❌ Không có dữ liệu cho {selected_tiktoker}.</p>', unsafe_allow_html=True)
+            f'<p style="color:#e67e22;">⚠️ Không có dữ liệu video cho {selected_tiktoker} trong phạm vi này.</p>', unsafe_allow_html=True)
+
 
 
 # Chỉ chạy phân tích nếu dữ liệu có sẵn trong trạng thái phiên
