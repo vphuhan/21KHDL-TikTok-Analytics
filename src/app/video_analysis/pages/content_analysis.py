@@ -308,7 +308,7 @@ class TikTokContentAnalysis:
 
         # Call the plot_duration_histogram function
         plot_duration_histogram(
-            self.filtered_df, duration_column='video.duration')
+            self.filtered_df, duration_column='video.duration', bins=range(0, 600, 20))
 
     def display_duration_boxplot(self):
         """Display a boxplot of metrics grouped by video duration ranges."""

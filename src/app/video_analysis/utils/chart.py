@@ -4,6 +4,7 @@ import plotly.express as px
 import pandas as pd
 import streamlit as st
 from video_analysis.utils.config import COLUMN_LABELS, COLUMN_METRICS, STAT_TYPES, CATEGORY_COLOR_MAP
+import numpy as np
 
 
 def generate_color_map(labels):
@@ -188,37 +189,87 @@ def plot_duration_histogram(df, duration_column='video.duration', categories='T�
     df = df.dropna(subset=[duration_column])
 
     # Default bins if none are provided
-    if bins is None:
-        bins = [0, 10, 30, 60, 90, 120, 180, 300, 600, float("inf")]
+    # if bins is None:
+    #     bins = [0, 10, 30, 60, 90, 120, 180, 300, 600, float("inf")]
 
-    # Create labels for bins
-    labels = ["<10s", "10-30s", "30-60s", "60-90s", "90-120s",
-              "2 phút", "3-5 phút", "5-10 phút", ">10 phút"]
+    # # Create labels for bins
+    # labels = ["<10s", "10-30s", "30-60s", "60-90s", "90-120s",
+    #           "2 phút", "3-5 phút", "5-10 phút", ">10 phút"]
 
-    # Bin the durations
-    df['duration_bin'] = pd.cut(
-        df[duration_column], bins=bins, labels=labels, right=False)
+    # # Bin the durations
+    # df['duration_bin'] = pd.cut(
+    #     df[duration_column], bins=bins, labels=labels, right=False)
 
-    # Count the number of videos in each bin
-    grouped = df['duration_bin'].value_counts().reset_index()
-    grouped.columns = ['Duration Range', 'Count']
-    grouped = grouped.sort_values(by='Duration Range')
+    # # Count the number of videos in each bin
+    # grouped = df['duration_bin'].value_counts().reset_index()
+    # grouped.columns = ['Duration Range', 'Count']
+    # grouped = grouped.sort_values(by='Duration Range')
 
-    # Create the histogram using Plotly
-    fig = px.bar(
-        grouped,
-        x='Duration Range',
-        y='Count',
-        # title='Phân phối Số lượng video theo thời lượng',
-        labels={'Duration Range': 'Thời lượng',
-                'Count': 'Số lượng video'},
-        # color_continuous_scale="teal",
-        height=560
+    # # Create the histogram using Plotly
+    # fig = px.bar(
+    #     grouped,
+    #     x='Duration Range',
+    #     y='Count',
+    #     # title='Phân phối Số lượng video theo thời lượng',
+    #     labels={'Duration Range': 'Thời lượng',
+    #             'Count': 'Số lượng video'},
+    #     # color_continuous_scale="teal",
+    #     height=560
+    # )
+
+    # Calculate the median
+    median_value = df[duration_column].median()
+    q1 = df[duration_column].quantile(0.25)
+    q3 = df[duration_column].quantile(0.75)
+
+    counts, bins = np.histogram(df['video.duration'], bins=bins)
+    bins = 0.5 * (bins[:-1] + bins[1:])
+    fig = px.bar(x=bins, y=counts, labels={
+                 'x': 'Thời lượng', 'y': 'Số lượng video'}, height=560)
+
+    # Add a median line
+    # fig.add_vline(
+    #     x=median_value,
+    #     line=dict(color="black", width=1.5, dash="longdash"),
+    #     annotation_text=f"Trung vị: {median_value:.1f}s",
+    #     annotation_position="top right"
+    # )
+    # Highlight the Q1-Q3 range
+    fig.add_shape(
+        type="rect",
+        x0=q1,
+        x1=q3,
+        y0=0,
+        y1=max(counts),
+        fillcolor="rgba(255,255,0,0.2)",  # Light blue with transparency
+        line=dict(width=0)
     )
-    # fig.update_traces(marker_color='#60B5FF')
+    # Add annotations for Q1 and Q3
+    fig.add_annotation(
+        x=q1,
+        y=max(counts) * 0.95,
+        text=f"Q1: {q1:.1f}s",
+        showarrow=True,
+        arrowhead=2,
+        ax=0,
+        ay=-40
+    )
+    fig.add_annotation(
+        x=q3,
+        y=max(counts) * 0.95,
+        text=f"Q3: {q3:.1f}s",
+        showarrow=True,
+        arrowhead=2,
+        ax=0,
+        ay=-40
+    )
+
     fig.update_traces(marker_color=CATEGORY_COLOR_MAP.get(
         categories, '#60B5FF'))  # Default color if not found in the map
-    # fig.update_layout(showlegend=False, margin=dict(l=0, r=0, t=290, b=0),)
+    fig.update_layout(yaxis_title_text='Số lượng video',
+                      xaxis=dict(range=[-0.5, 600]),
+                      #   yaxis=dict(range=[-0.5, 370]),
+                      )
 
     # Display the chart in Streamlit
     st.plotly_chart(fig, use_container_width=True)
