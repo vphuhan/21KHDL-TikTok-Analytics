@@ -4,6 +4,8 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
+import numpy as np
+
 # from data_preprocessing import video_info_df as df
 # from datetime import datetime
 
@@ -36,7 +38,7 @@ from google import genai
 def get_genai_client() -> genai.Client:
     """Initialize and cache the Gemini client"""
     try:
-        return genai.Client(api_key="AIzaSyCRKaaw6RoRIMgLt2qyVNb9WdBZwEwo8Fs")
+        return genai.Client(api_key="NEW_API_KEY")
     except Exception as e:
         st.error(f"Failed to initialize Gemini client: {e}")
         return None
@@ -71,8 +73,14 @@ def generate_report(data_str: str, model_name: str = "gemini-2.0-flash-lite") ->
         return ""
     
 def filter_data_by_hashtag(df, hashtag):
-    """Filter dataframe to only include videos with the specified hashtag"""
-    return df[df['hashtags'].apply(lambda x: hashtag in x if isinstance(x, list) else False)]
+    """Filter dataframe to include videos with the specified hashtag (case-insensitive)."""
+    return df[
+        df["hashtags"].apply(
+            lambda x: hashtag.lower() in [tag.lower() for tag in x] 
+            if isinstance(x, (list, np.ndarray)) 
+            else False
+        )
+    ]
 
 def get_hashtag_stats(df, hashtag, metric_col):
     """Calculate statistics for a specific hashtag"""
@@ -130,7 +138,13 @@ def plot_hashtag_performance_over_time(df, hashtag, metric_col, time_agg="Theo t
 def plot_hashtag_co_occurrence(df, hashtag, top_n=10):
     """Plot most common co-occurring hashtags"""
     # Get all videos containing the target hashtag
-    target_videos = df[df['hashtags'].apply(lambda x: hashtag in x if isinstance(x, list) else False)]
+    target_videos = df[
+        df["hashtags"].apply(
+            lambda x: hashtag.lower() in [tag.lower() for tag in x] 
+            if isinstance(x, (list, np.ndarray)) 
+            else False
+        )
+    ]
     
     # Explode the hashtags and count co-occurrences
     co_occurring = target_videos.explode('hashtags')
@@ -162,7 +176,7 @@ def plot_hashtag_author_performance(df, hashtag, metric_col, top_n=10):
     
     author_stats = hashtag_df.groupby('author.uniqueId').agg(
         total_engagement=(metric_col, 'sum'),
-        video_count=('id', 'count'),
+        video_count=('video.id', 'count'),
         avg_engagement=(metric_col, 'mean')
     ).reset_index().nlargest(top_n, 'total_engagement')
     
@@ -315,7 +329,13 @@ def display_hashtag_analysis(df):
             with st.expander(f"📝 Báo cáo cho Tác giả sử dụng #{selected_hashtag} hiệu quả nhất"):
                 with st.spinner("Đang phân tích tác giả..."):
                     # Get top authors data
-                    top_authors = df[df['hashtags'].apply(lambda x: selected_hashtag in x if isinstance(x, list) else False)]
+                    top_authors = df[
+                        df["hashtags"].apply(
+                            lambda x: selected_hashtag.lower() in [tag.lower() for tag in x] 
+                            if isinstance(x, (list, np.ndarray)) 
+                            else False
+                        )
+                    ]
                     author_stats = top_authors.groupby('author.uniqueId')[metric_col].sum().nlargest(top_n)
                     
                     # Generate insights
