@@ -173,6 +173,7 @@ class TikTokContentAnalysis:
         # Display performance metrics section
         self.display_performance_metrics()
 
+        st.subheader("Về thời lượng video")
         col1, col2 = st.columns([5, 7])
         with col1:
             # Display duration histogram
@@ -181,6 +182,7 @@ class TikTokContentAnalysis:
             # Display duration boxplot
             self.display_duration_boxplot()
 
+        st.subheader("Về cách sử dụng hashtag trong video")
         col1, col2 = st.columns([6, 3.5])
         with col1:
             # Display hashtag count histogram
@@ -189,6 +191,7 @@ class TikTokContentAnalysis:
             # Display top hashtags
             self.display_top_hashtags()
 
+        st.subheader("Về mật độ từ ngữ trong video")
         col1, col2 = st.columns([6, 3.5])
         with col2:
             # Display word-per-second histogram
@@ -197,6 +200,7 @@ class TikTokContentAnalysis:
             # Display scatter plot
             self.display_scatter_plot()
 
+        st.subheader("Về thời điểm đăng video")
         # Display heatmap
         self.display_heatmap_day_hour()
 
@@ -304,7 +308,7 @@ class TikTokContentAnalysis:
 
     def display_duration_histogram(self):
         """Display a histogram of video durations."""
-        st.subheader("Phân phối Thời lượng video")
+        st.markdown("#### Phân phối Thời lượng video")
         # st.write('')
         if 'video.duration' not in self.filtered_df.columns:
             st.warning("Dữ liệu không chứa cột 'video.duration'.")
@@ -316,7 +320,7 @@ class TikTokContentAnalysis:
 
     def display_duration_boxplot(self):
         """Display a boxplot of metrics grouped by video duration ranges."""
-        st.subheader("Phân phối tương tác theo Thời lượng video")
+        st.markdown("#### Phân phối tương tác theo Thời lượng video")
         if 'video.duration' not in self.filtered_df.columns:
             st.warning("Dữ liệu không chứa cột 'video.duration'.")
             return
@@ -358,7 +362,7 @@ class TikTokContentAnalysis:
 
     def display_hashtag_count_histogram(self):
         """Display a histogram of the number of hashtags in videos."""
-        st.subheader("Phân phối số lượng hashtag trong video")
+        st.markdown("#### Phân phối số lượng hashtag trong video")
         if 'hashtag_count' not in self.filtered_df.columns:
             st.warning("Dữ liệu không chứa cột 'hashtag_count'.")
             return
@@ -371,7 +375,7 @@ class TikTokContentAnalysis:
 
     def display_word_per_second_histogram(self):
         """Display a histogram of the word-per-second metric."""
-        st.subheader("Phân phối Mật độ từ ngữ (số từ/giây)")
+        st.markdown("#### Phân phối Mật độ từ ngữ (số từ/giây)")
         if 'word_per_second' not in self.filtered_df.columns:
             st.warning("Dữ liệu không chứa cột 'word_per_second'.")
             return
@@ -382,7 +386,7 @@ class TikTokContentAnalysis:
 
     def display_top_hashtags(self):
         """Display the top 10 most used hashtags as horizontal progress bars."""
-        st.subheader("Top 10 Hashtags")
+        st.markdown("#### Top 10 Hashtags")
         if 'hashtags' not in self.filtered_df.columns or 'author.uniqueId' not in self.filtered_df.columns:
             st.warning(
                 "Dữ liệu không chứa cột 'hashtags' hoặc 'author.uniqueId'.")
@@ -438,7 +442,7 @@ class TikTokContentAnalysis:
 
     def display_scatter_plot(self):
         """Display a scatter plot for transcript word count and video duration."""
-        st.subheader("Phân bố: Số lượng từ và Thời lượng video")
+        st.markdown("#### Phân bố: Số lượng từ và Thời lượng video")
         if 'transcript_word_count' not in self.filtered_df.columns or 'video.duration' not in self.filtered_df.columns:
             st.warning(
                 "Dữ liệu không chứa cột 'transcript_word_count' hoặc 'video.duration'.")

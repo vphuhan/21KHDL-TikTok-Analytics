@@ -208,11 +208,11 @@ def plot_duration_histogram(df, duration_column='video.duration', categories='T�
         grouped,
         x='Duration Range',
         y='Count',
-        title='Phân phối Số lượng video theo thời lượng',
+        # title='Phân phối Số lượng video theo thời lượng',
         labels={'Duration Range': 'Thời lượng',
                 'Count': 'Số lượng video'},
         # color_continuous_scale="teal",
-        height=565
+        height=560
     )
     # fig.update_traces(marker_color='#60B5FF')
     fig.update_traces(marker_color=CATEGORY_COLOR_MAP.get(
@@ -280,7 +280,7 @@ def plot_duration_boxplot(df, metric_column, duration_column='video.duration', b
         df,
         x='duration_bin',
         y=metric_column,
-        title=f"Phân phối {COLUMN_METRICS.get(metric_column, metric_column)} theo Thời lượng",
+        # title=f"Phân phối {COLUMN_METRICS.get(metric_column, metric_column)} theo Thời lượng",
         labels={'duration_bin': 'Thời lượng', metric_column: COLUMN_METRICS.get(
             metric_column, metric_column)},
         color='duration_bin',
@@ -379,7 +379,7 @@ def plot_heatmap_day_hour(df, datetime_column='createTime', metric_column=None):
         x=heatmap_data.columns,
         y=heatmap_data.index,
         color_continuous_scale="Blues",
-        title="Heatmap: Phân phối video theo ngày và giờ",
+        # title="Heatmap: Phân phối video theo ngày và giờ",
         height=500
     )
 
@@ -397,7 +397,7 @@ def plot_heatmap_day_hour(df, datetime_column='createTime', metric_column=None):
             tickvals=days_order_vn,
             ticktext=days_order_vn
         ),
-        coloraxis_colorbar=dict(title=colorbar_title)
+        coloraxis_colorbar=dict(title=colorbar_title), margin=dict(l=40, r=40, t=40, b=40),
     )
 
     # Display the chart in Streamlit
@@ -440,7 +440,7 @@ def plot_hashtag_count_histogram(df, hashtag_column='hashtag_count', bins=None, 
         df,
         x=hashtag_column,
         nbins=len(bins) - 1,
-        title="Phân phối số lượng hashtag trong video",
+        # title="Phân phối số lượng hashtag trong video",
         labels={hashtag_column: "Số lượng hashtag", "count": "Số lượng video"},
         color_discrete_sequence=[CATEGORY_COLOR_MAP.get(
             selected_category, "#FFA07A")],  # Default color if not found in the map
@@ -494,7 +494,7 @@ def plot_word_per_second_histogram(df, column='word_per_second', bins=None, xaxi
         df,
         x=column,
         nbins=len(bins) - 1,
-        title="Phân phối Mật độ từ ngữ nói (số từ/giây)",
+        # title="Phân phối Mật độ từ ngữ nói (số từ/giây)",
         labels={
             column: "Mật độ từ ngữ nói (từ/giây)", "count": "Số lượng video"},
         color_discrete_sequence=[CATEGORY_COLOR_MAP.get(
@@ -553,7 +553,7 @@ def plot_density_scatter(df, x_column='transcript_word_count', y_column='video.d
         df,
         x=x_column,
         y=y_column,
-        title="Phân bố: Số lượng từ và Thời lượng video",
+        # title="Phân bố: Số lượng từ và Thời lượng video",
         labels={x_column: "Số lượng từ trong transcript",
                 y_column: "Thời lượng video (giây)"},
         color=color_column,  # Color by categories if 'Tất cả' is selected
