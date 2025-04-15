@@ -13,6 +13,23 @@ streamlit run src/app/streamlit_app.py
   - 14h T3 hàng tuần
   - 14h T6 hàng tuần
 
+# TODO: 14h T6, 18/04/2025
+
+- Viết báo cáo cuối kỳ
+
+## Tiền xử lý dữ liệu
+
+- Viết mô tả cho các bước tiền xử lý dữ liệu
+- Có thể chèn code nếu cần
+- Trình bày kết quả sau bước tiền xử lý dữ liệu
+
+## Trực quan hóa và phân tích dữ liệu
+
+- Có thể viết mô tả ngắn gọn cho các bước code để trực quan hóa dữ liệu
+- Giới thiệu các tính năng mà người dùng có thể thực hiện trên dashboard
+- Chụp hình chart, dashboard và chèn vào báo cáo
+- Viết nhận xét cho các chart, dashboard
+
 # Insights phân tích dashboard
 
 ## Lực
@@ -21,7 +38,7 @@ streamlit run src/app/streamlit_app.py
 
 ## Tín
 
-- Tập dữ liệu có 70 tuần, mỗi tuần nhóm sẽ trích ra top 20% video có điểm số cao nhất để tiến hành phân tích các món ăn và địa điểm được để cập trong video. 
+- Tập dữ liệu có 70 tuần, mỗi tuần nhóm sẽ trích ra top 20% video có điểm số cao nhất để tiến hành phân tích các món ăn và địa điểm được để cập trong video.
 
 # TODO: Lịch họp giai đoạn cuối
 
