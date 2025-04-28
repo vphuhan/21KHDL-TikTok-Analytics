@@ -1,5 +1,7 @@
 # Đồ án cuối kỳ - Khoa học dữ liệu ứng dụng - 21KHDL
 
+Đây là đồ án cuối kì của môn Khoa học dữ liệu ứng dựng thuộc Trường Đại học Khoa học tự nhiên, chủ đề TikTok Analytics
+
 ## Sinh viên thực hiện: Nhóm 05
 
 | STT | MSSV     | Họ và tên        |
