@@ -10,64 +10,79 @@
   - Link: https://www.overleaf.com/project/68078b37211771149621ef34
 
 ```
-Danh sách thành viên và Bảng mức độ đóng góp
+[v] \input{title/title}
+Trang bìa của báo cáo
 
-Chương 1: Giới thiệu chung
+
+[v] \input{title/team_info}
+Danh sách thành viên và bảng phân công công việc
+
+
+[v] \input{intro.tex}
+[Phát] Chương 1: Giới thiệu chung
 - Giới thiệu chung về đồ án
-- Tóm tắt về công nghệ được sử dụng trong đồ án
-  - TikTok-API (unofficial), Gemini API, Plotly, Streamlit, Streamlit Community Cloud, v.v.
-  - AI để phân tích dữ liệu
-  - st.Page để merge các page
-  - st.cache để cache dữ liệu
-  - File parquet để keep datatype
-  - Dùng Gemini API để tạo báo cáo
-  - v.v.
+
+
+[v] \input{technology.tex}
+[Phát] Chương 2: Tổng quan về các công nghệ được sử dụng trong đồ án
+- TikTok-API (unofficial)
+- Jupyter Notebook, Numpy, Pandas, Matplotlib, Seaborn, File parquet để keep datatype
+- Gemini API, Plotly, Streamlit, Streamlit Community Cloud
+- st.Page để merge các page
+- st.cache để cache dữ liệu
+- Quy trình dùng AI nhận xét biểu đồ
+- ...
 
 
 [Hãn]
-Chương 2: Thu thập dữ liệu
+Chương 3: Thu thập dữ liệu
 - Nhấn mạnh rằng dùng TikTok-API (unofficial) để thu thập dữ liệu
 - Có 2 tập dữ liệu chính: video-data + user-data
 
 
+[v] \input{dep_fe.tex}
 [Phát]
-Chương 3: Tiền xử lý dữ liệu
+Chương 4: Tiền xử lý dữ liệu và rút trích đặc trưng
 - Trình bày giống trong file notebook
 - Rút trích transcript
 - Rút trích món ăn và địa điểm
 
 
 [Hãn]
-Chương 4: Webapp tạo kịch bản (dashboard + tools)
+Chương 5: Công cụ hỗ trợ viết kịch bản cho video TikTok (dashboard + tools)
 - Rút trích ... của Hãn
 - Trình bày webapp
 
 
 [Lực]
-Chương 5: Dashboard phân tích user
+Chương 6: Dashboard phân tích user
 - Filter + Loại biểu đồ + Nhận xét + v.v.
 
 
 [C.Mỹ]
-Chương 6: Dashboard phân tích video
+Chương 7: Dashboard phân tích video
 - Câu hỏi: Vào thời điểm nào trong tuần/tháng/năm thì video được đăng tải nhiều? Có lượt tương tác nhiều không?
 - Filter + Loại biểu đồ + Nhận xét + v.v.
 
 
 [Tín]
-Chương 7: Dashboard phân tích xu hướng
+Chương 8: Dashboard phân tích xu hướng
 - Filter + Loại biểu đồ + Nhận xét + v.v.
 
 
+[v] \input{aux_tool.tex}
 [Phát]
-Chương 8: Một vài công cụ bổ sung
+Chương 9: Một vài công cụ bổ trợ cho việc phát triển kênh TikTok
 - Một vài webapp hỗ trợ nghiên cứu
 
 
+[v] \input{conclusion.tex}
 [Phát]
-Chương 9: Hướng phát triển trong tương lai
+Chương 10: Hướng phát triển trong tương lai
+- Kết luận về cách tăng hiệu suất cho việc phát triển kênh tiktok
 - Dùng airflow để tự động hóa pipeline (ưu điểm: vì chỉ dùng API nên đảm bảo thời gian xử lý nhanh hơn)
 - Tập trung vào các chart để trả lời các câu hỏi người dùng muốn nghe
+- Trình bày nội dung trong slide
 
 ```
 

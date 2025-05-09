@@ -1,53 +1,106 @@
-# Đồ án cuối kỳ - Khoa học dữ liệu ứng dụng - 21KHDL
+<div align="center">
+   <h1>🎬 Đồ án cuối kỳ: Phân tích dữ liệu TikTok và Xây dựng công cụ hỗ trợ viết kịch bản cho video TikTok</h1>
+   <p><strong>Phân tích dữ liệu TikTok thông minh và hỗ trợ sáng tạo nội dung</strong></p>
+   
+   [![Streamlit App](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit)](https://21khdl-tiktok-analytics.streamlit.app/)
+   [![YouTube Demo](https://img.shields.io/badge/YouTube-Demo-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/playlist?list=PL3SfxVDJ_Zc6DvBKVd6xUc-exmt0AyA7x)
+</div>
 
-## Sinh viên thực hiện: Nhóm 05
+## 🧑‍🤝‍🧑 Sinh viên thực hiện
 
-| STT | MSSV     | Họ và tên        |
-| :-: | -------- | ---------------- |
-|  1  | 21127038 | Võ Phú Hãn       |
-|  2  | 21127739 | Vũ Minh Phát     |
-|  3  | 21127742 | Nguyễn Minh Hiếu |
+| STT |   MSSV   | Họ và tên                                 |
+| :-: | :------: | ----------------------------------------- |
+|  1  | 21127731 | Nguyễn Trọng Tín $^{\clubsuit}$           |
+|  2  | 21127038 | Võ Phú Hãn $^{\clubsuit\heartsuit}$       |
+|  3  | 21127351 | Hồ Đinh Duy Lực $^{\clubsuit}$            |
+|  4  | 21127739 | Vũ Minh Phát $^{\clubsuit\heartsuit}$     |
+|  5  | 21127742 | Nguyễn Minh Hiếu $^{\clubsuit\heartsuit}$ |
+|  6  | 19127216 | Đặng Hoàn Mỹ $^{\clubsuit\diamondsuit}$   |
 
-## Link đến playlist chứa video demo của đồ án
+<details>
+   <summary>📋 Thông tin nhóm</summary>
+   
+   ${\clubsuit}$: Nhóm 01 (Data Explorers) - Ứng dụng phân tích dữ liệu thông minh - 21KHDL  
+   ${\heartsuit}$: Nhóm 05 - Khoa học dữ liệu ứng dụng - 21KHDL  
+   ${\diamondsuit}$: Nhóm 09 - Khoa học dữ liệu ứng dụng - 21KHDL
+</details>
 
-- Link đến playlist chứa video demo của đồ án: https://www.youtube.com/playlist?list=PL3SfxVDJ_Zc6DvBKVd6xUc-exmt0AyA7x
-- Trong playlist sẽ có video trình bày đầy đủ cả 3 công cụ hỗ trợ mà nhóm đã xây dựng, xoay quanh chủ đề trọng tâm của đồ án lần này là: "Xây dựng công cụ hỗ trợ viết kịch bản dành cho các video trên TikTok".
+## 🎥 Demo và Sản phẩm
 
-## Link đến trang web chứa sản phẩm của đồ án
+### 📊 Sản phẩm
 
-- Link đến trang web chứa sản phẩm của đồ án: https://21khdl-tiktok-analytics.streamlit.app/
+<div align="center">
+   <a href="https://21khdl-tiktok-analytics.streamlit.app/">
+      <img src="https://img.shields.io/badge/Truy_cập_ứng_dụng-00B2FF?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit App" />
+   </a>
+</div>
 
-## Cách tổ chức thư mục của đồ án
+### 🎬 Video Demo
 
-Dự án này được tổ chức với các thư mục và tệp chính như sau:
+<div align="center">
+   <a href="https://www.youtube.com/playlist?list=PL3SfxVDJ_Zc6DvBKVd6xUc-exmt0AyA7x">
+      <img src="https://img.shields.io/badge/Xem_video_hướng_dẫn-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Demo" />
+   </a>
+</div>
 
-1. **Tệp chính:**
+> Trong playlist sẽ có video hướng dẫn sử dụng bộ ba công cụ mà nhóm đã xây dựng, xoay quanh chủ đề trọng tâm của đồ án lần này là: "Xây dựng công cụ hỗ trợ viết kịch bản cho video TikTok".
 
-   - `README.md`: Tài liệu giới thiệu và hướng dẫn sử dụng dự án.
-   - `Team-Plan-and-Work-Distribution.md`: Kế hoạch thực hiện và phân công công việc của nhóm.
-   - `requirements.txt`: Danh sách các thư viện cần thiết để chạy dự án.
-   - `packages.txt`: Có thể chứa thông tin về các gói hoặc môi trường.
+## 📁 Cách tổ chức thư mục của đồ án
 
-2. **Thư mục chính:**
-
-   - `data`: Chứa dữ liệu thô, dữ liệu đã xử lý, và các tệp liên quan đến phân tích dữ liệu.
-   - `demo`: Có thể chứa các tệp demo hoặc video minh họa.
-   - `development`: Chứa mã nguồn phát triển, các tệp thử nghiệm, và tài liệu liên quan.
-   - `docs`: Tài liệu chi tiết về dự án, API, và các hướng dẫn khác.
-   - `models`: Có thể chứa các mô hình đã huấn luyện hoặc các tệp liên quan đến mô hình.
-   - `notebooks`: Các notebook Jupyter phục vụ cho việc phân tích và thử nghiệm.
-   - `src`: Mã nguồn chính của ứng dụng, bao gồm các tệp Streamlit hoặc các module khác.
-
-## Kế hoạch thực hiện đồ án và phân công công việc
-
-- Tài liệu về kế hoạch thực hiện đồ án của nhóm 05 và bảng phân công công việc chi tiết cho mỗi thành viên đã được đính kèm trong file "**`Team-Plan-and-Work-Distribution.md`**" của bài nộp.
-
-## Hướng dẫn chạy webapp trên máy cá nhân
-
-- Di chuyển môi trường lập trình đến thư mục gốc của dự án (root folder), hay còn gọi là thư mục chứa file "**`requirements.txt`**".
-- Chạy các lệnh sau trong terminal để cài đặt các thư viện cần thiết và chạy ứng dụng Streamlit:
-
-```bash
-pip install -r requirements.txt
-streamlit run src/app/streamlit_app.py
 ```
+📦 21KHDL-TikTok-Analytics
+ ┣ 📜 README.md              # Tài liệu giới thiệu và hướng dẫn sử dụng dự án
+ ┣ 📜 Team-Plan-and-Work-Distribution.md  # Kế hoạch và phân công công việc
+ ┣ 📜 requirements.txt       # Danh sách các thư viện cần thiết
+ ┣ 📜 packages.txt           # Thông tin về các gói hoặc môi trường
+ ┣ 📂 data                   # Dữ liệu thô, dữ liệu đã xử lý
+ ┣ 📂 development            # Mã nguồn phát triển, tệp thử nghiệm
+ ┣ 📂 docs                   # Tài liệu chi tiết về dự án, API
+ ┣ 📂 models                 # Danh sách các mô hình được sử dụng trong dự án
+ ┣ 📂 notebooks              # Jupyter Notebook phục vụ phân tích
+ ┣ 📂 reports                # Các báo cáo, tài liệu liên quan đến dự án
+ ┣ 📂 slides                 # Các slide thuyết trình, tài liệu trình bày
+ ┗ 📂 src                    # Mã nguồn chính của ứng dụng
+      ┗ 📂 app
+          ┗ 📜 streamlit_app.py # Tệp chính của ứng dụng Streamlit
+```
+
+## 📝 Kế hoạch thực hiện đồ án và phân công công việc
+
+Kế hoạch thực hiện đồ án và bảng phân công công việc chi tiết cho mỗi thành viên được trình bày trong file [**`Team-Plan-and-Work-Distribution.md`**](Team-Plan-and-Work-Distribution.md). Trong đó, nhóm đã phân chia công việc theo từng phần cụ thể và chỉ định nhiệm vụ cho từng thành viên.
+
+## ⚙️ Hướng dẫn cài đặt và chạy ứng dụng
+
+<details>
+   <summary>Xem hướng dẫn chi tiết</summary>
+   
+   ### 1️⃣ Di chuyển đến thư mục gốc
+   
+   ```bash
+   cd /đường/dẫn/đến/thư/mục/dự/án
+   ```
+   
+   ### 2️⃣ Cài đặt thư viện cần thiết
+   
+   ```bash
+   pip install -r requirements.txt
+   ```
+   
+   ### 3️⃣ Khởi chạy ứng dụng
+   
+   ```bash
+   streamlit run src/app/streamlit_app.py
+   ```
+   
+   ### 4️⃣ Truy cập ứng dụng
+   Mở trình duyệt web và truy cập địa chỉ: [http://localhost:8501/](http://localhost:8501/)
+   
+   ### 5️⃣ Dừng ứng dụng
+   Nhấn `Ctrl + C` trong terminal để dừng ứng dụng.
+</details>
+
+---
+
+<div align="center">
+   <sub>Phát triển bởi nhóm sinh viên HCMUS - Đồ án Ứng dụng phân tích dữ liệu thông minh và Khoa học dữ liệu ứng dụng - 21KHDL</sub>
+</div>
