@@ -6,7 +6,7 @@
    [![YouTube Demo](https://img.shields.io/badge/YouTube-Demo-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/playlist?list=PL3SfxVDJ_Zc6DvBKVd6xUc-exmt0AyA7x)
 </div>
 
-## 🧑‍🤝‍🧑 Sinh viên thực hiện
+## 🎓 Sinh viên thực hiện
 
 | STT |   MSSV   | Họ và tên                                 |
 | :-: | :------: | ----------------------------------------- |
