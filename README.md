@@ -8,6 +8,8 @@
 
 ## 🎓 Sinh viên thực hiện
 
+<div align="center">
+
 | STT |   MSSV   | Họ và tên                                 |
 | :-: | :------: | ----------------------------------------- |
 |  1  | 21127731 | Nguyễn Trọng Tín $^{\clubsuit}$           |
@@ -16,6 +18,8 @@
 |  4  | 21127739 | Vũ Minh Phát $^{\clubsuit\heartsuit}$     |
 |  5  | 21127742 | Nguyễn Minh Hiếu $^{\clubsuit\heartsuit}$ |
 |  6  | 19127216 | Đặng Hoàn Mỹ $^{\clubsuit\diamondsuit}$   |
+
+</div>
 
 <details>
    <summary>📋 Thông tin nhóm</summary>
