@@ -13,6 +13,9 @@
 \usepackage{caption}
 \usepackage{tabularx}
 
+% Define code formatting command
+\newcommand{\codettt}[1]{\texttt{#1}}
+
 \usepackage{bbding}
 \def\halfcheckmark{\tikz\draw[scale=0.4,fill=black](0,.35) -- (.25,0) -- (1,.7) -- (.25,.15) -- cycle (0.75,0.2) -- (0.77,0.2)  -- (0.6,0.7) -- cycle;}
 
@@ -53,7 +56,9 @@
 \newcommand{\teachername}{Nguyễn Tiến Huy\\Nguyễn Trần Duy Minh}
 
 % Header
-\lhead{\reporttitle}
+\lhead{
+\reporttitle
+}
 \rhead{
 Trường Đại học Khoa học Tự nhiên - ĐHQG HCM\\
 \coursename
@@ -69,6 +74,9 @@ Trường Đại học Khoa học Tự nhiên - ĐHQG HCM\\
 % \newcommand{\personalcomment}[1]{\sethlcolor{MyYellow}\hl{Ta thấy rằng: #1}}
 \newcommand{\personalcomment}[1]{\sethlcolor{MyYellow}\hl{#1}}
 
+\usepackage[most]{tcolorbox}
+\usepackage{subcaption}
+
 
 % ============ DOCUMENT ============
 \begin{document}
@@ -76,8 +84,9 @@ Trường Đại học Khoa học Tự nhiên - ĐHQG HCM\\
 \pagenumbering{roman}
 \input{title/title}
 
-% \input{title/team_info}
-% \pagebreak
+\input{title/team_info}
+\pagebreak
+
 
 \tableofcontents
 \pagebreak
@@ -89,15 +98,29 @@ Trường Đại học Khoa học Tự nhiên - ĐHQG HCM\\
 \pagenumbering{arabic}
 \setcounter{page}{1}
 
-% \input{intro.tex}
-% \pagebreak
-% \input{technology.tex}
-% \pagebreak
-% \input{dep_fe.tex}
-% \pagebreak
-% \input{aux_tool.tex}
-% \pagebreak
-% \input{conclusion.tex}
+\input{chapter01-intro/intro}
+\pagebreak
+\input{chapter02-technology/technology}
+
+\pagebreak
+\input{chapter03-data_collection/data_collection}
+\pagebreak
+\input{chapter04-dep_fe/dep_fe}
+
+\pagebreak
+\input{chapter05-scriptwriting/scriptwriting}
+\pagebreak
+\input{chapter06-user_analysis/user_analysis}
+\pagebreak
+\input{chapter07-video_analysis/video_analysis}
+\pagebreak
+\input{chapter08-trend_analysis/trend_analysis}
+
+\pagebreak
+\input{chapter09-aux_tool/aux_tool}
+\pagebreak
+\input{chapter10-conclusion/conclusion}
+
 
 % \pagebreak
 % \input{general/section}

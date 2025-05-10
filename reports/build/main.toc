@@ -1,0 +1,192 @@
+\contentsline {section}{Thông tin nhóm}{i}{section*.1}%
+\contentsline {section}{\numberline {1}CHƯƠNG 1: GIỚI THIỆU CHUNG}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Tổng quan về chủ đề}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Động lực nghiên cứu}{1}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Phạm vi nghiên cứu}{2}{subsection.1.3}%
+\contentsline {section}{\numberline {2}CHƯƠNG 2: TỔNG QUAN VỀ CÁC CÔNG NGHỆ ĐƯỢC SỬ DỤNG TRONG ĐỒ ÁN}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Thu thập dữ liệu từ TikTok}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Khám phá và tiền xử lý dữ liệu}{4}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Sử dụng bộ thư viện Python phổ biến}{4}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Sử dụng Jupyter Notebook}{5}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}Lưu trữ dữ liệu đã tiền xử lý dưới định dạng Parquet}{5}{subsubsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.3}Trích xuất đặc trưng}{6}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Tạo đường dẫn đến video TikTok}{7}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Tải xuống audio bằng FFmpeg và YT-DLP}{7}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.3}Sử dụng Gemini API để trích xuất transcript và xác định nội dung}{7}{subsubsection.2.3.3}%
+\contentsline {subsubsection}{\numberline {2.3.4}Sử dụng Gemini API để phân loại video}{7}{subsubsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.4}Xây dựng dashboard và webapp}{8}{subsection.2.4}%
+\contentsline {subsubsection}{\numberline {2.4.1}Tạo biểu đồ tương tác với Plotly và nhận xét từ Gemini API}{8}{subsubsection.2.4.1}%
+\contentsline {subsubsection}{\numberline {2.4.2}Xây dựng webapp với Streamlit}{8}{subsubsection.2.4.2}%
+\contentsline {subsubsection}{\numberline {2.4.3}Triển khai trên Streamlit Community Cloud}{9}{subsubsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.5}Xây dựng ứng dụng Streamlit đa trang (Multipage App)}{9}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Cache dữ liệu để giảm thời gian tải trang}{10}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}Quy trình sử dụng Gemini API để tạo nhận xét cho các biểu đồ}{10}{subsection.2.7}%
+\contentsline {subsubsection}{\numberline {2.7.1}Xác định rõ nhiệm vụ trọng tâm}{11}{subsubsection.2.7.1}%
+\contentsline {subsubsection}{\numberline {2.7.2}Cung cấp ``Hướng dẫn chi tiết'' cho AI (Prompt Engineering)}{11}{subsubsection.2.7.2}%
+\contentsline {subsubsection}{\numberline {2.7.3}Cung cấp ``Đầu vào'' cho AI}{11}{subsubsection.2.7.3}%
+\contentsline {subsubsection}{\numberline {2.7.4}Ví dụ minh họa về câu prompt}{11}{subsubsection.2.7.4}%
+\contentsline {section}{\numberline {3}CHƯƠNG 3: THU THẬP DỮ LIỆU}{14}{section.3}%
+\contentsline {section}{\numberline {4}CHƯƠNG 4: TIỀN XỬ LÝ DỮ LIỆU VÀ RÚT TRÍCH ĐẶC TRƯNG}{16}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Giới thiệu chung}{16}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Khám phá và Tiền xử lý dữ liệu (Data Exploration and Preprocessing - DEP)}{16}{subsection.4.2}%
+\contentsline {subsubsection}{\numberline {4.2.1}Tìm hiểu tập dữ liệu thô}{16}{subsubsection.4.2.1}%
+\contentsline {paragraph}{Đọc dữ liệu:}{16}{section*.10}%
+\contentsline {paragraph}{Kích thước dữ liệu:}{17}{section*.11}%
+\contentsline {paragraph}{Ý nghĩa dữ liệu:}{17}{section*.12}%
+\contentsline {subsubsection}{\numberline {4.2.2}Phân tích và xử lý dữ liệu trùng lặp (Duplicate Analysis)}{17}{subsubsection.4.2.2}%
+\contentsline {paragraph}{Xác định video:}{17}{section*.13}%
+\contentsline {paragraph}{Xử lý các video bị thiếu ID:}{17}{section*.14}%
+\contentsline {paragraph}{Kiểm tra trùng lặp:}{17}{section*.15}%
+\contentsline {subsubsection}{\numberline {4.2.3}Phân tích và xử lý giá trị bị thiếu (Missing Value Analysis)}{18}{subsubsection.4.2.3}%
+\contentsline {paragraph}{Phân tích tỷ lệ thiếu:}{18}{section*.17}%
+\contentsline {paragraph}{Loại bỏ cột thiếu nhiều:}{18}{section*.18}%
+\contentsline {subsubsection}{\numberline {4.2.4}Phân tích và chuẩn hóa kiểu dữ liệu}{18}{subsubsection.4.2.4}%
+\contentsline {paragraph}{Kiểm tra kiểu dữ liệu:}{18}{section*.20}%
+\contentsline {paragraph}{Chuẩn hóa cột thời gian:}{18}{section*.21}%
+\contentsline {subsubsection}{\numberline {4.2.5}Phân tích phân bố giá trị}{19}{subsubsection.4.2.5}%
+\contentsline {paragraph}{Cột dạng số (Numerical):}{19}{section*.22}%
+\contentsline {paragraph}{Cột không phải dạng số (Non-numerical):}{19}{section*.23}%
+\contentsline {subsubsection}{\numberline {4.2.6}Loại bỏ các cột không cần thiết/trùng lặp}{19}{subsubsection.4.2.6}%
+\contentsline {subsubsection}{\numberline {4.2.7}Xử lý dữ liệu thiếu trong các cột còn lại}{20}{subsubsection.4.2.7}%
+\contentsline {subsubsection}{\numberline {4.2.8}Lưu trữ dữ liệu đã xử lý}{20}{subsubsection.4.2.8}%
+\contentsline {subsection}{\numberline {4.3}Rút trích đặc trưng (Feature Engineering - FE)}{20}{subsection.4.3}%
+\contentsline {subsubsection}{\numberline {4.3.1}Trích xuất hashtag từ mô tả video (\texttt {desc})}{21}{subsubsection.4.3.1}%
+\contentsline {paragraph}{Quy trình:}{21}{section*.24}%
+\contentsline {paragraph}{Đặc trưng mới:}{21}{section*.25}%
+\contentsline {paragraph}{Phân tích:}{21}{section*.26}%
+\contentsline {subsubsection}{\numberline {4.3.2}Trích xuất đặc trưng thời gian từ \texttt {createTime}}{21}{subsubsection.4.3.2}%
+\contentsline {paragraph}{Quy trình:}{21}{section*.28}%
+\contentsline {paragraph}{Đặc trưng mới:}{21}{section*.29}%
+\contentsline {subsubsection}{\numberline {4.3.3}Chọn top video hàng tuần để phân tích nội dung}{22}{subsubsection.4.3.3}%
+\contentsline {paragraph}{Mục tiêu:}{22}{section*.31}%
+\contentsline {paragraph}{Tiêu chí lựa chọn:}{22}{section*.32}%
+\contentsline {paragraph}{Quy trình:}{22}{section*.33}%
+\contentsline {paragraph}{Kết quả:}{23}{section*.34}%
+\contentsline {subsubsection}{\numberline {4.3.4}Trích xuất nội dung audio thành văn bản (Audio Transcription)}{23}{subsubsection.4.3.4}%
+\contentsline {subsubsection}{\numberline {4.3.5}Trích xuất thông tin món ăn và địa điểm}{23}{subsubsection.4.3.5}%
+\contentsline {subsubsection}{\numberline {4.3.6}Trích xuất đặc trưng về thể loại của video}{24}{subsubsection.4.3.6}%
+\contentsline {section}{\numberline {5}CHƯƠNG 5: CÔNG CỤ HỖ TRỢ VIẾT KỊCH BẢN CHO VIDEO TIKTOK}{25}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Trích xuất đặc trưng nội dung}{25}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Lọc video tương đồng theo mô tả người dùng}{26}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Sinh kịch bản thô từ video mẫu}{27}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Định dạng lại kịch bản có cấu trúc}{27}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Triển khai hệ thống trên giao diện web}{29}{subsection.5.5}%
+\contentsline {section}{\numberline {6}CHƯƠNG 6: DASHBOARD PHÂN TÍCH USER}{30}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Phân phối của dữ liệu}{30}{subsection.6.1}%
+\contentsline {subsubsection}{\numberline {6.1.1}Phân Phối Số Lượt Thích}{30}{subsubsection.6.1.1}%
+\contentsline {subsubsection}{\numberline {6.1.2}Phân Phối Số Người Theo Dõi}{31}{subsubsection.6.1.2}%
+\contentsline {subsubsection}{\numberline {6.1.3}Phân Phối Số Lượng Video}{31}{subsubsection.6.1.3}%
+\contentsline {subsection}{\numberline {6.2}Phân Tích Tương Quan}{32}{subsection.6.2}%
+\contentsline {paragraph}{Kết Luận và Gợi Ý:}{34}{section*.42}%
+\contentsline {subsection}{\numberline {6.3}Phân Tích Mức Độ Tương Tác Theo Nhóm Người Theo Dõi}{34}{subsection.6.3}%
+\contentsline {subsubsection}{\numberline {6.3.1}Phân Chia Nhóm Người Theo Dõi}{34}{subsubsection.6.3.1}%
+\contentsline {subsubsection}{\numberline {6.3.2}Bảng So Sánh Mức Độ Tương Tác}{35}{subsubsection.6.3.2}%
+\contentsline {paragraph}{Nhận xét:}{35}{section*.44}%
+\contentsline {subsection}{\numberline {6.4}Ảnh Hưởng của Số Lượng Video Đến Tương Tác}{35}{subsection.6.4}%
+\contentsline {paragraph}{Hàm ý cho Nhà sáng tạo nội dung (Tổng quát cho mọi nhóm):}{38}{section*.51}%
+\contentsline {paragraph}{Kết luận:}{39}{section*.52}%
+\contentsline {subsection}{\numberline {6.5}Phân tích ý nghĩa thống kê về tần suất đăng tải video mỗi tuần, số lượng hashtag trung bình trên mỗi video và thời lượng video trung bình giữa các nhóm người dùng}{39}{subsection.6.5}%
+\contentsline {subsubsection}{\numberline {6.5.1}Về Tần Suất Đăng Tải Video Mỗi Tuần}{39}{subsubsection.6.5.1}%
+\contentsline {paragraph}{Kết quả kiểm định thống kê:}{40}{section*.56}%
+\contentsline {paragraph}{Nhận xét:}{40}{section*.57}%
+\contentsline {paragraph}{Chiến lược gợi ý:}{41}{section*.58}%
+\contentsline {subsubsection}{\numberline {6.5.2}Về Số Lượng Hashtag}{41}{subsubsection.6.5.2}%
+\contentsline {paragraph}{Kết quả kiểm định thống kê:}{42}{section*.62}%
+\contentsline {paragraph}{Nhận xét:}{42}{section*.63}%
+\contentsline {paragraph}{Chiến lược rút ra:}{43}{section*.64}%
+\contentsline {subsubsection}{\numberline {6.5.3}Về Thời Lượng Video Trung Bình}{43}{subsubsection.6.5.3}%
+\contentsline {paragraph}{Kết quả kiểm định thống kê:}{44}{section*.68}%
+\contentsline {paragraph}{Nhận xét:}{44}{section*.69}%
+\contentsline {paragraph}{Chiến lược:}{45}{section*.70}%
+\contentsline {subsection}{\numberline {6.6}Tổng quan Kỹ thuật}{45}{subsection.6.6}%
+\contentsline {subsubsection}{\numberline {6.6.1}Nguồn Dữ liệu}{46}{subsubsection.6.6.1}%
+\contentsline {paragraph}{Định dạng Tệp:}{46}{section*.71}%
+\contentsline {paragraph}{Đường dẫn Tệp Ví dụ:}{46}{section*.72}%
+\contentsline {paragraph}{Cấu trúc Dữ liệu Chính:}{46}{section*.73}%
+\contentsline {subsubsection}{\numberline {6.6.2}Hằng số}{47}{subsubsection.6.6.2}%
+\contentsline {subsubsection}{\numberline {6.6.3}Hàm Tiện ích Chung}{48}{subsubsection.6.6.3}%
+\contentsline {subsubsection}{\numberline {6.6.4}Hàm Tiện ích và Trực quan hóa theo Chức năng Bảng Điều khiển}{48}{subsubsection.6.6.4}%
+\contentsline {paragraph}{Phân tích Tương quan và Phân phối Chỉ số Người dùng}{48}{section*.74}%
+\contentsline {paragraph}{Phân tích Tương tác theo Cấp độ Người theo dõi}{49}{section*.75}%
+\contentsline {paragraph}{Phân tích Chi tiết TikToker Cá nhân}{49}{section*.76}%
+\contentsline {paragraph}{Phân tích Người dùng TikTok Hàng đầu}{50}{section*.77}%
+\contentsline {subsubsection}{\numberline {6.6.5}Bố cục Chung của các Bảng Điều khiển}{50}{subsubsection.6.6.5}%
+\contentsline {subsubsection}{\numberline {6.6.6}Lưu trữ Đệm (Caching)}{51}{subsubsection.6.6.6}%
+\contentsline {paragraph}{\textit {Lưu ý:}}{51}{section*.78}%
+\contentsline {subsubsection}{\numberline {6.6.7}Tích hợp Trí tuệ Nhân tạo (AI Integration)}{52}{subsubsection.6.6.7}%
+\contentsline {paragraph}{Cấu trúc Prompts:}{52}{section*.79}%
+\contentsline {paragraph}{Xử lý Lỗi:}{52}{section*.80}%
+\contentsline {subsubsection}{\numberline {6.6.8}Kiểm định Thống kê}{52}{subsubsection.6.6.8}%
+\contentsline {paragraph}{Kiểm định Kruskal-Wallis:}{52}{section*.81}%
+\contentsline {paragraph}{Xử lý Dữ liệu:}{52}{section*.82}%
+\contentsline {paragraph}{Hiển thị Kết quả:}{52}{section*.83}%
+\contentsline {subsubsection}{\numberline {6.6.9}Hướng dẫn tương tác trên trang web}{52}{subsubsection.6.6.9}%
+\contentsline {section}{\numberline {7}CHƯƠNG 7: DASHBOARD PHÂN TÍCH VIDEO}{54}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Giới thiệu}{54}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Kiến trúc Hệ thống và Công nghệ Sử dụng}{54}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Luồng Dữ liệu và Tiền xử lý}{55}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Các Trang Phân tích}{55}{subsection.7.4}%
+\contentsline {subsubsection}{\numberline {7.4.1}Phân tích Hiệu suất Video}{55}{subsubsection.7.4.1}%
+\contentsline {paragraph}{Mục tiêu:}{55}{section*.84}%
+\contentsline {paragraph}{Chỉ số và Tùy chọn:}{55}{section*.85}%
+\contentsline {paragraph}{Trực quan hóa chính:}{56}{section*.86}%
+\contentsline {paragraph}{Tính năng bổ sung:}{57}{section*.91}%
+\contentsline {subsubsection}{\numberline {7.4.2}Phân tích Hashtag Tổng quan}{57}{subsubsection.7.4.2}%
+\contentsline {paragraph}{Mục tiêu:}{58}{section*.92}%
+\contentsline {paragraph}{Tùy chọn / Filter:}{58}{section*.93}%
+\contentsline {paragraph}{Phân tích chính:}{58}{section*.94}%
+\contentsline {paragraph}{Tính năng bổ sung:}{59}{section*.98}%
+\contentsline {subsubsection}{\numberline {7.4.3}Phân tích Hashtag Đơn lẻ}{60}{subsubsection.7.4.3}%
+\contentsline {paragraph}{Mục tiêu:}{60}{section*.99}%
+\contentsline {paragraph}{Tùy chọn:}{60}{section*.100}%
+\contentsline {paragraph}{Phân tích chính (cho hashtag được chọn):}{60}{section*.101}%
+\contentsline {paragraph}{Tính năng bổ sung:}{62}{section*.107}%
+\contentsline {subsection}{\numberline {7.5}Tích hợp Trí tuệ Nhân tạo (AI)}{62}{subsection.7.5}%
+\contentsline {section}{\numberline {8}CHƯƠNG 8: DASHBOARD PHÂN TÍCH XU HƯỚNG}{64}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Giới thiệu và Tổng quan dữ liệu}{64}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Phân tích Xu hướng theo thời gian}{64}{subsection.8.2}%
+\contentsline {paragraph}{Nhận xét:}{65}{section*.110}%
+\contentsline {subsection}{\numberline {8.3}Phân tích Phân bố địa lý}{65}{subsection.8.3}%
+\contentsline {subsubsection}{\numberline {8.3.1}Phân bố Tỉnh/Thành phố được đề cập}{65}{subsubsection.8.3.1}%
+\contentsline {paragraph}{Tổng quan:}{65}{section*.111}%
+\contentsline {paragraph}{Phân tích chi tiết hơn:}{65}{section*.113}%
+\contentsline {subsubsection}{\numberline {8.3.2}Phân bố Tỉnh/Thành phố thuộc từng vùng miền}{66}{subsubsection.8.3.2}%
+\contentsline {paragraph}{Nhận xét:}{67}{section*.117}%
+\contentsline {paragraph}{Kiểm định thống kê:}{67}{section*.118}%
+\contentsline {subsubsection}{\numberline {8.3.3}Phân bố Quận/Huyện thuộc Tỉnh/Thành phố}{67}{subsubsection.8.3.3}%
+\contentsline {subsection}{\numberline {8.4}Phân tích Món ăn theo danh mục và Xu hướng}{68}{subsection.8.4}%
+\contentsline {subsubsection}{\numberline {8.4.1}Phân tích món ăn theo danh mục}{68}{subsubsection.8.4.1}%
+\contentsline {subsubsection}{\numberline {8.4.2}Phân tích món ăn Nổi bật qua từng tuần}{69}{subsubsection.8.4.2}%
+\contentsline {paragraph}{Quy trình thực hiện:}{69}{section*.122}%
+\contentsline {paragraph}{Ưu điểm của phương pháp:}{70}{section*.123}%
+\contentsline {section}{\numberline {9}CHƯƠNG 9: MỘT VÀI CÔNG CỤ BỔ TRỢ CHO VIỆC PHÁT TRIỂN KÊNH TIKTOK}{71}{section.9}%
+\contentsline {subsection}{\numberline {9.1}Giới thiệu chung}{71}{subsection.9.1}%
+\contentsline {subsection}{\numberline {9.2}Công cụ hỗ trợ nghiên cứu chủ đề}{71}{subsection.9.2}%
+\contentsline {subsubsection}{\numberline {9.2.1}Tổng quan}{71}{subsubsection.9.2.1}%
+\contentsline {subsubsection}{\numberline {9.2.2}Mục tiêu và Lợi ích}{72}{subsubsection.9.2.2}%
+\contentsline {subsubsection}{\numberline {9.2.3}Kiến trúc và Công nghệ sử dụng}{72}{subsubsection.9.2.3}%
+\contentsline {subsubsection}{\numberline {9.2.4}Thiết kế giao diện người dùng và Luồng tương tác}{73}{subsubsection.9.2.4}%
+\contentsline {paragraph}{Giao diện người dùng:}{73}{section*.125}%
+\contentsline {paragraph}{Luồng tương tác của người dùng:}{75}{section*.131}%
+\contentsline {subsubsection}{\numberline {9.2.5}Kỹ thuật Prompting}{76}{subsubsection.9.2.5}%
+\contentsline {subsubsection}{\numberline {9.2.6}Tương tác với Gemini API và Xử lý kết quả}{77}{subsubsection.9.2.6}%
+\contentsline {subsubsection}{\numberline {9.2.7}Minh họa cách sử dụng công cụ}{77}{subsubsection.9.2.7}%
+\contentsline {subsection}{\numberline {9.3}Công cụ gợi ý cách quay video ẩm thực}{78}{subsection.9.3}%
+\contentsline {subsubsection}{\numberline {9.3.1}Tổng quan}{78}{subsubsection.9.3.1}%
+\contentsline {subsubsection}{\numberline {9.3.2}Mục tiêu và Lợi ích}{79}{subsubsection.9.3.2}%
+\contentsline {subsubsection}{\numberline {9.3.3}Kiến trúc và Công nghệ sử dụng}{79}{subsubsection.9.3.3}%
+\contentsline {subsubsection}{\numberline {9.3.4}Thiết kế giao diện người dùng và Luồng tương tác}{80}{subsubsection.9.3.4}%
+\contentsline {paragraph}{Giao diện người dùng:}{80}{section*.133}%
+\contentsline {paragraph}{Luồng tương tác của người dùng:}{82}{section*.138}%
+\contentsline {subsubsection}{\numberline {9.3.5}Kỹ thuật Prompting chuyên biệt theo thể loại video}{82}{subsubsection.9.3.5}%
+\contentsline {subsubsection}{\numberline {9.3.6}Tương tác với Gemini API và Xử lý kết quả}{83}{subsubsection.9.3.6}%
+\contentsline {subsubsection}{\numberline {9.3.7}Minh họa cách sử dụng công cụ}{84}{subsubsection.9.3.7}%
+\contentsline {section}{\numberline {10}CHƯƠNG 10: BÀN LUẬN VÀ KẾT LUẬN}{85}{section.10}%
+\contentsline {subsection}{\numberline {10.1}Bàn luận}{85}{subsection.10.1}%
+\contentsline {subsubsection}{\numberline {10.1.1}Tóm tắt các kết quả đạt được}{85}{subsubsection.10.1.1}%
+\contentsline {subsubsection}{\numberline {10.1.2}Các phát hiện chính từ phân tích dữ liệu TikTok}{86}{subsubsection.10.1.2}%
+\contentsline {subsubsection}{\numberline {10.1.3}Ý nghĩa và Đóng góp}{87}{subsubsection.10.1.3}%
+\contentsline {subsection}{\numberline {10.2}Kết luận và Hướng phát triển tương lai}{87}{subsection.10.2}%
+\contentsline {subsubsection}{\numberline {10.2.1}Kết luận}{87}{subsubsection.10.2.1}%
+\contentsline {subsubsection}{\numberline {10.2.2}Hướng phát triển tương lai}{88}{subsubsection.10.2.2}%
+\contentsline {section}{Tài liệu tham khảo}{90}{section*.139}%

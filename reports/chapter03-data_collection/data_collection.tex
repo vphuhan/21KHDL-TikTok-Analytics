@@ -1,0 +1,47 @@
+\section{CHƯƠNG 3: THU THẬP DỮ LIỆU}
+
+Dữ liệu được thu thập theo hai giai đoạn chính nhằm đảm bảo tính đại diện, chất lượng và phục vụ tốt cho quá trình phân tích nội dung video TikTok trong lĩnh vực ẩm thực.
+
+\subsection*{Giai đoạn 1: Lọc theo hashtag và hiệu suất tài khoản}
+
+\begin{enumerate}
+  \item \textbf{Tìm kiếm và lựa chọn hashtag:} Bắt đầu từ việc thu thập thủ công các \textbf{hashtag nổi bật về ẩm thực} trên nền tảng TikTok Việt Nam, ví dụ như \#reviewanngon, \#ancungtiktok, \#diadiemanuong, v.v.. Tiếp theo, sử dụng các hashtag này để \textbf{crawl video theo từng hashtag}, từ đó lấy được tập hợp các video ẩm thực đầu tiên.
+
+  \item \textbf{Thu thập video theo người dùng:} Từ danh sách video thu thập được, xác định \textbf{các tài khoản người dùng có ít nhất 2 video} thuộc các hashtag trên và tiến hành crawl video được đăng trong năm 2024 đến thời điểm thu thập từ các tài khoản này.
+  
+  \item \textbf{Mở rộng tập hashtag và video:} Dựa trên thống kê sử dụng hashtag trong tập dữ liệu trên, \textbf{trích xuất 50 hashtag ẩm thực phổ biến nhất} nhưng không trùng với danh sách ban đầu. Sau đó, thực hiện bước \textbf{crawl video mới} theo các hashtag này để mở rộng tập dữ liệu.
+
+  \item \textbf{Lọc người dùng theo hiệu suất kênh:} Tập video từ các bước trên được hợp nhất, sau đó lọc các tài khoản dựa trên các tiêu chí định lượng:
+    \begin{itemize}
+      \item \textbf{Tổng lượt xem > 100,000} (Q1)
+      \item \textbf{Lượt xem trung bình > 40,000} (Q1)
+      \item \textbf{Tỉ lệ tương tác > 0.03} (Q2), với công thức:
+      \[
+      \text{Tỉ lệ tương tác} = \frac{\text{\#Like + \#Share + \#Comment + \#Collect}}{\text{\#View}}
+      \]
+      \label{sec:engagement}
+    \end{itemize}
+\end{enumerate}
+
+\subsection*{Giai đoạn 2: Lọc theo tính đặc trưng của nội dung}
+
+Các tài khoản được lọc thêm để đảm bảo họ là các \textbf{nhà sáng tạo ở Việt Nam làm về nội dung thuộc chủ đề Ẩm thực} và \textbf{vẫn còn hoạt động trong năm 2025}. Cụ thể các tài khoản đáp ứng các tiêu chí sau sẽ bị \textbf{loại bỏ} khỏi tập dữ liệu:
+\begin{itemize}
+  \item \textbf{Không có video đăng trong năm 2025} – loại trừ các tài khoản không còn hoạt động.
+  \item \textbf{Ít hơn 75\% video liên quan đến ẩm thực} – ưu tiên tài khoản đa dạng nhưng có dấu ấn trong lĩnh vực ẩm thực.
+  \item \textbf{Ít hơn 90\% video bằng tiếng Việt} – đảm bảo tính nội địa nhưng vẫn cho phép độ mở ngôn ngữ.
+\end{itemize}
+
+\subsection*{Công cụ thu thập dữ liệu}
+
+Trong toàn bộ quá trình crawl dữ liệu, nhóm sử dụng thư viện mã nguồn mở \textbf{TikTokApi}, giúp mô phỏng hành vi người dùng trên trình duyệt để truy xuất dữ liệu công khai từ nền tảng TikTok. TikTokApi cho phép thu thập video theo hashtag hoặc user, đồng thời hỗ trợ lấy thông tin chi tiết về từng video và tài khoản người dùng một cách tự động và hiệu quả.
+
+\subsection*{Cách lưu trữ dữ liệu thu thập}
+
+Với \textbf{mỗi tài khoản} người dùng được chọn, hệ thống lưu hai tệp \texttt{.json}:
+\begin{itemize}
+  \item \textbf{Tệp user:} chứa thông tin hồ sơ và thống kê của tài khoản như \texttt{uniqueId}, \texttt{nickname}, \texttt{followerCount}, \texttt{heartCount}, \texttt{videoCount}, v.v..
+  \item \textbf{Tệp video:} chứa danh sách các video của user, định dạng \texttt{list of dictionary}, bao gồm các trường như \texttt{id}, \texttt{desc}, \texttt{stats}, \texttt{video}, \texttt{author}, v.v..
+\end{itemize}
+
+Chi tiết về cấu trúc dữ liệu và các bước xử lý tiếp theo được trình bày tại Chương~\ref{sec:dep_fe}.

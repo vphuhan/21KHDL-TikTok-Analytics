@@ -34,6 +34,7 @@ Danh sách thành viên và bảng phân công công việc
 - ...
 
 
+[v]
 [Hãn]
 Chương 3: Thu thập dữ liệu
 - Nhấn mạnh rằng dùng TikTok-API (unofficial) để thu thập dữ liệu
@@ -48,23 +49,27 @@ Chương 4: Tiền xử lý dữ liệu và rút trích đặc trưng
 - Rút trích món ăn và địa điểm
 
 
+[v]
 [Hãn]
 Chương 5: Công cụ hỗ trợ viết kịch bản cho video TikTok (dashboard + tools)
 - Rút trích ... của Hãn
 - Trình bày webapp
 
 
+[v]
 [Lực]
 Chương 6: Dashboard phân tích user
 - Filter + Loại biểu đồ + Nhận xét + v.v.
 
 
+[v]
 [C.Mỹ]
 Chương 7: Dashboard phân tích video
 - Câu hỏi: Vào thời điểm nào trong tuần/tháng/năm thì video được đăng tải nhiều? Có lượt tương tác nhiều không?
 - Filter + Loại biểu đồ + Nhận xét + v.v.
 
 
+[v]
 [Tín]
 Chương 8: Dashboard phân tích xu hướng
 - Filter + Loại biểu đồ + Nhận xét + v.v.
@@ -83,7 +88,6 @@ Chương 10: Hướng phát triển trong tương lai
 - Dùng airflow để tự động hóa pipeline (ưu điểm: vì chỉ dùng API nên đảm bảo thời gian xử lý nhanh hơn)
 - Tập trung vào các chart để trả lời các câu hỏi người dùng muốn nghe
 - Trình bày nội dung trong slide
-
 ```
 
 ## Tiền xử lý dữ liệu
