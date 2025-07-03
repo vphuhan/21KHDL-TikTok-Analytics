@@ -1,203 +1,110 @@
-- Các cột cần trích xuất:
-  - Audio-to-text
-  - Language detector
-  - Description
+<div align="center">
+   <h1>🎬 Đồ án cuối kỳ: Phân tích dữ liệu TikTok và Xây dựng công cụ hỗ trợ viết kịch bản cho video TikTok</h1>
+   <p><strong>Phân tích dữ liệu TikTok thông minh và hỗ trợ sáng tạo nội dung</strong></p>
+   
+   [![Streamlit App](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=for-the-badge&logo=streamlit)](https://21khdl-tiktok-analytics.streamlit.app/)
+   [![YouTube Demo](https://img.shields.io/badge/YouTube-Demo-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/playlist?list=PL3SfxVDJ_Zc6DvBKVd6xUc-exmt0AyA7x)
+</div>
 
-# 21KHDL-TikTok-Analytics
+## 🎓 Sinh viên thực hiện
 
-- Lịch họp cố định:
-  - 14h T3 hàng tuần
-  - 14h T6 hàng tuần
+<div align="center">
 
-# TODO: 14h T3, 24/04/2025
+| STT |   MSSV   | Họ và tên                                 |
+| :-: | :------: | ----------------------------------------- |
+|  1  | 21127731 | Nguyễn Trọng Tín $^{\clubsuit}$           |
+|  2  | 21127038 | Võ Phú Hãn $^{\clubsuit\heartsuit}$       |
+|  3  | 21127351 | Hồ Đinh Duy Lực $^{\clubsuit}$            |
+|  4  | 21127739 | Vũ Minh Phát $^{\clubsuit\heartsuit}$     |
+|  5  | 21127742 | Nguyễn Minh Hiếu $^{\clubsuit\heartsuit}$ |
+|  6  | 19127216 | Đặng Hoàn Mỹ $^{\clubsuit\diamondsuit}$   |
 
-- Bổ sung công nghệ:
-  - Lưu dữ liệu thành file parquet để giữ nguyên kiểu dữ liệu của cột
+</div>
 
-# TODO: 21h CN, 23/03/2025
+<details>
+   <summary>📋 Thông tin nhóm</summary>
+   
+   ${\clubsuit}$: Nhóm 01 (Data Explorers) - Ứng dụng phân tích dữ liệu thông minh - 21KHDL  
+   ${\heartsuit}$: Nhóm 05 - Khoa học dữ liệu ứng dụng - 21KHDL  
+   ${\diamondsuit}$: Nhóm 09 - Khoa học dữ liệu ứng dụng - 21KHDL
+</details>
 
-- Phát:
-  - Viết file Preprocessing.ipynb để xử lý dữ liệu
-  - Viết web tạo kịch bản
-  - Hỏi thầy xem có nên gộp các web app lại với nhau hay không?
-    - Có: deploy 1 web app duy nhất
-    - Không: 4 web app riêng biệt
-  - Trình bày công nghệ: Xử lý dữ liệu + Deploy web app
-  - Trình bày cấu trúc prompt cho viết kịch bản
-- Hãn:
-  - Rút thêm đặc trưng trong dữ liệu
-  - Phân tích dashboard
-- Tín:
-  - Cấu trúc prompt cho: tên món ăn, giá cả, giờ mở cửa, v.v.
-- Làm slide: Hãn + Phát + Tín
-- 3 dashboards chính:
-  1. Thống kê từ user (Lực)
-  2. Thống kê từ video (Mỹ)  
-     => Trả lời: Tần suất đăng video như thế nào? Thời lượng video tối ưu? Số lượng hashtag tối ưu?
-  3. Insights cho việc viết kịch bản (Hãn)
-- Công nghệ nổi bật trong dự án:
-  - Thu thập dữ liệu: TikTok API (unofficial)
-  - Tiền xử lý dữ liệu: Dùng Gemini (multimodal) API để tách transcript và các cột khác
-  - Dashboard: Plotly + Streamlit + Deploy lên Cloud Community
-    - Dùng AI để phân tích dữ liệu
-  - Web hỗ trợ tạo kịch bản: Prompting
+## 🎥 Demo và Sản phẩm
 
-# TODO: 14h T6, 14/03/2025
+### 📊 Sản phẩm
 
-- Team tiền xử lý dữ liệu: Phát, Hãn, Tín
-- Team phân tích dữ liệu và rút insights: Lực, Mỹ, Tín, Phát
+<div align="center">
+   <a href="https://21khdl-tiktok-analytics.streamlit.app/">
+      <img src="https://img.shields.io/badge/Truy_cập_ứng_dụng-00B2FF?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit App" />
+   </a>
+</div>
 
-  - Dùng thư viện trực quan hóa dữ liệu có thể tương tác được (ví dụ: Plotly, v.v.)
-  - **Phân tích theo video** (trọng tâm): Mỹ
-    - Phân tích tương quan:
-      - số vs số => scatter Plot
-      - số vs phân loại => bar chart, heatmap
-  - Phân tích theo user (sẽ group by userId trong tập dữ liệu video): Lực
+### 🎬 Video Demo
 
-  `*.save_fig() => .png/.jpg => gemini => rút insights`
+<div align="center">
+   <a href="https://www.youtube.com/playlist?list=PL3SfxVDJ_Zc6DvBKVd6xUc-exmt0AyA7x">
+      <img src="https://img.shields.io/badge/Xem_video_hướng_dẫn-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Demo" />
+   </a>
+</div>
 
-- Team làm web app để tạo kịch bản: Hiếu, Hãn
+> Trong playlist sẽ có video hướng dẫn sử dụng bộ ba công cụ mà nhóm đã xây dựng, xoay quanh chủ đề trọng tâm của đồ án lần này là: "Xây dựng công cụ hỗ trợ viết kịch bản cho video TikTok".
 
-# TODO: Đến 15h T3, ngày 11/03/2025
+## 📁 Cách tổ chức thư mục của đồ án
 
-- Lọc dữ liệu từ transcription, lọc lại các cột dữ liệu trong video_info
-- Trình bày thu thập + xử lý dữ liệu + công nghệ bên dưới:
-  - Tên mô hình + Tên tác vụ + Số lượng tham số
+```
+📦 21KHDL-TikTok-Analytics
+ ┣ 📜 README.md              # Tài liệu giới thiệu và hướng dẫn sử dụng dự án
+ ┣ 📜 Team-Plan-and-Work-Distribution.md  # Kế hoạch và phân công công việc
+ ┣ 📜 requirements.txt       # Danh sách các thư viện cần thiết
+ ┣ 📜 packages.txt           # Thông tin về các gói hoặc môi trường
+ ┣ 📂 data                   # Dữ liệu thô, dữ liệu đã xử lý
+ ┣ 📂 development            # Mã nguồn phát triển, tệp thử nghiệm
+ ┣ 📂 docs                   # Tài liệu chi tiết về dự án, API
+ ┣ 📂 models                 # Danh sách các mô hình được sử dụng trong dự án
+ ┣ 📂 notebooks              # Jupyter Notebook phục vụ phân tích
+ ┣ 📂 reports                # Các báo cáo, tài liệu liên quan đến dự án
+ ┣ 📂 slides                 # Các slide thuyết trình, tài liệu trình bày
+ ┗ 📂 src                    # Mã nguồn chính của ứng dụng
+      ┗ 📂 app
+          ┗ 📜 streamlit_app.py # Tệp chính của ứng dụng Streamlit
+```
 
-# TODO: Đến 15h T3, ngày 04/03/2025
+## 📝 Kế hoạch thực hiện đồ án và phân công công việc
 
-- Thu thập dữ liệu: Hãn
-- Trích xuất nội dung thêm từ video:
-  - Phát: Tìm hiểu cách xử lý video mà không cần tải xuống
+Kế hoạch thực hiện đồ án và bảng phân công công việc chi tiết cho mỗi thành viên được trình bày trong file [**`Team-Plan-and-Work-Distribution.md`**](Team-Plan-and-Work-Distribution.md). Trong đó, nhóm đã phân chia công việc theo từng phần cụ thể và chỉ định nhiệm vụ cho từng thành viên.
 
-# TODO: Đến 15h T6, ngày 28/02/2025
+## ⚙️ Hướng dẫn cài đặt và chạy ứng dụng
 
-- Tập trung tìm hiểu về danh sách các TikToker trong lĩnh vực ẩm thực
+<details>
+   <summary>Xem hướng dẫn chi tiết</summary>
+   
+   ### 1️⃣ Di chuyển đến thư mục gốc
+   
+   ```bash
+   cd /đường/dẫn/đến/thư/mục/dự/án
+   ```
+   
+   ### 2️⃣ Cài đặt thư viện cần thiết
+   
+   ```bash
+   pip install -r requirements.txt
+   ```
+   
+   ### 3️⃣ Khởi chạy ứng dụng
+   
+   ```bash
+   streamlit run src/app/streamlit_app.py
+   ```
+   
+   ### 4️⃣ Truy cập ứng dụng
+   Mở trình duyệt web và truy cập địa chỉ: [http://localhost:8501/](http://localhost:8501/)
+   
+   ### 5️⃣ Dừng ứng dụng
+   Nhấn `Ctrl + C` trong terminal để dừng ứng dụng.
+</details>
 
-# TODO: Đến 15h T3, ngày 25/02/2025
+---
 
-1. Phát: Trình bày data pipeline, kết quả thu thập dữ liệu (mẫu), khai thác được gì từ video
-2. Hãn: Trình bày hiện tại có bao nhiêu mẫu dữ liệu rồi (100 noxscore, 1 tháng trở lại) => 1000 mẫu, 100 trường
-3. Tín, Lực, Hiếu: Trình bày phân tích dữ liệu, cleaning trên text, cắt frame để xem hoạt ảnh của video có ảnh hưởng lượt view không
-4. Tiếp tục tìm hiểu về cách trích xuất nội dung từ video
-
-# TODO: Đến 15h T6, ngày 21/02/2025
-
-- Trình bày data pipeline (code chạy được), kết quả thu thập dữ liệu, khai thác được gì từ video
-  - Data pipeline: Phát (Lấy dữ liệu, trích xuất audio, audio2text, flatten JSON)
-  - Thu thập dữ liệu: Hãn
-- Trực quan hóa dữ liệu (trình bày một mẫu dashboard đơn giản), phân tích dữ liệu, và rút ra insights
-  - Dữ liệu mẫu: https://github.com/vphuhan/21KHDL-TikTok-Analytics/blob/vmphat/data/interim/video_info.csv
-  - Dữ liệu chính thức: Phát upload sau
-  - Dùng Plotly + Streamlit
-  - Lực, Tín và Hiếu
-- Tìm thêm TikToker trong các lĩnh vực: Lấy ~20 người TikToker, nên chọn người Việt, nên chọn người nổi tiếng
-  - Công nghệ: Tín
-  - Ẩm thực (Food reviewer): Hiếu
-  - Thể dục thể thảo, gym, đời sống, thời trang, trang điểm, làm đẹp: Hãn
-  - Việc làm, viết CV, hướng dẫn học (ngành giáo dục): Lực
-  - Du lịch, khám phá: Phát  
-    => Lấy: username (ví dụ erikkkofficial, không lấy ký tự @) rồi bỏ vào code để lấy video sau.
-
-# TODO: Đến 15h T3, ngày 18/02/2025
-
-- Tín: Tạo thành file CSV, viết bảng mô tả cho các cột trong 1 file notebook riêng
-- Phát: Tách audio từ video, chuyển audio thành text
-- Lực: tui làm data image caption cho các frame trong folder video
-
-# TODO: Đến 15h CN, ngày 09/02/2025
-
-- Tìm template để làm slide cho bài thuyết trình (Canva)
-  - Yêu cầu: sáng màu
-  - Lực
-- Trình bày 3 đề tài
-  - Hãn
-- Soạn nội dung và làm slide cho phần "Thu thập dữ liệu TikTok" (dùng unofficial API)
-  - Tín
-- Soạn nội dung và làm slide cho phần "Các công nghệ được sử dụng" (Spark, Airflow, ...)
-  - Phát
-- Viết code để convert từ JSON sang CSV, code phải có khả năng duyệt qua tất cả folder con và file JSON bên trong
-  - Lực (Deadline T3)
-- Viết code để trích xuất các thông tin cần thiết từ các video, lưu kết quả vào file CSV, code phải có khả năng duyệt qua tất cả folder con để lấy toàn bộ file .mp4 bên trong
-  - Cả nhóm
-
-# TODO: Buổi họp tiếp theo 15h T5, 06/02/2025
-
-## Thu thập dữ liệu
-
-- [Link](https://ads.tiktok.com/business/creativecenter/inspiration/popular/hashtag/pc/vi)
-- Quy trình:
-  - 1 người làm 2 ngành => 12 ngành (6 người, 1 người - 2 ngành)
-  - 1 ngành lấy 5 hashtag hay nhất => 60 hashtag (mỗi người 10 hashtag)
-  - 1 hashtag lấy 50 video => 3000 video (mỗi người 500 hàng)
-- Danh sách các ngành (max 18):
-  1. Trang phục và phụ kiện
-  2. Làm đẹp và chăm sóc cá nhân
-  3. Giáo dục
-  4. Thực phẩm và đồ uống
-  5. Trò chơi
-  6. Sản phẩm cải tạo nhà
-  7. Sản phẩm gia dụng
-  8. Dịch vụ đời sống
-  9. Tin tức và giải trí
-  10. Du lịch
-  11. Thể thao và hoạt động ngoài trời
-  12. Công nghệ và đồ điện tử
-
-### Phân công
-
-- Hãn: 1 + 2
-- Lực: 3 + 4
-- Hiếu: 5 + 6
-- Mỹ: 7 + 8
-- Tín: 9 + 10
-- Phát: 11 + 12
-
-## Setup môi trường
-
-### Các công cụ cần cài đặt
-
-- Hadoop:
-- Spark:
-- Airflow: https://www.youtube.com/watch?v=K9AnJ9_ZAXE&list=PLwFJcsJ61oujAqYpMp1kdUBcPG0sE0QMT&index=1
-
-# Công cụ được sử dụng cho các bước chính trong quá trình phân tích
-
-- Thu thập dữ liệu:
-  - Python + TikTok API (unofficial)
-- Xử lý dữ liệu:
-  - PySpark
-- Trực quan hóa dữ liệu và rút trích insights (kết hợp LLMs để hỗ trợ):
-  1. Tự code: Plotly + Streamlit (Ưu tiên cao hơn)
-  2. Tools: Tableau, PowerBI,
-- (Optional) Giải quyết 1 bài toán học máy:
-  - Dùng LLMs để hỗ trợ:
-    - Viết mô tả (Description) cho video,
-    - Đề xuất các hashtag phổ biến dựa trên wordcloud
-    - Đề xuất nhạc nền (audio) cho video
-
-# Vai trò của các thành viên trong nhóm
-
-- Thu thập dữ liệu: Hãn, Hiếu, Tín
-- Xử lý dữ liệu: Phát, Hãn, Tín, Lực, Mỹ
-- Trực quan hóa dữ liệu và rút trích insights (kết hợp LLMs để hỗ trợ): Phát, Tín, Lực, Mỹ
-- (Optional) Giải quyết 1 bài toán học máy: Phát, Hãn, Hiếu, Tín
-
-# Meeting 25/01/2025
-
-## Chủ đề phân tích dữ liệu
-
-- Phân tích dữ liệu TikTok
-- Mình là 1 công ty quản lý nhiều TikTok-er
-- End-user:
-  - **Doanh nghiệp**: Giúp doanh nghiệp lựa chọn KOL phù hợp nhất (trong số các TikTok-er mà mình đang quản lý) cho chiến lược quảng cáo của mình
-
-## Câu hỏi cần giải quyết
-
-- Câu hỏi 1: Phân tích video đang trending trên TikTok
-- Câu hỏi 2: Phân tích đặc điểm của các TikTok-er có nhiều followers nhất
-
-## Công nghệ được sử dụng
-
-- Spark xử lý dữ liệu và Lưu local
-  - Đẩy kết quả cuối cùng lên cloud để các thành viên lấy dữ liệu
+<div align="center">
+   <sub>Phát triển bởi nhóm sinh viên HCMUS - Đồ án Ứng dụng phân tích dữ liệu thông minh và Khoa học dữ liệu ứng dụng - 21KHDL</sub>
+</div>

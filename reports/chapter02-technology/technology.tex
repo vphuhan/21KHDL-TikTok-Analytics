@@ -1,0 +1,203 @@
+\section{CHƯƠNG 2: TỔNG QUAN VỀ CÁC CÔNG NGHỆ ĐƯỢC SỬ DỤNG TRONG ĐỒ ÁN} \label{sec:technology}
+
+\subsection{Thu thập dữ liệu từ TikTok}
+
+Trong giai đoạn đầu tiên của đồ án, nhóm sẽ tiến hành thu thập dữ liệu từ nền tảng TikTok. Công cụ chính được sử dụng cho mục đích này là thư viện mã nguồn mở \textbf{TikTok-Api}~\cite{tiktok_api}, một dự án được phát triển và duy trì bởi cộng đồng lập trình viên, có thể truy cập tại đường dẫn chính thức trên GitHub: \url{https://github.com/davidteather/TikTok-Api}.
+
+Cần lưu ý rằng, \textbf{TikTok-Api} không phải là API chính thức do TikTok cung cấp. Thay vào đó, thư viện này được tạo ra nhằm mục đích hỗ trợ các hoạt động học tập và nghiên cứu, cho phép người dùng truy xuất dữ liệu công khai từ TikTok, ví dụ như danh sách video thịnh hành, thông tin người dùng hay các hashtag phổ biến.
+
+Về mặt kỹ thuật, \textbf{TikTok-Api} hoạt động bằng cách gọi các endpoint ẩn của TikTok và trả về dữ liệu dưới định dạng JSON. Ứng dụng thư viện này, nhóm sẽ tự động thu thập các thông tin chi tiết về video (bao gồm tiêu đề, số lượt thích, số lượt chia sẻ và các hashtag liên quan, v.v.), đồng thời lấy dữ liệu của những người dùng có liên quan đến các video đó.
+
+\subsection{Khám phá và tiền xử lý dữ liệu}
+
+\subsubsection{Sử dụng bộ thư viện Python phổ biến}
+
+Sau khi dữ liệu thô từ TikTok được thu thập, giai đoạn tiếp theo là khám phá và tiền xử lý dữ liệu để chuẩn bị cho các bước phân tích sâu hơn. Trong đồ án này, nhóm đã sử dụng một bộ thư viện rất phổ biến trong hệ sinh thái Python cho khoa học dữ liệu, bao gồm \textbf{Pandas}~\cite{pandas}, \textbf{NumPy}~\cite{numpy}, \textbf{Matplotlib}~\cite{matplotlib}, và \textbf{Seaborn}~\cite{seaborn}.
+
+Thư viện chính được sử dụng là \textbf{Pandas}, cung cấp cấu trúc DataFrame để thao tác dữ liệu linh hoạt. Chức năng của Pandas bao gồm đọc file (CSV, JSON, Excel), lọc, gộp, tính toán thống kê và xử lý giá trị thiếu. Trong đồ án, nhóm áp dụng Pandas để: đọc dữ liệu đầu vào (file CSV được tổng hợp từ các file JSON), kiểm tra và xử lý giá trị rỗng/thiếu (sử dụng các hàm \texttt{dropna()}, \texttt{fillna()}, \texttt{drop\_duplicates()}), chuyển đổi kiểu dữ liệu (datetime, không phải số, v.v.) và tóm tắt thông tin ban đầu (như tính mean, median, đếm số dòng theo nhóm). Nhóm cũng dùng Pandas để khám phá dữ liệu ban đầu, ví dụ hiển thị một vài dòng dữ liệu mẫu, biểu đồ phân bố đơn giản bằng hàm \texttt{describe()} để hiểu vùng dữ liệu, phát hiện điểm bất thường (\textit{outlier}) hoặc dữ liệu bị lỗi. Quá trình này giúp dữ liệu sạch hơn và phù hợp cho việc trích xuất đặc trưng sau đó.
+
+Bên cạnh Pandas, nhóm còn sử dụng:
+\begin{itemize}
+    \item \textbf{NumPy:} Cung cấp nền tảng cho các tính toán số học hiệu quả, thường được dùng kết hợp với Pandas.
+    
+    \item \textbf{Matplotlib} và \textbf{Seaborn:} Các thư viện mạnh mẽ để trực quan hóa dữ liệu, giúp nhận diện các mẫu, xu hướng và hiểu rõ hơn về cấu trúc dữ liệu thu thập được. Seaborn được xây dựng trên Matplotlib và cung cấp khả năng tạo biểu đồ thống kê đẹp mắt, phức tạp hơn.
+\end{itemize}
+
+\subsubsection{Sử dụng Jupyter Notebook}
+
+Các hoạt động khám phá và tiền xử lý dữ liệu trong đồ án này chủ yếu được thực hiện trên các file \textbf{Jupyter Notebook}~\cite{jupyter_notebook}. Jupyter Notebook là một môi trường điện toán tương tác mạnh mẽ, cho phép người dùng viết và thực thi code theo từng ô riêng biệt, đồng thời hiển thị kết quả (bao gồm văn bản, bảng biểu và biểu đồ) ngay bên dưới.
+
+Cơ chế hoạt động này của Jupyter Notebook đặc biệt phù hợp cho việc khám phá dữ liệu. Nó cho phép nhóm thực hiện các bước tiền xử lý và phân tích một cách lặp đi lặp lại (\textit{iterative}), xem xét kết quả ngay lập tức sau mỗi thao tác và dễ dàng điều chỉnh nếu cần thiết. Điều này rất quan trọng khi làm việc với các tập dữ liệu mới hoặc phức tạp, hỗ trợ quá trình hiểu rõ dữ liệu một cách liên tục.
+
+Nhờ tính linh hoạt và khả năng tích hợp cao với các thư viện khoa học dữ liệu phổ biến như Pandas, NumPy, Matplotlib, và Seaborn, Jupyter Notebook đã trở thành công cụ tiêu chuẩn trong lĩnh vực này. Ngoài ra, việc kết hợp code, giải thích bằng văn bản và hình ảnh trực quan trong cùng một tài liệu còn giúp ghi lại chi tiết quy trình phân tích, tăng cường khả năng tái hiện và chia sẻ kết quả nghiên cứu của đồ án.
+
+\subsubsection{Lưu trữ dữ liệu đã tiền xử lý dưới định dạng Parquet}
+
+Sau khi dữ liệu TikTok được khám phá và tiền xử lý bằng các thư viện Python, bước tiếp theo là lưu trữ dữ liệu đã làm sạch và chuyển đổi này một cách hiệu quả để sẵn sàng cho các giai đoạn phân tích sau. Để tối ưu hóa hiệu suất và hiệu quả lưu trữ, đồ án đã lựa chọn định dạng \textbf{Parquet}~\cite{parquet} thay vì các định dạng truyền thống như CSV.
+
+Khác biệt cốt lõi mang lại lợi thế cho Parquet là cơ chế lưu trữ dữ liệu theo cột (\textit{column-oriented}), thay vì theo hàng (\textit{row-oriented}) như CSV. Thiết kế này cho phép Parquet nén dữ liệu hiệu quả hơn, đặc biệt khi các giá trị trong cùng một cột có nhiều điểm tương đồng. Đồng thời, nó giúp tăng tốc đáng kể các truy vấn chỉ cần đọc một tập hợp con các cột, giảm thiểu lượng dữ liệu cần đọc từ đĩa (I/O).
+
+Ngoài ra, Parquet còn có khả năng \textbf{giữ nguyên và bao gồm thông tin về kiểu dữ liệu} (\textit{schema}) của mỗi cột. Điều này rất quan trọng để đảm bảo tính chính xác và nhất quán của dữ liệu khi được tải lại và sử dụng trong các bước phân tích tiếp theo.
+
+\begin{table}[H]
+    \centering
+    \caption{So sánh định dạng Parquet và CSV}
+
+    % Increase vertical spacing
+    \renewcommand{\arraystretch}{1.4}
+
+    \begin{tabular}{|p{3.8cm}|p{6cm}|p{6cm}|}
+        \hline
+        \textbf{Tính năng} & \textbf{Parquet} & \textbf{CSV} \\
+        \hline
+        \textbf{Hiệu quả lưu trữ} & Nén dữ liệu theo cột hiệu quả, đặc biệt với dữ liệu trùng lặp & Nén kém hiệu quả, thường dẫn đến kích thước file lớn hơn \\
+        \hline
+        \textbf{Hiệu suất truy vấn} & Truy vấn nhanh hơn khi chỉ cần đọc một số cột cụ thể, giảm I/O & Cần đọc toàn bộ file ngay cả khi chỉ cần một vài cột \\
+        \hline
+        \textbf{Hỗ trợ schema} & Bao gồm thông tin về kiểu dữ liệu và tên cột trong file & Không có schema tích hợp, dễ gây lỗi về kiểu dữ liệu \\
+        \hline
+        \textbf{Hỗ trợ kiểu dữ liệu phức tạp} & Xử lý được các cấu trúc dữ liệu lồng nhau & Chỉ lưu trữ dữ liệu dạng phẳng \\
+        \hline
+        \textbf{Khả năng nén} & Tích hợp nhiều thuật toán nén hiệu quả theo cột & Khả năng nén hạn chế, thường cần nén file riêng biệt \\
+        \hline
+        \textbf{Khả năng đọc/ghi} & Đọc nhanh hơn cho các truy vấn chọn lọc cột, ghi có thể chậm hơn & Đọc/ghi đơn giản, có thể nhanh hơn cho các thao tác trên toàn bộ hàng \\
+        \hline
+        \textbf{Tính phổ biến} & Ngày càng phổ biến trong các hệ thống xử lý dữ liệu lớn & Định dạng phổ biến, dễ dàng được hỗ trợ bởi nhiều công cụ và hệ thống \\
+        \hline
+    \end{tabular}
+    \label{tab:parquet_csv}
+\end{table}
+
+Việc lựa chọn Parquet đặc biệt phù hợp với dữ liệu TikTok, vốn có thể có dung lượng rất lớn. Nhờ khả năng nén và truy vấn hiệu quả theo cột, Parquet giúp \textbf{giảm chi phí lưu trữ} và tăng tốc độ phân tích dữ liệu khổng lồ này so với CSV, mang lại hiệu quả xử lý cao hơn cho đồ án.
+
+\subsection{Trích xuất đặc trưng}
+
+Giai đoạn trích xuất đặc trưng tập trung vào việc rút trích các thông tin và dữ liệu hữu ích từ dữ liệu TikTok đã thu thập và tiền xử lý, làm cơ sở cho các bước phân tích và tạo nội dung sau này.
+
+Trong mục này, nhóm chỉ giới thiệu tổng quan về các công nghệ và công cụ chính được sử dụng để thực hiện các tác vụ trích xuất này. Chi tiết kỹ thuật cụ thể về cách triển khai từng bước xử lý sẽ được trình bày đầy đủ và chi tiết trong các chương tiếp theo của báo cáo.
+
+\subsubsection{Tạo đường dẫn đến video TikTok}
+
+Để dễ dàng tham chiếu đến nội dung gốc, nhóm đã tạo đường dẫn trực tiếp đến mỗi video TikTok bằng cách kết hợp ID duy nhất của video và thông tin người đăng tải.
+
+\subsubsection{Tải xuống audio bằng FFmpeg và YT-DLP}
+
+Một bước quan trọng trong trích xuất đặc trưng là thu thập thông tin âm thanh từ video. Do dung lượng file video gốc rất lớn, nhóm đã chọn phương pháp chỉ tải xuống file audio tương ứng để tiết kiệm đáng kể tài nguyên lưu trữ~\cite{video_to_audio}. Tác vụ này được thực hiện nhờ sự kết hợp của hai công cụ mạnh mẽ: \textbf{YT-DLP}~\cite{ytdlp} và \textbf{FFmpeg}~\cite{ffmpeg}.
+
+\textbf{YT-DLP} là một công cụ dòng lệnh mã nguồn mở phổ biến, được xem là một fork cải tiến của dự án youtube-dl đã ngừng hoạt động. YT-DLP được sử dụng rộng rãi để \textbf{kết nối} và \textbf{tải xuống} video và audio từ nhiều trang web khác nhau (bao gồm cả TikTok và YouTube) với chất lượng tốt nhất.
+
+\textbf{FFmpeg} là một framework đa phương tiện mã nguồn mở rất mạnh mẽ, hỗ trợ xử lý audio sau khi tải về, đảm bảo việc \textbf{trích xuất và chuyển đổi định dạng âm thanh} được thực hiện hiệu quả.
+
+\subsubsection{Sử dụng Gemini API để trích xuất transcript và xác định nội dung}
+
+Sau khi đã tải xuống file audio của video TikTok, bước tiếp theo trong quá trình trích xuất đặc trưng là chuyển đổi nội dung âm thanh này thành văn bản (transcript). Để thực hiện tác vụ chuyển đổi từ audio sang text này, nhóm đã sử dụng \textbf{Gemini API}. Được phát triển bởi Google, Gemini API cung cấp khả năng phân tích audio mạnh mẽ, cho phép tạo ra bản ghi với độ chính xác cao nhờ năng lực \textbf{nhận dạng giọng nói} và \textbf{hiểu ngôn ngữ tự nhiên} tiên tiến.
+
+Sau khi có được transcript từ audio, nhóm kết hợp thông tin này với mô tả gốc của video TikTok. \textbf{Gemini API} tiếp tục được ứng dụng để phân tích nguồn văn bản kết hợp này nhằm xác định các thông tin chi tiết về nội dung, cụ thể là các \textbf{món ăn} và \textbf{địa điểm} được đề cập trong video. \textbf{Khả năng hiểu ngữ cảnh và mối quan hệ giữa các từ} của API giúp nhận diện các thực thể này hiệu quả hơn so với việc chỉ dựa vào phân tích từ khóa đơn thuần.
+
+\subsubsection{Sử dụng Gemini API để phân loại video}
+
+Cuối cùng, \textbf{Gemini API} còn được sử dụng cho một tác vụ trích xuất đặc trưng quan trọng khác: rút trích các đặc trưng liên quan đến thể loại video. API chủ yếu phân tích các yếu tố về nội dung (dưới dạng văn bản) của video để đưa ra phân loại phù hợp.
+
+Thông tin về thể loại video là dữ liệu cấu trúc quan trọng, được sử dụng trực tiếp trong giai đoạn xây dựng kịch bản. Việc phân loại này giúp công cụ có thể đưa ra các gợi ý phù hợp với từng loại nội dung cụ thể, từ đó nâng cao khả năng tạo ra các video hấp dẫn và thu hút người xem.
+
+\subsection{Xây dựng dashboard và webapp}
+
+\subsubsection{Tạo biểu đồ tương tác với Plotly và nhận xét từ Gemini API}
+
+Để trực quan hóa dữ liệu đã được phân tích và trích xuất, nhóm đã sử dụng thư viện \textbf{Plotly}~\cite{plotly}. Plotly là một thư viện Python mạnh mẽ, cho phép tạo ra các \textbf{biểu đồ tương tác} có chất lượng cao. Thư viện này hỗ trợ các loại biểu đồ đa dạng và cung cấp các tính năng tương tác linh hoạt như phóng to, thu nhỏ hay xem thông tin chi tiết khi di chuột, giúp người dùng dễ dàng khám phá dữ liệu.
+
+Không chỉ dừng lại ở việc hiển thị hình ảnh, nhóm còn tích hợp \textbf{Gemini API} để tự động hóa việc cung cấp nhận xét và giải thích cho các biểu đồ do Plotly tạo ra. Bằng cách phân tích các biểu đồ và bảng biểu thống kê (đã được chuyển đổi sang dạng văn bản hoặc chuỗi byte), Gemini API có khả năng tạo ra các đoạn văn bản nhận xét, mô tả các xu hướng, mối quan hệ hoặc các điểm nổi bật trong dữ liệu được trực quan hóa.
+
+Sự kết hợp giữa khả năng trực quan hóa tương tác của Plotly và khả năng tự động phân tích, tạo nhận xét của Gemini API tạo nên một giải pháp mạnh mẽ. Nó không chỉ giúp người dùng xem dữ liệu mà còn nhanh chóng có được những hiểu biết sâu sắc hơn về nội dung được biểu diễn.
+
+\subsubsection{Xây dựng webapp với Streamlit}
+
+Để cung cấp một giao diện người dùng (UI) thân thiện và dễ sử dụng cho các dashboard và công cụ hỗ trợ viết kịch bản, nhóm đã lựa chọn framework \textbf{Streamlit}~\cite{streamlit} để xây dựng webapp. Streamlit là một framework Python mã nguồn mở, cho phép các nhà khoa học dữ liệu và kỹ sư nhanh chóng biến các script Python thành các ứng dụng web tương tác mà không đòi hỏi kinh nghiệm về phát triển front-end như HTML, CSS hay JavaScript.
+
+Ưu điểm nổi bật của Streamlit là sự \textbf{đơn giản} và \textbf{tốc độ triển khai}. Framework này rất dễ học, dễ sử dụng và tương thích tốt với hầu hết các thư viện Python phổ biến trong lĩnh vực khoa học dữ liệu, bao gồm Pandas, NumPy, Matplotlib, Seaborn, và đặc biệt là việc hiển thị các biểu đồ tương tác từ Plotly. Streamlit cung cấp các API trực quan để tạo ra các widget tương tác như nút bấm, thanh trượt, hộp chọn, giúp người dùng dễ dàng tương tác với dữ liệu và các chức năng của ứng dụng.
+
+Nhờ những đặc điểm này, Streamlit là một lựa chọn lý tưởng để nhanh chóng xây dựng giao diện web cho các dashboard và công cụ hỗ trợ viết kịch bản~\cite{dashboard}. Nó cho phép người dùng truy cập, tương tác với kết quả phân tích dữ liệu và sử dụng các chức năng của công cụ một cách dễ dàng thông qua trình duyệt web.
+
+\subsubsection{Triển khai trên Streamlit Community Cloud}
+
+Để người dùng có thể truy cập và sử dụng webapp mà không cần phải cài đặt và chạy ứng dụng trên máy tính cá nhân (local), nhóm đã lựa chọn triển khai sản phẩm hoàn chỉnh trên \textbf{Streamlit Community Cloud}~\cite{deploy_app}.
+
+Streamlit Community Cloud là một nền tảng miễn phí được cung cấp bởi Streamlit, cho phép người dùng triển khai, quản lý, và chia sẻ các ứng dụng Streamlit một cách dễ dàng. Quá trình triển khai thường rất đơn giản, chủ yếu bằng cách \textbf{kết nối tài khoản GitHub} của người dùng với nền tảng Streamlit Cloud và \textbf{chọn repository chứa code của ứng dụng}. Sau khi triển khai, ứng dụng sẽ có một URL duy nhất mà người dùng có thể truy cập thông qua trình duyệt web.
+
+Một ưu điểm nữa là Streamlit Community Cloud có khả năng \textbf{tự động cập nhật ứng dụng} mỗi khi có thay đổi được đẩy lên repository GitHub, giúp việc duy trì và phát triển ứng dụng trở nên thuận tiện hơn.
+
+Việc triển khai trên nền tảng đám mây này giúp dễ dàng chia sẻ và tiếp cận ứng dụng với nhiều người dùng mà không cần lo lắng về các vấn đề liên quan đến cơ sở hạ tầng hoặc cấu hình phức tạp. Người dùng có thể truy cập ứng dụng từ bất kỳ đâu có kết nối internet, chỉ cần một trình duyệt web, mà không cần phải cài đặt bất kỳ phần mềm nào trên thiết bị của mình.
+
+\subsection{Xây dựng ứng dụng Streamlit đa trang (Multipage App)}
+
+Để tạo ra một trải nghiệm người dùng mạch lạc và tiện lợi, nhóm đã tích hợp nhiều trang web (thực chất là các trang khác nhau của webapp Streamlit) thành một website duy nhất có khả năng điều hướng mượt mà giữa các trang. Chức năng này được thực hiện bằng cách sử dụng module \textbf{Page} và \textbf{navigation} được cung cấp trong thư viện \textbf{Streamlit}. Module \textbf{st.navigation} đóng vai trò trung tâm trong việc định nghĩa các trang có sẵn trong ứng dụng multipage. Nó hoạt động như một bộ định tuyến, trả về trang hiện tại mà người dùng đã chọn. Để định nghĩa một trang cụ thể, module \textbf{st.Page} được sử dụng để khởi tạo một đối tượng StreamlitPage. Trang này có thể được tạo từ một file Python riêng biệt hoặc từ một hàm được định nghĩa trong file chính của ứng dụng.
+
+Streamlit cũng cho phép tạo ra các mục (section) trong menu điều hướng bằng cách truyền một dictionary vào hàm \textbf{st.navigation}. Trong dictionary này, mỗi key sẽ là nhãn của section, và value sẽ là một list chứa các đối tượng StreamlitPage thuộc section đó. Việc sử dụng \textbf{st.navigation} và \textbf{st.Page} là phương pháp được khuyến nghị để xây dựng các ứng dụng Streamlit có nhiều trang, giúp tổ chức nội dung một cách logic và cung cấp một hệ thống điều hướng trực quan cho người dùng. Thay vì phải tự mình xây dựng hệ thống điều hướng phức tạp, các module tích hợp sẵn của Streamlit giúp đơn giản hóa quá trình này, cho phép nhà phát triển tập trung vào nội dung và chức năng chính của từng trang trong ứng dụng.
+
+\subsection{Cache dữ liệu để giảm thời gian tải trang}
+
+Để tối ưu hóa hiệu suất của webapp và mang lại trải nghiệm người dùng mượt mà hơn, đặc biệt khi ứng dụng cần xử lý và hiển thị lượng dữ liệu lớn, nhóm đã sử dụng cơ chế cache dữ liệu được cung cấp bởi Streamlit thông qua decorator \textbf{@st.cache\_data}.
+
+Cơ chế này cho phép Streamlit lưu trữ kết quả trả về của các hàm (ví dụ: đọc dữ liệu từ file, kết quả truy vấn dữ liệu, các phép biến đổi phức tạp). Khi một hàm được \textit{đánh dấu} bằng \textbf{@st.cache\_data} được gọi lại với cùng các tham số đầu vào và code, thay vì thực thi lại toàn bộ hàm, Streamlit sẽ nhanh chóng trả về kết quả đã được lưu trữ trong bộ nhớ cache. Điều này giúp tránh lãng phí thời gian và tài nguyên tính toán vào việc thực hiện lại các quy trình xử lý hoặc tải dữ liệu đã có. Streamlit cũng cung cấp các tùy chọn quản lý bộ nhớ cache, chẳng hạn như thiết lập thời gian tồn tại tối đa cho dữ liệu.
+
+Việc sử dụng caching hiệu quả giúp giảm đáng kể thời gian tải trang, đặc biệt là đối với các dữ liệu hoặc kết quả đã được tính toán trước đó, từ đó cải thiện tốc độ phản hồi và nâng cao trải nghiệm cho người dùng. Đây là một kỹ thuật thiết yếu để xây dựng các ứng dụng web hiệu suất cao, nhất là khi làm việc với lượng lớn dữ liệu hoặc các phép tính phức tạp.
+
+\subsection{Quy trình sử dụng Gemini API để tạo nhận xét cho các biểu đồ}
+
+Để tận dụng khả năng của AI trong việc phân tích và diễn giải dữ liệu trực quan, nhóm đã xây dựng một quy trình sử dụng \textbf{Gemini API} để tự động đưa ra nhận xét cho các biểu đồ được tạo bằng thư viện Plotly. Quy trình này bao gồm một số thành phần chính cần được xác định và cung cấp cho API.
+
+\subsubsection{Xác định rõ nhiệm vụ trọng tâm}
+
+Bước đầu tiên và quan trọng nhất là phải xác định rõ ràng \textbf{nhiệm vụ phân tích cụ thể} mà ta muốn Gemini API thực hiện trên biểu đồ và xây dựng thành một đoạn prompt. Ví dụ, prompt có thể là: ``Hãy đưa ra nhận xét ngắn gọn về biểu đồ thể hiện lượt xem trung bình theo ngày''. Đoạn prompt này mô tả rõ ràng mong muốn của người dùng là tạo phần thuyết minh cho biểu đồ đó. Việc xác định rõ nhiệm vụ giúp tập trung quá trình phân tích và đảm bảo rằng các nhận xét được tạo ra sẽ liên quan trực tiếp đến mục tiêu này.
+
+\subsubsection{Cung cấp ``Hướng dẫn chi tiết'' cho AI (Prompt Engineering)}
+
+Sau khi đã xác định được nhiệm vụ, bước tiếp theo là cung cấp cho Gemini API những ``hướng dẫn chi tiết'' về \textbf{nội dung và khía cạnh cụ thể} mà nó cần tập trung phân tích. Điều này thường được thực hiện thông qua việc xây dựng một câu prompt (lời nhắc) chi tiết. Trong prompt này, cần chỉ rõ những gì AI cần \textbf{tìm kiếm trong biểu đồ}, các \textbf{mối quan hệ} hoặc \textbf{xu hướng} nào cần được làm nổi bật, và thậm chí cả \textbf{cấu trúc đầu ra} mong muốn (ví dụ: một đoạn văn ngắn gọn, một danh sách các điểm chính). Việc cung cấp hướng dẫn chi tiết giúp AI hiểu rõ hơn về mục tiêu phân tích và tạo ra các nhận xét súc tích, chính xác và đúng trọng tâm.
+
+\subsubsection{Cung cấp ``Đầu vào'' cho AI}
+
+Thành phần quan trọng nhất để Gemini API có thể tạo ra nhận xét là ``đầu vào''. Đầu vào này bao gồm \textbf{toàn bộ dữ liệu cần thiết} để AI thực hiện phân tích, cũng như bất kỳ \textbf{quy tắc tham khảo} hoặc \textbf{thông tin bổ sung} nào có thể giúp AI có cơ sở đầy đủ và chính xác để đưa ra nhận xét.
+
+Tùy thuộc vào loại dữ liệu đầu vào, cách cung cấp có thể khác nhau. Đối với hình ảnh, chẳng hạn như một biểu đồ được tạo bằng Plotly, nó có thể được chuyển đổi thành một chuỗi byte và cung cấp cho API. Đối với các bảng thống kê, chúng có thể được định dạng thành chuỗi LaTeX hoặc Markdown để dễ dàng truyền tải thông tin cấu trúc. Các giá trị scalar (giá trị đơn) có thể được truyền trực tiếp dưới dạng số hoặc chuỗi.
+
+\subsubsection{Ví dụ minh họa về câu prompt}
+
+Dưới đây là một ví dụ minh họa về cách nhóm đã xây dựng câu prompt để yêu cầu Gemini API tạo nhận xét cho biểu đồ phân tích mối tương quan giữa "Số người theo dõi", "Số lượt thích", và "Số lượng video" của các TikToker.
+
+\vietnameselst
+\begin{lstlisting}[language=Python]
+correlation_analysis_prompt = f"""
+Hãy phân tích mối tương quan giữa 'Số người theo dõi', 'Số lượt thích'
+  và 'Số lượng video' của các TikToker dựa trên dữ liệu được cung cấp.
+  Viết một đoạn phân tích súc tích (khoảng 250-350 từ) tập trung vào:
+    1. Mức độ tương quan (mạnh, trung bình, yếu) giữa các cặp biến
+    2. Hướng tương quan (dương/âm) và ý nghĩa thực tế của nó
+    3. Các điểm bất thường hoặc xu hướng đáng chú ý từ biểu đồ phân tán
+    4. Các hàm ý cho người sáng tạo nội dung TikTok
+
+Dữ liệu phân tích:
+  1. Biểu đồ phân tán thể hiện mối quan hệ giữa ba chỉ số. 
+    Biểu đồ này sẽ được đính kèm dưới dạng byte:
+    {scatter_fig.to_image()}
+
+  2. Bảng ma trận tương quan giữa các chỉ số (hệ số Pearson).
+    Dưới đây là bảng thống kê thể hiện các thông tin này dưới dạng LaTeX:
+    {get_correlation_matrix(select_columns(df, METRICS)).to_latex()}
+
+  3. Thông tin bổ sung: 
+    - Hệ số tương quan từ 0.7-1.0: tương quan mạnh
+    - Hệ số tương quan từ 0.3-0.7: tương quan trung bình
+    - Hệ số tương quan từ 0.0-0.3: tương quan yếu
+
+Cấu trúc phân tích nên bao gồm:
+    - Tổng quan về mức độ tương quan chung giữa các biến
+    - Phân tích chi tiết từng cặp tương quan quan trọng 
+    - Kết luận và gợi ý thực tiễn cho người sáng tạo nội dung
+"""
+\end{lstlisting}
+
+Câu prompt này đã được xây dựng một cách chi tiết, bao gồm các hướng dẫn cụ thể về các \textbf{khía cạnh cần phân tích}, chẳng hạn như mức độ và hướng của mối tương quan giữa các cặp biến, các điểm bất thường hoặc xu hướng đáng chú ý trên biểu đồ, và các hàm ý thực tế cho người sáng tạo nội dung TikTok.
+
+Prompt cũng chỉ rõ \textbf{định dạng của dữ liệu đầu vào}, bao gồm việc biểu đồ phân tán sẽ được cung cấp dưới dạng byte, và bảng ma trận tương quan sẽ được cung cấp dưới dạng LaTeX. Ngoài ra, prompt còn cung cấp thông tin bổ sung về \textbf{cách diễn giải hệ số tương quan} (mạnh, trung bình, yếu) và \textbf{chỉ định cấu trúc mong muốn} cho đoạn phân tích, bao gồm tổng quan, phân tích chi tiết từng cặp tương quan quan trọng, và kết luận cùng các gợi ý thực tiễn.
+
+Việc thiết kế một câu prompt cẩn thận và chi tiết như vậy là rất quan trọng để tận dụng tối đa khả năng của các mô hình ngôn ngữ lớn như Gemini API trong việc phân tích và tạo ra các nhận xét có giá trị từ dữ liệu trực quan.

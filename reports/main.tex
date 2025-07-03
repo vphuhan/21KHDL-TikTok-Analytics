@@ -1,0 +1,143 @@
+\documentclass[a4paper]{article}
+\usepackage[fontsize=12pt]{scrextend} % Set fontsize
+\usepackage{hcmus-report-template}
+\usepackage{longtable}
+\usepackage[pipeTables=true]{markdown}
+\usepackage{booktabs}
+\usepackage{makecell} % Required for multi-line cell
+\usepackage{enumitem}
+\usepackage{graphicx}
+\usepackage{arydshln}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{caption}
+\usepackage{tabularx}
+
+% Define code formatting command
+\newcommand{\codettt}[1]{\texttt{#1}}
+
+\usepackage{bbding}
+\def\halfcheckmark{\tikz\draw[scale=0.4,fill=black](0,.35) -- (.25,0) -- (1,.7) -- (.25,.15) -- cycle (0.75,0.2) -- (0.77,0.2)  -- (0.6,0.7) -- cycle;}
+
+% Trang bìa
+\usepackage{tikz}
+\usetikzlibrary{calc}
+
+% Tài liệu tham khảo
+\usepackage[backend=biber,style=numeric,sortcites,natbib=true,sorting=none]{biblatex}
+\addbibresource{ref/ref.bib}
+
+% Thụt đầu dòng cho các đoạn văn
+\usepackage{indentfirst} % Đoạn đầu tiên
+
+\setlength{\headheight}{31.89355pt}
+% \addtolength{\topmargin}{-2.45444pt}
+\captionsetup[table]{skip=10pt}
+
+% Line spacing 1.5
+\renewcommand{\baselinestretch}{1.5}
+
+% Optional: graphic path
+% \graphicspath{PATH_TO_GRAPHIC_FOLDER}
+
+% To use Times font family, uncomment this row
+% \usepackage{mathptmx}
+
+% To use roman section / subsection, uncomment these rows
+% \renewcommand{\thesection}{\Roman{section}}
+% \renewcommand{\thesubsection}{\thesection.\Roman{subsection}}
+
+% Define course name, report name and report title.
+\newcommand{\coursename}{CSC17107 - Ứng dụng phân tích dữ liệu thông minh}
+\newcommand{\reportname}{Phân tích dữ liệu TikTok và Xây dựng công cụ hỗ trợ viết kịch bản cho video TikTok}
+\newcommand{\reporttitle}{Báo cáo Đồ án Cuối kỳ}
+
+\newcommand{\studentname}{21127731 - Nguyễn Trọng Tín\\21127038 - Võ Phú Hãn\\21127351 - Hồ Đinh Duy Lực\\21127739 - Vũ Minh Phát\\21127742 - Nguyễn Minh Hiếu\\19127216 - Đặng Hoàn Mỹ}
+\newcommand{\teachername}{Nguyễn Tiến Huy\\Nguyễn Trần Duy Minh}
+
+% Header
+\lhead{
+\reporttitle
+}
+\rhead{
+Trường Đại học Khoa học Tự nhiên - ĐHQG HCM\\
+\coursename
+}
+
+% % Footer
+% \newcommand{\leftfooter}{\LaTeX\ by \href{https://github.com/trhgquan}{Quan, Tran Hoang}}
+% \lfoot{\leftfooter}
+
+% Define personal comment section
+\usepackage{soul}
+\definecolor{MyYellow}{HTML}{fbefaf}
+% \newcommand{\personalcomment}[1]{\sethlcolor{MyYellow}\hl{Ta thấy rằng: #1}}
+\newcommand{\personalcomment}[1]{\sethlcolor{MyYellow}\hl{#1}}
+
+\usepackage[most]{tcolorbox}
+\usepackage{subcaption}
+
+
+% ============ DOCUMENT ============
+\begin{document}
+
+\pagenumbering{roman}
+\input{title/title}
+
+\input{title/team_info}
+\pagebreak
+
+
+\tableofcontents
+\pagebreak
+% \listoftables
+% \pagebreak
+% \listoffigures
+% \pagebreak
+
+\pagenumbering{arabic}
+\setcounter{page}{1}
+
+\input{chapter01-intro/intro}
+\pagebreak
+\input{chapter02-technology/technology}
+
+\pagebreak
+\input{chapter03-data_collection/data_collection}
+\pagebreak
+\input{chapter04-dep_fe/dep_fe}
+
+\pagebreak
+\input{chapter05-scriptwriting/scriptwriting}
+\pagebreak
+\input{chapter06-user_analysis/user_analysis}
+\pagebreak
+\input{chapter07-video_analysis/video_analysis}
+\pagebreak
+\input{chapter08-trend_analysis/trend_analysis}
+
+\pagebreak
+\input{chapter09-aux_tool/aux_tool}
+\pagebreak
+\input{chapter10-conclusion/conclusion}
+
+
+% \pagebreak
+% \input{general/section}
+% \input{general/hinhanh}
+% \input{general/bangbieu}
+% \input{general/congthuctoan}
+% \input{general/thuattoan}
+% \input{general/code}
+% \input{general/ngonngu}
+% \input{general/cite}
+
+% References
+\input{ref/ref.tex}
+
+% % Appendix
+% \appendix
+% % Add \cleardoublepage to move appendices to next page.
+% \input{appendix/appendix.tex}
+
+\end{document}

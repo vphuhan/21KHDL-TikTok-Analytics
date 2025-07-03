@@ -9,22 +9,26 @@ st.set_page_config(
 
 # Main page content
 st.title("Webapp hỗ trợ viết kịch bản video TikTok")
-# st.write("Welcome to the Scriptwriting App! Use the sidebar to navigate to different pages.")
 st.write("Chào mừng đến với ứng dụng hỗ trợ viết kịch bản video TikTok! Sử dụng thanh bên để điều hướng đến các trang khác nhau.")
 
 
 research_page = st.Page(
-    "scriptwriting/research.py",
+    "scriptwriting/pages/research.py",
     title="Nghiên cứu chủ đề",
     icon=":material/search:"
 )
+suggestion_page = st.Page(
+    "scriptwriting/pages/suggestion.py",
+    title="Gợi ý cách quay video",
+    icon=":material/lightbulb:"
+)
 scriptwriting_page = st.Page(
-    "scriptwriting/write_scripts.py",
+    "scriptwriting/pages/write_scripts.py",
     title="Viết kịch bản",
     icon=":material/edit_note:"
 )
 insights_page = st.Page(
-    "scriptwriting/insights.py",
+    "scriptwriting/pages/insights.py",
     title="Tối ưu kênh TikTok",
     icon=":material/insights:"
 )
@@ -33,7 +37,8 @@ insights_page = st.Page(
 page_link_title = "**:blue[%s]**"
 
 # Add some content to the main page
-st.header("Các chức năng chính của ứng dụng", divider="gray")
+st.divider()
+st.header("Các chức năng chính của ứng dụng")
 st.write(
     "Ứng dụng này cung cấp các công cụ giúp bạn nghiên cứu và viết kịch bản cho video TikTok một cách dễ dàng và hiệu quả.")
 st.write(
@@ -43,9 +48,12 @@ st.write(
 st.page_link(research_page, icon="1️⃣",
              label=page_link_title % "Nghiên cứu chủ đề",
              )
-st.page_link(scriptwriting_page, icon="2️⃣",
+st.page_link(suggestion_page, icon="2️⃣",
+             label=page_link_title % "Gợi ý cách quay video",
+             )
+st.page_link(scriptwriting_page, icon="3️⃣",
              label=page_link_title % "Viết kịch bản",
              )
-st.page_link(insights_page, icon="3️⃣",
+st.page_link(insights_page, icon="4️⃣",
              label=page_link_title % "Tối ưu kênh TikTok",
              )

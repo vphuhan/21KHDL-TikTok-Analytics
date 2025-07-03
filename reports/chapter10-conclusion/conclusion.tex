@@ -1,0 +1,89 @@
+\section{CHƯƠNG 10: BÀN LUẬN VÀ KẾT LUẬN}
+
+\subsection{Bàn luận}
+
+Đồ án ``\textbf{Phân tích dữ liệu TikTok và Xây dựng công cụ hỗ trợ viết kịch bản dành cho các video TikTok}'' đã được thực hiện với mục tiêu ứng dụng khoa học dữ liệu và trí tuệ nhân tạo để hỗ trợ các nhà sáng tạo nội dung, đặc biệt trong lĩnh vực ẩm thực. Qua quá trình thực hiện, nhóm đã đạt được những kết quả đáng kể và rút ra nhiều bài học kinh nghiệm giá trị.
+
+\subsubsection{Tóm tắt các kết quả đạt được}
+
+\begin{enumerate}
+    \item \textbf{Hoàn thiện Quy trình Khoa học Dữ liệu:} Nhóm đã thực hiện thành công một quy trình khoa học dữ liệu bài bản, bao gồm các giai đoạn: thu thập dữ liệu từ TikTok, tiền xử lý và làm sạch dữ liệu, rút trích các đặc trưng quan trọng (như hashtag, thông tin thời gian, nội dung audio, món ăn, địa điểm), phân tích khám phá dữ liệu thông qua dashboard trực quan, và cuối cùng là xây dựng các công cụ hỗ trợ. Quá trình này không chỉ tạo ra một tập dữ liệu có chất lượng về video ẩm thực trên TikTok mà còn giúp nhóm hiểu sâu hơn về đặc điểm và xu hướng của loại nội dung này.
+    
+    \item \textbf{Xây dựng Công cụ Hỗ trợ Viết Kịch bản:} Công cụ cốt lõi của đồ án đã được phát triển thành công, có khả năng tự động tạo ra gợi ý kịch bản chi tiết cho video ẩm thực dựa trên các đặc trưng dữ liệu đã phân tích và mô tả ý tưởng do người dùng cung cấp. Công cụ này hứa hẹn sẽ là trợ thủ đắc lực, giúp giảm thiểu thời gian và công sức trong giai đoạn lên ý tưởng và xây dựng cấu trúc kịch bản.
+    
+    \item \textbf{Phát triển Công cụ Bổ trợ:} Nhận thấy nhu cầu đa dạng của người dùng, nhóm đã phát triển thêm hai công cụ bổ trợ hữu ích:
+    \begin{itemize}
+        \item \textit{Công cụ Hỗ trợ Nghiên cứu Chủ đề:} Sử dụng sức mạnh của Gemini API, công cụ này giúp người dùng nhanh chóng tìm hiểu và tổng hợp thông tin về các chủ đề mới lạ, cung cấp một cái nhìn tổng quan có cấu trúc.
+
+        \item \textit{Công cụ Gợi ý Cách quay Video Ẩm thực:} Cũng dựa trên Gemini API và các prompt chuyên biệt, công cụ này đưa ra những lời khuyên kỹ thuật và sáng tạo về quay phim cho ba thể loại video ẩm thực phổ biến (review, nấu ăn, mukbang).
+    \end{itemize}
+
+    \item \textbf{Bộ Giải pháp Toàn diện:} Ba công cụ trên kết hợp lại tạo thành một bộ giải pháp tương đối toàn diện, hỗ trợ người dùng từ giai đoạn nghiên cứu, lên ý tưởng, viết kịch bản cho đến chuẩn bị quay phim, giúp họ tự tin hơn trong việc tạo ra các video TikTok chất lượng cao, ngay cả khi chưa có nhiều kinh nghiệm.
+\end{enumerate}
+
+\subsubsection{Các phát hiện chính từ phân tích dữ liệu TikTok}
+
+Quá trình phân tích dữ liệu, chủ yếu thông qua các dashboard trực quan, đã mang lại nhiều \textbf{thông tin hữu ích} về các yếu tố ảnh hưởng đến sự thành công của video ẩm thực trên TikTok. Các phát hiện này (được tổng hợp chi tiết trong file \texttt{insights.md} và trình bày trên trang cuối cùng của sản phẩm) có thể tóm tắt như sau:
+\begin{itemize}
+    \item \textbf{Sức hút của Chủ đề Ẩm thực:} Dữ liệu cho thấy ẩm thực vẫn là một chủ đề "nóng" và có xu hướng tăng trưởng về số lượng video qua các năm, khẳng định tiềm năng lớn cho các nhà sáng tạo nội dung trong lĩnh vực này.
+
+    \item \textbf{Chất lượng quan trọng hơn Số lượng:} Phân tích tương quan giữa tần suất đăng bài và mức độ tương tác cho thấy việc đầu tư vào chất lượng của từng video (nội dung, hình ảnh, âm thanh) thường mang lại hiệu quả tương tác trung bình cao hơn so với việc chỉ tập trung tăng số lượng video.
+    
+    \item \textbf{Tối ưu Hashtag:} Số lượng hashtag tối ưu nên dao động từ 4-7 thẻ cho mỗi video. Việc sử dụng quá nhiều hashtag có thể làm giảm hiệu quả. Hashtag cần phù hợp với nội dung và việc đưa tên tài khoản vào hashtag là một chiến lược phổ biến của các kênh lớn. Người dùng mới hoặc có ít người theo dõi dường như phụ thuộc nhiều hơn vào hashtag để tăng khả năng hiển thị.
+    
+    \item \textbf{Tần suất và Thời điểm vàng:} Duy trì tần suất đăng bài đều đặn (3-4 video/tuần) là cần thiết. Chủ Nhật là ngày đăng tiềm năng do ít cạnh tranh hơn và nhu cầu giải trí cao. Các khung giờ "vàng" (11h-13h và 17h-19h) thường mang lại lượt xem tốt hơn. Thứ 7 có xu hướng là ngày có tương tác thấp nhất.
+    
+    \item \textbf{Thời lượng video:} Các kênh có lượng người theo dõi lớn hơn thường đăng các video có thời lượng dài hơn, có thể phản ánh sự đầu tư nội dung chuyên sâu và khả năng giữ chân khán giả tốt hơn.
+    
+    \item \textbf{Xu hướng theo mùa:} Lượng video tăng đột biến vào dịp Giáng sinh/Tết Dương lịch và giảm mạnh vào tuần Tết Nguyên Đán, sau đó tăng trở lại. Điều này cho thấy sự ảnh hưởng của các kỳ nghỉ lễ và văn hóa đến hành vi sáng tạo nội dung.
+    
+    \item \textbf{Về mặt địa lý:} Hà Nội và TP. Hồ Chí Minh là hai trung tâm sản xuất nội dung ẩm thực lớn nhất. Miền Trung, mặc dù ít được đề cập hơn, nhưng lại cho thấy tiềm năng ở các thị trường ngách tại các thành phố du lịch (Đà Lạt, Nha Trang, Huế, Đà Nẵng), nơi sự cạnh tranh có thể thấp hơn.
+\end{itemize}
+
+\subsubsection{Ý nghĩa và Đóng góp}
+
+\noindent
+Các kết quả đạt được của đồ án mang lại những ý nghĩa và đóng góp thiết thực:
+\begin{itemize}
+    \item \textbf{Đối với nhà sáng tạo nội dung:} Cung cấp một bộ công cụ hữu ích giúp đơn giản hóa và tối ưu hóa quy trình sản xuất video TikTok ẩm thực, từ nghiên cứu, lên ý tưởng, viết kịch bản đến chuẩn bị quay phim. Đồng thời, các insights từ dữ liệu giúp họ hiểu rõ hơn các yếu tố then chốt để cải thiện hiệu suất kênh.
+    
+    \item \textbf{Đối với cộng đồng nghiên cứu:} Đồ án là một ví dụ về việc ứng dụng khoa học dữ liệu và AI vào lĩnh vực sáng tạo nội dung số, một lĩnh vực đang phát triển nhanh chóng. Các phương pháp thu thập, xử lý dữ liệu, rút trích đặc trưng và xây dựng ứng dụng có thể được tham khảo và phát triển thêm.
+    
+    \item \textbf{Đối với nhóm thực hiện:} Quá trình thực hiện đồ án giúp nhóm củng cố kiến thức về khoa học dữ liệu, kỹ thuật phần mềm, làm việc với API, xây dựng ứng dụng web và kỹ năng làm việc nhóm.
+\end{itemize}
+
+\subsection{Kết luận và Hướng phát triển tương lai}
+
+\subsubsection{Kết luận}
+
+Đồ án đã hoàn thành các mục tiêu đề ra: phân tích thành công dữ liệu video TikTok ẩm thực để rút ra các insights giá trị và xây dựng được một bộ ba công cụ hỗ trợ hiệu quả cho các nhà sáng tạo nội dung. Công cụ hỗ trợ viết kịch bản, cùng với hai công cụ bổ trợ về nghiên cứu chủ đề và gợi ý quay phim, tạo thành một hệ sinh thái hỗ trợ toàn diện, giúp người dùng nâng cao chất lượng và hiệu quả sản xuất video trên nền tảng TikTok. Các phát hiện từ dữ liệu cung cấp những định hướng chiến lược quan trọng cho việc phát triển kênh.
+
+\subsubsection{Hướng phát triển tương lai}
+
+Mặc dù đã đạt được những kết quả tích cực, sản phẩm vẫn còn nhiều tiềm năng để cải thiện và mở rộng trong tương lai. Nhóm đề xuất một số hướng phát triển chính như sau:
+\begin{enumerate}
+    \item \textbf{Mở rộng Phạm vi Chủ đề:}
+    \begin{itemize}
+        \item Hiện tại, công cụ cốt lõi và công cụ gợi ý quay phim chủ yếu tập trung vào lĩnh vực ẩm thực. Hướng phát triển quan trọng là \textbf{mở rộng hỗ trợ sang các thể loại video phổ biến khác} trên TikTok như du lịch, thời trang, công nghệ, giáo dục, làm đẹp, v.v..
+
+        \item Điều này đòi hỏi việc thu thập và phân tích dữ liệu đặc thù cho từng lĩnh vực, cũng như điều chỉnh các mô hình và prompt để phù hợp với yêu cầu của từng loại nội dung. Việc mở rộng này sẽ giúp sản phẩm tiếp cận được đối tượng người dùng rộng lớn hơn.
+    \end{itemize}
+
+    \item \textbf{Tự động hóa Quy trình Dữ liệu với Airflow:}
+    \begin{itemize}
+        \item Quy trình thu thập, tiền xử lý và rút trích đặc trưng dữ liệu hiện tại còn thực hiện thủ công hoặc bán tự động qua các script và notebook. Việc \textbf{tích hợp Apache Airflow} hoặc các công cụ điều phối quy trình (workflow orchestration) tương tự sẽ giúp \textbf{tự động hóa hoàn toàn pipeline dữ liệu}.
+
+        \item Airflow cho phép lập lịch, giám sát và quản lý các tác vụ xử lý dữ liệu một cách hiệu quả, đảm bảo dữ liệu luôn được cập nhật, giảm thiểu lỗi thủ công và tiết kiệm đáng kể thời gian, công sức cho nhóm phát triển trong việc duy trì và cập nhật hệ thống.
+    \end{itemize}
+
+    \item \textbf{Tích hợp Đa dạng Mô hình AI:}
+    \begin{itemize}
+        \item Tất cả công cụ trong sản phẩm (kể cả việc tự động tạo nhận xét từ biểu đồ) \textbf{đều dựa vào mô hình AI của Google Gemini API}. Để tăng tính linh hoạt và đa dạng cho người dùng, nhóm có thể \textbf{tích hợp thêm các mô hình AI từ các nhà cung cấp khác} (ví dụ: OpenAI GPT, Claude, Llama, v.v.) hoặc các mô hình mã nguồn mở tiên tiến.
+
+        \item Việc này cho phép người dùng lựa chọn mô hình phù hợp nhất với nhu cầu cụ thể về \textbf{chất lượng}, \textbf{tốc độ}, hoặc \textbf{phong cách} của kết quả đầu ra. Đồng thời, nó cũng giúp giảm sự phụ thuộc vào một nhà cung cấp API duy nhất.
+    \end{itemize}
+\end{enumerate}
+
+Ngoài ra, các cải tiến khác có thể bao gồm việc tối ưu hóa hiệu năng của các công cụ, cải thiện giao diện người dùng dựa trên phản hồi thực tế, và tích hợp thêm các tính năng phân tích nâng cao (ví dụ: phân tích cảm xúc bình luận, dự đoán hiệu suất video).
+
+Tóm lại, đồ án đã đặt nền móng vững chắc cho một hệ thống hỗ trợ sáng tạo nội dung TikTok. Với những hướng phát triển tiềm năng được đề xuất, sản phẩm hoàn toàn có khả năng trở thành một công cụ mạnh mẽ và toàn diện hơn, đóng góp tích cực vào sự phát triển của cộng đồng nhà sáng tạo nội dung tại Việt Nam.
